@@ -31,10 +31,11 @@
           <span class="kbd">T</span>
         </span>
 
-        <button class="btn btn-primary" type="button" @click="toggleUniverse">
-  <span aria-hidden="true">{{ universeIcon }}</span>
-  <span>{{ universeLabel }}</span>
+        <button class="btn btn-primary" type="button" @click="toggleTheme">
+  <span aria-hidden="true">{{ themeIcon }}</span>
+  <span>{{ themeLabel }}</span>
 </button>
+
 
         <a class="btn" href="#projets">
           <span aria-hidden="true">↳</span> Projets
@@ -54,19 +55,29 @@
           + un peu de vie, en mode clair/sombre.
         </h1>
 
-        <p class="subtitle">
-          Pentest, CTF, scripting, sécurité applicative et systèmes.
-          Ici tu trouveras mes projets, mes expériences, et quelques repères personnels.
-        </p>
+        <p class="subtitle" v-if="theme === 'dark'">
+  Pentest, CTF, sécurité applicative, systèmes et hacking.
+</p>
 
-        <div class="tags">
-          <span class="tag">Web Security</span>
-          <span class="tag">CTF / Writeups</span>
-          <span class="tag">Reverse</span>
-          <span class="tag">Linux</span>
-          <span class="tag">Python</span>
-          <span class="tag">OSINT</span>
-        </div>
+<p class="subtitle" v-else>
+  Secourisme, scouts, terrain, organisation et engagements.
+</p>
+
+
+        <div class="tags" v-if="theme === 'dark'">
+  <span class="tag">Web Security</span>
+  <span class="tag">CTF</span>
+  <span class="tag">Linux</span>
+  <span class="tag">Python</span>
+</div>
+
+<div class="tags" v-else>
+  <span class="tag">Secourisme</span>
+  <span class="tag">Scouts</span>
+  <span class="tag">Encadrement</span>
+  <span class="tag">Terrain</span>
+</div>
+
 
         <div class="hero-cta">
           <a class="btn btn-primary" href="#projets">Voir les projets</a>
@@ -74,7 +85,7 @@
           <a class="btn" href="#about">À propos</a>
         </div>
 
-        <div class="terminal" aria-label="Terminal décoratif">
+        <div class="terminal" v-if="theme === 'dark'">
           <div class="terminal-bar">
             <span class="led red"></span>
             <span class="led yellow"></span>
@@ -83,6 +94,13 @@
           </div>
           <pre class="terminal-body"><code>{{ terminalText }}</code></pre>
         </div>
+        <div class="terminal" v-else>
+  <div class="terminal-bar">
+    <span class="terminal-title">engagements@terrain:~</span>
+  </div>
+  <pre class="terminal-body"><code>{{ engagementText }}</code></pre>
+</div>
+        
       </div>
 
       <aside class="card hero-right">
