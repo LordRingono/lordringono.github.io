@@ -1,53 +1,254 @@
-<!DOCTYPE html>
-<html>
-
+<!doctype html>
+<html lang="fr">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Les cookies</title>
-  <link href="bulma.css" rel="stylesheet" type="text/css">
-  <!--<link href="style.css" rel="stylesheet" type="text/css">-->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Portfolio — LordRingono</title>
 
+  <!-- Fonts (optionnel) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;500;700&family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 
-<body style="flex-direction: column;">
-  <script src="cookies.js"></script>
-  <header>
-    <div class="tabs is-centered is-boxed">
-      <ul>
-        <li class="is-active"><a href="index.html">Accueil</a></li>
-        <li><a href="recette_cookie.html">Recette</a></li>
-        <li><a href="jeux.html">Jouer</a></li>
-      </ul>
-    </div>
-  </header>
-  <div style="margin : auto; width : 80%" ;>
+<body>
+  <div id="app" class="wrap" :data-theme="theme">
+    <!-- Topbar -->
+    <header class="topbar">
+      <div class="brand">
+        <span class="dot" aria-hidden="true"></span>
+        <div>
+          <div style="font-weight:700;">Raphaël Monet-Stopp</div>
+          <small>Hacking • Informatique • Projets</small>
+        </div>
+      </div>
 
-    <img id="cookie" src="cookie.gif" alt="Fait par raphi35132" style="display : block; margin : auto;" class="mb-6">
-    <h1 class="title is-1">Vive les <a href="https://fr.wikipedia.org/wiki/Cookie_(cuisine)">cookies</a></h1>
-    <h4> // <img / src="images/warning.png" alt="Image" height="16" width="16"> <i>Ce site est encore en développement
-      </i> <img / src="images/warning.png" alt="Image" height="16" width="16"> // </h4>
-    <h2> Etymologie du mot :"cookie"</h2>
-    <p class="has-text-centered" style="display : block; margin : auto;">
-      Le mot anglais « cookie » vient du néerlandais « koekje » (petit biscuit), introduit aux États-Unis par les colons
-      hollandais de la Nouvelle-Amsterdam. C'est un terme utilisé en Amérique du Nord pour désigner toutes sortes de
-      biscuits secs. Dans les autres pays anglophones on utilise le mot « biscuit ». En français, le mot « cookie »
-      désigne généralement un type bien précis de biscuit rond aux pépites de chocolat appelé en anglais chocolate chip
-      cookie (« petit biscuit aux pépites de chocolat »), ou parfois d'autres biscuits similaires. On trouves également
-      des cokies informatiques qui permettent aux sites de garder vos préférences et vos mots de passe en mémoire</p>
-    <span><a href="https://www.750g.com/cookies-aux-pepites-de-chocolat-r89377.htm"><img src="images/cookie.jpg"
-          alt="cookie" class="ligne" id="cookies"></a>
+      <div class="actions">
+        <span class="pill">
+          <span>Mode</span>
+          <span class="kbd">T</span>
+        </span>
 
-    </span>
-    <p>Les cookies sont, selon moi, les meilleurs biscuits car ils sont bons et sucrés. On peut en trouver dans les
-      boulangeries, les épiceries ...</p>
-    <h2 class="title is-2">Invention du cookie :</h2>
-    <p>Ce petit gateau a été inventé en 1938 par des cuisiniéres américaines à Whitman, au Massachusetts.</p>
-    <p>
-      <FONT color=#ff0000>Fait par raphi35132 avec <a href="https://replit.com/"> repl.it </a> </FONT><BR>
-    </p>
+        <button class="btn" type="button" @click="toggleTheme" aria-label="Changer le thème">
+          <span class="icon" aria-hidden="true">{{ themeIcon }}</span>
+          <span>{{ themeLabel }}</span>
+        </button>
 
+        <a class="btn" href="#projets">
+          <span aria-hidden="true">↳</span> Projets
+        </a>
+
+        <a class="btn" href="#contact">
+          <span aria-hidden="true">✉</span> Contact
+        </a>
+      </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="card hero-left">
+        <h1 class="hero-title">
+          Portfolio <span class="hl">hacking</span> & informatique<br/>
+          + un peu de vie, en mode clair/sombre.
+        </h1>
+
+        <p class="subtitle">
+          Pentest, CTF, scripting, sécurité applicative et systèmes.
+          Ici tu trouveras mes projets, mes expériences, et quelques repères personnels.
+        </p>
+
+        <div class="tags">
+          <span class="tag">Web Security</span>
+          <span class="tag">CTF / Writeups</span>
+          <span class="tag">Reverse</span>
+          <span class="tag">Linux</span>
+          <span class="tag">Python</span>
+          <span class="tag">OSINT</span>
+        </div>
+
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="#projets">Voir les projets</a>
+          <a class="btn" href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
+          <a class="btn" href="#about">À propos</a>
+        </div>
+
+        <div class="terminal" aria-label="Terminal décoratif">
+          <div class="terminal-bar">
+            <span class="led red"></span>
+            <span class="led yellow"></span>
+            <span class="led green"></span>
+            <span class="terminal-title">{{ terminalTitle }}</span>
+          </div>
+          <pre class="terminal-body"><code>{{ terminalText }}</code></pre>
+        </div>
+      </div>
+
+      <aside class="card hero-right">
+        <div class="right-inner">
+          <div class="stat-grid">
+            <div class="stat">
+              <div class="stat-k">Focus</div>
+              <div class="stat-v">Offensif & Défensif</div>
+            </div>
+            <div class="stat">
+              <div class="stat-k">Stack</div>
+              <div class="stat-v">Linux • Web • Scripting</div>
+            </div>
+            <div class="stat">
+              <div class="stat-k">Actuel</div>
+              <div class="stat-v">{{ nowLine }}</div>
+            </div>
+          </div>
+
+          <div class="divider"></div>
+
+          <div class="timeline">
+            <div class="tl-title">Raccourcis</div>
+            <a class="tl-item" href="#projets">
+              <span class="tl-dot"></span>
+              <span>Projets sécurité & outils</span>
+            </a>
+            <a class="tl-item" href="#writeups">
+              <span class="tl-dot"></span>
+              <span>Writeups / notes</span>
+            </a>
+            <a class="tl-item" href="#about">
+              <span class="tl-dot"></span>
+              <span>À propos / “ma vie”</span>
+            </a>
+            <a class="tl-item" href="#contact">
+              <span class="tl-dot"></span>
+              <span>Contact</span>
+            </a>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <!-- Sections -->
+    <section id="projets" class="section">
+      <div class="section-head">
+        <h2>Projets</h2>
+        <p>Une sélection. Remplace les cartes par tes vrais repos / démos.</p>
+      </div>
+
+      <div class="grid">
+        <article class="card item">
+          <div class="item-head">
+            <div class="item-title">Recon Toolkit</div>
+            <div class="chip">OSINT</div>
+          </div>
+          <p class="item-desc">Automatisations de reconnaissance, collecte, normalisation, export.</p>
+          <div class="item-foot">
+            <a class="btn small" href="#" target="_blank" rel="noreferrer">Code</a>
+            <a class="btn small" href="#" target="_blank" rel="noreferrer">Démo</a>
+          </div>
+        </article>
+
+        <article class="card item">
+          <div class="item-head">
+            <div class="item-title">Web Exploit Lab</div>
+            <div class="chip">Web</div>
+          </div>
+          <p class="item-desc">Lab local (Docker) pour rejouer des vulnérabilités courantes.</p>
+          <div class="item-foot">
+            <a class="btn small" href="#" target="_blank" rel="noreferrer">Code</a>
+            <a class="btn small" href="#" target="_blank" rel="noreferrer">Writeup</a>
+          </div>
+        </article>
+
+        <article class="card item">
+          <div class="item-head">
+            <div class="item-title">Reverse Notes</div>
+            <div class="chip">Reverse</div>
+          </div>
+          <p class="item-desc">Notes et scripts (Ghidra, radare2), patterns et checklists.</p>
+          <div class="item-foot">
+            <a class="btn small" href="#" target="_blank" rel="noreferrer">Notes</a>
+            <a class="btn small" href="#" target="_blank" rel="noreferrer">Repo</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="writeups" class="section">
+      <div class="section-head">
+        <h2>Writeups</h2>
+        <p>Format blog minimal, pour publier des résumés de CTF et apprentissages.</p>
+      </div>
+
+      <div class="list">
+        <a class="card list-item" href="#">
+          <div class="li-title">CTF — Web 101 : injections & bypass</div>
+          <div class="li-meta">Jan 2026 • tags: web, sql, auth</div>
+        </a>
+        <a class="card list-item" href="#">
+          <div class="li-title">Reverse — premiers automatismes</div>
+          <div class="li-meta">Jan 2026 • tags: reversing, tools</div>
+        </a>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="section-head">
+        <h2>À propos</h2>
+        <p>Un résumé “humain” + ce qui t’intéresse hors écran.</p>
+      </div>
+
+      <div class="card about">
+        <div class="about-grid">
+          <div>
+            <h3>Qui je suis</h3>
+            <p>
+              Je travaille sur la sécurité offensive/défensive, avec une préférence pour les défis concrets
+              (CTF, audits, labs). J’aime automatiser, documenter, et partager.
+            </p>
+          </div>
+          <div>
+            <h3>Hors informatique</h3>
+            <p>
+              Remplace ce texte par tes centres d’intérêt (sport, musique, lecture, voyages, etc.)
+              pour donner une touche personnelle.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="section-head">
+        <h2>Contact</h2>
+        <p>Liens rapides (email, réseaux). GitHub Pages friendly.</p>
+      </div>
+
+      <div class="grid contact-grid">
+        <a class="card contact item" href="mailto:rmonetstopp@gmail.com">
+          <div class="item-title">Email</div>
+          <p class="item-desc">rmonetstopp@gmail.com</p>
+        </a>
+        <a class="card contact item" href="https://github.com/" target="_blank" rel="noreferrer">
+          <div class="item-title">GitHub</div>
+          <p class="item-desc">Repos, outils, contributions</p>
+        </a>
+        <a class="card contact item" href="#" target="_blank" rel="noreferrer">
+          <div class="item-title">LinkedIn / X / Blog</div>
+          <p class="item-desc">Optionnel</p>
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <span class="muted">© {{ new Date().getFullYear() }} — Portfolio</span>
+        <span class="muted">Vue 3 • GitHub Pages</span>
+      </div>
+    </footer>
   </div>
-</body>
 
+  <!-- Vue 3 (CDN) -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <script src="assets/js/app.js" defer></script>
+</body>
 </html>
