@@ -54,7 +54,11 @@ createApp({
       this.applyTheme(this.theme === "dark" ? "light" : "dark");
     }
   },
-
+  applyTheme(theme) {
+  this.theme = theme;
+  document.documentElement.setAttribute("data-theme", theme); // <html>
+  localStorage.setItem("theme", theme);
+},
   mounted() {
     const saved = localStorage.getItem("theme");
     this.applyTheme(saved === "light" ? "light" : "dark");
