@@ -81,7 +81,7 @@
 
         <div class="hero-cta">
           <a class="btn btn-primary" href="#projets">Voir les projets</a>
-          <a class="btn" href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
+          <a class="btn" href="https://github.com/LordRingono" target="_blank" rel="noreferrer">GitHub</a>
           <a class="btn" href="#about">À propos</a>
         </div>
 
@@ -98,7 +98,7 @@
   <div class="terminal-bar">
     <span class="terminal-title">engagements@terrain:~</span>
   </div>
-  <pre class="terminal-body"><code>{{ engagementText }}</code></pre>
+  <pre class="terminal-body"><code style="color: black;">{{ engagementText }}</code></pre>
 </div>
         
       </div>
@@ -191,7 +191,7 @@
       </div>
     </section>
 
-    <section id="writeups" class="section">
+    <section id="writeups" class="section" v-if="theme === 'dark'">
       <div class="section-head">
         <h2>Writeups</h2>
         <p>Format blog minimal, pour publier des résumés de CTF et apprentissages.</p>

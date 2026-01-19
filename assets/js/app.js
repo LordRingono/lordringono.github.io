@@ -19,11 +19,11 @@ createApp({
     terminalText() {
       return [
         "$ whoami",
-        "raphael",
+        "Raphael",
         "",
         "$ cat skills.txt",
-        "- pentest web",
-        "- scripting",
+        "- web",
+        "- reverse",
         "- linux",
         "- ctf",
         "",
@@ -34,9 +34,8 @@ createApp({
       return [
         "> engagements.log",
         "- secourisme",
-        "- scouts",
-        "- encadrement",
-        "- organisation terrain",
+        "- scoutisme",
+        "- BAFA",
         "",
         "> _"
       ].join("\n");
