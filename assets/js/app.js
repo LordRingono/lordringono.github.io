@@ -3,23 +3,23 @@ const { createApp } = Vue;
 createApp({
   data() {
     return {
-      theme: "dark",
+      universe: "tech", // "tech" | "life"
       terminalTitle: "session@portfolio:~",
     };
   },
   computed: {
-    themeLabel() {
-      return this.theme === "dark" ? "Nuit" : "Jour";
+    universeLabel() {
+      return this.universe === "tech" ? "Vie / Engagements" : "Tech / Hacking";
     },
-    themeIcon() {
-      return this.theme === "dark" ? "☾" : "☀";
+    universeIcon() {
+      return this.universe === "tech" ? "☀" : "☾";
     },
     nowLine() {
       const d = new Date();
       return d.toLocaleString("fr-FR", { dateStyle: "medium", timeStyle: "short" });
     },
     terminalText() {
-      const lines = [
+      return [
         "$ whoami",
         "raphael",
         "",
@@ -29,36 +29,43 @@ createApp({
         "- linux & réseau",
         "- ctf / writeups",
         "",
-        "$ echo \"Bienvenue sur mon portfolio\"",
-        "Bienvenue sur mon portfolio",
-        "",
         "$ _"
-      ];
-      return lines.join("\n");
+      ].join("\n");
+    },
+    lifeText() {
+      return [
+        "> engagement.log",
+        "- secourisme: formation / gestes / checklists",
+        "- scouts: encadrement / camp / logistique",
+        "- terrain: calme, organisation, esprit d'équipe",
+        "",
+        "> _"
+      ].join("\n");
     }
   },
   methods: {
-    applyThemeToHtml(theme) {
-      // on applique sur <html> pour être robuste même si #app change
+    applyUniverse(universe) {
+      this.universe = universe;
+
+      const theme = (universe === "tech") ? "dark" : "light";
       document.documentElement.setAttribute("data-theme", theme);
+
+      localStorage.setItem("universe", universe);
+      localStorage.setItem("theme", theme); // optionnel, si tu veux compat
     },
-    loadTheme() {
-      const saved = localStorage.getItem("theme");
-      if (saved === "dark" || saved === "light") this.theme = saved;
-      this.applyThemeToHtml(this.theme);
-    },
-    toggleTheme() {
-      this.theme = this.theme === "dark" ? "light" : "dark";
-      localStorage.setItem("theme", this.theme);
-      this.applyThemeToHtml(this.theme);
+    toggleUniverse() {
+      this.applyUniverse(this.universe === "tech" ? "life" : "tech");
     },
     handleKeydown(e) {
-      // T = toggle thème
-      if (e.key && e.key.toLowerCase() === "t") this.toggleTheme();
+      // U = switch univers
+      if (e.key && e.key.toLowerCase() === "u") this.toggleUniverse();
     }
   },
   mounted() {
-    this.loadTheme();
+    const saved = localStorage.getItem("universe");
+    if (saved === "tech" || saved === "life") this.applyUniverse(saved);
+    else this.applyUniverse("tech");
+
     window.addEventListener("keydown", this.handleKeydown);
   },
   beforeUnmount() {
