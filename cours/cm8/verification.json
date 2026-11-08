@@ -1,0 +1,198 @@
+{
+ "cours": "CM8",
+ "lecons": 19,
+ "sources": [
+  "documents/corpus/CM8 Mito Lyso Perox/Annales CM8 2019-2025.pdf",
+  "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+  "documents/corpus/CM8 Mito Lyso Perox/CM8 Ronéo 2026 - Actualisee.pdf",
+  "documents/corpus/CM8 Mito Lyso Perox/CM8 Ronéo 2026.pdf",
+  "documents/corpus/CM8 Mito Lyso Perox/autotest CM8.docx",
+  "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx"
+ ],
+ "sourcePrimaire": "documents/corpus/CM8 Mito Lyso Perox/CM8 Ronéo 2026 - Actualisee.pdf",
+ "corriges": [
+  {
+   "id": "doc-4716171576aa",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-4b331b5888d1",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-a06d242ffb91",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-4bb486d31d90",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-a2c834efb3fd",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-cebf61cf5500",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-656c8b960e54",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-9638037cc189",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-c2dcc15e2451",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-abd434bd1417",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-23a341e9b6f4",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "cm8-10",
+   "type": "autotests",
+   "scored": false,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/correction autotest CM8.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-2dc0104a8505",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-6b543930ab3e",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-1792740415ca",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-94452342ffca",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-d4ba73025970",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-0b2c8ca58e9b",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-cf51c73c2604",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-254fbc887836",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-ea95f34d89db",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-c771341eb52d",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM8 Mito Lyso Perox/Annales corrigees CM8 2019-2025.pdf",
+   "page": 8,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 10,
+  "autotests": 11,
+  "connaissances": 60
+ },
+ "questionSansNotation": 1,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

@@ -1,0 +1,62 @@
+{
+ "cours": "CM1",
+ "lecons": 9,
+ "sources": [
+  "documents/corpus/CM1 Généralités sur les cellules - Poncet/20260910_CM1_generalites_DP.pdf",
+  "documents/corpus/CM1 Généralités sur les cellules - Poncet/Colles UE5 Généralités sur la cellule.pdf",
+  "documents/corpus/CM1 Généralités sur les cellules - Poncet/FS Généralités sur les cellules Poncet.pdf",
+  "documents/corpus/CM1 Généralités sur les cellules - Poncet/Roneo CM1 GENERALITES sur les cellules LBH - CG corrigées.pdf",
+  "documents/corpus/CM1 Généralités sur les cellules - Poncet/Roneo CM1 GENERALITES sur les cellules LBH - CG.pdf",
+  "documents/corpus/CM1 Généralités sur les cellules - Poncet/Roneo_CM1_GENERALITES_sur_les_cellules_LBH___CG___26_ACTUALISATION.pdf"
+ ],
+ "sourcePrimaire": "documents/corpus/CM1 Généralités sur les cellules - Poncet/Roneo_CM1_GENERALITES_sur_les_cellules_LBH___CG___26_ACTUALISATION.pdf",
+ "corriges": [
+  {
+   "id": "cm1-p1",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM1 Généralités sur les cellules - Poncet/Colles UE5 Généralités sur la cellule.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "cm1-p2",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM1 Généralités sur les cellules - Poncet/Colles UE5 Généralités sur la cellule.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "cm1-p3",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM1 Généralités sur les cellules - Poncet/Colles UE5 Généralités sur la cellule.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "cm1-p4",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM1 Généralités sur les cellules - Poncet/Colles UE5 Généralités sur la cellule.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "cm1-p5",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM1 Généralités sur les cellules - Poncet/Colles UE5 Généralités sur la cellule.pdf",
+   "page": 6,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 0,
+  "autotests": 5,
+  "connaissances": 60
+ },
+ "questionSansNotation": 0,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

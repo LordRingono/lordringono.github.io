@@ -1,0 +1,194 @@
+{
+ "cours": "CM3",
+ "lecons": 20,
+ "sources": [
+  "documents/corpus/CM3 Cytosquelette - Poncet/ACC Cytosquelette et migration cellulaire (1).pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/FS - Cytosquelette 2026.pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/autotest CM3.docx",
+  "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+  "documents/corpus/CM3 Cytosquelette - Poncet/fiche_cytosquelette_2026.pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/ppt 20251015_ cytosquelette _DP.pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/roneo CM3 LE CYTOSQUELETTE - CG - Actualisation.pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/roneo CM3 LE CYTOSQUELETTE - CG corrigées.pdf",
+  "documents/corpus/CM3 Cytosquelette - Poncet/roneo CM3 LE CYTOSQUELETTE - CG.pdf"
+ ],
+ "sourcePrimaire": "documents/corpus/CM3 Cytosquelette - Poncet/roneo CM3 LE CYTOSQUELETTE - CG - Actualisation.pdf",
+ "corriges": [
+  {
+   "id": "doc-d4968dc1a9ac",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-e36c57cc0d36",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-b6e308188eab",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-f55959a968df",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-eab516f0ed4a",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": true
+  },
+  {
+   "id": "doc-02d0319ca97c",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-780c40999f29",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-46211226c87c",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-a4121fc8a513",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-2127df3b36d8",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/correction autotest CM3.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-cm3-manual-44",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-57163a79cb90",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 2,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-05e524bd176e",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 4,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-c185e8a35247",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-f0f58c0f7b05",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 5,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-857d127cb5b6",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-c78fb7815a9c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 7,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-2c3e48ac816f",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a85b6ebb771d",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-83df4eb1974f",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 10,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-6efa2064c639",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM3 Cytosquelette - Poncet/Correction ACC Cytosquelette et migration cellulaire (1).pdf",
+   "page": 11,
+   "avecFigure": true
+  }
+ ],
+ "banques": {
+  "annales": 11,
+  "autotests": 10,
+  "connaissances": 60
+ },
+ "questionSansNotation": 0,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

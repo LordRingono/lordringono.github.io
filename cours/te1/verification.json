@@ -1,0 +1,437 @@
+{
+ "cours": "TE1",
+ "lecons": 12,
+ "sources": [
+  "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+  "documents/corpus/Histologie - Tissus épithéliaux/Colle orale non corrigée TE1.docx",
+  "documents/corpus/Histologie - Tissus épithéliaux/DIAPO PROF Pass_UE5_2025_TE.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/FS - Cils et Microvillosités 2026.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/FS - Epithéliums Organes 2026.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/FS - Glandes 2026.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/FS - Jonctions 2026.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/FS - Structure des épithéliums 2026.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/Tissu épithélial 1 - CG ACTUALISE.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/Tissu épithélial 1 - CG.pdf",
+  "documents/corpus/Histologie - Tissus épithéliaux/Tissu__pith_lial_1___CG_corrig_es.pdf"
+ ],
+ "sourcePrimaire": "documents/corpus/Histologie - Tissus épithéliaux/Tissu épithélial 1 - CG ACTUALISE.pdf",
+ "corriges": [
+  {
+   "id": "doc-64f96a4fbbcd",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-312e63569212",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-eac8907bcbfe",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-cbdfe92a4cdb",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-90a9795f436f",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-92a10f7237ba",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-5603dfade880",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-4a1b05e0bfb9",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-d1bd0bae95ab",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-db19aeadcdb8",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-1c83724f5bed",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-9be4d5e3127c",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "epi-10",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Colle orale corrigée TE1.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-3",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-4",
+   "type": "annales",
+   "scored": false,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-6",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-7",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-8",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-11",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-12",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-13",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-14",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-epi-15",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-7113e9b2f5b5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-30f7f0f74f51",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-643de0212ec0",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-9615a624ab7e",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-2e071ef71ccf",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-d99da94f2be4",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-29001ed8c256",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-d4ce268f33dc",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-3915e28414b0",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-dc96c1a39690",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-1d2d6968b0df",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-fd44e0b6370f",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-2116cb191c8b",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-5ffcfb7a2ff8",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-432f564d19a4",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 5,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-e395a0d91c05",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-0d9af4dee030",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-7afed913bdc3",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-bfcfaf716ba2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-717ef6e2e4a1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-2cf5b2008a94",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-da1bc47d7a82",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-b71428cc7c0d",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-2d0731013334",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-47d97f183d3a",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-b7bd1bd57ade",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissus épithéliaux/Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 37,
+  "autotests": 13,
+  "connaissances": 59
+ },
+ "questionSansNotation": 1,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

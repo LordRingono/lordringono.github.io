@@ -1,0 +1,124 @@
+{
+ "cours": "CM2",
+ "lecons": 14,
+ "sources": [
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 corrigées.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 non corrigées.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales non corrigées.docx",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Correction 202510_TD1_diff_cellulaire.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/EXERCICE MyoD donné en cours par Mdame PONCET.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/FS - Techniques ACTUALISEE.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/TD technique BIO CELL 2026.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/ppt CM1-2 20251009 cours techniques DP.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/roneo CM2 Techniques en BIO CELL 25 LBH CG non corrigées.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/roneo CM2 Techniques en BIO CELL 26 LBH CG corrigées.pdf",
+  "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/roneo CM2 Techniques en BIO CELL 26 LBH CG non corrigées actualisation - Partie 2.pdf"
+ ],
+ "sourcePrimaire": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/roneo CM2 Techniques en BIO CELL 26 LBH CG corrigées.pdf",
+ "corriges": [
+  {
+   "id": "doc-94ebab3f953b",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-029408bfd2f2",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-ac53fc44443c",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": true
+  },
+  {
+   "id": "doc-a6282196cce8",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-b2883c237943",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-d30fb2898b74",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-82a491202bdf",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Colles orales corrigées.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-965e9bd9f85f",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 corrigées.pdf",
+   "page": 9,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-a88f53f7bb06",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 corrigées.pdf",
+   "page": 10,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-b734e9f02ceb",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 corrigées.pdf",
+   "page": 14,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-c2ade338aa20",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 corrigées.pdf",
+   "page": 14,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-b660f18a3442",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM2 Techniques en biologie cellulaire - Poncet/Annales CM2 corrigées.pdf",
+   "page": 15,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 5,
+  "autotests": 7,
+  "connaissances": 60
+ },
+ "questionSansNotation": 0,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

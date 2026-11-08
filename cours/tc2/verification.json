@@ -1,0 +1,781 @@
+{
+ "cours": "TC2",
+ "lecons": 7,
+ "sources": [
+  "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+  "documents/corpus/Histologie - Tissu conjonctif/FS - Composants du TC.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/FS - Ossification.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/FS - TC non spécialisés.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/FS - TC spécialisés.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/FS 1 2 3.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/Pass_UE5_2026 LBH.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/TC2 2026 - Partie 1 ACTUALISE.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/TC2_2026.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/TD MB et TC1 - 2026.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025.pdf",
+  "documents/corpus/Histologie - Tissu conjonctif/autotest TC2.docx"
+ ],
+ "sourcePrimaire": "documents/corpus/Histologie - Tissu conjonctif/TC2 2026 - Partie 1 ACTUALISE.pdf",
+ "corriges": [
+  {
+   "id": "doc-65029a57ed7f",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-5553183ae143",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-a7a01c1e9d39",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-c06dff423aeb",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-e2f28bc2f185",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-f9a040d6d952",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-8240c3eb3d7a",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-c1b26f460652",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-e48b112f8953",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-2ddeadf1e95d",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-e5a426ae512e",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-acf95f4b0ed5",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/CORRECTION autotest TC2.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-3",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-4",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-6",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-7",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-8",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-9",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-10",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-11",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-13",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-14",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-15",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-16",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-17",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-18",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-19",
+   "type": "annales",
+   "scored": false,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-20",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 10,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-21",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 10,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-22",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-23",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-24",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-25",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-26",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-27",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-28",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-29",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-30",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 14,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-36",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-38",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-conj-47",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 18,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-934a16310d3c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-38fdab405637",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-358150501cd5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-f8f8840d7299",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 2,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-2722bc9b0ada",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-afeb4ab82de7",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-42a958df553a",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-5ed4fa165070",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-95e671f528f1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-9e9ef3570dba",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-41687b51c1d9",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-8b2c2cc31dd0",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-db31c7df2f0c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-39ad9278869e",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a23097c694a7",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-3988ccc65856",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-f219ff6d8af7",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-f9642b91653a",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-0d346c26eb96",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-2d8beb320555",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-5c41117f9644",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-b3067c27d6c6",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 9,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-27b2852df36c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 10,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a515711d9fd9",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 10,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-52e21889cda5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-f987359fe82b",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-ed58087fdddf",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-5de9fcf26959",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-dbcbf604a5e1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-8099c89e8526",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-6780678bc5d5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-75ee73f16492",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 14,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-91240bf6c5c2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 14,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a5bb2bbd8e56",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 15,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-1ee948664cb1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 15,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-1e0bfe222434",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 15,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-65319def0a4a",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-40b7425ed2f5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-6e77afad640b",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-916b903c8caa",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-6cbd38df16ad",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 17,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-233abbc3c8f5",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 17,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-063c2ee73236",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 17,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-8c692e610176",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 17,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-ba6d26c2a0c9",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 18,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a029a41864fe",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 18,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-9020d8a7e2d2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 18,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-bd0e166fda9c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 18,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-03092a79f28c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 19,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-933b70dcfc5c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/Histologie - Tissu conjonctif/annales TISSU CONJONCTIF 2020 2025 CORRECTION.pdf",
+   "page": 19,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 81,
+  "autotests": 12,
+  "connaissances": 60
+ },
+ "questionSansNotation": 1,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

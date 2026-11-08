@@ -1,0 +1,263 @@
+{
+ "cours": "CM6",
+ "lecons": 18,
+ "sources": [
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/20261023_CM_membranes_UE5_LEONCE_VF.pptx",
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/ACC membranes biologiques.pdf",
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/AUTOTEST CM6 LES MEMBRANES.docx",
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/FS - MP 2026 NEW.pdf",
+  "documents/corpus/CM6 Membrane et transporteurs - Leonce/roneo CM6 MP 2026 - Actualisee.pdf"
+ ],
+ "sourcePrimaire": "documents/corpus/CM6 Membrane et transporteurs - Leonce/roneo CM6 MP 2026 - Actualisee.pdf",
+ "corriges": [
+  {
+   "id": "doc-74e352acb9e8",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-92d8a5538703",
+   "type": "autotests",
+   "scored": false,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-5a5e6b2cf18b",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-291f149f1b10",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-aa3972cdb2f0",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-38f7d51a3ee3",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-40a278b85096",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-735a94ab3679",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-b6dfe45f6fe0",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "doc-376a6d70a691",
+   "type": "autotests",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "cm6-1",
+   "type": "autotests",
+   "scored": false,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "cm6-9",
+   "type": "autotests",
+   "scored": false,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/CORRECTION AUTOTEST CM6 LES MEMBRANES.docx",
+   "page": null,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-cm6-1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-cm6-2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-fd0e7454d709",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 2,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-27cb0b3255e4",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 3,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-802f9c9c2ee0",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-bd2cb45898ac",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 5,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-4330c1649d7c",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-abf28ee69683",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-e2feb2f31d34",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 8,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-b7de38a5fe21",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 10,
+   "avecFigure": true
+  },
+  {
+   "id": "pdf-904af5a0364b",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 11,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-f873e46dc5bd",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 12,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-81b0edc8d896",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 13,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a5d24d7f187e",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 14,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-4446f48f4027",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 15,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-c8f475f8a154",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 15,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-15f986a1011d",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 16,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-5c3758177462",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM6 Membrane et transporteurs - Leonce/Correction ACC membranes biologiques.pdf",
+   "page": 19,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 18,
+  "autotests": 9,
+  "connaissances": 60
+ },
+ "questionSansNotation": 2,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}

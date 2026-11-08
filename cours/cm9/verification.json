@@ -1,0 +1,125 @@
+{
+ "cours": "CM9",
+ "lecons": 14,
+ "sources": [
+  "documents/corpus/CM9 Cycle cellulaire/Annales CM9 2023-2025.pdf",
+  "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+  "documents/corpus/CM9 Cycle cellulaire/Roneo CM9 2026.pdf",
+  "documents/corpus/CM9 Cycle cellulaire/TD cycle cellulaire 2026.pdf",
+  "documents/corpus/CM9 Cycle cellulaire/roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf"
+ ],
+ "sourcePrimaire": "documents/corpus/CM9 Cycle cellulaire/roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+ "corriges": [
+  {
+   "id": "cm9-p1",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "cm9-p2",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-cm9-4",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-cm9-6",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "ann-cm9-8",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 7,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-4b5ec93e4a79",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-9defae3914a3",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 1,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-330f0680b512",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 3,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-afc9796a8fca",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 4,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-c89e04e900b6",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 5,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-a9a5679cdd7a",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-edc3d1664aca",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 6,
+   "avecFigure": false
+  },
+  {
+   "id": "pdf-d541842ce5a3",
+   "type": "annales",
+   "scored": true,
+   "source": "documents/corpus/CM9 Cycle cellulaire/Annales corrigées CM9 2025-2025.pdf",
+   "page": 7,
+   "avecFigure": false
+  }
+ ],
+ "banques": {
+  "annales": 13,
+  "autotests": 0,
+  "connaissances": 60
+ },
+ "questionSansNotation": 0,
+ "avis": "Comparaison mécanique des chemins et des clés ; vérification scientifique manuelle exhaustive non garantie."
+}
