@@ -270,6 +270,21 @@ body[data-ue="ue2b"] .option.selected:not(.locked){border-color:#cc9b64;backgrou
 @media(max-width:760px){.mobile-unit-buttons{grid-template-columns:repeat(2,minmax(0,1fr))}}
 /* Preserve nucleotide sequences and multi-line clinical contexts. */
 .qcontext{white-space:pre-wrap;overflow-wrap:anywhere}
+
+/* One discrete, keyboard-accessible profile switch: rest of the visual system unchanged. */
+.filled-mode-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 14px}
+.filled-mode-control{display:inline-flex;align-items:center;gap:12px;position:relative;cursor:pointer;background:#fff;border:1px solid var(--border);border-radius:999px;padding:8px 11px 8px 14px;box-shadow:0 3px 13px rgba(24,54,81,.035);user-select:none}
+.filled-mode-name{font-size:12px;font-weight:750;color:var(--ink);line-height:1.35}
+.filled-mode-control input{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+.filled-mode-control:focus-within{outline:2px solid var(--teal);outline-offset:3px}
+.filled-mode-track{width:35px;height:20px;border-radius:999px;background:#c2cbd7;display:flex;align-items:center;padding:3px;flex-shrink:0;transition:background .16s}
+.filled-mode-thumb{width:14px;height:14px;border-radius:50%;background:white;box-shadow:0 1px 4px rgba(0,0,0,.2);transition:transform .16s}
+.filled-mode-control input:checked + .filled-mode-track{background:var(--teal)}
+.filled-mode-control input:checked + .filled-mode-track .filled-mode-thumb{transform:translateX(15px)}
+.filled-mode-profile{font-size:10.8px;color:var(--muted);font-weight:650}
+.qfoot .ungrade-question{font-size:11px;margin-left:auto;padding:5px 9px;min-height:30px}
+@media(max-width:700px){.filled-mode-row{gap:7px}.filled-mode-name{font-size:11.5px}.filled-mode-control{max-width:100%}.filled-mode-profile{padding-left:9px}}
+@media print{.filled-mode-row,.ungrade-question{display:none!important}}
 </style>
 </head>
 <body>
@@ -318,6 +333,14 @@ body[data-ue="ue2b"] .option.selected:not(.locked){border-color:#cc9b64;backgrou
         <div class="hero-facts"><span class="hero-fact"><strong id="hero-qcount">38</strong> QCM</span><span class="hero-fact"><strong id="hero-topiccount">16</strong> thèmes</span><span class="hero-fact">Barème <strong>10 / 5 / 2 / 0</strong></span><span class="hero-fact">Note <strong>/ 20</strong></span></div>
       </header>
       <div class="series-path" id="series-path" aria-live="polite"></div>
+<div class="filled-mode-row">
+  <label class="filled-mode-control" for="only-filled-toggle" title="Deux profils independants : la correction selective conserve les QCM deja corriges ; le mode classique utilise un autre historique.">
+    <span class="filled-mode-name">Corriger uniquement les QCM renseign&eacute;s</span>
+    <input id="only-filled-toggle" type="checkbox" role="switch" checked aria-label="Activer la correction des QCM remplis uniquement">
+    <span class="filled-mode-track" aria-hidden="true"><span class="filled-mode-thumb"></span></span>
+  </label>
+  <span class="filled-mode-profile" id="filled-mode-profile" aria-live="polite">Profil 1 &middot; progression sauvegard&eacute;e</span>
+</div>
       <div class="help-note" id="intro-help"><strong>Comment ça marche :</strong> cochez les propositions correspondant à chaque question, puis cliquez sur « Corriger les 38 QCM ». Chaque bonne proposition oubliée ou mauvaise proposition sélectionnée compte pour une erreur. Un QCM laissé vide vaut <strong>0 point</strong>. Les réponses et explications sont reprises du corrigé fourni, y compris ses éventuelles ambiguïtés.</div>
       <details class="mobile-nav"><summary>Aller directement à une question</summary><div class="mobile-jump-grid" id="mobile-jump"></div></details>
       <section id="results" class="report hidden" aria-live="polite"></section>
@@ -372,6 +395,9 @@ function renderSelectors(){
  document.querySelectorAll('[data-series-cards]').forEach(el=>el.innerHTML=seriesHTML);
 }
 const ACTIVE_KEY='ssh_pass_selected_exam_v1';
+const MODE_KEY='ssh_pass_only_filled_mode_v1';
+let onlyFilledMode=true;
+try{const v=localStorage.getItem(MODE_KEY);if(v!==null)onlyFilledMode=v==='true';}catch(e){}
 const fallbackSessions={};
 const $=s=>document.querySelector(s);
 const $$=s=>Array.from(document.querySelectorAll(s));
@@ -382,19 +408,45 @@ const uniqueSortedLetters=v=>[...new Set([...String(v??'')].filter(c=>'ABCDEFGHI
 let activeExam='acc';
 try{const saved=localStorage.getItem(ACTIVE_KEY);if(EXAMS[saved])activeExam=saved;}catch(e){}
 let QUESTIONS=[],TOTAL=0,GRADED=0,WEIGHTED_TOTAL=0,STORAGE_KEY='',CATEGORIES=[],CAT_COUNTS={};
-let answers={},submitted=false,category='all',statusFilter='all',searchTerm='';
+let answers={},submitted=false,correctedIds=new Set(),category='all',statusFilter='all',searchTerm='';
+function profileKey(){return (onlyFilledMode?'filled:':'classic:')+activeExam;}
+function isCorrected(q){return onlyFilledMode?correctedIds.has(q.id):submitted;}
+function pendingQuestions(){return QUESTIONS.filter(q=>selected(q).length>0&&!isCorrected(q));}
+function syncProfileSwitch(){
+ const t=$('#only-filled-toggle');if(!t)return;t.checked=onlyFilledMode;
+ $('#filled-mode-profile').textContent=onlyFilledMode?'Profil 1 · progression sauvegardée':'Profil 2 · progression indépendante';
+}
 function loadExam(){
  const exam=EXAMS[activeExam];
  QUESTIONS=exam.questions;TOTAL=QUESTIONS.length;GRADED=QUESTIONS.filter(q=>q.answer).length;WEIGHTED_TOTAL=QUESTIONS.filter(q=>q.answer).reduce((n,q)=>n+(q.weight||1),0);
- STORAGE_KEY=exam.storage;
+ STORAGE_KEY=onlyFilledMode?exam.storage:exam.storage+'_profil_2_v1';
  CATEGORIES=[...new Set(QUESTIONS.map(q=>q.category))];
  CAT_COUNTS=Object.fromEntries(CATEGORIES.map(c=>[c,QUESTIONS.filter(q=>q.category===c).length]));
- answers={};submitted=false;
- try{const obj=fallbackSessions[activeExam]||JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');if(obj&&obj.answers&&typeof obj.answers==='object'){
-   for(const q of QUESTIONS){if(q.tokenMode){const stored=String(obj.answers[q.id]||'').split(',');answers[q.id]=q.options.map(o=>o.id).filter(id=>stored.includes(id)).join(',');}else answers[q.id]=uniqueSortedLetters(obj.answers[q.id]);}submitted=!!obj.submitted;
+ answers={};submitted=false;correctedIds=new Set();
+ try{const obj=fallbackSessions[profileKey()]||JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');if(obj&&obj.answers&&typeof obj.answers==='object'){
+   for(const q of QUESTIONS){if(q.tokenMode){const stored=String(obj.answers[q.id]||'').split(',');answers[q.id]=q.options.map(o=>o.id).filter(id=>stored.includes(id)).join(',');}else answers[q.id]=uniqueSortedLetters(obj.answers[q.id]);}
+   if(onlyFilledMode){
+     // Pre-existing site: previously submitted questions are imported as graded only if answered.
+     const oldIds=Array.isArray(obj.correctedIds)?obj.correctedIds:(obj.submitted?QUESTIONS.filter(q=>selected(q)).map(q=>q.id):[]);
+     const allowed=new Set(QUESTIONS.filter(q=>selected(q)).map(q=>q.id));
+     correctedIds=new Set(oldIds.map(Number).filter(id=>allowed.has(id)));
+     submitted=correctedIds.size>0;
+   }else submitted=!!obj.submitted;
  }}catch(e){}
+ syncProfileSwitch();
 }
-function save(){const snap={answers:{...answers},submitted};fallbackSessions[activeExam]=snap;try{localStorage.setItem(STORAGE_KEY,JSON.stringify(snap));}catch(e){}}
+function save(){
+ const snap={answers:{...answers},submitted:onlyFilledMode?correctedIds.size>0:submitted};
+ if(onlyFilledMode)snap.correctedIds=[...correctedIds];
+ fallbackSessions[profileKey()]=snap;
+ try{localStorage.setItem(STORAGE_KEY,JSON.stringify(snap));}catch(e){}
+}
+function switchProfile(nextMode){
+ if(onlyFilledMode===nextMode)return;
+ save();onlyFilledMode=nextMode;
+ try{localStorage.setItem(MODE_KEY,String(onlyFilledMode));}catch(e){}
+ statusFilter='all';loadExam();renderTabs();render();
+}
 function selected(q){return String(answers[q.id]||'');}
 function assessed(q){
  const chosen=selected(q),unanswered=chosen.length===0;
@@ -409,17 +461,19 @@ function assessed(q){
 function answeredCount(){return QUESTIONS.filter(q=>selected(q).length>0).length;}
 function results(){
  const data=QUESTIONS.map(q=>({q,...assessed(q)}));
- const rated=data.filter(x=>!x.nonGraded),totalPoints=rated.reduce((a,x)=>a+x.points*(x.q.weight||1),0);
- return {data,totalPoints,grade:WEIGHTED_TOTAL?(totalPoints/WEIGHTED_TOTAL*2):0,
+ const rated=data.filter(x=>!x.nonGraded&&(!onlyFilledMode||correctedIds.has(x.q.id)));
+ const ratedWeight=rated.reduce((n,x)=>n+(x.q.weight||1),0);
+ const totalPoints=rated.reduce((a,x)=>a+x.points*(x.q.weight||1),0);
+ return {data,totalPoints,ratedWeight,ratedCount:rated.length,grade:ratedWeight?(totalPoints/ratedWeight*2):0,
  perfect:rated.filter(x=>x.points===10).length,
  partial:rated.filter(x=>x.points>0&&x.points<10).length,
  zero:rated.filter(x=>x.points===0&&!x.unanswered).length,
- unanswered:rated.filter(x=>x.unanswered).length,
- nonGraded:data.filter(x=>x.nonGraded).length,
+ unanswered:onlyFilledMode?QUESTIONS.filter(q=>!selected(q)).length:rated.filter(x=>x.unanswered).length,
+ nonGraded:data.filter(x=>x.nonGraded&&(!onlyFilledMode||correctedIds.has(x.q.id))).length,
  mistakes:rated.reduce((a,x)=>a+(x.unanswered?0:x.errors),0)};
 }
 function themeReport(cat){
- const all=QUESTIONS.filter(q=>q.category===cat),rated=all.filter(q=>q.answer);
+ const all=QUESTIONS.filter(q=>q.category===cat),rated=all.filter(q=>q.answer&&(!onlyFilledMode||correctedIds.has(q.id)));
  if(!rated.length)return {cat,items:all.length,grade:null};
  const pts=rated.reduce((a,q)=>a+assessed(q).points*(q.weight||1),0);
  return {cat,items:all.length,grade:pts/rated.reduce((a,q)=>a+(q.weight||1),0)*2};
@@ -436,7 +490,9 @@ function renderTabs(){
  $('#hero-qcount').textContent=TOTAL;
  $('#hero-topiccount').textContent=CATEGORIES.length;
  $('#topline-meta').textContent=exam.description;
- $('#intro-help').innerHTML=`<strong>Comment ça marche :</strong> cochez les propositions exactes pour chaque question, puis cliquez sur « Corriger les ${TOTAL} QCM ». Une bonne proposition oubliée ou une fausse proposition cochée compte comme une erreur. Un QCM laissé vide vaut <strong>0 point</strong>. Barème PASS : 0/1/2/3+ erreur(s) = 10/5/2/0 points. La note est calculée sur <strong>20</strong>.<br>Les réponses du corrigé fourni sont conservées, même lorsqu’un item est signalé comme litigieux.${WEIGHTED_TOTAL!==GRADED?`<br>Les QCM annoncés à pondération double ou triple dans les sujets sont comptés avec leur coefficient.`:``}${GRADED<TOTAL?`<br><strong>Attention :</strong> ${TOTAL-GRADED} QCM ne disposent pas d’une correction suffisamment fiable : ces questions restent visibles mais sont exclues du calcul de la note (barème sur ${GRADED} QCM).`:''}`;
+ $('#intro-help').innerHTML=`<strong>Comment ça marche :</strong> cochez les propositions exactes pour chaque question, puis cliquez sur « Corriger les ${TOTAL} QCM ». Une bonne proposition oubliée ou une fausse proposition cochée compte comme une erreur. ${onlyFilledMode?'Un QCM laissé vide reste non corrigé et ne compte pas dans la note.':'Un QCM laissé vide vaut <strong>0 point</strong>.'} Barème PASS : 0/1/2/3+ erreur(s) = 10/5/2/0 points. La note est calculée sur <strong>20</strong>.<br>Les réponses du corrigé fourni sont conservées, même lorsqu’un item est signalé comme litigieux.${WEIGHTED_TOTAL!==GRADED?`<br>Les QCM annoncés à pondération double ou triple dans les sujets sont comptés avec leur coefficient.`:``}${GRADED<TOTAL?`<br><strong>Attention :</strong> ${TOTAL-GRADED} QCM ne disposent pas d’une correction suffisamment fiable : ces questions restent visibles mais sont exclues du calcul de la note (barème sur ${GRADED} QCM).`:''}`;
+ if(onlyFilledMode)$('#intro-help').innerHTML+='<br><strong>Correction sélective :</strong> seuls les QCM renseignés sont corrigés et comptent dans la note. Les QCM vides restent accessibles sans révéler leurs réponses.';
+ syncProfileSwitch();
  $('#category-filter').innerHTML=`<option value="all">Tous les thèmes (${TOTAL} QCM)</option>`+CATEGORIES.map(c=>`<option value="${esc(c)}">${esc(c)} (${CAT_COUNTS[c]})</option>`).join('');
  document.title=`${exam.label} · PASS Lyon-Sud · QCM interactifs`;
 }
@@ -456,7 +512,7 @@ function jumpTo(qid){
 function renderJump(){
  for(const element of [$('#side-jump'),$('#mobile-jump')]){
   element.innerHTML=QUESTIONS.map(q=>{
-   let cls='';if(submitted){const v=assessed(q);cls=v.nonGraded?'ungraded':v.unanswered?'empty':v.points===10?'perfect':v.points===0?'zero':'partial';}else cls=selected(q)?'answered':'';
+   let cls='';if(isCorrected(q)){const v=assessed(q);cls=v.nonGraded?'ungraded':v.unanswered?'empty':v.points===10?'perfect':v.points===0?'zero':'partial';}else cls=selected(q)?'answered':'';
    return `<button type="button" class="jump-button ${cls}" data-jump="${q.id}" title="Question ${q.id}${q.answer?'':' (non notée)'}" aria-label="Aller à la question ${q.id}">${q.id}</button>`;
   }).join('');
  }
@@ -478,6 +534,12 @@ function updateStatusButtons(){
 }
 function renderToolbar(){
  const bar=$('#toolbar-content');
+ if(onlyFilledMode){
+  const pending=pendingQuestions().length,done=correctedIds.size,s=results();
+  bar.innerHTML=`<div class="toolbar-info"><strong>${done?s.ratedCount?`Note des ${s.ratedCount} QCM corrigés : ${fmt(s.grade)} / 20`:`${done} QCM corrigés · hors note`:`${pending} QCM renseigné${pending>1?'s':''}`}</strong><small>Profil 1 · ${done} corrigé${done>1?'s':''} · ${pending} à corriger · sauvegarde automatique</small></div><div style="display:flex;gap:7px;flex-wrap:wrap">${pending?`<button class="primary-btn" id="submit-all" type="button">Corriger ${pending} QCM renseigné${pending>1?'s':''}</button>`:''}${done?`<button class="secondary-dark" id="back-to-results" type="button">Voir mon bilan</button>`:''}</div>`;
+  return;
+ }
+
  if(!submitted){const n=answeredCount();
   bar.innerHTML=`<div class="toolbar-info"><strong>${n} / ${TOTAL} QCM renseignés</strong><small>Correction globale · progression propre à cette série</small></div><button class="primary-btn" id="submit-all" type="button">Corriger les ${TOTAL} QCM</button>`;
  }else{
@@ -485,7 +547,7 @@ function renderToolbar(){
  }
 }
 function renderQuestionCard(q){
- const v=assessed(q),done=submitted,issue=!!q.warning,ungraded=v.nonGraded;
+ const v=assessed(q),done=isCorrected(q),issue=!!q.warning,ungraded=v.nonGraded;
  const opt=q.options.map(o=>{
   const checked=q.tokenMode?v.chosen.split(',').includes(o.id):v.chosen.includes(o.id),truth=!ungraded&&(q.tokenMode?q.answer.split(',').includes(o.id):q.answer.includes(o.id));
   let rowClass=checked?'selected':'',status='';
@@ -504,12 +566,13 @@ function renderQuestionCard(q){
   if(ungraded){details=`<details class="correction" open><summary>Correction indisponible · hors note</summary><div class="correction-body"><p class="answerline">Vos réponses : ${esc(v.chosen||'aucune')}. Clé ou extraction insuffisante pour noter cet énoncé de manière fiable.</p>${issue?`<div class="issue"><strong>Correction à vérifier</strong>${esc(q.warning)}</div>`:''}</div></details>`;}
   else{details=`<details class="correction" ${v.points!==10||issue?'open':''}><summary>Correction du tutorat · ${esc(q.answer)}</summary><div class="correction-body"><p class="answerline">Réponses attendues : ${esc(q.answer)} · Vos réponses : ${esc(v.chosen||'aucune')}</p>${q.options.map(o=>`<div class="explain-item"><span class="explain-mark ${(q.tokenMode?q.answer.split(',').includes(o.id):q.answer.includes(o.id))?'true':'false'}">${o.id} · ${(q.tokenMode?q.answer.split(',').includes(o.id):q.answer.includes(o.id))?'VRAI':'FAUX'}</span><span class="explain-text">${esc(q.explanations?.[o.id]|| (q.generalExplanation?'Voir l’explication générale ci-dessous.':'Pas de justification détaillée dans le corrigé fourni.'))}</span></div>`).join('')}${q.correctionImage?`<img class="correction-image" loading="lazy" src="${esc(q.correctionImage)}" alt="Reproduction du corrigé illustré">`:''}${q.generalExplanation?`<div class="help-note" style="margin-top:14px">${esc(q.generalExplanation)}</div>`:''}${issue?`<div class="issue"><strong>Réserve sur le corrigé</strong>${esc(q.warning)}</div>`:''}</div></details>`;}
  }
- return `<article class="qcard ${done&&issue?'flagged':''} ${ungraded?'ungraded':''}" id="q${q.id}" aria-labelledby="question-label-${q.id}"><div class="qcard-head"><div class="qhead-left"><span class="qnumber">QCM ${String(q.id).padStart(2,'0')}</span><span class="qtopic">${esc(q.category)}</span>${ungraded?'<span class="issue-sign">Hors note</span>':done&&issue?'<span class="issue-sign" title="Réserve signalée sur la correction">À vérifier</span>':''}</div></div>${q.course?`<div class="qcourse">${esc(q.course)}</div>`:''}${q.context?`<div class="qcontext">${esc(q.context)}</div>`:''}<h3 class="qprompt" id="question-label-${q.id}">${esc(q.question)}</h3><div class="qsource"><span class="qsource-icon" aria-hidden="true">▤</span><span>${esc(q.sourceSubject||'Sujet fourni')}${q.sourceStartPage&&q.subjectPage&&q.sourceStartPage!==q.subjectPage?` · pp. ${q.sourceStartPage}–${q.subjectPage}`:q.sourceEndPage&&q.subjectPage&&q.sourceEndPage!==q.subjectPage?` · pp. ${q.subjectPage}–${q.sourceEndPage}`:q.subjectPage?` · p. ${q.subjectPage}`:''}${q.approximateDocxPage?' <span class="source-approx" title="Pagination indicative : conversion du document Word">*</span>':''}</span></div>${q.images?.length?`<div class="q-image-panel">${q.images.map((src,i)=>`<figure class="figure-holder"><a target="_blank" rel="noopener noreferrer" href="${esc(src)}" aria-label="Ouvrir la figure ${i+1} en taille originale"><img loading="lazy" decoding="async" src="${esc(src)}" alt="Figure du sujet non corrigé — question ${q.id} (${i+1})"></a><figcaption class="figure-caption">Figure ${i+1} · Cliquer pour agrandir</figcaption></figure>`).join('')}</div>`:''}${q.originalImages?.length?`<details class="source-excerpt"><summary>Voir l’extrait original du sujet non corrigé</summary><div class="source-excerpt-images">${q.originalImages.map(src=>`<img loading="lazy" src="${esc(src)}" alt="Extrait original non corrigé du document source">`).join('')}</div></details>`:''}<div class="opt-list">${opt}</div><div class="qfoot">${qfoot}</div>${details}</article>`;
+ return `<article class="qcard ${done&&issue?'flagged':''} ${ungraded?'ungraded':''}" id="q${q.id}" aria-labelledby="question-label-${q.id}"><div class="qcard-head"><div class="qhead-left"><span class="qnumber">QCM ${String(q.id).padStart(2,'0')}</span><span class="qtopic">${esc(q.category)}</span>${ungraded?'<span class="issue-sign">Hors note</span>':done&&issue?'<span class="issue-sign" title="Réserve signalée sur la correction">À vérifier</span>':''}</div></div>${q.course?`<div class="qcourse">${esc(q.course)}</div>`:''}${q.context?`<div class="qcontext">${esc(q.context)}</div>`:''}<h3 class="qprompt" id="question-label-${q.id}">${esc(q.question)}</h3><div class="qsource"><span class="qsource-icon" aria-hidden="true">▤</span><span>${esc(q.sourceSubject||'Sujet fourni')}${q.sourceStartPage&&q.subjectPage&&q.sourceStartPage!==q.subjectPage?` · pp. ${q.sourceStartPage}–${q.subjectPage}`:q.sourceEndPage&&q.subjectPage&&q.sourceEndPage!==q.subjectPage?` · pp. ${q.subjectPage}–${q.sourceEndPage}`:q.subjectPage?` · p. ${q.subjectPage}`:''}${q.approximateDocxPage?' <span class="source-approx" title="Pagination indicative : conversion du document Word">*</span>':''}</span></div>${q.images?.length?`<div class="q-image-panel">${q.images.map((src,i)=>`<figure class="figure-holder"><a target="_blank" rel="noopener noreferrer" href="${esc(src)}" aria-label="Ouvrir la figure ${i+1} en taille originale"><img loading="lazy" decoding="async" src="${esc(src)}" alt="Figure du sujet non corrigé — question ${q.id} (${i+1})"></a><figcaption class="figure-caption">Figure ${i+1} · Cliquer pour agrandir</figcaption></figure>`).join('')}</div>`:''}${q.originalImages?.length?`<details class="source-excerpt"><summary>Voir l’extrait original du sujet non corrigé</summary><div class="source-excerpt-images">${q.originalImages.map(src=>`<img loading="lazy" src="${esc(src)}" alt="Extrait original non corrigé du document source">`).join('')}</div></details>`:''}<div class="opt-list">${opt}</div><div class="qfoot">${qfoot}${onlyFilledMode&&done?`<button class="small-btn ungrade-question" data-ungrade-q="${q.id}" type="button">Modifier ce QCM</button>`:``}</div>${details}</article>`;
 }
 function renderQuestions(){
  const matching=QUESTIONS.filter(q=>{
   if(category!=='all'&&q.category!==category)return false;
   if(submitted){let a=assessed(q);
+   if((statusFilter==='errors'||statusFilter==='perfect')&&!isCorrected(q))return false;
    if(statusFilter==='errors'&&(a.nonGraded||a.points===10||a.unanswered))return false;
    if(statusFilter==='perfect'&&(a.nonGraded||a.points!==10))return false;
    if(statusFilter==='unanswered'&&!a.unanswered)return false;
@@ -527,28 +590,38 @@ function renderReport(){
  const el=$('#results');if(!submitted){el.classList.add('hidden');el.innerHTML='';return;}
  el.classList.remove('hidden');const s=results();
  const rows=CATEGORIES.map(themeReport).sort((a,b)=>a.grade===null?1:b.grade===null?-1:a.grade-b.grade);
- el.innerHTML=`<div class="section-eyebrow">Votre bilan PASS · ${esc(EXAMS[activeExam].label)}</div><div class="report-grid"><div class="score-block"><div class="score-kicker">Votre note finale</div><div class="score-value">${fmt(s.grade)} <span>/ 20</span></div><div class="score-sub">${s.totalPoints} / ${WEIGHTED_TOTAL*10} points · ${GRADED} QCM notés${WEIGHTED_TOTAL!==GRADED?` · pondérations ×2/×3 appliquées`:``}${GRADED!==TOTAL?` · ${TOTAL-GRADED} hors note`:''}</div></div><div class="report-info"><div><div class="report-number">${s.perfect}</div><div class="report-label">QCM sans erreur</div></div><div><div class="report-number">${s.partial}</div><div class="report-label">QCM partiellement réussis</div></div><div><div class="report-number">${s.zero}</div><div class="report-label">QCM à 0 point (répondus)</div></div><div><div class="report-number">${s.unanswered}</div><div class="report-label">QCM notés non répondus</div></div></div></div>${s.nonGraded?`<div class="help-note"><strong>${s.nonGraded} QCM exclu(s) du calcul :</strong> leur correction est absente, contradictoire ou inexploitable. Leur absence de notation ne modifie pas le calcul des autres questions.</div>`:''}<div class="report-actions"><button class="small-btn" type="button" id="export-report">Exporter mes résultats (.json)</button><button class="small-btn" type="button" id="print-report">Imprimer mon bilan</button><button class="small-btn" type="button" id="reset">Recommencer à zéro</button></div><div class="topics-report"><h3>Réussite par thème · du plus fragile au plus maîtrisé</h3>${rows.map(t=>`<div class="topic-row"><div class="topic-name">${esc(t.cat)} <small>(${t.items} QCM)</small></div><div class="topic-track" role="progressbar" aria-label="${esc(t.cat)}" aria-valuenow="${t.grade===null?0:t.grade}" aria-valuemin="0" aria-valuemax="20"><span class="${t.grade!==null&&t.grade<10?'low':''}" style="width:${t.grade===null?0:t.grade/20*100}%"></span></div><div class="topic-score">${t.grade===null?'Hors note':fmt(t.grade,1)+' / 20'}</div></div>`).join('')}</div>`;
+ el.innerHTML=`<div class="section-eyebrow">Votre bilan PASS · ${esc(EXAMS[activeExam].label)}${onlyFilledMode?' · QCM corrigés uniquement':''}</div><div class="report-grid"><div class="score-block"><div class="score-kicker">Votre note finale</div><div class="score-value">${s.ratedCount?fmt(s.grade):'—'} <span>/ 20</span></div><div class="score-sub">${s.totalPoints} / ${(onlyFilledMode?s.ratedWeight:WEIGHTED_TOTAL)*10} points · ${onlyFilledMode?s.ratedCount:GRADED} QCM notés${WEIGHTED_TOTAL!==GRADED?` · pondérations ×2/×3 appliquées`:``}${GRADED!==TOTAL?` · ${TOTAL-GRADED} hors note`:''}</div></div><div class="report-info"><div><div class="report-number">${s.perfect}</div><div class="report-label">QCM sans erreur</div></div><div><div class="report-number">${s.partial}</div><div class="report-label">QCM partiellement réussis</div></div><div><div class="report-number">${s.zero}</div><div class="report-label">QCM à 0 point (répondus)</div></div><div><div class="report-number">${s.unanswered}</div><div class="report-label">${onlyFilledMode?'QCM non renseignés':'QCM notés non répondus'}</div></div></div></div>${s.nonGraded?`<div class="help-note"><strong>${s.nonGraded} QCM exclu(s) du calcul :</strong> leur correction est absente, contradictoire ou inexploitable. Leur absence de notation ne modifie pas le calcul des autres questions.</div>`:''}<div class="report-actions"><button class="small-btn" type="button" id="export-report">Exporter mes résultats (.json)</button><button class="small-btn" type="button" id="print-report">Imprimer mon bilan</button><button class="small-btn" type="button" id="reset">Recommencer à zéro</button></div><div class="topics-report"><h3>Réussite par thème · du plus fragile au plus maîtrisé</h3>${rows.map(t=>`<div class="topic-row"><div class="topic-name">${esc(t.cat)} <small>(${t.items} QCM)</small></div><div class="topic-track" role="progressbar" aria-label="${esc(t.cat)}" aria-valuenow="${t.grade===null?0:t.grade}" aria-valuemin="0" aria-valuemax="20"><span class="${t.grade!==null&&t.grade<10?'low':''}" style="width:${t.grade===null?0:t.grade/20*100}%"></span></div><div class="topic-score">${t.grade===null?(onlyFilledMode?'Non évalué':'Hors note'):fmt(t.grade,1)+' / 20'}</div></div>`).join('')}</div>`;
 }
 function render(){renderReport();renderQuestions();renderJump();renderCategoryButtons();updateStatusButtons();renderToolbar();updateCounters();}
-function gradeAll(){if(submitted)return;submitted=true;statusFilter='all';save();render();$('#results').scrollIntoView({behavior:'smooth',block:'start'});}
-function modify(){submitted=false;statusFilter='all';save();render();window.scrollTo({top:0,behavior:'smooth'});}
-function reset(){if(!window.confirm(`Effacer vos réponses et votre note pour « ${EXAMS[activeExam].label} » uniquement ?`))return;answers={};submitted=false;category='all';statusFilter='all';searchTerm='';$('#search').value='';$('#category-filter').value='all';save();render();window.scrollTo({top:0,behavior:'smooth'});}
+function gradeAll(){
+ if(onlyFilledMode){
+  const pending=pendingQuestions();if(!pending.length)return;
+  for(const q of pending)correctedIds.add(q.id);
+  submitted=correctedIds.size>0;statusFilter='all';save();render();
+  $('#results').scrollIntoView({behavior:'smooth',block:'start'});return;
+ }
+ if(submitted)return;submitted=true;statusFilter='all';save();render();$('#results').scrollIntoView({behavior:'smooth',block:'start'});
+}
+function modify(){if(onlyFilledMode){correctedIds.clear();}submitted=false;statusFilter='all';save();render();window.scrollTo({top:0,behavior:'smooth'});}
+function reset(){if(!window.confirm(`Effacer vos réponses et votre note pour « ${EXAMS[activeExam].label} » dans ${onlyFilledMode?'le profil 1':'le profil 2'} uniquement ?`))return;answers={};submitted=false;correctedIds.clear();category='all';statusFilter='all';searchTerm='';$('#search').value='';$('#category-filter').value='all';save();render();window.scrollTo({top:0,behavior:'smooth'});}
 function exportResults(){
- const s=results();const out={document:EXAMS[activeExam].description,bareme:{'0_erreur':10,'1_erreur':5,'2_erreurs':2,'3_ou_plus':0,'sans_reponse':0},date:new Date().toISOString(),note_sur_20:Number(s.grade.toFixed(2)),points:s.totalPoints,total:WEIGHTED_TOTAL*10,qcm_total:TOTAL,qcm_notes:GRADED,questions:QUESTIONS.map(q=>{let a=assessed(q);return {numero:q.id,theme:q.category,reponses:a.chosen||'',corrige:q.answer,erreurs:a.errors,points:a.points,non_repondu:a.unanswered,non_note:a.nonGraded,coefficient:q.weight||1,remarque_corrige:q.warning||undefined};})};
- const blob=new Blob([JSON.stringify(out,null,2)],{type:'application/json;charset=utf-8'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`resultats_${activeExam.replaceAll(".","_")}_pass_2026_2027.json`;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);
+ const s=results();const out={profil:onlyFilledMode?'correction_selective':'classique',document:EXAMS[activeExam].description,bareme:{'0_erreur':10,'1_erreur':5,'2_erreurs':2,'3_ou_plus':0,'sans_reponse':0},date:new Date().toISOString(),note_sur_20:onlyFilledMode&&!s.ratedCount?null:Number(s.grade.toFixed(2)),points:s.totalPoints,total:(onlyFilledMode?s.ratedWeight:WEIGHTED_TOTAL)*10,qcm_total:TOTAL,qcm_notes:onlyFilledMode?s.ratedCount:GRADED,questions:QUESTIONS.map(q=>{let a=assessed(q);return {numero:q.id,theme:q.category,reponses:a.chosen||'',corrige:onlyFilledMode&&!isCorrected(q)?null:q.answer,erreurs:onlyFilledMode&&!isCorrected(q)?null:a.errors,points:onlyFilledMode&&!isCorrected(q)?null:a.points,corrige_effectue:isCorrected(q),non_repondu:a.unanswered,non_note:a.nonGraded,coefficient:q.weight||1,remarque_corrige:q.warning||undefined};})};
+ const blob=new Blob([JSON.stringify(out,null,2)],{type:'application/json;charset=utf-8'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`resultats_${activeExam.replaceAll(".","_")}_${onlyFilledMode?'profil1':'profil2'}_pass_2026_2027.json`;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);
 }
 document.addEventListener('change',e=>{
+ if(e.target.matches('#only-filled-toggle')){switchProfile(e.target.checked);return;}
  if(e.target.matches('[data-course-picker]')){const course=e.target.value;const oldKind=EXAMS[activeExam].kind;selectNextExam(course,oldKind);return;}
  if(e.target.matches('[data-kind-picker]')){selectNextExam(EXAMS[activeExam].courseId,e.target.value);return;}
  if(e.target.matches('[data-series-picker]')){switchExam(e.target.value);return;}
 });
 $('#questions').addEventListener('change',e=>{
- const input=e.target.closest('input[data-q]');if(!input||submitted)return;
+ const input=e.target.closest('input[data-q]');if(!input)return;
  const qid=Number(input.dataset.q),id=input.value,old=selected({id:qid});
- const target=QUESTIONS.find(q=>q.id===qid);if(target?.tokenMode){const items=new Set(old.split(',').filter(Boolean));if(input.checked)items.add(id);else items.delete(id);answers[qid]=target.options.map(o=>o.id).filter(x=>items.has(x)).join(',');} else {answers[qid]=uniqueSortedLetters(input.checked?old+id:old.replace(id,''));}
+ const target=QUESTIONS.find(q=>q.id===qid);if(!target||isCorrected(target))return;if(target?.tokenMode){const items=new Set(old.split(',').filter(Boolean));if(input.checked)items.add(id);else items.delete(id);answers[qid]=target.options.map(o=>o.id).filter(x=>items.has(x)).join(',');} else {answers[qid]=uniqueSortedLetters(input.checked?old+id:old.replace(id,''));}
  input.closest('.option')?.classList.toggle('selected',input.checked);save();updateCounters();
 });
 document.addEventListener('click',e=>{
+ const undo=e.target.closest('[data-ungrade-q]');if(undo&&onlyFilledMode){const id=Number(undo.dataset.ungradeQ);correctedIds.delete(id);submitted=correctedIds.size>0;statusFilter='all';save();render();document.getElementById(`q${id}`)?.scrollIntoView({block:'center'});return;}
  const u=e.target.closest('.js-unit-btn');if(u){switchUnit(u.dataset.unit);return;}
  const ex=e.target.closest('[data-exam]');if(ex){switchExam(ex.dataset.exam);return;}
  const jump=e.target.closest('[data-jump]');if(jump){jumpTo(Number(jump.dataset.jump));return;}
