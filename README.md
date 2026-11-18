@@ -1,21 +1,11 @@
-# Site de revision PASS Lyon-Sud
+# Révisions PASS Lyon-Sud — UE1 et UE5
 
-Ouvrir `index.html` dans un navigateur. Conserver le dossier `static/` au meme niveau que `index.html` : les illustrations y sont stockees.
+Ouvrir `index.html` après extraction complète du ZIP, en conservant le dossier `static/` au même niveau. Le site fonctionne hors ligne.
 
-## Revision de l'interface et des figures
+Matières : UE1 SSH ; UE5 Histologie ; UE5 Biologie cellulaire ; UE5 Embryologie.
 
-- Navigation par cours avec cartes, choix Autotests/Annales et series distinctes.
-- Les illustrations isolees proviennent uniquement des documents sujets non corriges. Lorsqu'un recadrage est disponible, l'extrait original non corrige reste accessible via « Voir l'extrait original du sujet non corrige ».
-- Les corrections servent a la notation, pas a la reproduction des enonces.
-- Les cles de correction absentes restent hors note ; les points incertains sont signales.
-- Les questions dont l'extraction contient moins de quatre propositions ont un avertissement de verification. Certains documents comportent legitimement un nombre variable de propositions.
+Les questionnaires sont répartis par cours, puis par type (autotest, annales, colle en chambre), avec sauvegardes indépendantes par questionnaire, correction détaillée et note PASS 10/5/2/0.
 
-## Limites
+Embryologie : 22 séries / 597 QCM. Les annales S3–S4 sont alignées sur les sujets non corrigés. Quand seul un corrigé était fourni, l’énoncé est reconstitué avec prudence ; les clés ou schémas non fiables sont signalés et exclus de la note. Voir `Points_a_verifier_Embryologie.md`.
 
-L'extraction de documents PDF et DOCX heterogenes n'est pas une transcription certifiee. Certaines figures composites et pages scannees conservent un extrait original pour verification. Comparer les questions signalees avec le sujet fourni en cas de doute. Aucun item ou correction ne doit etre infere a partir d'un schema incomplet.
-
-## Affichage des consignes et traçabilité
-
-La consigne originale est affichée en titre de chaque question. Le nom du document source non corrigé et sa page apparaissent en petits caractères sous le titre. Pour les DOCX, la pagination a été estimée à partir d’une conversion en PDF : elle peut varier suivant le logiciel utilisé. Les cas cliniques et protocoles longs sont placés dans le contexte séparé du titre. Certains énoncés commencent sur une page et leurs propositions figurent sur la suivante ; les deux pages sont indiquées.
-
-Voir `Points_a_verifier.md` pour la liste des QCM encore hors note.
+Certaines images sont des figures brutes extraites des sujets non corrigés ; sept figures isolées à partir de documents corrigés ont été vérifiées visuellement comme ne portant pas d’annotation de réponse.
