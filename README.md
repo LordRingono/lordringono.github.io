@@ -1,11 +1,13 @@
-# Révisions PASS Lyon-Sud — UE1 et UE5
+# Révisions PASS Lyon-Sud — UE1, UE2, UE5
 
-Ouvrir `index.html` après extraction complète du ZIP, en conservant le dossier `static/` au même niveau. Le site fonctionne hors ligne.
+Ouvrir `index.html` après décompression complète de l'archive. Le dossier `static/` contient les illustrations (ne pas le supprimer).
 
-Matières : UE1 SSH ; UE5 Histologie ; UE5 Biologie cellulaire ; UE5 Embryologie.
+- UE1 SSH : 4 séries, 274 QCM (inchangés).
+- UE5 Histologie + Biologie cellulaire + Embryologie : 53 séries, 1 130 QCM (inchangés).
+- UE2 Biologie moléculaire : 23 séries, 546 questions, dont 25 hors note, 32 illustrées.
 
-Les questionnaires sont répartis par cours, puis par type (autotest, annales, colle en chambre), avec sauvegardes indépendantes par questionnaire, correction détaillée et note PASS 10/5/2/0.
+Le sélecteur de gauche permet de passer d'une UE à l'autre. Dans l'UE2, choisir un chapitre, puis *Autotests*, *Annales* ou *Exercices dirigés*.
 
-Embryologie : 22 séries / 597 QCM. Les annales S3–S4 sont alignées sur les sujets non corrigés. Quand seul un corrigé était fourni, l’énoncé est reconstitué avec prudence ; les clés ou schémas non fiables sont signalés et exclus de la note. Voir `Points_a_verifier_Embryologie.md`.
+La note suit le barème PASS 10 / 5 / 2 / 0 (0 erreur → 10 ; 1 → 5 ; 2 → 2 ; ≥3 → 0). Les questions non notables sont exclues du dénominateur. Les réponses sont sauvegardées localement et séparément par série.
 
-Certaines images sont des figures brutes extraites des sujets non corrigés ; sept figures isolées à partir de documents corrigés ont été vérifiées visuellement comme ne portant pas d’annotation de réponse.
+Fichier `Points_a_verifier_UE2.md` : réserves et questions non notables. Les textes principaux sont issus des sujets non corrigés ; les corrections proviennent exclusivement des corrigés fournis.
