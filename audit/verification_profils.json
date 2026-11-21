@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "new_banks": 276,
+  "checks": [
+    "Every bank renders with correction hidden",
+    "All expected answers score20",
+    "All new questions have explicit empty-response control",
+    "Profiles independent and restored after reload",
+    "Selective grading leaves blank QCM uncorrected",
+    "Explicit empty answer distinct from blank",
+    "Answer/image markup generated without runtime error"
+  ],
+  "limitation": "State and HTML checks run with a deterministic DOM adapter; native browser launch was unavailable in this executor."
+}

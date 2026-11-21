@@ -1,0 +1,541 @@
+{
+  "source": "Sujets + corrections compilés(1).pdf",
+  "ue": "ue4",
+  "questionCount": 336,
+  "seriesCount": 154,
+  "sourceSubjectCount": 14,
+  "gradedCount": 324,
+  "ungradedCount": 12,
+  "emptyAnswerCount": 1,
+  "yearRange": [
+    "2018-2019",
+    "2025-2026"
+  ],
+  "excludedOlderThan2015": 0,
+  "exclusionReason": "Aucun sujet antérieur à 2015 dans le périmètre UE4.",
+  "sessions": [
+    {
+      "year": "2025-2026",
+      "session": "S1",
+      "questions": 28,
+      "graded": 28,
+      "ungraded": 0
+    },
+    {
+      "year": "2024-2025",
+      "session": "S1",
+      "questions": 28,
+      "graded": 28,
+      "ungraded": 0
+    },
+    {
+      "year": "2024-2025",
+      "session": "S2",
+      "questions": 15,
+      "graded": 15,
+      "ungraded": 0
+    },
+    {
+      "year": "2023-2024",
+      "session": "S1",
+      "questions": 28,
+      "graded": 28,
+      "ungraded": 0
+    },
+    {
+      "year": "2023-2024",
+      "session": "S2",
+      "questions": 15,
+      "graded": 14,
+      "ungraded": 1
+    },
+    {
+      "year": "2022-2023",
+      "session": "S1",
+      "questions": 25,
+      "graded": 25,
+      "ungraded": 0
+    },
+    {
+      "year": "2022-2023",
+      "session": "S2",
+      "questions": 18,
+      "graded": 18,
+      "ungraded": 0
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "questions": 25,
+      "graded": 24,
+      "ungraded": 1
+    },
+    {
+      "year": "2021-2022",
+      "session": "S2",
+      "questions": 19,
+      "graded": 19,
+      "ungraded": 0
+    },
+    {
+      "year": "2020-2021",
+      "session": "S1",
+      "questions": 25,
+      "graded": 25,
+      "ungraded": 0
+    },
+    {
+      "year": "2020-2021",
+      "session": "S2",
+      "questions": 20,
+      "graded": 19,
+      "ungraded": 1
+    },
+    {
+      "year": "2020-2021",
+      "session": "PACES",
+      "questions": 30,
+      "graded": 26,
+      "ungraded": 4
+    },
+    {
+      "year": "2019-2020",
+      "session": "S1",
+      "questions": 30,
+      "graded": 25,
+      "ungraded": 5
+    },
+    {
+      "year": "2018-2019",
+      "session": "S1",
+      "questions": 30,
+      "graded": 30,
+      "ungraded": 0
+    }
+  ],
+  "topics": [
+    {
+      "id": "pd",
+      "label": "Pharmacodynamie et mécanismes d’action",
+      "questions": 16
+    },
+    {
+      "id": "pk",
+      "label": "Pharmacocinétique",
+      "questions": 14
+    },
+    {
+      "id": "vigilance",
+      "label": "Pharmacovigilance et iatrogénie",
+      "questions": 18
+    },
+    {
+      "id": "clinique",
+      "label": "Évaluation clinique et médico-économique",
+      "questions": 27
+    },
+    {
+      "id": "biotech",
+      "label": "Biotechnologies et biothérapies",
+      "questions": 34
+    },
+    {
+      "id": "chimie",
+      "label": "Chimie thérapeutique et modélisation",
+      "questions": 49
+    },
+    {
+      "id": "usage",
+      "label": "Prescription et bon usage du médicament",
+      "questions": 44
+    },
+    {
+      "id": "droit",
+      "label": "Droit, réglementation et industrie pharmaceutiques",
+      "questions": 37
+    },
+    {
+      "id": "nature",
+      "label": "Molécules actives d’origine naturelle",
+      "questions": 24
+    },
+    {
+      "id": "galenique",
+      "label": "Formes et préparations pharmaceutiques",
+      "questions": 35
+    },
+    {
+      "id": "controle",
+      "label": "Contrôle et qualité des médicaments",
+      "questions": 21
+    },
+    {
+      "id": "decouverte",
+      "label": "Identification de molécules thérapeutiques",
+      "questions": 17
+    }
+  ],
+  "issues": [
+    {
+      "sourceId": "ue4:2023-2024:S1:q23",
+      "subjectPage": 773,
+      "correctionPage": 786,
+      "rawAnswer": "ABDE",
+      "answer": "ABDE",
+      "warning": "Le tutorat qualifie l’item D d’ambigu dans sa justification. La clé ABDE fournie est conservée."
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "subjectPage": 790,
+      "correctionPage": 796,
+      "rawAnswer": "ACE",
+      "answer": "",
+      "warning": "Divergence dans le corrigé fourni : la grille courte et la clé placée sous le QCM donnent ACE, mais les justifications déclarent A et B vrais, C, D et E faux. La clé source ACE reste documentée ; cette contradiction non résolue impose de conserver le QCM hors note."
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "subjectPage": 826,
+      "correctionPage": 836,
+      "rawAnswer": "BC",
+      "answer": "BC",
+      "warning": "Le titre du sujet mentionne les paramètres pharmacocinétiques, tandis que plusieurs items portent sur la pharmacodynamie. Le corrigé classe C vrai tout en le signalant « HP maintenant ». L’énoncé original et la clé BC sont conservés."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q04",
+      "subjectPage": 840,
+      "correctionPage": 850,
+      "rawAnswer": "ACDE",
+      "answer": "ACDE",
+      "warning": "Le corrigé donne ACDE mais accompagne la justification de C de « VRAI ?? » et précise que ce point n’a pas été explicitement dit dans le cours. La clé source ACDE est conservée avec cette réserve."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q13",
+      "subjectPage": 843,
+      "correctionPage": 848,
+      "rawAnswer": "",
+      "answer": "",
+      "warning": "Le sujet comporte 25 QCM, mais le corrigé en comporte 24 : cette question sur les bonnes pratiques de fabrication et de préparation est absente du corrigé. Le QCM reste accessible sans note. À partir du QCM 14 du sujet, les numéros du corrigé sont décalés de −1."
+    },
+    {
+      "sourceId": "ue4:2020-2021:S2:q10",
+      "subjectPage": 900,
+      "correctionPage": 909,
+      "rawAnswer": "BDE",
+      "answer": "",
+      "warning": "Divergence dans le corrigé fourni : la grille courte et la clé placée sous le QCM donnent BDE, mais la justification de B le classe FAUX. La clé source BDE reste documentée ; cette contradiction non résolue impose de conserver le QCM hors note."
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q05",
+      "subjectPage": 917,
+      "correctionPage": 927,
+      "rawAnswer": "/",
+      "answer": "",
+      "warning": "Le corrigé mentionne uniquement « Hors programme » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note."
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q13",
+      "subjectPage": 919,
+      "correctionPage": 930,
+      "rawAnswer": "A",
+      "answer": "",
+      "warning": "Le tutorat précise qu’aucune équation proposée n’est exactement juste et retient A parce qu’elle donne les résultats les plus proches. La clé source A reste documentée ; le QCM est conservé hors note en raison de cette erreur reconnue dans le document."
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q25",
+      "subjectPage": 921,
+      "correctionPage": 936,
+      "rawAnswer": "ADE",
+      "answer": "",
+      "warning": "L’item D du sujet imprimé contient « 500 Vig », tandis que le corrigé reproduit « 500 mg » et considère cet item vrai. L’unité du sujet est indéfinie. Le texte du sujet et la clé source ADE restent documentés ; le QCM est conservé hors note à cause de cette différence d’énoncé."
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q29",
+      "subjectPage": 922,
+      "correctionPage": 937,
+      "rawAnswer": "(C)E",
+      "answer": "",
+      "warning": "La clé source est « (C)E ». Le corrigé hésite explicitement sur C (« FAUX ? ») et demande la confirmation du professeur. Aucune règle de neutralisation n’est indiquée : le QCM est conservé hors note, avec ses justifications originales."
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q10",
+      "subjectPage": 942,
+      "correctionPage": 954,
+      "rawAnswer": "/",
+      "answer": "",
+      "warning": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note."
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q12",
+      "subjectPage": 943,
+      "correctionPage": 955,
+      "rawAnswer": "/",
+      "answer": "",
+      "warning": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note."
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q13",
+      "subjectPage": 943,
+      "correctionPage": 955,
+      "rawAnswer": "/",
+      "answer": "",
+      "warning": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note."
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q19",
+      "subjectPage": 944,
+      "correctionPage": 957,
+      "rawAnswer": "ABC",
+      "answer": "",
+      "warning": "L’item A du sujet est « L’adsorption », alors que le corrigé reproduit « L’absorption » et le classe vrai. Le texte du sujet et la clé source ABC restent documentés ; le QCM est conservé hors note car le corrigé ne répond pas exactement au même item."
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q30",
+      "subjectPage": 947,
+      "correctionPage": 961,
+      "rawAnswer": "/",
+      "answer": "",
+      "warning": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note."
+    }
+  ],
+  "remappings": [
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 14,
+      "correctionNumber": 13,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 15,
+      "correctionNumber": 14,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 16,
+      "correctionNumber": 15,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 17,
+      "correctionNumber": 16,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 18,
+      "correctionNumber": 17,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 19,
+      "correctionNumber": 18,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 20,
+      "correctionNumber": 19,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 21,
+      "correctionNumber": 20,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 22,
+      "correctionNumber": 21,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 23,
+      "correctionNumber": 22,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 24,
+      "correctionNumber": 23,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "sourceNumber": 25,
+      "correctionNumber": 24,
+      "reason": "Question source 13 absente du corrigé ; correspondance vérifiée par les cinq propositions."
+    }
+  ],
+  "extractionRepairs": [
+    {
+      "year": "2021-2022",
+      "sessions": [
+        "S1",
+        "S2"
+      ],
+      "reason": "Numéros de QCM graphiques absents du texte ; ordre et titres vérifiés dans le PDF rendu."
+    },
+    {
+      "year": "2022-2023",
+      "session": "S2",
+      "question": 14,
+      "items": [
+        "D",
+        "E"
+      ],
+      "reason": "Suppression de glyphes invisibles dans l’extraction (bdistribution / è50%) ; le rendu du sujet p.826 et le corrigé p.836 confirment distribution / 50%."
+    },
+    {
+      "year": "2020-2021",
+      "session": "S1",
+      "questions": [
+        12,
+        13,
+        14
+      ],
+      "reason": "Le contexte partagé oxyde de zinc est détaché de Q12E et restitué avant les QCM 13 et 14."
+    },
+    {
+      "year": "2024-2025",
+      "session": "S1",
+      "question": 24,
+      "reason": "Options A–E intégralement graphiques ; molécules et légendes du sujet conservées dans leur image."
+    },
+    {
+      "year": "2021-2022",
+      "session": "S1",
+      "question": 7,
+      "reason": "Options A–E intégralement graphiques ; molécules et légendes du sujet conservées dans leur image."
+    },
+    {
+      "year": "2018-2019",
+      "session": "S1",
+      "question": 3,
+      "reason": "Options A–E intégralement graphiques ; molécules et légendes du sujet conservées dans leur image."
+    },
+    {
+      "year": "2019-2020",
+      "session": "S1",
+      "question": 4,
+      "page": 941,
+      "reason": "La photographie présente dans le sujet contient des coefficients manuscrits près des descripteurs. La zone annotée est exclue de toutes les images visibles avant correction. Les descripteurs et le contexte sont transcrits depuis la légende originale ; le tableau molécules/activités reste inchangé. Les extraits originaux sont scindés en zones non annotées."
+    }
+  ],
+  "qaPasses": [
+    "Inventaire des couvertures, bornes de chaque sujet et de chaque correction, numérotation exhaustive.",
+    "Comparaison des cinq propositions sujet/corrigé lorsque la correction reproduit le sujet ; contrôle des écarts et de la numérotation.",
+    "Concordance des clés des grilles courtes et du corrigé détaillé ; comparaison des VRAI/FAUX avec les clés ; réserves explicites.",
+    "Contrôle visuel des schémas, tableaux et options graphiques ; tous les crops avant validation proviennent des pages de sujet.",
+    "Validation finale des schémas JSON, unicité, couverture, liens d’images, stabilité des identifiants et rôles des assets."
+  ],
+  "assetCount": 689,
+  "assetBytes": 21692096,
+  "gradingPolicy": "Clés source univoques conservées. Sans clé, clé explicitement incertaine, contradiction formelle entre clé et verdicts, ou différence matérielle entre item du sujet et item corrigé : question accessible hors note. Aucune rectification scientifique de fond par l’assistant.",
+  "verification": {
+    "questions": 336,
+    "options": 1680,
+    "sourceAndDetailedKeyPairsCompared": 330,
+    "subjectCorrectionOptionPairsCompared": 1635,
+    "exactNormalizedOptionMatches": 1614,
+    "differencesBelow0985Reviewed": [
+      {
+        "sourceId": "ue4:2023-2024:S1:q02",
+        "option": "E",
+        "ratio": 0.96703,
+        "subject": "Le séquençage du génome humain a été finalisé en 2023.",
+        "correction": "Le séquençage du génome humain a été finalisé en 2023. ABD"
+      },
+      {
+        "sourceId": "ue4:2023-2024:S2:q13",
+        "option": "E",
+        "ratio": 0.94048,
+        "subject": "Un \"me-too compound\" ne procure généralement pas d'amélioration notable par rapport à̀ la molécule originale",
+        "correction": "Un « me-too compound » ne procure généralement pas d’amélioration notable à la molécule originale"
+      },
+      {
+        "sourceId": "ue4:2020-2021:S2:q03",
+        "option": "E",
+        "ratio": 0.97647,
+        "subject": "Les biomarqueurs pronostiques permettent de prédire la réponse thérapeutique à un traitement donné",
+        "correction": "Les biomarqueurs pronostics permettent de prédire la réponse thérapeutique à un traitement donné"
+      },
+      {
+        "sourceId": "ue4:2020-2021:PACES:q25",
+        "option": "D",
+        "ratio": 0.9816,
+        "subject": "Une cuillère à dessert (10 mL) du volume final contient 6,5 g de saccharose et 500 Vig de carbocistéine.",
+        "correction": "Une cuillère à dessert (10 mL) du volume final contient 6,5 g de saccharose et 500 mg de carbocistéine."
+      },
+      {
+        "sourceId": "ue4:2020-2021:PACES:q29",
+        "option": "A",
+        "ratio": 0.97143,
+        "subject": "N'a pas de cadre légale.",
+        "correction": "N'a pas de cadre légal."
+      },
+      {
+        "sourceId": "ue4:2019-2020:S1:q19",
+        "option": "A",
+        "ratio": 0.90909,
+        "subject": "L’adsorption",
+        "correction": "L’absorption"
+      },
+      {
+        "sourceId": "ue4:2019-2020:S1:q23",
+        "option": "A",
+        "ratio": 0.98462,
+        "subject": "Est une dessication qui s’opère à chaud",
+        "correction": "Est une dessiccation qui s’opère à chaud"
+      },
+      {
+        "sourceId": "ue4:2019-2020:S1:q23",
+        "option": "B",
+        "ratio": 0.98462,
+        "subject": "Est une dessication qui s’opère à froid",
+        "correction": "Est une dessiccation qui s’opère à froid"
+      },
+      {
+        "sourceId": "ue4:2019-2020:S1:q25",
+        "option": "C",
+        "ratio": 0.92308,
+        "subject": "Gomme arabique",
+        "correction": "Homme arabique"
+      },
+      {
+        "sourceId": "ue4:2019-2020:S1:q25",
+        "option": "E",
+        "ratio": 0.88889,
+        "subject": "Toutes les propositions sont fausses",
+        "correction": "Toutes les propositions ci-dessus sont fausses"
+      }
+    ],
+    "subjectFigurePanels": 13,
+    "sourceImagesIncludedInFigurePanels": 14,
+    "originalSubjectExcerptCount": 338,
+    "correctionExcerptCount": 336,
+    "allAssetPathsValid": true,
+    "allAssetHashesValid": true,
+    "allSubjectAssetsWithinSubjectRanges": true,
+    "allCorrectionAssetsWithinCorrectionRanges": true,
+    "sourceIDsUnique": true,
+    "examStorageKeysUnique": true,
+    "removedObsoleteDraftAssets": []
+  }
+}

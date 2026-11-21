@@ -1,0 +1,6298 @@
+{
+  "unit": "UE3 · Biostatistiques",
+  "sourceFile": "Sujets + corrections compilés(1).pdf",
+  "sourceSHA256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+  "scopePages": [
+    487,
+    698
+  ],
+  "stats": {
+    "subjects": 14,
+    "questions": 138,
+    "scoredQuestions": 137,
+    "ungradedQuestions": 1,
+    "questionExclusions": 0,
+    "years": [
+      "2018-2019",
+      "2019-2020",
+      "2020-2021",
+      "2021-2022",
+      "2022-2023",
+      "2023-2024",
+      "2024-2025",
+      "2025-2026"
+    ],
+    "minimumAllowedYear": 2015,
+    "subjectPages": 68,
+    "assets": 434,
+    "assetBytes": 18607898,
+    "assetsByRole": {
+      "subject": 292,
+      "correction": 142
+    },
+    "questionRenderModes": {
+      "original_propositions_panel": 16,
+      "text_options": 119,
+      "numeric_code_table": 3
+    },
+    "sourceWarnings": 6,
+    "keyComparisons": 138,
+    "keyMatches": 138
+  },
+  "subjects": [
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "decision": "included",
+      "subjectCover": 487,
+      "subjectPageRange": [
+        488,
+        492
+      ],
+      "correctionCover": 493,
+      "correctionPageRange": [
+        494,
+        504
+      ],
+      "shortKeyPage": 494,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "questionCount": 12,
+      "scoredCount": 12,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2025-2026-s1"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "decision": "included",
+      "subjectCover": 505,
+      "subjectPageRange": [
+        506,
+        510
+      ],
+      "correctionCover": 511,
+      "correctionPageRange": [
+        512,
+        520
+      ],
+      "shortKeyPage": 512,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "questionCount": 12,
+      "scoredCount": 12,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2024-2025-s1"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "decision": "included",
+      "subjectCover": 521,
+      "subjectPageRange": [
+        522,
+        524
+      ],
+      "correctionCover": 525,
+      "correctionPageRange": [
+        526,
+        532
+      ],
+      "shortKeyPage": 526,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "questionCount": 7,
+      "scoredCount": 7,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [
+        524
+      ],
+      "storage": "qcm-pass-ls-annales-ue3-2024-2025-s2"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "decision": "included",
+      "subjectCover": 533,
+      "subjectPageRange": [
+        534,
+        538
+      ],
+      "correctionCover": 539,
+      "correctionPageRange": [
+        540,
+        548
+      ],
+      "shortKeyPage": 540,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "questionCount": 12,
+      "scoredCount": 12,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2023-2024-s1"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "decision": "included",
+      "subjectCover": 549,
+      "subjectPageRange": [
+        550,
+        552
+      ],
+      "correctionCover": 553,
+      "correctionPageRange": [
+        554,
+        558
+      ],
+      "shortKeyPage": 554,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "questionCount": 7,
+      "scoredCount": 7,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [
+        552
+      ],
+      "storage": "qcm-pass-ls-annales-ue3-2023-2024-s2"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "decision": "included",
+      "subjectCover": 559,
+      "subjectPageRange": [
+        560,
+        564
+      ],
+      "correctionCover": 565,
+      "correctionPageRange": [
+        566,
+        576
+      ],
+      "shortKeyPage": 566,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "questionCount": 12,
+      "scoredCount": 11,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2022-2023-s1"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "decision": "included",
+      "subjectCover": 577,
+      "subjectPageRange": [
+        578,
+        580
+      ],
+      "correctionCover": 581,
+      "correctionPageRange": [
+        582,
+        586
+      ],
+      "shortKeyPage": 582,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "questionCount": 7,
+      "scoredCount": 7,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2022-2023-s2"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "decision": "included",
+      "subjectCover": 587,
+      "subjectPageRange": [
+        588,
+        592
+      ],
+      "correctionCover": 593,
+      "correctionPageRange": [
+        594,
+        602
+      ],
+      "shortKeyPage": 594,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "questionCount": 11,
+      "scoredCount": 11,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2021-2022-s1"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "decision": "included",
+      "subjectCover": 603,
+      "subjectPageRange": [
+        604,
+        606
+      ],
+      "correctionCover": 607,
+      "correctionPageRange": [
+        608,
+        612
+      ],
+      "shortKeyPage": 608,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "questionCount": 7,
+      "scoredCount": 7,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2021-2022-s2"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "decision": "included",
+      "subjectCover": 613,
+      "subjectPageRange": [
+        614,
+        622
+      ],
+      "correctionCover": 623,
+      "correctionPageRange": [
+        624,
+        632
+      ],
+      "shortKeyPage": 624,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "questionCount": 11,
+      "scoredCount": 11,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [
+        619,
+        620,
+        621,
+        622
+      ],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2020-2021-paces"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "decision": "included",
+      "subjectCover": 633,
+      "subjectPageRange": [
+        634,
+        638
+      ],
+      "correctionCover": 639,
+      "correctionPageRange": [
+        640,
+        650
+      ],
+      "shortKeyPage": 640,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "questionCount": 11,
+      "scoredCount": 11,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [
+        638
+      ],
+      "storage": "qcm-pass-ls-annales-ue3-2020-2021-s1"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "decision": "included",
+      "subjectCover": 651,
+      "subjectPageRange": [
+        652,
+        654
+      ],
+      "correctionCover": 655,
+      "correctionPageRange": [
+        656,
+        660
+      ],
+      "shortKeyPage": 656,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "questionCount": 7,
+      "scoredCount": 7,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2020-2021-s2"
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "decision": "included",
+      "subjectCover": 661,
+      "subjectPageRange": [
+        662,
+        670
+      ],
+      "correctionCover": 671,
+      "correctionPageRange": [
+        672,
+        682
+      ],
+      "shortKeyPage": 672,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "questionCount": 11,
+      "scoredCount": 11,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [
+        667,
+        668,
+        669,
+        670
+      ],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2019-2020-paces"
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "decision": "included",
+      "subjectCover": 683,
+      "subjectPageRange": [
+        684,
+        688
+      ],
+      "correctionCover": 689,
+      "correctionPageRange": [
+        690,
+        698
+      ],
+      "shortKeyPage": 690,
+      "includedQuestionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "questionCount": 11,
+      "scoredCount": 11,
+      "excludedQuestionNumbers": [],
+      "ownAnnexPages": [],
+      "blankSubjectPages": [],
+      "storage": "qcm-pass-ls-annales-ue3-2018-2019-paces"
+    }
+  ],
+  "questions": [
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 488,
+      "sourceContextPages": [
+        488
+      ],
+      "questionPages": [
+        488
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 495,
+      "shortKey": "ABD",
+      "detailedKey": "ABD",
+      "activeKey": "ABD",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 488,
+      "sourceContextPages": [
+        488
+      ],
+      "questionPages": [
+        488
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 496,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 488,
+      "sourceContextPages": [
+        488
+      ],
+      "questionPages": [
+        488
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 496,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 489,
+      "sourceContextPages": [
+        489
+      ],
+      "questionPages": [
+        489
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 497,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 489,
+      "sourceContextPages": [
+        489
+      ],
+      "questionPages": [
+        489
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 498,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 490,
+      "sourceContextPages": [
+        490
+      ],
+      "questionPages": [
+        490
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 499,
+      "shortKey": "ACD",
+      "detailedKey": "ACD",
+      "activeKey": "ACD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 490,
+      "sourceContextPages": [
+        490
+      ],
+      "questionPages": [
+        490
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 500,
+      "shortKey": "A",
+      "detailedKey": "A",
+      "activeKey": "A",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 491,
+      "sourceContextPages": [
+        490,
+        491
+      ],
+      "questionPages": [
+        491
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 500,
+      "shortKey": "ABC",
+      "detailedKey": "ABC",
+      "activeKey": "ABC",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 491,
+      "sourceContextPages": [
+        490,
+        491
+      ],
+      "questionPages": [
+        491
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 501,
+      "shortKey": "BC",
+      "detailedKey": "BC",
+      "activeKey": "BC",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6,
+        8,
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 491,
+      "sourceContextPages": [
+        491
+      ],
+      "questionPages": [
+        491
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 502,
+      "shortKey": "ABC",
+      "detailedKey": "ABC",
+      "activeKey": "ABC",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 492,
+      "sourceContextPages": [
+        492
+      ],
+      "questionPages": [
+        492
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 502,
+      "shortKey": "AC",
+      "detailedKey": "AC",
+      "activeKey": "AC",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "year": "2025-2026",
+      "session": "s1",
+      "number": 12,
+      "sourceNumber": "12",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 492,
+      "sourceContextPages": [
+        492
+      ],
+      "questionPages": [
+        492
+      ],
+      "shortCorrectionPage": 494,
+      "detailedCorrectionPage": 503,
+      "shortKey": "BE",
+      "detailedKey": "BE",
+      "activeKey": "BE",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        12
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 506,
+      "sourceContextPages": [
+        506
+      ],
+      "questionPages": [
+        506
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 513,
+      "shortKey": "ACE",
+      "detailedKey": "ACE",
+      "activeKey": "ACE",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 506,
+      "sourceContextPages": [
+        506
+      ],
+      "questionPages": [
+        506
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 514,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 507,
+      "sourceContextPages": [
+        507
+      ],
+      "questionPages": [
+        507
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 514,
+      "shortKey": "E",
+      "detailedKey": "E",
+      "activeKey": "E",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 507,
+      "sourceContextPages": [
+        507
+      ],
+      "questionPages": [
+        507
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 515,
+      "shortKey": "CE",
+      "detailedKey": "CE",
+      "activeKey": "CE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 507,
+      "sourceContextPages": [
+        507
+      ],
+      "questionPages": [
+        507
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 515,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 508,
+      "sourceContextPages": [
+        508
+      ],
+      "questionPages": [
+        508
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 516,
+      "shortKey": "BC",
+      "detailedKey": "BC",
+      "activeKey": "BC",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 508,
+      "sourceContextPages": [
+        508
+      ],
+      "questionPages": [
+        508
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 517,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 508,
+      "sourceContextPages": [
+        508
+      ],
+      "questionPages": [
+        508
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 517,
+      "shortKey": "DE",
+      "detailedKey": "DE",
+      "activeKey": "DE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 509,
+      "sourceContextPages": [
+        509
+      ],
+      "questionPages": [
+        509
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 518,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 509,
+      "sourceContextPages": [
+        509
+      ],
+      "questionPages": [
+        509
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 519,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        9,
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 509,
+      "sourceContextPages": [
+        509
+      ],
+      "questionPages": [
+        509
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 520,
+      "shortKey": "BCE",
+      "detailedKey": "BCE",
+      "activeKey": "BCE",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "year": "2024-2025",
+      "session": "s1",
+      "number": 12,
+      "sourceNumber": "12",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 510,
+      "sourceContextPages": [
+        510
+      ],
+      "questionPages": [
+        510
+      ],
+      "shortCorrectionPage": 512,
+      "detailedCorrectionPage": 520,
+      "shortKey": "ABDE",
+      "detailedKey": "ABDE",
+      "activeKey": "ABDE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        12
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 522,
+      "sourceContextPages": [
+        522
+      ],
+      "questionPages": [
+        522
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 527,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 522,
+      "sourceContextPages": [
+        522
+      ],
+      "questionPages": [
+        522
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 527,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 522,
+      "sourceContextPages": [
+        522
+      ],
+      "questionPages": [
+        522
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 528,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        2,
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 523,
+      "sourceContextPages": [
+        522
+      ],
+      "questionPages": [
+        523
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 529,
+      "shortKey": "ABCE",
+      "detailedKey": "ABCE",
+      "activeKey": "ABCE",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 523,
+      "sourceContextPages": [
+        522,
+        523
+      ],
+      "questionPages": [
+        523
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 529,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 523,
+      "sourceContextPages": [
+        523
+      ],
+      "questionPages": [
+        523
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 530,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "year": "2024-2025",
+      "session": "s2",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 523,
+      "sourceContextPages": [
+        523
+      ],
+      "questionPages": [
+        523
+      ],
+      "shortCorrectionPage": 526,
+      "detailedCorrectionPage": 531,
+      "shortKey": "ABD",
+      "detailedKey": "ABD",
+      "activeKey": "ABD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 534,
+      "sourceContextPages": [
+        534
+      ],
+      "questionPages": [
+        534
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 541,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 534,
+      "sourceContextPages": [
+        534
+      ],
+      "questionPages": [
+        534
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 542,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 534,
+      "sourceContextPages": [
+        534
+      ],
+      "questionPages": [
+        534
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 542,
+      "shortKey": "ABE",
+      "detailedKey": "ABE",
+      "activeKey": "ABE",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2,
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 535,
+      "sourceContextPages": [
+        535
+      ],
+      "questionPages": [
+        535
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 543,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 535,
+      "sourceContextPages": [
+        535
+      ],
+      "questionPages": [
+        535
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 543,
+      "shortKey": "E",
+      "detailedKey": "E",
+      "activeKey": "E",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 535,
+      "sourceContextPages": [
+        535
+      ],
+      "questionPages": [
+        535
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 544,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "La consigne du sujet semble avoir été recopiée depuis le QCM précédent : elle mentionne une p-valeur et une réponse unique, tandis que les items et le corrigé concernent cet exercice et plusieurs réponses. Le texte original et la grille fournie sont conservés.",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 536,
+      "sourceContextPages": [
+        536
+      ],
+      "questionPages": [
+        536
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 545,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "La consigne du sujet semble avoir été recopiée depuis le QCM précédent : elle mentionne une p-valeur et une réponse unique, tandis que les items et le corrigé concernent cet exercice et plusieurs réponses. Le texte original et la grille fournie sont conservés.",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 536,
+      "sourceContextPages": [
+        536
+      ],
+      "questionPages": [
+        536
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 545,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        7,
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "La consigne du sujet semble avoir été recopiée depuis le QCM précédent : elle mentionne une p-valeur et une réponse unique, tandis que les items et le corrigé concernent cet exercice et plusieurs réponses. Le texte original et la grille fournie sont conservés.",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 537,
+      "sourceContextPages": [
+        537
+      ],
+      "questionPages": [
+        537
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 546,
+      "shortKey": "BCDE",
+      "detailedKey": "BCDE",
+      "activeKey": "BCDE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        9
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 537,
+      "sourceContextPages": [
+        537
+      ],
+      "questionPages": [
+        537
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 547,
+      "shortKey": "ABC",
+      "detailedKey": "ABC",
+      "activeKey": "ABC",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        9,
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 538,
+      "sourceContextPages": [
+        538
+      ],
+      "questionPages": [
+        538
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 547,
+      "shortKey": "BCE",
+      "detailedKey": "BCE",
+      "activeKey": "BCE",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "year": "2023-2024",
+      "session": "s1",
+      "number": 12,
+      "sourceNumber": "12",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 538,
+      "sourceContextPages": [
+        538
+      ],
+      "questionPages": [
+        538
+      ],
+      "shortCorrectionPage": 540,
+      "detailedCorrectionPage": 548,
+      "shortKey": "BC",
+      "detailedKey": "BC",
+      "activeKey": "BC",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        12
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 550,
+      "sourceContextPages": [
+        550
+      ],
+      "questionPages": [
+        550
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 555,
+      "shortKey": "D",
+      "detailedKey": "D",
+      "activeKey": "D",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 550,
+      "sourceContextPages": [],
+      "questionPages": [
+        550
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 555,
+      "shortKey": "E",
+      "detailedKey": "E",
+      "activeKey": "E",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 550,
+      "sourceContextPages": [],
+      "questionPages": [
+        550
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 556,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 550,
+      "sourceContextPages": [
+        550
+      ],
+      "questionPages": [
+        550
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 556,
+      "shortKey": "D",
+      "detailedKey": "D",
+      "activeKey": "D",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 550,
+      "sourceContextPages": [
+        550
+      ],
+      "questionPages": [
+        550
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 557,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 551,
+      "sourceContextPages": [
+        551
+      ],
+      "questionPages": [
+        551
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 558,
+      "shortKey": "ABCDE",
+      "detailedKey": "ABCDE",
+      "activeKey": "ABCDE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "year": "2023-2024",
+      "session": "s2",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 551,
+      "sourceContextPages": [
+        551
+      ],
+      "questionPages": [
+        551
+      ],
+      "shortCorrectionPage": 554,
+      "detailedCorrectionPage": 558,
+      "shortKey": "AB",
+      "detailedKey": "AB",
+      "activeKey": "AB",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 560,
+      "sourceContextPages": [
+        560
+      ],
+      "questionPages": [
+        560
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 567,
+      "shortKey": "D",
+      "detailedKey": "D",
+      "activeKey": "D",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 560,
+      "sourceContextPages": [
+        560
+      ],
+      "questionPages": [
+        560
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 568,
+      "shortKey": "A",
+      "detailedKey": "A",
+      "activeKey": "A",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        1,
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 561,
+      "sourceContextPages": [
+        560,
+        561
+      ],
+      "questionPages": [
+        561
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 569,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        1,
+        2,
+        3
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 561,
+      "sourceContextPages": [
+        561
+      ],
+      "questionPages": [
+        561
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 569,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included_ungraded_source_conflict",
+      "reason": "Grille et verdicts détaillés contradictoires ; énoncé conservé hors note.",
+      "subjectPage": 561,
+      "sourceContextPages": [
+        561
+      ],
+      "questionPages": [
+        561
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 570,
+      "shortKey": "BCE",
+      "detailedKey": "BCE",
+      "activeKey": "",
+      "detailedVerdictKey": "ACE",
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "Question hors note : la grille et la clé détaillée indiquent BCE, mais les étiquettes VRAI/FAUX indiquent ACE. Ces sources contradictoires sont conservées dans le corrigé original ; aucune clé n’est imposée.",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 562,
+      "sourceContextPages": [
+        561
+      ],
+      "questionPages": [
+        562
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 571,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 562,
+      "sourceContextPages": [
+        562
+      ],
+      "questionPages": [
+        562
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 571,
+      "shortKey": "E",
+      "detailedKey": "E",
+      "activeKey": "E",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 563,
+      "sourceContextPages": [
+        562
+      ],
+      "questionPages": [
+        563
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 572,
+      "shortKey": "ABDE",
+      "detailedKey": "ABDE",
+      "activeKey": "ABDE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 563,
+      "sourceContextPages": [
+        562,
+        563
+      ],
+      "questionPages": [
+        563
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 573,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        8,
+        9
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 563,
+      "sourceContextPages": [
+        563
+      ],
+      "questionPages": [
+        563
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 574,
+      "shortKey": "BE",
+      "detailedKey": "BE",
+      "activeKey": "BE",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 564,
+      "sourceContextPages": [
+        563,
+        564
+      ],
+      "questionPages": [
+        564
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 574,
+      "shortKey": "AC",
+      "detailedKey": "AC",
+      "activeKey": "AC",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        10,
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "year": "2022-2023",
+      "session": "s1",
+      "number": 12,
+      "sourceNumber": "12",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 564,
+      "sourceContextPages": [
+        564
+      ],
+      "questionPages": [
+        564
+      ],
+      "shortCorrectionPage": 566,
+      "detailedCorrectionPage": 575,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        12
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 578,
+      "sourceContextPages": [
+        578
+      ],
+      "questionPages": [
+        578
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 583,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 578,
+      "sourceContextPages": [
+        578
+      ],
+      "questionPages": [
+        578
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 584,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        1,
+        2
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 579,
+      "sourceContextPages": [
+        578,
+        579
+      ],
+      "questionPages": [
+        579
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 584,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        1,
+        2,
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 579,
+      "sourceContextPages": [
+        579
+      ],
+      "questionPages": [
+        579
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 585,
+      "shortKey": "B",
+      "detailedKey": "B",
+      "activeKey": "B",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 579,
+      "sourceContextPages": [
+        579
+      ],
+      "questionPages": [
+        579
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 585,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 580,
+      "sourceContextPages": [
+        580
+      ],
+      "questionPages": [
+        580
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 586,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "year": "2022-2023",
+      "session": "s2",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 580,
+      "sourceContextPages": [
+        580
+      ],
+      "questionPages": [
+        580
+      ],
+      "shortCorrectionPage": 582,
+      "detailedCorrectionPage": 586,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 588,
+      "sourceContextPages": [
+        588
+      ],
+      "questionPages": [
+        588
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 595,
+      "shortKey": "ACE",
+      "detailedKey": "ACE",
+      "activeKey": "ACE",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 588,
+      "sourceContextPages": [
+        588
+      ],
+      "questionPages": [
+        588
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 596,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 589,
+      "sourceContextPages": [
+        588
+      ],
+      "questionPages": [
+        589
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 596,
+      "shortKey": "CDE",
+      "detailedKey": "CDE",
+      "activeKey": "CDE",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 589,
+      "sourceContextPages": [
+        589
+      ],
+      "questionPages": [
+        589
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 597,
+      "shortKey": "ACE",
+      "detailedKey": "ACE",
+      "activeKey": "ACE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 589,
+      "sourceContextPages": [
+        589
+      ],
+      "questionPages": [
+        589
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 598,
+      "shortKey": "ACE",
+      "detailedKey": "ACE",
+      "activeKey": "ACE",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 590,
+      "sourceContextPages": [
+        590
+      ],
+      "questionPages": [
+        590
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 599,
+      "shortKey": "BC",
+      "detailedKey": "BC",
+      "activeKey": "BC",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 591,
+      "sourceContextPages": [
+        590,
+        591
+      ],
+      "questionPages": [
+        591
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 600,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 591,
+      "sourceContextPages": [
+        591
+      ],
+      "questionPages": [
+        591
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 600,
+      "shortKey": "DE",
+      "detailedKey": "DE",
+      "activeKey": "DE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        8
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 592,
+      "sourceContextPages": [
+        591,
+        592
+      ],
+      "questionPages": [
+        592
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 601,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        8,
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 592,
+      "sourceContextPages": [
+        591,
+        592
+      ],
+      "questionPages": [
+        592
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 601,
+      "shortKey": "D",
+      "detailedKey": "D",
+      "activeKey": "D",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        8,
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "year": "2021-2022",
+      "session": "s1",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 592,
+      "sourceContextPages": [
+        592
+      ],
+      "questionPages": [
+        592
+      ],
+      "shortCorrectionPage": 594,
+      "detailedCorrectionPage": 602,
+      "shortKey": "AE",
+      "detailedKey": "AE",
+      "activeKey": "AE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 604,
+      "sourceContextPages": [],
+      "questionPages": [
+        604
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 609,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 604,
+      "sourceContextPages": [
+        604
+      ],
+      "questionPages": [
+        604
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 609,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 604,
+      "sourceContextPages": [
+        604
+      ],
+      "questionPages": [
+        604
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 610,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 605,
+      "sourceContextPages": [
+        605
+      ],
+      "questionPages": [
+        605
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 611,
+      "shortKey": "BC",
+      "detailedKey": "BC",
+      "activeKey": "BC",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 605,
+      "sourceContextPages": [
+        605
+      ],
+      "questionPages": [
+        605
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 611,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 606,
+      "sourceContextPages": [
+        605
+      ],
+      "questionPages": [
+        606
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 612,
+      "shortKey": "BCDE",
+      "detailedKey": "BCDE",
+      "activeKey": "BCDE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "year": "2021-2022",
+      "session": "s2",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 606,
+      "sourceContextPages": [
+        605,
+        606
+      ],
+      "questionPages": [
+        606
+      ],
+      "shortCorrectionPage": 608,
+      "detailedCorrectionPage": 612,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 614,
+      "sourceContextPages": [
+        614
+      ],
+      "questionPages": [
+        614
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 625,
+      "shortKey": "ACE",
+      "detailedKey": "ACE",
+      "activeKey": "ACE",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 614,
+      "sourceContextPages": [
+        614
+      ],
+      "questionPages": [
+        614
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 626,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 614,
+      "sourceContextPages": [
+        614
+      ],
+      "questionPages": [
+        614
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 626,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 615,
+      "sourceContextPages": [
+        615
+      ],
+      "questionPages": [
+        615
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 627,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 615,
+      "sourceContextPages": [
+        615
+      ],
+      "questionPages": [
+        615
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 627,
+      "shortKey": "BCE",
+      "detailedKey": "BCE",
+      "activeKey": "BCE",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "original_propositions_panel",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 616,
+      "sourceContextPages": [
+        615
+      ],
+      "questionPages": [
+        616
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 628,
+      "shortKey": "AC",
+      "detailedKey": "AC",
+      "activeKey": "AC",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 616,
+      "sourceContextPages": [
+        615,
+        616
+      ],
+      "questionPages": [
+        616
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 629,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 616,
+      "sourceContextPages": [
+        616
+      ],
+      "questionPages": [
+        616
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 630,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 617,
+      "sourceContextPages": [
+        617
+      ],
+      "questionPages": [
+        617
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 631,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 617,
+      "sourceContextPages": [
+        617
+      ],
+      "questionPages": [
+        617
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 631,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "year": "2020-2021",
+      "session": "paces",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 618,
+      "sourceContextPages": [
+        618
+      ],
+      "questionPages": [
+        618
+      ],
+      "shortCorrectionPage": 624,
+      "detailedCorrectionPage": 632,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        619,
+        620,
+        621,
+        622
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 634,
+      "sourceContextPages": [
+        634
+      ],
+      "questionPages": [
+        634
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 641,
+      "shortKey": "DE",
+      "detailedKey": "DE",
+      "activeKey": "DE",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 634,
+      "sourceContextPages": [
+        634
+      ],
+      "questionPages": [
+        634
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 642,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 635,
+      "sourceContextPages": [
+        635
+      ],
+      "questionPages": [
+        635
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 642,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 635,
+      "sourceContextPages": [
+        635
+      ],
+      "questionPages": [
+        635
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 643,
+      "shortKey": "CDE",
+      "detailedKey": "CDE",
+      "activeKey": "CDE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 635,
+      "sourceContextPages": [
+        635
+      ],
+      "questionPages": [
+        635
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 644,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 636,
+      "sourceContextPages": [
+        636
+      ],
+      "questionPages": [
+        636
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 645,
+      "shortKey": "ABC",
+      "detailedKey": "ABC",
+      "activeKey": "ABC",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 636,
+      "sourceContextPages": [
+        636
+      ],
+      "questionPages": [
+        636
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 646,
+      "shortKey": "CE",
+      "detailedKey": "CE",
+      "activeKey": "CE",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "Dans le sujet original, la phrase de l’item E est incomplète (« population du personnel COVID-19 est de 10 % »). Elle est reproduite sans ajout ; le corrigé est conservé tel que fourni.",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 636,
+      "sourceContextPages": [
+        636
+      ],
+      "questionPages": [
+        636
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 647,
+      "shortKey": "ACD",
+      "detailedKey": "ACD",
+      "activeKey": "ACD",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 637,
+      "sourceContextPages": [
+        636,
+        637
+      ],
+      "questionPages": [
+        637
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 648,
+      "shortKey": "ACDE",
+      "detailedKey": "ACDE",
+      "activeKey": "ACDE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        8,
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 637,
+      "sourceContextPages": [
+        637
+      ],
+      "questionPages": [
+        637
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 648,
+      "shortKey": "ABE",
+      "detailedKey": "ABE",
+      "activeKey": "ABE",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "year": "2020-2021",
+      "session": "s1",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 637,
+      "sourceContextPages": [
+        637
+      ],
+      "questionPages": [
+        637
+      ],
+      "shortCorrectionPage": 640,
+      "detailedCorrectionPage": 649,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 652,
+      "sourceContextPages": [
+        652
+      ],
+      "questionPages": [
+        652
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 656,
+      "shortKey": "ACD",
+      "detailedKey": "ACD",
+      "activeKey": "ACD",
+      "detailedVerdictKey": null,
+      "category": "Statistiques descriptives",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 652,
+      "sourceContextPages": [
+        652
+      ],
+      "questionPages": [
+        652
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 657,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 652,
+      "sourceContextPages": [
+        652
+      ],
+      "questionPages": [
+        652
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 657,
+      "shortKey": "ACDE",
+      "detailedKey": "ACDE",
+      "activeKey": "ACDE",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2,
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 652,
+      "sourceContextPages": [
+        652
+      ],
+      "questionPages": [
+        652
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 658,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 653,
+      "sourceContextPages": [
+        653
+      ],
+      "questionPages": [
+        653
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 659,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 653,
+      "sourceContextPages": [
+        653
+      ],
+      "questionPages": [
+        653
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 659,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        5,
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "year": "2020-2021",
+      "session": "s2",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 654,
+      "sourceContextPages": [
+        654
+      ],
+      "questionPages": [
+        654
+      ],
+      "shortCorrectionPage": 656,
+      "detailedCorrectionPage": 660,
+      "shortKey": "AB",
+      "detailedKey": "AB",
+      "activeKey": "AB",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 662,
+      "sourceContextPages": [
+        662
+      ],
+      "questionPages": [
+        662
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 673,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 662,
+      "sourceContextPages": [
+        662
+      ],
+      "questionPages": [
+        662
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 674,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        1,
+        2
+      ],
+      "renderMode": "numeric_code_table",
+      "warning": "Coquille de signe dans le corrigé détaillé original : le second événement est écrit F ≤ 0,82, alors que le sujet demande F > 0,82. Le calcul des deux queues et la clé ABCD (0,62) concordent avec l’énoncé ; cette clé est conservée.",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 662,
+      "sourceContextPages": [
+        662
+      ],
+      "questionPages": [
+        662
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 675,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 663,
+      "sourceContextPages": [
+        662,
+        663
+      ],
+      "questionPages": [
+        663
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 675,
+      "shortKey": "AE",
+      "detailedKey": "AE",
+      "activeKey": "AE",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        3,
+        4
+      ],
+      "renderMode": "numeric_code_table",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 663,
+      "sourceContextPages": [
+        663
+      ],
+      "questionPages": [
+        663
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 676,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 664,
+      "sourceContextPages": [
+        663
+      ],
+      "questionPages": [
+        664
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 677,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 664,
+      "sourceContextPages": [
+        663,
+        664
+      ],
+      "questionPages": [
+        664
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 678,
+      "shortKey": "BD",
+      "detailedKey": "BD",
+      "activeKey": "BD",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 664,
+      "sourceContextPages": [
+        664
+      ],
+      "questionPages": [
+        664
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 679,
+      "shortKey": "ABD",
+      "detailedKey": "ABD",
+      "activeKey": "ABD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 665,
+      "sourceContextPages": [
+        664,
+        665
+      ],
+      "questionPages": [
+        665
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 680,
+      "shortKey": "ADE",
+      "detailedKey": "ADE",
+      "activeKey": "ADE",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        8,
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 665,
+      "sourceContextPages": [
+        665
+      ],
+      "questionPages": [
+        665
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 680,
+      "shortKey": "AE",
+      "detailedKey": "AE",
+      "activeKey": "AE",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "year": "2019-2020",
+      "session": "paces",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 666,
+      "sourceContextPages": [
+        666
+      ],
+      "questionPages": [
+        666
+      ],
+      "shortCorrectionPage": 672,
+      "detailedCorrectionPage": 682,
+      "shortKey": "AC",
+      "detailedKey": "AC",
+      "activeKey": "AC",
+      "detailedVerdictKey": null,
+      "category": "Survie",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669,
+        670
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 1,
+      "sourceNumber": "1",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 684,
+      "sourceContextPages": [
+        684
+      ],
+      "questionPages": [
+        684
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 691,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Probabilités et lois",
+      "contextQuestionNumbers": [
+        1
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 2,
+      "sourceNumber": "2",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 684,
+      "sourceContextPages": [
+        684
+      ],
+      "questionPages": [
+        684
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 692,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Estimation",
+      "contextQuestionNumbers": [
+        2
+      ],
+      "renderMode": "numeric_code_table",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 3,
+      "sourceNumber": "3",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 685,
+      "sourceContextPages": [
+        684
+      ],
+      "questionPages": [
+        685
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 692,
+      "shortKey": "CD",
+      "detailedKey": "CD",
+      "activeKey": "CD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        2,
+        3
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 4,
+      "sourceNumber": "4",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 685,
+      "sourceContextPages": [
+        685
+      ],
+      "questionPages": [
+        685
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 693,
+      "shortKey": "E",
+      "detailedKey": "E",
+      "activeKey": "E",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        4
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 5,
+      "sourceNumber": "5",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 685,
+      "sourceContextPages": [
+        685
+      ],
+      "questionPages": [
+        685
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 693,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Corrélation et régression",
+      "contextQuestionNumbers": [
+        4,
+        5
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 6,
+      "sourceNumber": "6",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 686,
+      "sourceContextPages": [
+        685
+      ],
+      "questionPages": [
+        686
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 694,
+      "shortKey": "C",
+      "detailedKey": "C",
+      "activeKey": "C",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 7,
+      "sourceNumber": "7",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 686,
+      "sourceContextPages": [
+        685,
+        686
+      ],
+      "questionPages": [
+        686
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 695,
+      "shortKey": "BDE",
+      "detailedKey": "BDE",
+      "activeKey": "BDE",
+      "detailedVerdictKey": null,
+      "category": "Tests diagnostiques",
+      "contextQuestionNumbers": [
+        6,
+        7
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 8,
+      "sourceNumber": "8",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 686,
+      "sourceContextPages": [
+        686
+      ],
+      "questionPages": [
+        686
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 696,
+      "shortKey": "BCD",
+      "detailedKey": "BCD",
+      "activeKey": "BCD",
+      "detailedVerdictKey": null,
+      "category": "Épidémiologie",
+      "contextQuestionNumbers": [
+        8
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 9,
+      "sourceNumber": "9",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 687,
+      "sourceContextPages": [
+        686,
+        687
+      ],
+      "questionPages": [
+        687
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 696,
+      "shortKey": "AD",
+      "detailedKey": "AD",
+      "activeKey": "AD",
+      "detailedVerdictKey": null,
+      "category": "Tests de comparaison",
+      "contextQuestionNumbers": [
+        8,
+        9
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 10,
+      "sourceNumber": "10",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 687,
+      "sourceContextPages": [
+        687
+      ],
+      "questionPages": [
+        687
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 697,
+      "shortKey": "BC",
+      "detailedKey": "BC",
+      "activeKey": "BC",
+      "detailedVerdictKey": null,
+      "category": "Essais cliniques",
+      "contextQuestionNumbers": [
+        10
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "year": "2018-2019",
+      "session": "paces",
+      "number": 11,
+      "sourceNumber": "11",
+      "decision": "included",
+      "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
+      "subjectPage": 688,
+      "sourceContextPages": [
+        688
+      ],
+      "questionPages": [
+        688
+      ],
+      "shortCorrectionPage": 690,
+      "detailedCorrectionPage": 698,
+      "shortKey": "ABCD",
+      "detailedKey": "ABCD",
+      "activeKey": "ABCD",
+      "detailedVerdictKey": null,
+      "category": "Survie",
+      "contextQuestionNumbers": [
+        11
+      ],
+      "renderMode": "text_options",
+      "warning": "",
+      "referencePages": [
+        667,
+        668,
+        669
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page": 487,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "subject_cover"
+    },
+    {
+      "page": 488,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "subject"
+    },
+    {
+      "page": 489,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "subject"
+    },
+    {
+      "page": 490,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "subject"
+    },
+    {
+      "page": 491,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "subject"
+    },
+    {
+      "page": 492,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "subject"
+    },
+    {
+      "page": 493,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction_cover"
+    },
+    {
+      "page": 494,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction_key"
+    },
+    {
+      "page": 495,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 496,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 497,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 498,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 499,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 500,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 501,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 502,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 503,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 504,
+      "exam": "annales.ue3.2025-2026.s1",
+      "role": "correction"
+    },
+    {
+      "page": 505,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "subject_cover"
+    },
+    {
+      "page": 506,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "subject"
+    },
+    {
+      "page": 507,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "subject"
+    },
+    {
+      "page": 508,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "subject"
+    },
+    {
+      "page": 509,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "subject"
+    },
+    {
+      "page": 510,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "subject"
+    },
+    {
+      "page": 511,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction_cover"
+    },
+    {
+      "page": 512,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction_key"
+    },
+    {
+      "page": 513,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 514,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 515,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 516,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 517,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 518,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 519,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 520,
+      "exam": "annales.ue3.2024-2025.s1",
+      "role": "correction"
+    },
+    {
+      "page": 521,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "subject_cover"
+    },
+    {
+      "page": 522,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "subject"
+    },
+    {
+      "page": 523,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "subject"
+    },
+    {
+      "page": 524,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "subject_blank"
+    },
+    {
+      "page": 525,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction_cover"
+    },
+    {
+      "page": 526,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction_key"
+    },
+    {
+      "page": 527,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction"
+    },
+    {
+      "page": 528,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction"
+    },
+    {
+      "page": 529,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction"
+    },
+    {
+      "page": 530,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction"
+    },
+    {
+      "page": 531,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction"
+    },
+    {
+      "page": 532,
+      "exam": "annales.ue3.2024-2025.s2",
+      "role": "correction"
+    },
+    {
+      "page": 533,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "subject_cover"
+    },
+    {
+      "page": 534,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "subject"
+    },
+    {
+      "page": 535,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "subject"
+    },
+    {
+      "page": 536,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "subject"
+    },
+    {
+      "page": 537,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "subject"
+    },
+    {
+      "page": 538,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "subject"
+    },
+    {
+      "page": 539,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction_cover"
+    },
+    {
+      "page": 540,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction_key"
+    },
+    {
+      "page": 541,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 542,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 543,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 544,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 545,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 546,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 547,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 548,
+      "exam": "annales.ue3.2023-2024.s1",
+      "role": "correction"
+    },
+    {
+      "page": 549,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "subject_cover"
+    },
+    {
+      "page": 550,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "subject"
+    },
+    {
+      "page": 551,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "subject"
+    },
+    {
+      "page": 552,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "subject_blank"
+    },
+    {
+      "page": 553,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "correction_cover"
+    },
+    {
+      "page": 554,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "correction_key"
+    },
+    {
+      "page": 555,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "correction"
+    },
+    {
+      "page": 556,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "correction"
+    },
+    {
+      "page": 557,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "correction"
+    },
+    {
+      "page": 558,
+      "exam": "annales.ue3.2023-2024.s2",
+      "role": "correction"
+    },
+    {
+      "page": 559,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "subject_cover"
+    },
+    {
+      "page": 560,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "subject"
+    },
+    {
+      "page": 561,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "subject"
+    },
+    {
+      "page": 562,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "subject"
+    },
+    {
+      "page": 563,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "subject"
+    },
+    {
+      "page": 564,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "subject"
+    },
+    {
+      "page": 565,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction_cover"
+    },
+    {
+      "page": 566,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction_key"
+    },
+    {
+      "page": 567,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 568,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 569,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 570,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 571,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 572,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 573,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 574,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 575,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 576,
+      "exam": "annales.ue3.2022-2023.s1",
+      "role": "correction"
+    },
+    {
+      "page": 577,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "subject_cover"
+    },
+    {
+      "page": 578,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "subject"
+    },
+    {
+      "page": 579,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "subject"
+    },
+    {
+      "page": 580,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "subject"
+    },
+    {
+      "page": 581,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "correction_cover"
+    },
+    {
+      "page": 582,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "correction_key"
+    },
+    {
+      "page": 583,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "correction"
+    },
+    {
+      "page": 584,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "correction"
+    },
+    {
+      "page": 585,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "correction"
+    },
+    {
+      "page": 586,
+      "exam": "annales.ue3.2022-2023.s2",
+      "role": "correction"
+    },
+    {
+      "page": 587,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "subject_cover"
+    },
+    {
+      "page": 588,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "subject"
+    },
+    {
+      "page": 589,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "subject"
+    },
+    {
+      "page": 590,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "subject"
+    },
+    {
+      "page": 591,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "subject"
+    },
+    {
+      "page": 592,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "subject"
+    },
+    {
+      "page": 593,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction_cover"
+    },
+    {
+      "page": 594,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction_key"
+    },
+    {
+      "page": 595,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 596,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 597,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 598,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 599,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 600,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 601,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 602,
+      "exam": "annales.ue3.2021-2022.s1",
+      "role": "correction"
+    },
+    {
+      "page": 603,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "subject_cover"
+    },
+    {
+      "page": 604,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "subject"
+    },
+    {
+      "page": 605,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "subject"
+    },
+    {
+      "page": 606,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "subject"
+    },
+    {
+      "page": 607,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "correction_cover"
+    },
+    {
+      "page": 608,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "correction_key"
+    },
+    {
+      "page": 609,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "correction"
+    },
+    {
+      "page": 610,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "correction"
+    },
+    {
+      "page": 611,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "correction"
+    },
+    {
+      "page": 612,
+      "exam": "annales.ue3.2021-2022.s2",
+      "role": "correction"
+    },
+    {
+      "page": 613,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject_cover"
+    },
+    {
+      "page": 614,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject"
+    },
+    {
+      "page": 615,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject"
+    },
+    {
+      "page": 616,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject"
+    },
+    {
+      "page": 617,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject"
+    },
+    {
+      "page": 618,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject"
+    },
+    {
+      "page": 619,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 620,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 621,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 622,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 623,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction_cover"
+    },
+    {
+      "page": 624,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction_key"
+    },
+    {
+      "page": 625,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 626,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 627,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 628,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 629,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 630,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 631,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 632,
+      "exam": "annales.ue3.2020-2021.paces",
+      "role": "correction"
+    },
+    {
+      "page": 633,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "subject_cover"
+    },
+    {
+      "page": 634,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "subject"
+    },
+    {
+      "page": 635,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "subject"
+    },
+    {
+      "page": 636,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "subject"
+    },
+    {
+      "page": 637,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "subject"
+    },
+    {
+      "page": 638,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "subject_blank"
+    },
+    {
+      "page": 639,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction_cover"
+    },
+    {
+      "page": 640,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction_key"
+    },
+    {
+      "page": 641,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 642,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 643,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 644,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 645,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 646,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 647,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 648,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 649,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 650,
+      "exam": "annales.ue3.2020-2021.s1",
+      "role": "correction"
+    },
+    {
+      "page": 651,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "subject_cover"
+    },
+    {
+      "page": 652,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "subject"
+    },
+    {
+      "page": 653,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "subject"
+    },
+    {
+      "page": 654,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "subject"
+    },
+    {
+      "page": 655,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "correction_cover"
+    },
+    {
+      "page": 656,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "correction_key"
+    },
+    {
+      "page": 657,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "correction"
+    },
+    {
+      "page": 658,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "correction"
+    },
+    {
+      "page": 659,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "correction"
+    },
+    {
+      "page": 660,
+      "exam": "annales.ue3.2020-2021.s2",
+      "role": "correction"
+    },
+    {
+      "page": 661,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject_cover"
+    },
+    {
+      "page": 662,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject"
+    },
+    {
+      "page": 663,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject"
+    },
+    {
+      "page": 664,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject"
+    },
+    {
+      "page": 665,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject"
+    },
+    {
+      "page": 666,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject"
+    },
+    {
+      "page": 667,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 668,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 669,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 670,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "subject_reference"
+    },
+    {
+      "page": 671,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction_cover"
+    },
+    {
+      "page": 672,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction_key"
+    },
+    {
+      "page": 673,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 674,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 675,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 676,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 677,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 678,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 679,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 680,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 681,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 682,
+      "exam": "annales.ue3.2019-2020.paces",
+      "role": "correction"
+    },
+    {
+      "page": 683,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "subject_cover"
+    },
+    {
+      "page": 684,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "subject"
+    },
+    {
+      "page": 685,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "subject"
+    },
+    {
+      "page": 686,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "subject"
+    },
+    {
+      "page": 687,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "subject"
+    },
+    {
+      "page": 688,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "subject"
+    },
+    {
+      "page": 689,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction_cover"
+    },
+    {
+      "page": 690,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction_key"
+    },
+    {
+      "page": 691,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 692,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 693,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 694,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 695,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 696,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 697,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    },
+    {
+      "page": 698,
+      "exam": "annales.ue3.2018-2019.paces",
+      "role": "correction"
+    }
+  ],
+  "exclusions": [
+    {
+      "kind": "subject_blank",
+      "pages": [
+        524,
+        552,
+        638
+      ],
+      "reason": "Pages vides du sujet, aucun QCM."
+    },
+    {
+      "kind": "covers",
+      "count": 28,
+      "reason": "Couvertures des 14 sujets et 14 corrigés, pas de question."
+    }
+  ],
+  "yearExclusions": [],
+  "warnings": [
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 6,
+      "kind": "source_prompt_inconsistency"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 7,
+      "kind": "source_prompt_inconsistency"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 8,
+      "kind": "source_prompt_inconsistency"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 5,
+      "kind": "status_key_conflict",
+      "grid": "BCE",
+      "labels": "ACE"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "question": 7,
+      "kind": "source_incomplete_item",
+      "option": "E"
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "question": 2,
+      "kind": "source_correction_inequality_typo",
+      "correctionPage": 674,
+      "keptKey": "ABCD"
+    }
+  ]
+}

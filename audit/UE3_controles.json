@@ -1,0 +1,110 @@
+{
+  "stats": {
+    "subjects": 14,
+    "questions": 138,
+    "scoredQuestions": 137,
+    "ungradedQuestions": 1,
+    "questionExclusions": 0,
+    "years": [
+      "2018-2019",
+      "2019-2020",
+      "2020-2021",
+      "2021-2022",
+      "2022-2023",
+      "2023-2024",
+      "2024-2025",
+      "2025-2026"
+    ],
+    "minimumAllowedYear": 2015,
+    "subjectPages": 68,
+    "assets": 434,
+    "assetBytes": 18607898,
+    "assetsByRole": {
+      "subject": 292,
+      "correction": 142
+    },
+    "questionRenderModes": {
+      "original_propositions_panel": 16,
+      "text_options": 119,
+      "numeric_code_table": 3
+    },
+    "sourceWarnings": 6,
+    "keyComparisons": 138,
+    "keyMatches": 138
+  },
+  "errors": [],
+  "checks": [
+    {
+      "pass": 1,
+      "name": "Inventaire sujet par sujet",
+      "result": "14 sujets et 14 corrigés identifiés ; 138 numéros d’origine, dont 3 réponses numériques codées."
+    },
+    {
+      "pass": 2,
+      "name": "Énoncés et dépendances",
+      "result": "Consignes relues ; contextes communs repris, y compris lorsqu’ils débutent à la page précédente ; dépendances et aides de calcul visibles."
+    },
+    {
+      "pass": 3,
+      "name": "Clés de correction",
+      "result": "138 comparaisons : grille courte = clé détaillée ; un conflit additionnel entre clé et verdicts VRAI/FAUX neutralisé hors note."
+    },
+    {
+      "pass": 4,
+      "name": "Images et mathématiques",
+      "result": "Formules, exposants, tableaux codés et figures conservés en extraits originaux ; panneaux A–E utilisés lorsque les équations se chevauchent verticalement."
+    },
+    {
+      "pass": 5,
+      "name": "Contrôle anti-fuite",
+      "result": "68 pages de sujets examinées en planches, cas graphiques/mathématiques sensibles agrandis. Aucune annotation de correction repérée. Toutes les images visibles avant correction appartiennent à des pages sujet."
+    },
+    {
+      "pass": 6,
+      "name": "Structure et références",
+      "result": "IDs, stockage, numérotation, cinq options, titres, images existantes et 100 % des références/provenances validés."
+    }
+  ],
+  "warnings": [
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 6,
+      "kind": "source_prompt_inconsistency"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 7,
+      "kind": "source_prompt_inconsistency"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 8,
+      "kind": "source_prompt_inconsistency"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 5,
+      "kind": "status_key_conflict",
+      "grid": "BCE",
+      "labels": "ACE"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "question": 7,
+      "kind": "source_incomplete_item",
+      "option": "E"
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "question": 2,
+      "kind": "source_correction_inequality_typo",
+      "correctionPage": 674,
+      "keptKey": "ABCD"
+    }
+  ],
+  "limits": [
+    "Le document source comporte des erreurs signalées dans les avertissements ; elles ne sont pas corrigées silencieusement.",
+    "Cette intégration vérifie la fidélité des énoncés et l’accord des sources ; elle ne constitue pas une nouvelle validation scientifique indépendante des 138 corrigés."
+  ],
+  "obsoleteRendersRemoved": 97
+}

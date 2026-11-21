@@ -1,0 +1,21 @@
+{
+  "pattern": "^[ABCDE][.)-]\\S",
+  "questionsChecked": 364,
+  "hits": [
+    {
+      "sourceSet": "2020paces",
+      "number": 21,
+      "kind": "correction",
+      "text": "D-glucose.",
+      "page": 383
+    },
+    {
+      "sourceSet": "2020paces",
+      "number": 26,
+      "kind": "subject",
+      "text": "D-glucose et l’acide D-gluconique.",
+      "page": 364
+    }
+  ],
+  "resolution": "A list marker now requires whitespace/end after punctuation. Subject options already required it. The only affected continuation was β-D-glucose in PACES2020Q21C; it is now complete."
+}

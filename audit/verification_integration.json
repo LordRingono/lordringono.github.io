@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "ue2c": {
+      "series": 108,
+      "questions": 364,
+      "graded": 358,
+      "warnings": 30,
+      "ungraded": 6
+    },
+    "ue3": {
+      "series": 14,
+      "questions": 138,
+      "graded": 137,
+      "warnings": 6,
+      "ungraded": 1
+    },
+    "ue4": {
+      "series": 154,
+      "questions": 336,
+      "graded": 324,
+      "warnings": 15,
+      "ungraded": 12,
+      "empty_keys": 1
+    }
+  },
+  "errors": [],
+  "notices": [],
+  "manual_grid_review": [],
+  "independently_checked_keys": 819,
+  "asset_references_checked": 2946,
+  "unique_images_decoded": 2421,
+  "all_site_asset_references": 2685,
+  "source_pdf_sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec"
+}
