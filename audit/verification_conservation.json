@@ -1,8 +1,30 @@
 {
-  "banks": 80,
-  "questions": 1950,
+  "banks": 77,
+  "questions": 1824,
   "assets": 165,
-  "rendered_states": 5850,
-  "score_checks": 240,
-  "result": "PASS"
+  "rendered_states": 5472,
+  "score_checks": 231,
+  "revised_ED_banks": 3,
+  "revised_ED_questions": 126,
+  "revised_ED_score_checks": 6,
+  "documented_ED_key_repairs": {
+    "6": [
+      "",
+      "C"
+    ],
+    "7": [
+      "A",
+      "B"
+    ],
+    "8": [
+      "",
+      "BC"
+    ],
+    "13": [
+      "",
+      "BD"
+    ]
+  },
+  "result": "PASS",
+  "ED_saved_progress_migrations": 3
 }

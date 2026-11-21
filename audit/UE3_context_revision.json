@@ -1,0 +1,2213 @@
+{
+  "version": 2,
+  "backup": "work/agents/ue3/v1",
+  "subjects": 14,
+  "questions": 138,
+  "sharedContextCount": 39,
+  "sharedContexts": [
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "id": "annales.ue3.2025-2026.s1.context.douleur",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 489,
+      "sourceEndPage": 489,
+      "text": "",
+      "sourceText": "Exercice 4 : Dans le cadre d’une étude, 16 patientes sont réparties aléatoirement en deux groupes de même effectif avant leur accouchement. Leurs douleurs post-partum sont mesurées par une échelle visuelle analogique. Les patientes du groupe 1 reçoivent comme antidouleur du paracétamol et celles du groupe 2 de l’ibuprofène. Les groupes 1 et 2 sont représentatifs des populations respectives P1 et P2. L’évolution D du score de douleur (après-avant) traitement est en moyenne de -3 et de -2,5 avec un écart type estimé de 0,3 et 0,4 respectivement dans le groupe 1 et le groupe 2.",
+      "images": [
+        "static/annales_ue3_2025-2026_s1_q04_context_p489.webp"
+      ],
+      "prefixQuestion": 4,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "id": "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+      "questionNumbers": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sourceStartPage": 490,
+      "sourceEndPage": 490,
+      "text": "",
+      "sourceText": "Exercice 5 : Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s) gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies ont été évaluées.",
+      "images": [
+        "static/annales_ue3_2025-2026_s1_q06_context_p490.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "id": "annales.ue3.2025-2026.s1.context.specificite_necker",
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 491,
+      "sourceEndPage": 491,
+      "text": "",
+      "sourceText": "A l'hôpital Necker (centre de référence en France), en utilisant l'anomalie gastroentérologique, la spécificité est de 85% (valeur de référence). On souhaite comparer la spécificité estimée dans l'étude à l'HFME par rapport à la valeur de référence à Necker. On donne √(0.8*0.2) = 0.4 et √(0.85*0.15) = 0.3",
+      "images": [
+        "static/annales_ue3_2025-2026_s1_q08_context_p491.webp"
+      ],
+      "prefixQuestion": 8,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "id": "annales.ue3.2024-2025.s1.context.fonction_renale",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 507,
+      "sourceEndPage": 507,
+      "text": "",
+      "sourceText": "Exercice 4 : 4. Une étude a pour objectif d'étudier l'effet de deux prises en charges sur la fonction rénale. Un total de 36 patients est recruté́. Les patients sont repartis aléatoirement en deux groupes d'effectifs égaux. Le premier groupe a comme traitement standard un inhibiteur de l'enzyme de conversion et le deuxième groupe un programme nutritionnel avec un régime pauvre en protéines et un suivi diététique. Le taux de créatinine plasmatique moyen est de 10,0 mg/L dans le groupe 1 avec une variance estimée de 8,0 (mg/L)2 et de 13,0 mg/L dans le groupe 2 avec une variance estimée de 10,0 (mg/L)2. X1 et X2 sont les variables aléatoires qui représentent les données dans les populations respectives 1 et 2 dont les groupes 1 et 2 sont respectivement représentatifs.",
+      "images": [
+        "static/annales_ue3_2024-2025_s1_q04_context_p507.webp"
+      ],
+      "prefixQuestion": 4,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "id": "annales.ue3.2024-2025.s1.context.metastases",
+      "questionNumbers": [
+        9,
+        10
+      ],
+      "sourceStartPage": 509,
+      "sourceEndPage": 509,
+      "text": "",
+      "sourceText": "Exercice 6 9. Une étude a évalué les performances diagnostiques de l’IRM corps entier et du scanner pour le diagnostic de métastases chez des patients atteints d’un cancer du poumon. Les performances diagnostiques sont rapportées dans le tableau suivant : IRM corps entier Scanner Sensibilité 60 % 50 % Spécificité 90 % 95 % On considère que la prévalence de métastases au diagnostic de cancer du poumon est de 25 %.",
+      "images": [
+        "static/annales_ue3_2024-2025_s1_q09_context_p509.webp"
+      ],
+      "prefixQuestion": 9,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "id": "annales.ue3.2024-2025.s2.context.test_student",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 522,
+      "sourceEndPage": 522,
+      "text": "",
+      "sourceText": "Exercice 2 Vous avez effectué un test bilatéral de comparaison de deux moyennes, échantillons indépendants. La valeur de la statistique du test a été lue dans la table du Student à 10 degrés de liberté. La valeur prise par la statistique du test est 2,345.",
+      "images": [
+        "static/annales_ue3_2024-2025_s2_q02_context_p522.webp"
+      ],
+      "prefixQuestion": 2,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "id": "annales.ue3.2024-2025.s2.context.fibromes",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 522,
+      "sourceEndPage": 522,
+      "text": "",
+      "sourceText": "Une étude s’intéresse aux facteurs de risque d’échec de résection hystéréoscopique de fibrome intra- cavitaire. Elle a porté sur toutes les patientes ayant eu ce type de résection à l’hôpital Lyon Sud entre janvier 2019 et janvier 2024 ; leurs facteurs de risque ont été recueillis, puis les patientes ont été suivies après la résection pour déterminer si elles étaient en succès ou échec de résection. Parmi les facteurs de risque, les chirurgiens se sont intéressés en particulier à la taille du fibrome : ≥ 30 mm vs < 30 mm. Les résultats de l’étude sont donnés ci-dessous : Succès de la résection Échec de la résection Fibrome < 30 mm 70 10 Fibrome ≥ 30 mm 20 10",
+      "images": [
+        "static/annales_ue3_2024-2025_s2_q04_context_p522.webp"
+      ],
+      "prefixQuestion": 4,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "id": "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 534,
+      "sourceEndPage": 534,
+      "text": "",
+      "sourceText": "Exercice 2 L'objectif d'une étude est d'étudier l'effet d'un traitement intensif sur la survenue de problèmes cardiovasculaires chez des patients présentant un diabète de type 2. Sur 500 patients suivis, on observe 75 patients qui présentent au moins un événement cardiovasculaire. On demande de calculer l'intervalle de confiance à 95 % de la probabilité pour un sujet de présenter au moins un événement cardiovasculaire au cours de sa période de suivi. Vous garderez 2 chiffres après la virgule à la valeur lue dans la table statistique et au résultat final.",
+      "images": [
+        "static/annales_ue3_2023-2024_s1_q02_context_p534.webp"
+      ],
+      "prefixQuestion": 2,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "id": "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie",
+      "questionNumbers": [
+        7,
+        8
+      ],
+      "sourceStartPage": 536,
+      "sourceEndPage": 536,
+      "text": "",
+      "sourceText": "Exercice 6 Une étude a évalué les performances du dosage dans le sang des marqueurs COMP et SDF-1 pour le diagnostic d'arthropathie hémophilique chez des patients souffrant d'hémophilie sévère. Les courbes ROC de ces deux marqueurs sont représentées sur la figure ci-dessous : Le point en gris correspond à un point de sensibilité 0,93 et de spécificité 0,5.",
+      "images": [
+        "static/annales_ue3_2023-2024_s1_q07_context_p536.webp"
+      ],
+      "prefixQuestion": 7,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "id": "annales.ue3.2023-2024.s2.context.thrombectomie",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 551,
+      "sourceEndPage": 551,
+      "text": "",
+      "sourceText": "6. Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle (groupe contrôle) chez des patients avec un AVC dont le niveau d’ischémie est élevé. Le critère de jugement principal était le fait que le handicap neurologique à 90 jours après l’inclusion soit léger (ou nul). Parmi les 150 patients randomisés dans le groupe thrombectomie, 30 avaient un handicap neurologique léger ou nul à 90 jours contre 3 pour les 150 patients randomisés dans le groupe contrôle.",
+      "images": [
+        "static/annales_ue3_2023-2024_s2_q06_context_p551.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "id": "annales.ue3.2022-2023.s1.context.bicarbonate",
+      "questionNumbers": [
+        1,
+        2,
+        3
+      ],
+      "sourceStartPage": 560,
+      "sourceEndPage": 560,
+      "text": "",
+      "sourceText": "Exercice 1 : Vous devez représenter graphiquement la distribution de la concentration plasmatique en bicarbonate (en mmol/L) d’un groupe de 400 patients ayant consulté pour des problèmes rénaux. Ces patients proviennent et sont représentatifs d’une population P. L’histogramme des effectifs de la concentration en bicarbonate de ces 400 patients est représenté ci-dessous :",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q01_context_p560.webp"
+      ],
+      "prefixQuestion": 1,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "id": "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 560,
+      "sourceEndPage": 560,
+      "text": "",
+      "sourceText": "On calcule l’intervalle de confiance à 95% de l’espérance μ de la concentration en bicarbonate dans la population P sachant que la moyenne de la concentration en bicarbonate des 400 patients est de 21,0 mmol/L et l’écart type estimé est de 2,0 mmol/L",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q02_context_p560.webp"
+      ],
+      "prefixQuestion": 2,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "id": "annales.ue3.2022-2023.s1.context.narcolepsie",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 561,
+      "sourceEndPage": 561,
+      "text": "",
+      "sourceText": "Exercice 2 : L'objectif d'une étude est d'évaluer les associations entre les capacités intellectuelles dans la gestion des troubles occasionnés par la narcolepsie chez les enfants à haut potentiel. Dans ce cadre, vous avez dû comparer l'indice de raisonnement perceptif (IRP) de Wechsler entre deux groupes de 14 enfants chacun. Le groupe des enfants narcoleptiques avait un IRP moyen égal à 128,04 avec un écart type estimé de 15,00 et le groupe des enfants contrôles un IRP moyen de 116,40 avec un écart type estimé de 15,00. Afin d'effectuer cette comparaison, vous effectuez un test statistique. La statistique de ce test a pris la valeur calculée de 2,053 dans ces données observées.",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q04_context_p561.webp"
+      ],
+      "prefixQuestion": 4,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "id": "annales.ue3.2022-2023.s1.context.cancer_poumon",
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 562,
+      "sourceEndPage": 562,
+      "text": "",
+      "sourceText": "Exercice 5 : Un essai clinique a été réalisé pour évaluer l'intérêt de I' Atezolizumab (immunothérapie) chez des patients atteints d'un cancer du poumon non à petites cellules. L'étude a concerné deux groupes de patients : ceux recevant de I' Atezolizumab et du Bevacizumab (Groupe 1), et ceux recevant uniquement de I' Atezolizumab (Groupe 2), car contre-indication au Bevacizumab. Le critère de jugement principal était la progression (aggravation) du cancer évalué au bout de deux cycles de traitement. Les résultats de l'étude sont présentés dans le tableau ci-dessous : Atezolizumab Atezolizumab (Groupe 2) + . Bevacizumab (Groupe 1) 40 Progression du cancer 50 Non progression du cancer 50 60",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q08_context_p562.webp"
+      ],
+      "prefixQuestion": 8,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "id": "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire",
+      "questionNumbers": [
+        10,
+        11
+      ],
+      "sourceStartPage": 563,
+      "sourceEndPage": 563,
+      "text": "",
+      "sourceText": "Exercice 6 : Une étude a été menée pour évaluer la sensibilité et la spécificité de deux examens pour le diagnostic du cancer du poumon, chez des patients avec une suspicion de cancer. La radiographie pulmonaire a une sensibilité de 80 %, et une spécificité de 95 %. Le scanner a une sensibilité de 90 %, et une spécificité de 90 %. Le résultat du scanner est à la base quantitatif (les valeurs élevées étant indicatrices de cancer) ; un seuil a été fixe pour binariser le résultat du scanner, conduisant à la sensibilité et à la spécificité indiquée.",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q10_context_p563.webp"
+      ],
+      "prefixQuestion": 10,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "id": "annales.ue3.2022-2023.s2.context.mesures",
+      "questionNumbers": [
+        1,
+        2,
+        3
+      ],
+      "sourceStartPage": 578,
+      "sourceEndPage": 578,
+      "text": "",
+      "sourceText": "Exercice 1 Vous avez ci-dessous l'histogramme des 8100 mesures que vous avez collectées dans le cadre d'une étude (n = 8100).",
+      "images": [
+        "static/annales_ue3_2022-2023_s2_q01_context_p578.webp"
+      ],
+      "prefixQuestion": 1,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "id": "annales.ue3.2022-2023.s2.context.parkinson",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 579,
+      "sourceEndPage": 579,
+      "text": "",
+      "sourceText": "Une étude a évalué les performances du dosage de la protéine Alpha synucléine dans le liquide céphalo rachidien pour le diagnostic de la maladie de Parkinson. La sensibilité du test a été estimée à 96% et la spécificité a 88%.",
+      "images": [
+        "static/annales_ue3_2022-2023_s2_q04_context_p579.webp"
+      ],
+      "prefixQuestion": 4,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "id": "annales.ue3.2022-2023.s2.context.tislezumab",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 580,
+      "sourceEndPage": 580,
+      "text": "",
+      "sourceText": "Exercice 3 Un essai clinique a été mené pour évaluer l'intérêt de l'ajout de Tislezumab (un anticorps anti PD-1) à la chimiothérapie classique chez des patients atteints d'un cancer de l'æsophage métastatique' Trois cents patients ont été randomisés dans le groupe Tislzumab + chimiothérapie, et 300 dans le groupe chimiothérapie seule. Le critère de jugement principal était le décès à un an de la randomisation' Les résultats de l'étude sont indiqués ci-dessous :",
+      "images": [
+        "static/annales_ue3_2022-2023_s2_q06_context_p580.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "id": "annales.ue3.2021-2022.s1.context.legionellose",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 590,
+      "sourceEndPage": 590,
+      "text": "",
+      "sourceText": "Exercice 6 Une étude s’intéresse à des marqueurs diagnostics de sévérité pulmonaire chez des patients atteints de légionellose, pris en charge à l’hôpital. Deux marqueurs sont étudiés : le dosage de LPS (lipopolysaccharides) et le résultat d’une PCR faite à partir du sérum. Une valeur élevée de marqueur est indicatrice de sévérité. Les courbes ROC de ces deux marqueurs sont représentées sur la figure 1. La figure 2 représente les distributions des valeurs des deux marqueurs selon le groupe sévérité pulmonaire",
+      "images": [
+        "static/annales_ue3_2021-2022_s1_q06_context_p590.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "id": "annales.ue3.2021-2022.s2.context.silicose_survie",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 605,
+      "sourceEndPage": 605,
+      "text": "",
+      "sourceText": "Une seconde étude en Chine a suivi 3500 personnes atteintes de silicose pour évaluer leur devenir, en particulier selon leur statut tabagique. Le tableau ci-dessous indique le devenir à 5 ans du diagnostic de silicose (vivant ou décédé) selon le statut tabagique. Aide au calcul : 525/700 = 0,75 525/175 = 3",
+      "images": [
+        "static/annales_ue3_2021-2022_s2_q06_context_p605.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "id": "annales.ue3.2020-2021.paces.context.scores_covid",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 615,
+      "sourceEndPage": 615,
+      "text": "",
+      "sourceText": "Exercice 6 : Une équipe chinoise a proposé plusieurs scores afin de déterminer, parmi les patients hospitalisés COVID-19, ceux qui vont évoluer vers une forme grave. Le gold standard (forme grave) repose sur des paramètres d’oxygénation, évalués toit au long de l’hospitalisation. Les deux scores proposés, HNC-LL et NLR, sont construits à partir de paramètre biologiques et cliniques évalués à l’admission à l’hôpital. Une valeur élevée de ces scores doit être indicatrice d’une évolution vers une forme grave. Les courbes ROC associées à ces deux scores sont représentées sur la figure ci-contre :",
+      "images": [
+        "static/annales_ue3_2020-2021_paces_q06_context_p615.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "id": "annales.ue3.2020-2021.s1.context.tests_covid",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 636,
+      "sourceEndPage": 636,
+      "text": "",
+      "sourceText": "Exercice 6 : La sensibilité des tests PCR pour la détection du Sars-Cov-2 est considérée de 65 %, la spécificité de 100%. La sensibilité d'un test salivaire est de 70 %, et sa spécificité de 95%. Par ailleurs, on considère que la prévalence du Sars-Cov-2 est plus élevée dans le Rhône qu'en Bourgogne.",
+      "images": [
+        "static/annales_ue3_2020-2021_s1_q06_context_p636.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "id": "annales.ue3.2020-2021.s1.context.reanimation_covid",
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 636,
+      "sourceEndPage": 636,
+      "text": "",
+      "sourceText": "Exercice 7 : Une étude a été réalisée sur tous les adultes hospitalisés le 27 mars aux HCL pour COVID-19 (342 patients Le 27 mars, 230 étaient en service de médecine (dont 50 avec un indice de masse corporelle supérieur à 3n IMC > 30), et 112 en soins-intensifs et réanimation (dont 40 avec un IMC supérieur à 30). On donne 180/72 = 5/2.",
+      "images": [
+        "static/annales_ue3_2020-2021_s1_q08_context_p636.webp"
+      ],
+      "prefixQuestion": 8,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "id": "annales.ue3.2020-2021.s2.context.albuminemie",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 652,
+      "sourceEndPage": 652,
+      "text": "",
+      "sourceText": "Exercice 2 : Un groupe de de 36 jeunes patients présentent une albuminémie de 36,0 g/L en moyenne avec un écart-type estimé de 1,8 g/L",
+      "images": [
+        "static/annales_ue3_2020-2021_s2_q02_context_p652.webp"
+      ],
+      "prefixQuestion": 2,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "id": "annales.ue3.2020-2021.s2.context.valeriane",
+      "questionNumbers": [
+        5,
+        6
+      ],
+      "sourceStartPage": 653,
+      "sourceEndPage": 653,
+      "text": "",
+      "sourceText": "Exercice 4 : Une étude s’intéresse au risque de complications lors de l’accouchement ou post-accouchement chez les femmes intégrées dans le programme Valériane (femmes avec des critères de vulnérabilité et de précarité). L’étude a porté sur le suivi de grossesse de 200 femmes Valérianes ; les résultats ont été comparés à ceux de toutes les grossesses de femmes non-Valérianes ayant accouché durant la même période dans les maternités couvertes par l’étude. Le critère de jugement est la survenue de complications lors de l’accouchement ou post-accouchement ; le facteur étudié et le statut des femmes (Valérianes ou non). Les résultats de l’étude sont présents dans le tableau ci- contre :",
+      "images": [
+        "static/annales_ue3_2020-2021_s2_q05_context_p653.webp"
+      ],
+      "prefixQuestion": 5,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "id": "annales.ue3.2019-2020.paces.context.arthrose",
+      "questionNumbers": [
+        1,
+        2
+      ],
+      "sourceStartPage": 662,
+      "sourceEndPage": 662,
+      "text": "",
+      "sourceText": "EXERCICE 1 On suppose qu’en population générale, 80% des personnes âgées de plus de 75 ans sont atteintes d’arthrose. La variable aléatoire F (fréquence empirique) représente la proportion de sujets atteints d’arthrose estimée à partir d’un échantillon représentatif de 100 sujets de plus de 75 ans de la population générale.",
+      "images": [
+        "static/annales_ue3_2019-2020_paces_q01_context_p662.webp"
+      ],
+      "prefixQuestion": 1,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "id": "annales.ue3.2019-2020.paces.context.hemoglobine",
+      "questionNumbers": [
+        3,
+        4
+      ],
+      "sourceStartPage": 662,
+      "sourceEndPage": 662,
+      "text": "",
+      "sourceText": "EXERCICE 2 Le taux d’hémoglobine chez la femme est en moyenne de 135 g/L. Lors d’une étude sur l’anémie des femmes enceintes, on mesure le taux d’hémoglobine de 25 femmes supplémentées quotidiennement en fer. La moyenne observée de cet échantillon est de 133 g/L et la variance est estimée à 36 (g/L)2. On souhaite comparer le taux d’hémoglobine des femmes enceintes supplémentées quotidiennement en fer au taux de référence chez la femme en population générale. Vous prendrez un risque d’erreur de 5%. La variable aléatoire X représente la variable d’étude « Taux d’hémoglobine chez les femmes traitées », et est supposée suivre une loi normale.",
+      "images": [
+        "static/annales_ue3_2019-2020_paces_q03_context_p662.webp"
+      ],
+      "prefixQuestion": 3,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "id": "annales.ue3.2019-2020.paces.context.irm_sein",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 663,
+      "sourceEndPage": 663,
+      "text": "",
+      "sourceText": "EXERCICE 4 Une étude a été réalisée pour évaluer les performances de l’IRM afin d’effectuer le diagnostic de cancer du sein. L’étude a porté sur 240 femmes avec des antécédents familiaux de cancer du sein, et présentant une boule à la palpation. Chez toutes ces femmes, une biopsie a été réalisée (examen considéré comme le gold standard ici). Les résultats de cette étude sont présentés ci-dessous : Biopsie positive Biopsie négative IRM positive 90 42 IRM négative 10 98 100 140 Aides aux calculs : 98/108 ≈ 0,91 ; 98/140 = 0,7",
+      "images": [
+        "static/annales_ue3_2019-2020_paces_q06_context_p663.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "id": "annales.ue3.2018-2019.paces.context.scores_saps_apache",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 685,
+      "sourceEndPage": 685,
+      "text": "Pour tester si la régression linéaire est significative, vous effectuez :",
+      "sourceText": "Le score Saps II (Simplified Acute Phyisiology Score II) est un autre score mis au point pour prédire la mortalité des patients. Afin d’évaluer s’il est possible de prédire le score Saps II d’un patient à partir de son score Apache II, 20 patients tirés au hasard remplissent les deux formulaires, du Saps II et de l’Apache II. L’estimation de l’ordonnée à l’origine de la droite de régression est de 12 et celle de la pente de 1 ,2. L’erreur type de l’ordonnée à l’origine est 8 et celle de la pente de 0,5.\n\nPour tester si la régression linéaire est significative, vous effectuez :",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_q04_context_p685.webp"
+      ],
+      "prefixQuestion": 4,
+      "note": "But du test de Q4 visible pour Q5 ; aucune proposition ni consigne de réponse unique propagée."
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "id": "annales.ue3.2018-2019.paces.context.ebola",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 685,
+      "sourceEndPage": 685,
+      "text": "",
+      "sourceText": "Exercice 3 : Une étude a été menée pour estimer les performances diagnostiques de deux tests sérologiques de détection du virus Ebola : un test ELISA et un test Luminex. Cette étude a porté sur 100 individus infectés par le virus et 100 individus non infectés d’après les résultats d’un gold standard. Pour la méthode Luminex, la sensibilité a été estimée à 90%, et la spécificité à 95%. Pour la méthode ELISA, les résultats du test en fonction du résultat obtenu par le gold standard sont indiqués ci-dessous :",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_q06_context_p685.webp"
+      ],
+      "prefixQuestion": 6,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "id": "annales.ue3.2018-2019.paces.context.omega3",
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 686,
+      "sourceEndPage": 686,
+      "text": "",
+      "sourceText": "Exercice 4 : Un essai clinique a été réalisé afin de déterminer si la consommation régulière d’Omega-3 permet de diminuer le risque d’évènement cardiovasculaire chez des patients diabétiques. 20 000 patients diabétiques ont été randomisés : 10 000 dans le bras Omega-3 (consommation régulière d’Omega-3), et 10 000 autres dans un groupe placebo. AU bout de 8 ans, 900 patients du groupe Omega-3 avaient développé un évènement cardiovasculaire et 910 dans le groupe placebo. Pour les calculs, vous considérerez que 0,909 ≅ 0,91",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_q08_context_p686.webp"
+      ],
+      "prefixQuestion": 8,
+      "note": ""
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "id": "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+      "questionNumbers": [
+        6,
+        7,
+        8
+      ],
+      "sourceStartPage": 508,
+      "sourceEndPage": 508,
+      "text": "Une étude a évalué l’intérêt d’un outil en ligne pour aider les gastroentérologues à déterminer l’histologie d’une lésion colorectale, par rapport à leur pratique habituelle. A chaque fois, le résultat a été comparé́ à la vraie histologie (obtenue après résection de la lésion ou par biopsie). L’étude a porté́ sur 200 lésions colorectales classées par un seul gastroentérologue. Le pourcentage de lésions bien classées avec l’aide de l’outil est estimé à 60 %.",
+      "sourceText": "Une étude a évalué l’intérêt d’un outil en ligne pour aider les gastroentérologues à déterminer l’histologie d’une lésion colorectale, par rapport à leur pratique habituelle. A chaque fois, le résultat a été comparé́ à la vraie histologie (obtenue après résection de la lésion ou par biopsie). L’étude a porté́ sur 200 lésions colorectales classées par un seul gastroentérologue. Le pourcentage de lésions bien classées avec l’aide de l’outil est estimé à 60 %.",
+      "images": [],
+      "prefixQuestion": null,
+      "note": "Échantillon initial et taux de 60 %, communs aux trois comparaisons."
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "id": "annales.ue3.2024-2025.s1.context.comparaison_reference_q6",
+      "questionNumbers": [
+        6,
+        8
+      ],
+      "sourceStartPage": 508,
+      "sourceEndPage": 508,
+      "text": "Il est considèré que la cible à atteindre serait de 70 % (valeur de référence). On souhaite comparer les résultats obtenus à l’aide de l’outil à la cible. La valeur absolue statistique du test est d’environ 3. On donne : 0,8 × 0,2 = 0,16 ; 0,7 × 0,3 = 0,21.",
+      "sourceText": "Il est considèré que la cible à atteindre serait de 70 % (valeur de référence). On souhaite comparer les résultats obtenus à l’aide de l’outil à la cible. La valeur absolue statistique du test est d’environ 3. On donne : 0,8 × 0,2 = 0,16 ; 0,7 × 0,3 = 0,21.",
+      "images": [],
+      "prefixQuestion": null,
+      "note": "Données du premier test nécessaires à la référence explicite de Q8-C ; absentes du contexte de Q7."
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "id": "annales.ue3.2023-2024.s1.context.etude_avc",
+      "questionNumbers": [
+        9,
+        10
+      ],
+      "sourceStartPage": 537,
+      "sourceEndPage": 537,
+      "text": "",
+      "sourceText": "Exercice 7 Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle (groupe contrôle) chez des patients avec un AVC dont le niveau d'ischémie est élevé (score ASPECT ≤ 5). Pour les 250 patients de l’étude, le niveau d’ischémie (score ASPECT) a été évalué par les cliniciens des hôpitaux (score local), puis par deux experts (score centralisé). Les résultats des deux évaluations sont présentés dans le tableau ci-dessous : Score centralisé Score centralisé ≤ 3 3-5 Score local 45 30 75 ≤ 3 Score local 55 120 175 3-5 100 150 250",
+      "images": [
+        "static/annales_ue3_2023-2024_s1_revision_shared_avc_p537.webp"
+      ],
+      "prefixQuestion": null,
+      "note": "Le test de comparaison des scores reste dans le QCM9."
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "id": "annales.ue3.2022-2023.s2.context.moyenne_ecart_type",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 578,
+      "sourceEndPage": 578,
+      "text": "La moyenne m des mesures est de 2,70 avec un écart type estimé s de 1'20' On rappelle que m est une estimation de l'espérance p.",
+      "sourceText": "La moyenne m des mesures est de 2,70 avec un écart type estimé s de 1'20' On rappelle que m est une estimation de l'espérance p.",
+      "images": [],
+      "prefixQuestion": null,
+      "note": "Les graphies 1'20' et p sont celles du document source."
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "id": "annales.ue3.2021-2022.s1.context.anxiete_covid",
+      "questionNumbers": [
+        8,
+        9,
+        10
+      ],
+      "sourceStartPage": 591,
+      "sourceEndPage": 591,
+      "text": "Une étude s’intéresse au niveau d’anxiété des patients admis en réanimation pour COVID-19. L’évaluation est faite par le questionnaire HADS, un an après le passage en réanimation. Sur les 100 patients de l’étude qui ont été suivis à 1an, 30 avaient un diagnostic d’anxiété à 1an d’après l’HADS.",
+      "sourceText": "Une étude s’intéresse au niveau d’anxiété des patients admis en réanimation pour COVID-19. L’évaluation est faite par le questionnaire HADS, un an après le passage en réanimation. Sur les 100 patients de l’étude qui ont été suivis à 1an, 30 avaient un diagnostic d’anxiété à 1an d’après l’HADS.",
+      "images": [],
+      "prefixQuestion": null,
+      "note": "La comparaison au taux théorique hors COVID reste locale au QCM8."
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "id": "annales.ue3.2021-2022.s2.context.silicose_definition",
+      "questionNumbers": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourceStartPage": 605,
+      "sourceEndPage": 605,
+      "text": "La silicose est une maladie pulmonaire causée par l’inhalation de silice cristalline à laquelle les employés du bâtiment sont, entre autres, exposés.",
+      "sourceText": "La silicose est une maladie pulmonaire causée par l’inhalation de silice cristalline à laquelle les employés du bâtiment sont, entre autres, exposés.",
+      "images": [],
+      "prefixQuestion": null,
+      "note": "Les études de 8000 travailleurs et de 3500 patients ne sont pas fusionnées."
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "id": "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon",
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 664,
+      "sourceEndPage": 664,
+      "text": "Un jeune praticien hospitalier talentueux de l’hôpital Edouard Herriot a développé une nouvelle classification afin d’aider les endoscopistes à identifier les adénocarcinomes superficiels du côlon : la classification Conecct.",
+      "sourceText": "Un jeune praticien hospitalier talentueux de l’hôpital Edouard Herriot a développé une nouvelle classification afin d’aider les endoscopistes à identifier les adénocarcinomes superficiels du côlon : la classification Conecct.",
+      "images": [],
+      "prefixQuestion": null,
+      "note": "La première comparaison diagnostique n’est pas l’étude de résection de Q9."
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "id": "annales.ue3.2018-2019.paces.context.intervalle_apache",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 684,
+      "sourceEndPage": 684,
+      "text": "",
+      "sourceText": "Le score Apache II (Acute Physiology And Chronic Health Evaluation II) estime la probabilité de décès des patients hospitalisés dans des unités de soins intensifs. Le score Apache II moyen des patients à l’admission dans les services européens est de 15, valeur de référence. La moyenne observée du score Apache II de 81 patients hospitalisés en 2017 dans le service « S » de 16 lits, situé en Europe centrale, était de 20. L’estimation de l’écart-type de ce score Apache II était de 6.\n\nA l’aide du tableau 1, donnez la borne supérieure de l’intervalle de confiance à 95% du score Apache II dans le service « S ». Vous arrondirez la valeur lue dans la table à la demi-unité, en ne gardant qu’un chiffre après la virgule. Dans le résultat final, vous ne garderez qu’un chiffre après la virgule tout en garantissant la confiance à 0,95.",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_revision_shared_apache_p684.webp"
+      ],
+      "prefixQuestion": null,
+      "note": "Dépendance restaurée : calcul d’un intervalle à 95 % et règles d’arrondi demandés dans Q2, auxquels renvoie Q3."
+    }
+  ],
+  "localSeparations": [
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 9,
+      "kind": "local_text_before_instruction",
+      "text": "On souhaite comparer la proportion de patients avec un score ASPECT ≤ 3 entre l'évaluation locale ou centralisée. La statistique du test appropriée est 2,7.",
+      "note": "Consigne et statistique du test de scores, propres à Q9."
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "question": 2,
+      "kind": "local_text_before_instruction",
+      "text": "Vous devez estimer l'intervalle de confiance à 95 % de μ. Vous conserverez deux décimales pour la borne supérieure de cet intervalle.",
+      "note": "Demande locale séparée des données m/s utilisées également au QCM3 ; ponctuation seulement normalisée."
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 8,
+      "kind": "local_text_before_instruction",
+      "text": "Hors COVID, on considère que la proportion de patients avec diagnostic d’anxiété à 1an serait de 0,2 (valeur de référence). Le test de l’écart- réduit de comparaison de ces proportions donne une statistique de test de 2,5.",
+      "note": "Valeur de référence 0,2 et statistique 2,5 propres au QCM8."
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "question": 4,
+      "kind": "local_text_before_instruction",
+      "text": "Son diagnostic peut se faire par tomodensitométrie (TDM). Les premières études ont montré que la TDM a une sensibilité de 90% et une spécificité de 80%.",
+      "note": "Les performances TDM concernent Q4 seulement."
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "question": 8,
+      "kind": "local_text_before_instruction",
+      "text": "Il a comparé ses résultats à ceux obtenus avec une ancienne classification : la classification Sano. Sur 130 adénocarcinomes superficiels du côlon, la classification conecct était positive pour 90 cas, dont 60 l’étaient également pour la classification Sano. La classification Sano était positive pour 80 cas. Indications : 2/5 = 0,4 ; √2 ≈ 1,40",
+      "note": "Effectifs 130/90/60/80 et aide au calcul propres à Q8."
+    }
+  ],
+  "dependencies": [
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "questions": [
+        6,
+        8
+      ],
+      "type": "explicit_reference",
+      "detail": "Q8-C compare la statistique à celle de Q6."
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "questions": [
+        2,
+        3
+      ],
+      "type": "missing_previous_instruction_restored",
+      "detail": "Q3 accède désormais à la demande exacte d’intervalle de confiance à 95 % et aux règles d’arrondi de Q2."
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "questions": [
+        4,
+        5
+      ],
+      "type": "previous_test_purpose",
+      "detail": "Le but du test reste visible sans propager à Q5 la consigne de réponse unique de Q4."
+    }
+  ],
+  "optionCrops": [
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 1,
+      "option": "A",
+      "page": 488,
+      "bbox": [
+        37,
+        151.1,
+        550,
+        166.5
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q01_item_A_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 1,
+      "option": "B",
+      "page": 488,
+      "bbox": [
+        37,
+        166.5,
+        550,
+        195.5
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q01_item_B_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 1,
+      "option": "C",
+      "page": 488,
+      "bbox": [
+        37,
+        195.5,
+        550,
+        224.3
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q01_item_C_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 1,
+      "option": "D",
+      "page": 488,
+      "bbox": [
+        37,
+        224.3,
+        550,
+        239.0
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q01_item_D_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 1,
+      "option": "E",
+      "page": 488,
+      "bbox": [
+        37,
+        239.0,
+        550,
+        261.7
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q01_item_E_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 3,
+      "option": "A",
+      "page": 488,
+      "bbox": [
+        37,
+        675.6449951171875,
+        550,
+        691.1449951171875
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q03_item_A_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 3,
+      "option": "B",
+      "page": 488,
+      "bbox": [
+        37,
+        691.1449951171875,
+        550,
+        706.6449951171875
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q03_item_B_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 3,
+      "option": "C",
+      "page": 488,
+      "bbox": [
+        37,
+        706.6449951171875,
+        550,
+        721.9149536132812
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q03_item_C_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 3,
+      "option": "D",
+      "page": 488,
+      "bbox": [
+        37,
+        721.9149536132812,
+        550,
+        737.4199584960937
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q03_item_D_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 3,
+      "option": "E",
+      "page": 488,
+      "bbox": [
+        37,
+        737.4199584960937,
+        550,
+        753.2249755859375
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q03_item_E_p488.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 4,
+      "option": "A",
+      "page": 489,
+      "bbox": [
+        37,
+        221.27501525878907,
+        550,
+        250.02501525878907
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q04_item_A_p489.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 4,
+      "option": "B",
+      "page": 489,
+      "bbox": [
+        37,
+        250.02501525878907,
+        550,
+        278.7750305175781
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q04_item_B_p489.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 4,
+      "option": "C",
+      "page": 489,
+      "bbox": [
+        37,
+        278.7750305175781,
+        550,
+        307.79498901367185
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q04_item_C_p489.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 4,
+      "option": "D",
+      "page": 489,
+      "bbox": [
+        37,
+        307.79498901367185,
+        550,
+        336.54501953125
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q04_item_D_p489.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "question": 4,
+      "option": "E",
+      "page": 489,
+      "bbox": [
+        37,
+        336.54501953125,
+        550,
+        365.8500061035156
+      ],
+      "image": "static/annales_ue3_2025-2026_s1_revision_q04_item_E_p489.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 3,
+      "option": "A",
+      "page": 507,
+      "bbox": [
+        37,
+        172.0,
+        550,
+        193.0
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q03_item_A_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 3,
+      "option": "B",
+      "page": 507,
+      "bbox": [
+        37,
+        193.0,
+        550,
+        213.2
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q03_item_B_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 3,
+      "option": "C",
+      "page": 507,
+      "bbox": [
+        37,
+        213.2,
+        550,
+        233.2
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q03_item_C_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 3,
+      "option": "D",
+      "page": 507,
+      "bbox": [
+        37,
+        233.2,
+        550,
+        250.5
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q03_item_D_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 3,
+      "option": "E",
+      "page": 507,
+      "bbox": [
+        37,
+        250.5,
+        550,
+        266.4
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q03_item_E_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 4,
+      "option": "A",
+      "page": 507,
+      "bbox": [
+        37,
+        432.31500854492185,
+        550,
+        447.81500854492185
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q04_item_A_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 4,
+      "option": "B",
+      "page": 507,
+      "bbox": [
+        37,
+        447.81500854492185,
+        550,
+        463.3450073242187
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q04_item_B_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 4,
+      "option": "C",
+      "page": 507,
+      "bbox": [
+        37,
+        463.3450073242187,
+        550,
+        478.5950073242187
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q04_item_C_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 4,
+      "option": "D",
+      "page": 507,
+      "bbox": [
+        37,
+        478.5950073242187,
+        550,
+        494.0950073242187
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q04_item_D_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 4,
+      "option": "E",
+      "page": 507,
+      "bbox": [
+        37,
+        494.0950073242187,
+        550,
+        509.8999938964844
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q04_item_E_p507.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 6,
+      "option": "A",
+      "page": 508,
+      "bbox": [
+        37,
+        213.23001708984376,
+        550,
+        230.53801574707032
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q06_item_A_p508.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 6,
+      "option": "B",
+      "page": 508,
+      "bbox": [
+        37,
+        230.53801574707032,
+        550,
+        246.51500549316407
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q06_item_B_p508.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 6,
+      "option": "C",
+      "page": 508,
+      "bbox": [
+        37,
+        246.51500549316407,
+        550,
+        274.78803100585935
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q06_item_C_p508.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 6,
+      "option": "D",
+      "page": 508,
+      "bbox": [
+        37,
+        274.78803100585935,
+        550,
+        291.04498901367185
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q06_item_D_p508.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "question": 6,
+      "option": "E",
+      "page": 508,
+      "bbox": [
+        37,
+        291.04498901367185,
+        550,
+        333.5999755859375
+      ],
+      "image": "static/annales_ue3_2024-2025_s1_revision_q06_item_E_p508.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 9,
+      "option": "A",
+      "page": 537,
+      "bbox": [
+        37,
+        349.79501953125,
+        550,
+        365.04501953125
+      ],
+      "image": "static/annales_ue3_2023-2024_s1_revision_q09_item_A_p537.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 9,
+      "option": "B",
+      "page": 537,
+      "bbox": [
+        37,
+        365.04501953125,
+        550,
+        380.56500854492185
+      ],
+      "image": "static/annales_ue3_2023-2024_s1_revision_q09_item_B_p537.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 9,
+      "option": "C",
+      "page": 537,
+      "bbox": [
+        37,
+        380.56500854492185,
+        550,
+        409.31500854492185
+      ],
+      "image": "static/annales_ue3_2023-2024_s1_revision_q09_item_C_p537.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 9,
+      "option": "D",
+      "page": 537,
+      "bbox": [
+        37,
+        409.31500854492185,
+        550,
+        424.81500854492185
+      ],
+      "image": "static/annales_ue3_2023-2024_s1_revision_q09_item_D_p537.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 9,
+      "option": "E",
+      "page": 537,
+      "bbox": [
+        37,
+        424.81500854492185,
+        550,
+        454.1199951171875
+      ],
+      "image": "static/annales_ue3_2023-2024_s1_revision_q09_item_E_p537.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 1,
+      "option": "A",
+      "page": 550,
+      "bbox": [
+        37,
+        85.72502746582032,
+        550,
+        101.22502746582032
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q01_item_A_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 1,
+      "option": "B",
+      "page": 550,
+      "bbox": [
+        37,
+        101.22502746582032,
+        550,
+        116.49498596191407
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q01_item_B_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 1,
+      "option": "C",
+      "page": 550,
+      "bbox": [
+        37,
+        116.49498596191407,
+        550,
+        131.99498596191407
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q01_item_C_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 1,
+      "option": "D",
+      "page": 550,
+      "bbox": [
+        37,
+        131.99498596191407,
+        550,
+        147.49498596191407
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q01_item_D_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 1,
+      "option": "E",
+      "page": 550,
+      "bbox": [
+        37,
+        147.49498596191407,
+        550,
+        163.29998779296875
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q01_item_E_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 4,
+      "option": "A",
+      "page": 550,
+      "bbox": [
+        37,
+        515.5950073242187,
+        550,
+        531.0950073242187
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q04_item_A_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 4,
+      "option": "B",
+      "page": 550,
+      "bbox": [
+        37,
+        531.0950073242187,
+        550,
+        546.3650268554687
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q04_item_B_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 4,
+      "option": "C",
+      "page": 550,
+      "bbox": [
+        37,
+        546.3650268554687,
+        550,
+        561.8650268554687
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q04_item_C_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 4,
+      "option": "D",
+      "page": 550,
+      "bbox": [
+        37,
+        561.8650268554687,
+        550,
+        577.3649658203125
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q04_item_D_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 4,
+      "option": "E",
+      "page": 550,
+      "bbox": [
+        37,
+        577.3649658203125,
+        550,
+        593.1699829101562
+      ],
+      "image": "static/annales_ue3_2023-2024_s2_revision_q04_item_E_p550.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 3,
+      "option": "A",
+      "page": 561,
+      "bbox": [
+        37,
+        100.22502746582032,
+        550,
+        115.74498596191407
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q03_item_A_p561.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 3,
+      "option": "B",
+      "page": 561,
+      "bbox": [
+        37,
+        115.74498596191407,
+        550,
+        131.24498596191407
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q03_item_B_p561.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 3,
+      "option": "C",
+      "page": 561,
+      "bbox": [
+        37,
+        131.24498596191407,
+        550,
+        146.49498596191407
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q03_item_C_p561.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 3,
+      "option": "D",
+      "page": 561,
+      "bbox": [
+        37,
+        146.49498596191407,
+        550,
+        161.99498596191407
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q03_item_D_p561.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 3,
+      "option": "E",
+      "page": 561,
+      "bbox": [
+        37,
+        161.99498596191407,
+        550,
+        177.79998779296875
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q03_item_E_p561.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 9,
+      "option": "A",
+      "page": 563,
+      "bbox": [
+        37,
+        359.8,
+        550,
+        386.8
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q09_item_A_p563.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 9,
+      "option": "B",
+      "page": 563,
+      "bbox": [
+        37,
+        386.8,
+        550,
+        415.1
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q09_item_B_p563.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 9,
+      "option": "C",
+      "page": 563,
+      "bbox": [
+        37,
+        415.1,
+        550,
+        430.6
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q09_item_C_p563.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 9,
+      "option": "D",
+      "page": 563,
+      "bbox": [
+        37,
+        430.6,
+        550,
+        459.4
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q09_item_D_p563.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "question": 9,
+      "option": "E",
+      "page": 563,
+      "bbox": [
+        37,
+        459.4,
+        550,
+        475.2
+      ],
+      "image": "static/annales_ue3_2022-2023_s1_revision_q09_item_E_p563.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "question": 2,
+      "option": "A",
+      "page": 578,
+      "bbox": [
+        37,
+        600.3,
+        550,
+        614.8
+      ],
+      "image": "static/annales_ue3_2022-2023_s2_revision_q02_item_A_p578.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "question": 2,
+      "option": "B",
+      "page": 578,
+      "bbox": [
+        37,
+        614.8,
+        550,
+        636.8
+      ],
+      "image": "static/annales_ue3_2022-2023_s2_revision_q02_item_B_p578.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "question": 2,
+      "option": "C",
+      "page": 578,
+      "bbox": [
+        37,
+        636.8,
+        550,
+        651.9
+      ],
+      "image": "static/annales_ue3_2022-2023_s2_revision_q02_item_C_p578.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "question": 2,
+      "option": "D",
+      "page": 578,
+      "bbox": [
+        37,
+        651.9,
+        550,
+        667.2
+      ],
+      "image": "static/annales_ue3_2022-2023_s2_revision_q02_item_D_p578.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "question": 2,
+      "option": "E",
+      "page": 578,
+      "bbox": [
+        37,
+        667.2,
+        550,
+        683.0
+      ],
+      "image": "static/annales_ue3_2022-2023_s2_revision_q02_item_E_p578.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 2,
+      "option": "A",
+      "page": 588,
+      "bbox": [
+        37,
+        551.6150268554687,
+        550,
+        567.1249755859375
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q02_item_A_p588.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 2,
+      "option": "B",
+      "page": 588,
+      "bbox": [
+        37,
+        567.1249755859375,
+        550,
+        582.6149658203125
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q02_item_B_p588.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 2,
+      "option": "C",
+      "page": 588,
+      "bbox": [
+        37,
+        582.6149658203125,
+        550,
+        597.525
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q02_item_C_p588.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 2,
+      "option": "D",
+      "page": 588,
+      "bbox": [
+        37,
+        597.525,
+        550,
+        613.525
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q02_item_D_p588.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 2,
+      "option": "E",
+      "page": 588,
+      "bbox": [
+        37,
+        613.525,
+        550,
+        630.4299926757812
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q02_item_E_p588.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 5,
+      "option": "A",
+      "page": 589,
+      "bbox": [
+        37,
+        652.1449951171875,
+        550,
+        667.6449951171875
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q05_item_A_p589.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 5,
+      "option": "B",
+      "page": 589,
+      "bbox": [
+        37,
+        667.6449951171875,
+        550,
+        682.54501953125
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q05_item_B_p589.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 5,
+      "option": "C",
+      "page": 589,
+      "bbox": [
+        37,
+        682.54501953125,
+        550,
+        698.54501953125
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q05_item_C_p589.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 5,
+      "option": "D",
+      "page": 589,
+      "bbox": [
+        37,
+        698.54501953125,
+        550,
+        714.8949951171875
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q05_item_D_p589.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 5,
+      "option": "E",
+      "page": 589,
+      "bbox": [
+        37,
+        714.8949951171875,
+        550,
+        730.7000122070312
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q05_item_E_p589.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 8,
+      "option": "A",
+      "page": 591,
+      "bbox": [
+        37,
+        420.81500854492185,
+        550,
+        502.59503784179685
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q08_item_A_p591.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 8,
+      "option": "B",
+      "page": 591,
+      "bbox": [
+        37,
+        502.59503784179685,
+        550,
+        584.3649658203125
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q08_item_B_p591.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 8,
+      "option": "C",
+      "page": 591,
+      "bbox": [
+        37,
+        584.3649658203125,
+        550,
+        599.8649658203125
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q08_item_C_p591.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 8,
+      "option": "D",
+      "page": 591,
+      "bbox": [
+        37,
+        599.8649658203125,
+        550,
+        642.1449951171875
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q08_item_D_p591.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "question": 8,
+      "option": "E",
+      "page": 591,
+      "bbox": [
+        37,
+        642.1449951171875,
+        550,
+        671.4500122070312
+      ],
+      "image": "static/annales_ue3_2021-2022_s1_revision_q08_item_E_p591.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "question": 5,
+      "option": "A",
+      "page": 615,
+      "bbox": [
+        37,
+        404.31500854492185,
+        550,
+        419.81500854492185
+      ],
+      "image": "static/annales_ue3_2020-2021_paces_revision_q05_item_A_p615.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "question": 5,
+      "option": "B",
+      "page": 615,
+      "bbox": [
+        37,
+        419.81500854492185,
+        550,
+        435.31500854492185
+      ],
+      "image": "static/annales_ue3_2020-2021_paces_revision_q05_item_B_p615.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "question": 5,
+      "option": "C",
+      "page": 615,
+      "bbox": [
+        37,
+        435.31500854492185,
+        550,
+        450.56500854492185
+      ],
+      "image": "static/annales_ue3_2020-2021_paces_revision_q05_item_C_p615.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "question": 5,
+      "option": "D",
+      "page": 615,
+      "bbox": [
+        37,
+        450.56500854492185,
+        550,
+        466.0950073242187
+      ],
+      "image": "static/annales_ue3_2020-2021_paces_revision_q05_item_D_p615.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "question": 5,
+      "option": "E",
+      "page": 615,
+      "bbox": [
+        37,
+        466.0950073242187,
+        550,
+        481.8999938964844
+      ],
+      "image": "static/annales_ue3_2020-2021_paces_revision_q05_item_E_p615.webp",
+      "status": "visually_reviewed_complete_and_isolated"
+    }
+  ],
+  "keysIdsStoragePreserved": true,
+  "retainedImagesUnchanged": 409,
+  "subjectReview": [
+    {
+      "exam": "annales.ue3.2025-2026.s1",
+      "questions": 12,
+      "contextIds": [
+        "annales.ue3.2025-2026.s1.context.douleur",
+        "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+        "annales.ue3.2025-2026.s1.context.specificite_necker"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s1",
+      "questions": 12,
+      "contextIds": [
+        "annales.ue3.2024-2025.s1.context.fonction_renale",
+        "annales.ue3.2024-2025.s1.context.metastases",
+        "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+        "annales.ue3.2024-2025.s1.context.comparaison_reference_q6"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2024-2025.s2",
+      "questions": 7,
+      "contextIds": [
+        "annales.ue3.2024-2025.s2.context.test_student",
+        "annales.ue3.2024-2025.s2.context.fibromes"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "questions": 12,
+      "contextIds": [
+        "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires",
+        "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie",
+        "annales.ue3.2023-2024.s1.context.etude_avc"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "questions": 7,
+      "contextIds": [
+        "annales.ue3.2023-2024.s2.context.thrombectomie"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s1",
+      "questions": 12,
+      "contextIds": [
+        "annales.ue3.2022-2023.s1.context.bicarbonate",
+        "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate",
+        "annales.ue3.2022-2023.s1.context.narcolepsie",
+        "annales.ue3.2022-2023.s1.context.cancer_poumon",
+        "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2022-2023.s2",
+      "questions": 7,
+      "contextIds": [
+        "annales.ue3.2022-2023.s2.context.mesures",
+        "annales.ue3.2022-2023.s2.context.parkinson",
+        "annales.ue3.2022-2023.s2.context.tislezumab",
+        "annales.ue3.2022-2023.s2.context.moyenne_ecart_type"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s1",
+      "questions": 11,
+      "contextIds": [
+        "annales.ue3.2021-2022.s1.context.legionellose",
+        "annales.ue3.2021-2022.s1.context.anxiete_covid"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2021-2022.s2",
+      "questions": 7,
+      "contextIds": [
+        "annales.ue3.2021-2022.s2.context.silicose_survie",
+        "annales.ue3.2021-2022.s2.context.silicose_definition"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2020-2021.paces",
+      "questions": 11,
+      "contextIds": [
+        "annales.ue3.2020-2021.paces.context.scores_covid"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s1",
+      "questions": 11,
+      "contextIds": [
+        "annales.ue3.2020-2021.s1.context.tests_covid",
+        "annales.ue3.2020-2021.s1.context.reanimation_covid"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2020-2021.s2",
+      "questions": 7,
+      "contextIds": [
+        "annales.ue3.2020-2021.s2.context.albuminemie",
+        "annales.ue3.2020-2021.s2.context.valeriane"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2019-2020.paces",
+      "questions": 11,
+      "contextIds": [
+        "annales.ue3.2019-2020.paces.context.arthrose",
+        "annales.ue3.2019-2020.paces.context.hemoglobine",
+        "annales.ue3.2019-2020.paces.context.irm_sein",
+        "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    },
+    {
+      "exam": "annales.ue3.2018-2019.paces",
+      "questions": 11,
+      "contextIds": [
+        "annales.ue3.2018-2019.paces.context.scores_saps_apache",
+        "annales.ue3.2018-2019.paces.context.ebola",
+        "annales.ue3.2018-2019.paces.context.omega3",
+        "annales.ue3.2018-2019.paces.context.intervalle_apache"
+      ],
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "contextPass": "all source prefixes and explicit question dependencies reread",
+      "itemPass": "Bornes E et début suivant relus ; items en texte sans en-tête suivant ; 80 captures nouvelles inspectées visuellement."
+    }
+  ],
+  "sourceAnomaliesRetained": [
+    {
+      "exam": "annales.ue3.2023-2024.s1",
+      "question": 6,
+      "option": "E",
+      "detail": "La plage 0,01 < p-valeur < 0,02 accolée à E existe dans le PDF source ; ce n’est pas un énoncé suivant extrait par erreur."
+    },
+    {
+      "exam": "annales.ue3.2023-2024.s2",
+      "question": 4,
+      "option": "E",
+      "detail": "Le caractère $ final existe dans le PDF source ; aucune proposition suivante n’est intégrée."
+    }
+  ],
+  "validation": {
+    "sharedContextObjects": 39,
+    "sameObjectsForAllMembers": true,
+    "questionsWithIndividualOptionImages": 16,
+    "individualOptionImages": 80,
+    "optionMarkerIsolation": "80/80 : une seule lettre de proposition, celle attendue, par rectangle",
+    "sharedImageMarkerIsolation": "aucune lettre de proposition A–E dans les rectangles des blocs partagés",
+    "unchangedRetainedImages": 409,
+    "newImagesWithNewNames": 83,
+    "idsKeysStorageUnchanged": true,
+    "reviewSheets": [
+      "revision_items_1.jpg",
+      "revision_items_2.jpg",
+      "revision_items_3.jpg",
+      "revision_items_4.jpg",
+      "revision_items_5.jpg",
+      "revision_items_6.jpg",
+      "revision_items_7.jpg",
+      "revision_items_8.jpg"
+    ],
+    "adjustment": "La limite A/B de 2024–2025 S1 Q3 a été resserrée à y=193,0 pour supprimer un pixel du signe de B dans A."
+  }
+}

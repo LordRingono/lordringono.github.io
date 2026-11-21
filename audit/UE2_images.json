@@ -15717,5 +15717,924 @@
     ],
     "role": "correction",
     "purpose": "2018-q50"
+  },
+  {
+    "path": "static/annales_ue2_v2_13_c8197582c53b.webp",
+    "page": 13,
+    "bbox": [
+      52,
+      209.3,
+      272.75,
+      311.92
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2025s1-common-32-33-34 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "3a4f7be35ef521e95e6916f8e1393afc7cf39f52d04dbecab8d4c0bf77aeff51"
+  },
+  {
+    "path": "static/annales_ue2_v2_13_34ae0476e02b.webp",
+    "page": 13,
+    "bbox": [
+      40,
+      316.25,
+      570,
+      394.89
+    ],
+    "role": "subject",
+    "purpose": "2025s1-q32 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "57f909773cba80f2275889f1d50f23ffcce99ce3f334c09cc33152233b9093ef"
+  },
+  {
+    "path": "static/annales_ue2_v2_13_2ba21df8d890.webp",
+    "page": 13,
+    "bbox": [
+      40,
+      531.3,
+      570,
+      609.98
+    ],
+    "role": "subject",
+    "purpose": "2025s1-q33 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "d26e3b299de26a418a1737f8409d91ea5ef7397d5b5ed927dada84d6f8dce2e4"
+  },
+  {
+    "path": "static/annales_ue2_v2_14_8e237465c3a8.webp",
+    "page": 14,
+    "bbox": [
+      40,
+      205.55,
+      570,
+      284.25
+    ],
+    "role": "subject",
+    "purpose": "2025s1-q34 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "45713fd3d7d947378736d72b91bd5a625428510f4435d522ae0ceb30fc3c5b44"
+  },
+  {
+    "path": "static/annales_ue2_v2_53_3b9c926b543f.webp",
+    "page": 53,
+    "bbox": [
+      52,
+      223.8,
+      543,
+      282.5
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2024s1-common-28-29 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "996ec1bf896a090c969180e15b63968b52b3a9c66ea6722acca880f31df2a766"
+  },
+  {
+    "path": "static/annales_ue2_v2_53_9a29b8668f6b.webp",
+    "page": 53,
+    "bbox": [
+      40,
+      284.55,
+      570,
+      363.21
+    ],
+    "role": "subject",
+    "purpose": "2024s1-q28 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "b1f95b908af6b4d10b7db96e22af09f42739360d007538005a480fc0a25da643"
+  },
+  {
+    "path": "static/annales_ue2_v2_53_b52d0b407c01.webp",
+    "page": 53,
+    "bbox": [
+      40,
+      468.9,
+      570,
+      547.55
+    ],
+    "role": "subject",
+    "purpose": "2024s1-q29 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "3feb64aa4c3e4bb8c2ac28a67577af6f278fde663ba20221b1e06eaaa168323e"
+  },
+  {
+    "path": "static/annales_ue2_v2_217_e40f6c395ccc.webp",
+    "page": 217,
+    "bbox": [
+      52,
+      116.5,
+      404.5,
+      192.5
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2022s2-common-16-17 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "b204b8180174f9011ae79e8423c482887cb5f038f2d1b7a5a0bccd116a867027"
+  },
+  {
+    "path": "static/annales_ue2_v2_243_3e00cfe36f2b.webp",
+    "page": 243,
+    "bbox": [
+      152.45,
+      576.5,
+      426.35,
+      819.5
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2021s1-common-31-32-33 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "7713c6e0a1a412a8a37a00351e75bbe1ede667bc654373d6512c06df56ab3be6"
+  },
+  {
+    "path": "static/annales_ue2_v2_246_1466a2254761.webp",
+    "page": 246,
+    "bbox": [
+      52,
+      98.9,
+      402.7,
+      261.4
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2021s1-common-40-41 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "833e18ead346ef1f10c5d13eb0adf977fc4d1e3c521f2bbda0e8277c15f2f0f7"
+  },
+  {
+    "path": "static/annales_ue2_v2_246_f5ed6080b3c8.webp",
+    "page": 246,
+    "bbox": [
+      40,
+      266.0,
+      570,
+      344.85
+    ],
+    "role": "subject",
+    "purpose": "2021s1-q40 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "ca93fe2c8c25b6fa9e6c39a05053cd33114e534db05c08ba89474b38d4a81d27"
+  },
+  {
+    "path": "static/annales_ue2_v2_304_2f32a0ba24a2.webp",
+    "page": 304,
+    "bbox": [
+      52,
+      492,
+      471.5,
+      552
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2020s1-common-25-26 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "740863432b06bb050e02ba8d97b94ba2c283e30cc1b3d250b9dc49cc0a1ea5b7"
+  },
+  {
+    "path": "static/annales_ue2_v2_305_d2d7497eaabf.webp",
+    "page": 305,
+    "bbox": [
+      40,
+      112.5,
+      570,
+      196.62
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q27 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "655ba16addb7bb4ad857b1509abd9dfc0e03a4b212a5c2295396e55d72a67798"
+  },
+  {
+    "path": "static/annales_ue2_v2_306_c39cdd8396b3.webp",
+    "page": 306,
+    "bbox": [
+      52,
+      96.5,
+      543,
+      339.25
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2020s1-common-33-34 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "7e30edeb34b3c0752c4238ab7491331ebe30ad6927ffcaff3f33eab262328727"
+  },
+  {
+    "path": "static/annales_ue2_v2_363_55b1bf102d7a.webp",
+    "page": 363,
+    "bbox": [
+      52,
+      281.1,
+      273.6,
+      422.6
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2020paces-common-21-22 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "4f64166c1b7e4c928437e7232c72b3f0e4a6efc1b5e94529ada499dbcb4fb018",
+    "excluded_annotation_boxes": [
+      [
+        122,
+        395.3,
+        140.5,
+        409
+      ]
+    ],
+    "review": "Same V1 mask: handwritten glc identification below the cycle excluded; all printed atoms, bonds and A/B labels preserved."
+  },
+  {
+    "path": "static/annales_ue2_v2_368_ea3504521234.webp",
+    "page": 368,
+    "bbox": [
+      118.65,
+      630.64,
+      505.4,
+      820.04
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2020paces-common-42-43 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "4c8c05d4c0fc1c51c4ee205777e282b16e5d85b4d05dfabc21e7d8c07450e9b3"
+  },
+  {
+    "path": "static/annales_ue2_v2_404_c5cb12a10d8e.webp",
+    "page": 404,
+    "bbox": [
+      52,
+      328.7,
+      454,
+      358.2
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2019-common-17-18-19 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "e03f3168ce85e7504f7de7aade89163ad52cf1c73d796ed1a53fcbceaebb0af0"
+  },
+  {
+    "path": "static/annales_ue2_v2_408_70b44b8d808c.webp",
+    "page": 408,
+    "bbox": [
+      224.25,
+      129.71,
+      370.75,
+      303.46
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2019-common-32-33 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "356db111286e0c625e4f0849c9b0f9d52853339d4aeee2ca5471a7908b183775"
+  },
+  {
+    "path": "static/annales_ue2_v2_450_9243c0ff0777.webp",
+    "page": 450,
+    "bbox": [
+      51.7,
+      96.75,
+      297,
+      193
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2018-common-17-18-19 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "f488eb9d135ad9bb97f165fd7f3cf9371e8bcce1e82575f26f1c1c1d8d59177e"
+  },
+  {
+    "path": "static/annales_ue2_v2_450_63f460b71772.webp",
+    "page": 450,
+    "bbox": [
+      40,
+      211.3,
+      570,
+      290.13
+    ],
+    "role": "subject",
+    "purpose": "2018-q17 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "c68fe1deca97981e19150e59860bedf7e18c63854c08535902c16e83f074e9b0"
+  },
+  {
+    "path": "static/annales_ue2_v2_455_d858038a6554.webp",
+    "page": 455,
+    "bbox": [
+      175.25,
+      100,
+      293.65,
+      301
+    ],
+    "role": "subject",
+    "purpose": "ue2c-2018-common-37-38 figure only",
+    "revision": "common-statements-v2",
+    "sha256": "d784b16484b05ee28f1970f8cbb7793ce2266c1f6a08b2daedd1d756c5d112bf"
+  },
+  {
+    "path": "static/annales_ue2_v2_455_e05fcefddc6b.webp",
+    "page": 455,
+    "bbox": [
+      40,
+      302.7,
+      570,
+      394.89
+    ],
+    "role": "subject",
+    "purpose": "2018-q37 individual excerpt without common context",
+    "revision": "common-statements-v2",
+    "sha256": "3a7e4c5e90da88b08032331bc49114aef1fa1d6fb7d1fee0f019ee1a5d45ec2b"
+  },
+  {
+    "path": "static/annales_ue2_v2_304_97680cb21ae3.webp",
+    "page": 304,
+    "bbox": [
+      40,
+      365.94,
+      570,
+      461.35
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q24 complete item E; stop before following common context",
+    "revision": "common-statements-v2",
+    "sha256": "3c3d6821ca7ca0ac89186056e699c8610519cf3d18587cbd0753bbdbce8937ff"
+  },
+  {
+    "path": "static/annales_ue2_v2_112_96decdb13be6.webp",
+    "page": 112,
+    "bbox": [
+      40.0,
+      214.59,
+      570.0,
+      231.904
+    ],
+    "role": "subject",
+    "purpose": "2023s1-q1 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "af34b373b9fea2ddc9c303714ddd815f7fd12ab5294d5073afdd5bcacda07d17"
+  },
+  {
+    "path": "static/annales_ue2_v2_112_626a99646c56.webp",
+    "page": 112,
+    "bbox": [
+      40.0,
+      231.904,
+      570.0,
+      262.29
+    ],
+    "role": "subject",
+    "purpose": "2023s1-q1 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "401fce6d7a428019f7b3bd776be04ca803f04fe1baf05f1a72581217dcdbcd17"
+  },
+  {
+    "path": "static/annales_ue2_v2_180_fc37a445d379.webp",
+    "page": 180,
+    "bbox": [
+      40.0,
+      678.24,
+      570.0,
+      694.845
+    ],
+    "role": "subject",
+    "purpose": "2022s1-q24 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "c287bac2323ce5e57fa94b9aaacabe8d8a8ca21f578f9fdbd61cb57aafa0a194"
+  },
+  {
+    "path": "static/annales_ue2_v2_180_1abf1b290d25.webp",
+    "page": 180,
+    "bbox": [
+      40.0,
+      695.637,
+      570.0,
+      710.445
+    ],
+    "role": "subject",
+    "purpose": "2022s1-q24 option B precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "c357244b8b4ccdaed2dc8448c07c05159563e4d120a8b0186265fd4bb47b2027"
+  },
+  {
+    "path": "static/annales_ue2_v2_180_a5875a8317c8.webp",
+    "page": 180,
+    "bbox": [
+      40.0,
+      711.237,
+      570.0,
+      726.045
+    ],
+    "role": "subject",
+    "purpose": "2022s1-q24 option C precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "1ac693a14a03881963e36851fcab6cb659ce263d8531fa6f1d7c96411e999b7d"
+  },
+  {
+    "path": "static/annales_ue2_v2_180_eba3b929a225.webp",
+    "page": 180,
+    "bbox": [
+      40.0,
+      726.957,
+      570.0,
+      741.765
+    ],
+    "role": "subject",
+    "purpose": "2022s1-q24 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "ce27bb8c80720bdeed35a1559cf8d93d715c2c0a8799c049d6c921f13706af07"
+  },
+  {
+    "path": "static/annales_ue2_v2_180_808a972555db.webp",
+    "page": 180,
+    "bbox": [
+      40.0,
+      742.553,
+      570.0,
+      761.18
+    ],
+    "role": "subject",
+    "purpose": "2022s1-q24 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "1bf771afd48fe4d91e3770444df6d9784a94e8527af733446d3218c30bf6ac73"
+  },
+  {
+    "path": "static/annales_ue2_v2_246_38e1b0d01aa5.webp",
+    "page": 246,
+    "bbox": [
+      40.0,
+      639.709,
+      570.0,
+      666.83
+    ],
+    "role": "subject",
+    "purpose": "2021s1-q42 option C precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "427a1528d949702da9f6feb2bf158b4ec431d8f097e1bf38e23c2df7a32caa24"
+  },
+  {
+    "path": "static/annales_ue2_v2_246_7c3124da13c9.webp",
+    "page": 246,
+    "bbox": [
+      40.0,
+      668.629,
+      570.0,
+      696.3
+    ],
+    "role": "subject",
+    "purpose": "2021s1-q42 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "89ab656b30c32f0edef46f9e85145213f6f331caacd47c3ac59622102f54eb83"
+  },
+  {
+    "path": "static/annales_ue2_v2_246_56789b6d9649.webp",
+    "page": 246,
+    "bbox": [
+      40.0,
+      697.165,
+      570.0,
+      729.62
+    ],
+    "role": "subject",
+    "purpose": "2021s1-q42 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "edbff60f104eaaba80940cb995d315c38caaa8e6af24b8ad37f2afaa6e45ac2b"
+  },
+  {
+    "path": "static/annales_ue2_v2_280_f87c91eafff3.webp",
+    "page": 280,
+    "bbox": [
+      40.0,
+      618.83,
+      570.0,
+      635.085
+    ],
+    "role": "subject",
+    "purpose": "2021s2-q15 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "d994aa05987affbbbce4b8abe3a786c018a0e21937a096f94e50ac565e9cfe21"
+  },
+  {
+    "path": "static/annales_ue2_v2_280_1922b0aed2bb.webp",
+    "page": 280,
+    "bbox": [
+      40.0,
+      635.989,
+      570.0,
+      666.38
+    ],
+    "role": "subject",
+    "purpose": "2021s2-q15 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "f139b9f0f7734de4c5a44ff24a530df7fb019200bda1d4e7b2da9b1f34e2e198"
+  },
+  {
+    "path": "static/annales_ue2_v2_303_317a36f8269a.webp",
+    "page": 303,
+    "bbox": [
+      40.0,
+      569.119,
+      570.0,
+      582.27
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q20 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "05b8cba3dba7b3f2add0058638e50fab94ecda230c2d055265c859aa778e44c7"
+  },
+  {
+    "path": "static/annales_ue2_v2_305_9fbfc045b9ce.webp",
+    "page": 305,
+    "bbox": [
+      40.0,
+      260.219,
+      570.0,
+      286.81
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q28 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "2ebcf6932e75982806d8b8f113a7a23e0849452ddf8abaa063745c399c69c7b9"
+  },
+  {
+    "path": "static/annales_ue2_v2_307_42da125dc4db.webp",
+    "page": 307,
+    "bbox": [
+      40.0,
+      233.429,
+      570.0,
+      260.05
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q37 option B precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "dc433c5dc4670095e49d19ad84256f7ac63b455fa21e02633f67e22e1441ee78"
+  },
+  {
+    "path": "static/annales_ue2_v2_307_0951414fbf27.webp",
+    "page": 307,
+    "bbox": [
+      40.0,
+      434.839,
+      570.0,
+      461.43
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q39 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "19b44f67eb5cc6a3bc25a07a3ed502f5402336a70fbd6b92fd941d11c47210af"
+  },
+  {
+    "path": "static/annales_ue2_v2_307_d28db2ccc47e.webp",
+    "page": 307,
+    "bbox": [
+      40.0,
+      461.719,
+      570.0,
+      474.87
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q39 option B precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "e2f0c6d8fc31a51ad7a3d6c8526bd24460c2ed5311e8a16921836d0e784bb38a"
+  },
+  {
+    "path": "static/annales_ue2_v2_307_4460f183c73d.webp",
+    "page": 307,
+    "bbox": [
+      40.0,
+      502.039,
+      570.0,
+      515.19
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q39 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "d0a50523dbdea3687613c89131f49331f5b49d3b117635d2f8a5ab3a5237c858"
+  },
+  {
+    "path": "static/annales_ue2_v2_307_e6f06cc0d193.webp",
+    "page": 307,
+    "bbox": [
+      40.0,
+      515.479,
+      570.0,
+      545.75
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q39 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "bfd531f3d0a6e4eeab08d344b38b1ee86a647b3d4e29d8a9550e1547e74199e0"
+  },
+  {
+    "path": "static/annales_ue2_v2_307_1a45456cfb59.webp",
+    "page": 307,
+    "bbox": [
+      40.0,
+      696.949,
+      570.0,
+      710.1
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q40 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "3654e61e8a774cdacd7cfac766f6c1532476331ad80b948c19b6506934f2f7f9"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_378b00f48f41.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      171.149,
+      570.0,
+      184.3
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q41 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "854e7d6885c6e9117773bf77daec1f0b9084b7abf81312cef7c0d8933811b0d4"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_d55b663f6ae9.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      376.139,
+      570.0,
+      389.29
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q42 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "bbe4a8d845081386b7774e09db81a5043a88f9755314376296b2c4b8a2afd3b7"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_9e1836824de9.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      470.119,
+      570.0,
+      496.71
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q43 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "7baa8dd88575be5177dc7f88e231567dac3e5d5e62c833f1f48db97a453f7f87"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_4f93e89c5cd8.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      496.999,
+      570.0,
+      510.15
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q43 option B precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "03945bc8ba14c5f5e1a1a172730eadcf354e9970a353f6d093b96e90ad9a6da4"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_1588db0e6d09.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      510.439,
+      570.0,
+      523.59
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q43 option C precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "778d146ec5acc810d75315306595eda2863804c279102ef07576a8af9ebac11c"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_24b32cd424d2.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      523.879,
+      570.0,
+      537.03
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q43 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "b7d5bf2dae560765b067c21b5b69a990b8b256e0baa13c6f3edd1535df4e8051"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_d4367c00ff6b.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      537.319,
+      570.0,
+      554.27
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q43 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "9681854fccf983ef73ce9db786218ea96b1499aa66302ed44c38dbed60786637"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_7acda7399f09.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      590.989,
+      570.0,
+      604.14
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q44 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "3c11bd5151f16c80ec3ef114429bde1d1db0101487f4a6a3b0b3d833e1213de7"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_c1eed82fa4da.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      604.429,
+      570.0,
+      617.58
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q44 option B precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "69c323dc4cd7cbdcca7cb74898b2be79f16390fa3320789a308e28ed1b335dea"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_b9747713776f.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      617.869,
+      570.0,
+      631.02
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q44 option C precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "3b8c9215a34ce2ad9dcdc3f923e988e814d1cce7b5aabc2ce828031682a09fe1"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_0e71d850ed1e.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      631.309,
+      570.0,
+      644.46
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q44 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "1203af72a39e88338a934a358ff25dffc1fe1f2938275448e750927d442d7a26"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_f111a7d014d1.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      644.749,
+      570.0,
+      675.14
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q44 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "0e636c027087dfcc0ba4c3e120bf90f3b623f7b7cf216e1eb7c2416d80528d94"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_bbc22de0a620.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      698.509,
+      570.0,
+      711.66
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q45 option A precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "bd18308854bfb3e8206a3d57ac8ee8d478b51c04d5a60a86472b88a2801b9915"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_bf338f79453f.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      711.829,
+      570.0,
+      724.98
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q45 option B precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "5025c6bd6212bef3708fcaca2619e9015d2aa5073b61a712b654518a64b69499"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_18d3aaf94cc5.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      725.269,
+      570.0,
+      738.42
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q45 option C precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "a8b54a09dbf9368c8f1f75c424e850f554a6d499903155e7ddf3d6ca3e31be1e"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_8b080a8c2eed.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      738.705,
+      570.0,
+      751.856
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q45 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "9f497e4d63452433bb2e1f015f083afc1137a95819956d23f89eedd12726f7e2"
+  },
+  {
+    "path": "static/annales_ue2_v2_308_2ec16abd7009.webp",
+    "page": 308,
+    "bbox": [
+      40.0,
+      752.169,
+      570.0,
+      769.12
+    ],
+    "role": "subject",
+    "purpose": "2020s1-q45 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "ba638bb09138856c0d0b3e38b384815ee55c912b9dca621b2672a70f6b0159be"
+  },
+  {
+    "path": "static/annales_ue2_v2_409_f43474de9110.webp",
+    "page": 409,
+    "bbox": [
+      40.0,
+      553.05,
+      570.0,
+      569.655
+    ],
+    "role": "subject",
+    "purpose": "2019-q34 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "315f250520d0e94f32fe3f10cdd4065e70c201ae2ffc6feddcea43bbbb44855a"
+  },
+  {
+    "path": "static/annales_ue2_v2_409_37cbed29b013.webp",
+    "page": 409,
+    "bbox": [
+      40.0,
+      570.447,
+      570.0,
+      589.05
+    ],
+    "role": "subject",
+    "purpose": "2019-q34 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "0ae8e6d82324b427fbd0aa74c1cf834ef1bbb6532fcd33bf309c7eb097d92147"
+  },
+  {
+    "path": "static/annales_ue2_v2_410_3fe7a78dacc7.webp",
+    "page": 410,
+    "bbox": [
+      40.0,
+      318.67,
+      570.0,
+      335.275
+    ],
+    "role": "subject",
+    "purpose": "2019-q35 option C precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "6b5cf103bf70c66a720c997ed5f228b744063b8b43c41a8d60b296e9a61b4032"
+  },
+  {
+    "path": "static/annales_ue2_v2_410_c2e6d1c62e93.webp",
+    "page": 410,
+    "bbox": [
+      40.0,
+      336.067,
+      570.0,
+      350.875
+    ],
+    "role": "subject",
+    "purpose": "2019-q35 option D precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "4e71f74d68038991ed7e414d0573243771f7ec9a43ad083d54d7c12b240142b0"
+  },
+  {
+    "path": "static/annales_ue2_v2_410_b4f7847347ee.webp",
+    "page": 410,
+    "bbox": [
+      40.0,
+      351.787,
+      570.0,
+      370.39
+    ],
+    "role": "subject",
+    "purpose": "2019-q35 option E precise interline boundaries",
+    "revision": "common-statements-v2",
+    "sha256": "7bcc1ce22819bfeeb27231c451835f3830290778a79555b30ec795c898ed3f4e"
   }
 ]

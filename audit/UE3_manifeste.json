@@ -24,20 +24,23 @@
     ],
     "minimumAllowedYear": 2015,
     "subjectPages": 68,
-    "assets": 434,
-    "assetBytes": 18607898,
+    "assets": 492,
+    "assetBytes": 18443482,
     "assetsByRole": {
-      "subject": 292,
+      "subject": 350,
       "correction": 142
     },
     "questionRenderModes": {
-      "original_propositions_panel": 16,
+      "separate_option_images": 16,
       "text_options": 119,
       "numeric_code_table": 3
     },
     "sourceWarnings": 6,
     "keyComparisons": 138,
-    "keyMatches": 138
+    "keyMatches": 138,
+    "sharedContextCount": 39,
+    "questionsWithSharedContexts": 76,
+    "separateOptionImages": 80
   },
   "subjects": [
     {
@@ -555,9 +558,7 @@
       "decision": "included",
       "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
       "subjectPage": 488,
-      "sourceContextPages": [
-        488
-      ],
+      "sourceContextPages": [],
       "questionPages": [
         488
       ],
@@ -571,7 +572,8 @@
       "contextQuestionNumbers": [
         1
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -604,6 +606,7 @@
       "contextQuestionNumbers": [
         2
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -637,7 +640,8 @@
       "contextQuestionNumbers": [
         3
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -668,9 +672,13 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        4
+        4,
+        5
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2025-2026.s1.context.douleur"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -704,6 +712,9 @@
         4,
         5
       ],
+      "sharedContextIds": [
+        "annales.ue3.2025-2026.s1.context.douleur"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -735,7 +746,13 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7,
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2025-2026.s1.context.diagnostic_hfme"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -769,7 +786,12 @@
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
         6,
-        7
+        7,
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2025-2026.s1.context.diagnostic_hfme"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -804,7 +826,13 @@
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
         6,
-        8
+        7,
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+        "annales.ue3.2025-2026.s1.context.specificite_necker"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -839,8 +867,13 @@
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
         6,
+        7,
         8,
         9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+        "annales.ue3.2025-2026.s1.context.specificite_necker"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -875,6 +908,7 @@
       "contextQuestionNumbers": [
         10
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -908,6 +942,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -941,6 +976,7 @@
       "contextQuestionNumbers": [
         12
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -974,6 +1010,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1007,6 +1044,7 @@
       "contextQuestionNumbers": [
         2
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1040,7 +1078,8 @@
       "contextQuestionNumbers": [
         3
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -1071,9 +1110,13 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        4
+        4,
+        5
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.fonction_renale"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -1107,6 +1150,9 @@
         4,
         5
       ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.fonction_renale"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1138,9 +1184,15 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        6
+        6,
+        7,
+        8
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+        "annales.ue3.2024-2025.s1.context.comparaison_reference_q6"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -1172,7 +1224,11 @@
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
         6,
-        7
+        7,
+        8
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.lesions_colorectales"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1206,7 +1262,12 @@
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
         6,
+        7,
         8
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+        "annales.ue3.2024-2025.s1.context.comparaison_reference_q6"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1239,7 +1300,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        9
+        9,
+        10
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.metastases"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1275,6 +1340,9 @@
         9,
         10
       ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s1.context.metastases"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1308,6 +1376,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1341,6 +1410,7 @@
       "contextQuestionNumbers": [
         12
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1374,6 +1444,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1405,7 +1476,11 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        2
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s2.context.test_student"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1441,6 +1516,9 @@
         2,
         3
       ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s2.context.test_student"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1472,7 +1550,11 @@
       "detailedVerdictKey": null,
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
-        4
+        4,
+        5
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s2.context.fibromes"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1509,6 +1591,9 @@
         4,
         5
       ],
+      "sharedContextIds": [
+        "annales.ue3.2024-2025.s2.context.fibromes"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1542,6 +1627,7 @@
       "contextQuestionNumbers": [
         6
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1575,6 +1661,7 @@
       "contextQuestionNumbers": [
         7
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1608,6 +1695,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1639,7 +1727,11 @@
       "detailedVerdictKey": null,
       "category": "Estimation",
       "contextQuestionNumbers": [
-        2
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1675,6 +1767,9 @@
         2,
         3
       ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1708,6 +1803,7 @@
       "contextQuestionNumbers": [
         4
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1741,6 +1837,7 @@
       "contextQuestionNumbers": [
         5
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1774,6 +1871,7 @@
       "contextQuestionNumbers": [
         6
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "La consigne du sujet semble avoir été recopiée depuis le QCM précédent : elle mentionne une p-valeur et une réponse unique, tandis que les items et le corrigé concernent cet exercice et plusieurs réponses. Le texte original et la grille fournie sont conservés.",
       "referencePages": [
@@ -1805,7 +1903,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        7
+        7,
+        8
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie"
       ],
       "renderMode": "text_options",
       "warning": "La consigne du sujet semble avoir été recopiée depuis le QCM précédent : elle mentionne une p-valeur et une réponse unique, tandis que les items et le corrigé concernent cet exercice et plusieurs réponses. Le texte original et la grille fournie sont conservés.",
@@ -1841,6 +1943,9 @@
         7,
         8
       ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie"
+      ],
       "renderMode": "text_options",
       "warning": "La consigne du sujet semble avoir été recopiée depuis le QCM précédent : elle mentionne une p-valeur et une réponse unique, tandis que les items et le corrigé concernent cet exercice et plusieurs réponses. Le texte original et la grille fournie sont conservés.",
       "referencePages": [
@@ -1872,9 +1977,13 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        9
+        9,
+        10
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s1.context.etude_avc"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -1907,6 +2016,9 @@
       "contextQuestionNumbers": [
         9,
         10
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s1.context.etude_avc"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -1941,6 +2053,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1974,6 +2087,7 @@
       "contextQuestionNumbers": [
         12
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -1991,9 +2105,7 @@
       "decision": "included",
       "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
       "subjectPage": 550,
-      "sourceContextPages": [
-        550
-      ],
+      "sourceContextPages": [],
       "questionPages": [
         550
       ],
@@ -2007,7 +2119,8 @@
       "contextQuestionNumbers": [
         1
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -2038,6 +2151,7 @@
       "contextQuestionNumbers": [
         2
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2069,6 +2183,7 @@
       "contextQuestionNumbers": [
         3
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2102,7 +2217,8 @@
       "contextQuestionNumbers": [
         4
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -2135,6 +2251,7 @@
       "contextQuestionNumbers": [
         5
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2166,7 +2283,11 @@
       "detailedVerdictKey": null,
       "category": "Essais cliniques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s2.context.thrombectomie"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2202,6 +2323,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2023-2024.s2.context.thrombectomie"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2233,7 +2357,12 @@
       "detailedVerdictKey": null,
       "category": "Statistiques descriptives",
       "contextQuestionNumbers": [
-        1
+        1,
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.bicarbonate"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2267,7 +2396,12 @@
       "category": "Estimation",
       "contextQuestionNumbers": [
         1,
-        2
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.bicarbonate",
+        "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2287,8 +2421,7 @@
       "reason": "Année admissible (≥2015), énoncé complet et clé retrouvés.",
       "subjectPage": 561,
       "sourceContextPages": [
-        560,
-        561
+        560
       ],
       "questionPages": [
         561
@@ -2305,7 +2438,11 @@
         2,
         3
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.bicarbonate",
+        "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -2336,7 +2473,11 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        4
+        4,
+        5
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.narcolepsie"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2372,6 +2513,9 @@
         4,
         5
       ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.narcolepsie"
+      ],
       "renderMode": "text_options",
       "warning": "Question hors note : la grille et la clé détaillée indiquent BCE, mais les étiquettes VRAI/FAUX indiquent ACE. Ces sources contradictoires sont conservées dans le corrigé original ; aucune clé n’est imposée.",
       "referencePages": [
@@ -2405,6 +2549,7 @@
       "contextQuestionNumbers": [
         6
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2438,6 +2583,7 @@
       "contextQuestionNumbers": [
         7
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2469,7 +2615,11 @@
       "detailedVerdictKey": null,
       "category": "Essais cliniques",
       "contextQuestionNumbers": [
-        8
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.cancer_poumon"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2506,7 +2656,10 @@
         8,
         9
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.cancer_poumon"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -2537,7 +2690,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        10
+        10,
+        11
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2574,6 +2731,9 @@
         10,
         11
       ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2607,6 +2767,7 @@
       "contextQuestionNumbers": [
         12
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2638,7 +2799,12 @@
       "detailedVerdictKey": null,
       "category": "Statistiques descriptives",
       "contextQuestionNumbers": [
-        1
+        1,
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.mesures"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2672,9 +2838,14 @@
       "category": "Estimation",
       "contextQuestionNumbers": [
         1,
-        2
+        2,
+        3
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.mesures",
+        "annales.ue3.2022-2023.s2.context.moyenne_ecart_type"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -2710,6 +2881,10 @@
         2,
         3
       ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.mesures",
+        "annales.ue3.2022-2023.s2.context.moyenne_ecart_type"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2741,7 +2916,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        4
+        4,
+        5
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.parkinson"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2777,6 +2956,9 @@
         4,
         5
       ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.parkinson"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2808,7 +2990,11 @@
       "detailedVerdictKey": null,
       "category": "Essais cliniques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.tislezumab"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -2844,6 +3030,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2022-2023.s2.context.tislezumab"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2877,6 +3066,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2910,7 +3100,8 @@
       "contextQuestionNumbers": [
         2
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -2943,6 +3134,7 @@
       "contextQuestionNumbers": [
         3
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -2976,6 +3168,7 @@
       "contextQuestionNumbers": [
         4
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3009,7 +3202,8 @@
       "contextQuestionNumbers": [
         5
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -3040,7 +3234,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s1.context.legionellose"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3077,6 +3275,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s1.context.legionellose"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3108,9 +3309,14 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        8
+        8,
+        9,
+        10
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s1.context.anxiete_covid"
+      ],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         667,
@@ -3143,7 +3349,11 @@
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
         8,
-        9
+        9,
+        10
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s1.context.anxiete_covid"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3178,7 +3388,11 @@
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
         8,
+        9,
         10
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s1.context.anxiete_covid"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3213,6 +3427,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3244,6 +3459,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3277,6 +3493,7 @@
       "contextQuestionNumbers": [
         2
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3310,6 +3527,7 @@
       "contextQuestionNumbers": [
         3
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3341,7 +3559,13 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        4
+        4,
+        5,
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s2.context.silicose_definition"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3375,7 +3599,12 @@
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
         4,
-        5
+        5,
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s2.context.silicose_definition"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3408,7 +3637,14 @@
       "detailedVerdictKey": null,
       "category": "Essais cliniques",
       "contextQuestionNumbers": [
-        6
+        4,
+        5,
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s2.context.silicose_definition",
+        "annales.ue3.2021-2022.s2.context.silicose_survie"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3442,8 +3678,14 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
+        4,
+        5,
         6,
         7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2021-2022.s2.context.silicose_definition",
+        "annales.ue3.2021-2022.s2.context.silicose_survie"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3478,6 +3720,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3512,6 +3755,7 @@
       "contextQuestionNumbers": [
         2
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3546,6 +3790,7 @@
       "contextQuestionNumbers": [
         3
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3580,6 +3825,7 @@
       "contextQuestionNumbers": [
         4
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3614,7 +3860,8 @@
       "contextQuestionNumbers": [
         5
       ],
-      "renderMode": "original_propositions_panel",
+      "sharedContextIds": [],
+      "renderMode": "separate_option_images",
       "warning": "",
       "referencePages": [
         619,
@@ -3646,7 +3893,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.paces.context.scores_covid"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -3684,6 +3935,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.paces.context.scores_covid"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3718,6 +3972,7 @@
       "contextQuestionNumbers": [
         8
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3752,6 +4007,7 @@
       "contextQuestionNumbers": [
         9
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3786,6 +4042,7 @@
       "contextQuestionNumbers": [
         10
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3820,6 +4077,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3854,6 +4112,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3887,6 +4146,7 @@
       "contextQuestionNumbers": [
         2
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3920,6 +4180,7 @@
       "contextQuestionNumbers": [
         3
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3953,6 +4214,7 @@
       "contextQuestionNumbers": [
         4
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -3986,6 +4248,7 @@
       "contextQuestionNumbers": [
         5
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4017,7 +4280,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s1.context.tests_covid"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4053,6 +4320,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s1.context.tests_covid"
+      ],
       "renderMode": "text_options",
       "warning": "Dans le sujet original, la phrase de l’item E est incomplète (« population du personnel COVID-19 est de 10 % »). Elle est reproduite sans ajout ; le corrigé est conservé tel que fourni.",
       "referencePages": [
@@ -4084,7 +4354,11 @@
       "detailedVerdictKey": null,
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
-        8
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s1.context.reanimation_covid"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4121,6 +4395,9 @@
         8,
         9
       ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s1.context.reanimation_covid"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4154,6 +4431,7 @@
       "contextQuestionNumbers": [
         10
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4187,6 +4465,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4220,6 +4499,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4251,7 +4531,11 @@
       "detailedVerdictKey": null,
       "category": "Estimation",
       "contextQuestionNumbers": [
-        2
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s2.context.albuminemie"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4287,6 +4571,9 @@
         2,
         3
       ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s2.context.albuminemie"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4320,6 +4607,7 @@
       "contextQuestionNumbers": [
         4
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4351,7 +4639,11 @@
       "detailedVerdictKey": null,
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
-        5
+        5,
+        6
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s2.context.valeriane"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4387,6 +4679,9 @@
         5,
         6
       ],
+      "sharedContextIds": [
+        "annales.ue3.2020-2021.s2.context.valeriane"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4420,6 +4715,7 @@
       "contextQuestionNumbers": [
         7
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4451,7 +4747,11 @@
       "detailedVerdictKey": null,
       "category": "Probabilités et lois",
       "contextQuestionNumbers": [
-        1
+        1,
+        2
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.arthrose"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4488,6 +4788,9 @@
         1,
         2
       ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.arthrose"
+      ],
       "renderMode": "numeric_code_table",
       "warning": "Coquille de signe dans le corrigé détaillé original : le second événement est écrit F ≤ 0,82, alors que le sujet demande F > 0,82. Le calcul des deux queues et la clé ABCD (0,62) concordent avec l’énoncé ; cette clé est conservée.",
       "referencePages": [
@@ -4520,7 +4823,11 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        3
+        3,
+        4
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.hemoglobine"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4558,6 +4865,9 @@
         3,
         4
       ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.hemoglobine"
+      ],
       "renderMode": "numeric_code_table",
       "warning": "",
       "referencePages": [
@@ -4592,6 +4902,7 @@
       "contextQuestionNumbers": [
         5
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4624,7 +4935,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.irm_sein"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4662,6 +4977,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.irm_sein"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4694,7 +5012,11 @@
       "detailedVerdictKey": null,
       "category": "Tests de comparaison",
       "contextQuestionNumbers": [
-        8
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4732,6 +5054,9 @@
         8,
         9
       ],
+      "sharedContextIds": [
+        "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4766,6 +5091,7 @@
       "contextQuestionNumbers": [
         10
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4800,6 +5126,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4834,6 +5161,7 @@
       "contextQuestionNumbers": [
         1
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4865,7 +5193,11 @@
       "detailedVerdictKey": null,
       "category": "Estimation",
       "contextQuestionNumbers": [
-        2
+        2,
+        3
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.intervalle_apache"
       ],
       "renderMode": "numeric_code_table",
       "warning": "",
@@ -4901,6 +5233,9 @@
         2,
         3
       ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.intervalle_apache"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4932,7 +5267,11 @@
       "detailedVerdictKey": null,
       "category": "Corrélation et régression",
       "contextQuestionNumbers": [
-        4
+        4,
+        5
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.scores_saps_apache"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -4968,6 +5307,9 @@
         4,
         5
       ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.scores_saps_apache"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -4999,7 +5341,11 @@
       "detailedVerdictKey": null,
       "category": "Tests diagnostiques",
       "contextQuestionNumbers": [
-        6
+        6,
+        7
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.ebola"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -5036,6 +5382,9 @@
         6,
         7
       ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.ebola"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -5067,7 +5416,11 @@
       "detailedVerdictKey": null,
       "category": "Épidémiologie",
       "contextQuestionNumbers": [
-        8
+        8,
+        9
+      ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.omega3"
       ],
       "renderMode": "text_options",
       "warning": "",
@@ -5104,6 +5457,9 @@
         8,
         9
       ],
+      "sharedContextIds": [
+        "annales.ue3.2018-2019.paces.context.omega3"
+      ],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -5137,6 +5493,7 @@
       "contextQuestionNumbers": [
         10
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -5170,6 +5527,7 @@
       "contextQuestionNumbers": [
         11
       ],
+      "sharedContextIds": [],
       "renderMode": "text_options",
       "warning": "",
       "referencePages": [
@@ -6293,6 +6651,511 @@
       "kind": "source_correction_inequality_typo",
       "correctionPage": 674,
       "keptKey": "ABCD"
+    }
+  ],
+  "sharedContexts": [
+    {
+      "id": "annales.ue3.2025-2026.s1.context.douleur",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2025-2026_s1_q04_context_p489.webp"
+      ],
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 489,
+      "sourceEndPage": 489
+    },
+    {
+      "id": "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2025-2026_s1_q06_context_p490.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sourceStartPage": 490,
+      "sourceEndPage": 490
+    },
+    {
+      "id": "annales.ue3.2025-2026.s1.context.specificite_necker",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2025-2026_s1_q08_context_p491.webp"
+      ],
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 491,
+      "sourceEndPage": 491
+    },
+    {
+      "id": "annales.ue3.2024-2025.s1.context.fonction_renale",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2024-2025_s1_q04_context_p507.webp"
+      ],
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 507,
+      "sourceEndPage": 507
+    },
+    {
+      "id": "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+      "text": "Une étude a évalué l’intérêt d’un outil en ligne pour aider les gastroentérologues à déterminer l’histologie d’une lésion colorectale, par rapport à leur pratique habituelle. A chaque fois, le résultat a été comparé́ à la vraie histologie (obtenue après résection de la lésion ou par biopsie). L’étude a porté́ sur 200 lésions colorectales classées par un seul gastroentérologue. Le pourcentage de lésions bien classées avec l’aide de l’outil est estimé à 60 %.",
+      "images": [],
+      "questionNumbers": [
+        6,
+        7,
+        8
+      ],
+      "sourceStartPage": 508,
+      "sourceEndPage": 508
+    },
+    {
+      "id": "annales.ue3.2024-2025.s1.context.comparaison_reference_q6",
+      "text": "Il est considèré que la cible à atteindre serait de 70 % (valeur de référence). On souhaite comparer les résultats obtenus à l’aide de l’outil à la cible. La valeur absolue statistique du test est d’environ 3. On donne : 0,8 × 0,2 = 0,16 ; 0,7 × 0,3 = 0,21.",
+      "images": [],
+      "questionNumbers": [
+        6,
+        8
+      ],
+      "sourceStartPage": 508,
+      "sourceEndPage": 508
+    },
+    {
+      "id": "annales.ue3.2024-2025.s1.context.metastases",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2024-2025_s1_q09_context_p509.webp"
+      ],
+      "questionNumbers": [
+        9,
+        10
+      ],
+      "sourceStartPage": 509,
+      "sourceEndPage": 509
+    },
+    {
+      "id": "annales.ue3.2024-2025.s2.context.test_student",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2024-2025_s2_q02_context_p522.webp"
+      ],
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 522,
+      "sourceEndPage": 522
+    },
+    {
+      "id": "annales.ue3.2024-2025.s2.context.fibromes",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2024-2025_s2_q04_context_p522.webp"
+      ],
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 522,
+      "sourceEndPage": 522
+    },
+    {
+      "id": "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2023-2024_s1_q02_context_p534.webp"
+      ],
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 534,
+      "sourceEndPage": 534
+    },
+    {
+      "id": "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2023-2024_s1_q07_context_p536.webp"
+      ],
+      "questionNumbers": [
+        7,
+        8
+      ],
+      "sourceStartPage": 536,
+      "sourceEndPage": 536
+    },
+    {
+      "id": "annales.ue3.2023-2024.s1.context.etude_avc",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2023-2024_s1_revision_shared_avc_p537.webp"
+      ],
+      "questionNumbers": [
+        9,
+        10
+      ],
+      "sourceStartPage": 537,
+      "sourceEndPage": 537
+    },
+    {
+      "id": "annales.ue3.2023-2024.s2.context.thrombectomie",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2023-2024_s2_q06_context_p551.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 551,
+      "sourceEndPage": 551
+    },
+    {
+      "id": "annales.ue3.2022-2023.s1.context.bicarbonate",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q01_context_p560.webp"
+      ],
+      "questionNumbers": [
+        1,
+        2,
+        3
+      ],
+      "sourceStartPage": 560,
+      "sourceEndPage": 560
+    },
+    {
+      "id": "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q02_context_p560.webp"
+      ],
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 560,
+      "sourceEndPage": 560
+    },
+    {
+      "id": "annales.ue3.2022-2023.s1.context.narcolepsie",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q04_context_p561.webp"
+      ],
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 561,
+      "sourceEndPage": 561
+    },
+    {
+      "id": "annales.ue3.2022-2023.s1.context.cancer_poumon",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q08_context_p562.webp"
+      ],
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 562,
+      "sourceEndPage": 562
+    },
+    {
+      "id": "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s1_q10_context_p563.webp"
+      ],
+      "questionNumbers": [
+        10,
+        11
+      ],
+      "sourceStartPage": 563,
+      "sourceEndPage": 563
+    },
+    {
+      "id": "annales.ue3.2022-2023.s2.context.mesures",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s2_q01_context_p578.webp"
+      ],
+      "questionNumbers": [
+        1,
+        2,
+        3
+      ],
+      "sourceStartPage": 578,
+      "sourceEndPage": 578
+    },
+    {
+      "id": "annales.ue3.2022-2023.s2.context.moyenne_ecart_type",
+      "text": "La moyenne m des mesures est de 2,70 avec un écart type estimé s de 1'20' On rappelle que m est une estimation de l'espérance p.",
+      "images": [],
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 578,
+      "sourceEndPage": 578
+    },
+    {
+      "id": "annales.ue3.2022-2023.s2.context.parkinson",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s2_q04_context_p579.webp"
+      ],
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 579,
+      "sourceEndPage": 579
+    },
+    {
+      "id": "annales.ue3.2022-2023.s2.context.tislezumab",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2022-2023_s2_q06_context_p580.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 580,
+      "sourceEndPage": 580
+    },
+    {
+      "id": "annales.ue3.2021-2022.s1.context.legionellose",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2021-2022_s1_q06_context_p590.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 590,
+      "sourceEndPage": 590
+    },
+    {
+      "id": "annales.ue3.2021-2022.s1.context.anxiete_covid",
+      "text": "Une étude s’intéresse au niveau d’anxiété des patients admis en réanimation pour COVID-19. L’évaluation est faite par le questionnaire HADS, un an après le passage en réanimation. Sur les 100 patients de l’étude qui ont été suivis à 1an, 30 avaient un diagnostic d’anxiété à 1an d’après l’HADS.",
+      "images": [],
+      "questionNumbers": [
+        8,
+        9,
+        10
+      ],
+      "sourceStartPage": 591,
+      "sourceEndPage": 591
+    },
+    {
+      "id": "annales.ue3.2021-2022.s2.context.silicose_definition",
+      "text": "La silicose est une maladie pulmonaire causée par l’inhalation de silice cristalline à laquelle les employés du bâtiment sont, entre autres, exposés.",
+      "images": [],
+      "questionNumbers": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourceStartPage": 605,
+      "sourceEndPage": 605
+    },
+    {
+      "id": "annales.ue3.2021-2022.s2.context.silicose_survie",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2021-2022_s2_q06_context_p605.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 605,
+      "sourceEndPage": 605
+    },
+    {
+      "id": "annales.ue3.2020-2021.paces.context.scores_covid",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2020-2021_paces_q06_context_p615.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 615,
+      "sourceEndPage": 615
+    },
+    {
+      "id": "annales.ue3.2020-2021.s1.context.tests_covid",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2020-2021_s1_q06_context_p636.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 636,
+      "sourceEndPage": 636
+    },
+    {
+      "id": "annales.ue3.2020-2021.s1.context.reanimation_covid",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2020-2021_s1_q08_context_p636.webp"
+      ],
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 636,
+      "sourceEndPage": 636
+    },
+    {
+      "id": "annales.ue3.2020-2021.s2.context.albuminemie",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2020-2021_s2_q02_context_p652.webp"
+      ],
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 652,
+      "sourceEndPage": 652
+    },
+    {
+      "id": "annales.ue3.2020-2021.s2.context.valeriane",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2020-2021_s2_q05_context_p653.webp"
+      ],
+      "questionNumbers": [
+        5,
+        6
+      ],
+      "sourceStartPage": 653,
+      "sourceEndPage": 653
+    },
+    {
+      "id": "annales.ue3.2019-2020.paces.context.arthrose",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2019-2020_paces_q01_context_p662.webp"
+      ],
+      "questionNumbers": [
+        1,
+        2
+      ],
+      "sourceStartPage": 662,
+      "sourceEndPage": 662
+    },
+    {
+      "id": "annales.ue3.2019-2020.paces.context.hemoglobine",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2019-2020_paces_q03_context_p662.webp"
+      ],
+      "questionNumbers": [
+        3,
+        4
+      ],
+      "sourceStartPage": 662,
+      "sourceEndPage": 662
+    },
+    {
+      "id": "annales.ue3.2019-2020.paces.context.irm_sein",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2019-2020_paces_q06_context_p663.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 663,
+      "sourceEndPage": 663
+    },
+    {
+      "id": "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon",
+      "text": "Un jeune praticien hospitalier talentueux de l’hôpital Edouard Herriot a développé une nouvelle classification afin d’aider les endoscopistes à identifier les adénocarcinomes superficiels du côlon : la classification Conecct.",
+      "images": [],
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 664,
+      "sourceEndPage": 664
+    },
+    {
+      "id": "annales.ue3.2018-2019.paces.context.intervalle_apache",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_revision_shared_apache_p684.webp"
+      ],
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "sourceStartPage": 684,
+      "sourceEndPage": 684
+    },
+    {
+      "id": "annales.ue3.2018-2019.paces.context.scores_saps_apache",
+      "text": "Pour tester si la régression linéaire est significative, vous effectuez :",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_q04_context_p685.webp"
+      ],
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "sourceStartPage": 685,
+      "sourceEndPage": 685
+    },
+    {
+      "id": "annales.ue3.2018-2019.paces.context.ebola",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_q06_context_p685.webp"
+      ],
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "sourceStartPage": 685,
+      "sourceEndPage": 685
+    },
+    {
+      "id": "annales.ue3.2018-2019.paces.context.omega3",
+      "text": "",
+      "images": [
+        "static/annales_ue3_2018-2019_paces_q08_context_p686.webp"
+      ],
+      "questionNumbers": [
+        8,
+        9
+      ],
+      "sourceStartPage": 686,
+      "sourceEndPage": 686
     }
   ]
 }

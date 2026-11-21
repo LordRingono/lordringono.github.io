@@ -17,20 +17,23 @@
     ],
     "minimumAllowedYear": 2015,
     "subjectPages": 68,
-    "assets": 434,
-    "assetBytes": 18607898,
+    "assets": 492,
+    "assetBytes": 18443482,
     "assetsByRole": {
-      "subject": 292,
+      "subject": 350,
       "correction": 142
     },
     "questionRenderModes": {
-      "original_propositions_panel": 16,
+      "separate_option_images": 16,
       "text_options": 119,
       "numeric_code_table": 3
     },
     "sourceWarnings": 6,
     "keyComparisons": 138,
-    "keyMatches": 138
+    "keyMatches": 138,
+    "sharedContextCount": 39,
+    "questionsWithSharedContexts": 76,
+    "separateOptionImages": 80
   },
   "errors": [],
   "checks": [
@@ -42,7 +45,7 @@
     {
       "pass": 2,
       "name": "Énoncés et dépendances",
-      "result": "Consignes relues ; contextes communs repris, y compris lorsqu’ils débutent à la page précédente ; dépendances et aides de calcul visibles."
+      "result": "Les 14 sujets sont relus : 39 blocs partagés explicites, consignes locales séparées, données de pages précédentes et aides de calcul conservées. La consigne d’intervalle demandée en 2018 Q2 est rétablie pour Q3."
     },
     {
       "pass": 3,
@@ -52,7 +55,7 @@
     {
       "pass": 4,
       "name": "Images et mathématiques",
-      "result": "Formules, exposants, tableaux codés et figures conservés en extraits originaux ; panneaux A–E utilisés lorsque les équations se chevauchent verticalement."
+      "result": "Les 16 panneaux A–E regroupés sont remplacés par 80 captures distinctes, une par proposition, relues visuellement. Formules, exposants, tableaux codés et figures sont conservés."
     },
     {
       "pass": 5,
@@ -62,7 +65,7 @@
     {
       "pass": 6,
       "name": "Structure et références",
-      "result": "IDs, stockage, numérotation, cinq options, titres, images existantes et 100 % des références/provenances validés."
+      "result": "IDs, clés de correction et stockages inchangés par rapport à v1 ; cinq options par question ; objets sharedContexts identiques entre leurs membres ; références et provenances validées."
     }
   ],
   "warnings": [
@@ -106,5 +109,5 @@
     "Le document source comporte des erreurs signalées dans les avertissements ; elles ne sont pas corrigées silencieusement.",
     "Cette intégration vérifie la fidélité des énoncés et l’accord des sources ; elle ne constitue pas une nouvelle validation scientifique indépendante des 138 corrigés."
   ],
-  "obsoleteRendersRemoved": 97
+  "obsoleteRendersRemoved": 25
 }

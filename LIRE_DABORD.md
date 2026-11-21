@@ -8,7 +8,11 @@
 
 Le site fonctionne localement. Aucun compte ni serveur n’est nécessaire.
 
-## Nouveautés
+## Révision des énoncés communs
+
+Les données partagées apparaissent dans un bloc avant les QCM concernés, y compris après recherche ou filtrage. Un lien dans chaque carte permet de revenir à l’énoncé commun. Les trois banques ED de biomol, les biostatistiques et la biochimie ont fait l’objet d’une nouvelle séparation des consignes, propositions et annexes. Les identifiants et sauvegardes sont conservés ; quatre clés mal rattachées dans les annales ED ont été rétablies depuis le corrigé (détails dans le rapport).
+
+## Annales intégrées
 
 838 QCM ajoutés : UE2 biochimie/chimie, UE3 biostatistiques et UE4 médicaments. Les 1 950 QCM existants sont conservés. Les nouvelles annales vont de 2018–2019 à 2025–2026 ; aucun QCM antérieur à 2015 n’a été ajouté. Les 19 QCM dont la correction est absente ou contradictoire restent consultables hors note.
 

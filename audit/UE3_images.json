@@ -82,12 +82,14 @@
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.douleur"
       },
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 5,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.douleur"
       }
     ]
   },
@@ -145,22 +147,26 @@
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.diagnostic_hfme"
       },
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.diagnostic_hfme"
       },
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.diagnostic_hfme"
       },
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 9,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.diagnostic_hfme"
       }
     ]
   },
@@ -218,12 +224,14 @@
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.specificite_necker"
       },
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 9,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2025-2026.s1.context.specificite_necker"
       }
     ]
   },
@@ -310,35 +318,6 @@
       {
         "exam": "annales.ue3.2025-2026.s1",
         "question": 12,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2025-2026_s1_q01_propositions_p488.webp",
-    "page": 488,
-    "bbox": [
-      37,
-      138.345,
-      550,
-      264.606
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2025-2026.s1:1",
-    "sourceExam": "annales.ue3.2025-2026.s1",
-    "sourceYear": "2025-2026",
-    "sourceSession": "s1",
-    "pixels": [
-      933,
-      220
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "77af4ee92374bc8fd046a8a934fb3b86f17d22f71a715d627a2c4fa2e443b2fd",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2025-2026.s1",
-        "question": 1,
         "field": "stemImages"
       }
     ]
@@ -460,35 +439,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2025-2026_s1_q03_propositions_p488.webp",
-    "page": 488,
-    "bbox": [
-      37,
-      662.745,
-      550,
-      756.225
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2025-2026.s1:3",
-    "sourceExam": "annales.ue3.2025-2026.s1",
-    "sourceYear": "2025-2026",
-    "sourceSession": "s1",
-    "pixels": [
-      732,
-      158
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "badd6848b7b3e95fddd30e1f58d60913ff13eaafacf8c53eaf250d12e6b5ce59",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2025-2026.s1",
-        "question": 3,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2025-2026_s1_q03_original_p488.webp",
     "page": 488,
     "bbox": [
@@ -543,35 +493,6 @@
         "exam": "annales.ue3.2025-2026.s1",
         "question": 3,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2025-2026_s1_q04_propositions_p489.webp",
-    "page": 489,
-    "bbox": [
-      37,
-      220.58,
-      550,
-      368.85
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2025-2026.s1:4",
-    "sourceExam": "annales.ue3.2025-2026.s1",
-    "sourceYear": "2025-2026",
-    "sourceSession": "s1",
-    "pixels": [
-      933,
-      287
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "5ea5b3cbf07b61d2991ee166826020df25a6d354a7a567c94e3c83bfc3b33d62",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2025-2026.s1",
-        "question": 4,
-        "field": "stemImages"
       }
     ]
   },
@@ -1180,51 +1101,14 @@
       {
         "exam": "annales.ue3.2024-2025.s1",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s1.context.fonction_renale"
       },
       {
         "exam": "annales.ue3.2024-2025.s1",
         "question": 5,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2024-2025_s1_q06_context_p508.webp",
-    "page": 508,
-    "bbox": [
-      37,
-      65,
-      550,
-      194.05
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2024-2025.s1:6",
-    "sourceExam": "annales.ue3.2024-2025.s1",
-    "sourceYear": "2024-2025",
-    "sourceSession": "s1",
-    "pixels": [
-      990,
-      246
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "d98e52afe4c1d64f349640503b26adb76eae9d31ce2abaa5357141de14fd4997",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2024-2025.s1",
-        "question": 6,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2024-2025.s1",
-        "question": 7,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2024-2025.s1",
-        "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s1.context.fonction_renale"
       }
     ]
   },
@@ -1311,12 +1195,14 @@
       {
         "exam": "annales.ue3.2024-2025.s1",
         "question": 9,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s1.context.metastases"
       },
       {
         "exam": "annales.ue3.2024-2025.s1",
         "question": 10,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s1.context.metastases"
       }
     ]
   },
@@ -1553,35 +1439,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2024-2025_s1_q03_propositions_p507.webp",
-    "page": 507,
-    "bbox": [
-      37,
-      166.8,
-      550,
-      269.33
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2024-2025.s1:3",
-    "sourceExam": "annales.ue3.2024-2025.s1",
-    "sourceYear": "2024-2025",
-    "sourceSession": "s1",
-    "pixels": [
-      452,
-      195
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "c8d99ec1322bd0d2447eef2465756f34ec192061c61095e0971e964aa0757479",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2024-2025.s1",
-        "question": 3,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2024-2025_s1_q03_original_p507.webp",
     "page": 507,
     "bbox": [
@@ -1636,35 +1493,6 @@
         "exam": "annales.ue3.2024-2025.s1",
         "question": 3,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2024-2025_s1_q04_propositions_p507.webp",
-    "page": 507,
-    "bbox": [
-      37,
-      427.87,
-      550,
-      512.9
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2024-2025.s1:4",
-    "sourceExam": "annales.ue3.2024-2025.s1",
-    "sourceYear": "2024-2025",
-    "sourceSession": "s1",
-    "pixels": [
-      900,
-      156
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "ae04fdadafedee9348e354966a9d2cade7dcb48336c6e9006cb4229856f0543e",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2024-2025.s1",
-        "question": 4,
-        "field": "stemImages"
       }
     ]
   },
@@ -1781,35 +1609,6 @@
         "exam": "annales.ue3.2024-2025.s1",
         "question": 5,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2024-2025_s1_q06_propositions_p508.webp",
-    "page": 508,
-    "bbox": [
-      37,
-      207.05,
-      550,
-      336.6
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2024-2025.s1:6",
-    "sourceExam": "annales.ue3.2024-2025.s1",
-    "sourceYear": "2024-2025",
-    "sourceSession": "s1",
-    "pixels": [
-      933,
-      245
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "3cc53a69d4fc403337fbe7059c5be977cc67925337a09194c24eb8f99e2d9020",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2024-2025.s1",
-        "question": 6,
-        "field": "stemImages"
       }
     ]
   },
@@ -2273,12 +2072,14 @@
       {
         "exam": "annales.ue3.2024-2025.s2",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s2.context.test_student"
       },
       {
         "exam": "annales.ue3.2024-2025.s2",
         "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s2.context.test_student"
       }
     ]
   },
@@ -2307,12 +2108,14 @@
       {
         "exam": "annales.ue3.2024-2025.s2",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s2.context.fibromes"
       },
       {
         "exam": "annales.ue3.2024-2025.s2",
         "question": 5,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2024-2025.s2.context.fibromes"
       }
     ]
   },
@@ -2892,12 +2695,14 @@
       {
         "exam": "annales.ue3.2023-2024.s1",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires"
       },
       {
         "exam": "annales.ue3.2023-2024.s1",
         "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires"
       }
     ]
   },
@@ -3042,12 +2847,14 @@
       {
         "exam": "annales.ue3.2023-2024.s1",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie"
       },
       {
         "exam": "annales.ue3.2023-2024.s1",
         "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie"
       }
     ]
   },
@@ -3076,40 +2883,6 @@
       {
         "exam": "annales.ue3.2023-2024.s1",
         "question": 8,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2023-2024_s1_q09_context_p537.webp",
-    "page": 537,
-    "bbox": [
-      37,
-      65,
-      550,
-      334.395
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2023-2024.s1:9",
-    "sourceExam": "annales.ue3.2023-2024.s1",
-    "sourceYear": "2023-2024",
-    "sourceSession": "s1",
-    "pixels": [
-      989,
-      492
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "4e18ef5c2247ef7cb52788fc6347662f1e0d514ae4e66e696dbff613ae84ebb5",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2023-2024.s1",
-        "question": 9,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2023-2024.s1",
-        "question": 10,
         "field": "stemImages"
       }
     ]
@@ -3666,35 +3439,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2023-2024_s1_q09_propositions_p537.webp",
-    "page": 537,
-    "bbox": [
-      37,
-      349.1,
-      550,
-      457.12
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2023-2024.s1:9",
-    "sourceExam": "annales.ue3.2023-2024.s1",
-    "sourceYear": "2023-2024",
-    "sourceSession": "s1",
-    "pixels": [
-      933,
-      211
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "36bf3e3a283c951d0f34c7c2d30db51128fb4c192b2e20a4de304336083fc0c9",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2023-2024.s1",
-        "question": 9,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2023-2024_s1_q09_original_p537.webp",
     "page": 537,
     "bbox": [
@@ -4009,12 +3753,14 @@
       {
         "exam": "annales.ue3.2023-2024.s2",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s2.context.thrombectomie"
       },
       {
         "exam": "annales.ue3.2023-2024.s2",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s2.context.thrombectomie"
       }
     ]
   },
@@ -4043,35 +3789,6 @@
       {
         "exam": "annales.ue3.2023-2024.s2",
         "question": 7,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2023-2024_s2_q01_propositions_p550.webp",
-    "page": 550,
-    "bbox": [
-      37,
-      85.03,
-      550,
-      166.3
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2023-2024.s2:1",
-    "sourceExam": "annales.ue3.2023-2024.s2",
-    "sourceYear": "2023-2024",
-    "sourceSession": "s2",
-    "pixels": [
-      704,
-      156
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "839e4b53583b3d62ca13cdbd81f99fe06bb27141c4b4a365cd8f73993a79630d",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2023-2024.s2",
-        "question": 1,
         "field": "stemImages"
       }
     ]
@@ -4247,35 +3964,6 @@
         "exam": "annales.ue3.2023-2024.s2",
         "question": 3,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2023-2024_s2_q04_propositions_p550.webp",
-    "page": 550,
-    "bbox": [
-      37,
-      510.9,
-      550,
-      596.17
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2023-2024.s2:4",
-    "sourceExam": "annales.ue3.2023-2024.s2",
-    "sourceYear": "2023-2024",
-    "sourceSession": "s2",
-    "pixels": [
-      346,
-      157
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "45315191a8e7c7c18f43ab0f22b8873ca883d080341a0e588c5408f4dcf95643",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2023-2024.s2",
-        "question": 4,
-        "field": "stemImages"
       }
     ]
   },
@@ -4536,17 +4224,20 @@
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 1,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.bicarbonate"
       },
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.bicarbonate"
       },
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.bicarbonate"
       }
     ]
   },
@@ -4575,12 +4266,14 @@
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate"
       },
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate"
       }
     ]
   },
@@ -4609,12 +4302,14 @@
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.narcolepsie"
       },
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 5,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.narcolepsie"
       }
     ]
   },
@@ -4701,12 +4396,14 @@
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.cancer_poumon"
       },
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 9,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.cancer_poumon"
       }
     ]
   },
@@ -4764,12 +4461,14 @@
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 10,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire"
       },
       {
         "exam": "annales.ue3.2022-2023.s1",
         "question": 11,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire"
       }
     ]
   },
@@ -4973,35 +4672,6 @@
         "exam": "annales.ue3.2022-2023.s1",
         "question": 2,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2022-2023_s1_q03_propositions_p561.webp",
-    "page": 561,
-    "bbox": [
-      37,
-      99.53,
-      550,
-      180.8
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2022-2023.s1:3",
-    "sourceExam": "annales.ue3.2022-2023.s1",
-    "sourceYear": "2022-2023",
-    "sourceSession": "s1",
-    "pixels": [
-      135,
-      152
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "7a35f7697bee75971236286d4348a220a0179788415aecaf8a87397829bef3cd",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2022-2023.s1",
-        "question": 3,
-        "field": "stemImages"
       }
     ]
   },
@@ -5383,35 +5053,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2022-2023_s1_q09_propositions_p563.webp",
-    "page": 563,
-    "bbox": [
-      37,
-      350.145,
-      550,
-      478.15
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2022-2023.s1:9",
-    "sourceExam": "annales.ue3.2022-2023.s1",
-    "sourceYear": "2022-2023",
-    "sourceSession": "s1",
-    "pixels": [
-      975,
-      234
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "a229eee08bda0afeabea241656f2720e215dfce009bf5799200977418c52961b",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2022-2023.s1",
-        "question": 9,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2022-2023_s1_q09_original_p563.webp",
     "page": 563,
     "bbox": [
@@ -5668,51 +5309,20 @@
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 1,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.mesures"
       },
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.mesures"
       },
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 3,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2022-2023_s2_q02_context_p578.webp",
-    "page": 578,
-    "bbox": [
-      37,
-      478.65,
-      550,
-      585.225
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2022-2023.s2:2",
-    "sourceExam": "annales.ue3.2022-2023.s2",
-    "sourceYear": "2022-2023",
-    "sourceSession": "s2",
-    "pixels": [
-      984,
-      126
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "dbde3faf68ec7bdd2f993fb92b68018f36e817bd9ebdeb72d459d0c3a4e6b02f",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2022-2023.s2",
-        "question": 2,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2022-2023.s2",
-        "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.mesures"
       }
     ]
   },
@@ -5770,12 +5380,14 @@
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.parkinson"
       },
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 5,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.parkinson"
       }
     ]
   },
@@ -5833,12 +5445,14 @@
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.tislezumab"
       },
       {
         "exam": "annales.ue3.2022-2023.s2",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2022-2023.s2.context.tislezumab"
       }
     ]
   },
@@ -5926,35 +5540,6 @@
         "exam": "annales.ue3.2022-2023.s2",
         "question": 1,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2022-2023_s2_q02_propositions_p578.webp",
-    "page": 578,
-    "bbox": [
-      37,
-      599.93,
-      550,
-      685.95
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2022-2023.s2:2",
-    "sourceExam": "annales.ue3.2022-2023.s2",
-    "sourceYear": "2022-2023",
-    "sourceSession": "s2",
-    "pixels": [
-      873,
-      166
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "4359ce0c8da8d11f6844f25f0d154fc04eb1885a9831a72e7d680187afba48df",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2022-2023.s2",
-        "question": 2,
-        "field": "stemImages"
       }
     ]
   },
@@ -6476,12 +6061,14 @@
       {
         "exam": "annales.ue3.2021-2022.s1",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2021-2022.s1.context.legionellose"
       },
       {
         "exam": "annales.ue3.2021-2022.s1",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2021-2022.s1.context.legionellose"
       }
     ]
   },
@@ -6510,45 +6097,6 @@
       {
         "exam": "annales.ue3.2021-2022.s1",
         "question": 7,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2021-2022_s1_q08_context_p591.webp",
-    "page": 591,
-    "bbox": [
-      37,
-      279.33,
-      550,
-      405.665
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2021-2022.s1:8",
-    "sourceExam": "annales.ue3.2021-2022.s1",
-    "sourceYear": "2021-2022",
-    "sourceSession": "s1",
-    "pixels": [
-      990,
-      167
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "17f9600b6367fd47860b84e32b19a449d93ff6946011b9aabbb60d2e9708b2fd",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2021-2022.s1",
-        "question": 8,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2021-2022.s1",
-        "question": 9,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2021-2022.s1",
-        "question": 10,
         "field": "stemImages"
       }
     ]
@@ -6695,35 +6243,6 @@
         "exam": "annales.ue3.2021-2022.s1",
         "question": 1,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2021-2022_s1_q02_propositions_p588.webp",
-    "page": 588,
-    "bbox": [
-      37,
-      551.15,
-      550,
-      633.43
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2021-2022.s1:2",
-    "sourceExam": "annales.ue3.2021-2022.s1",
-    "sourceYear": "2021-2022",
-    "sourceSession": "s1",
-    "pixels": [
-      771,
-      159
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "cac333c2af4b28c89b55ddd10fef98a90978b56cd2ca5dc9addbf9e5569d2182",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2021-2022.s1",
-        "question": 2,
-        "field": "stemImages"
       }
     ]
   },
@@ -6902,35 +6421,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2021-2022_s1_q05_propositions_p589.webp",
-    "page": 589,
-    "bbox": [
-      37,
-      651.45,
-      550,
-      733.7
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2021-2022.s1:5",
-    "sourceExam": "annales.ue3.2021-2022.s1",
-    "sourceYear": "2021-2022",
-    "sourceSession": "s1",
-    "pixels": [
-      813,
-      159
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "a1886c771176f10fab937d3a4d3b2caea92c898f7223dde99f4b39efbe908ca8",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2021-2022.s1",
-        "question": 5,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2021-2022_s1_q05_original_p589.webp",
     "page": 589,
     "bbox": [
@@ -7101,35 +6591,6 @@
         "exam": "annales.ue3.2021-2022.s1",
         "question": 7,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2021-2022_s1_q08_propositions_p591.webp",
-    "page": 591,
-    "bbox": [
-      37,
-      420.37,
-      550,
-      674.45
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2021-2022.s1:8",
-    "sourceExam": "annales.ue3.2021-2022.s1",
-    "sourceYear": "2021-2022",
-    "sourceSession": "s1",
-    "pixels": [
-      933,
-      502
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "9ca848ed2e21fd370cec1db94f8a210494f48611bf34145f9031e4b06162cafe",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2021-2022.s1",
-        "question": 8,
-        "field": "stemImages"
       }
     ]
   },
@@ -7453,40 +6914,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2021-2022_s2_q04_context_p605.webp",
-    "page": 605,
-    "bbox": [
-      37,
-      65,
-      550,
-      145.345
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2021-2022.s2:4",
-    "sourceExam": "annales.ue3.2021-2022.s2",
-    "sourceYear": "2021-2022",
-    "sourceSession": "s2",
-    "pixels": [
-      987,
-      114
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "630310a2c8d545923d2e928fd02eeef262aeb1fdf88ed427c15adc232138c6b9",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2021-2022.s2",
-        "question": 4,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2021-2022.s2",
-        "question": 5,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2021-2022_s2_q05_context_p605.webp",
     "page": 605,
     "bbox": [
@@ -7540,12 +6967,14 @@
       {
         "exam": "annales.ue3.2021-2022.s2",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2021-2022.s2.context.silicose_survie"
       },
       {
         "exam": "annales.ue3.2021-2022.s2",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2021-2022.s2.context.silicose_survie"
       }
     ]
   },
@@ -8470,12 +7899,14 @@
       {
         "exam": "annales.ue3.2020-2021.paces",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.paces.context.scores_covid"
       },
       {
         "exam": "annales.ue3.2020-2021.paces",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.paces.context.scores_covid"
       }
     ]
   },
@@ -8853,35 +8284,6 @@
         "exam": "annales.ue3.2020-2021.paces",
         "question": 4,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2020-2021_paces_q05_propositions_p615.webp",
-    "page": 615,
-    "bbox": [
-      37,
-      403.87,
-      550,
-      484.9
-    ],
-    "role": "subject",
-    "kind": "subject_propositions",
-    "owner": "annales.ue3.2020-2021.paces:5",
-    "sourceExam": "annales.ue3.2020-2021.paces",
-    "sourceYear": "2020-2021",
-    "sourceSession": "paces",
-    "pixels": [
-      809,
-      156
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "94d35f868f89c053cbfe50e98d461199923bde15ed11619512feabe966e82ba9",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2020-2021.paces",
-        "question": 5,
-        "field": "stemImages"
       }
     ]
   },
@@ -9461,12 +8863,14 @@
       {
         "exam": "annales.ue3.2020-2021.s1",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s1.context.tests_covid"
       },
       {
         "exam": "annales.ue3.2020-2021.s1",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s1.context.tests_covid"
       }
     ]
   },
@@ -9524,12 +8928,14 @@
       {
         "exam": "annales.ue3.2020-2021.s1",
         "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s1.context.reanimation_covid"
       },
       {
         "exam": "annales.ue3.2020-2021.s1",
         "question": 9,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s1.context.reanimation_covid"
       }
     ]
   },
@@ -10312,12 +9718,14 @@
       {
         "exam": "annales.ue3.2020-2021.s2",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s2.context.albuminemie"
       },
       {
         "exam": "annales.ue3.2020-2021.s2",
         "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s2.context.albuminemie"
       }
     ]
   },
@@ -10404,12 +9812,14 @@
       {
         "exam": "annales.ue3.2020-2021.s2",
         "question": 5,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s2.context.valeriane"
       },
       {
         "exam": "annales.ue3.2020-2021.s2",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2020-2021.s2.context.valeriane"
       }
     ]
   },
@@ -12958,12 +12368,14 @@
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 1,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2019-2020.paces.context.arthrose"
       },
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 2,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2019-2020.paces.context.arthrose"
       }
     ]
   },
@@ -12992,12 +12404,14 @@
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 3,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2019-2020.paces.context.hemoglobine"
       },
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2019-2020.paces.context.hemoglobine"
       }
     ]
   },
@@ -13055,12 +12469,14 @@
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2019-2020.paces.context.irm_sein"
       },
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2019-2020.paces.context.irm_sein"
       }
     ]
   },
@@ -13089,40 +12505,6 @@
       {
         "exam": "annales.ue3.2019-2020.paces",
         "question": 7,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2019-2020_paces_q08_context_p664.webp",
-    "page": 664,
-    "bbox": [
-      37,
-      417.12,
-      550,
-      583.965
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2019-2020.paces:8",
-    "sourceExam": "annales.ue3.2019-2020.paces",
-    "sourceYear": "2019-2020",
-    "sourceSession": "paces",
-    "pixels": [
-      995,
-      250
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "0da859b948207015b2b46be7a871d613f156836663dd527c063418342539fd87",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2019-2020.paces",
-        "question": 8,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2019-2020.paces",
-        "question": 9,
         "field": "stemImages"
       }
     ]
@@ -13414,35 +12796,6 @@
         "exam": "annales.ue3.2019-2020.paces",
         "question": 3,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2019-2020_paces_q04_previous_prompt_p662.webp",
-    "page": 662,
-    "bbox": [
-      37,
-      623.965,
-      550,
-      652.745
-    ],
-    "role": "subject",
-    "kind": "subject_dependency_prompt",
-    "owner": "annales.ue3.2019-2020.paces:4",
-    "sourceExam": "annales.ue3.2019-2020.paces",
-    "sourceYear": "2019-2020",
-    "sourceSession": "paces",
-    "pixels": [
-      978,
-      57
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "95c57a89d7fb174ba10b91b9cf62d304d2dc396c758c9e4d854b2189fe6126fd",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2019-2020.paces",
-        "question": 4,
-        "field": "stemImages"
       }
     ]
   },
@@ -13969,40 +13322,6 @@
     ]
   },
   {
-    "path": "static/annales_ue3_2018-2019_paces_q02_context_p684.webp",
-    "page": 684,
-    "bbox": [
-      37,
-      370.1,
-      550,
-      469.195
-    ],
-    "role": "subject",
-    "kind": "subject_context",
-    "owner": "annales.ue3.2018-2019.paces:2",
-    "sourceExam": "annales.ue3.2018-2019.paces",
-    "sourceYear": "2018-2019",
-    "sourceSession": "paces",
-    "pixels": [
-      988,
-      142
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "543d286c8406a138eb080e7613b1c6fb0b2eb66ba80b80e1d2a68c2a32851fa2",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2018-2019.paces",
-        "question": 2,
-        "field": "stemImages"
-      },
-      {
-        "exam": "annales.ue3.2018-2019.paces",
-        "question": 3,
-        "field": "stemImages"
-      }
-    ]
-  },
-  {
     "path": "static/annales_ue3_2018-2019_paces_q04_context_p685.webp",
     "page": 685,
     "bbox": [
@@ -14027,12 +13346,14 @@
       {
         "exam": "annales.ue3.2018-2019.paces",
         "question": 4,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.scores_saps_apache"
       },
       {
         "exam": "annales.ue3.2018-2019.paces",
         "question": 5,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.scores_saps_apache"
       }
     ]
   },
@@ -14090,12 +13411,14 @@
       {
         "exam": "annales.ue3.2018-2019.paces",
         "question": 6,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.ebola"
       },
       {
         "exam": "annales.ue3.2018-2019.paces",
         "question": 7,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.ebola"
       }
     ]
   },
@@ -14153,12 +13476,14 @@
       {
         "exam": "annales.ue3.2018-2019.paces",
         "question": 8,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.omega3"
       },
       {
         "exam": "annales.ue3.2018-2019.paces",
         "question": 9,
-        "field": "stemImages"
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.omega3"
       }
     ]
   },
@@ -14507,35 +13832,6 @@
         "exam": "annales.ue3.2018-2019.paces",
         "question": 4,
         "field": "correctionImages"
-      }
-    ]
-  },
-  {
-    "path": "static/annales_ue3_2018-2019_paces_q05_previous_prompt_p685.webp",
-    "page": 685,
-    "bbox": [
-      37,
-      277.125,
-      550,
-      305.895
-    ],
-    "role": "subject",
-    "kind": "subject_dependency_prompt",
-    "owner": "annales.ue3.2018-2019.paces:5",
-    "sourceExam": "annales.ue3.2018-2019.paces",
-    "sourceYear": "2018-2019",
-    "sourceSession": "paces",
-    "pixels": [
-      988,
-      56
-    ],
-    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
-    "sha256": "843fb4051ba8b59eb0a691607204eb34199697331c82202d59d088038c07e256",
-    "usedBy": [
-      {
-        "exam": "annales.ue3.2018-2019.paces",
-        "question": 5,
-        "field": "stemImages"
       }
     ]
   },
@@ -14944,5 +14240,2669 @@
         "field": "correctionImages"
       }
     ]
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s1_revision_shared_avc_p537.webp",
+    "page": 537,
+    "bbox": [
+      37,
+      72,
+      550,
+      276
+    ],
+    "role": "subject",
+    "kind": "subject_shared_context",
+    "owner": "annales.ue3.2023-2024.s1:shared:avc",
+    "sourceExam": "annales.ue3.2023-2024.s1",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s1",
+    "pixels": [
+      989,
+      408
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "446e193d8726c6c6fd32cb5c2de9d9105b49e3473c57418eb0c1b9cd152f770f",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 9,
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s1.context.etude_avc"
+      },
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 10,
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2023-2024.s1.context.etude_avc"
+      }
+    ],
+    "revision": 2
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s2_revision_q02_aide_p578.webp",
+    "page": 578,
+    "bbox": [
+      54,
+      547,
+      170,
+      569
+    ],
+    "role": "subject",
+    "kind": "subject_local_context",
+    "owner": "annales.ue3.2022-2023.s2:2",
+    "sourceExam": "annales.ue3.2022-2023.s2",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s2",
+    "pixels": [
+      218,
+      44
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "cdfdc1b898d5276d5eed71274d7745161944a2c050ac51337be0caffce4b3072",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s2",
+        "question": 2,
+        "field": "stemImages"
+      }
+    ],
+    "revision": 2
+  },
+  {
+    "path": "static/annales_ue3_2018-2019_paces_revision_shared_apache_p684.webp",
+    "page": 684,
+    "bbox": [
+      37,
+      383,
+      550,
+      523.7
+    ],
+    "role": "subject",
+    "kind": "subject_shared_context",
+    "owner": "annales.ue3.2018-2019.paces:shared:apache",
+    "sourceExam": "annales.ue3.2018-2019.paces",
+    "sourceYear": "2018-2019",
+    "sourceSession": "paces",
+    "pixels": [
+      990,
+      282
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "6092318965b8b7622bcd66d0a41bde6bfcd5dbdc443ce3afb693018b62c1d279",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2018-2019.paces",
+        "question": 2,
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.intervalle_apache"
+      },
+      {
+        "exam": "annales.ue3.2018-2019.paces",
+        "question": 3,
+        "field": "sharedContexts.images",
+        "contextId": "annales.ue3.2018-2019.paces.context.intervalle_apache"
+      }
+    ],
+    "revision": 2
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q01_item_A_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      151.1,
+      550,
+      166.5
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:1",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      481,
+      30
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a573afe8707489e9a915184ba65cfef8723cd86c7c44cc0a7a8649c68d637444",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 1,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q01_item_B_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      166.5,
+      550,
+      195.5
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:1",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "411d4ef5896a2ed04911c6a89dfc87a1ab310a3e8dd3d3f6687ef26122827969",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 1,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q01_item_C_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      195.5,
+      550,
+      224.3
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:1",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      933,
+      57
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "4fe0c71589d47ce415e67cbaa6fced55547e631257b057679172360f504e9aec",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 1,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q01_item_D_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      224.3,
+      550,
+      239.0
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:1",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      665,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "5847c5c3994b2efcf3d2661f551932ceb5bbcad7b830f4e617a570b5a8ebb9ae",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 1,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q01_item_E_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      239.0,
+      550,
+      261.7
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:1",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      656,
+      45
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "8c51d24cafe9ef244dfc2bcc8c8d7b56050f6c7f4a9ca6e052d0d411de7534d6",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 1,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q03_item_A_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      675.645,
+      550,
+      691.145
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:3",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      437,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "be049fc7ee610288b0fffd453b7ac9372e27f920e6fc6ebe81b07f91d6e1ea8e",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q03_item_B_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      691.145,
+      550,
+      706.645
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:3",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      377,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "e4df664bcebf7ea632b08bd881f319ee26f966c55502d0cad102360043711140",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q03_item_C_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      706.645,
+      550,
+      721.915
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:3",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      378,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "fda220bcb249a0525f636fd56a47b1ee58451320673a2f0f495563c27ff165a5",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q03_item_D_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      721.915,
+      550,
+      737.42
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:3",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      731,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "bdc9ce6ae62eb1044374a06e3736f637d3a9ddd5f46eca991854616e1c573bd0",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q03_item_E_p488.webp",
+    "page": 488,
+    "bbox": [
+      37,
+      737.42,
+      550,
+      753.225
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:3",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      334,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "13300d11a746d1a31cc331267f0611cab01040dca0994b20216955fbb25c0bd9",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q04_item_A_p489.webp",
+    "page": 489,
+    "bbox": [
+      37,
+      221.275,
+      550,
+      250.025
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:4",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "75283833dffc380ffe4a2ac3f29c374a99645286993fd566aaec5b772688cfcc",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q04_item_B_p489.webp",
+    "page": 489,
+    "bbox": [
+      37,
+      250.025,
+      550,
+      278.775
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:4",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "5a2d0a77ac61955d0e89d845558563806849a03f57e6aa70121bf272857f3d08",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q04_item_C_p489.webp",
+    "page": 489,
+    "bbox": [
+      37,
+      278.775,
+      550,
+      307.795
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:4",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      933,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "94eb3d18fec34b4ea5d47161f0097e427fd63f50d4d5bfb5fd1296e5ddd4abca",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q04_item_D_p489.webp",
+    "page": 489,
+    "bbox": [
+      37,
+      307.795,
+      550,
+      336.545
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:4",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      931,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "df5ccbf98bdbd1e49405977a9f56d82245475a5392fb8a4a0bedad75e93a9cf4",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2025-2026_s1_revision_q04_item_E_p489.webp",
+    "page": 489,
+    "bbox": [
+      37,
+      336.545,
+      550,
+      365.85
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2025-2026.s1:4",
+    "sourceExam": "annales.ue3.2025-2026.s1",
+    "sourceYear": "2025-2026",
+    "sourceSession": "s1",
+    "pixels": [
+      931,
+      57
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "f03056f48c02d62d11814d35727e82c2b8a7a4b29ba2f68f45e7b5a78e989603",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2025-2026.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q03_item_A_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      172.0,
+      550,
+      193.0
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:3",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      314,
+      42
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "53cf65583ae3952231d7f7c58e33b41ffb9cc8101c22a3e750f0549003fee9d7",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q03_item_B_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      193.0,
+      550,
+      213.2
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:3",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      340,
+      41
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "2e67db6fc57e4f38900c6a5b861824d534d1853207ccfb00e0556808202acda4",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q03_item_C_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      213.2,
+      550,
+      233.2
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:3",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      410,
+      41
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "9d5cb15d8d6edc10e8528ebcb1ebe74f753d766f6edb4822891cdd186612460d",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q03_item_D_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      233.2,
+      550,
+      250.5
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:3",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      416,
+      35
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "23b1b34bb850c8c5942d16487d2f88bfd90e224f9bbb1f4ae278efe99188c814",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q03_item_E_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      250.5,
+      550,
+      266.4
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:3",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      451,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "306bc965cad78a1d590af302e6023a84b3de9ecd5b8fbda9b3b6ccec46037fa1",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q04_item_A_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      432.315,
+      550,
+      447.815
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:4",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      419,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "d34f5fc84b578ef87644d6f9efc1167e6e2ecfdf41200d59bc421c5da17b0933",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q04_item_B_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      447.815,
+      550,
+      463.345
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:4",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      546,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a9f1fd01ac2f4af2be526d74439f6ca4c1cdf2efedd83319682d57e05ed77f26",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q04_item_C_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      463.345,
+      550,
+      478.595
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:4",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      535,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a6f780175b852b8a65b5994fdae160788dc902f719501553d8a114588e742fe9",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q04_item_D_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      478.595,
+      550,
+      494.095
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:4",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      899,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "6343ae2840cbf6cfe4d01da67556839768712bca02f76f12a681449da07b976e",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q04_item_E_p507.webp",
+    "page": 507,
+    "bbox": [
+      37,
+      494.095,
+      550,
+      509.9
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:4",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      551,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "9ec85b8d2c66a77c9a4de16b648926038abb14049d0b3784afdd3b23bcf35a9b",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 4,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q06_item_A_p508.webp",
+    "page": 508,
+    "bbox": [
+      37,
+      213.23,
+      550,
+      230.538
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:6",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      355,
+      36
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "d70f8ab4c613b760215f9d3d644ff0549c1128ef96f1770810c060eb783cf020",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 6,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q06_item_B_p508.webp",
+    "page": 508,
+    "bbox": [
+      37,
+      230.538,
+      550,
+      246.515
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:6",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      381,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "19ff6147dd8b9f0defd34e3d8886a282f42f1b76a1aa92ce13e8237f3b0aad81",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 6,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q06_item_C_p508.webp",
+    "page": 508,
+    "bbox": [
+      37,
+      246.515,
+      550,
+      274.788
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:6",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      57
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "4b407b56f44de10f3e37b2093c821d5c57c50cc7e147b600c725500960953aa5",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 6,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q06_item_D_p508.webp",
+    "page": 508,
+    "bbox": [
+      37,
+      274.788,
+      550,
+      291.045
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:6",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      577,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a7580c12501a617135dd7eca9a34db5b357e802260373c537f72ccf42cd879f1",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 6,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2024-2025_s1_revision_q06_item_E_p508.webp",
+    "page": 508,
+    "bbox": [
+      37,
+      291.045,
+      550,
+      333.6
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2024-2025.s1:6",
+    "sourceExam": "annales.ue3.2024-2025.s1",
+    "sourceYear": "2024-2025",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      86
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a8c8df21518acfb1d90857a2f813e8e93bfb4921617c68a9fec30fb6368c4eba",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2024-2025.s1",
+        "question": 6,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s1_revision_q09_item_A_p537.webp",
+    "page": 537,
+    "bbox": [
+      37,
+      349.795,
+      550,
+      365.045
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s1:9",
+    "sourceExam": "annales.ue3.2023-2024.s1",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s1",
+    "pixels": [
+      514,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "32ae01f655cda2b213c846498cdf65aca51e5695ea62d3939562e3bf4a403505",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s1_revision_q09_item_B_p537.webp",
+    "page": 537,
+    "bbox": [
+      37,
+      365.045,
+      550,
+      380.565
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s1:9",
+    "sourceExam": "annales.ue3.2023-2024.s1",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s1",
+    "pixels": [
+      427,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "1a4cd0a76345870aa52a893c0cdd4141ef2f92d34b6bcb2df333eb3987e1ea72",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s1_revision_q09_item_C_p537.webp",
+    "page": 537,
+    "bbox": [
+      37,
+      380.565,
+      550,
+      409.315
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s1:9",
+    "sourceExam": "annales.ue3.2023-2024.s1",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s1",
+    "pixels": [
+      931,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "988616751e97a1486c63b279eb3d847bf1a3eee743d8cd5948899111ba1cb5f9",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s1_revision_q09_item_D_p537.webp",
+    "page": 537,
+    "bbox": [
+      37,
+      409.315,
+      550,
+      424.815
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s1:9",
+    "sourceExam": "annales.ue3.2023-2024.s1",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s1",
+    "pixels": [
+      518,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "64153d8a4e1688f47552b7c836ddb65b479e434167f1b3ed7afd0354d57637b4",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s1_revision_q09_item_E_p537.webp",
+    "page": 537,
+    "bbox": [
+      37,
+      424.815,
+      550,
+      454.12
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s1:9",
+    "sourceExam": "annales.ue3.2023-2024.s1",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      59
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "48dfe971ed66f3a76fea297a2d93d2f29013ce4f653448fb76c787998e6a81d4",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q01_item_A_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      85.725,
+      550,
+      101.225
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:1",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      606,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "376208af08c756ffe08e187070de7e13e4750044837a1e96ec237c0ef05023c4",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 1,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q01_item_B_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      101.225,
+      550,
+      116.495
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:1",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      592,
+      30
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "1ac1f66e7d7084890a6474f5880e1176223ad7962eb9f691d588b5fc123ce620",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 1,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q01_item_C_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      116.495,
+      550,
+      131.995
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:1",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      601,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "c6312e6ed481a24fb6bc3d6f5e68dc08469f54f887d41d7ca1d7d1539f7297fb",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 1,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q01_item_D_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      131.995,
+      550,
+      147.495
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:1",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      595,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "c154a8ab5b549aff705de116ee5171ea1c3e85ea72414b4fcafab9e8b03627b8",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 1,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q01_item_E_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      147.495,
+      550,
+      163.3
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:1",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      703,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "ce29a04ca4d3afa339998185ae818c63a57e07425d2bf3e43b77c7d91815c020",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 1,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q04_item_A_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      515.595,
+      550,
+      531.095
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:4",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      155,
+      30
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "489bbf2b3d23bb78850f77be486bc56c52f1a5f8e6cbcaa5931d531de285019a",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 4,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q04_item_B_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      531.095,
+      550,
+      546.365
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:4",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      154,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "fea6998bb2531489935dfb9ec21c4d4d9cf3ad0d8fc2596c565976f15b17168e",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 4,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q04_item_C_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      546.365,
+      550,
+      561.865
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:4",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      289,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a62de83f39a7355317940e3c9b2088493f18e3e9c9a8ec088d1f8db70ecb59fe",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 4,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q04_item_D_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      561.865,
+      550,
+      577.365
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:4",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      296,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "596880164893c4b1f0f9e58b378c6f735640a7a4f6c76b96d0855beb27b304fd",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 4,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2023-2024_s2_revision_q04_item_E_p550.webp",
+    "page": 550,
+    "bbox": [
+      37,
+      577.365,
+      550,
+      593.17
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2023-2024.s2:4",
+    "sourceExam": "annales.ue3.2023-2024.s2",
+    "sourceYear": "2023-2024",
+    "sourceSession": "s2",
+    "pixels": [
+      345,
+      33
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "5c26f5abbd7eba85a02098ca5f96f419ce82a29fa06b8bcf6900a8faf0e75f62",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2023-2024.s2",
+        "question": 4,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q03_item_A_p561.webp",
+    "page": 561,
+    "bbox": [
+      37,
+      100.225,
+      550,
+      115.745
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:3",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      115,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "c37918d7109835b6434ef8c66618288097c0ca5bb41c53942cedfcbff8a89fb7",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q03_item_B_p561.webp",
+    "page": 561,
+    "bbox": [
+      37,
+      115.745,
+      550,
+      131.245
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:3",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      103,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "086f06286a51b63d160a711aa7a9ff3d606038ead880d5cedcc3bc51f8d25fc3",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q03_item_C_p561.webp",
+    "page": 561,
+    "bbox": [
+      37,
+      131.245,
+      550,
+      146.495
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:3",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      114,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "9e6c37bc1632acb30ba478837d6bc978d4fe1dfcdf6978482b14527e7a604337",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q03_item_D_p561.webp",
+    "page": 561,
+    "bbox": [
+      37,
+      146.495,
+      550,
+      161.995
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:3",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      134,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "64bece48db68b75a51cfff8ee34eb657b59883e12119e27ceea737dcc5f3e010",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q03_item_E_p561.webp",
+    "page": 561,
+    "bbox": [
+      37,
+      161.995,
+      550,
+      177.8
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:3",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      114,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "2f91c35be011a2dc41b8794f63fe4f7a5ad78977fc7dd146a841bca47f482750",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 3,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q09_item_A_p563.webp",
+    "page": 563,
+    "bbox": [
+      37,
+      359.8,
+      550,
+      386.8
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:9",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      836,
+      55
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "f9e1396c7f827bbccb88586eeeaea056c4fa41d852abdd10ba199b5ba125a187",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q09_item_B_p563.webp",
+    "page": 563,
+    "bbox": [
+      37,
+      386.8,
+      550,
+      415.1
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:9",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      974,
+      58
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "c8cbe827ef9e83c598a0258e93ae7fd538c72858dcf4288f37ddcffaa3073ab6",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q09_item_C_p563.webp",
+    "page": 563,
+    "bbox": [
+      37,
+      415.1,
+      550,
+      430.6
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:9",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      676,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "698f1c6dffa13cf30b58a3c7549acb7b5bf74285fb59130b722aee4632bcf627",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q09_item_D_p563.webp",
+    "page": 563,
+    "bbox": [
+      37,
+      430.6,
+      550,
+      459.4
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:9",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      973,
+      57
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "259b7ad3ae2636e88279da099d56bff3e98c506f2a2caeeead7a512df8b310df",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s1_revision_q09_item_E_p563.webp",
+    "page": 563,
+    "bbox": [
+      37,
+      459.4,
+      550,
+      475.2
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s1:9",
+    "sourceExam": "annales.ue3.2022-2023.s1",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s1",
+    "pixels": [
+      973,
+      33
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "fcddb7a6c5dc0c9af48df8a59cb58770db69230b795530ec504b10ef0ef383bd",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s1",
+        "question": 9,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s2_revision_q02_item_A_p578.webp",
+    "page": 578,
+    "bbox": [
+      37,
+      600.3,
+      550,
+      614.8
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s2:2",
+    "sourceExam": "annales.ue3.2022-2023.s2",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s2",
+    "pixels": [
+      873,
+      29
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "e8224e5213a85d5d2483519aa1fab3118f3011031905d65740687cf91a0c0782",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s2",
+        "question": 2,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s2_revision_q02_item_B_p578.webp",
+    "page": 578,
+    "bbox": [
+      37,
+      614.8,
+      550,
+      636.8
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s2:2",
+    "sourceExam": "annales.ue3.2022-2023.s2",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s2",
+    "pixels": [
+      870,
+      45
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "a9fa9905b0ec1104d2341d7c04761eaad870e92fee4f655fcfc79d2a5618d5e3",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s2",
+        "question": 2,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s2_revision_q02_item_C_p578.webp",
+    "page": 578,
+    "bbox": [
+      37,
+      636.8,
+      550,
+      651.9
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s2:2",
+    "sourceExam": "annales.ue3.2022-2023.s2",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s2",
+    "pixels": [
+      633,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "f9d4b726d56963bd1466cc591a18b7e5474d7179a4cf6adfb04f72cad2f4262f",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s2",
+        "question": 2,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s2_revision_q02_item_D_p578.webp",
+    "page": 578,
+    "bbox": [
+      37,
+      651.9,
+      550,
+      667.2
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s2:2",
+    "sourceExam": "annales.ue3.2022-2023.s2",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s2",
+    "pixels": [
+      692,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "5ee78315aa023c1eb46ad8bfcb0f4d4d8737c9d9475ebe8810079e47a05443c8",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s2",
+        "question": 2,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2022-2023_s2_revision_q02_item_E_p578.webp",
+    "page": 578,
+    "bbox": [
+      37,
+      667.2,
+      550,
+      683.0
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2022-2023.s2:2",
+    "sourceExam": "annales.ue3.2022-2023.s2",
+    "sourceYear": "2022-2023",
+    "sourceSession": "s2",
+    "pixels": [
+      691,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "60d8e74331a1df03ba2f5bb93b0896ae77d51627c86f5e1d1cf7675bafe1c436",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2022-2023.s2",
+        "question": 2,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q02_item_A_p588.webp",
+    "page": 588,
+    "bbox": [
+      37,
+      551.615,
+      550,
+      567.125
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:2",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      447,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "43fdd840e2360304dd2a26c8fe77a078e86addb64c4f6b1bb886d57e8ebb8998",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 2,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q02_item_B_p588.webp",
+    "page": 588,
+    "bbox": [
+      37,
+      567.125,
+      550,
+      582.615
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:2",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      327,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "99d6897403de0ab21c5572f5a1bab8ea984a37e00591494a0fdba59666bb4bea",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 2,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q02_item_C_p588.webp",
+    "page": 588,
+    "bbox": [
+      37,
+      582.615,
+      550,
+      597.525
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:2",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      327,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "6c00be41fcd6ceae22f4d48ca4c0e05f2f307b97995ce307189e8a91e87d2173",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 2,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q02_item_D_p588.webp",
+    "page": 588,
+    "bbox": [
+      37,
+      597.525,
+      550,
+      613.525
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:2",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      770,
+      33
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "e338b90deed4b65303ff48f431088bab27f4a34b70c655fedccdc52180cd445c",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 2,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q02_item_E_p588.webp",
+    "page": 588,
+    "bbox": [
+      37,
+      613.525,
+      550,
+      630.43
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:2",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      741,
+      33
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "7ee7b92a78565498d98930da6aa618dfefd187463603a1986862dd60c508a801",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 2,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q05_item_A_p589.webp",
+    "page": 589,
+    "bbox": [
+      37,
+      652.145,
+      550,
+      667.645
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:5",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      320,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "c03481c6e2597e05044b31cefa29ca436f26ebbd56b64f0767ea905b1088d925",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 5,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q05_item_B_p589.webp",
+    "page": 589,
+    "bbox": [
+      37,
+      667.645,
+      550,
+      682.545
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:5",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      464,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "2602339d5494b813358fb278aa6a30b3729194c122c60122b635bb0f036cbafc",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 5,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q05_item_C_p589.webp",
+    "page": 589,
+    "bbox": [
+      37,
+      682.545,
+      550,
+      698.545
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:5",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      752,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "d39d805ed5e918ecc5bc7d5caa9b61fdc9fcd6b44259943a2be08b8b32b0b120",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 5,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q05_item_D_p589.webp",
+    "page": 589,
+    "bbox": [
+      37,
+      698.545,
+      550,
+      714.895
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:5",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      751,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "187b987c3f78fa3c08558950b07718df068baa616d867a3b52f7583e80887b45",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 5,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q05_item_E_p589.webp",
+    "page": 589,
+    "bbox": [
+      37,
+      714.895,
+      550,
+      730.7
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:5",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      812,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "3471affe80808b7d6d6cdb84b39277704ec035ab2ae7a86c0473b0bd9dc4584f",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 5,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q08_item_A_p591.webp",
+    "page": 591,
+    "bbox": [
+      37,
+      420.815,
+      550,
+      502.595
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:8",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      923,
+      112
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "4abb2dea07fe07575372e2364141dc69693dbcece2c42d42d28f3be86c9b00e2",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 8,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q08_item_B_p591.webp",
+    "page": 591,
+    "bbox": [
+      37,
+      502.595,
+      550,
+      584.365
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:8",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      852,
+      118
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "ab3bdd3345d363e0983d126798046c970100b4afb4588d4f9abfabe31d6fe7d5",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 8,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q08_item_C_p591.webp",
+    "page": 591,
+    "bbox": [
+      37,
+      584.365,
+      550,
+      599.865
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:8",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      391,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "21cb0b5022c503994674b116d4126738f96c560923bb7106fc43b668c4458e35",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 8,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q08_item_D_p591.webp",
+    "page": 591,
+    "bbox": [
+      37,
+      599.865,
+      550,
+      642.145
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:8",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      932,
+      83
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "f0ace67fee89f57bac7571c5132ab58a89b0140eee9739068683b24e22b7f8fc",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 8,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2021-2022_s1_revision_q08_item_E_p591.webp",
+    "page": 591,
+    "bbox": [
+      37,
+      642.145,
+      550,
+      671.45
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2021-2022.s1:8",
+    "sourceExam": "annales.ue3.2021-2022.s1",
+    "sourceYear": "2021-2022",
+    "sourceSession": "s1",
+    "pixels": [
+      931,
+      59
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "756856d76424b4e15e0dfc877b322a029dec0c800f77b242c414766b82ade1e8",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2021-2022.s1",
+        "question": 8,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
+  },
+  {
+    "path": "static/annales_ue3_2020-2021_paces_revision_q05_item_A_p615.webp",
+    "page": 615,
+    "bbox": [
+      37,
+      404.315,
+      550,
+      419.815
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2020-2021.paces:5",
+    "sourceExam": "annales.ue3.2020-2021.paces",
+    "sourceYear": "2020-2021",
+    "sourceSession": "paces",
+    "pixels": [
+      328,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "996d0ff09c47b957f00204c35b90a3bfa20800ee5ae84325e4bacd1d9d6a3a2c",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2020-2021.paces",
+        "question": 5,
+        "field": "option.image",
+        "option": "A"
+      }
+    ],
+    "revision": 2,
+    "option": "A"
+  },
+  {
+    "path": "static/annales_ue3_2020-2021_paces_revision_q05_item_B_p615.webp",
+    "page": 615,
+    "bbox": [
+      37,
+      419.815,
+      550,
+      435.315
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2020-2021.paces:5",
+    "sourceExam": "annales.ue3.2020-2021.paces",
+    "sourceYear": "2020-2021",
+    "sourceSession": "paces",
+    "pixels": [
+      524,
+      31
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "992e038388eecce976882767dc112fef1bc1bd25f9167c202609856492e26b69",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2020-2021.paces",
+        "question": 5,
+        "field": "option.image",
+        "option": "B"
+      }
+    ],
+    "revision": 2,
+    "option": "B"
+  },
+  {
+    "path": "static/annales_ue3_2020-2021_paces_revision_q05_item_C_p615.webp",
+    "page": 615,
+    "bbox": [
+      37,
+      435.315,
+      550,
+      450.565
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2020-2021.paces:5",
+    "sourceExam": "annales.ue3.2020-2021.paces",
+    "sourceYear": "2020-2021",
+    "sourceSession": "paces",
+    "pixels": [
+      576,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "dcbc6169f772958ce8b04e61dbf547a7f87929500f1afda726a14f0e3c0c77b9",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2020-2021.paces",
+        "question": 5,
+        "field": "option.image",
+        "option": "C"
+      }
+    ],
+    "revision": 2,
+    "option": "C"
+  },
+  {
+    "path": "static/annales_ue3_2020-2021_paces_revision_q05_item_D_p615.webp",
+    "page": 615,
+    "bbox": [
+      37,
+      450.565,
+      550,
+      466.095
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2020-2021.paces:5",
+    "sourceExam": "annales.ue3.2020-2021.paces",
+    "sourceYear": "2020-2021",
+    "sourceSession": "paces",
+    "pixels": [
+      575,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "8286d1b8e456d767a063e24f4b8bb67ec67ab5ff1f5bdb353d806574472cba5b",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2020-2021.paces",
+        "question": 5,
+        "field": "option.image",
+        "option": "D"
+      }
+    ],
+    "revision": 2,
+    "option": "D"
+  },
+  {
+    "path": "static/annales_ue3_2020-2021_paces_revision_q05_item_E_p615.webp",
+    "page": 615,
+    "bbox": [
+      37,
+      466.095,
+      550,
+      481.9
+    ],
+    "role": "subject",
+    "kind": "subject_option",
+    "owner": "annales.ue3.2020-2021.paces:5",
+    "sourceExam": "annales.ue3.2020-2021.paces",
+    "sourceYear": "2020-2021",
+    "sourceSession": "paces",
+    "pixels": [
+      808,
+      32
+    ],
+    "postprocess": "Rendu 2×, retrait des marges blanches avec marge de 7–8 pixels, WebP qualité 92.",
+    "sha256": "048093dc5a0da0f92d3d274f1e5a2cca96056b62d48c1d1c439afa622889fd3e",
+    "usedBy": [
+      {
+        "exam": "annales.ue3.2020-2021.paces",
+        "question": 5,
+        "field": "option.image",
+        "option": "E"
+      }
+    ],
+    "revision": 2,
+    "option": "E"
   }
 ]

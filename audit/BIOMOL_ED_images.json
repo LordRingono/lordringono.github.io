@@ -1,0 +1,1493 @@
+[
+  {
+    "path": "static/ue2_ue2_ed_2025-2026_q001_page01_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Introduction générale : ECG et canaux ioniques",
+    "reusedExistingAsset": true,
+    "sha256": "65b289e209374f21b846cf66e3f22f8f4be8c0d8c1056f535b1d91182da8f4fb"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2025-2026_q001_page01_image2.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Introduction générale : ECG et canaux ioniques",
+    "reusedExistingAsset": true,
+    "sha256": "4f7aee7ace182fdf6b8deb259785c231f7717199734b72c8eada8bbdfedbe8b3"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2025-2026_q001_page01_image3.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Introduction générale : ECG et canaux ioniques",
+    "reusedExistingAsset": true,
+    "sha256": "17781e17f02b26e8cee466cda546c35c147f619dd9a99e3cf3a61d77731d2a5d"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2025-2026_q001_page01_image4.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Introduction générale : ECG et canaux ioniques",
+    "reusedExistingAsset": true,
+    "sha256": "f71bc3d74b54055c29e3ffc8410b09899808a3369f6aef194a50da7f3a628b5c"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_sequence_debut.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      45,
+      72,
+      568,
+      572
+    ],
+    "role": "subject",
+    "purpose": "Séquences ARNm et gène, exons 1–2, intron 1 ; encadrements conservés",
+    "sha256": "3c058f1ddfc78471e57a8b3db4fc00c7828ef5ccae827becbbebb8c0f158ffee"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_sequence_exon15.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 7,
+    "bbox": [
+      45,
+      42,
+      568,
+      232
+    ],
+    "role": "subject",
+    "purpose": "Exon 15 : séquence, encadrements et double soulignement conservés",
+    "sha256": "6d5fce710a02da7e41b29f70e613441464a76ba9d8e14d6510b076d070249bc9"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2025-2026_q032_page09_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 9,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Bases azotées avant et après substitution, Q32–35",
+    "reusedExistingAsset": true,
+    "sha256": "2039f3365f25cf1831a5f4216f06ed80ee3a650b39605424f3ba188da38e7293"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_sequence_exon2.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 10,
+    "bbox": [
+      45,
+      219,
+      568,
+      310
+    ],
+    "role": "subject",
+    "purpose": "Séquence de l’exon 2, nucléotide muté en gras/italique/souligné",
+    "sha256": "ef010f41f8f028a9e635a4598c5bcb992867bc15e264bd67e198b784cbf00e09"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_code_genetique.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 11,
+    "bbox": [
+      45,
+      504,
+      568,
+      785
+    ],
+    "role": "subject",
+    "purpose": "Tableau du code génétique et liste des acides aminés fournis en annexe",
+    "sha256": "e79f3436f023417c2404a047550e4e1d6bf0c0a613d5e4e3e6f7e7c3ccb03b17"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q28_a_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      199.30368041992188,
+      322.9540100097656,
+      212.5755157470703
+    ],
+    "role": "subject",
+    "purpose": "Q28 item A, séquence miARN avec graines en gras",
+    "sha256": "1d20ed33e3de9b5c1d75cc97d975103cefca6b04b9f421c9740df1e0c60589b4"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q28_b_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      209.86367797851562,
+      322.9540710449219,
+      226.13551330566406
+    ],
+    "role": "subject",
+    "purpose": "Q28 item B, séquence miARN avec graines en gras",
+    "sha256": "0123a6045f56870e559e274d80ddc7840bcc9b8bad55e981b825b16b68dc2625"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q28_c_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      223.42367553710938,
+      329.5540771484375,
+      239.6955108642578
+    ],
+    "role": "subject",
+    "purpose": "Q28 item C, séquence miARN avec graines en gras",
+    "sha256": "0780f5edf4c3953b384ef4ba2d01b89e1fe2d64d39132f38aa92a23320027bc7"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q28_d_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      236.98367309570312,
+      325.4739990234375,
+      253.25550842285156
+    ],
+    "role": "subject",
+    "purpose": "Q28 item D, séquence miARN avec graines en gras",
+    "sha256": "1aa19f48679628fa4866d33381fbff143e3129037136eeb1004b80a4e34376cc"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q29_a_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      316.8136901855469,
+      322.9540100097656,
+      330.0855407714844
+    ],
+    "role": "subject",
+    "purpose": "Q29 item A, séquence miARN avec graines en gras",
+    "sha256": "1d20ed33e3de9b5c1d75cc97d975103cefca6b04b9f421c9740df1e0c60589b4"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q29_b_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      327.3736572265625,
+      322.9540710449219,
+      343.6455078125
+    ],
+    "role": "subject",
+    "purpose": "Q29 item B, séquence miARN avec graines en gras",
+    "sha256": "c372209325b2e9748a33b0e87cd3cfc5f5b8bd7669c7d5d20f05ea61774c3c23"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q29_c_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      340.93365478515625,
+      329.5540771484375,
+      357.20550537109375
+    ],
+    "role": "subject",
+    "purpose": "Q29 item C, séquence miARN avec graines en gras",
+    "sha256": "e81d2f5d38ec5e727156b50dfd15621d575c2c9810e68fc3ee7f2094604901ea"
+  },
+  {
+    "path": "static/biomol_ed_revision_2025_2026_q29_d_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      153.89999389648438,
+      354.6136779785156,
+      325.4739990234375,
+      370.8855285644531
+    ],
+    "role": "subject",
+    "purpose": "Q29 item D, séquence miARN avec graines en gras",
+    "sha256": "0f9d5189ef82661c3c8867ad77c0b5ed94785060284491f91a501aeaeaa8b624"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2025-2026_q003_page02_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+    "page": 2,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Figure propre au QCM 3",
+    "reusedExistingAsset": true,
+    "sha256": "dc36d55d2220804240c0d4b481078c13d09c85335640f6d989e20edb36b73447"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2026-2027_q001_page01_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Introduction générale : cardiomyopathie et sarcomère",
+    "reusedExistingAsset": true,
+    "sha256": "459b7c2254973661dfc11993c6cb41e0dd6338e609137625098d8a89021af77e"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2026-2027_q001_page01_image2.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Introduction générale : cardiomyopathie et sarcomère",
+    "reusedExistingAsset": true,
+    "sha256": "68aca219ff5aa611d4cbb42eeba6a75098a098368e005f54d1ad79a2228084aa"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_sequence_debut.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 4,
+    "bbox": [
+      49.599998474121094,
+      125.65000915527344,
+      558.9500122070312,
+      328.70001220703125
+    ],
+    "role": "subject",
+    "purpose": "Début MYBPC3 : cinq encadrements numérotés, figure source complète sans fragment du texte précédent",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "0ab2b833e614e12046df973a96c7c1cf7fa3bdf453a9b258f61e3c1a5e295b33"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_sequence_exon1.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 4,
+    "bbox": [
+      45,
+      338,
+      568,
+      387
+    ],
+    "role": "subject",
+    "purpose": "Deuxième séquence fournie : exon 1 entier, brin sens",
+    "sha256": "f0a01b416c9696a36522afea51edee6affd33946287fe0475be8b0e84a213cc5"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_sequence_fin.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      45,
+      42,
+      568,
+      215
+    ],
+    "role": "subject",
+    "purpose": "Exons 34–35 et intron 34, codon stop rouge et soulignements source",
+    "sha256": "d27a5aedd1a2480f24fcc000cf913b28e5c704e9d83a6da28d784349b4c83db9"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2026-2027_q023_page06_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 6,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "ARNt avec anticodon ABC, Q23–24",
+    "reusedExistingAsset": true,
+    "sha256": "44d5cd34b614ab20b54671fc271d490b4f8739f5c2b4957ea01c03c2bec21f2e"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2026-2027_q026_page07_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 7,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Substitution de base : normale à gauche, mutée à droite",
+    "reusedExistingAsset": true,
+    "sha256": "64729070bd1d2e98c333d0ab054af22dfcf039cfafe721717247f0f28f424b18"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_figure3.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      49.54999923706055,
+      95.99996185302734,
+      546.8499755859375,
+      191.39996337890625
+    ],
+    "role": "subject",
+    "purpose": "Figure 3 : électrophorégramme complet, flèche et lettres conservées, sans fragment du texte précédent",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "d861c3e72076e87977be2698719c5e37709edd92693363eac1ad182593bf1523"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_figures4_5.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 8,
+    "bbox": [
+      45,
+      320,
+      568,
+      634
+    ],
+    "role": "subject",
+    "purpose": "Contexte et figures 4/5 complets, repères gras et soulignés conservés",
+    "sha256": "5e70eaf161d27a00179c27bcd85e5b1cf1fb8bfdbc57152d1f556aa5b6aa451e"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_sequence_exon2.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 10,
+    "bbox": [
+      45,
+      74,
+      568,
+      270
+    ],
+    "role": "subject",
+    "purpose": "Patients B/C : données exon 2, séquence 267 pb et position du premier nucléotide codant",
+    "sha256": "eee1b693f5edc104e62d1c34420f8324049ac2a9d11eb6bf299213ba44d35184"
+  },
+  {
+    "path": "static/ue2_ue2_ed_2026-2027_q037_page10_image1.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 10,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Électrophorégramme du patient B, Q37–38",
+    "reusedExistingAsset": true,
+    "sha256": "28bebea36572df90285d8acfc81f615542c77ae69595c25ed7aebb9374eb70d9"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_code_genetique.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 11,
+    "bbox": [
+      45,
+      155,
+      568,
+      680
+    ],
+    "role": "subject",
+    "purpose": "Code génétique et liste des acides aminés, annexe du sujet",
+    "sha256": "27c402665acb06237db2a5020c9f3c8094ec97e0ef89154ae5d1e16f54ff9a0c"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q19_a_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      260.9836730957031,
+      336.17401123046875,
+      274.2555236816406
+    ],
+    "role": "subject",
+    "purpose": "Q19 item A, séquence miARN avec graines en gras",
+    "sha256": "1c8f47f2ad89fc6407bbf67a82a6899ce80970d31f158d3b75409eaa3b2eeb5c"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q19_b_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      271.5436706542969,
+      329.5540771484375,
+      287.8155212402344
+    ],
+    "role": "subject",
+    "purpose": "Q19 item B, séquence miARN avec graines en gras",
+    "sha256": "982663ee01d319a382c2686a08861e49fa97086380bbe732386ec5defec3dd42"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q19_c_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      285.2536926269531,
+      329.5540771484375,
+      301.5255432128906
+    ],
+    "role": "subject",
+    "purpose": "Q19 item C, séquence miARN avec graines en gras",
+    "sha256": "581f0ebf366dd5650a93c575d223bd32348d98a4ccf7610c4801ccb9fa8a536f"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q19_d_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      298.8136901855469,
+      329.5540771484375,
+      315.0855407714844
+    ],
+    "role": "subject",
+    "purpose": "Q19 item D, séquence miARN avec graines en gras",
+    "sha256": "1a806760ad13def246b6a7d459b7975883134933a597b9d1310607df57fdbdb2"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q20_a_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      381.6136779785156,
+      336.17401123046875,
+      394.8855285644531
+    ],
+    "role": "subject",
+    "purpose": "Q20 item A, séquence miARN avec graines en gras",
+    "sha256": "1c8f47f2ad89fc6407bbf67a82a6899ce80970d31f158d3b75409eaa3b2eeb5c"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q20_b_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      392.1736755371094,
+      329.5540771484375,
+      408.4455261230469
+    ],
+    "role": "subject",
+    "purpose": "Q20 item B, séquence miARN avec graines en gras",
+    "sha256": "d337f26370a2bebb768a89a84791f0dad603315b8e49f57e4ef92b49dae01fc5"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q20_c_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      405.7336730957031,
+      329.5540771484375,
+      422.0055236816406
+    ],
+    "role": "subject",
+    "purpose": "Q20 item C, séquence miARN avec graines en gras",
+    "sha256": "40323591ab1eb19dbff4c1370a5c330b882374cf78c6d92b3c60ebde6f3f4f61"
+  },
+  {
+    "path": "static/biomol_ed_revision_2026_2027_q20_d_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      153.89999389648438,
+      419.4136657714844,
+      329.5540771484375,
+      435.6855163574219
+    ],
+    "role": "subject",
+    "purpose": "Q20 item D, séquence miARN avec graines en gras",
+    "sha256": "f65da9d103208c87e9064aa679b52ddb37502b55be4ff5e39f707c797cf711d8"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2011_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      35,
+      171,
+      573,
+      280
+    ],
+    "role": "subject",
+    "purpose": "Séquence propre au QCM 2 de 2011–2012, conservé dans la banque préexistante",
+    "sha256": "5572f5e19f7606eb5f68a258b3c6ab58fd07edfab5f858ae5ac465ed2332333b"
+  },
+  {
+    "path": "static/ue2_ue2_ed_annales_q001_page01_image1.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "QCM 24 original complet, consultation dans le QCM 24 uniquement",
+    "reusedExistingAsset": true,
+    "sha256": "14ccd04d14475f47446bbae654ed75fad0c8d4fe2ed73f65c9df6ec189c889df"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2013_q24_a.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      77,
+      628.0236045782515,
+      246,
+      641.480491144194
+    ],
+    "role": "subject",
+    "purpose": "Séquence de l’item A du QCM 24 scanné",
+    "sha256": "3a65b4d60f390d4a8d5e4c72f4dac60826cdebe4439f84f22ab13bbca96b01f5"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2013_q24_b.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      77,
+      643.7233055718511,
+      246,
+      657.9277969470127
+    ],
+    "role": "subject",
+    "purpose": "Séquence de l’item B du QCM 24 scanné",
+    "sha256": "d28c134918b85ae37f528c0cee9085e2fe0d8e839725707a36fb96688b28a3fa"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2013_q24_c.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      77,
+      659.4230065654508,
+      246,
+      672.8798931313934
+    ],
+    "role": "subject",
+    "purpose": "Séquence de l’item C du QCM 24 scanné",
+    "sha256": "a903228b9151411dba628f6b2edf57b857c285775711dbc408bd8ebf08c4fc88"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2013_q24_d.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      77,
+      675.1227075590505,
+      246,
+      688.579594124993
+    ],
+    "role": "subject",
+    "purpose": "Séquence de l’item D du QCM 24 scanné",
+    "sha256": "0eab8236602aaec5dc6103baeb72be92ebf3093dcbc0edc39170659e2d48b59e"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2013_q24_e.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      77,
+      690.8224085526501,
+      246,
+      704.2792951185927
+    ],
+    "role": "subject",
+    "purpose": "Séquence de l’item E du QCM 24 scanné",
+    "sha256": "9e5a3d458e8af8b538721492d44f2e6704959dff43053fc71b7c145c563e7e06"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2013_figure1.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 1,
+    "bbox": [
+      43,
+      547,
+      478,
+      592
+    ],
+    "role": "subject",
+    "purpose": "Figure 1 commune aux QCM 24–26, orientations, numérotation et ATG souligné",
+    "sha256": "7d0c45a859b078fa0e17fe0dbce21356acb45ceb8783c6bc48c7d033cfe1e694"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2014_exon40.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 2,
+    "bbox": [
+      35,
+      264,
+      573,
+      339
+    ],
+    "role": "subject",
+    "purpose": "Énoncé commun et séquence avec codon stop souligné, QCM 1–3",
+    "sha256": "a562d742a48b3b595916a723305570d03800fdf5d3f74bc999d72267c58e2fed"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2015_snps.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 3,
+    "bbox": [
+      35,
+      46,
+      573,
+      182
+    ],
+    "role": "subject",
+    "purpose": "Énoncé commun ITGB3, SNP en gras/souligné/italique",
+    "sha256": "e3283f283d75ee1e27192eb0210ee5bab19fc782e1dead37e6f849541129c7df"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2015_mir124.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 3,
+    "bbox": [
+      208,
+      337,
+      397,
+      352
+    ],
+    "role": "subject",
+    "purpose": "miR-124 : graine en gras, question 4",
+    "sha256": "10cc99977514acaa215f5fdff5bfb3d8330146f0acceb2f26624387838fe9142"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2016_tnni3.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 4,
+    "bbox": [
+      35,
+      46,
+      573,
+      134
+    ],
+    "role": "subject",
+    "purpose": "Énoncé commun TNNI3, exon 4 et position 109",
+    "sha256": "e1f851edcb912dc8464fcccd2a7dd9a49795f8e07098d3ce4ce691e4fa00ad49"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2016_code_genetique.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 4,
+    "bbox": [
+      36.959999084472656,
+      134.15997314453125,
+      388.79998779296875,
+      366.47998046875
+    ],
+    "role": "subject",
+    "purpose": "Code génétique fourni avec l’exercice TNNI3, sans fragment de la séquence précédente",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "fc9ee2d45219785de91b38749c111aa53c645250d5198dc7e5a0dd323b784546"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2017_kcne1.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 5,
+    "bbox": [
+      36.959999084472656,
+      97.79998779296875,
+      568.4400024414062,
+      491.6399841308594
+    ],
+    "role": "subject",
+    "purpose": "Séquences complètes des quatre exons KCNE1, sans fragment de la ligne précédente",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "0b99500fb2be6f5ec31ed1788b4fa7d340ce73252ef2e839100e09f569103319"
+  },
+  {
+    "path": "static/ue2_ue2_ed_annales_q016_page06_image1.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 6,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Séquences des sept exons MYL3",
+    "reusedExistingAsset": true,
+    "sha256": "83cc3e8e66aa8ea4a01bddfada6140de82b754e7a011249d30091c78445dcafe"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2019_source_myl3.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 7,
+    "bbox": [
+      36.959999084472656,
+      227.99996948242188,
+      447.239990234375,
+      653.1599731445312
+    ],
+    "role": "subject",
+    "purpose": "Sept exons de la rubrique source 2019–2018, sans fragment de la ligne précédente",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "576056327bd8af07867fbcadd281ae3b495aa415f44fd04fc6650bab40a3eb1c"
+  },
+  {
+    "path": "static/ue2_ue2_ed_annales_q020_page08_image1.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 8,
+    "bbox": null,
+    "role": "subject",
+    "purpose": "Énoncé et quatre exons, QCM 1–3 2020–2021 S1",
+    "reusedExistingAsset": true,
+    "sha256": "a57ff71ee20cf48a5989214bda7d8932f3472fec87b1fa3257d2478c1e02b64f"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2020_s1_q24_a_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      104.22000122070312,
+      80.58334350585938,
+      306.8027648925781,
+      94.80462646484375
+    ],
+    "role": "subject",
+    "purpose": "Q24 item A, séquence miARN avec graines en gras",
+    "sha256": "a2d6cd909a245cf95dd3f8d58744b42849bf84dfdd4bede9c8327cd11e47a9e5"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2020_s1_q24_b_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      104.22000122070312,
+      92.22335815429688,
+      305.01043701171875,
+      109.44464111328125
+    ],
+    "role": "subject",
+    "purpose": "Q24 item B, séquence miARN avec graines en gras",
+    "sha256": "d0a364e705f7a38a9549212f1ccc9cdf316797dd753004df94f3e6499d076649"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2020_s1_q24_c_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      104.22000122070312,
+      106.74331665039062,
+      305.1263122558594,
+      123.964599609375
+    ],
+    "role": "subject",
+    "purpose": "Q24 item C, séquence miARN avec graines en gras",
+    "sha256": "83945e51351732be22474f0f0ecd660bcba723cd9b1b23f6aba5d43e0c901a69"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2020_s1_q24_d_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      104.22000122070312,
+      121.26333618164062,
+      303.3033142089844,
+      138.484619140625
+    ],
+    "role": "subject",
+    "purpose": "Q24 item D, séquence miARN avec graines en gras",
+    "sha256": "efd130f3bd2f9b5225b9942381dbc841a17faeb4e13240a491d864a62005bb44"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2020_s1_q24_e_sequence.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      104.22000122070312,
+      135.78335571289062,
+      306.8027648925781,
+      153.004638671875
+    ],
+    "role": "subject",
+    "purpose": "Q24 item E, séquence miARN avec graines en gras",
+    "sha256": "403238cda78492829a9c9547874b34c73e06a148a1613864a409b5c665856b6d"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2020_s2_exon34.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      35,
+      191,
+      573,
+      280
+    ],
+    "role": "subject",
+    "purpose": "Exon 34 et site accepteur AG souligné, QCM 1–2",
+    "sha256": "64327e5ef728f75dcb0a6bc81b79713b9b693b01a34ed56dea42dd479207110e"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2021_tnni3.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 9,
+    "bbox": [
+      35,
+      522,
+      573,
+      582
+    ],
+    "role": "subject",
+    "purpose": "Exon 4 TNNI3, premier nucléotide codant 109, QCM 1–3",
+    "sha256": "dfd821fc594bc6d9e29801a4620f3ff21868f2dcaad64632bd05bc0a2ccd76da"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2022_tnnt2.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 10,
+    "bbox": [
+      35,
+      177,
+      573,
+      225
+    ],
+    "role": "subject",
+    "purpose": "Énoncé commun TNNT2 : exon 1, 55 pb, chromosome 1 et 16 exons",
+    "sha256": "3a2d9927a1f0ccb1efc540eb891268d01d4ee552a0432b1517e9d7e522e1c32e"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2023_mybpc3.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 10,
+    "bbox": [
+      35,
+      601,
+      573,
+      693
+    ],
+    "role": "subject",
+    "purpose": "Énoncé commun MYBPC3, codon stop souligné, Q47–50",
+    "sha256": "67814f2237b3bb5bfebc10d14ce41cce9980e8386a7fde8ea9fe1fcfadf33b84"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2024_s1_pln.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 11,
+    "bbox": [
+      35.400001525878906,
+      475.1999816894531,
+      562.6800537109375,
+      571.7999877929688
+    ],
+    "role": "subject",
+    "purpose": "Figure 1 : exon 2 PLN, QCM 1–4, légende complète sans fragment du texte précédent",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "c3b20ed112b2c9ac065180ed38b92f90f53d67087b0759385157e6caf8b0aa5c"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2024_s1_q4_pln.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 12,
+    "bbox": [
+      57.720001220703125,
+      152.16000366210938,
+      544.6799926757812,
+      241.20001220703125
+    ],
+    "role": "subject",
+    "purpose": "Figure propre à Q4 PLN : cytosine doublement soulignée, sans fragments du titre ni de l’item A",
+    "extraction": "PDF figure rectangle, masks and vector overlays preserved",
+    "sha256": "9a5154545979eb8c9f98ea27f43b1b82ad0009037d7b1890890a53d0f15d3e2c"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_2024_s2_tnnc1.webp",
+    "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+    "page": 12,
+    "bbox": [
+      35,
+      361,
+      573,
+      466
+    ],
+    "role": "subject",
+    "purpose": "Énoncé commun TNNC1 et guanine en gras/soulignée, Q1–3",
+    "sha256": "584f5d9da3f02efffaa8d8f11b5e32a743e7a26d5a8579da628bd3d63ed96e20"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_01.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 1,
+    "bbox": [
+      35,
+      412,
+      573,
+      502
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 1, solution seule",
+    "sha256": "37de1979abaa2b13a75512586ba59a4af414ff8c979f85cc67d8d7372ba5c39b"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_02.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 2,
+    "bbox": [
+      35,
+      272,
+      573,
+      320
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 2, solution seule",
+    "sha256": "bb5b124cc1923e392c4953bc0703b6ec56d78fdbc38ccd4c04b29f26f71d11fd"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_03.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 2,
+    "bbox": [
+      35,
+      449,
+      573,
+      469
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 3, solution seule",
+    "sha256": "bcb98f5d6d66abdabc52c858ebcb768f4b3ebbf9fedea0c90e0b50530ddcd325"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_04.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 2,
+    "bbox": [
+      35,
+      569,
+      573,
+      605
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 4, solution seule",
+    "sha256": "822f10c87bdec709e0203560944c272e4abc189cc5003734f390b8f762d22982"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_05.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 3,
+    "bbox": [
+      35,
+      22,
+      573,
+      54
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 5, solution seule",
+    "sha256": "059925d75e1a5b56e1dc9e46309749590b63d89204b86dcf56fc1eaee9e4d419"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_06.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 3,
+    "bbox": [
+      35,
+      170,
+      573,
+      278
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 6, solution seule",
+    "sha256": "2d020dfe0f4832ddbf081b062e726c4eafce656d77b71c03d5866196618281c8"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_07.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 3,
+    "bbox": [
+      35,
+      395,
+      573,
+      530
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 7, solution seule",
+    "sha256": "8e65ba501cece3bfb9c436cc8967f762e34fae80c154802cb4f91913d0606889"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_08.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 4,
+    "bbox": [
+      35,
+      138,
+      573,
+      229
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 8, solution seule",
+    "sha256": "f83f4d34cf8562ebd9226fc61d865acf463819459779861a1c79993487edc948"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_09.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 4,
+    "bbox": [
+      35,
+      432,
+      573,
+      490
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 9, solution seule",
+    "sha256": "0a9a75d58603cf18d1b7cdfc8665c2bb20e792933f155ef682706557198a26da"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_10.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 5,
+    "bbox": [
+      35,
+      471,
+      573,
+      619
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 10, solution seule",
+    "sha256": "5a7fe8a0b0aee74ab18b8b2d3a1fb5abb212d7182795130710f6405898104671"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_11.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 5,
+    "bbox": [
+      35,
+      736,
+      573,
+      800
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 11, solution seule",
+    "sha256": "331bd097f38382a9befcdc81fb37a9d824e6eef93b974ad92c3c0c81aca6c2cc"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_12.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 6,
+    "bbox": [
+      35,
+      138,
+      573,
+      316
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 12, solution seule",
+    "sha256": "854c6f1bff83df0daf49a6fa9054c251d9e142cca3fc8c06db1fb98601c5cd24"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_13.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 6,
+    "bbox": [
+      35,
+      447,
+      573,
+      568
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 13, solution seule",
+    "sha256": "781ef23ba84f9328b2205b84accbe34444f6fa83093b48a9fbbfcb0d9067319d"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_14.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 7,
+    "bbox": [
+      35,
+      654,
+      573,
+      762
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 14, solution seule",
+    "sha256": "54cab20d1c7236d9192ed833a562891c87e3b6dd7fa767953125ab1853e12257"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_15.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 8,
+    "bbox": [
+      35,
+      124,
+      573,
+      257
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 15, solution seule",
+    "sha256": "225f48f342d4802f134127282a1eedce252bc021cb821f6ff1d8f8f4c5908a81"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_16.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 8,
+    "bbox": [
+      35,
+      388,
+      573,
+      509
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 16, solution seule",
+    "sha256": "929547330260e5b25ab6e8218f88042a8984a7ac2da2f3297836d70c2e730e2a"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_17.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 10,
+    "bbox": [
+      35,
+      22,
+      573,
+      228
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 17, solution seule",
+    "sha256": "6bd27cdd49bf17b4a351631620e500df73acbbb11c1a26dc2fa7fc32858cc43f"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_18.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 10,
+    "bbox": [
+      35,
+      345,
+      573,
+      395
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 18, solution seule",
+    "sha256": "78078e076dcd907f51ca626b2debd66636c172e3911763f9f625909eba0329c3"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_19.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 10,
+    "bbox": [
+      35,
+      523,
+      573,
+      558
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 19, solution seule",
+    "sha256": "accdc6eddcbf50cecf88f2f57883f5c1603acf27e1fa7cc45331d4d1022d14c7"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_20.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 11,
+    "bbox": [
+      35,
+      656,
+      573,
+      703
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 20, solution seule",
+    "sha256": "e55f999bb565d9c5d0e22ba0090e435d7e2b4c05de75624d2ef5a88d7e03934b"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_21.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 12,
+    "bbox": [
+      35,
+      22,
+      573,
+      42
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 21, solution seule",
+    "sha256": "53f9514e02849a77e375a7c16cea154d035da7fc206a8bef8d24ae86a72ac3b3"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_22.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 12,
+    "bbox": [
+      35,
+      552,
+      573,
+      654
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 22, solution seule",
+    "sha256": "704b11df56b7ee3f0c2c0a7ee812148be0f30db61a02a30cb2c3e0f81bd55843"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_23.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 13,
+    "bbox": [
+      35,
+      22,
+      573,
+      267
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 23, solution seule",
+    "sha256": "5622a965a1d4f552390e0029fe5b69295dd8be52cda5a8226bb9e7e700c68a8b"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_24.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 13,
+    "bbox": [
+      35,
+      425,
+      573,
+      501
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 24, solution seule",
+    "sha256": "59a22ebe6183ea84415fb33c45a47dfa7ce0c7e500568258888f9b76b6599161"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_25.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 13,
+    "bbox": [
+      35,
+      745,
+      573,
+      806
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 25, solution seule",
+    "sha256": "1d5cc41e5fecc2323d639497c77a5daf51dc9b130d0bf852f20f84d8ab0ef4d0"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_26.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 14,
+    "bbox": [
+      35,
+      124,
+      573,
+      215
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 26, solution seule",
+    "sha256": "c324fefbdbe58b42ecdc8e765d96a05cfd2978a70d79a68a6a1861a436a6532f"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_27.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 14,
+    "bbox": [
+      35,
+      429,
+      573,
+      563
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 27, solution seule",
+    "sha256": "792a67e46b87e7d1545ac2c3f545ad17306ec3bcc18eccaf8773910e96f9f18b"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_28.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 14,
+    "bbox": [
+      35,
+      694,
+      573,
+      813
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 28, solution seule",
+    "sha256": "1030f054c421801f5e3f5702f7fabc990c023d969a385473ee87977ab7436ee4"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_29.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 15,
+    "bbox": [
+      35,
+      137,
+      573,
+      277
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 29, solution seule",
+    "sha256": "c587bb8fbfd6b9c6aac52b8312eebf851bf7d2d2e810d9a03ce76757aa1ee0c4"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_30.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 15,
+    "bbox": [
+      35,
+      473,
+      573,
+      564
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 30, solution seule",
+    "sha256": "0d795c40879ea6e0987ab599359434a0cc2ab674c94858c2e85724815ad91026"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_31.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 15,
+    "bbox": [
+      35,
+      679,
+      573,
+      771
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 31, solution seule",
+    "sha256": "9f1e4b6328bb6028ff5f7e688c86d6e6da3a2e33164ab416ff83fcc99d79607a"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_32.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 16,
+    "bbox": [
+      35,
+      153,
+      573,
+      233
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 32, solution seule",
+    "sha256": "f18abe63a3ec9e208abd78ef8cd7bfb03302b8445dfca7d314722f83b13a64ce"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_33.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 16,
+    "bbox": [
+      35,
+      465,
+      573,
+      556
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 33, solution seule",
+    "sha256": "d69aee054809b39dfc86bc8231c5ae8cea15479376cc9c5f7e7d968cdd0372c0"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_34.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 16,
+    "bbox": [
+      35,
+      671,
+      573,
+      710
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 34, solution seule",
+    "sha256": "8994293e037e8dcdfc55b095c6634c2036c8562f437b45964c4c789ca93e051a"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_35.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 17,
+    "bbox": [
+      35,
+      138,
+      573,
+      172
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 35, solution seule",
+    "sha256": "73ab712f190a2c1eb5a05ba3797d4bf1b4a1595b85e824385a1ea0bfe30f73f8"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_36.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 17,
+    "bbox": [
+      35,
+      287,
+      573,
+      320
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 36, solution seule",
+    "sha256": "e0c879a0373eb6858ebdfe57a81862f9ca8f4f212575665636b664e6bcb01035"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_37.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 17,
+    "bbox": [
+      35,
+      697,
+      573,
+      760
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 37, solution seule",
+    "sha256": "5915a2d2f77b2aef7d118e25ec93c11b108d874cd49fd1a7e1fdf4baa98b0ef4"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_38.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 18,
+    "bbox": [
+      35,
+      95,
+      573,
+      201
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 38, solution seule",
+    "sha256": "bc4d72a67327a11ad67f404b7eca07dd2d657824fc48e0fa622ab0c28fae1ed5"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_39.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 18,
+    "bbox": [
+      35,
+      316,
+      573,
+      407
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 39, solution seule",
+    "sha256": "3695269d04154a5dde89b5a853e4fd173653000393ecc00368b2dd2e0d24bcbc"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_40.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 18,
+    "bbox": [
+      35,
+      628,
+      573,
+      720
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 40, solution seule",
+    "sha256": "2274afde164dde0d765d401877b31e49f973f29683eb952c71afd86fcfdcf2ea"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_41.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 19,
+    "bbox": [
+      35,
+      272,
+      573,
+      408
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 41, solution seule",
+    "sha256": "55668180f33158b89114b3abf8351cf6c575e2503670a578d6e500f17adff3e9"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_42.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 19,
+    "bbox": [
+      35,
+      537,
+      573,
+      657
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 42, solution seule",
+    "sha256": "f5336b2eca0994ac8211bee10dc58e94ad00009b136d6a1530d6459111ac8ba9"
+  },
+  {
+    "path": "static/biomol_ed_revision_annales_solution_43.webp",
+    "sourcePdf": "sources/biomol_ed_annales_corrige.pdf",
+    "page": 20,
+    "bbox": [
+      35,
+      22,
+      573,
+      143
+    ],
+    "role": "correction",
+    "purpose": "Annales ED, local 43, solution seule",
+    "sha256": "8006b41153910ea6a4c298407f0087c1fcb458774cb5b1891859ec339c24330c"
+  }
+]

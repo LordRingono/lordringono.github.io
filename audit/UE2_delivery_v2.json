@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "questions": 364,
+  "banks": 108,
+  "sharedContexts": 15,
+  "sharedQuestions": 35,
+  "newAssets": 65,
+  "preservedV1Assets": 1298,
+  "hashes": {
+    "exams.json": "ceb82bfa67d21f7135460aa5ff6262e20d177030f83643e8ad919d64d105c8b5",
+    "courses.json": "a37af4166964d5fea1aceeb2de477ed4f15d82021b243713d39b6f61bdd37991",
+    "assets_manifest.json": "829cc211556273234a3b3ef65831758b376ad90be4a0b8db32bc85d4f6f2a71a",
+    "context_revision.json": "4b2a1a9a73f075126c09e32b3d2b7b76c190b9e40e3caf46633a8b914c08f30e",
+    "context_revision.md": "8ea0e265fa5213c1f780fb46547c67c89c40f9064679b0fa6d39b6217149e711",
+    "cross_review_contexts.md": "9f3931ad8740ee78ac159740cf83690750e38b07c2fd0f98d991ccf446f87d73",
+    "v2_full_content_coverage.json": "af190f1ef239cbd748e9483b563cdda05197163b73ddccd03fa62ddf6c15663c"
+  }
+}

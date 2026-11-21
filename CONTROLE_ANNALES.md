@@ -1,4 +1,25 @@
-# Intégration des annales PASS — rapport de contrôle
+# Annales PASS — contrôle et révision des énoncés communs
+
+## Révision des énoncés communs — 21 novembre 2026
+
+Les énoncés partagés sont maintenant présentés dans un bloc distinct **avant les QCM concernés**. Un filtre ou une recherche peut masquer la première question : le bloc est alors réaffiché avant la première question visible. Un lien discret dans chaque carte permet de revenir aux données communes. Les sous-contextes sont limités au groupe auquel ils s’appliquent.
+
+| Périmètre | Blocs communs distincts | QCM rattachés à un bloc |
+|---|---|---|
+| Biochimie / chimie | 15 | 35 |
+| Biostatistiques | 39 | 76 |
+| UE4 : contexte ZnO Q13–14 | 1 | 2 |
+| Biomol : les trois banques ED | 37 | 125 |
+
+Les propositions A–E ont été séparées des séquences, figures, consignes suivantes et annexes qu’elles avaient absorbées. En particulier, les ED de biomol conservent leurs séquences avec les encadrements, soulignements et repères nécessaires ; le code génétique est accessible dans un volet annexe. En UE3, les données communes et les demandes propres à une seule question sont distinguées, y compris les dépendances à un calcul précédent. Les corrigés restent réservés à la validation de la question.
+
+La demande ciblant explicitement l’ED autorise la révision des trois banques biomol `ue2.ed.annales`, `ue2.ed.2025-2026` et `ue2.ed.2026-2027`, soit **126 QCM**. Leurs identifiants, pondérations et sauvegardes sont conservés. Quatre clés mal rattachées ont été réparées après seconde lecture des pages du corrigé : locaux 6 → C, 7 → B, 8 → BC, 13 → BD dans les annales ED. Les **77 autres banques originales, soit 1 824 QCM**, restent strictement identiques : UE1, UE5 et biomol hors ED. La révision n’ajoute ni ne retire de question.
+
+Les six PDF originaux des sujets et corrigés ED sont joints dans `sources/biomol_ed_*.pdf`. Leurs pages sont indiquées selon leur propre pagination PDF, à partir de 1. Pour les annales biochimie, biostatistiques et médicaments, les numéros de pages renvoient toujours au dossier compilé.
+
+Les autres clés des ED restent celles de la version précédente. Une réserve source est explicitée pour ED 2026–2027 Q31 : la clé donne D, mais la justification parle de G alors que D correspond à T dans le sujet ; le renvoi de figure du sujet est également discordant. Une seconde réserve concerne les annales ED, local38 (2024–2025 Q2) : la clé imprimée DE contredit certains verdicts détaillés. Ces deux clés imprimées restent conservées avec une réserve après correction ; aucun arbitrage scientifique n’a été inventé. Les trois clés d’ED auparavant manquantes sont ainsi rétablies à partir du corrigé fourni, sans réponse déduite par supposition.
+
+Les contrôles de cette révision vérifient les groupes et leur appartenance, l’origine des images, la présence des fichiers, l’absence d’énoncé commun complet dans un item, le rendu après filtrage et la conservation de la notation et des deux profils. Les rapports détaillés `*_context_revision.*` et les vérifications JSON se trouvent dans `audit/`.
 
 ## Résultat
 
@@ -14,7 +35,7 @@ Les huit matières de biochimie/chimie et les douze matières de médicaments so
 
 ## Contenu protégé et exclusions
 
-Les **80 banques existantes** d’UE1, d’UE5 et de biologie moléculaire en UE2 sont identiques à la base : mêmes questions, réponses, titres, identifiants et clés de sauvegarde. Les 165 images présentes dans l’archive de référence gardent exactement les mêmes octets.
+Les **77 banques originales hors ED biomol** sont identiques à la base : mêmes questions, réponses, titres, identifiants et clés de sauvegarde. Seuls les textes, contextes et médias des trois banques ED visées par la nouvelle demande ont été révisés ; leurs sauvegardes restent inchangées et les quatre réparations de clés sont documentées ci-dessus. Les 165 images présentes dans l’archive de référence gardent exactement les mêmes octets.
 
 L’archive de référence référençait aussi **134 images WEBP absentes du ZIP**. Leurs fichiers originaux ont été retrouvés dans l’archive précédente et recopiés à l’identique ; aucune banque protégée n’a été réécrite pour cela.
 
@@ -121,7 +142,7 @@ L’inventaire `audit/inventaire_838_qcm.csv` donne une ligne pour chaque QCM : 
 
 Les titres affichent les consignes. La provenance — fichier, numéro source et pages — reste en petits caractères, avec un lien vers le document. Les énoncés communs sont repris devant les questions auxquelles ils s’appliquent, y compris lorsque leur début se trouve sur une page précédente.
 
-Les structures chimiques, schémas, tableaux et formules nécessaires sont affichés avant les choix. Les extraits originaux restent consultables en complément. Lorsque l’extraction textuelle risquait de déformer une équation, le panneau original des propositions est affiché avec les cinq choix interactifs A–E. Les trois questions UE3 à réponse numérique codée conservent leurs tableaux complets.
+Les structures chimiques, schémas, tableaux et formules nécessaires sont affichés avec leur consigne ou leur proposition. Les extraits originaux restent consultables en complément. Lorsque l’extraction textuelle risque de déformer une équation, une capture exacte conserve les signes et indices. Les questions UE3 à réponse numérique codée conservent leurs tableaux nécessaires.
 
 Les tables statistiques propres aux sujets PACES 2019–2020 et 2020–2021 sont incluses. Pour les autres sujets UE3, les tables de référence sont reprises des annexes 2019–2020 p. 667–669 avec une provenance explicite ; le formulaire de ce sujet n’est pas ajouté à ces autres annales.
 
@@ -135,7 +156,7 @@ Les clichés de faible qualité restent limités par la résolution de la source
 
 ## Questions conservées hors note
 
-Une question reste hors note lorsqu’une clé manque, que des clés ou verdicts se contredisent formellement, ou que le corrigé porte sur un item matériellement différent. L’énoncé et les documents restent consultables ; aucune clé de remplacement n’a été inventée. Les autres questions de la série sont notées normalement.
+Dans les 838 annales importées, une question reste hors note lorsqu’une clé manque, que des clés ou verdicts se contredisent formellement, ou que le corrigé porte sur un item matériellement différent. L’énoncé et les documents restent consultables ; aucune clé de remplacement n’a été inventée. Les autres questions de la série sont notées normalement.
 
 | UE | Année / session | QCM source | Sujet | Corrigé | Motif |
 |---|---|---|---|---|---|
@@ -164,12 +185,12 @@ Les autres réserves documentaires sont visibles avec les corrigés et répertor
 ## Contrôles réalisés
 
 1. **Inventaire et appariement** : chacun des 42 sujets a été associé à son corrigé, puis les numéros, consignes, propositions et contextes ont été contrôlés. Les décalages de numérotation UE2 2018/PACES 2020 et UE4 2021 S1 sont documentés.
-2. **Relecture des corrections** : comparaison des grilles courtes, des clés détaillées et des verdicts disponibles ; les divergences formelles non résolues restent hors note.
-3. **Contrôle transversal indépendant** : les **819 clés utilisées pour la note** ont été revérifiées directement contre les grilles courtes du PDF. Les identifiants et clés de sauvegarde sont uniques. Aucun ajout n’est antérieur à 2015.
-4. **Relecture visuelle et croisée** : vérification des figures et formules, puis seconde lecture indépendante des 31 QCM UE2 2025–2026 S1, des 12 QCM UE3 2025–2026 S1, des trois tableaux codés UE3, d’une annexe, des cas de numérotation et des figures sensibles. Les observations sont traitées et leurs rapports conservés dans `audit/`.
+2. **Relecture des corrections** : comparaison des grilles courtes, des clés détaillées et des verdicts disponibles ; les divergences formelles non résolues des ajouts restent hors note.
+3. **Contrôle transversal indépendant** : les **819 clés utilisées pour la note des ajouts** ont été revérifiées directement contre les grilles courtes du PDF. Les identifiants et clés de sauvegarde sont uniques. Aucun ajout n’est antérieur à 2015.
+4. **Relecture visuelle et croisée** : vérification des figures et formules, puis lectures indépendantes documentées des cas sensibles. Les observations et corrections sont conservées dans `audit/`.
 5. **Images et liens** : toutes les références du site pointent vers un fichier présent. Les nouveaux fichiers d’image sont décodables ; leur provenance est vérifiée contre les plages de sujet/corrigé, avec l’exception précisément bornée du schéma p. 322.
-6. **Conservation de l’existant** : données des 80 banques identiques ; **5 850 rendus** des anciens QCM comparés dans trois états et **240 calculs de résultats** identiques ; 165 images existantes inchangées.
-7. **Fonctionnement des ajouts** : les 276 nouvelles séries produisent leurs cartes et résultats ; réponses attendues notées correctement ; corrigés masqués avant validation ; correction des seuls QCM renseignés ; indépendance des deux profils et restauration après rechargement.
+6. **Conservation de l’existant** : données des 77 banques hors ED identiques ; **5 472 rendus** de leurs QCM comparés dans trois états. Les **237 calculs de résultats** des 79 banques originales hors annales ED sont identiques. Pour les annales ED, les quatre clés réappariées sont contrôlées explicitement ; 165 images existantes inchangées.
+7. **Fonctionnement des ajouts et des contextes** : les 276 nouvelles séries produisent leurs cartes et résultats ; réponses attendues notées correctement ; corrigés masqués avant validation ; correction des seuls QCM renseignés ; indépendance des deux profils et restauration après rechargement. Affichage des énoncés vérifié après filtrage, recherche et sur les sous-groupes.
 
 L’option explicite **« Aucune proposition »** est disponible pour tous les nouveaux QCM. Elle se distingue d’une question laissée vide et permet notamment de noter le QCM UE4 2022–2023 S2 Q9, dont la source donne expressément « AUCUNE ».
 

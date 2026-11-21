@@ -1,0 +1,4288 @@
+{
+  "result": "PASS",
+  "changed_questions": {
+    "ue2c": 53,
+    "ue3": 138,
+    "ue4": 2,
+    "biomol_ed": 126
+  },
+  "changed_options": {
+    "ue2c": 42,
+    "ue3": 80,
+    "biomol_ed": 52
+  },
+  "common_groups": {
+    "ue2c": 15,
+    "ue3": 39,
+    "ue4": 1,
+    "biomol_ed": 37
+  },
+  "questions_with_common_context": {
+    "ue2c": 35,
+    "ue3": 76,
+    "ue4": 2,
+    "biomol_ed": 125
+  },
+  "ED_key_repairs": {
+    "6": [
+      "",
+      "C"
+    ],
+    "7": [
+      "A",
+      "B"
+    ],
+    "8": [
+      "",
+      "BC"
+    ],
+    "13": [
+      "",
+      "BD"
+    ]
+  },
+  "ED_key_repairs_verified_against": "biomol_ed_annales_corrige.pdf pages 3, 4, 6, texte et rendu des pages vérifiés indépendamment",
+  "ED_image_references_checked": 452,
+  "ED_unique_images_decoded": 110,
+  "previous_images_preserved": 2622,
+  "source_pdfs": {
+    "sources/Annales_compilation.pdf": {
+      "pages": 1660,
+      "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec"
+    },
+    "sources/biomol_ed_2025_2026_sujet.pdf": {
+      "pages": 11,
+      "sha256": "5eecfa232642ae0609e3204cc5709de112db3ea2920cbc7acb17c084a4fb05e3"
+    },
+    "sources/biomol_ed_2026_2027_sujet.pdf": {
+      "pages": 11,
+      "sha256": "4cdfbd6461238f5ae5934a92f6993326410b3e086c35fccdd95dea7807c00ae0"
+    },
+    "sources/biomol_ed_annales_sujet.pdf": {
+      "pages": 12,
+      "sha256": "2b700ae186efcd214799445fd4d705c0aa864ad718210a7e213aa270b6baa7b0"
+    }
+  },
+  "errors": [],
+  "notices": [],
+  "groups": [
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2025s1-common-32-33-34",
+      "data": {
+        "id": "ue2c-2025s1-common-32-33-34",
+        "text": "Lipide complexe représenté dans les QCM 32 à 34.",
+        "images": [
+          "static/annales_ue2_v2_13_c8197582c53b.webp"
+        ],
+        "questionNumbers": [
+          32,
+          33,
+          34
+        ],
+        "questionIds": [
+          5,
+          6,
+          7
+        ],
+        "sourceStartPage": 13,
+        "sourceEndPage": 14,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2025s1",
+          "id": 5,
+          "sourceNumber": 32
+        },
+        {
+          "bank": "annales.ue2c.lipides.2025s1",
+          "id": 6,
+          "sourceNumber": 33
+        },
+        {
+          "bank": "annales.ue2c.lipides.2025s1",
+          "id": 7,
+          "sourceNumber": 34
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2024s1-common-28-29",
+      "data": {
+        "id": "ue2c-2024s1-common-28-29",
+        "text": "Soit l’acide gras en C18 : 2 (9,12) et la filiation réactionnelle suivante :",
+        "images": [
+          "static/annales_ue2_v2_53_3b9c926b543f.webp"
+        ],
+        "questionNumbers": [
+          28,
+          29
+        ],
+        "questionIds": [
+          1,
+          2
+        ],
+        "sourceStartPage": 53,
+        "sourceEndPage": 53,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2024s1",
+          "id": 1,
+          "sourceNumber": 28
+        },
+        {
+          "bank": "annales.ue2c.lipides.2024s1",
+          "id": 2,
+          "sourceNumber": 29
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2022s2-common-16-17",
+      "data": {
+        "id": "ue2c-2022s2-common-16-17",
+        "text": "Soient les deux acides gras suivants :",
+        "images": [
+          "static/annales_ue2_v2_217_e40f6c395ccc.webp"
+        ],
+        "questionNumbers": [
+          16,
+          17
+        ],
+        "questionIds": [
+          1,
+          2
+        ],
+        "sourceStartPage": 217,
+        "sourceEndPage": 217,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2022s2",
+          "id": 1,
+          "sourceNumber": 16
+        },
+        {
+          "bank": "annales.ue2c.lipides.2022s2",
+          "id": 2,
+          "sourceNumber": 17
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2021s1-common-31-32-33",
+      "data": {
+        "id": "ue2c-2021s1-common-31-32-33",
+        "text": "Soit le polyoside représenté ci-dessous, qui est présent chez les végétaux et retrouvé dans l’alimentation humaine.",
+        "images": [
+          "static/annales_ue2_v2_243_3e00cfe36f2b.webp"
+        ],
+        "questionNumbers": [
+          31,
+          32,
+          33
+        ],
+        "questionIds": [
+          1,
+          2,
+          3
+        ],
+        "sourceStartPage": 243,
+        "sourceEndPage": 243,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.glucides.2021s1",
+          "id": 1,
+          "sourceNumber": 31
+        },
+        {
+          "bank": "annales.ue2c.glucides.2021s1",
+          "id": 2,
+          "sourceNumber": 32
+        },
+        {
+          "bank": "annales.ue2c.glucides.2021s1",
+          "id": 3,
+          "sourceNumber": 33
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2021s1-common-40-41",
+      "data": {
+        "id": "ue2c-2021s1-common-40-41",
+        "text": "Les deux questions sont relatives aux structures 1 à 6 suivantes :",
+        "images": [
+          "static/annales_ue2_v2_246_1466a2254761.webp"
+        ],
+        "questionNumbers": [
+          40,
+          41
+        ],
+        "questionIds": [
+          1,
+          2
+        ],
+        "sourceStartPage": 246,
+        "sourceEndPage": 246,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.chimie_org.2021s1",
+          "id": 1,
+          "sourceNumber": 40
+        },
+        {
+          "bank": "annales.ue2c.chimie_org.2021s1",
+          "id": 2,
+          "sourceNumber": 41
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2020s1-common-25-26",
+      "data": {
+        "id": "ue2c-2020s1-common-25-26",
+        "text": "Soit la filiation des acides gras numérotés de ① à ⑥ faisant intervenir les enzymes E1 à E5 :",
+        "images": [
+          "static/annales_ue2_v2_304_2f32a0ba24a2.webp"
+        ],
+        "questionNumbers": [
+          25,
+          26
+        ],
+        "questionIds": [
+          1,
+          2
+        ],
+        "sourceStartPage": 304,
+        "sourceEndPage": 304,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2020s1",
+          "id": 1,
+          "sourceNumber": 25
+        },
+        {
+          "bank": "annales.ue2c.lipides.2020s1",
+          "id": 2,
+          "sourceNumber": 26
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2020s1-common-27-28",
+      "data": {
+        "id": "ue2c-2020s1-common-27-28",
+        "text": "Dans l’huile d’olive, on retrouve de la trioléine, un triacylglycérol homogène contenant un acide gras en C18:1 cis Δ9.",
+        "images": [],
+        "questionNumbers": [
+          27,
+          28
+        ],
+        "questionIds": [
+          3,
+          4
+        ],
+        "sourceStartPage": 305,
+        "sourceEndPage": 305,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2020s1",
+          "id": 3,
+          "sourceNumber": 27
+        },
+        {
+          "bank": "annales.ue2c.lipides.2020s1",
+          "id": 4,
+          "sourceNumber": 28
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2020s1-common-33-34",
+      "data": {
+        "id": "ue2c-2020s1-common-33-34",
+        "text": "Soient les quatre diholosides suivants :",
+        "images": [
+          "static/annales_ue2_v2_306_c39cdd8396b3.webp"
+        ],
+        "questionNumbers": [
+          33,
+          34
+        ],
+        "questionIds": [
+          2,
+          3
+        ],
+        "sourceStartPage": 306,
+        "sourceEndPage": 306,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.glucides.2020s1",
+          "id": 2,
+          "sourceNumber": 33
+        },
+        {
+          "bank": "annales.ue2c.glucides.2020s1",
+          "id": 3,
+          "sourceNumber": 34
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2020paces-common-21-22",
+      "data": {
+        "id": "ue2c-2020paces-common-21-22",
+        "text": "Soit le lipide X représenté ci-dessous, constitué des structures A et B.",
+        "images": [
+          "static/annales_ue2_v2_363_55b1bf102d7a.webp"
+        ],
+        "questionNumbers": [
+          21,
+          22
+        ],
+        "questionIds": [
+          5,
+          6
+        ],
+        "sourceStartPage": 363,
+        "sourceEndPage": 363,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2020paces",
+          "id": 5,
+          "sourceNumber": 21
+        },
+        {
+          "bank": "annales.ue2c.lipides.2020paces",
+          "id": 6,
+          "sourceNumber": 22
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2020paces-common-42-43",
+      "data": {
+        "id": "ue2c-2020paces-common-42-43",
+        "text": "Les QCM 42 et 43 portent sur les structures suivantes :",
+        "images": [
+          "static/annales_ue2_v2_368_ea3504521234.webp"
+        ],
+        "questionNumbers": [
+          42,
+          43
+        ],
+        "questionIds": [
+          2,
+          3
+        ],
+        "sourceStartPage": 368,
+        "sourceEndPage": 368,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.chimie_org.2020paces",
+          "id": 2,
+          "sourceNumber": 42
+        },
+        {
+          "bank": "annales.ue2c.chimie_org.2020paces",
+          "id": 3,
+          "sourceNumber": 43
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2019-common-17-18-19",
+      "data": {
+        "id": "ue2c-2019-common-17-18-19",
+        "text": "Soient les deux acides gras 1 et 2 suivants :\nAcide gras 1 : structure représentée ci-dessous.\nAcide gras 2 : Acide tout-cis-7,10,13,16,19-docosapentaénoïque",
+        "images": [
+          "static/annales_ue2_v2_404_c5cb12a10d8e.webp"
+        ],
+        "questionNumbers": [
+          17,
+          18,
+          19
+        ],
+        "questionIds": [
+          1,
+          2,
+          3
+        ],
+        "sourceStartPage": 404,
+        "sourceEndPage": 404,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2019",
+          "id": 1,
+          "sourceNumber": 17
+        },
+        {
+          "bank": "annales.ue2c.lipides.2019",
+          "id": 2,
+          "sourceNumber": 18
+        },
+        {
+          "bank": "annales.ue2c.lipides.2019",
+          "id": 3,
+          "sourceNumber": 19
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2019-common-21-22-23",
+      "data": {
+        "id": "ue2c-2019-common-21-22-23",
+        "text": "Soient les sphingolipides 1 à 4 suivants :\n1 : Glucosylcéramides\n2 : Galactosylcéramide\n3 : Lactosylcéramide\n4 : GM3",
+        "images": [],
+        "questionNumbers": [
+          21,
+          22,
+          23
+        ],
+        "questionIds": [
+          5,
+          6,
+          7
+        ],
+        "sourceStartPage": 405,
+        "sourceEndPage": 405,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2019",
+          "id": 5,
+          "sourceNumber": 21
+        },
+        {
+          "bank": "annales.ue2c.lipides.2019",
+          "id": 6,
+          "sourceNumber": 22
+        },
+        {
+          "bank": "annales.ue2c.lipides.2019",
+          "id": 7,
+          "sourceNumber": 23
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2019-common-32-33",
+      "data": {
+        "id": "ue2c-2019-common-32-33",
+        "text": "Soit le polypeptide suivant : HSQETFTRDYLMCK\nSuite à l’action de la chymotrypsine sur ce polypeptide, on obtient plusieurs fragments peptidiques. Les valeurs de PKa des résidus qui composent ce peptide sont indiquées dans le tableau ci-dessous.",
+        "images": [
+          "static/annales_ue2_v2_408_70b44b8d808c.webp"
+        ],
+        "questionNumbers": [
+          32,
+          33
+        ],
+        "questionIds": [
+          5,
+          6
+        ],
+        "sourceStartPage": 408,
+        "sourceEndPage": 408,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.proteines.2019",
+          "id": 5,
+          "sourceNumber": 32
+        },
+        {
+          "bank": "annales.ue2c.proteines.2019",
+          "id": 6,
+          "sourceNumber": 33
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2018-common-17-18-19",
+      "data": {
+        "id": "ue2c-2018-common-17-18-19",
+        "text": "Soit les trois molécules d’acides gras suivantes :",
+        "images": [
+          "static/annales_ue2_v2_450_9243c0ff0777.webp"
+        ],
+        "questionNumbers": [
+          17,
+          18,
+          19
+        ],
+        "questionIds": [
+          1,
+          2,
+          3
+        ],
+        "sourceStartPage": 450,
+        "sourceEndPage": 450,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.lipides.2018",
+          "id": 1,
+          "sourceNumber": 17
+        },
+        {
+          "bank": "annales.ue2c.lipides.2018",
+          "id": 2,
+          "sourceNumber": 18
+        },
+        {
+          "bank": "annales.ue2c.lipides.2018",
+          "id": 3,
+          "sourceNumber": 19
+        }
+      ]
+    },
+    {
+      "unit": "ue2c",
+      "id": "ue2c-2018-common-37-38",
+      "data": {
+        "id": "ue2c-2018-common-37-38",
+        "text": "Soient les réactions du métabolisme intermédiaire suivantes :",
+        "images": [
+          "static/annales_ue2_v2_455_d858038a6554.webp"
+        ],
+        "questionNumbers": [
+          37,
+          38
+        ],
+        "questionIds": [
+          2,
+          3
+        ],
+        "sourceStartPage": 455,
+        "sourceEndPage": 455,
+        "sourcePdf": "sources/Annales_compilation.pdf",
+        "sourceFile": "Sujets + corrections compilés.pdf"
+      },
+      "members": [
+        {
+          "bank": "annales.ue2c.metabolisme.2018",
+          "id": 2,
+          "sourceNumber": 37
+        },
+        {
+          "bank": "annales.ue2c.metabolisme.2018",
+          "id": 3,
+          "sourceNumber": 38
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2025-2026.s1.context.douleur",
+      "data": {
+        "id": "annales.ue3.2025-2026.s1.context.douleur",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2025-2026_s1_q04_context_p489.webp"
+        ],
+        "questionNumbers": [
+          4,
+          5
+        ],
+        "sourceStartPage": 489,
+        "sourceEndPage": 489
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 5,
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+      "data": {
+        "id": "annales.ue3.2025-2026.s1.context.diagnostic_hfme",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2025-2026_s1_q06_context_p490.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "sourceStartPage": 490,
+        "sourceEndPage": 490
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 7,
+          "sourceNumber": "7"
+        },
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2025-2026.s1.context.specificite_necker",
+      "data": {
+        "id": "annales.ue3.2025-2026.s1.context.specificite_necker",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2025-2026_s1_q08_context_p491.webp"
+        ],
+        "questionNumbers": [
+          8,
+          9
+        ],
+        "sourceStartPage": 491,
+        "sourceEndPage": 491
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2025-2026.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2024-2025.s1.context.fonction_renale",
+      "data": {
+        "id": "annales.ue3.2024-2025.s1.context.fonction_renale",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2024-2025_s1_q04_context_p507.webp"
+        ],
+        "questionNumbers": [
+          4,
+          5
+        ],
+        "sourceStartPage": 507,
+        "sourceEndPage": 507
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 5,
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+      "data": {
+        "id": "annales.ue3.2024-2025.s1.context.lesions_colorectales",
+        "text": "Une étude a évalué l’intérêt d’un outil en ligne pour aider les gastroentérologues à déterminer l’histologie d’une lésion colorectale, par rapport à leur pratique habituelle. A chaque fois, le résultat a été comparé́ à la vraie histologie (obtenue après résection de la lésion ou par biopsie). L’étude a porté́ sur 200 lésions colorectales classées par un seul gastroentérologue. Le pourcentage de lésions bien classées avec l’aide de l’outil est estimé à 60 %.",
+        "images": [],
+        "questionNumbers": [
+          6,
+          7,
+          8
+        ],
+        "sourceStartPage": 508,
+        "sourceEndPage": 508
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 7,
+          "sourceNumber": "7"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2024-2025.s1.context.comparaison_reference_q6",
+      "data": {
+        "id": "annales.ue3.2024-2025.s1.context.comparaison_reference_q6",
+        "text": "Il est considèré que la cible à atteindre serait de 70 % (valeur de référence). On souhaite comparer les résultats obtenus à l’aide de l’outil à la cible. La valeur absolue statistique du test est d’environ 3. On donne : 0,8 × 0,2 = 0,16 ; 0,7 × 0,3 = 0,21.",
+        "images": [],
+        "questionNumbers": [
+          6,
+          8
+        ],
+        "sourceStartPage": 508,
+        "sourceEndPage": 508
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2024-2025.s1.context.metastases",
+      "data": {
+        "id": "annales.ue3.2024-2025.s1.context.metastases",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2024-2025_s1_q09_context_p509.webp"
+        ],
+        "questionNumbers": [
+          9,
+          10
+        ],
+        "sourceStartPage": 509,
+        "sourceEndPage": 509
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s1",
+          "id": 10,
+          "sourceNumber": "10"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2024-2025.s2.context.test_student",
+      "data": {
+        "id": "annales.ue3.2024-2025.s2.context.test_student",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2024-2025_s2_q02_context_p522.webp"
+        ],
+        "questionNumbers": [
+          2,
+          3
+        ],
+        "sourceStartPage": 522,
+        "sourceEndPage": 522
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2024-2025.s2",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s2",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2024-2025.s2.context.fibromes",
+      "data": {
+        "id": "annales.ue3.2024-2025.s2.context.fibromes",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2024-2025_s2_q04_context_p522.webp"
+        ],
+        "questionNumbers": [
+          4,
+          5
+        ],
+        "sourceStartPage": 522,
+        "sourceEndPage": 522
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2024-2025.s2",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2024-2025.s2",
+          "id": 5,
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires",
+      "data": {
+        "id": "annales.ue3.2023-2024.s1.context.evenements_cardiovasculaires",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2023-2024_s1_q02_context_p534.webp"
+        ],
+        "questionNumbers": [
+          2,
+          3
+        ],
+        "sourceStartPage": 534,
+        "sourceEndPage": 534
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2023-2024.s1",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2023-2024.s1",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie",
+      "data": {
+        "id": "annales.ue3.2023-2024.s1.context.marqueurs_hemophilie",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2023-2024_s1_q07_context_p536.webp"
+        ],
+        "questionNumbers": [
+          7,
+          8
+        ],
+        "sourceStartPage": 536,
+        "sourceEndPage": 536
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2023-2024.s1",
+          "id": 7,
+          "sourceNumber": "7"
+        },
+        {
+          "bank": "annales.ue3.2023-2024.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2023-2024.s1.context.etude_avc",
+      "data": {
+        "id": "annales.ue3.2023-2024.s1.context.etude_avc",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2023-2024_s1_revision_shared_avc_p537.webp"
+        ],
+        "questionNumbers": [
+          9,
+          10
+        ],
+        "sourceStartPage": 537,
+        "sourceEndPage": 537
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2023-2024.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        },
+        {
+          "bank": "annales.ue3.2023-2024.s1",
+          "id": 10,
+          "sourceNumber": "10"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2023-2024.s2.context.thrombectomie",
+      "data": {
+        "id": "annales.ue3.2023-2024.s2.context.thrombectomie",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2023-2024_s2_q06_context_p551.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 551,
+        "sourceEndPage": 551
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2023-2024.s2",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2023-2024.s2",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s1.context.bicarbonate",
+      "data": {
+        "id": "annales.ue3.2022-2023.s1.context.bicarbonate",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s1_q01_context_p560.webp"
+        ],
+        "questionNumbers": [
+          1,
+          2,
+          3
+        ],
+        "sourceStartPage": 560,
+        "sourceEndPage": 560
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 1,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate",
+      "data": {
+        "id": "annales.ue3.2022-2023.s1.context.intervalle_bicarbonate",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s1_q02_context_p560.webp"
+        ],
+        "questionNumbers": [
+          2,
+          3
+        ],
+        "sourceStartPage": 560,
+        "sourceEndPage": 560
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s1.context.narcolepsie",
+      "data": {
+        "id": "annales.ue3.2022-2023.s1.context.narcolepsie",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s1_q04_context_p561.webp"
+        ],
+        "questionNumbers": [
+          4,
+          5
+        ],
+        "sourceStartPage": 561,
+        "sourceEndPage": 561
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 5,
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s1.context.cancer_poumon",
+      "data": {
+        "id": "annales.ue3.2022-2023.s1.context.cancer_poumon",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s1_q08_context_p562.webp"
+        ],
+        "questionNumbers": [
+          8,
+          9
+        ],
+        "sourceStartPage": 562,
+        "sourceEndPage": 562
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire",
+      "data": {
+        "id": "annales.ue3.2022-2023.s1.context.diagnostic_pulmonaire",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s1_q10_context_p563.webp"
+        ],
+        "questionNumbers": [
+          10,
+          11
+        ],
+        "sourceStartPage": 563,
+        "sourceEndPage": 563
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 10,
+          "sourceNumber": "10"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s1",
+          "id": 11,
+          "sourceNumber": "11"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s2.context.mesures",
+      "data": {
+        "id": "annales.ue3.2022-2023.s2.context.mesures",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s2_q01_context_p578.webp"
+        ],
+        "questionNumbers": [
+          1,
+          2,
+          3
+        ],
+        "sourceStartPage": 578,
+        "sourceEndPage": 578
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 1,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s2.context.moyenne_ecart_type",
+      "data": {
+        "id": "annales.ue3.2022-2023.s2.context.moyenne_ecart_type",
+        "text": "La moyenne m des mesures est de 2,70 avec un écart type estimé s de 1'20' On rappelle que m est une estimation de l'espérance p.",
+        "images": [],
+        "questionNumbers": [
+          2,
+          3
+        ],
+        "sourceStartPage": 578,
+        "sourceEndPage": 578
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s2.context.parkinson",
+      "data": {
+        "id": "annales.ue3.2022-2023.s2.context.parkinson",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s2_q04_context_p579.webp"
+        ],
+        "questionNumbers": [
+          4,
+          5
+        ],
+        "sourceStartPage": 579,
+        "sourceEndPage": 579
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 5,
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2022-2023.s2.context.tislezumab",
+      "data": {
+        "id": "annales.ue3.2022-2023.s2.context.tislezumab",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2022-2023_s2_q06_context_p580.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 580,
+        "sourceEndPage": 580
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2022-2023.s2",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2021-2022.s1.context.legionellose",
+      "data": {
+        "id": "annales.ue3.2021-2022.s1.context.legionellose",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2021-2022_s1_q06_context_p590.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 590,
+        "sourceEndPage": 590
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2021-2022.s1",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s1",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2021-2022.s1.context.anxiete_covid",
+      "data": {
+        "id": "annales.ue3.2021-2022.s1.context.anxiete_covid",
+        "text": "Une étude s’intéresse au niveau d’anxiété des patients admis en réanimation pour COVID-19. L’évaluation est faite par le questionnaire HADS, un an après le passage en réanimation. Sur les 100 patients de l’étude qui ont été suivis à 1an, 30 avaient un diagnostic d’anxiété à 1an d’après l’HADS.",
+        "images": [],
+        "questionNumbers": [
+          8,
+          9,
+          10
+        ],
+        "sourceStartPage": 591,
+        "sourceEndPage": 591
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2021-2022.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s1",
+          "id": 10,
+          "sourceNumber": "10"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2021-2022.s2.context.silicose_definition",
+      "data": {
+        "id": "annales.ue3.2021-2022.s2.context.silicose_definition",
+        "text": "La silicose est une maladie pulmonaire causée par l’inhalation de silice cristalline à laquelle les employés du bâtiment sont, entre autres, exposés.",
+        "images": [],
+        "questionNumbers": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "sourceStartPage": 605,
+        "sourceEndPage": 605
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2021-2022.s2",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s2",
+          "id": 5,
+          "sourceNumber": "5"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s2",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s2",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2021-2022.s2.context.silicose_survie",
+      "data": {
+        "id": "annales.ue3.2021-2022.s2.context.silicose_survie",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2021-2022_s2_q06_context_p605.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 605,
+        "sourceEndPage": 605
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2021-2022.s2",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2021-2022.s2",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2020-2021.paces.context.scores_covid",
+      "data": {
+        "id": "annales.ue3.2020-2021.paces.context.scores_covid",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2020-2021_paces_q06_context_p615.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 615,
+        "sourceEndPage": 615
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2020-2021.paces",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2020-2021.paces",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2020-2021.s1.context.tests_covid",
+      "data": {
+        "id": "annales.ue3.2020-2021.s1.context.tests_covid",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2020-2021_s1_q06_context_p636.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 636,
+        "sourceEndPage": 636
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2020-2021.s1",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2020-2021.s1",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2020-2021.s1.context.reanimation_covid",
+      "data": {
+        "id": "annales.ue3.2020-2021.s1.context.reanimation_covid",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2020-2021_s1_q08_context_p636.webp"
+        ],
+        "questionNumbers": [
+          8,
+          9
+        ],
+        "sourceStartPage": 636,
+        "sourceEndPage": 636
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2020-2021.s1",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2020-2021.s1",
+          "id": 9,
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2020-2021.s2.context.albuminemie",
+      "data": {
+        "id": "annales.ue3.2020-2021.s2.context.albuminemie",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2020-2021_s2_q02_context_p652.webp"
+        ],
+        "questionNumbers": [
+          2,
+          3
+        ],
+        "sourceStartPage": 652,
+        "sourceEndPage": 652
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2020-2021.s2",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2020-2021.s2",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2020-2021.s2.context.valeriane",
+      "data": {
+        "id": "annales.ue3.2020-2021.s2.context.valeriane",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2020-2021_s2_q05_context_p653.webp"
+        ],
+        "questionNumbers": [
+          5,
+          6
+        ],
+        "sourceStartPage": 653,
+        "sourceEndPage": 653
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2020-2021.s2",
+          "id": 5,
+          "sourceNumber": "5"
+        },
+        {
+          "bank": "annales.ue3.2020-2021.s2",
+          "id": 6,
+          "sourceNumber": "6"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2019-2020.paces.context.arthrose",
+      "data": {
+        "id": "annales.ue3.2019-2020.paces.context.arthrose",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2019-2020_paces_q01_context_p662.webp"
+        ],
+        "questionNumbers": [
+          1,
+          2
+        ],
+        "sourceStartPage": 662,
+        "sourceEndPage": 662
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 1,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 2,
+          "sourceNumber": "2"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2019-2020.paces.context.hemoglobine",
+      "data": {
+        "id": "annales.ue3.2019-2020.paces.context.hemoglobine",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2019-2020_paces_q03_context_p662.webp"
+        ],
+        "questionNumbers": [
+          3,
+          4
+        ],
+        "sourceStartPage": 662,
+        "sourceEndPage": 662
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 3,
+          "sourceNumber": "3"
+        },
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 4,
+          "sourceNumber": "4"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2019-2020.paces.context.irm_sein",
+      "data": {
+        "id": "annales.ue3.2019-2020.paces.context.irm_sein",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2019-2020_paces_q06_context_p663.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 663,
+        "sourceEndPage": 663
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon",
+      "data": {
+        "id": "annales.ue3.2019-2020.paces.context.adenocarcinomes_colon",
+        "text": "Un jeune praticien hospitalier talentueux de l’hôpital Edouard Herriot a développé une nouvelle classification afin d’aider les endoscopistes à identifier les adénocarcinomes superficiels du côlon : la classification Conecct.",
+        "images": [],
+        "questionNumbers": [
+          8,
+          9
+        ],
+        "sourceStartPage": 664,
+        "sourceEndPage": 664
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2019-2020.paces",
+          "id": 9,
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2018-2019.paces.context.intervalle_apache",
+      "data": {
+        "id": "annales.ue3.2018-2019.paces.context.intervalle_apache",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2018-2019_paces_revision_shared_apache_p684.webp"
+        ],
+        "questionNumbers": [
+          2,
+          3
+        ],
+        "sourceStartPage": 684,
+        "sourceEndPage": 684
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 3,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2018-2019.paces.context.scores_saps_apache",
+      "data": {
+        "id": "annales.ue3.2018-2019.paces.context.scores_saps_apache",
+        "text": "Pour tester si la régression linéaire est significative, vous effectuez :",
+        "images": [
+          "static/annales_ue3_2018-2019_paces_q04_context_p685.webp"
+        ],
+        "questionNumbers": [
+          4,
+          5
+        ],
+        "sourceStartPage": 685,
+        "sourceEndPage": 685
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 5,
+          "sourceNumber": "5"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2018-2019.paces.context.ebola",
+      "data": {
+        "id": "annales.ue3.2018-2019.paces.context.ebola",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2018-2019_paces_q06_context_p685.webp"
+        ],
+        "questionNumbers": [
+          6,
+          7
+        ],
+        "sourceStartPage": 685,
+        "sourceEndPage": 685
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 7,
+          "sourceNumber": "7"
+        }
+      ]
+    },
+    {
+      "unit": "ue3",
+      "id": "annales.ue3.2018-2019.paces.context.omega3",
+      "data": {
+        "id": "annales.ue3.2018-2019.paces.context.omega3",
+        "text": "",
+        "images": [
+          "static/annales_ue3_2018-2019_paces_q08_context_p686.webp"
+        ],
+        "questionNumbers": [
+          8,
+          9
+        ],
+        "sourceStartPage": 686,
+        "sourceEndPage": 686
+      },
+      "members": [
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "annales.ue3.2018-2019.paces",
+          "id": 9,
+          "sourceNumber": "9"
+        }
+      ]
+    },
+    {
+      "unit": "ue4",
+      "id": "ue4-2020-s1-zinc-13-14",
+      "data": {
+        "id": "ue4-2020-s1-zinc-13-14",
+        "text": "On vous précise que l’oxyde de zinc est à la fois insoluble dans l’eau et les huiles minérales.",
+        "images": [],
+        "questionNumbers": [
+          13,
+          14
+        ],
+        "sourceStartPage": 879,
+        "sourceEndPage": 879
+      },
+      "members": [
+        {
+          "bank": "ue4.annales.2020-2021.s1.galenique",
+          "id": 1,
+          "sourceNumber": "13"
+        },
+        {
+          "bank": "ue4.annales.2020-2021.s1.galenique",
+          "id": 2,
+          "sourceNumber": "14"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.introduction",
+      "data": {
+        "id": "ue2.ed.2025-2026.introduction",
+        "title": "Le syndrome du QT long et le gène KCNH2",
+        "text": "Le syndrome du QT long congénital est une entité cliniquement hétérogène caractérisée par un allongement de l’intervalle QT sur l’ECG de surface, associé à un risque de troubles du rythme ventriculaire graves, responsables de pertes de connaissances et potentiellement mortels. La prévalence est de l’ordre de 1/2500 naissances. De transmission autosomique dominante, il présente une forte hétérogénéité génétique. Les principaux gènes impliqués dans cette pathologie codent des canaux ioniques cardiaques tels que, par exemple, le gène KCNH2 (taille: 33kb), qui est localisé sur le chromosome 7 et qui contient 15 exons. Il code une sous-unité de 1159 acides aminés du canal potassique hERG (un canal étant formé par l’association en tétramère de 4 sous-unités).",
+        "images": [
+          "static/ue2_ue2_ed_2025-2026_q001_page01_image1.webp",
+          "static/ue2_ue2_ed_2025-2026_q001_page01_image2.webp",
+          "static/ue2_ue2_ed_2025-2026_q001_page01_image3.webp",
+          "static/ue2_ue2_ed_2025-2026_q001_page01_image4.webp"
+        ],
+        "questionIds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 1,
+        "sourceEndPage": 1,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 1,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 3,
+          "sourceNumber": "3"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 5,
+          "sourceNumber": "5"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 7,
+          "sourceNumber": "7"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 9,
+          "sourceNumber": "9"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 10,
+          "sourceNumber": "10"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 11,
+          "sourceNumber": "11"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 12,
+          "sourceNumber": "12"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 13,
+          "sourceNumber": "13"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 14,
+          "sourceNumber": "14"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 15,
+          "sourceNumber": "15"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 16,
+          "sourceNumber": "16"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 17,
+          "sourceNumber": "17"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 18,
+          "sourceNumber": "18"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 19,
+          "sourceNumber": "19"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 20,
+          "sourceNumber": "20"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 21,
+          "sourceNumber": "21"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 22,
+          "sourceNumber": "22"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 23,
+          "sourceNumber": "23"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 24,
+          "sourceNumber": "24"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 25,
+          "sourceNumber": "25"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 26,
+          "sourceNumber": "26"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 27,
+          "sourceNumber": "27"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 28,
+          "sourceNumber": "28"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 29,
+          "sourceNumber": "29"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 30,
+          "sourceNumber": "30"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 31,
+          "sourceNumber": "31"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 36,
+          "sourceNumber": "36"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 38,
+          "sourceNumber": "38"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 40,
+          "sourceNumber": "40"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 41,
+          "sourceNumber": "41"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.sequence-debut",
+      "data": {
+        "id": "ue2.ed.2025-2026.sequence-debut",
+        "title": "Début du gène KCNH2",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_sequence_debut.webp"
+        ],
+        "questionIds": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "questionNumbers": [
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20"
+        ],
+        "sourceStartPage": 5,
+        "sourceEndPage": 5,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 15,
+          "sourceNumber": "15"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 16,
+          "sourceNumber": "16"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 17,
+          "sourceNumber": "17"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 18,
+          "sourceNumber": "18"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 19,
+          "sourceNumber": "19"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 20,
+          "sourceNumber": "20"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.sequence-exon15",
+      "data": {
+        "id": "ue2.ed.2025-2026.sequence-exon15",
+        "title": "Fin du gène KCNH2",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_sequence_exon15.webp"
+        ],
+        "questionIds": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "questionNumbers": [
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29"
+        ],
+        "sourceStartPage": 7,
+        "sourceEndPage": 7,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 21,
+          "sourceNumber": "21"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 22,
+          "sourceNumber": "22"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 23,
+          "sourceNumber": "23"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 24,
+          "sourceNumber": "24"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 25,
+          "sourceNumber": "25"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 26,
+          "sourceNumber": "26"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 27,
+          "sourceNumber": "27"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 28,
+          "sourceNumber": "28"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 29,
+          "sourceNumber": "29"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.patiente",
+      "data": {
+        "id": "ue2.ed.2025-2026.patiente",
+        "title": "Étude d’une patiente",
+        "text": "Étude d’une patiente présentant un syndrome du QT Long.",
+        "images": [],
+        "questionIds": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 9,
+        "sourceEndPage": 9,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 30,
+          "sourceNumber": "30"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 31,
+          "sourceNumber": "31"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 36,
+          "sourceNumber": "36"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 38,
+          "sourceNumber": "38"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 40,
+          "sourceNumber": "40"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 41,
+          "sourceNumber": "41"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.bases-mutation",
+      "data": {
+        "id": "ue2.ed.2025-2026.bases-mutation",
+        "title": "La substitution nucléotidique",
+        "text": "L’analyse moléculaire faite sur l’ADN de cette patiente a permis d’identifier une substitution nucléotidique sur le gène KCNH2. Ce changement concerne les bases représentées ci-dessous :",
+        "images": [
+          "static/ue2_ue2_ed_2025-2026_q032_page09_image1.webp"
+        ],
+        "questionIds": [
+          32,
+          33,
+          34,
+          35
+        ],
+        "questionNumbers": [
+          "32",
+          "33",
+          "34",
+          "35"
+        ],
+        "sourceStartPage": 9,
+        "sourceEndPage": 9,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 35,
+          "sourceNumber": "35"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.nom-mutation",
+      "data": {
+        "id": "ue2.ed.2025-2026.nom-mutation",
+        "title": "La variation c.164C>T",
+        "text": "Le nom officiel de cette mutation est le suivant : c.164C>T. Cette appellation signifie que le nucléotide 164 sur l’ARNm mature contenait, avant mutation, une cytosine et que, en raison de cette mutation, ce nucléotide contient maintenant une thymine (le nucléotide 1 de l’ARNm étant le nucléotide A du codon d’initiation de la traduction).",
+        "images": [],
+        "questionIds": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 9,
+        "sourceEndPage": 9,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 36,
+          "sourceNumber": "36"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 38,
+          "sourceNumber": "38"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 40,
+          "sourceNumber": "40"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 41,
+          "sourceNumber": "41"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.sequence-exon2",
+      "data": {
+        "id": "ue2.ed.2025-2026.sequence-exon2",
+        "title": "La mutation dans l’exon 2",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_sequence_exon2.webp"
+        ],
+        "questionIds": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 10,
+        "sourceEndPage": 10,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 38,
+          "sourceNumber": "38"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 40,
+          "sourceNumber": "40"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 41,
+          "sourceNumber": "41"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.pcr",
+      "data": {
+        "id": "ue2.ed.2025-2026.pcr",
+        "title": "Amplification de l’exon 2",
+        "text": "Pour étudier la région entourant la mutation, vous devez amplifier (à l’aide d’une technique in vitro dénommée PCR) l’exon 2 grâce à 2 courts fragments d’ADN simple brin (dénommés oligonucléotides de synthèse) :\n– le 1er fragment s’hybride sur le début de l’exon 2 ;\n– le 2nd s’hybride sur la fin de l’exon 2.",
+        "images": [],
+        "questionIds": [
+          40,
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "40",
+          "41",
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 11,
+        "sourceEndPage": 11,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 40,
+          "sourceNumber": "40"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 41,
+          "sourceNumber": "41"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.oligonucleotide2",
+      "data": {
+        "id": "ue2.ed.2025-2026.oligonucleotide2",
+        "title": "Le deuxième oligonucléotide",
+        "text": "Le 2nd oligonucléotide de synthèse a pour séquence : 5’CATCTTTCCGGTAGAAGGCG3’.",
+        "images": [],
+        "questionIds": [
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "41",
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 11,
+        "sourceEndPage": 11,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 41,
+          "sourceNumber": "41"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2025-2026.protocole-polymerase",
+      "data": {
+        "id": "ue2.ed.2025-2026.protocole-polymerase",
+        "title": "Hypothèse des QCM 42 et 43",
+        "text": "Le 2nd oligonucléotide s’est hybridé sur le gène KCNH2. Dans le QCM 42, une ADN polymérase et des dNTPs sont ajoutés ; le QCM 43 demande de remplacer cette ADN polymérase par une ARN polymérase.",
+        "images": [],
+        "questionIds": [
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "42",
+          "43"
+        ],
+        "sourceStartPage": 11,
+        "sourceEndPage": 11,
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 42,
+          "sourceNumber": "42"
+        },
+        {
+          "bank": "ue2.ed.2025-2026",
+          "id": 43,
+          "sourceNumber": "43"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.introduction",
+      "data": {
+        "id": "ue2.ed.2026-2027.introduction",
+        "title": "La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "text": "La cardiomyopathie hypertrophique (CMH) est la plus fréquente des maladies cardiaques d’origine génétique. Elle est caractérisée par un épaississement anormal des parois du cœur (essentiellement le ventricule gauche) prédominant le plus souvent au niveau du septum interventriculaire (Figure 1). Cette maladie constitue l’une des causes principales de mort subite du sujet jeune, notamment chez le sportif de moins de 35 ans. Le mode de transmission est très majoritairement autosomique dominant. La prévalence a été estimée à 0,2 % de la population générale. Les études moléculaires ont permis de déterminer que le gène causal le plus prévalent dans cette pathologie est le gène MYBPC3 codant respectivement la protéine C cardiaque de liaison à la myosine (Figure 2). Le gène MYBPC3, localisé sur le chromosome 11, a une taille de 21,3 kb et contient 35 exons. L’ARNm MYBPC3 mature a une taille de 4161 nucléotides.",
+        "images": [
+          "static/ue2_ue2_ed_2026-2027_q001_page01_image1.webp",
+          "static/ue2_ue2_ed_2026-2027_q001_page01_image2.webp"
+        ],
+        "questionIds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "sourceStartPage": 1,
+        "sourceEndPage": 1,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 1,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 2,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 3,
+          "sourceNumber": "3"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 4,
+          "sourceNumber": "4"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 5,
+          "sourceNumber": "5"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 6,
+          "sourceNumber": "6"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 7,
+          "sourceNumber": "7"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 8,
+          "sourceNumber": "8"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 9,
+          "sourceNumber": "9"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 10,
+          "sourceNumber": "10"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 11,
+          "sourceNumber": "11"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 12,
+          "sourceNumber": "12"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 13,
+          "sourceNumber": "13"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 14,
+          "sourceNumber": "14"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 15,
+          "sourceNumber": "15"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 16,
+          "sourceNumber": "16"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 17,
+          "sourceNumber": "17"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 18,
+          "sourceNumber": "18"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 19,
+          "sourceNumber": "19"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 20,
+          "sourceNumber": "20"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 21,
+          "sourceNumber": "21"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 22,
+          "sourceNumber": "22"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 23,
+          "sourceNumber": "23"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 24,
+          "sourceNumber": "24"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 25,
+          "sourceNumber": "25"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 26,
+          "sourceNumber": "26"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 27,
+          "sourceNumber": "27"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 28,
+          "sourceNumber": "28"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 29,
+          "sourceNumber": "29"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 30,
+          "sourceNumber": "30"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 31,
+          "sourceNumber": "31"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 36,
+          "sourceNumber": "36"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 38,
+          "sourceNumber": "38"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 40,
+          "sourceNumber": "40"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.sequence-debut",
+      "data": {
+        "id": "ue2.ed.2026-2027.sequence-debut",
+        "title": "Début du gène MYBPC3",
+        "text": "À propos du début du gène MYBPC3. La première séquence correspond au brin sens du gène et contient l’exon 1 dans sa globalité, une partie de l’intron 1 (le début et la fin, en italique), puis l’exon 2 dans sa totalité.",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_sequence_debut.webp"
+        ],
+        "questionIds": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "questionNumbers": [
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "sourceStartPage": 4,
+        "sourceEndPage": 4,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 15,
+          "sourceNumber": "15"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 16,
+          "sourceNumber": "16"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 17,
+          "sourceNumber": "17"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 18,
+          "sourceNumber": "18"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.sequence-exon1",
+      "data": {
+        "id": "ue2.ed.2026-2027.sequence-exon1",
+        "title": "Séquence de l’exon 1",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_sequence_exon1.webp"
+        ],
+        "questionIds": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "questionNumbers": [
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "sourceStartPage": 4,
+        "sourceEndPage": 4,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 15,
+          "sourceNumber": "15"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 16,
+          "sourceNumber": "16"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 17,
+          "sourceNumber": "17"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 18,
+          "sourceNumber": "18"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.sequence-fin",
+      "data": {
+        "id": "ue2.ed.2026-2027.sequence-fin",
+        "title": "Fin du gène MYBPC3",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_sequence_fin.webp"
+        ],
+        "questionIds": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "questionNumbers": [
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24"
+        ],
+        "sourceStartPage": 5,
+        "sourceEndPage": 5,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 19,
+          "sourceNumber": "19"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 20,
+          "sourceNumber": "20"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 21,
+          "sourceNumber": "21"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 22,
+          "sourceNumber": "22"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 23,
+          "sourceNumber": "23"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 24,
+          "sourceNumber": "24"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.arnt",
+      "data": {
+        "id": "ue2.ed.2026-2027.arnt",
+        "title": "L’ARNt",
+        "text": "Le schéma représente la structure globale d’un ARNt. La séquence de l’anticodon a été remplacée par les lettres ABC.",
+        "images": [
+          "static/ue2_ue2_ed_2026-2027_q023_page06_image1.webp"
+        ],
+        "questionIds": [
+          23,
+          24
+        ],
+        "questionNumbers": [
+          "23",
+          "24"
+        ],
+        "sourceStartPage": 6,
+        "sourceEndPage": 6,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 23,
+          "sourceNumber": "23"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 24,
+          "sourceNumber": "24"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.patiente-a",
+      "data": {
+        "id": "ue2.ed.2026-2027.patiente-a",
+        "title": "Patiente A",
+        "text": "Étude d’une patiente A présentant une cardiomyopathie hypertrophique causée par une variation du gène MYBPC3.",
+        "images": [],
+        "questionIds": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "questionNumbers": [
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ],
+        "sourceStartPage": 7,
+        "sourceEndPage": 7,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 25,
+          "sourceNumber": "25"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 26,
+          "sourceNumber": "26"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 27,
+          "sourceNumber": "27"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 28,
+          "sourceNumber": "28"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 29,
+          "sourceNumber": "29"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 30,
+          "sourceNumber": "30"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 31,
+          "sourceNumber": "31"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 36,
+          "sourceNumber": "36"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.bases-patiente-a",
+      "data": {
+        "id": "ue2.ed.2026-2027.bases-patiente-a",
+        "title": "Substitution nucléotidique de la patiente A",
+        "text": "L’analyse moléculaire faite sur l’ADN de cette patiente a permis d’identifier une substitution nucléotidique sur le gène MYBPC3. Ce changement concerne les bases représentées ci-dessous : à gauche, la base normale ; à droite, la base mutée.",
+        "images": [
+          "static/ue2_ue2_ed_2026-2027_q026_page07_image1.webp"
+        ],
+        "questionIds": [
+          27,
+          28,
+          29
+        ],
+        "questionNumbers": [
+          "27",
+          "28",
+          "29"
+        ],
+        "sourceStartPage": 7,
+        "sourceEndPage": 7,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 27,
+          "sourceNumber": "27"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 28,
+          "sourceNumber": "28"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 29,
+          "sourceNumber": "29"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.figure3",
+      "data": {
+        "id": "ue2.ed.2026-2027.figure3",
+        "title": "Séquençage de la patiente A — figure 3",
+        "text": "Le séquençage de l’ADN de cette patiente sur une partie du gène MYBPC3 a abouti à l’électrophorégramme représenté ci-dessous (Figure 3) et a permis d’identifier la variation recherchée (voir flèche). En effet, sachant qu’un pic correspond à un nucléotide, au niveau d’une position précise du génome, on peut visualiser 2 pics superposés (voir flèche).\nFigure 3. Séquence partielle du gène MYBPC3 de l’ADN de la patiente (brin sens).",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_figure3.webp"
+        ],
+        "questionIds": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "questionNumbers": [
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ],
+        "sourceStartPage": 8,
+        "sourceEndPage": 8,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 30,
+          "sourceNumber": "30"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 31,
+          "sourceNumber": "31"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 36,
+          "sourceNumber": "36"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.figures4-5",
+      "data": {
+        "id": "ue2.ed.2026-2027.figures4-5",
+        "title": "Localisation de la variation — figures 4 et 5",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_figures4_5.webp"
+        ],
+        "questionIds": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "questionNumbers": [
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ],
+        "sourceStartPage": 8,
+        "sourceEndPage": 8,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 31,
+          "sourceNumber": "31"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 32,
+          "sourceNumber": "32"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 33,
+          "sourceNumber": "33"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 34,
+          "sourceNumber": "34"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 35,
+          "sourceNumber": "35"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 36,
+          "sourceNumber": "36"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.patients-bc",
+      "data": {
+        "id": "ue2.ed.2026-2027.patients-bc",
+        "title": "Patients B et C — l’exon 2",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_sequence_exon2.webp"
+        ],
+        "questionIds": [
+          37,
+          38,
+          39,
+          40
+        ],
+        "questionNumbers": [
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "sourceStartPage": 10,
+        "sourceEndPage": 10,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 38,
+          "sourceNumber": "38"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 40,
+          "sourceNumber": "40"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.patient-b",
+      "data": {
+        "id": "ue2.ed.2026-2027.patient-b",
+        "title": "Séquençage du patient B",
+        "text": "La séquence partielle de l’exon 2 du gène MYBPC3 du patient B correspond à l’électrophorégramme ci-dessous. Ces données concernent les QCM 37 et 38.",
+        "images": [
+          "static/ue2_ue2_ed_2026-2027_q037_page10_image1.webp"
+        ],
+        "questionIds": [
+          37,
+          38
+        ],
+        "questionNumbers": [
+          "37",
+          "38"
+        ],
+        "sourceStartPage": 10,
+        "sourceEndPage": 10,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 37,
+          "sourceNumber": "37"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 38,
+          "sourceNumber": "38"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.2026-2027.patient-c",
+      "data": {
+        "id": "ue2.ed.2026-2027.patient-c",
+        "title": "Variation du patient C",
+        "text": "La séquence partielle de l’exon 2 du gène MYBPC3 du patient C a permis de mettre en évidence la délétion de la cytosine qui correspond au 4ème nucléotide de l’exon 2.",
+        "images": [],
+        "questionIds": [
+          39,
+          40
+        ],
+        "questionNumbers": [
+          "39",
+          "40"
+        ],
+        "sourceStartPage": 10,
+        "sourceEndPage": 10,
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 39,
+          "sourceNumber": "39"
+        },
+        {
+          "bank": "ue2.ed.2026-2027",
+          "id": 40,
+          "sourceNumber": "40"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2013-2014-exon1",
+      "data": {
+        "id": "ue2.ed.annales.2013-2014-exon1",
+        "title": "2013–2014 — Exon 1 et intron 1",
+        "text": "La séquence d’ADN représentée ci-dessous contient l’exon 1, dans lequel se trouve le codon d’initiation de la traduction (voir séquence soulignée), mais également le début de l’intron 1 d’un gène nucléaire eucaryote (figure 1).",
+        "images": [
+          "static/biomol_ed_revision_annales_2013_figure1.webp"
+        ],
+        "questionIds": [
+          2,
+          3,
+          4
+        ],
+        "questionNumbers": [
+          "24",
+          "25",
+          "26"
+        ],
+        "sourceStartPage": 1,
+        "sourceEndPage": 1,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 2,
+          "sourceNumber": "24"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 3,
+          "sourceNumber": "25"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 4,
+          "sourceNumber": "26"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2014-2015-exon40",
+      "data": {
+        "id": "ue2.ed.annales.2014-2015-exon40",
+        "title": "2014–2015 — Exon 40",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2014_exon40.webp"
+        ],
+        "questionIds": [
+          5,
+          6,
+          7
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 2,
+        "sourceEndPage": 2,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 5,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 6,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 7,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2015-2016-itgb3",
+      "data": {
+        "id": "ue2.ed.annales.2015-2016-itgb3",
+        "title": "2015–2016 — SNP du gène ITGB3",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2015_snps.webp"
+        ],
+        "questionIds": [
+          8,
+          9
+        ],
+        "questionNumbers": [
+          "3",
+          "4"
+        ],
+        "sourceStartPage": 3,
+        "sourceEndPage": 3,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 8,
+          "sourceNumber": "3"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 9,
+          "sourceNumber": "4"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2016-2017-tnni3",
+      "data": {
+        "id": "ue2.ed.annales.2016-2017-tnni3",
+        "title": "2016–2017 — Exon 4 du gène TNNI3",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2016_tnni3.webp"
+        ],
+        "questionIds": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "sourceStartPage": 4,
+        "sourceEndPage": 4,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 10,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 11,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 12,
+          "sourceNumber": "3"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 13,
+          "sourceNumber": "4"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2017-2018-kcne1",
+      "data": {
+        "id": "ue2.ed.annales.2017-2018-kcne1",
+        "title": "2017–2018 — Gène KCNE1",
+        "text": "Enoncé commun aux QCM 1 à 3 : La séquence (orientée 5'→ 3') des 4 exons qui composent un gène eucaryote codant un canal potassique dénommé KCNE1 est présentée ci-dessous. Le codon d'initiation de la traduction est indiqué en gras et souligné. La protéine KCNEl est composée de 129 résidus d'acides aminés.",
+        "images": [
+          "static/biomol_ed_revision_annales_2017_kcne1.webp"
+        ],
+        "questionIds": [
+          14,
+          15,
+          16
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 5,
+        "sourceEndPage": 5,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 14,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 15,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 16,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2018-2019-myl3",
+      "data": {
+        "id": "ue2.ed.annales.2018-2019-myl3",
+        "title": "2018–2019 — Gène MYL3",
+        "text": "Enoncé commun aux QCM 1 à 3. Le gène MYL3, localisé sur le chromosome 3 (3p21.2-3p21.3), code pour une chaine légère de la myosine. Il est composé de 7 exons. Des mutations de ce gène ont été rapportées chez des patients atteints de cardiomyopathie. Le codon d'initiation de la traduction et le codon stop sont indiqués en gras et en souligné.",
+        "images": [
+          "static/ue2_ue2_ed_annales_q016_page06_image1.webp"
+        ],
+        "questionIds": [
+          17,
+          18,
+          19
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 6,
+        "sourceEndPage": 6,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 17,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 18,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 19,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2019-2018-source-gene7exons",
+      "data": {
+        "id": "ue2.ed.annales.2019-2018-source-gene7exons",
+        "title": "Annale « 2019–2018 » — Gène à 7 exons",
+        "text": "Enoncé commun aux QCM 1 à 3. Le gène ci-dessous, est localisé sur le chromosome 3 (3p21.2-3p21.3), et code une protéine musculaire. Il est composé de 7 exons. Des variations pathogènes de ce gène ont été rapportées chez des patients présentant des pathologies cardiaques héréditaires à risque de mort subite. Le codon d'initiation de la traduction et le codon stop sont indiqués en gras et en souligné.",
+        "images": [
+          "static/biomol_ed_revision_annales_2019_source_myl3.webp"
+        ],
+        "questionIds": [
+          20,
+          21
+        ],
+        "questionNumbers": [
+          "1",
+          "2"
+        ],
+        "sourceStartPage": 7,
+        "sourceEndPage": 7,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 20,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 21,
+          "sourceNumber": "2"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2020-2021-s1-canal-potassique",
+      "data": {
+        "id": "ue2.ed.annales.2020-2021-s1-canal-potassique",
+        "title": "2020–2021, session 1 — Canal potassique",
+        "text": "",
+        "images": [
+          "static/ue2_ue2_ed_annales_q020_page08_image1.webp"
+        ],
+        "questionIds": [
+          22,
+          23,
+          24
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 8,
+        "sourceEndPage": 8,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 22,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 23,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 24,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2020-2021-s2-exon34",
+      "data": {
+        "id": "ue2.ed.annales.2020-2021-s2-exon34",
+        "title": "2020–2021, session 2 — Exon 34",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2020_s2_exon34.webp"
+        ],
+        "questionIds": [
+          25,
+          26
+        ],
+        "questionNumbers": [
+          "1",
+          "2"
+        ],
+        "sourceStartPage": 9,
+        "sourceEndPage": 9,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 25,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 26,
+          "sourceNumber": "2"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2021-2022-tnni3",
+      "data": {
+        "id": "ue2.ed.annales.2021-2022-tnni3",
+        "title": "2021–2022 — Exon 4 du gène TNNI3",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2021_tnni3.webp"
+        ],
+        "questionIds": [
+          27,
+          28,
+          29
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 9,
+        "sourceEndPage": 9,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 27,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 28,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 29,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2021-2022-oligonucleotide",
+      "data": {
+        "id": "ue2.ed.annales.2021-2022-oligonucleotide",
+        "title": "Le fragment d’ADN des QCM 2 et 3",
+        "text": "Vous avez à votre disposition un court fragment d’ADN simple brin dont la séquence est : 5’ GCGGAGATCTTAGATTTTTT 3’.",
+        "images": [],
+        "questionIds": [
+          28,
+          29
+        ],
+        "questionNumbers": [
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 9,
+        "sourceEndPage": 9,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 28,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 29,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2022-2023-tnnt2",
+      "data": {
+        "id": "ue2.ed.annales.2022-2023-tnnt2",
+        "title": "2022–2023 — Gène TNNT2",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2022_tnnt2.webp"
+        ],
+        "questionIds": [
+          30,
+          31,
+          32
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 10,
+        "sourceEndPage": 10,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 30,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 31,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 32,
+          "sourceNumber": "3"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2023-2024-mybpc3",
+      "data": {
+        "id": "ue2.ed.annales.2023-2024-mybpc3",
+        "title": "2023–2024 — Exon 34 du gène MYBPC3",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2023_mybpc3.webp"
+        ],
+        "questionIds": [
+          33,
+          34,
+          35,
+          36
+        ],
+        "questionNumbers": [
+          "47",
+          "48",
+          "49",
+          "50"
+        ],
+        "sourceStartPage": 10,
+        "sourceEndPage": 10,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 33,
+          "sourceNumber": "47"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 34,
+          "sourceNumber": "48"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 35,
+          "sourceNumber": "49"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 36,
+          "sourceNumber": "50"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2024-2025-s1-pln",
+      "data": {
+        "id": "ue2.ed.annales.2024-2025-s1-pln",
+        "title": "2024–2025, session 1 — Gène PLN",
+        "text": "Enoncé commun aux questions 1 à 3. La séquence représentée ci-dessous est celle du brin sens de l’exon 2 du gène PLN (taille de l’exon 2 : 2892 pb). Ce gène, localisé sur le chromosome 6, est composé de 2 exons et code le phospholamban qui est une protéine constituée de 52 résidus d’acides aminés. Le codon d’initiation de la traduction est indiqué en gras et souligné dans la figure 1 ci-dessous.",
+        "images": [
+          "static/biomol_ed_revision_annales_2024_s1_pln.webp"
+        ],
+        "questionIds": [
+          37,
+          38,
+          39,
+          40
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "sourceStartPage": 11,
+        "sourceEndPage": 11,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 37,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 38,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 39,
+          "sourceNumber": "3"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 40,
+          "sourceNumber": "4"
+        }
+      ]
+    },
+    {
+      "unit": "biomol_ed",
+      "id": "ue2.ed.annales.2024-2025-s2-tnnc1",
+      "data": {
+        "id": "ue2.ed.annales.2024-2025-s2-tnnc1",
+        "title": "2024–2025, session 2 — Gène TNNC1",
+        "text": "",
+        "images": [
+          "static/biomol_ed_revision_annales_2024_s2_tnnc1.webp"
+        ],
+        "questionIds": [
+          41,
+          42,
+          43
+        ],
+        "questionNumbers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "sourceStartPage": 12,
+        "sourceEndPage": 12,
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf"
+      },
+      "members": [
+        {
+          "bank": "ue2.ed.annales",
+          "id": 41,
+          "sourceNumber": "1"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 42,
+          "sourceNumber": "2"
+        },
+        {
+          "bank": "ue2.ed.annales",
+          "id": 43,
+          "sourceNumber": "3"
+        }
+      ]
+    }
+  ]
+}

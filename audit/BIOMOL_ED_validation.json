@@ -1,0 +1,239 @@
+{
+  "status": "PASS",
+  "banks": {
+    "ue2.ed.2025-2026": 43,
+    "ue2.ed.2026-2027": 40,
+    "ue2.ed.annales": 43
+  },
+  "questions": 126,
+  "options": 630,
+  "sharedContexts": 37,
+  "keyRepairs": [
+    {
+      "bank": "ue2.ed.annales",
+      "id": 6,
+      "sourceNumber": "2",
+      "category": "2014-2015",
+      "oldAnswer": "",
+      "newAnswer": "C",
+      "subjectFile": "3. Annales ED LS ENONCE-1.pdf",
+      "subjectPdf": "sources/biomol_ed_annales_sujet.pdf",
+      "subjectPage": 2,
+      "question": "Le site accepteur d'épissage de l'intron 39 est localisé au niveau des nucléotides :",
+      "correctionFile": "3. Annales ED LS CORRECTION.pdf",
+      "correctionPdf": "sources/biomol_ed_annales_corrige.pdf",
+      "correctionPage": 3,
+      "solutionBBox": [
+        35,
+        170,
+        573,
+        278
+      ],
+      "reason": "Association de transcription erronée dans la banque initiale ; concordance du sujet et du corrigé vérifiée par année, numéro et texte."
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "id": 7,
+      "sourceNumber": "3",
+      "category": "2014-2015",
+      "oldAnswer": "A",
+      "newAnswer": "B",
+      "subjectFile": "3. Annales ED LS ENONCE-1.pdf",
+      "subjectPdf": "sources/biomol_ed_annales_sujet.pdf",
+      "subjectPage": 2,
+      "question": "Le nombre de résidus d'acides aminés codés par l'exon 40 est :",
+      "correctionFile": "3. Annales ED LS CORRECTION.pdf",
+      "correctionPdf": "sources/biomol_ed_annales_corrige.pdf",
+      "correctionPage": 3,
+      "solutionBBox": [
+        35,
+        395,
+        573,
+        530
+      ],
+      "reason": "Association de transcription erronée dans la banque initiale ; concordance du sujet et du corrigé vérifiée par année, numéro et texte."
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "id": 8,
+      "sourceNumber": "3",
+      "category": "2015-2016",
+      "oldAnswer": "",
+      "newAnswer": "BC",
+      "subjectFile": "3. Annales ED LS ENONCE-1.pdf",
+      "subjectPdf": "sources/biomol_ed_annales_sujet.pdf",
+      "subjectPage": 3,
+      "question": "A propos de ces SNP :",
+      "correctionFile": "3. Annales ED LS CORRECTION.pdf",
+      "correctionPdf": "sources/biomol_ed_annales_corrige.pdf",
+      "correctionPage": 4,
+      "solutionBBox": [
+        35,
+        138,
+        573,
+        229
+      ],
+      "reason": "Association de transcription erronée dans la banque initiale ; concordance du sujet et du corrigé vérifiée par année, numéro et texte."
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "id": 13,
+      "sourceNumber": "4",
+      "category": "2016-2017",
+      "oldAnswer": "",
+      "newAnswer": "BD",
+      "subjectFile": "3. Annales ED LS ENONCE-1.pdf",
+      "subjectPdf": "sources/biomol_ed_annales_sujet.pdf",
+      "subjectPage": 4,
+      "question": "Vous avez à votre disposition un court fragment d'ADN simple brin dont la séquence est : ''GCGGAGATCTTAGATTTTTT\". Ce fragment correspond à une séquence présente dans :",
+      "correctionFile": "3. Annales ED LS CORRECTION.pdf",
+      "correctionPdf": "sources/biomol_ed_annales_corrige.pdf",
+      "correctionPage": 6,
+      "solutionBBox": [
+        35,
+        447,
+        573,
+        568
+      ],
+      "reason": "Association de transcription erronée dans la banque initiale ; concordance du sujet et du corrigé vérifiée par année, numéro et texte."
+    }
+  ],
+  "allOtherKeysUnchanged": true,
+  "idsAndStorageUnchanged": true,
+  "subjectAssets": 67,
+  "correctionAssets": 43,
+  "newAssets": 96,
+  "reusedAssets": 14,
+  "newAssetBytes": 4195670,
+  "assetCount": 110,
+  "allAssetsReferenced": true,
+  "allPreCorrectionAssetsFromSubjects": true,
+  "noClippedCorrectionTextLines": true,
+  "sourceFoliosExcludedByCoordinates": [
+    {
+      "page": 1,
+      "text": "1",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 2,
+      "text": "2",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 3,
+      "text": "3",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 4,
+      "text": "4",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 5,
+      "text": "5",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 6,
+      "text": "6",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 7,
+      "text": "7",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 8,
+      "text": "8",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 9,
+      "text": "9",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        542.1400146484375,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 10,
+      "text": "10",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        547.6600341796875,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 11,
+      "text": "11",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        547.6600341796875,
+        827.8646240234375
+      ]
+    },
+    {
+      "page": 12,
+      "text": "12",
+      "bbox": [
+        531.0999755859375,
+        815.643310546875,
+        547.6600341796875,
+        827.8646240234375
+      ]
+    }
+  ],
+  "sha256": {
+    "overrides.json": "ffd4242a2f5b683dce4c80cca9820b9b2531bf82393d788977c01bf79198f3e0",
+    "assets_manifest.json": "9a7483170aebe06b1f1ca2c3df433241f3747bf8dbfd9e871dd28746c1c47159",
+    "answer_key_repairs.json": "2cf71c677e177798d855f0a40d4ee2913ecd15163aa48ea96f6b2b0de05b37fe"
+  }
+}

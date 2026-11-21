@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "banks": 31,
+  "contexts_checked": 92,
+  "filtered_group_checks": 92,
+  "checks": [
+    "Shared block precedes first visible question",
+    "Shared text search retains all group members",
+    "Filtering retains common images and text",
+    "Nested context shown only for its subgroup",
+    "One block per contiguous group",
+    "Context link present for direct question navigation"
+  ],
+  "limitation": "Application HTML/state validation with deterministic DOM; no native browser layout test."
+}

@@ -30,11 +30,11 @@ Le manifeste JSON donne, pour chacun des 138 QCM, les pages, numéros, clés cou
 ## Relectures et corrections techniques
 
 1. **Inventaire sujet par sujet** — 14 sujets et 14 corrigés identifiés ; 138 numéros d’origine, dont 3 réponses numériques codées.
-2. **Énoncés et dépendances** — Consignes relues ; contextes communs repris, y compris lorsqu’ils débutent à la page précédente ; dépendances et aides de calcul visibles.
+2. **Énoncés et dépendances** — Les 14 sujets sont relus : 39 blocs partagés explicites, consignes locales séparées, données de pages précédentes et aides de calcul conservées. La consigne d’intervalle demandée en 2018 Q2 est rétablie pour Q3.
 3. **Clés de correction** — 138 comparaisons : grille courte = clé détaillée ; un conflit additionnel entre clé et verdicts VRAI/FAUX neutralisé hors note.
-4. **Images et mathématiques** — Formules, exposants, tableaux codés et figures conservés en extraits originaux ; panneaux A–E utilisés lorsque les équations se chevauchent verticalement.
+4. **Images et mathématiques** — Les 16 panneaux A–E regroupés sont remplacés par 80 captures distinctes, une par proposition, relues visuellement. Formules, exposants, tableaux codés et figures sont conservés.
 5. **Contrôle anti-fuite** — 68 pages de sujets examinées en planches, cas graphiques/mathématiques sensibles agrandis. Aucune annotation de correction repérée. Toutes les images visibles avant correction appartiennent à des pages sujet.
-6. **Structure et références** — IDs, stockage, numérotation, cinq options, titres, images existantes et 100 % des références/provenances validés.
+6. **Structure et références** — IDs, clés de correction et stockages inchangés par rapport à v1 ; cinq options par question ; objets sharedContexts identiques entre leurs membres ; références et provenances validées.
 
 ## Anomalies du document source
 
@@ -46,9 +46,10 @@ Le manifeste JSON donne, pour chacun des 138 QCM, les pages, numéros, clés cou
 
 ## Cas particuliers et contrat de rendu
 
-- `stemImages` contient les énoncés communs, tableaux, figures, aides de calcul et, lorsque nécessaire, un panneau complet des propositions A–E. Les choix correspondants portent alors « Proposition A… » ; le texte mathématique extrait et potentiellement déformé reste seulement dans `sourceOptions`, pour audit.
+- `sharedContexts` contient les blocs communs, avec identifiant stable, texte ou images, numéros des questions concernées et pages source. Le moteur les affiche une seule fois avant le premier membre visible, y compris après filtrage.
+- `stemImages` conserve uniquement les données et figures locales à la question ainsi que les trois tableaux de réponses numériques codées. Les anciens panneaux A–E sont supprimés de ce champ : chaque item concerné possède sa propre `option.image`, avec un texte vide pour éviter les fragments mathématiques déformés.
 - Les Q2 et Q4 de PACES 2019–2020 et le Q2 de PACES 2018–2019 utilisent un tableau de codes : l’utilisateur coche les lettres associées à la valeur numérique choisie. Les trois tableaux originaux sont visibles avant réponse.
-- `sourceContext` sert à la recherche et à l’audit. Tout son contenu pédagogique est également visible dans `stemImages` ; ne pas l’afficher en doublon.
+- `sourceContext` sert à la recherche et à l’audit. Son contenu est visible dans `sharedContexts` ou `stemImages` ; ne pas l’afficher en doublon.
 - `correctionImages` doit rester caché jusqu’à la correction. Les explications mathématiques renvoient à ces extraits exacts.
 - `originalImages` contient le QCM d’origine complet en contrôle secondaire, sans correction.
 - `referenceImages` contient les tables et formulaire propres à PACES 2019–2020 (p667–670) et PACES 2020–2021 (p619–622). Pour les autres sujets, seules les trois tables statistiques p667–669 sont proposées, avec `referenceTitle` et `referenceNote` indiquant explicitement leur provenance ; le formulaire n’est pas ajouté.
@@ -56,7 +57,7 @@ Le manifeste JSON donne, pour chacun des 138 QCM, les pages, numéros, clés cou
 
 ## Résultat des contrôles automatiques
 
-434 images WebP utilisées, 18.61 Mo. 138/138 clés concordent entre grilles courtes et clés détaillées ; 137 questions sont automatiquement notées. Aucun asset manquant ni référence de corrigé dans les champs d’énoncé. Identifiants et clés de sauvegarde propres aux nouvelles banques. Les rendus temporaires inutilisés ont été retirés.
+492 images WebP utilisées, 18.44 Mo. 138/138 clés concordent entre grilles courtes et clés détaillées ; 137 questions sont automatiquement notées. Aucun asset manquant ni référence de corrigé dans les champs d’énoncé. Identifiants et clés de sauvegarde propres aux nouvelles banques. Les rendus temporaires inutilisés ont été retirés.
 
 ## Limite de la vérification
 

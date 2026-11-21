@@ -2,21 +2,27 @@
 
 ## Instructions à conserver
 
-Préserver les banques UE1, UE5 et biologie moléculaire UE2 existantes. N’ajouter aucun QCM antérieur à 2015. Traiter un sujet et son corrigé à la fois, puis relire consignes, propositions, schémas et clés. Ne pas confondre annales PASS et PACES d’une même année. Les contextes peuvent commencer à la page précédente.
+Préserver les banques UE1, UE5 et biologie moléculaire UE2 hors ED. La demande du 21 novembre 2026 autorise les corrections ciblées d’énoncés/items des banques ue2.ed.annales, ue2.ed.2025-2026 et ue2.ed.2026-2027 ; leurs IDs, pondérations et sauvegardes restent inchangés. Seules quatre clés des annales ED sont réappariées au corrigé : locaux6 C,7 B,8 BC,13 BD (PDF corrigé p3,4,6). N’ajouter aucun QCM antérieur à 2015. Traiter un sujet et son corrigé à la fois, puis relire consignes, propositions, schémas et clés. Ne pas confondre annales PASS et PACES d’une même année. Les contextes peuvent commencer à la page précédente.
 
 Les titres contiennent les consignes ; fichier/page restent discrets. Aucune correction ni identification manuscrite ne doit apparaître dans les panneaux de l’énoncé. Prendre les figures exactes du sujet, avec toute leur information scientifique. Documenter tout recadrage excluant une annotation. L’unique reproduction de figure depuis un corrigé est le schéma UE2 2020 S1 Q30, p322, rectangle [42.85,212.59,538.55,337.09] : contrôlé sans réponses, rôle distinct et provenance explicite.
 
-Une contradiction formelle entre clés/verdicts, une correction absente ou un item matériellement différent entraîne un QCM hors note. Ne jamais inventer une clé. Les erreurs purement typographiques sont signalées et la source reste consultable.
+Dans les annales importées UE2c/UE3/UE4, une contradiction formelle entre clés/verdicts, une correction absente ou un item matériellement différent entraîne un QCM hors note. Les ED biomol suivent leurs clés imprimées, avec réserves de source explicitement affichées pour ED2026 Q31 et annales ED local38 ; ne pas interpréter ces réserves comme une résolution scientifique de la contradiction. Ne jamais inventer une clé. Les erreurs purement typographiques sont signalées et la source reste consultable.
 
 ## Structure
 
 `index.html` contient le style, l’interface et le script. `const EXAMS=` est un objet JSON, suivi de `const EXAM_ORDER=`. Chaque banque possède une clé stable, une unité (`ue`), un cours (`courseId`), un type (`kind`), les libellés, une clé de sauvegarde (`storage`) et une liste de questions (`questions`).
 
-Unités protégées : `ue1`, `ue2b`, `ue5h`, `ue5b`, `ue5e` — 80 banques / 1 950 questions. Nouvelles unités : `ue2c`, `ue3`, `ue4` — 276 banques / 838 questions. Les empreintes des banques et images de référence sont conservées dans `audit/empreintes_base_protegee.json`.
+Banques originales : 80 / 1 950 questions. Parmi elles, 77 banques / 1 824 questions restent identiques ; seules les 3 banques ED biomol / 126 questions sont révisées pour la présentation fidèle de leurs énoncés, items, figures et annexes. Nouvelles unités : `ue2c`, `ue3`, `ue4` — 276 banques / 838 questions. Les empreintes des banques et images de référence sont conservées dans `audit/empreintes_base_protegee.json`.
 
 Une question possède un `id` local séquentiel. Le numéro d’origine est `sourceNumber`, avec `printedSourceNumber` et `correctionNumber` lorsque la numérotation diverge. `question` est la consigne ; `options` contient les cinq choix A–E. `answer` est la clé utilisée ; une chaîne vide signifie hors note sauf si `answerIsEmpty:true`. `rawAnswer` conserve, lorsqu’elle existe, la clé source écartée. `warning` explique les réserves.
 
-Champs de provenance : `sourceSubject`, `sourceCorrection`, `subjectPage`, `sourceStartPage`, `sourceEndPage`, `correctionPage`, `correctionEndPage`. Les pages sont celles du PDF compilé en base1.
+Champs de provenance : `sourceSubject`, `sourceCorrection`, `subjectPage`, `sourceStartPage`, `sourceEndPage`, `correctionPage`, `correctionEndPage`. Les pages sont celles du PDF compilé en base1, sauf pour les ED biomol dont sourcePdf/correctionPdf désignent le PDF distinct. Les fichiers source sont conservés sans modification.
+
+## Énoncés partagés
+
+`sharedContexts` contient une liste ordonnée de contextes : id stable, text, images, questionNumbers (source), questionIds si nécessaire, sourceStartPage, sourceEndPage, sourceFile et sourcePdf. Le même objet est attaché à tous les QCM concernés. Le rendu montre un bloc distinct avant le premier membre visible d’un groupe, puis les sous-contextes aux endroits nécessaires. La recherche inclut le texte partagé. Ne pas conserver le même paragraphe/figure dans un item ou dans les médias locaux.
+
+`references` contient les annexes repliables avec titre, images et provenance ; les données indispensables pour répondre restent dans l’énoncé commun visible. Les ED révisés portent contextRevised:true mais ne reçoivent pas fromCompilation ni l’option Aucune proposition ajoutée aux nouvelles annales.
 
 ## Images
 
