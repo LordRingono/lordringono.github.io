@@ -1,0 +1,987 @@
+{
+  "patches": [
+    {
+      "bank": "histo.ann.te",
+      "id": 18,
+      "set": {
+        "question": "Concernant le tissu épithélial, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "explanations": {
+          "A": "uniquement les couches superficielles",
+          "B": "il s’agit des microvillosités",
+          "C": "",
+          "D": "uniquement les cavités internes en relation avec le milieu extérieur",
+          "E": "cylindrique"
+        }
+      },
+      "reason": "Retrait des cinq propositions du QRM 10 et du titre de session absorbés dans la consigne ; retrait du titre de la question suivante dans la correction E. Clé BC conservée.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 5,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.te",
+      "id": 19,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "les cellules épithéliales ne sont pas séparées par de la substance fondamentale"
+          },
+          {
+            "id": "B",
+            "text": "les cellules épithéliales présentent des FI de cytohéparane"
+          },
+          {
+            "id": "C",
+            "text": "les cellules épithéliales sont impliquées dans le revêtement et/ou la sécrétion"
+          },
+          {
+            "id": "D",
+            "text": "l’épithélium cylindrique simple cilié est impliqué dans le transport des nutriments"
+          },
+          {
+            "id": "E",
+            "text": "les occludines sont des protéines de soudure des JS"
+          }
+        ],
+        "explanations": {
+          "A": "ce sont les cellules du TC qui le sont",
+          "B": "cytokératine",
+          "C": "",
+          "D": "il y a des microvillosités et pas des cils sur les cellules intestinales auxquelles elle fait référence",
+          "E": ""
+        }
+      },
+      "reason": "Le titre de la question 22 est retiré de l’item E et de son explication ; les cinq items et la clé ACE restent ceux du Q21 original.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.te",
+      "id": 21,
+      "set": {
+        "question": "Au sujet de l’urothélium, indiquez-la ou les affirmation(s) correcte(s) parmi les propositions suivantes :"
+      },
+      "reason": "Consigne seule dans le titre ; retrait de l’en-tête CC 2024–2025 et du numéro source déjà distinct des items. Aucun changement de clé.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 7,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 8,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "l'ossification endochondrale permet le développement de l'os par remplacement du cartilage hyalin."
+          },
+          {
+            "id": "B",
+            "text": "la première étape de l'ossification de membrane est la formation de groupes d'ostéoblastes en centre d'ossification."
+          },
+          {
+            "id": "C",
+            "text": "dans le processus d'ossification de membrane, les ostéoblastes périphériques forment le périoste."
+          },
+          {
+            "id": "D",
+            "text": "l'ossification endochondrale est un processus moins long que l'ossification de membrane."
+          },
+          {
+            "id": "E",
+            "text": "chez l'adulte, les cartilages de conjugaison ont disparu."
+          }
+        ],
+        "explanations": {
+          "A": "",
+          "B": "les cellules mésenchymateuses se regroupent et se transforment en osteoblastes",
+          "C": "",
+          "E": ", ils persistent tant que la croissance n’est pas terminée",
+          "D": "Faux : au contraire."
+        },
+        "warning": "",
+        "uncorrected": false
+      },
+      "reason": "Le choix D du QRM 29, absorbé dans C, est restauré avec sa correction propre. La clé source ABCE est inchangée ; la réserve d’import « clé incomplète » n’a plus lieu d’être.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 2,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 2,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 9,
+      "set": {
+        "explanations": {
+          "A": "",
+          "B": "",
+          "C": "ce sont les fibroblastes",
+          "D": "",
+          "E": "quiescentes"
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "ses cellules sont dispersées dans la matrice"
+          },
+          {
+            "id": "B",
+            "text": "les fibroblastes produisent les fibres de collagène"
+          },
+          {
+            "id": "C",
+            "text": "les adipocytes produisent de l’acide hyaluronique"
+          },
+          {
+            "id": "D",
+            "text": "myofibroblastes reposent sur une membrane basale"
+          },
+          {
+            "id": "E",
+            "text": "les fibrocytes sont des cellules très mobiles"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 10,
+      "set": {
+        "explanations": {
+          "A": "avec l’acide hyaluronique",
+          "B": "",
+          "C": "",
+          "E": "du TC réticulaire"
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "les protéoglycanes forment un complexe macromoléculaire avec le biglycan"
+          },
+          {
+            "id": "B",
+            "text": "le complexe macromoléculaire a une bonne résistance à la compression"
+          },
+          {
+            "id": "C",
+            "text": "les fibres insolubles sont représentées par le collagène et l’élastine"
+          },
+          {
+            "id": "D",
+            "text": "les fibres d’élastine représentent 90% de la matrice extracellulaire de type 1"
+          },
+          {
+            "id": "E",
+            "text": "les fibres de réticuline forment l’armature du TC lâche"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 11,
+      "set": {
+        "explanations": {
+          "A": "",
+          "B": "ils sont dans les chondroplastes",
+          "C": "",
+          "D": "collagène II",
+          "E": ""
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "ils sont dépourvus de vascularisation sanguine"
+          },
+          {
+            "id": "B",
+            "text": "les chondrocytes sont mobiles dans la MEC"
+          },
+          {
+            "id": "C",
+            "text": "ils sont formés de 90% de matrice extracellulaire et de 10% de cellules"
+          },
+          {
+            "id": "D",
+            "text": "leur MEC est formée essentiellement de collagène I"
+          },
+          {
+            "id": "E",
+            "text": "leur SF est minéralisée"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 12,
+      "set": {
+        "explanations": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "E": "→ disques intervertébraux"
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "le cartilage hyalin est le plus répandu dans l’organisme"
+          },
+          {
+            "id": "B",
+            "text": "le cartilage hyalin forme le cartilage articulaire"
+          },
+          {
+            "id": "C",
+            "text": "l’arthrose est une pathologie destructrice du cartilage hyalin"
+          },
+          {
+            "id": "D",
+            "text": "le cartilage élastique correspond au cartilage de conjugaison"
+          },
+          {
+            "id": "E",
+            "text": "le fibrocartilage présente une bonne résistance mécanique"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 13,
+      "set": {
+        "explanations": {
+          "A": "",
+          "B": "c’est la moins hydratée de l’organisme 50%",
+          "C": "",
+          "D": "vitamine D",
+          "E": ""
+        }
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 21,
+      "set": {
+        "explanations": {
+          "A": "dans les vésicules de sécrétion ensuite on aura des fibres de 300nm dans la MEC",
+          "B": "",
+          "C": "c’est le fibroblaste qui est actif",
+          "D": "la média",
+          "E": "hydrophile"
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "Les molécules de tropocollagène s'associent pour former des fibrilles."
+          },
+          {
+            "id": "B",
+            "text": "Les cellules résidentes sont dispersées dans la matrice extracellulaire."
+          },
+          {
+            "id": "C",
+            "text": "Le fibrocyte est la cellule active synthétisant la matrice extracellulaire."
+          },
+          {
+            "id": "D",
+            "text": "La paroi de l'aorte est très riche en fibres élastiques."
+          },
+          {
+            "id": "E",
+            "text": "Le complexe macromoléçulaire de la matrice extracellulaire est très hydrophobe."
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 7,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 34,
+      "set": {
+        "explanations": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "et aussi dans la couche myentérique",
+          "E": ""
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "ils appartiennent au SN végétatif"
+          },
+          {
+            "id": "B",
+            "text": "ils appartiennent au système immunitaire"
+          },
+          {
+            "id": "C",
+            "text": "ils contiennent les corps cellulaires des neurones ganglionnaires et des cellules gliales entériques"
+          },
+          {
+            "id": "D",
+            "text": "ils sont localisés dans la muqueuse digestive"
+          },
+          {
+            "id": "E",
+            "text": "ils contrôlent les fonctions sensitives motrices et sécrétoires du TD"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 12,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 13,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 35,
+      "set": {
+        "explanations": {
+          "A": " les cils assurent le mouvement du LCS",
+          "B": "concavité ???",
+          "C": "",
+          "D": "plexus choroïdes",
+          "E": "?"
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "au sein des ventricules, il est au contact des épendymocytes qui sont des cellules ciliées"
+          },
+          {
+            "id": "B",
+            "text": "sur la convexité, il est localisé dans les espaces sous-arachnoïdiens"
+          },
+          {
+            "id": "C",
+            "text": "il est sécrété par les épendymocytes des plexus choroïdes"
+          },
+          {
+            "id": "D",
+            "text": "il est sécrété par l’arachnoïde"
+          },
+          {
+            "id": "E",
+            "text": "en condition physiologique il est absorbé par l’épendyme"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 12,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 13,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 36,
+      "set": {
+        "explanations": {
+          "A": "",
+          "B": "pas de c/de schwann",
+          "C": "",
+          "D": "",
+          "E": ""
+        },
+        "options": [
+          {
+            "id": "A",
+            "text": "elle est constituée par des corps cellulaires neuronaux et gliaux, des capillaires et du neuropile"
+          },
+          {
+            "id": "B",
+            "text": "elle contient des astrocytes, des oligodendrocytes et des cellules de Schwann"
+          },
+          {
+            "id": "C",
+            "text": "elle est le siège des synapses neuro-neuronales"
+          },
+          {
+            "id": "D",
+            "text": "elle contient des cellules microgliales dont la morphologie varie en fonction de l’activité"
+          },
+          {
+            "id": "E",
+            "text": "elle contient davantage de myéline que la substance blanche"
+          }
+        ]
+      },
+      "reason": "Retrait du titre et de la consigne du QCM suivant, absorbés dans le dernier item et/ou son explication. Items scientifiques et clé source inchangés ; la correction réellement incomplète TC10 reste hors note.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 12,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 13,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 5,
+      "set": {
+        "category": "Annales · mai 2019",
+        "year": "2018-2019",
+        "sourceNumber": 33
+      },
+      "reason": "Métadonnées de la session mai 2019 et contexte original rétablis. Les consignes « affirmation inexacte » utilisent un affichage À COCHER/NE PAS COCHER, sans inversion de la clé ; le paragraphe suivant Q34 est retiré de son item E et présenté avant Q35.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 6,
+      "set": {
+        "category": "Annales · mai 2019",
+        "year": "2018-2019",
+        "sourceNumber": 34,
+        "answerPolarity": "false",
+        "options": [
+          {
+            "id": "A",
+            "text": "Il s'agit d’une cellule post-mitotique, bloquée en phase G0 du cycle cellulaire."
+          },
+          {
+            "id": "B",
+            "text": "Il est le siège d’une intense activité traductionnelle comme l’atteste la pâleur de son noyau sur les colorations standards."
+          },
+          {
+            "id": "C",
+            "text": "Le segment initial de son axone est dépourvu de corps de Nissl, riche en canaux Na* voltage dépendant et siège de la genèse du potentiel d’action."
+          },
+          {
+            "id": "D",
+            "text": "Il s’agit d’une cellule neuronale pyramidale et multipolaire, dotée d’un prolongement dendritique apical."
+          },
+          {
+            "id": "E",
+            "text": "Il s’agit d’un neurone de projection de type Golgi I."
+          }
+        ]
+      },
+      "reason": "Métadonnées de la session mai 2019 et contexte original rétablis. Les consignes « affirmation inexacte » utilisent un affichage À COCHER/NE PAS COCHER, sans inversion de la clé ; le paragraphe suivant Q34 est retiré de son item E et présenté avant Q35.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 7,
+      "set": {
+        "category": "Annales · mai 2019",
+        "year": "2018-2019",
+        "sourceNumber": 35
+      },
+      "reason": "Métadonnées de la session mai 2019 et contexte original rétablis. Les consignes « affirmation inexacte » utilisent un affichage À COCHER/NE PAS COCHER, sans inversion de la clé ; le paragraphe suivant Q34 est retiré de son item E et présenté avant Q35.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 4,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 8,
+      "set": {
+        "category": "Annales · mai 2019",
+        "year": "2018-2019",
+        "sourceNumber": 36
+      },
+      "reason": "Métadonnées de la session mai 2019 et contexte original rétablis. Les consignes « affirmation inexacte » utilisent un affichage À COCHER/NE PAS COCHER, sans inversion de la clé ; le paragraphe suivant Q34 est retiré de son item E et présenté avant Q35.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 4,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 4,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 9,
+      "set": {
+        "category": "Annales · mai 2019",
+        "year": "2018-2019",
+        "sourceNumber": 37,
+        "answerPolarity": "false"
+      },
+      "reason": "Métadonnées de la session mai 2019 et contexte original rétablis. Les consignes « affirmation inexacte » utilisent un affichage À COCHER/NE PAS COCHER, sans inversion de la clé ; le paragraphe suivant Q34 est retiré de son item E et présenté avant Q35.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 4,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 5,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.col.s4",
+      "id": 29,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 5,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 5,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.col.s4",
+      "id": 30,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 5,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.col.s4",
+      "id": 35,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.col.s4",
+      "id": 36,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 7,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.col.s4",
+      "id": 44,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 7,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 8,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.col.s4",
+      "id": 45,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 8,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 8,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": 5,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+          "page": 2,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": 6,
+      "set": {
+        "warning": ""
+      },
+      "reason": "L’annonce originale et le schéma commun sont rétablis avant le groupe ; la réserve technique « consigne non récupérable » est devenue obsolète.",
+      "refs": [
+        {
+          "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+          "page": 2,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "bank": "histo.ann.te",
+      "afterId": 17,
+      "question": {
+        "id": 28,
+        "sourceNumber": 9,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu épithélial (TE)",
+        "question": "Concernant le tissu épithélial, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "les cellules sont jointives, étroitement juxtaposées"
+          },
+          {
+            "id": "B",
+            "text": "les cellules sont solidarisées par des systèmes de jonction"
+          },
+          {
+            "id": "C",
+            "text": "les filaments intermédiaires sont constitués de vimentine"
+          },
+          {
+            "id": "D",
+            "text": "les cellules reposent directement sur le tissu conjonctif"
+          },
+          {
+            "id": "E",
+            "text": "les cellules ne sont pas en contact des capillaires sanguins"
+          }
+        ],
+        "answer": "ABE",
+        "explanations": {
+          "A": "Vrai.",
+          "B": "Vrai.",
+          "C": "Faux : de cytokératine sauf pour les épithéliums apparentés comme l’endothélium ou les mésothéliums.",
+          "D": "Faux : sur la membrane basale.",
+          "E": "Vrai : le tissu épithélial est avasculaire."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 5,
+        "correctionPage": 5,
+        "correctionEndPage": 6,
+        "sourceSubject": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+        "sourceCorrection": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "weight": 1
+      },
+      "reason": "QRM complet présent dans les sujets et corrigés, mais absent de la banque : les QRM 9 et 10 n’avaient pas été individualisés et le second était absorbé dans la consigne du QCM 18. Nouvel identifiant libre, anciens identifiants préservés.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 5,
+          "label": "QRM 9, session 2 de juin 2024"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 5,
+          "label": "Correction du QRM 9"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 6,
+          "label": "Suite des verdicts C–E du QRM 9"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.te",
+      "afterId": 28,
+      "question": {
+        "id": 29,
+        "sourceNumber": 10,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu épithélial (TE)",
+        "question": "Concernant le tissu épithélial, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "un épithélium unistratifié pavimenteux présente une faible épaisseur"
+          },
+          {
+            "id": "B",
+            "text": "les cellules épithéliales cylindriques peuvent présenter des cils vibratiles"
+          },
+          {
+            "id": "C",
+            "text": "l’épithélium pavimenteux stratifié est constitué de 2 couches de cellules"
+          },
+          {
+            "id": "D",
+            "text": "les microvillosités sont présentes sur les faces latérales des cellules"
+          },
+          {
+            "id": "E",
+            "text": "les jonctions serrées permettent la diffusion des molécules"
+          }
+        ],
+        "answer": "AB",
+        "explanations": {
+          "A": "Vrai : il facilite les échanges.",
+          "B": "Vrai : comme dans les voies respiratoires.",
+          "C": "Faux : il s’agit de l’épithélium malpighien → nombreuses couches cellulaires, seule la plus apicale est pavimenteuse.",
+          "D": "Faux : sur la face apicale.",
+          "E": "Faux : elles contrôlent la diffusion des petites molécules."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 5,
+        "correctionPage": 6,
+        "correctionEndPage": 6,
+        "sourceSubject": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+        "sourceCorrection": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "weight": 1
+      },
+      "reason": "QRM complet présent dans les sujets et corrigés, mais absent de la banque : les QRM 9 et 10 n’avaient pas été individualisés et le second était absorbé dans la consigne du QCM 18. Nouvel identifiant libre, anciens identifiants préservés.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 5,
+          "label": "QRM 10, session 2 de juin 2024"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 6,
+          "label": "Correction du QRM 10"
+        }
+      ]
+    }
+  ]
+}

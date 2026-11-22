@@ -1,13 +1,32 @@
-# Révisions PASS Lyon-Sud — UE1, UE2, UE5
+# Site de révision PASS — V5
 
-Ouvrir `index.html` après décompression complète de l'archive. Le dossier `static/` contient les illustrations (ne pas le supprimer).
+Version du 22 novembre 2026. **2 806 QCM/fiches, 217 banques.** Les neuf autotests d’histologie ont été vérifiés intégralement : **128 QCM / 649 items**, avec une relecture indépendante et les copies du sujet et du corrigé pour chaque QCM.
 
-- UE1 SSH : 4 séries, 274 QCM (inchangés).
-- UE5 Histologie + Biologie cellulaire + Embryologie : 53 séries, 1 130 QCM (inchangés).
-- UE2 Biologie moléculaire : 23 séries, 546 questions, dont 25 hors note, 32 illustrées.
+## Ouvrir le site
 
-Le sélecteur de gauche permet de passer d'une UE à l'autre. Dans l'UE2, choisir un chapitre, puis *Autotests*, *Annales* ou *Exercices dirigés*.
+1. Décompresser toute l’archive.
+2. Ouvrir `index.html` dans le navigateur.
+3. Conserver `static/` et `sources/` à côté.
 
-La note suit le barème PASS 10 / 5 / 2 / 0 (0 erreur → 10 ; 1 → 5 ; 2 → 2 ; ≥3 → 0). Les questions non notables sont exclues du dénominateur. Les réponses sont sauvegardées localement et séparément par série.
+Le site fonctionne localement, sans compte ni serveur.
 
-Fichier `Points_a_verifier_UE2.md` : réserves et questions non notables. Les textes principaux sont issus des sujets non corrigés ; les corrections proviennent exclusivement des corrigés fournis.
+## Nouveautés histologie
+
+Les menus **Voir le sujet original** et **Voir le corrigé original** sont repliés par défaut. Le corrigé original n’apparaît qu’après correction du QCM. Les captures incluent les reprises sur la page suivante, les figures et les items. Les liens donnent accès au PDF complet et au Word non modifié lorsque le sujet était fourni en Word.
+
+Deux QCM de techniques histologiques manquants sont rétablis. Les mentions V/F de TE2 Q11 et le cas tout-faux de TC3 Q17 sont reconnus correctement. Les explications sont reprises item par item et les ambiguïtés sont signalées dans la correction. Voir [VERIFICATION_HISTOLOGIE_V5.md](VERIFICATION_HISTOLOGIE_V5.md).
+
+Les 208 banques hors de ces neuf autotests sont inchangées. Les annales d’histologie et la pharmacologie gardent leur organisation V4 ; les 336 QCM de pharmacologie restent regroupés en quinze thèmes. Aucun sujet absent des documents n’est inventé.
+
+## Progression et profils
+
+- Interrupteur activé : profil 1, correction des seuls QCM renseignés.
+- Interrupteur désactivé : profil 2, progression indépendante et correction globale.
+- « Aucune proposition » constitue une réponse volontaire, différente d’un blanc.
+- Recommencer ne remet à zéro que la série et le profil courants.
+
+Les identifiants existants sont conservés. Pour retrouver sa progression, utiliser le même navigateur et remplacer le site au même emplacement, en gardant `index.html`. Les réponses sont dans le navigateur, pas dans le ZIP.
+
+## Sources et contrôles
+
+`audit/histologie_v5/` contient la comparaison exhaustive et les tests de cette révision. Son fichier `fichiers_sha256.json` est le manifeste actuel ; les manifestes précédents restent historiques. `audit/revision_v4/` et les rapports historiques conservent le contrôle antérieur de toutes les unités. Les clés du tutorat restent distinctes des remarques scientifiques : les désaccords ne changent pas silencieusement la note officielle. `MAINTENANCE.md` décrit la structure à conserver.

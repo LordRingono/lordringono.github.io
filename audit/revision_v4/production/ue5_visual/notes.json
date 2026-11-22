@@ -1,0 +1,571 @@
+[
+  {
+    "bank": "histo.ann.tech",
+    "id": 39,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Le cours définit le formol comme une solution aqueuse de formaldéhyde, alors que l’item le nomme paraformaldéhyde et est accepté. Le commentaire du corrigé précise lui-même que cette équivalence n’a pas été enseignée cette année. La dénomination exacte mérite donc une vérification ; la clé ABD est conservée.",
+    "refs": [
+      {
+        "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "page": 11,
+        "label": "Q15 : verdicts et commentaire"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 12,
+        "label": "Définition du formol et liste des fixateurs"
+      }
+    ],
+    "sourceVerdict": "ABD ; B accepté et E refusé.",
+    "courseVerdict": "La page consultée précise le vocabulaire et les exemples du cours ; elle ne suffit pas à certifier toutes les équivalences ou exclusions chimiques.",
+    "noteId": "review-v4-ue5-visual-001"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 39,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "La ronéo cite bien le mélange acide acétique/méthanol, ce qui explique la réponse attendue. Cette liste de fixateurs n’est toutefois pas annoncée comme exhaustive : elle ne suffit pas à démontrer qu’un mélange acide acétique/éthanol ne puisse servir de fixateur dans un autre protocole. À vérifier selon le protocole particulier visé par cette annale ; la clé ABD est conservée.",
+    "refs": [
+      {
+        "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "page": 11,
+        "label": "Q15 : verdicts et commentaire"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 12,
+        "label": "Définition du formol et liste des fixateurs"
+      }
+    ],
+    "sourceVerdict": "ABD ; B accepté et E refusé.",
+    "courseVerdict": "La page consultée précise le vocabulaire et les exemples du cours ; elle ne suffit pas à certifier toutes les équivalences ou exclusions chimiques.",
+    "noteId": "review-v4-ue5-visual-002"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 7,
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "Le corrigé retient A et commence son commentaire par « VRAI », puis conclut le même commentaire par « donc FAUX ». Cette contradiction se trouve déjà dans la source. De plus, la figure 1 citée par l’énoncé manque dans le sujet et le corrigé fournis ; seules les figures de C, D et E sont présentes. La clé A est conservée. Il faut retrouver le schéma initial de l’expérience dans l’annale 2022–2023 S1 ou la ronéo correspondante pour arbitrer ce verdict.",
+    "refs": [
+      {
+        "file": "Correction ACC membranes biologiques.pdf",
+        "page": 7,
+        "label": "QCM 36 A : VRAI puis donc FAUX"
+      },
+      {
+        "file": "ACC membranes biologiques.pdf",
+        "page": 5,
+        "label": "La figure 1 annoncée ne figure pas sur la page"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : A",
+    "reviewedItemText": {
+      "A": "A la fin de l’expérience, les ions ont migré de gauche à droite pour atteindre une situation d’équilibre. Ainsi, dans le cas A on obtient dans les deux compartiments 1 et 2 une concentration finale de NaCl de 0,5M et dans le cas B on obtient les concentrations suivantes : o Dans le compartiment 1 : Na+ : 0,33M ; Cl- : 1,33M ; P+ : 1M o Dans le compartiment 2 : Na+ : 0,66M ; Cl- : 0,66M"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "review-v4-ue5-visual-003"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 4,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "L’item E reste faux, mais la justification du corrigé est à rectifier. Sur le schéma, les bases indiquées sont A, C, T du haut vers le bas, dans le sens 5′ vers 3′ du squelette : la lecture est ACT. Le commentaire raisonne en sens inverse et affirme que la présence d’un oxygène exclurait A ; cet oxygène appartient au sucre du nucléotide, pas à une base adénine dessinée. Le verdict et la justification ne doivent pas être confondus.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 5,
+        "label": "Figure 5 et justification de E"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "E": "Le codon représenté sur le brin codant illustré ci-dessous se lit TCA :"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "review-v4-ue5-visual-004"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 7,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Item B : la flèche relie le cytoplasme au nucléoplasme. La formulation « traverser 2 membranes » peut être comprise comme le franchissement de deux bicouches lipidiques. Or la ronéo décrit un passage par le canal du complexe du pore nucléaire, qui relie directement ces deux compartiments au travers de l’enveloppe. L’enveloppe comporte bien deux membranes, mais cela ne signifie pas que la protéine traverse successivement leurs bicouches. À vérifier dans la formulation attendue de cette annale ; la clé BD est conservée.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 8,
+        "label": "QCM 32 B : traversée de deux membranes"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 13,
+        "label": "Canal du pore reliant cytosol et intérieur du noyau"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 14,
+        "label": "Passage des protéines par les pores"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BD",
+    "reviewedItemText": {
+      "B": "Pour passer du point (1) au point (2), les protéines doivent traverser 2 membranes."
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "review-v4-ue5-visual-005"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 3,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le commentaire de D affirme que « BCL-2 est une famille de protéines anti-apoptotiques ». La ronéo distingue au sein de la famille BCL2 des membres pro-apoptotiques et des membres anti-apoptotiques. La protéine BCL2 elle-même est anti-apoptotique ; cette précision porte sur la justification et ne change pas la clé ABCDE du QCM.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 5,
+        "label": "QCM 41 D : commentaire sur la famille BCL-2"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 5,
+        "label": "Équilibre entre membres pro et anti-apoptotiques de la famille"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCDE",
+    "reviewedItemText": {
+      "D": "Les cellules sénescentes surexpriment la protéine BCL-2"
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "review-v4-ue5-visual-006"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 12,
+    "items": [
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "kind": "source_conflict",
+    "text": "Décalage de lettrage dans les documents d’origine : les propositions sont imprimées F–J, tandis que la clé AD et les verdicts détaillés utilisent A–E. L’alignement est F↔A, G↔B, H↔C, I↔D, J↔E. La réponse FI reproduit donc les deux verdicts VRAI de la clé AD. Le commentaire de G comporte en outre un pourcentage manquant (« plus de % ») dans la source ; aucune valeur n’a été ajoutée.",
+    "refs": [
+      {
+        "file": "ACC le noyau.pdf",
+        "page": 3,
+        "label": "Lettrage F–J du sujet"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 3,
+        "label": "Lettrage F–J reproduit dans la correction"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 4,
+        "label": "Clé AD et commentaires A–E"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AD dans le corrigé ; FI avec les lettres F–J du sujet",
+    "reviewedItemText": {
+      "F": "Au sein du nucléole sont accumulés des ARN et des protéines, impliqués dans la production des ribosomes.",
+      "G": "20% des séquences du génome humain correspondent à des séquences fortement répétitives.",
+      "H": "Les importines doivent être associées au RanGTP pour reconnaître les signaux de localisation nucléaires (NLS) des protéines qu’elles importent au travers du complexe du pore nucléaire.",
+      "I": "Les condensines sont une forme de complexe de protéines SMC (Structural Maintenance of Chromosomes) qui utilisent l’énergie de l’ATP pour former des boucles d’ADN.",
+      "J": "On trouve dans les zones hétérochromatiques des gènes très actifs transcriptionnellement."
+    },
+    "reviewedExplanation": {
+      "F": "VRAI",
+      "G": "FAUX : Les séquences répétitives représentent plus de % du génome humain.",
+      "H": "FAUX : Une importine a une affinité pour son cargo en présence de RanGDP (présent surtout dans le cytosol). Lorsqu’elle se lie à une RanGTP dans le noyau, elle relâche son cargo.",
+      "I": "VRAI : Chaque condensine est un dimère de SMC.",
+      "J": "FAUX : Les zones hétérochromatiques sont plutôt inactives transcriptionnellement, les gènes actifs se trouvent surtout dans l’euchromatine."
+    },
+    "noteId": "review-v4-ue5-visual-007"
+  },
+  {
+    "bank": "bio.cm8",
+    "id": 6,
+    "items": [
+      "B",
+      "C",
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet comporte quatre propositions A–D : B rassemble l’estimation de la barre et la richesse de la matrice en ARNr. Le corrigé sépare ces deux assertions et comporte cinq propositions A–E, toutes acceptées. Les lettres A–D du sujet sont conservées ; il ne s’agit pas d’une cinquième proposition perdue à l’import. La barre à0,3µm visible dans l’ancien raster brut n’appartient pas à la figure telle qu’elle apparaît dans le document Word rendu.",
+    "refs": [
+      {
+        "file": "autotest CM8.docx",
+        "page": 2,
+        "label": "Q6 : quatre propositions et recadrage de la figure"
+      },
+      {
+        "file": "correction autotest CM8.docx",
+        "page": 2,
+        "label": "Q6 : cinq assertions déclarées vraies"
+      }
+    ],
+    "sourceVerdict": "ABCD avec les quatre propositions du sujet ; cinq assertions vraies dans le corrigé.",
+    "courseVerdict": "La différence de nombre de propositions est éditoriale ; aucun changement scientifique de clé.",
+    "noteId": "review-v4-ue5-visual-008"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 4,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet écrit « protège contre la nécrose », alors que le corrigé remplace ce mot par « apoptose » et déclare E faux. La figure2 montre pourtant, sous ouabaïne,36% de cellules Ann+/IP+ et21% de cellules Ann+/IP− sans prétraitement, contre12% et15% après prétraitement à l’étoposide ; l’histogramme indique une différence significative entre les deux populations Ann+ totales. Cela établit une réduction des populations marquées, sans identifier à lui seul toute la séquence de mort cellulaire. Le verdict de E exige donc une clarification de la formulation attendue ; la clé AD est conservée. La correction des annales CM10 interprète explicitement cette même figure comme une résistance accrue à l’ouabaïne après l’étoposide (item E accepté), ce qui renforce le conflit entre les deux versions du corrigé.",
+    "refs": [
+      {
+        "file": "Colles orales non corrigées.docx",
+        "page": 2,
+        "label": "Figure2, protocole et itemE sur la nécrose"
+      },
+      {
+        "file": "Colles orales corrigées.docx",
+        "page": 2,
+        "label": "ItemE reformulé sur l’apoptose et noté faux"
+      },
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 5,
+        "label": "Q41 E : même figure interprétée comme résistance à l’apoptose"
+      }
+    ],
+    "sourceVerdict": "E faux ; clé AD.",
+    "courseVerdict": "Réserve fondée sur les données de la figure et le changement de formulation, sans certification d’un mécanisme de mort par ce seul marquage.",
+    "coversWarning": true,
+    "noteId": "review-v4-ue5-visual-009"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 3,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé imprime lui-même « FAUX ? » pour B et propose une interprétation en fibres d’actine de tension. La photographie fixe ne documente pas directement le déplacement de la cellule ; le verdict dépend ici de l’interprétation morphologique attendue. La réserve de la source doit être conservée avec la figure restaurée, sans présenter D comme une validation scientifique certaine de l’exclusion de B.",
+    "refs": [
+      {
+        "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+        "page": 3,
+        "label": "Photographie de B"
+      },
+      {
+        "file": "Correction ACC Cytosquelette et migration cellulaire (1)-2.pdf",
+        "page": 4,
+        "label": "Commentaire B marqué FAUX ?"
+      }
+    ],
+    "sourceVerdict": "B refusé avec un point d’interrogation ; clé D.",
+    "courseVerdict": "Pas de passage de ronéo consulté qui permette de trancher la migration sur cette seule image.",
+    "noteId": "review-v4-ue5-visual-010"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 3,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Le même énoncé sur le compartiment3 est refusé au Q51 de CM5, puis retenu dans la clé du Q29 reproduit en CM4 et CM5. La correction CM5 du Q29 comporte aussi une annotation qui barre « D.VRAI » et ajoute « FAUX ». Le schéma place3 sur la voie endosomale ; la ronéo distingue cette voie de la sécrétion constitutive, allant du Golgi à la membrane plasmique. Les clés imprimées sont conservées et ce désaccord est signalé explicitement.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 3,
+        "label": "Q51 C faux : endosome précoce"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 4,
+        "label": "Q29 D vrai dans la clé, barré et remplacé par faux dans une annotation"
+      },
+      {
+        "file": "Annales corrigées CM4 2018-2025.pdf",
+        "page": 4,
+        "label": "Autre reproduction du Q29, clé BDE"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Sortie constitutive du Golgi vers la membrane plasmique"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 11,
+        "label": "Récapitulatif des voies de sécrétion"
+      }
+    ],
+    "sourceVerdict": "CM5 Q3 : C faux (ABDE). CM5 Q4 et CM4 Q3 : D vrai dans BDE, avec annotation contraire en CM5.",
+    "courseVerdict": "Le trajet endosomal ne correspond pas à la sortie constitutive décrite aux pages10–11 de la ronéo.",
+    "noteId": "review-v4-ue5-visual-011"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le même énoncé sur le compartiment3 est refusé au Q51 de CM5, puis retenu dans la clé du Q29 reproduit en CM4 et CM5. La correction CM5 du Q29 comporte aussi une annotation qui barre « D.VRAI » et ajoute « FAUX ». Le schéma place3 sur la voie endosomale ; la ronéo distingue cette voie de la sécrétion constitutive, allant du Golgi à la membrane plasmique. Les clés imprimées sont conservées et ce désaccord est signalé explicitement.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 3,
+        "label": "Q51 C faux : endosome précoce"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 4,
+        "label": "Q29 D vrai dans la clé, barré et remplacé par faux dans une annotation"
+      },
+      {
+        "file": "Annales corrigées CM4 2018-2025.pdf",
+        "page": 4,
+        "label": "Autre reproduction du Q29, clé BDE"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Sortie constitutive du Golgi vers la membrane plasmique"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 11,
+        "label": "Récapitulatif des voies de sécrétion"
+      }
+    ],
+    "sourceVerdict": "CM5 Q3 : C faux (ABDE). CM5 Q4 et CM4 Q3 : D vrai dans BDE, avec annotation contraire en CM5.",
+    "courseVerdict": "Le trajet endosomal ne correspond pas à la sortie constitutive décrite aux pages10–11 de la ronéo.",
+    "noteId": "review-v4-ue5-visual-012"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 3,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le même énoncé sur le compartiment3 est refusé au Q51 de CM5, puis retenu dans la clé du Q29 reproduit en CM4 et CM5. La correction CM5 du Q29 comporte aussi une annotation qui barre « D.VRAI » et ajoute « FAUX ». Le schéma place3 sur la voie endosomale ; la ronéo distingue cette voie de la sécrétion constitutive, allant du Golgi à la membrane plasmique. Les clés imprimées sont conservées et ce désaccord est signalé explicitement.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 3,
+        "label": "Q51 C faux : endosome précoce"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 4,
+        "label": "Q29 D vrai dans la clé, barré et remplacé par faux dans une annotation"
+      },
+      {
+        "file": "Annales corrigées CM4 2018-2025.pdf",
+        "page": 4,
+        "label": "Autre reproduction du Q29, clé BDE"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Sortie constitutive du Golgi vers la membrane plasmique"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 11,
+        "label": "Récapitulatif des voies de sécrétion"
+      }
+    ],
+    "sourceVerdict": "CM5 Q3 : C faux (ABDE). CM5 Q4 et CM4 Q3 : D vrai dans BDE, avec annotation contraire en CM5.",
+    "courseVerdict": "Le trajet endosomal ne correspond pas à la sortie constitutive décrite aux pages10–11 de la ronéo.",
+    "noteId": "review-v4-ue5-visual-013"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 13,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le protocole annonce un immunomarquage avec des anticorps couplés à des billes d’or. Les petits points noirs du marquage correspondent au révélateur électronique ; leur présence ne permet pas de les identifier comme du matériel lysosomal non digéré. La ronéo de techniques histologiques décrit explicitement le couplage à l’or colloïdal visible au microscope électronique. Le verdict vrai de B est donc contesté, tout en conservant la clé B du corrigé.",
+    "refs": [
+      {
+        "file": "Annales CM5 2018-2025.pdf",
+        "page": 9,
+        "label": "Protocole immunogold et figures2A/2B"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 11,
+        "label": "B retenu et justification du corrigé"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 26,
+        "label": "Révélation par une particule d’or colloïdal en ME"
+      }
+    ],
+    "sourceVerdict": "B vrai ; clé B.",
+    "courseVerdict": "Le marqueur d’or révèle la localisation de la cible de l’anticorps ; il ne désigne pas un résidu non digéré.",
+    "noteId": "review-v4-ue5-visual-014"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 13,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le rejet de E contredit l’identification annoncée dans le protocole, qui présente Rab7 comme associé aux membranes lysosomales. Le commentaire répond pourtant « Je dirai FAUX » en invoquant les endosomes tardifs. La ronéo CM5 situe effectivement Rab7 sur l’endosome tardif pendant la maturation vers le lysosome : ce marqueur ne suffit donc pas à affirmer une spécificité lysosomale exclusive. La divergence entre protocole et commentaire est signalée, sans remplacer la clé source.",
+    "refs": [
+      {
+        "file": "Annales CM5 2018-2025.pdf",
+        "page": 9,
+        "label": "Protocole et figure2B"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 11,
+        "label": "Justification hésitante de E"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 18,
+        "label": "Rab5 puis Rab7 lors de la maturation endosomale"
+      }
+    ],
+    "sourceVerdict": "E faux ; clé B.",
+    "courseVerdict": "Rab7 intervient dans la maturation endosome tardif/lysosome ; la légende du protocole est plus restrictive que le cours.",
+    "noteId": "review-v4-ue5-visual-015"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 16,
+    "items": [],
+    "kind": "missing_reference",
+    "text": "La consigne renvoie à une figure6 et à des informations précédentes. La compilation fournie reproduit le texte listant les constructions GFP et leur adressage, mais pas la figure6 expérimentale elle-même. Le texte disponible est conservé ; aucune image n’a été reconstruite. La clé AB reste celle de la source, avec cette limite pour vérifier les résultats expérimentaux annoncés.",
+    "refs": [
+      {
+        "file": "Annales CM5 2018-2025.pdf",
+        "page": 10,
+        "label": "Texte UBQLN2/MTM1 et Q51 renvoyant à la figure6"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 14,
+        "label": "Correction de Q51"
+      }
+    ],
+    "sourceVerdict": "AB.",
+    "courseVerdict": "La figure expérimentale annoncée manque dans cette compilation ; le protocole textuel reste accessible.",
+    "noteId": "review-v4-ue5-visual-016"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 39,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Le refus de C s’inscrit dans une préparation histologique standard destinée à l’étude morphologique. La justification « la fixation ne préserve pas les fonctions biologiques » ne doit cependant pas être étendue à toute technique : la ronéo demande d’adapter le fixateur lorsqu’on s’intéresse à une activité enzymatique et décrit un compromis entre morphologie et activité. La réserve porte sur la portée générale du commentaire ; la clé ABD est conservée.",
+    "refs": [
+      {
+        "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "page": 11,
+        "label": "Q15 C et justification"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 12,
+        "label": "Fixateur adapté à la morphologie ou à l’activité enzymatique"
+      }
+    ],
+    "sourceVerdict": "C faux ; clé ABD.",
+    "courseVerdict": "La fixation doit être adaptée à l’application ; le commentaire exige une portée limitée à la préparation standard visée.",
+    "noteId": "review-v4-ue5-visual-017"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 12,
+    "items": [
+      "H"
+    ],
+    "kind": "possible_error",
+    "text": "La justification de H parle d’un milieu cytosolique où Ran-GDP prédomine. Cela ne doit pas être lu comme l’exigence d’une liaison importine–Ran-GDP pour reconnaître le cargo : le cours distingue le gradient Ran-GDP/Ran-GTP et les étapes de reconnaissance du NLS, de passage du pore puis de dissociation par Ran-GTP dans le noyau. Cette précision ne change pas le verdict faux de H ni la clé FI.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 4,
+        "label": "Commentaire C correspondant à H dans le sujet"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 16,
+        "label": "Gradient Ran-GDP/Ran-GTP"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 17,
+        "label": "Dissociation du cargo dans le noyau"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 19,
+        "label": "Ordre des étapes de l’import"
+      }
+    ],
+    "sourceVerdict": "H faux ; FI correspond à AD dans le corrigé.",
+    "courseVerdict": "Le milieu riche en Ran-GDP et une liaison de Ran au récepteur sont deux notions distinctes ; le cours ne présente pas un complexe importine–Ran-GDP comme étape requise.",
+    "noteId": "review-v4-ue5-visual-018"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 12,
+    "items": [
+      "I"
+    ],
+    "kind": "possible_error",
+    "text": "La réserve porte sur la justification « chaque condensine est un dimère de SMC ». Il faut vérifier la distinction entre le dimère SMC au cœur du complexe et la composition de la condensine complète. Le passage disponible du cours décrit la compaction de l’ADN et la phosphorylation des condensines, sans détailler leur nombre de sous-unités ; il ne permet donc pas de confirmer cette simplification. Le verdict vrai de I et la clé FI sont conservés.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 4,
+        "label": "Commentaire D correspondant à I dans le sujet"
+      },
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 11,
+        "label": "Fonction des condensines sans composition détaillée"
+      }
+    ],
+    "sourceVerdict": "I vrai ; FI correspond à AD dans le corrigé.",
+    "courseVerdict": "Composition complète non documentée par le passage de cours disponible : à vérifier dans une ronéo détaillant les complexes SMC.",
+    "noteId": "review-v4-ue5-visual-019"
+  }
+]

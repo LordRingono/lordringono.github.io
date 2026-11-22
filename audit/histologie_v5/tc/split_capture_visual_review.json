@@ -1,0 +1,101 @@
+[
+  {
+    "bank": "histo.tc1",
+    "id": 7,
+    "side": "correction",
+    "pages": [
+      1,
+      2
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "side": "subject",
+    "pages": [
+      1,
+      2
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "side": "correction",
+    "pages": [
+      1,
+      2
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 12,
+    "side": "correction",
+    "pages": [
+      2,
+      3
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 8,
+    "side": "subject",
+    "pages": [
+      1,
+      2
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 14,
+    "side": "subject",
+    "pages": [
+      2,
+      3
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 15,
+    "side": "correction",
+    "pages": [
+      3,
+      4
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 20,
+    "side": "subject",
+    "pages": [
+      3,
+      4
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 20,
+    "side": "correction",
+    "pages": [
+      4,
+      5
+    ],
+    "complete": true,
+    "noFollowingQuestion": true
+  }
+]

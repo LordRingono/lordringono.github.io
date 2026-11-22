@@ -1,0 +1,35 @@
+{
+  "questionCount": 2804,
+  "bankCount": 217,
+  "items": 14417,
+  "notes": 589,
+  "questionsWithNotes": 535,
+  "notesByKind": {
+    "source_conflict": 165,
+    "possible_error": 224,
+    "roneo_conflict": 142,
+    "missing_reference": 15,
+    "outdated_reference": 18,
+    "scientific_conflict": 25
+  },
+  "patchedQuestions": 203,
+  "changedKeys": 69,
+  "additions": 16,
+  "pharmaReclassifications": 25,
+  "pharmaQuestions": 336,
+  "coverageQuestions": 2804,
+  "missingCoverage": [],
+  "extraCoverage": [],
+  "missingReferences": [],
+  "referenceResolutionChoices": [
+    {
+      "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+      "chosen": "sources_v4/TN2 - Ronéo 2026 - Actualisée.pdf",
+      "alternatives": [
+        "sources_v4/TN2 - Ronéo 2026 - Actualisée.pdf",
+        "work/review_v4/ue5/source/course/Histologie - Tissu nerveux/TN2 - Ronéo 2026 - Actualisée.pdf"
+      ]
+    }
+  ],
+  "unresolvedDecisions": []
+}

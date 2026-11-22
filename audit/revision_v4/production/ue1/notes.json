@@ -1,0 +1,955 @@
+[
+  {
+    "bank": "acc",
+    "id": 7,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Viser un meilleur alignement ne garantit pas la disparition de toutes les inéquités. La justification « vise à limiter » ne réfute donc pas « peut reproduire ». Le NIST distingue réduction des biais et équité effective. Vérifie la définition précise de l’alignement retenue dans la ronéo IA ; la clé du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "Correction ACC SSH (2026-2027) PDF .pdf",
+        "page": 5,
+        "label": "Corrigé fourni — Q7"
+      },
+      {
+        "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+        "label": "NIST — AI Risk Management Framework, §3.7",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-001"
+  },
+  {
+    "bank": "acc",
+    "id": 9,
+    "items": [
+      "A"
+    ],
+    "kind": "outdated_reference",
+    "text": "Le nombre « 11 » doit être recontrôlé : depuis janvier 2025, le méningocoque B est obligatoire et ACWY remplace C chez le nourrisson. Ne confonds pas nombre d’injections, de valences et d’infections couvertes. Compare la formulation et le décompte à la ronéo et au calendrier officiel correspondant à l’année de l’épreuve.",
+    "refs": [
+      {
+        "file": "Correction ACC SSH (2026-2027) PDF .pdf",
+        "page": 6,
+        "label": "Corrigé fourni — Q9"
+      },
+      {
+        "url": "https://sante.gouv.fr/IMG/pdf/calendrier_vaccinal-2025.pdf",
+        "label": "Calendrier vaccinal officiel 2025",
+        "referenceType": "external_primary"
+      },
+      {
+        "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/calendrier-vaccinal",
+        "label": "Ministère — calendrier vaccinal 2026",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-002"
+  },
+  {
+    "bank": "acc",
+    "id": 27,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "E est refusé alors que le syllogisme est une forme de raisonnement déductif, accepté en B. L’EB Q76 valide également un syllogisme comme raisonnement déductif. Le rejet peut dépendre du contexte d’incertitude et des prémisses disponibles, mais il n’est pas justifié ici. Vérifie cette distinction dans la ronéo Raisonnement.",
+    "refs": [
+      {
+        "file": "Correction ACC SSH (2026-2027) PDF .pdf",
+        "page": 16,
+        "label": "Corrigé fourni — Q27"
+      },
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 22,
+        "label": "EB — Q76"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-003"
+  },
+  {
+    "bank": "acc",
+    "id": 31,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Accueillir les peurs et croyances avec empathie ne signifie pas nécessairement les partager ou les approuver. L’entretien motivationnel respecte le point de vue du patient et permet aussi de travailler sur ses représentations erronées. L’expression « en accord » est donc ambiguë ; vérifie son sens dans la ronéo.",
+    "refs": [
+      {
+        "file": "Correction ACC SSH (2026-2027) PDF .pdf",
+        "page": 18,
+        "label": "Corrigé fourni — Q31"
+      },
+      {
+        "url": "https://www.has-sante.fr/jcms/p_3501842/fr/entretien-motivationnel",
+        "label": "HAS — entretien motivationnel",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-004"
+  },
+  {
+    "bank": "acc",
+    "id": 34,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Contradiction explicite : D est classé VRAI pour « deuxième cause », mais sa justification indique « première cause ». Ces deux rangs ne peuvent pas justifier la même réponse. La clé BCD du document est conservée ; vérifie le rang, la période et la population dans la ronéo.",
+    "refs": [
+      {
+        "file": "Correction ACC SSH (2026-2027) PDF .pdf",
+        "page": 19,
+        "label": "Corrigé fourni — Q34"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-005"
+  },
+  {
+    "bank": "colle1",
+    "id": 10,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "A reste faux ; cette remarque vise seulement la parenthèse de sa justification. La présentation du « Pink Viagra » comme un simple antidépresseur est inexacte. La flibansérine (Addyi) a une indication réglementaire pour certains troubles du désir sexuel ; la notice FDA citée ne comporte pas d’indication antidépressive. Son histoire de développement ne suffit pas à définir son indication. Vérifie la nuance attendue dans la ronéo Médicalisation de la sexualité.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 5,
+        "label": "Corrigé fourni — Q10"
+      },
+      {
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022526s013lbl.pdf",
+        "label": "FDA — notice Addyi, révision 12/2025",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-006"
+  },
+  {
+    "bank": "eb",
+    "id": 41,
+    "items": [
+      "D"
+    ],
+    "kind": "scientific_conflict",
+    "text": "La présentation du « Pink Viagra » comme un simple antidépresseur est inexacte. La flibansérine (Addyi) a une indication réglementaire pour certains troubles du désir sexuel ; la notice FDA citée ne comporte pas d’indication antidépressive. Son histoire de développement ne suffit pas à définir son indication. Vérifie la nuance attendue dans la ronéo Médicalisation de la sexualité.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 12,
+        "label": "Corrigé fourni — Q41"
+      },
+      {
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022526s013lbl.pdf",
+        "label": "FDA — notice Addyi, révision 12/2025",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-007"
+  },
+  {
+    "bank": "colle1",
+    "id": 12,
+    "items": [
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "La justification « il y en a 11 » doit être actualisée : les obligations méningococciques ont changé au 1er janvier 2025. Le décompte dépend aussi de ce que le cours appelle vaccin, valence ou infection. Vérifie le chiffre et le vocabulaire dans la ronéo de l’année et le calendrier officiel ; ne remplace pas automatiquement 11 par un autre nombre.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 6,
+        "label": "Corrigé fourni — Q12"
+      },
+      {
+        "url": "https://sante.gouv.fr/IMG/pdf/calendrier_vaccinal-2025.pdf",
+        "label": "Calendrier vaccinal officiel 2025",
+        "referenceType": "external_primary"
+      },
+      {
+        "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/calendrier-vaccinal",
+        "label": "Ministère — calendrier vaccinal 2026",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-008"
+  },
+  {
+    "bank": "colle1",
+    "id": 15,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "A reste FAUX, mais la justification ne corrige qu’une des deux erreurs. DTP signifie diphtérie, tétanos et poliomyélite : le T ne signifie pas tuberculose, et le P ne signifie pas pneumocoque. Revois le sigle dans la ronéo Vaccination.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 7,
+        "label": "Corrigé fourni — Q15"
+      },
+      {
+        "url": "https://sante.gouv.fr/IMG/pdf/calendrier_vaccinal-2025.pdf",
+        "label": "Calendrier vaccinal officiel 2025",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-009"
+  },
+  {
+    "bank": "colle1",
+    "id": 21,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "La bibliothèque qui conserve le papyrus Edwin Smith le date d’environ 1600 avant notre ère. Le chiffre 1550 est donc à recontrôler, tout en tenant compte du « environ » et des approximations chronologiques du cours. Vérifie la distinction entre les papyrus Smith et Ebers dans la ronéo Histoire de la thérapeutique.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 9,
+        "label": "Corrigé fourni — Q21"
+      },
+      {
+        "url": "https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/",
+        "label": "New York Academy of Medicine — papyrus Edwin Smith",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-010"
+  },
+  {
+    "bank": "colle1",
+    "id": 23,
+    "items": [
+      "E"
+    ],
+    "kind": "missing_reference",
+    "text": "Le chiffre de 50 % est validé sans étude ni population de référence dans le corrigé. Il n’existe pas de taux universel applicable à tous les contextes cliniques. La ronéo n’est pas disponible ici pour confirmer le chiffre enseigné : vérifie la population et ce que signifie « diagnostic posé à la fin de l’interrogatoire ».",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 9,
+        "label": "Corrigé fourni — Q23"
+      }
+    ],
+    "sourceVerdict": "E VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-011"
+  },
+  {
+    "bank": "colle1",
+    "id": 38,
+    "items": [
+      "C",
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La justification exclut les pathologies aiguës au seul motif qu’elles ne sont pas chroniques. C’est trop restrictif en pratique : la HAS inclut aussi une pathologie aiguë mettant en jeu le pronostic vital lorsque les traitements curatifs ne peuvent plus apporter de bénéfice. Le « il faut » de D ne constitue donc pas une condition universelle. Vérifie le périmètre de la définition enseignée dans la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 14,
+        "label": "Corrigé fourni — Q38"
+      },
+      {
+        "url": "https://www.has-sante.fr/jcms/c_272290/fr/accompagnement-des-personnes-en-fin-de-vie-et-de-leurs-proches",
+        "label": "HAS — accompagnement des personnes en fin de vie",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "C FAUX; D VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-012"
+  },
+  {
+    "bank": "colle1",
+    "id": 44,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "D est validé mais parle d’une faute commise par « l’un des patients », puis de faute détachable du service. Il semble s’agir d’une confusion entre patient et professionnel ou agent de l’établissement. Le mot est bien présent dans le document fourni. Vérifie la formulation correcte et le régime de responsabilité dans la ronéo ; la clé d’origine reste conservée.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 16,
+        "label": "Corrigé fourni — Q44"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-013"
+  },
+  {
+    "bank": "colle1",
+    "id": 64,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "La nationalité d’origine indiquée est erronée : Peter Safar est né à Vienne, en Autriche, et non en Hongrie. Son centre de recherche à Pittsburgh le confirme. Son rôle dans la réanimation cardiopulmonaire n’est pas remis en cause par cette erreur biographique. Vérifie la formulation de la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 23,
+        "label": "Corrigé fourni — Q64"
+      },
+      {
+        "url": "https://www.safar.pitt.edu/wp-content/uploads/2019/11/annual-report-2009-2010.pdf",
+        "label": "Safar Center, université de Pittsburgh — rapport 2009–2010",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-014"
+  },
+  {
+    "bank": "colle1",
+    "id": 67,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le tutorat reconnaît expressément que E est vrai sur le fond, puis le refuse parce qu’il le juge hors du sujet « système 1 / système 2 ». Le FAUX affiché ne signifie donc pas que la combinaison d’arguments en médecine est scientifiquement fausse. Vérifie le périmètre de la consigne et la règle attendue dans la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 25,
+        "label": "Corrigé fourni — Q67"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-015"
+  },
+  {
+    "bank": "colle1",
+    "id": 70,
+    "items": [
+      "B",
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "B ne doit pas devenir une règle clinique générale d’attente : un hématome sous-dural aigu avec coma et déplacement médian nécessite une évaluation neurochirurgicale urgente ; lorsqu’une indication opératoire est retenue, les recommandations demandent une intervention rapide. Le choix individuel dépend de données absentes ici. Pour C, des souhaits antérieurs seraient pertinents s’ils étaient connus ; leur absence dans le cas ne les rend pas sans valeur en général. Vérifie l’interprétation pédagogique dans la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 27,
+        "label": "Corrigé fourni — Q70"
+      },
+      {
+        "url": "https://braintrauma.org/coma/guidelines/surgical",
+        "label": "Brain Trauma Foundation — recommandations chirurgicales, hématome sous-dural aigu",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B VRAI; C FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-016"
+  },
+  {
+    "bank": "colle1",
+    "id": 71,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est bien faux, mais la justification « contenant des amphétamines » manque de précision : Médiator était une spécialité de benfluorex, apparenté à la famille des fenfluramines. Il ne faut pas apprendre cette phrase comme la composition d’un mélange d’amphétamines. Vérifie le nom du principe actif et sa classification dans la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 27,
+        "label": "Corrigé fourni — Q71"
+      },
+      {
+        "url": "https://archive.ansm.sante.fr/content/download/29421/387796/version/4/file/Benfluorex_Donnees-pharmacologiques.pdf",
+        "label": "ANSM — propriétés pharmacologiques du benfluorex",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-017"
+  },
+  {
+    "bank": "colle1",
+    "id": 73,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "La définition de B décrit le principe revendiqué par l’homéopathie. La justification transforme ensuite ce principe en efficacité clinique attendue, ce qui n’est pas établi par cette définition. La HAS a conclu à une démonstration insuffisante de l’efficacité des médicaments homéopathiques dans les indications évaluées. Distingue histoire d’une doctrine et preuve d’efficacité ; vérifie la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 28,
+        "label": "Corrigé fourni — Q73"
+      },
+      {
+        "url": "https://www.has-sante.fr/jcms/p_3066934/fr/",
+        "label": "HAS — évaluation de l’homéopathie, 2019",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-018"
+  },
+  {
+    "bank": "colle1",
+    "id": 73,
+    "items": [
+      "E"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Attribuer le retrait de la fusafungine aux seules résistances antibiotiques est inexact. L’EMA met en avant les réactions allergiques graves et un bénéfice insuffisamment démontré ; elle signale un risque de résistance possible, sans preuve suffisante pour le quantifier. Vérifie la cause du retrait dans la ronéo. Cette remarque ne tranche pas à elle seule l’autre partie de l’item sur la marque Locabiotal.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 28,
+        "label": "Corrigé fourni — Q73"
+      },
+      {
+        "url": "https://www.ema.europa.eu/en/news/prac-recommends-fusafungine-nose-mouth-sprays-are-no-longer-marketed",
+        "label": "EMA — réévaluation de la fusafungine, 2016",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-019"
+  },
+  {
+    "bank": "colle1",
+    "id": 75,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La justification « ne changent pas selon la population » est trop absolue : les performances observées peuvent varier avec le spectre de gravité et les caractéristiques des populations. Cela ne signifie pas qu’un simple changement de prévalence modifie automatiquement sensibilité et spécificité. L’item « changera » est lui aussi catégorique. Vérifie les hypothèses du modèle simplifié enseigné dans la ronéo.",
+    "refs": [
+      {
+        "file": "Colle1_2_Corrections.pdf",
+        "page": 29,
+        "label": "Corrigé fourni — Q75"
+      },
+      {
+        "url": "https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/ebm/sesp",
+        "label": "SFMU — sensibilité et spécificité",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-020"
+  },
+  {
+    "bank": "colle2",
+    "id": 38,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Un coup de soleil simple est une brûlure du premier degré, mais un coup de soleil avec cloques peut atteindre le deuxième degré. La justification « de premier degré ! » ne vaut donc pas pour tous les coups de soleil ; la phrase de l’item est également trop générale. Vérifie l’exemple et le degré de brûlure enseignés dans la ronéo.",
+    "refs": [
+      {
+        "file": "Correction Colle 2 SSH pdf .pdf",
+        "page": 18,
+        "label": "Corrigé fourni — Q38"
+      },
+      {
+        "url": "https://www.ameli.fr/assure/sante/themes/coup-soleil/coup-soleil-risque-exposition-solaire",
+        "label": "Assurance maladie — degrés de brûlure du coup de soleil",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "C FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-021"
+  },
+  {
+    "bank": "colle2",
+    "id": 45,
+    "items": [
+      "C"
+    ],
+    "kind": "scientific_conflict",
+    "text": "La correction confond main et bras : la date de 1998 correspond à une greffe de main à Lyon dans l’historique des HCL. C n’est donc pas exact tel qu’il est rédigé. La clé du tutorat est conservée ; vérifie les termes anatomiques et les dates dans la ronéo Transplantation.",
+    "refs": [
+      {
+        "file": "Correction Colle 2 SSH pdf .pdf",
+        "page": 21,
+        "label": "Corrigé fourni — Q45"
+      },
+      {
+        "url": "https://www.chu-lyon.fr/service-chirurgie-orthopedique-membre-superieur-sos-mains-edouard-herriot",
+        "label": "HCL — chirurgie du membre supérieur, historique des greffes",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "C VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-022"
+  },
+  {
+    "bank": "colle2",
+    "id": 56,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Pour Ebola, l’OMS indique que le réservoir animal n’est pas définitivement identifié ; les chauves-souris frugivores sont des candidates importantes. Présenter la chauve-souris comme un réservoir prouvé sans nuance est donc trop affirmatif. Vérifie dans la ronéo le virus exact, l’exemple des mines et le niveau de certitude attendu.",
+    "refs": [
+      {
+        "file": "Correction Colle 2 SSH pdf .pdf",
+        "page": 27,
+        "label": "Corrigé fourni — Q56"
+      },
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/ebola-disease",
+        "label": "OMS — maladie à virus Ebola, réservoir animal",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-023"
+  },
+  {
+    "bank": "colle2",
+    "id": 75,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le QCM demande de restituer un propos attribué à S. Karaki : vérifie cette attente précise dans la ronéo. Sur le plan scientifique général, nier toute composante génétique du QI serait trop absolu : des études génomiques identifient des associations avec les performances cognitives. L’héritabilité est une mesure statistique dans une population, pas un destin individuel, et n’exclut pas l’environnement. D reste faux dans la clé fournie, notamment avec sa formulation excluant les facteurs sociaux.",
+    "refs": [
+      {
+        "file": "Correction Colle 2 SSH pdf .pdf",
+        "page": 35,
+        "label": "Corrigé fourni — Q75"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41588-018-0152-6",
+        "label": "Savage et al., Nature Genetics 2018 — étude génomique, 269 867 personnes",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-024"
+  },
+  {
+    "bank": "eb",
+    "id": 2,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "« En proportion » ne précise pas le dénominateur : proportion de personnes dyslexiques parmi les HPI, de HPI parmi les dyslexiques, ou nombres absolus ? Ces comparaisons ne sont pas équivalentes. La coexistence HPI/dyslexie ne suffit pas à trancher la seconde partie. Vérifie les chiffres et le sens exact retenus dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 2,
+        "label": "Corrigé fourni — Q2"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-025"
+  },
+  {
+    "bank": "eb",
+    "id": 3,
+    "items": [
+      "E"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Le mot « forcément » rend l’affirmation inexacte : le TDAH a une composante familiale et génétique, mais un enfant concerné n’a pas obligatoirement un parent lui-même atteint. Un risque familial accru n’est pas une transmission déterministe. La clé CDE du tutorat reste conservée ; vérifie ce point dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 2,
+        "label": "Corrigé fourni — Q3"
+      },
+      {
+        "url": "https://medlineplus.gov/genetics/condition/attention-deficit-hyperactivity-disorder/",
+        "label": "NIH MedlinePlus Genetics — TDAH, transmission",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-026"
+  },
+  {
+    "bank": "eb",
+    "id": 5,
+    "items": [
+      "B"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Le mécanisme « protéines anti-ocytocine libérées par le toucher » n’est pas étayé et l’ocytocine n’est pas simplement « l’hormone du stress ». Des travaux expérimentaux montrent au contraire une modulation de la réponse au stress par l’ocytocine et le soutien social. Évite aussi de réduire chaque hormone à une seule fonction. La clé AB reste celle du document ; vérifie le mécanisme précis dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 3,
+        "label": "Corrigé fourni — Q5"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14675803/",
+        "label": "Heinrichs et al., Biological Psychiatry 2003 — ocytocine et réponse au stress",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-027"
+  },
+  {
+    "bank": "eb",
+    "id": 5,
+    "items": [
+      "C",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "C renvoie à lui-même (« le mécanisme de l’item C »), ce qui ne permet pas d’identifier le mécanisme à évaluer. E est refusé sans justification, alors que sa portée dépend du contexte et du consentement au toucher. Vérifie l’énoncé attendu et son interprétation dans la ronéo ; n’apprends pas ces deux FAUX comme des conclusions générales.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 3,
+        "label": "Corrigé fourni — Q5"
+      }
+    ],
+    "sourceVerdict": "C FAUX; E FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-028"
+  },
+  {
+    "bank": "eb",
+    "id": 12,
+    "items": [
+      "B"
+    ],
+    "kind": "missing_reference",
+    "text": "Le corrigé refuse B sans préciser l’étude, les pays, la période ni l’indicateur d’antibiorésistance. Une association observée à une échelle ne se transpose pas automatiquement à toutes les autres. La ronéo est nécessaire pour savoir quelle comparaison mondiale est visée ; cette réponse ne peut pas être tranchée avec le seul corrigé.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 5,
+        "label": "Corrigé fourni — Q12"
+      }
+    ],
+    "sourceVerdict": "B FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-029"
+  },
+  {
+    "bank": "eb",
+    "id": 17,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Dans le calendrier du nourrisson, l’injection de méningocoque B à trois mois est une première dose de primo-vaccination, pas un rappel. Le schéma 2025 indique ensuite cinq mois et douze mois. A est donc improprement formulé malgré son verdict VRAI. Vérifie la terminologie et le calendrier de l’année dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 6,
+        "label": "Corrigé fourni — Q17"
+      },
+      {
+        "url": "https://sante.gouv.fr/IMG/pdf/calendrier_vaccinal-2025.pdf",
+        "label": "Calendrier vaccinal officiel 2025",
+        "referenceType": "external_primary"
+      },
+      {
+        "url": "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/calendrier-vaccinal",
+        "label": "Ministère — calendrier vaccinal 2026",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-030"
+  },
+  {
+    "bank": "eb",
+    "id": 19,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La phrase inverse l’enchaînement causal habituel : l’hésitation peut réduire la vaccination, donc la couverture vaccinale, ce qui peut diminuer la protection collective. Une baisse de l’immunité n’entraîne pas à elle seule une baisse du nombre de personnes vaccinées. Vérifie le schéma causal dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 7,
+        "label": "Corrigé fourni — Q19"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-031"
+  },
+  {
+    "bank": "eb",
+    "id": 28,
+    "items": [
+      "D"
+    ],
+    "kind": "outdated_reference",
+    "text": "La date de vote indiquée ne correspond pas à l’adoption définitive de cette loi : le dossier du Sénat donne le 15 juillet 2026, suivi de la promulgation du 18 août. Si « votée » vise une étape antérieure, elle doit être nommée et datée. Vérifie la chronologie de la ronéo ; le barème d’origine reste conservé.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 9,
+        "label": "Corrigé fourni — Q28"
+      },
+      {
+        "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-droit-a-laide-a-mourir.html",
+        "label": "Sénat — étapes de la loi relative au droit à l’aide à mourir",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-032"
+  },
+  {
+    "bank": "eb",
+    "id": 32,
+    "items": [
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "La réponse dépend de l’essai étudié. L’essai initial de Rivers (2001) trouvait une baisse significative de mortalité, ce qui justifie E faux pour cet essai. Les essais multicentriques ProCESS (2014) et ProMISe (2015) n’ont pas retrouvé de bénéfice de mortalité de ce protocole par rapport aux soins usuels. Identifie l’essai dans la ronéo avant de généraliser la correction.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 10,
+        "label": "Corrigé fourni — Q32"
+      },
+      {
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa010307",
+        "label": "Rivers et al., NEJM 2001 — essai initial EGDT",
+        "referenceType": "external_primary"
+      },
+      {
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1401602",
+        "label": "ProCESS Investigators, NEJM 2014",
+        "referenceType": "external_primary"
+      },
+      {
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1500896",
+        "label": "Mouncey et al., NEJM 2015 — ProMISe",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-033"
+  },
+  {
+    "bank": "eb",
+    "id": 34,
+    "items": [
+      "C"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Une infection peut être asymptomatique : l’apparition de signes cliniques ne définit donc pas toute infection. Il faut distinguer infection et maladie infectieuse symptomatique. Le verdict VRAI de C est trop restrictif tel qu’écrit ; vérifie ces définitions dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 11,
+        "label": "Corrigé fourni — Q34"
+      },
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-COVID-19-how-is-it-transmitted",
+        "label": "OMS — distinction infection asymptomatique et présymptomatique",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "C VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-034"
+  },
+  {
+    "bank": "eb",
+    "id": 53,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Une infection n’exclut pas automatiquement tout don dans toutes les circonstances : l’évaluation dépend notamment de l’agent infectieux, du type de don, du receveur et du risque de transmission. La formulation « peut aussi » est donc à distinguer d’une autorisation générale. Vérifie les contre-indications et exceptions retenues dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 16,
+        "label": "Corrigé fourni — Q53"
+      },
+      {
+        "url": "https://www.chu-lyon.fr/greffes-dons-organes-tissus",
+        "label": "HCL — greffes et dons, évaluation du donneur au cas par cas",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-035"
+  },
+  {
+    "bank": "eb",
+    "id": 56,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Le périmètre de « morbimortalité périnatale » doit être vérifié dans la ronéo de santé maternelle. L’INSEE définit la mortalité périnatale comme concernant les enfants mort-nés et ceux décédés avant sept jours, mais cette définition ne suffit pas à trancher l’emploi plus large du terme « morbimortalité » dans ce cours. Il faut distinguer les indicateurs maternels et ceux du nouveau-né ; faute de ronéo, A reste ici une réserve de formulation, sans changement du VRAI de la clé.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 16,
+        "label": "Corrigé fourni — Q56"
+      },
+      {
+        "url": "https://www.insee.fr/fr/metadonnees/definition/c2323",
+        "label": "INSEE — mortalité périnatale, définition",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-036"
+  },
+  {
+    "bank": "eb",
+    "id": 69,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "L’interruption de la circulation d’un greffon peut effectivement provoquer une ischémie. Les techniques de conservation visent notamment à limiter les lésions associées ; leur existence ne rend pas cette possibilité fausse. Le refus de A n’est pas justifié dans la grille fournie. La clé BD est conservée et ce point doit être vérifié dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 20,
+        "label": "Corrigé fourni — Q69"
+      },
+      {
+        "url": "https://ipubli.inserm.fr/bitstream/handle/10608/92/Synthese.html",
+        "label": "Inserm — transplantation d’organes, expertise collective",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": true,
+    "noteId": "ue1-v4-037"
+  },
+  {
+    "bank": "eb",
+    "id": 73,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "L’exemple décrit une action poursuivie malgré un jugement sincère contraire, ce qui correspond habituellement à l’idée d’acrasie. Il faut toutefois distinguer faiblesse de volonté, dépendance et impossibilité d’agir autrement. Le corrigé ne justifie pas son refus. Vérifie la définition et les conditions précises de la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 21,
+        "label": "Corrigé fourni — Q73"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-038"
+  },
+  {
+    "bank": "eb",
+    "id": 75,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Savoir qu’une action est à sa portée n’est pas une condition suffisante pour agir de façon acratique : une personne peut le savoir puis agir en accord avec son jugement. La formule « si et seulement si » demande une définition complète, qui manque ici. Vérifie le sens du mot « acratique » et la construction de la question dans la ronéo.",
+    "refs": [
+      {
+        "file": "EB blnc SSH corrections .pdf",
+        "page": 22,
+        "label": "Corrigé fourni — Q75"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Ronéo de ce cours non fournie : les références externes citées ne sont pas une ronéo.",
+    "coversWarning": false,
+    "noteId": "ue1-v4-039"
+  }
+]

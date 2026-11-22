@@ -1,0 +1,2622 @@
+[
+  {
+    "bank": "histo.te1",
+    "id": 4,
+    "items": [
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "Item E : la clé retient l’absence de membrane basale du mésothélium, mais le tableau de la ronéo actualisée ne donne plus cette information : la case porte « a retiré la légende ». La source signale elle-même ce retrait. À vérifier dans la ronéo auprès de l’enseignant ; cette ancienne réponse ne doit pas être présentée comme confirmée par le cours actuel.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 5,
+        "label": "Tableau comparatif épithélium, endothélium, mésothélium"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABE",
+    "reviewedItemText": {
+      "E": "Les cellules mésothéliales sont dépourvues de Membrane Basale"
+    },
+    "reviewedExplanation": {
+      "E": "(attention cette année a retiré l’info dans son ppt, ne posera peut-être pas de question dessus)"
+    },
+    "noteId": "ue5-001"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 6,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item D : le corrigé le classe faux, alors que la ronéo décrit explicitement, pour le desmosome maculaire, un espace intercellulaire élargi de 20 à 30 nm. L’explication du corrigé reprend d’ailleurs cet élargissement. La clé du tutorat est conservée ; ce verdict est en conflit avec le passage cité.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+        "page": 6,
+        "label": "Desmosomes maculaires, p. imprimée 27"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B",
+    "reviewedItemText": {
+      "D": "L’espace intercellulaire au niveau des desmosomes maculaires est élargie"
+    },
+    "reviewedExplanation": {
+      "D": "c’est l’espace normal, il est élargi à 20/30nm"
+    },
+    "courseVerdict": "Espace intercellulaire élargi de 20 à 30 nm.",
+    "noteId": "ue5-002"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 7,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item C : la plectine n’est pas une molécule de la membrane basale. La ronéo la situe dans la plaque cytoplasmique de l’hémidesmosome, entre les intégrines et les filaments intermédiaires. La fibronectine est, elle, un partenaire extracellulaire. La formulation validée par la source confond ces deux côtés de l’adhérence.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+        "page": 7,
+        "label": "Hémidesmosomes, p. imprimée 28"
+      },
+      {
+        "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+        "page": 5,
+        "label": "Contacts en foyer, p. imprimée 26"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "C": "Les intégrines transmembranaires permettent l’accrochage des cellules épithéliales à la plectine et/ ou à la fibronectine de la membrane basale"
+    },
+    "reviewedExplanation": {
+      "C": "pour les hémi-desmosomes et les contacts en foyer"
+    },
+    "noteId": "ue5-003"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 9,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "Item B : le sujet source s’arrête à « Elle est constitutivement », tandis que le corrigé source donne « Elle est constitutivement ouverte », classé faux car l’ouverture est régulée. Le mot manquant est donc documenté dans le corrigé ; l’énoncé tronqué du sujet est conservé et cette divergence est signalée.",
+    "refs": [
+      {
+        "file": "autotest TE2 (2).docx",
+        "page": null,
+        "label": "Paragraphe 60 (index à partir de 0), QCM 9 B"
+      },
+      {
+        "file": "correction autotest TE2 25.docx",
+        "page": null,
+        "label": "Paragraphe 62 (index à partir de 0), QCM 9 B"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : E",
+    "reviewedItemText": {
+      "B": "Elle est constitutivement"
+    },
+    "reviewedExplanation": {
+      "B": ", régulation par gradient de Ca2+ et pH"
+    },
+    "noteId": "ue5-004"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 18,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item C est bien rejeté : les îlots de Langerhans appartiennent au pancréas. En revanche, l’explication localise à tort les cellules de Leydig « dans les tubes séminifères ». La ronéo les situe dans le tissu interstitiel testiculaire, entre les tubes.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+        "page": 11,
+        "label": "Glandes endocrines : cellules de Leydig, p. imprimée 32"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BD",
+    "reviewedItemText": {
+      "C": "les cellules de Leydig forment les ilots de Langherans"
+    },
+    "reviewedExplanation": {
+      "C": "ce terme est réservé au pancréas, mais elles sont bien en mas comme celles de ilots de L . Dans les tubes séminifères"
+    },
+    "noteId": "ue5-005"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 22,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Item C : l’explication établit que RANK-L est produit par l’ostéoblaste et se fixe à RANK sur l’ostéoclaste, mais cela ne suffit pas à exclure une forme membranaire de RANK-L sur l’ostéoblaste. La page de cours consultée illustre surtout le ligand libéré. À vérifier dans la ronéo : le verdict faux sur la seule localisation « en surface » reste à confirmer.",
+    "refs": [
+      {
+        "file": "TC3 2026.pdf",
+        "page": 10,
+        "label": "Régulation RANK-L / RANK / ostéoprotégérine"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AD",
+    "reviewedItemText": {
+      "C": "La molécule Rank-L se situe en surface des ostéoblastes"
+    },
+    "reviewedExplanation": {
+      "C": "il est synthétisé par les ostéoblastes, le récepteur Rank est sur les ostéoclastes, Rank-L est le ligand"
+    },
+    "noteId": "ue5-006"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 2,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : l’éosine est rangée parmi les colorants acides dans la ronéo. Son classement comme faux, avec l’explication « basophile », confond la nature du colorant et l’affinité des structures colorées. La clé de référence reste affichée, mais elle contredit ici le tableau du cours.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 17,
+        "label": "Colorants acides et basiques : éosine et hématoxyline"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B",
+    "reviewedItemText": {
+      "E": "L’éosine est un colorant acide"
+    },
+    "reviewedExplanation": {
+      "E": "basophile F."
+    },
+    "noteId": "ue5-007"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 7,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Item A : l’explication affirme que le MGG serait réservé aux frottis sanguins. La ronéo en donne cet exemple sans établir une exclusivité. À vérifier dans la ronéo : cette seule justification ne permet pas d’exclure son emploi sur un prélèvement cytologique bronchique.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 19,
+        "label": "Coloration May-Grünwald-Giemsa"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "A": "Les produits de brossage bronchique peuvent être étalés sur une lame et colorés avec le MGG"
+    },
+    "reviewedExplanation": {
+      "A": "ce colorant est réservé au frottis sanguin"
+    },
+    "noteId": "ue5-008"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 3,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item B est bien faux pour Tau, qui n’est pas le moteur du transport rétrograde. L’explication comporte cependant une inversion : la dynéine assure le transport rétrograde, et la kinésine le transport antérograde, comme le précise la ronéo.",
+    "refs": [
+      {
+        "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+        "page": 7,
+        "label": "Transports axonaux antérograde et rétrograde"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACD",
+    "reviewedItemText": {
+      "B": "Le transport rétrograde est assuré par Tau"
+    },
+    "reviewedExplanation": {
+      "B": "c’est une protéine de stabilisation et non un moteur moléculaire. Antérograde = dynéine"
+    },
+    "noteId": "ue5-009"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 10,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Item E : la recapture est décrite plus précisément dans la ronéo comme un passage par des transporteurs membranaires. Le cours utilise aussi le mot « récepteurs » dans un passage antérieur. À vérifier dans la ronéo : distinguer un transporteur de recapture d’un récepteur présynaptique qui module la libération ; cette ambiguïté terminologique ne suffit pas à modifier la clé.",
+    "refs": [
+      {
+        "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+        "page": 15,
+        "label": "Devenir des neurotransmetteurs"
+      },
+      {
+        "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+        "page": 17,
+        "label": "Recapture par les transporteurs membranaires"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ADEGH",
+    "reviewedItemText": {
+      "E": "La recapture des neurotransmetteurs présents dans la fente synaptique peut se faire par un récepteur présynaptique"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-010"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 7,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item B : l’actine forme bien l’axe des microvillosités et des stéréocils, mais cet axe est cytoplasmique, et non conjonctif. La ronéo décrit un faisceau d’actine à l’intérieur du prolongement cellulaire. La réponse validée par la source comporte donc une erreur de terme.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 15,
+        "label": "Axe des microvillosités"
+      },
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 16,
+        "label": "Stéréocils"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "B": "les microvillosités et les stéréocils présentent une caractéristique commune, la présence dans leur axe conjonctif de filaments d'actine."
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-011"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 26,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item A : la ronéo indique que les stéréocils sont très rares et cite l’épididyme et l’oreille interne. Leur présence, avec les microvillosités, sur « la plupart des cellules épithéliales » n’est donc pas compatible avec ce cours. La rareté des stéréocils est le point litigieux ; l’item B sur leur axe d’actine est distinct.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 16,
+        "label": "Localisations des stéréocils"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "A": "Des stéréocils et des microvillosités sont présents sur le pôle apical de la plupart des cellules épithéliales"
+    },
+    "reviewedExplanation": {
+      "A": "."
+    },
+    "noteId": "ue5-012"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 6,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item D sur la bordure ostéoïde est correct. C’est l’explication qui contient un lapsus : les ostéoblastes synthétisent la matrice organique osseuse, et non la matrice cartilagineuse. La ronéo associe explicitement ostéoblastes, ostéoïde et matrice de l’os.",
+    "refs": [
+      {
+        "file": "TC3 2026.pdf",
+        "page": 6,
+        "label": "Ostéoblastes et synthèse de la matrice osseuse"
+      },
+      {
+        "file": "TC3 2026.pdf",
+        "page": 7,
+        "label": "Bordure ostéoïde"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "D": "les ostéoblastes sont impliqués dans la synthèse de la matrice organique de l'os, la bordure ostéoïde."
+    },
+    "reviewedExplanation": {
+      "D": "ces cellules actives synthétisent la MO de la MEC cartilagineuse"
+    },
+    "noteId": "ue5-013"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 15,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item C doit être distingué de son explication : les granulations métachromatiques et l’hypersensibilité immédiate caractérisent ici le mastocyte. Répéter « histiocyte » dans l’explication ne corrige pas l’erreur de cellule. La ronéo décrit séparément le macrophage/histiocyte et le mastocyte.",
+    "refs": [
+      {
+        "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+        "page": 7,
+        "label": "Mastocytes : granulations et hypersensibilité immédiate"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AB",
+    "reviewedItemText": {
+      "C": "L’histiocyte est une cellule résidente remplie de granulations métachromatiques impliquée dans le phénomène d’hypersensibilité immédiate."
+    },
+    "reviewedExplanation": {
+      "C": "L’histiocyte est une cellule mobile remplie de granulations métachromatiques impliquée dans le phénomène d’hypersensibilité immédiate."
+    },
+    "noteId": "ue5-014"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 21,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item A sur l’association du tropocollagène en fibrilles est retenu. L’explication situe cependant cette association dans les vésicules de sécrétion. La ronéo actualisée situe l’assemblage des fibrilles dans la matrice extracellulaire ; elle distingue cette étape de la maturation du procollagène.",
+    "refs": [
+      {
+        "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+        "page": 12,
+        "label": "Synthèse et assemblage des fibres de collagène"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABD",
+    "reviewedItemText": {
+      "A": "Les molécules de tropocollagène s'associent pour former des fibrilles."
+    },
+    "reviewedExplanation": {
+      "A": "dans les vésicules de sécrétion ensuite on aura des fibres de 300nm dans la MEC"
+    },
+    "noteId": "ue5-015"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 31,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : la ronéo actualisée indique que les fibres de réticuline forment l’armature du tissu conjonctif lâche. Le corrigé le refuse ici, alors que le même énoncé est accepté au QCM 47 de cette série. Il existe donc à la fois un désaccord avec le passage actuel et une divergence entre les corrections de la compilation.",
+    "refs": [
+      {
+        "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+        "page": 11,
+        "label": "Fibres de réticuline"
+      },
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 4,
+        "label": "Tissu conjonctif lâche aréolaire"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BC",
+    "reviewedItemText": {
+      "E": "Les fibres de réticuline forment l’armature du tissu conjonctif lâche."
+    },
+    "reviewedExplanation": {
+      "E": "tous les TC lâches ne présentent pas de la réticuline, ce n’est pas une constante du TC lâche"
+    },
+    "noteId": "ue5-016"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 49,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : la ronéo situe la moelle hématopoïétique entre les travées du tissu osseux spongieux. Le corrigé oppose exclusivement une moelle jaune à cette localisation et rejette l’item ; cette exclusion contredit le cours. La conversion de certaines zones médullaires en moelle jaune ne justifie pas une négation générale.",
+    "refs": [
+      {
+        "file": "TC3 2026.pdf",
+        "page": 15,
+        "label": "Tissu spongieux et moelle hématopoïétique"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AD",
+    "reviewedItemText": {
+      "E": "La moelle osseuse hématopoéïtique se situe dans les espaces du tissu osseux spongieux."
+    },
+    "reviewedExplanation": {
+      "E": ": c’est la moelle jaune qui se trouve dans les espaces du tissu osseux spongieux. La moelle jaune n’est pas hématopoïétique."
+    },
+    "noteId": "ue5-017"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 54,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item C : la ronéo précise que, sans collagène, l’os devient très fragile et cassant. Le verdict faux de la source sur cette proposition est donc en conflit direct avec le cours, même si l’explication mentionne le collagène I.",
+    "refs": [
+      {
+        "file": "TC3 2026.pdf",
+        "page": 4,
+        "label": "Rôle mécanique de la composante organique de l’os"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : D",
+    "reviewedItemText": {
+      "C": "L'absence de collagène dans la matrice extracellulaire rend le tissu fragile"
+    },
+    "reviewedExplanation": {
+      "C": ", collagène I"
+    },
+    "noteId": "ue5-018"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 56,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item B : le parallélisme des fibres doit être limité à une même lamelle. La ronéo décrit des orientations différentes entre les lamelles successives, notamment un angle d’environ 90° dans l’ostéon. L’expression « toutes parallèles dans le tissu osseux lamellaire » est donc trop générale.",
+    "refs": [
+      {
+        "file": "TC3 2026.pdf",
+        "page": 12,
+        "label": "Organisation du tissu osseux lamellaire"
+      },
+      {
+        "file": "TC3 2026.pdf",
+        "page": 13,
+        "label": "Orientation des lamelles de l’ostéon"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCD",
+    "reviewedItemText": {
+      "B": "Les fibres de collagène sont toutes parallèles dans le tissu osseux lamellaire"
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-019"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La question demande l’affirmation inexacte : la sélection de B ne signifie donc pas que son énoncé est vrai. L’explication doit néanmoins distinguer transcription nucléaire et traduction cytoplasmique ; la phrase « la traduction se fait dans le noyau » est erronée. Le cours place la synthèse des protéines ribosomales dans le cytosol.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 3,
+        "label": "Du gène à la protéine"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 24,
+        "label": "Synthèse cytosolique des protéines ribosomales"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B",
+    "reviewedItemText": {
+      "B": "Il est le siège d’une intense activité traductionnelle comme l’atteste la pâleur de son noyau sur les colorations standards."
+    },
+    "reviewedExplanation": {
+      "B": "activité transcriptionnelle , la traduction se fait dans le noyau et on aura de nombreux corps de Nisll dans le cytosol"
+    },
+    "noteId": "ue5-020"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 22,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Item E : le corrigé coche faux, puis écrit lui-même une largeur de 0 à 40 nm et envisage un verdict vrai. La ronéo donne cet intervalle. L’expression stricte « moins de 40 nm » ne permet pas à elle seule de résoudre cette correction contradictoire ; les QCM 41 E et 57 D de la compilation acceptent la même idée.",
+    "refs": [
+      {
+        "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+        "page": 12,
+        "label": "Fente de la synapse chimique"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "E": "la fente synaptique mesure moins de 40nm de largeur"
+    },
+    "reviewedExplanation": {
+      "E": "entre 0 et 40nm on peut dire Vrai entre 0 et 40 ???"
+    },
+    "noteId": "ue5-021"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 33,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le verdict faux de A est cohérent, mais l’explication donne 25 % pour la microglie. La ronéo actuelle retient environ 5 % des cellules gliales pour les microgliocytes. L’ordre de grandeur de l’explication doit donc être distingué de celui du cours actuel.",
+    "refs": [
+      {
+        "file": "TN3 - Ronéo 2026.pdf",
+        "page": 14,
+        "label": "Microgliocytes : proportion des cellules gliales"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : CDE",
+    "reviewedItemText": {
+      "A": "les microgliocytes représentent 75 % des cellules de la névroglie centrale."
+    },
+    "reviewedExplanation": {
+      "A": "25%"
+    },
+    "noteId": "ue5-022"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 34,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item D : la ronéo place les ganglions entériques dans la sous-muqueuse et dans la musculeuse, correspondant aux plexus de Meissner et d’Auerbach. La « muqueuse digestive » de la proposition n’est pas équivalente à la sous-muqueuse. La source valide donc une localisation imprécise en conflit avec les couches décrites dans le cours.",
+    "refs": [
+      {
+        "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+        "page": 13,
+        "label": "Système nerveux entérique, p. imprimée 12"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDE",
+    "reviewedItemText": {
+      "D": "ils sont localisés dans la muqueuse digestive"
+    },
+    "reviewedExplanation": {
+      "D": "et aussi dans la couche myentérique"
+    },
+    "noteId": "ue5-023"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 35,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Item B : la justification « concavité ??? » n’établit pas pourquoi la localisation sous-arachnoïdienne sur la convexité serait fausse. La ronéo décrit le LCS dans les espaces sous-arachnoïdiens péri-encéphaliques sans cette exclusion. À vérifier dans la ronéo : ce verdict ne dispose pas ici d’une justification anatomique suffisamment précise.",
+    "refs": [
+      {
+        "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+        "page": 4,
+        "label": "Circulation du LCS, p. imprimée 3"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "B": "sur la convexité, il est localisé dans les espaces sous-arachnoïdiens"
+    },
+    "reviewedExplanation": {
+      "B": "concavité ???"
+    },
+    "noteId": "ue5-024"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 1,
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "Item A : la même liste de lieux de circulation du LCS, incluant les « organes circumventriculaires », est acceptée au QCM 1 et refusée au QCM 38 de cette compilation. La ronéo consultée décrit les ventricules, le canal central et les espaces sous-arachnoïdiens, mais ne permet pas d’arbitrer ici cette formulation sur les organes circumventriculaires. Les deux clés sont conservées et la divergence est signalée.",
+    "refs": [
+      {
+        "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+        "page": 4,
+        "label": "Circulation du LCS, p. imprimée 3"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "A": "Il circule dans les ventricules, les espaces sous-arachnoïdiens, les organes circumventriculaires et le canal épendymaire."
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-025"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 38,
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "Item A : la même liste de lieux de circulation du LCS, incluant les « organes circumventriculaires », est acceptée au QCM 1 et refusée au QCM 38 de cette compilation. La ronéo consultée décrit les ventricules, le canal central et les espaces sous-arachnoïdiens, mais ne permet pas d’arbitrer ici cette formulation sur les organes circumventriculaires. Les deux clés sont conservées et la divergence est signalée.",
+    "refs": [
+      {
+        "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+        "page": 4,
+        "label": "Circulation du LCS, p. imprimée 3"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : C",
+    "reviewedItemText": {
+      "A": "il circule dans les ventricules, les espaces sous-arachnoïdiens, les organes circumventriculaires et le canal de l’épendyme"
+    },
+    "reviewedExplanation": {
+      "A": "dans les espaces circumventriculaires on a des échanges entre le sang et le LCR"
+    },
+    "noteId": "ue5-026"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 58,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item C est bien rejeté puisqu’il existe des corps cellulaires gliaux dans la substance blanche. L’explication doit cependant écrire « SNC », et non « SNP » : la distinction substance grise / substance blanche et les oligodendrocytes décrits ici concernent le système nerveux central.",
+    "refs": [
+      {
+        "file": "TN3 - Ronéo 2026.pdf",
+        "page": 12,
+        "label": "Oligodendrocytes dans la substance grise et blanche du SNC"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BD",
+    "reviewedItemText": {
+      "C": "elle ne contient aucun corps cellulaire ni aucune synapse"
+    },
+    "reviewedExplanation": {
+      "C": "il y a des corps cellulaire des cellules gliales du SNP"
+    },
+    "noteId": "ue5-027"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 61,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item C : le corrigé le refuse au seul motif que le rétrograde ne devrait pas être qualifié de rapide. La ronéo décrit pourtant explicitement un transport rétrograde rapide assuré par la dynéine, de l’ordre de 200 à 400 mm/jour. Ce motif de rejet est donc en conflit avec le cours actuel.",
+    "refs": [
+      {
+        "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+        "page": 7,
+        "label": "Transport axonal rétrograde rapide"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AB",
+    "reviewedItemText": {
+      "C": "Le transport rétrograde rapide est lié à l’activité ATPasique de la dynéine"
+    },
+    "reviewedExplanation": {
+      "C": ": Il n’y a pas de distinction lent/rapide pour le transport rétrograde. Il n’y a que le transport antérograde qui est distingué en lent et rapide. Sinon tout le reste de l’item est juste"
+    },
+    "noteId": "ue5-028"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 2,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Item E : l’exclusion de l’ultramicrotome au seul motif que l’observation finale est en microscopie optique est à vérifier. La ronéo décrit des coupes semi-fines en résine destinées à la microscopie optique, mais le passage consulté ne précise pas l’instrument. À vérifier dans la ronéo : distinguer l’appareil de coupe de l’épaisseur et de la technique d’observation.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 14,
+        "label": "Inclusion en résine et coupes semi-fines"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABC",
+    "reviewedItemText": {
+      "E": "Suivie d’une réalisation de coupes à partir d’un ultramicrotome, pour une approche morphologique"
+    },
+    "reviewedExplanation": {
+      "E": "la proposition n’est vraie que pour le ME ici on est en MO"
+    },
+    "noteId": "ue5-029"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 8,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item B : la ronéo décrit l’inclusion dans la paraffine à 50–60 °C, suivie du refroidissement avant la coupe. La proposition porte sur l’inclusion à environ 56 °C ; la rejeter parce que le bloc doit être refroidi pour la coupe confond deux étapes successives du protocole.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 13,
+        "label": "Inclusion en paraffine, refroidissement puis coupe"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AD",
+    "reviewedItemText": {
+      "B": "d'une inclusion destinée à durcir le prélèvement afin d'en permettre -la coupe, par exemple à l'aide de paraffine maintenue à environ 56 0 C."
+    },
+    "reviewedExplanation": {
+      "B": "la paraffine doit être refroidie pour la coupe"
+    },
+    "noteId": "ue5-030"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 9,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Item A : le caractère « indispensable » d’une fixation au méthanol avant une coupe congelée dépend du protocole. La ronéo décrit séparément la congélation et les traitements nécessaires aux analyses, sans justifier cette obligation générale au méthanol. À vérifier dans la ronéo : ne pas transformer un exemple de fixation en condition universelle de toute coupe congelée.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 15,
+        "label": "Technique de congélation"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABD",
+    "reviewedItemText": {
+      "A": "d'une fixation à l'aide de méthanol par exemple, indispensable pour préserver les structures biologiques d'une pièce opératoire."
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-031"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 10,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : en histoenzymologie, c’est l’enzyme présente dans le tissu que l’on cherche à localiser. La ronéo décrit l’apport d’un substrat dont le produit de transformation sera révélé. « Substrat endogène » confond donc le substrat fourni par la technique et l’activité enzymatique endogène recherchée.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 21,
+        "label": "Histoenzymologie : substrat et produit révélé"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AE",
+    "reviewedItemText": {
+      "E": "d'une étude in situ des constituants biochimiques, par exemple une histoenzymologie, afin de déceler et de localiser des activités enzymatiques, en mettant en évidence le produit de leur action sur un substrat endogène , cette étude dot être faite avant la fixation"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-032"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 15,
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "Item A : le corrigé conserve la proposition « ne permet pas d’observer des papilles gustatives » parmi les réponses vraies, mais son explication affirme au contraire que les papilles sont visibles. Ce conflit interne de la source est signalé sans imposer un nouveau verdict à partir de la seule légende.",
+    "refs": [
+      {
+        "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "page": 7,
+        "label": "Microphotographie de langue : contradiction entre clé et commentaire"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACD",
+    "reviewedItemText": {
+      "A": "Elle ne permet pas d'observer des papilles gustatives."
+    },
+    "reviewedExplanation": {
+      "A": ": Les papilles gustatives sont visibles"
+    },
+    "noteId": "ue5-033"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 17,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item D est rejeté. L’explication de la production d’anticorps monoclonaux doit cependant porter sur l’isolement de lymphocytes B spléniques puis la formation d’hybridomes ; la ronéo ne décrit pas une simple récupération de toutes les IgG dans la rate.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 24,
+        "label": "Production d’anticorps monoclonaux : lymphocytes B et hybridomes"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "D": "La synthèse d'anticorps monoclonaux nécessite de collecter le sang de l’animal immunisé."
+    },
+    "reviewedExplanation": {
+      "D": ": La synthèse d’anticorps monoclonaux nécessite de mettre en contact un animal comme le lapin avec les antigènes de la protéine que l’on cherche à cibler. Une fois le mécanisme immunologique mis en place, on sacrifie l’animal et on extrait sa rate (organe lymphoïde primaire) afin de récupérer toutes les IgG et de les sélectionner."
+    },
+    "noteId": "ue5-034"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 19,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le verdict faux de D est conservé, mais le diamètre donné dans l’explication est incorrect : la ronéo distingue environ 25 nm pour les microtubules, 10 nm pour les filaments intermédiaires et 5 nm pour les filaments d’actine. Les 5 nm de l’explication ne sont pas le diamètre d’un microtubule.",
+    "refs": [
+      {
+        "file": "roneo CM3 LE CYTOSQUELETTE - CG - Actualisation.pdf",
+        "page": 1,
+        "label": "Dimensions des trois éléments du cytosquelette"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABE",
+    "reviewedItemText": {
+      "D": "Un microtubule a un diamètre de 500 nanomètres."
+    },
+    "reviewedExplanation": {
+      "D": ": L’épaisseur d’un microtubule est de 5 nanomètres."
+    },
+    "noteId": "ue5-035"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 20,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item B porte sur le microscope électronique à transmission. L’explication lui substitue le balayage et une résolution de 50 nm. La ronéo distingue la transmission, permettant l’étude ultrastructurale interne avec une résolution annoncée de 1 nm à 1 Å, du balayage de la surface. La justification doit être lue avec cette distinction.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 38,
+        "label": "Microscopie électronique à transmission"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 39,
+        "label": "Microscopie électronique à balayage"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BD",
+    "reviewedItemText": {
+      "B": "Il est possible d’observer un noyau, un ribosome et une mitochondrie dans une même cellule en microscopie électronique à transmission."
+    },
+    "reviewedExplanation": {
+      "B": ": La résolution du microscope électronique à balayage peut atteindre 50 nm."
+    },
+    "noteId": "ue5-036"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 22,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’expérience de pulse-chase suit ici les grains de zymogène de cellules pancréatiques exocrines. L’explication parle à tort d’un organe endocrine sécrétant au pôle apical : la sécrétion apicale illustrée est dirigée vers la lumière acineuse, alors que la sécrétion endocrine est destinée au sang.",
+    "refs": [
+      {
+        "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+        "page": 15,
+        "label": "Cellules séreuses exocrines pancréatiques, p. imprimée 36"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 29,
+        "label": "Pulse-chase des protéines sécrétées"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE",
+    "reviewedItemText": {
+      "E": "En 2 heures, il est possible de visualiser la sécrétion des grains de zymogène"
+    },
+    "reviewedExplanation": {
+      "E": ": Nous pouvons observer sur le cliché microscopique 4 (à 117 minutes précisément) la migration des grains de zymogène vers le pôle apical des cellules pancréatiques. Dans un organe endocrine, les protéines sont destinées à être sécrétées dans la circulation systémique au travers de vésicules de sécrétion situées au niveau du pôle apical."
+    },
+    "noteId": "ue5-037"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 37,
+    "items": [
+      "B",
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Items B et D : un marquage à la leucine tritiée suit l’ensemble des protéines qui incorporent ce précurseur. Il ne suffit pas, à lui seul, à attribuer le signal à la seule protéine PlC ; l’immunofluorescence avec un anticorps spécifique répond à une autre question. À vérifier dans la ronéo : la correction suppose une spécificité du traceur qui n’est pas établie par le protocole décrit.",
+    "refs": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 29,
+        "label": "Autoradiographie et pulse-chase"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 23,
+        "label": "Reconnaissance antigène-anticorps"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCDE",
+    "reviewedItemText": {
+      "B": "L’autoradiographie permettra de visualiser où l’ARNm est traduit",
+      "D": "Les deux marquages permettront de confirmer si la protéine d’intérêt est observée au niveau des membranes plasmiques"
+    },
+    "reviewedExplanation": {
+      "B": ": L’autoradiographie permet de marquer des acides aminés (ici la leucine avec du tritium) et la traduction est l’assemblage d’acides aminés à partir de l’ARNm pour former une protéine (ici PlC). Donc on pourra visualiser le lieu de traduction de cette protéine (la leucine incorporée dans la formation de la protéine permettra de la révéler puisqu‘elle est marquée radioactivement)",
+      "D": ": Soit les anticorps se fixeront sur la protéine et émettront une fluorescence au niveau de la membrane (immunofluorescence), soit le marquage radioactif de la leucine sera révélé au niveau de la membrane après le trajet de la protéine depuis sa traduction jusqu’à son incorporation dans la membrane (autoradiographie)"
+    },
+    "noteId": "ue5-038"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 36,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le verdict de B n’est pas remis en cause, mais l’explication affirme à tort que le noyau est contenu dans le cytoplasme. La ronéo définit explicitement le cytoplasme comme le cytosol et les organelles, sans le noyau. L’information génétique nucléaire est dans la cellule, mais cette relation ne permet pas d’inclure le noyau dans le cytoplasme.",
+    "refs": [
+      {
+        "file": "Roneo_CM1_GENERALITES_sur_les_cellules_LBH___CG___26_ACTUALISATION.pdf",
+        "page": 5,
+        "label": "Définition du cytoplasme, excluant le noyau"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCE",
+    "reviewedItemText": {
+      "B": "Délimitée par une membrane contenant un cytoplasme et qui renferme une information génétique."
+    },
+    "reviewedExplanation": {
+      "B": ": On pourrait se dire que la phrase est fausse car l’information génétique est n’est pas contenue directement dans le cytoplasme, sauf que pour les cellules procaryotes (bactéries par exemple) l’ADN est libre dans le cytoplasme, donc la phrase est bien vraie puisqu’on parle des cellules en général. De plus, même si l’information génétique est n’est pas contenue directement dans le cytoplasme chez les eucaryotes, le noyau est contenu dans le cytoplasme donc l’ADN aussi indirectement."
+    },
+    "noteId": "ue5-039"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 1,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Item B : la formulation assimile le shARN à un transgène intégré dans l’ADN. La ronéo emploie elle-même ce raccourci ; il faut distinguer l’ARN en épingle à cheveux de la construction d’ADN qui code cet ARN et peut être intégrée. À vérifier dans la ronéo : l’ARN produit n’est pas, à lui seul, le transgène d’ADN recombiné.",
+    "refs": [
+      {
+        "file": "roneo CM2 Techniques en BIO CELL 26 LBH CG corrigées.pdf",
+        "page": 5,
+        "label": "shARN et extinction génique"
+      },
+      {
+        "file": "roneo CM2 Techniques en BIO CELL 26 LBH CG corrigées.pdf",
+        "page": 6,
+        "label": "Transfection stable et transduction"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BD",
+    "reviewedItemText": {
+      "B": "le shARN est introduit par transfection , il peut alors se recombiner au génome de la cellule hôte"
+    },
+    "reviewedExplanation": {
+      "B": ", on l’introduit comme un transgène dans la cellule et il est transcrit en siARN"
+    },
+    "noteId": "ue5-040"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item D de l’image source : la dépolymérisation des microtubules participe bien à la séparation des chromatides pendant la mitose. La ronéo décrit le raccourcissement des microtubules kinétochoriens pendant l’anaphase A. L’effet d’un médicament qui désorganise le fuseau ne doit pas être confondu avec cette dépolymérisation physiologique ; le rejet de D dans le corrigé contredit ce mécanisme.",
+    "refs": [
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 12,
+        "label": "Dynamique des extrémités + des microtubules kinétochoriens"
+      },
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 13,
+        "label": "Anaphase A : dépolymérisation"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE",
+    "reviewedItemText": {
+      "D": "Proposition D — lire le texte dans la reproduction du sujet ci-dessus"
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "ue5-041"
+  },
+  {
+    "bank": "bio.cm3",
+    "id": 10,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’explication de B confond deux populations du fuseau. Les microtubules interpolaires se chevauchent entre les pôles ; les microtubules kinétochoriens sont attachés aux kinétochores. La ronéo distingue ces structures : le chevauchement des microtubules polaires ne se situe pas sur les kinétochores/centromères comme l’indique l’explication.",
+    "refs": [
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 12,
+        "label": "Microtubules kinétochoriens, astraux et interpolaires"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AB",
+    "reviewedItemText": {
+      "B": "Les microtubules dynamiques du fuseau mitotique se chevauchent par leurs deux extrémités +"
+    },
+    "reviewedExplanation": {
+      "B": ", au niveau des kinétochores/centromères"
+    },
+    "noteId": "ue5-042"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 4,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Item A : la description des filaments intermédiaires comme « tubulaires » mérite vérification. La ronéo décrit leur assemblage à partir de protéines fibrillaires, en dimères, tétramères et protofilaments ; la structure en tube creux est habituellement distinguée pour les microtubules. À vérifier dans la ronéo : le passage consulté ne tranche pas explicitement ce qualificatif appliqué aux filaments intermédiaires.",
+    "refs": [
+      {
+        "file": "roneo CM3 LE CYTOSQUELETTE - CG - Actualisation.pdf",
+        "page": 1,
+        "label": "Assemblage des filaments intermédiaires"
+      },
+      {
+        "file": "roneo CM3 LE CYTOSQUELETTE - CG - Actualisation.pdf",
+        "page": 6,
+        "label": "Structure des microtubules"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ADE",
+    "reviewedItemText": {
+      "A": "Les filaments intermédiaires ont une structure de type tubulaire."
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-043"
+  },
+  {
+    "bank": "bio.cm4",
+    "id": 2,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item D est rejeté, mais son explication écrit « N glyco sur Asp ». La N-glycosylation porte sur l’asparagine, abrégée Asn, comme l’indique la synthèse de la ronéo : motif Asn-X-Ser/Thr. Asp désigne l’aspartate. Le corps du cours contient lui aussi un lapsus de motif à la page 13, alors que la synthèse page 22 donne le terme correct.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 22,
+        "label": "Synthèse : N-glycosylation sur Asn-X-Ser/Thr"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 13,
+        "label": "N-glycosylation : asparagine et lapsus dans le motif"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACE",
+    "reviewedItemText": {
+      "D": "Dans RE il y a exclusivement une glycosylation de type O sur des serine thréonine"
+    },
+    "reviewedExplanation": {
+      "D": "N glyco sur Asp"
+    },
+    "noteId": "ue5-044"
+  },
+  {
+    "bank": "bio.cm4",
+    "id": 7,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "L’item C sur les ponts disulfure des IgG est retenu. L’explication « entre chaînes légères » est à vérifier : le cours décrit des IgG à deux chaînes lourdes et deux chaînes légères reliées par des ponts S–S, sans donner sur cette page le détail de chaque liaison. À vérifier dans la ronéo : ne pas assimiler tous les ponts interchaînes à des liaisons entre les deux chaînes légères.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 14,
+        "label": "IgG et ponts disulfure"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCD",
+    "reviewedItemText": {
+      "C": "Les IGg ont des ponts disulfures"
+    },
+    "reviewedExplanation": {
+      "C": ", entre chaînes légères"
+    },
+    "noteId": "ue5-045"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 1,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : la ronéo attribue la reconnaissance du peptide signal à la particule SRP. Le récepteur membranaire de la SRP accueille ensuite le complexe et l’adresse au translocon. La proposition validée confond la SRP et son récepteur ; la longueur du peptide ne résout pas cette confusion.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 8,
+        "label": "Reconnaissance du peptide signal par la SRP"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 22,
+        "label": "Synthèse de l’adressage au RE"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCDE",
+    "reviewedItemText": {
+      "E": "Sur le schéma en B, la séquence protéique signal composée d’environ 8 AA à chaines latérales hydrophobes (indiquée par la flèche 1) est reconnue par le récepteur de la particule de reconnaissance du signal (SRP)"
+    },
+    "reviewedExplanation": {
+      "E": ", 7 à 15 hydrophobes donc 8 environ est accepté"
+    },
+    "noteId": "ue5-046"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 3,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item A : « P2 » compte les deux phosphates ajoutés sur l’inositol, pas tous les phosphates de la molécule. Le squelette du phosphatidylinositol contient déjà un phosphate, comme l’illustre la ronéo. Le décompte structural est donc un phosphate du squelette plus deux sur l’inositol, soit trois au total pour PI(3,4)P2. Ce raisonnement contredit le verdict faux de la source.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 6,
+        "label": "Squelette des glycérophospholipides et du phosphatidylinositol"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "A": "Les phosphoinositide PI(3,4)P2 possède un total de 3 groupes phosphate"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-047"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item A : « P2 » compte les deux phosphates ajoutés sur l’inositol, pas tous les phosphates de la molécule. Le squelette du phosphatidylinositol contient déjà un phosphate, comme l’illustre la ronéo. Le décompte structural est donc un phosphate du squelette plus deux sur l’inositol, soit trois au total pour PI(3,4)P2. Ce raisonnement contredit le verdict faux de la source.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 6,
+        "label": "Squelette des glycérophospholipides et du phosphatidylinositol"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "A": "Les phosphoinositide PI(3,4)P2 possède un total de 3 groupes phosphate"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-048"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 4,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Item D : la règle « segments impairs = départ, segments pairs = arrêt » est acceptée au QCM 4 et refusée au QCM 6 de la même compilation. La ronéo décrit des topologies qui dépendent de l’orientation du premier signal et des charges voisines. Cette alternance ne doit donc pas être appliquée comme une règle indépendante de la topologie représentée ; les clés différentes de la source sont conservées.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Détermination de la topologie membranaire"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 11,
+        "label": "Signaux d’initiation et d’arrêt"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 12,
+        "label": "Protéines à passages multiples"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : D",
+    "reviewedItemText": {
+      "D": "Dans les protéines transmembranaires à passages multiples, les segments transmembranaires impairs (à partir de l’extrémité N-terminale) agissent comme des signaux de départ de transfert et les segments pairs comme des signaux d’arrêt de transfert."
+    },
+    "reviewedExplanation": {
+      "D": ": Les segments impairs se comportent tous comme le premier segment transmembranaire et les segments pairs se comportent comme le second."
+    },
+    "noteId": "ue5-049"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 6,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Item D : la règle « segments impairs = départ, segments pairs = arrêt » est acceptée au QCM 4 et refusée au QCM 6 de la même compilation. La ronéo décrit des topologies qui dépendent de l’orientation du premier signal et des charges voisines. Cette alternance ne doit donc pas être appliquée comme une règle indépendante de la topologie représentée ; les clés différentes de la source sont conservées.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Détermination de la topologie membranaire"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 11,
+        "label": "Signaux d’initiation et d’arrêt"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 12,
+        "label": "Protéines à passages multiples"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : A",
+    "reviewedItemText": {
+      "D": "Dans une protéine à une plusieurs transmembranaires, les segments transmembranaires impairs (comptés à partir de l’extrémité N-Ter) se comportent comme des signaux de départ de transfert, tandis que les segments pairs se comportent comme des signaux d’arrêt de transfert."
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "ue5-050"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 5,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Item D : la viabilité d’une levure totalement dépourvue de TOM est justifiée dans le corrigé par la possibilité de fermenter. La ronéo rappelle pourtant que les mitochondries importent de nombreuses protéines et remplissent des fonctions autres que la production d’ATP. À vérifier dans la ronéo : la fermentation seule ne démontre pas la viabilité d’une déficience complète de tout le complexe TOM.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 9,
+        "label": "Adressage des protéines à la mitochondrie"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 10,
+        "label": "TOM/TIM et import mitochondrial"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : DE",
+    "reviewedItemText": {
+      "D": "Des levures complètement déficientes en TOM (Transporter of Outer Membrane) sont viables."
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "ue5-051"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "items": [
+      "B",
+      "C",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La clé ABCDE doit être distinguée des réserves du cours. B généralise à toutes les protéines membranaires une séquence hydrophobe conservée, alors que la ronéo décrit notamment le remplacement d’un segment par une ancre GPI. C est incompatible avec les signaux internes d’initiation non clivés. E confond à nouveau la SRP, qui reconnaît le signal, et son récepteur. Le corrigé source comporte en outre des annotations ajoutées réfutant C et E ; sa clé initiale est conservée.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 11,
+        "label": "Signaux internes non clivés"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 14,
+        "label": "Clivage du segment C-terminal et ancre GPI"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 8,
+        "label": "SRP et récepteur de la SRP"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCDE",
+    "reviewedItemText": {
+      "B": "Toutes les protéines membranaires possèdent au moins un domaine hydrophobe d’environ 15 à 20 acides aminés ;",
+      "C": "Une peptidase élimine toutes les séquences qui initient la translocation d’une protéine dans le RE.",
+      "E": "Le récepteur de la SRP reconnait une séquence hydrophobe sur une protéine en cours de synthèse au niveau du ribosome."
+    },
+    "reviewedExplanation": {
+      "B": "",
+      "C": "",
+      "E": ""
+    },
+    "noteId": "ue5-052"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 8,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item D : opposer les chaperonnes aux protéines résidentes du RE n’est pas une justification valable. La ronéo décrit notamment BiP parmi les chaperonnes du RE et le motif KDEL comme signal des protéines solubles qui doivent y résider. Pour ces chaperonnes luminales résidentes, le motif KDEL est précisément cohérent avec la récupération vers le RE ; la clé de la source reste inchangée.",
+    "refs": [
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 16,
+        "label": "BiP et réponse au stress du RE"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 20,
+        "label": "Récupération des protéines résidentes par KDEL"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : C",
+    "reviewedItemText": {
+      "D": "Les protéines chaperons solubles impliquées dans l’UPR possèdent un domaine KDEL à leur extrémité C-terminal"
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "ue5-053"
+  },
+  {
+    "bank": "bio.cm5",
+    "id": 11,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’exemple donné dans l’explication de A doit être précisé : le fer se détache de la transferrine dans l’endosome acide. C’est la transferrine dépourvue de fer qui reste associée à son récepteur et revient à la surface. Le schéma de la ronéo distingue explicitement ces deux interactions ; « transferrine et fer » n’est pas le couple qui reste associé.",
+    "refs": [
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 18,
+        "label": "Schéma du recyclage transferrine/récepteur"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : A",
+    "reviewedItemText": {
+      "A": "Certains couples ligand/récepteur ne sont pa sensibles aux variations de pH de l’endosome précoce, ils ne s’y détachent pas"
+    },
+    "reviewedExplanation": {
+      "A": ", transferrine et fer"
+    },
+    "noteId": "ue5-054"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 8,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Après réappariement au corrigé original, la clé de cette question est ABCDE. L’item C reste néanmoins litigieux : la ronéo décrit la reconnaissance des Rab par des facteurs d’arrimage, puis l’action des SNARE ; elle ne décrit pas un appariement de Rab complémentaires entre elles. Le rétablissement de la clé source ne valide donc pas scientifiquement cette formulation.",
+    "refs": [
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 6,
+        "label": "Arrimage par Rab et facteurs d’arrimage, puis fusion par SNARE"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCDE",
+    "reviewedItemText": {
+      "C": "Dans les levures, les protéines Rab complémentaires sur les vésicules se lient les unes aux autres pour permettre aux vésicules de transport de s’arrimer sélectivement à leurs membranes cibles appropriées."
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-055"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 9,
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé source ABDE accepte A, mais une annotation ajoutée dans le même corrigé le réfute : l’élévation du pH gêne la dissociation des hydrolases et de leur récepteur dans l’endosome. La ronéo décrit précisément cette dissociation à pH acide et le recyclage du récepteur vers le Golgi. L’accumulation dans le Golgi pour défaut de liaison ne suit donc pas le mécanisme exposé.",
+    "refs": [
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Récepteur M6P : liaison, dissociation acide et recyclage"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 8,
+        "label": "Clé ABDE et annotation contraire à l’item A"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "A": "Dans des cellules traitées par une base faible (par exemple la chloroquine) qui augmente le Ph des organelles intracellulaires, les récepteurs au M6P auraient tendance à s’accumuler dans le Golgi parce qu’ils ne pourraient plus se lier aux enzymes lysosomales."
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-056"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 10,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé initiale AE ne retient pas C, mais le corrigé comporte aussi une annotation « vrai » comptant quatre membranes. Les cours décrivent deux membranes mitochondriales et une double membrane autophagosomale. Pour une mitochondrie entièrement incluse dans l’autophagosome, avant digestion, ces deux plus deux membranes séparent bien la matrice du cytosol. La contradiction du corrigé est conservée et explicitée.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 2,
+        "label": "Double membrane mitochondriale"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 10,
+        "label": "Double membrane du phagophore"
+      },
+      {
+        "file": "Annales corrigées CM5 2018-2025.pdf",
+        "page": 9,
+        "label": "Clé AE et annotation vrai à C"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AE",
+    "reviewedItemText": {
+      "C": "La matrice d’une mitochondrie en cours de mitophagie est séparée du cytosol par 4 membranes."
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-057"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 12,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La clé correctement appariée ACDE accepte C, mais la ronéo distingue les Rab, GTPases de contrôle et d’adressage, des moteurs qu’elles recrutent. Le déplacement le long du cytosquelette est assuré par les kinésines, dynéines ou myosines ; les Rab ne sont pas elles-mêmes ces moteurs moléculaires.",
+    "refs": [
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 4,
+        "label": "Rab et recrutement des moteurs"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 6,
+        "label": "Moteurs du transport vésiculaire"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDE",
+    "reviewedItemText": {
+      "C": "Les GTPases monomériques Rab sont des moteurs moléculaires qui transportent les vésicules le long des filaments du cytosquelette."
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-058"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 14,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La clé source ABDE accepte E, mais l’activité d’une GAP stimule l’hydrolyse du GTP et conduit à l’état Rab-GDP inactif. La ronéo distingue l’état actif lié au GTP, l’état inactif lié au GDP et le rôle des GEF dans l’échange qui réactive la protéine G. « GTPase activating » ne signifie donc pas activation du signal porté par Rab.",
+    "refs": [
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 4,
+        "label": "États GTP/GDP et facteurs GEF"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "E": "Les protéines Rab sont activées par les GAP (GTPase Activating Proteins). Hors Programme"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-059"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 15,
+    "items": [
+      "B",
+      "D",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Trois propositions de la clé source ABDE contredisent les mécanismes du cours : B assimile Rab à un moteur alors qu’elle recrute les moteurs ; D situe le M6P à l’extrémité C-terminale alors que ce marquage concerne les mannoses des chaînes glucidiques des hydrolases ; E compte trois membranes alors que deux membranes mitochondriales plus deux autophagosomales en font quatre avant digestion. La source contient aussi une annotation réfutant E, sans modifier sa clé initiale.",
+    "refs": [
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 4,
+        "label": "Rab et moteurs moléculaires"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 9,
+        "label": "Marquage mannose-6-phosphate"
+      },
+      {
+        "file": "CM5 ronéo 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Tri des hydrolases lysosomales"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 2,
+        "label": "Membranes mitochondriales"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 10,
+        "label": "Membranes du phagophore"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "B": "Les GTPases monomériques Rab sont des moteurs moléculaires qui déplacent les vésicules intracellulaires le long des microtubules et des filaments d’actine",
+      "D": "Le mannose-6-phosphate est un signal ajouté dans l’appareil de Golgi en position C-terminal des protéines destinées à l’exportation vers les lysosomes",
+      "E": "La matrice d’une mitochondrie dans un autophagosome est séparée du cytosol par 3 membranes"
+    },
+    "reviewedExplanation": {
+      "B": "",
+      "D": "",
+      "E": ""
+    },
+    "noteId": "ue5-060"
+  },
+  {
+    "bank": "bio.cm6",
+    "id": 2,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Item C : l’explication décrit le diabète insipide central par déficit d’ADH, exemple également développé dans la ronéo. Elle ne permet pas d’exclure les formes néphrogéniques liées à la réponse rénale, notamment à l’aquaporine AQP2. À vérifier dans la ronéo : le verdict dépend ici du type de diabète insipide visé, que la proposition ne précise pas.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 14,
+        "label": "Exemple du diabète insipide central"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ADE",
+    "reviewedItemText": {
+      "C": "L’eau diffuse à travers la bicouche grâce à des aquaporines qui sont mutées dans le cas du diabète insipide"
+    },
+    "reviewedExplanation": {
+      "C": ", dans cette maladie on constate une lésion de l’hypophyse qui entraîne une baisse de production de l’ADH et donc une diminution de l’AQP2 à la membrane et une diminution de la réabsorption => urines abondantes"
+    },
+    "noteId": "ue5-061"
+  },
+  {
+    "bank": "bio.cm6",
+    "id": 5,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : la ronéo place la phosphatidylsérine principalement sur le feuillet interne, cytosolique, et explique son exposition externe pendant l’apoptose. Le verdict faux est également présent dans le corrigé DOCX original : il ne s’agit pas d’un décalage d’import, mais d’un conflit du corrigé avec le cours.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 7,
+        "label": "Asymétrie : PS et PI sur le feuillet interne"
+      },
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 8,
+        "label": "Externalisation de la PS pendant l’apoptose"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCD",
+    "reviewedItemText": {
+      "E": "Le phosphatidylserine est situé principalement sur le feuillet cytosolique"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-062"
+  },
+  {
+    "bank": "bio.cm6",
+    "id": 7,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item D sur l’asymétrie est retenu. Son explication inverse toutefois le sens de la floppase : la ronéo décrit un mouvement du feuillet interne vers le feuillet externe. Le mouvement inverse correspond aux flippases décrites dans le même passage.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 8,
+        "label": "Flippases, floppases et scramblases"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCDE",
+    "reviewedItemText": {
+      "D": "Les floppases contribuent à l’asymétrie membranaire"
+    },
+    "reviewedExplanation": {
+      "D": "quand il est à l’extérieur elles le remettent sur le feuillet interne"
+    },
+    "noteId": "ue5-063"
+  },
+  {
+    "bank": "bio.cm6",
+    "id": 11,
+    "items": [
+      "B",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’explication de E doit distinguer absence d’hydrolyse directe d’ATP et absence de source d’énergie : le cotransport utilise l’énergie d’un gradient, entretenu par exemple par la pompe Na+/K+. Pour B, « uniport » désigne le transport d’une seule espèce ; la direction nette dépend du gradient et n’est pas fixée irréversiblement par ce terme. La ronéo décrit le transport facilité vers l’intérieur ou l’extérieur et le couplage de SGLT1 au gradient de sodium.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 13,
+        "label": "Transport facilité selon le gradient"
+      },
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 17,
+        "label": "Cotransport SGLT1 et rétablissement du gradient"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCD",
+    "reviewedItemText": {
+      "B": "Ils peuvent fonctionner comme un uniport et transporter une molécule dans une seule direction",
+      "E": "Tous les transporteurs agissent de manière active, ils dégradent de l’ATP"
+    },
+    "reviewedExplanation": {
+      "B": "",
+      "E": "pas tous, comme les co-transporteurs qui ne consomment pas d’énergie et utilisent les gradients de molécules"
+    },
+    "noteId": "ue5-064"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 9,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Item E : avec Vm = ECl = −90 mV, la force électrochimique nette Vm − ECl est nulle ; cela conduit normalement à un flux net de Cl− nul, même si des échanges microscopiques persistent. Le corrigé rejette pourtant l’item. À vérifier dans la ronéo : le passage fourni sur les gradients ne redonne pas explicitement la relation d’équilibre électrique utilisée dans cette ancienne question.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 13,
+        "label": "Transport passif selon le gradient ; limite du passage disponible"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCD",
+    "reviewedItemText": {
+      "E": "Le potentiel de la membrane plasmique de la cellule musculaire striée au repos est de -90mV environ. Les mesures de concentration des ions Cl- montrent que le potentiel d’équilibre des ions Cl- est de -90mV. Le flux net de Cl- à travers la membrane plasmique est donc nul."
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-065"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 11,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item A est rejeté, mais remplacer « protéines chargées » par « protéines non chargées » dans l’explication ne suffit pas : la diffusion simple à travers la bicouche dépend aussi fortement de la taille et de la lipophilie. La ronéo réserve cette diffusion aux petites molécules lipophiles, non chargées, et non aux protéines en général.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 12,
+        "label": "Perméabilité : petite taille, lipophilie et charge"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : CDE",
+    "reviewedItemText": {
+      "A": "Les protéines chargées, en solution dans les liquides biologiques, diffusent d’autant plus facilement au travers des membranes qu’elles sont de petite taille."
+    },
+    "reviewedExplanation": {
+      "A": ": Ce sont les protéines NON CHARGÉES qui diffusent d’autant plus facilement au travers des membranes qu’elles sont de petite taille."
+    },
+    "noteId": "ue5-066"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 20,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Item E : l’affirmation sur les hélices amphipathiques de l’aquaporine est rejetée sans détail. La ronéo actuelle confirme le canal à eau, mais le passage consulté ne décrit pas assez sa structure pour justifier ce rejet. À vérifier dans la ronéo : distinguer les aquaporines constituées d’hélices transmembranaires des porines en tonneau bêta ; le verdict n’est pas confirmé par la référence disponible.",
+    "refs": [
+      {
+        "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "page": 13,
+        "label": "Aquaporines : sélectivité et transport de l’eau"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACD",
+    "reviewedItemText": {
+      "E": "L’aquaporine accélère le passage de l’eau au travers de la membrane grâce à ses hélices amphipatiques créant les pores."
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-067"
+  },
+  {
+    "bank": "bio.cm7",
+    "id": 5,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item C : à la fin de S, 46 chromosomes bichromatidiens correspondent à 92 molécules d’ADN double brin, donc 184 brins simples. La ronéo décrit bien la duplication en chromatides sœurs. Employer « 92 brins » pour ces 92 molécules entretient une confusion entre brin d’ADN et chromatide ; la clé du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 5,
+        "label": "ADN à deux chaînes complémentaires"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 9,
+        "label": "Duplication en deux chromatides sœurs"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "C": "en fin de phase S, chaque cellule diploïde humaine présente 92 brin d’ADN"
+    },
+    "reviewedExplanation": {
+      "C": "46 chr bichromatidiens"
+    },
+    "noteId": "ue5-068"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 4,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Item A : la valeur « un peu plus de 100 pg » mérite vérification. En prenant environ 3 × 10^9 paires de bases par jeu haploïde, 660 g/mol par paire et le nombre d’Avogadro donné, on obtient environ 6,6 pg pour un noyau diploïde non répliqué. Le corrigé affirme simplement « valeurs dans le cours », sans calcul. À vérifier dans la ronéo : la masse annoncée et l’unité « nucléotides » sont à contrôler dans la référence de cette annale.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 5,
+        "label": "Valeur de masse d’ADN et justification du corrigé"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "A": "Une masse de nucléotides d’ADN a une masse moyenne d’environ 660 daltons. Connaissant le nombre de nucléotides du génome humain, un noyau humain diploïde contient un peu plus de 100pg d’ADN (Le nombre d’Avogadro est de 6 x 1023)"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-069"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 5,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La direction du transport dépend du gradient de la protéine Ran dans ses états Ran-GTP et Ran-GDP. La ronéo le formule explicitement dans son récapitulatif. La simple accumulation du nucléotide GTP libre dans le noyau ne doit pas être confondue avec ce gradient. Le corrigé du QCM 5 comporte lui-même une annotation remplaçant « GTP » par « Ran-GTP / Ran-GDP », en contradiction avec sa clé initiale.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 19,
+        "label": "Gradient Ran-GTP nucléaire / Ran-GDP cytosolique"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 6,
+        "label": "Annotation ajoutée à C : gradient de Ran"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BC",
+    "reviewedItemText": {
+      "C": "Le gradient de GTP intranucléaire > GTP cytosolique assure la direction du transport des importines et des exportines au travers du complexe du pore nucléaire."
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-070"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 8,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La direction du transport dépend du gradient de la protéine Ran dans ses états Ran-GTP et Ran-GDP. La ronéo le formule explicitement dans son récapitulatif. La simple accumulation du nucléotide GTP libre dans le noyau ne doit pas être confondue avec ce gradient. Le corrigé du QCM 5 comporte lui-même une annotation remplaçant « GTP » par « Ran-GTP / Ran-GDP », en contradiction avec sa clé initiale.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 19,
+        "label": "Gradient Ran-GTP nucléaire / Ran-GDP cytosolique"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 6,
+        "label": "Annotation ajoutée à C : gradient de Ran"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BE",
+    "reviewedItemText": {
+      "B": "L’importation des protéines dans le noyau dépens de l’existence d’un gradient de GTP noyau / GTP cytoplasme > 1"
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-071"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 10,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La direction du transport dépend du gradient de la protéine Ran dans ses états Ran-GTP et Ran-GDP. La ronéo le formule explicitement dans son récapitulatif. La simple accumulation du nucléotide GTP libre dans le noyau ne doit pas être confondue avec ce gradient. Le corrigé du QCM 5 comporte lui-même une annotation remplaçant « GTP » par « Ran-GTP / Ran-GDP », en contradiction avec sa clé initiale.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 19,
+        "label": "Gradient Ran-GTP nucléaire / Ran-GDP cytosolique"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 6,
+        "label": "Annotation ajoutée à C : gradient de Ran"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCE",
+    "reviewedItemText": {
+      "B": "Le transport des protéines au-travers des pores nucléaires dépend de l’accumulation de GTP dans le noyau."
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-072"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 5,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Item D : l’absence d’accumulation nucléaire visible d’une GFP ne démontre pas, à elle seule, son incapacité à diffuser par les pores. La ronéo décrit une diffusion passive de petites protéines sous un seuil indicatif de 40 kDa. À vérifier dans la ronéo et la figure expérimentale : il faut connaître la construction exacte, sa taille et distinguer diffusion et concentration dans le noyau.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 14,
+        "label": "Diffusion passive et seuil de taille du pore nucléaire"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BC",
+    "reviewedItemText": {
+      "D": "La protéine GFP diffuse librement dans l’eau du complexe du pore nucléaire."
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "ue5-073"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 6,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Item C demande le nombre de chromosomes différents, alors que l’explication répond par le nombre de paires. Avec les caryotypes usuels 46,XX et 46,XY cités par le corrigé, on compte 22 types autosomiques plus X chez la femme, et plus X et Y chez l’homme : 23 et 24 types. Les deux sexes ont bien 23 paires ; cet argument ne réfute pas l’énoncé sur les types distincts.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 7,
+        "label": "QCM 44 C : types distincts contre nombre de paires"
+      },
+      {
+        "file": "Roneo_CM1_GENERALITES_sur_les_cellules_LBH___CG___26_ACTUALISATION.pdf",
+        "page": 6,
+        "label": "22 paires d’autosomes et une paire de gonosomes"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "C": "Les cellules des femmes contiennent 23 chromosomes différents, celles des hommes en contiennent 24."
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-074"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 6,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Item E : les boucles des chromosomes en écouvillon sont bien des régions de transcription, mais l’affirmation selon laquelle elles contiennent la majorité de l’ADN demande une référence spécifique. À vérifier dans la ronéo : le cours actuel consulté ne décrit pas ces chromosomes et ne permet pas de confirmer la proportion de l’ADN située dans les boucles plutôt que dans l’axe condensé.",
+    "refs": [
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 7,
+        "label": "QCM 44 E : chromosomes en écouvillon"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE",
+    "reviewedItemText": {
+      "E": "Dans les chromosomes en écouvillon des ovocytes d’amphibiens, la majorité de l’ADN se trouve dans les boucles et est activement transcrit."
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-075"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 11,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Item A : l’ajout d’un NLS à LAMP2 ne démontre pas à lui seul une localisation dans le nucléoplasme, car LAMP2 suit aussi un adressage membranaire par le RE. À vérifier dans la ronéo et dans la construction expérimentale : l’accessibilité du NLS, la topologie et les signaux déjà présents conditionnent le résultat. Le cours général sur le NLS ne suffit pas à certifier cette prédiction.",
+    "refs": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 16,
+        "label": "Signaux NLS et importines"
+      },
+      {
+        "file": "Ronéo RE et adressage 2026 - Corrigé.pdf",
+        "page": 10,
+        "label": "Topologie des protéines membranaires"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDE",
+    "reviewedItemText": {
+      "A": "L’addition d’un signal de localisation nucléaire au milieu de la séquence de Lamp2 ciblerait la protéine dans le nucléoplasme"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-076"
+  },
+  {
+    "bank": "bio.cm8",
+    "id": 5,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Item B : TOM désigne le complexe de translocation des protéines de la membrane externe, présenté comme tel dans la ronéo. L’assimiler sans précision aux porines de perméabilité aux petits métabolites peut confondre ce complexe avec les canaux VDAC. À vérifier dans la ronéo : le sens de « porines appelées TOM » mérite d’être précisé, sans modifier la clé de la source.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 2,
+        "label": "Perméabilité de la membrane externe"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 10,
+        "label": "TOM : translocase de la membrane externe"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCEF",
+    "reviewedItemText": {
+      "B": "La mitochondrie présente une membrane externe riche en porine appelées TOM"
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-077"
+  },
+  {
+    "bank": "bio.cm8",
+    "id": 10,
+    "items": [
+      "A",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le préambule contient un lapsus : les caspases sont des cystéinyl-aspartate protéases, et non des « arginine aspartate protéase ». Pour E, la ronéo place l’activation du récepteur FAS par son ligand avant le recrutement des adaptateurs et des procaspases 8/10 dans le DISC. Les caspases ne forment donc pas ce complexe en activant d’abord FAS. Pour A, lire apoptosome, assemblé avec APAF1 et le cytochrome c.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 5,
+        "label": "Nature des caspases et apoptosome"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 6,
+        "label": "Activation de FAS par le ligand"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 7,
+        "label": "Recrutement des caspases 8/10 dans le DISC"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDE",
+    "reviewedItemText": {
+      "A": "Les caspases initiatrices comme la caspase 9, sont activées par la voie intrinsèque et se regroupent en apoptose sous l’effet du cytochrome C",
+      "E": "Les caspases 8 et 10 permettent la formation du DISCosome par activation de FAS"
+    },
+    "reviewedExplanation": {
+      "A": ", elles forment alors des apoptosomes avec la protéine Afap1",
+      "E": ""
+    },
+    "noteId": "ue5-078"
+  },
+  {
+    "bank": "bio.cm8",
+    "id": 11,
+    "items": [
+      "A",
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Items A et E : la ronéo reprend elle-même l’association des centres Fe-S à l’hème et aux cytochromes. Il ne s’agit donc pas d’un désaccord établi entre le QCM et le cours. À vérifier dans la ronéo : distinguer les centres fer-soufre des groupes hème, qui sont des cofacteurs différents, et la participation de la mitochondrie à leur synthèse respective.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 7,
+        "label": "Synthèse des groupements Fe-S et de l’hème"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 8,
+        "label": "Protéines portant ces cofacteurs"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCDE",
+    "reviewedItemText": {
+      "A": "Sur l’hème de l’hémoglogine",
+      "E": "Sur les cytochromes"
+    },
+    "reviewedExplanation": {
+      "A": "",
+      "E": ""
+    },
+    "noteId": "ue5-079"
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": 6,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Item D : « glycolyse aérobie » est utilisé ici comme un raccourci pour l’ensemble de l’oxydation du glucose en présence d’oxygène. La ronéo emploie le même raccourci tout en situant la glycolyse dans le cytosol. À vérifier dans la ronéo : distinguer l’ATP directement formé par la glycolyse cytosolique de celui produit par la phosphorylation oxydative mitochondriale ; ce point n’est pas un conflit QCM/cours établi.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 7,
+        "label": "Métabolisme glucidique et emploi du terme glycolyse"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDE",
+    "reviewedItemText": {
+      "D": "La majeure partie de l’ATP cellulaire provenant de la glycolyse aérobie est produit par les mitochondries."
+    },
+    "reviewedExplanation": {
+      "D": ""
+    },
+    "noteId": "ue5-080"
+  },
+  {
+    "bank": "bio.cm9",
+    "id": 11,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "L’item A sur l’arrêt du cycle par ATR est retenu. Son explication parle de « transcription de Chk1/Chk2 », formulation reprise par la ronéo. À vérifier dans la ronéo : il faut distinguer l’activation d’une kinase de contrôle par phosphorylation de la transcription de son gène. Le passage disponible ne permet pas de présenter cette remarque comme un conflit entre le QCM et le cours.",
+    "refs": [
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 9,
+        "label": "Contrôle de G2 et voie ATR / Chk"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACD",
+    "reviewedItemText": {
+      "A": "L’arrêt du cycle cellulaire peut être assuré par l’activation d’ATR"
+    },
+    "reviewedExplanation": {
+      "A": "il permet la transcription de Chk1 / Chk2"
+    },
+    "noteId": "ue5-081"
+  },
+  {
+    "bank": "bio.ann.cm9",
+    "id": 1,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item A : la ronéo précise que les Cdk restent présentes de façon constante et que l’APC participe à la dégradation de la cycline B. La disparition de l’activité Cdk1/cycline B ne signifie donc pas la dégradation des deux partenaires. La formulation « dégrade le duo » doit être distinguée de la dégradation de la cycline qui inactive le complexe.",
+    "refs": [
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 4,
+        "label": "Cdk constantes et cyclines variables"
+      },
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 6,
+        "label": "APC et dégradation de la cycline B"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "A": "Le complexe APC dégrade le duo Cdk1/cycline B pendant la mitose"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-082"
+  },
+  {
+    "bank": "bio.ann.cm9",
+    "id": 5,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Item E : le rôle de Cdk1/cycline B doit être situé dans la cascade. La ronéo décrit son action en amont sur APC/Cdc20, puis la dégradation de la sécurine, la libération de la séparase et la séparation des chromatides. À vérifier dans la ronéo : « déclenchée par l’activation de Cdk1/cycline B » est un raccourci, pas la description du déclencheur immédiat de la séparation ; le cours indique ensuite l’inactivation du complexe.",
+    "refs": [
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 13,
+        "label": "Transition métaphase-anaphase : APC, sécurine et séparase"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : DE",
+    "reviewedItemText": {
+      "E": "Qui est déclenchée par l’activation du complexe cdk1 – cycline B"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-083"
+  },
+  {
+    "bank": "bio.ann.cm9",
+    "id": 7,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item B : la prophase débute après le contrôle G2/M, qui est le deuxième point de contrôle décrit dans la ronéo. Le troisième point se situe entre métaphase et anaphase. Le verdict vrai de la source sur une prophase « juste après le 3e point » est donc en conflit direct avec cette chronologie.",
+    "refs": [
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 4,
+        "label": "Position des trois points de contrôle"
+      },
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 10,
+        "label": "Entrée en phase M et prophase"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE",
+    "reviewedItemText": {
+      "B": "elle se déroule juste après le passage du 3 point de contrôle du cycle cellulaire"
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-084"
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet DOCX fusionne deux propositions dans A et n’affiche que quatre items ; le corrigé comporte cinq propositions séparées, notées F, F, F, F, V. Les explications se trouvent donc décalées si on les applique aux quatre lettres du sujet. Le dernier énoncé, sur la chromatine condensée en périphérie, correspond au cinquième item du corrigé. La question reste hors note tant que cette divergence entre documents n’est pas résolue.",
+    "refs": [
+      {
+        "file": "AUTOTEST CM10 MORT CELLULAIRE.docx",
+        "page": null,
+        "label": "Premier QCM, paragraphe 5 : fusion de deux propositions"
+      },
+      {
+        "file": "CORRECTION autotest CM10 MORT CELLULAIRE.docx",
+        "page": null,
+        "label": "Premier QCM, paragraphes 5 à 9 : cinq propositions"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : absente / question hors note",
+    "reviewedItemText": {
+      "A": "un stress intense provoque soit une nécrose soit une autophagie l'apoptose est un processus de mort cellulaire programmé, il ne nécessite pas d'ATP",
+      "B": "une cellule infectée par un virus déclenche une nécrose",
+      "C": "l'apoptose n’est déclenchée que par une seule voie , la voie extrinsèque grâce aux récepteurs de mort FAS",
+      "D": "on reconnait une cellule en apoptose car la chromatine se condense en périphérie du noyau"
+    },
+    "reviewedExplanation": {
+      "A": "une nécrose ou une apoptose",
+      "B": "il faut de l'ATP",
+      "C": "une apoptose",
+      "D": "deux voies possible extrinsèque et intrinsèque"
+    },
+    "noteId": "ue5-085"
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 3,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Item A : la formulation attribue à p16 un blocage de la transcription de la cycline D. À vérifier dans la ronéo CM10 : il faut distinguer l’inhibition des complexes CDK4/6–cycline D du contrôle transcriptionnel du gène de la cycline. La ronéo CM10 spécifique à la sénescence n’est pas disponible dans le lot consulté ; ce désaccord reste non confirmé par le cours fourni.",
+    "refs": [],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "A": "Au cours du processus de senescence, la p16 bloque la transcription de la cycline D, la cellule ne peut pas entamer son cycle cellulaire, elle entre en phase G0"
+    },
+    "reviewedExplanation": {
+      "A": ""
+    },
+    "noteId": "ue5-086"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 1,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item A est bien faux : l’apoptose élimine la cellule. L’explication confond cependant l’apoptosome, complexe d’activation de la caspase 9, et les corps apoptotiques issus de la fragmentation cellulaire. La ronéo décrit ces deux structures à des étapes différentes.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 5,
+        "label": "Apoptosome : cytochrome c, APAF1 et caspase 9"
+      },
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 7,
+        "label": "Élimination et corps apoptotiques"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE",
+    "reviewedItemText": {
+      "A": "L’apoptose n’induit pas l’élimination de la cellule, mais bloque juste sa division"
+    },
+    "reviewedExplanation": {
+      "A": ", elle l’élimine sous forme d’apoptosome"
+    },
+    "noteId": "ue5-087"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 5,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item B : la ronéo indique expressément que les lysosomes digèrent les acides nucléiques, avec les protéines, lipides et glucides. Le rejet général de la possibilité d’y dégrader ARN et ADN n’est donc pas compatible avec la fonction lysosomale décrite ; la clé du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "page": 13,
+        "label": "Lysosomes : dégradation des acides nucléiques"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "B": "Ll'ARN et l'ADN peuvent être importés et dégradés dans les lysosomes"
+    },
+    "reviewedExplanation": {
+      "B": ""
+    },
+    "noteId": "ue5-088"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 7,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La proposition « les cellules sénescentes sécrètent des cytokines pro-inflammatoires » est refusée au QCM 7 E et acceptée au QCM 12 C de cette même compilation. Les deux clés sont conservées. À vérifier dans la ronéo CM10 : le cours spécifique sur le phénotype sécrétoire de sénescence n’est pas disponible dans le lot consulté pour arbitrer cette divergence.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 7,
+        "label": "QCM 7 E : cytokines pro-inflammatoires"
+      },
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 11,
+        "label": "QCM 12 C : proposition identique"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCD",
+    "reviewedItemText": {
+      "E": "Les cellules sénescentes sécrètent des cytokines pro-inflammatoires"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-089"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 12,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La proposition « les cellules sénescentes sécrètent des cytokines pro-inflammatoires » est refusée au QCM 7 E et acceptée au QCM 12 C de cette même compilation. Les deux clés sont conservées. À vérifier dans la ronéo CM10 : le cours spécifique sur le phénotype sécrétoire de sénescence n’est pas disponible dans le lot consulté pour arbitrer cette divergence.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 7,
+        "label": "QCM 7 E : cytokines pro-inflammatoires"
+      },
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 11,
+        "label": "QCM 12 C : proposition identique"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACE",
+    "reviewedItemText": {
+      "C": "Les cellules sénescentes sécrètent des cytokines pro-inflammatoires"
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-090"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 10,
+    "items": [
+      "A",
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La source CM10 retient ABDE, tandis que la même question et les mêmes images dans les annales CM2 retiennent DE et rejettent A/B. La ronéo distingue bien la microscopie optique de fluorescence de la microscopie électronique : « microscopie électronique à fluorescence » n’est pas la modalité décrite pour l’image B. La divergence entre les deux corrigés est signalée ; la clé propre à la source CM10 est conservée.",
+    "refs": [
+      {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 10,
+        "label": "Clé ABDE de la compilation CM10"
+      },
+      {
+        "file": "Annales CM2 corrigées-1.pdf",
+        "page": 7,
+        "label": "Même question, clé DE et modalités optiques"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 32,
+        "label": "Microscopie optique à fluorescence"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 38,
+        "label": "Microscopie électronique"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE",
+    "reviewedItemText": {
+      "A": "L’image A a été obtenue en microscopie électronique à balayage.",
+      "B": "L’image B a été obtenue en microscopie électronique à fluorescence."
+    },
+    "reviewedExplanation": {
+      "A": "",
+      "B": ""
+    },
+    "noteId": "ue5-091"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 2,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item C et la description d’une enveloppe riche en réticuline autour de l’adipocyte sont repris dans la ronéo TC2. En revanche, l’explication restaurée « Coll III non fibreux » est erronée : TC1 classe le collagène III, ou réticuline, parmi les collagènes fibrillaires. Le collagène IV du réseau de la lame basale appartient à la catégorie non fibrillaire ; ces deux collagènes ne doivent pas être confondus. La clé source AC reste conservée.",
+    "refs": [
+      {
+        "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+        "page": 11,
+        "label": "Collagène III : réticuline, collagène fibrillaire"
+      },
+      {
+        "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+        "page": 12,
+        "label": "Collagène IV : réseau non fibrillaire"
+      },
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 10,
+        "label": "Enveloppe des adipocytes blancs, p. imprimée 23"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AC",
+    "reviewedItemText": {
+      "C": "la membrane basale des adipocytes blancs est riche en réticuline"
+    },
+    "reviewedExplanation": {
+      "C": "Coll III non fibreux"
+    },
+    "noteId": "ue5-092"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Item C : l’assemblage α1/β1/γ1 correspond à une composition particulière de laminine ; la ronéo décrit plusieurs isoformes et trois chaînes associées. À vérifier dans la ronéo : la formulation générale « les laminines » ne doit pas faire croire que toutes les isoformes comportent exclusivement les mêmes chaînes numérotées 1. La clé source BCE reste conservée.",
+    "refs": [
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 2,
+        "label": "Laminines : trois chaînes et diversité des isoformes, p. imprimée 15"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE",
+    "reviewedItemText": {
+      "C": "Les laminines sont formées de trois monomères différents α1, β1 et ϒ1"
+    },
+    "reviewedExplanation": {
+      "C": ""
+    },
+    "noteId": "ue5-093"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 7,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item E est rejeté pour l’expression « riche en réticuline ». L’explication restaurée ne doit cependant pas exclure le collagène III du tissu aréolaire ni le définir comme un tissu riche en élastine : la ronéo le décrit globalement pauvre en fibres, avec du collagène I, du collagène III et de l’élastine. La prédominance de la réticuline caractérise le tissu réticulaire, mais sa présence n’y est pas exclusive.",
+    "refs": [
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 4,
+        "label": "Composition du tissu conjonctif lâche aréolaire, p. imprimée 17"
+      },
+      {
+        "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+        "page": 11,
+        "label": "Réticuline dans le tissu conjonctif lâche"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACD",
+    "reviewedItemText": {
+      "E": "Il est riche en réticuline"
+    },
+    "reviewedExplanation": {
+      "E": "c’est le TC réticulaire . Il est riche en élastine"
+    },
+    "noteId": "ue5-094"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 11,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : la croissance isogénique coronaire se fait dans plusieurs directions ; la ronéo précise en longueur et en largeur. Elle permet donc aussi une augmentation en longueur. Rejeter la proposition au seul motif que la croissance axiale assure la longueur suppose un « uniquement » absent de l’énoncé. La distinction attendue est croissance axiale dans une direction contre croissance coronaire en trois dimensions ; la clé source BC est conservée.",
+    "refs": [
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 19,
+        "label": "Croissances interstitielles axiale et coronaire, p. imprimée 32"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BC",
+    "reviewedItemText": {
+      "E": "La croissance interstitielle coronaire permet une croissance en longueur du cartilage"
+    },
+    "reviewedExplanation": {
+      "E": "c’est l’axiale"
+    },
+    "noteId": "ue5-095"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 12,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Item E : la ronéo décrit la croissance interstitielle par mitose des chondrocytes dans leur logette, puis formation d’un groupe isogénique. La proposition validée parle de chondroblastes. Le terme attendu dans le mécanisme décrit est donc chondrocytes ; il faut le distinguer de la croissance appositionnelle à partir du périchondre. La clé source BCE est conservée.",
+    "refs": [
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 18,
+        "label": "Croissance appositionnelle depuis le périchondre, p. imprimée 31"
+      },
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 19,
+        "label": "Mitose des chondrocytes et groupes isogéniques, p. imprimée 32"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE",
+    "reviewedItemText": {
+      "E": "Dans les figures de croissance interstitielle isogénique coronaire on peut voir des chondroblastes en mitose"
+    },
+    "reviewedExplanation": {
+      "E": ""
+    },
+    "noteId": "ue5-096"
+  }
+]

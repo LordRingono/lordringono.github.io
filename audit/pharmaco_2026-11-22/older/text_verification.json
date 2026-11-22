@@ -1,0 +1,71 @@
+{
+  "checks": "comparison of normalized current text to independent work/pages PDF text",
+  "optionsChecked": 550,
+  "explanationsChecked": 510,
+  "optionExceptions": [
+    {
+      "sourceId": "ue4:2018-2019:S1:q03",
+      "item": "A",
+      "text": "Molécule A (voir le schéma)",
+      "pages": [
+        964
+      ],
+      "resolution": "PASS_VISUAL: étiquette de sélection neutre ; lettre A–E et structure correspondante vérifiées dans le schéma complet p964."
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q03",
+      "item": "B",
+      "text": "Molécule B (voir le schéma)",
+      "pages": [
+        964
+      ],
+      "resolution": "PASS_VISUAL: étiquette de sélection neutre ; lettre A–E et structure correspondante vérifiées dans le schéma complet p964."
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q03",
+      "item": "C",
+      "text": "Molécule C (voir le schéma)",
+      "pages": [
+        964
+      ],
+      "resolution": "PASS_VISUAL: étiquette de sélection neutre ; lettre A–E et structure correspondante vérifiées dans le schéma complet p964."
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q03",
+      "item": "D",
+      "text": "Molécule D (voir le schéma)",
+      "pages": [
+        964
+      ],
+      "resolution": "PASS_VISUAL: étiquette de sélection neutre ; lettre A–E et structure correspondante vérifiées dans le schéma complet p964."
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q03",
+      "item": "E",
+      "text": "Molécule E (voir le schéma)",
+      "pages": [
+        964
+      ],
+      "resolution": "PASS_VISUAL: étiquette de sélection neutre ; lettre A–E et structure correspondante vérifiées dans le schéma complet p964."
+    }
+  ],
+  "explanationExceptions": [],
+  "stemVerification": {
+    "textConformant": 109,
+    "rasterTranscriptionConformant": [
+      "ue4:2019-2020:S1:q04"
+    ],
+    "unresolved": []
+  },
+  "shortKeysVerifiedAgainstIndependentPageText": 110,
+  "preservedKeysAndWeights": 110,
+  "figuresVisuallyVerified": [
+    "ue4:2020-2021:S2:q07",
+    "ue4:2020-2021:S2:q17",
+    "ue4:2020-2021:PACES:q13",
+    "ue4:2019-2020:S1:q04",
+    "ue4:2018-2019:S1:q03",
+    "ue4:2018-2019:S1:q25"
+  ],
+  "status": "PASS"
+}

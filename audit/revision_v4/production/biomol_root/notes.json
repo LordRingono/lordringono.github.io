@@ -1,0 +1,1112 @@
+[
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 2,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "La justification confond un cadre de lecture pour une séquence codante et le nombre de séquences codantes d’un ARNm. Un ARNm polycistronique peut porter plusieurs régions traduites. Le contexte et le mot « cadre » doivent être précisés ; vérifie la distinction dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 1,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "B FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-001"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 11,
+    "items": [
+      "C"
+    ],
+    "kind": "scientific_conflict",
+    "text": "C est bien vrai, mais l’ARNt initiateur ne constitue pas un moteur qui hydrolyse l’ATP pour se déplacer. L’ATP est utilisé notamment par des facteurs protéiques tels que l’hélicase eIF4A pendant l’initiation. La justification attribue cette activité à la mauvaise molécule. Vérifie le schéma d’initiation dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gene/1973/",
+        "label": "NCBI RefSeq — EIF4A1, hélicase à ATP",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "C VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-002"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 12,
+    "items": [
+      "B"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Tous les facteurs d’initiation ne sont pas des protéines G. Certains fixent ou hydrolysent le GTP ; eIF4A est au contraire une hélicase à ATP, et la fonction d’eIF4E est la reconnaissance de la coiffe. L’énoncé global est donc excessif malgré le VRAI de la clé. Vérifie les facteurs un par un dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gene/1973/",
+        "label": "NCBI RefSeq — EIF4A1, hélicase à ATP",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-003"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 12,
+    "items": [
+      "E"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Le mécanisme est inversé : la chaîne en cours est portée par l’ARNt du site P et elle est transférée sur l’acide aminé porté par l’ARNt du site A. On ne libère pas d’abord un acide aminé du site P pour le raccrocher à une chaîne située ailleurs. Vérifie le transfert peptidique dans la ronéo ; la clé fournie reste conservée.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18809677/",
+        "label": "Wohlgemuth et al., EMBO Journal 2008 — transfert peptidique",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-004"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 13,
+    "items": [
+      "F"
+    ],
+    "kind": "source_conflict",
+    "text": "F reste faux, mais sa justification « dans le site P » est incorrecte : la reconnaissance du codon stop se fait au site A, comme l’indique déjà l’item D de ce même QCM. La terminaison et le recyclage du ribosome sont ensuite plusieurs étapes distinctes. Vérifie le schéma de la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9017434/",
+        "label": "Étude expérimentale de la terminaison eucaryote par eRF1 et eRF3",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "F FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-005"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 17,
+    "items": [
+      "E"
+    ],
+    "kind": "scientific_conflict",
+    "text": "L’item E est faux, mais le remplacement de 60S par 50S dans la justification reste erroné : les tétracyclines se lient à la sous-unité bactérienne 30S et gênent la fixation de l’aminoacyl-ARNt au site A. Vérifie la cible 30S dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC125237/",
+        "label": "Structures expérimentales de la tétracycline liée à la sous-unité 30S",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-006"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 19,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "« Moins nombreux » doit être précisé : proportion de la masse totale d’ARN, nombre de molécules ou nombre d’espèces différentes ? Ces mesures ne sont pas équivalentes, notamment parce que les ARNt et les ARNr n’ont pas la même longueur. Le corrigé ne donne pas ce dénominateur. Vérifie le tableau et l’unité utilisés dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "E VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-007"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 26,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "« Moins nombreux » doit être précisé : proportion de la masse totale d’ARN, nombre de molécules ou nombre d’espèces différentes ? Ces mesures ne sont pas équivalentes, notamment parce que les ARNt et les ARNr n’ont pas la même longueur. Le corrigé ne donne pas ce dénominateur. Vérifie le tableau et l’unité utilisés dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "E VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-008"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 21,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "La justification « nécessaire pour la terminaison » vise la maturation 3′ et la terminaison de la transcription, pas l’arrêt de la traduction, assuré par un codon stop. Le cours de transcription fourni décrit bien le signal de polyadénylation dans ce premier contexte. Vérifie cette distinction dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 14,
+        "label": "Ronéo Transcription et maturation — polyadénylation"
+      }
+    ],
+    "sourceVerdict": "B FAUX",
+    "courseVerdict": "Ronéo Transcription et maturation, p. 14 : signal de polyadénylation et transcription.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-009"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 22,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "« eIF4 » désigne plusieurs facteurs aux rôles différents. eIF4E reconnaît la coiffe, tandis qu’eIF4A contribue au déroulement de l’ARN lors du balayage. La justification « est sur la coiffe » ne permet pas de rejeter toute contribution de la famille eIF4 au balayage. Vérifie quel facteur est visé dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gene/1973/",
+        "label": "NCBI RefSeq — EIF4A1, hélicase à ATP",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-010"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 23,
+    "items": [
+      "C"
+    ],
+    "kind": "scientific_conflict",
+    "text": "La terminaison eucaryote ne mobilise pas un unique facteur protéique : eRF1 reconnaît le codon stop et agit avec la GTPase eRF3 ; le recyclage implique encore d’autres facteurs. « Le seul facteur » est donc trop restrictif. Vérifie eRF1/eRF3 dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9017434/",
+        "label": "Étude expérimentale de la terminaison eucaryote par eRF1 et eRF3",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "C VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-011"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 24,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "La ferritine assure principalement le stockage intracellulaire du fer. Le mot « absorber » risque de la confondre avec les mécanismes d’absorption ou de transport. Le QCM d’annales sur le fer précise lui-même son rôle de stockage. Vérifie le vocabulaire retenu dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-012"
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 11,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La clé inclut D, mais la justification imprimée le classe FAUX. La ronéo de transcription confirme que les protéines ribosomiques sont importées dans le noyau pour la formation des sous-unités ; celles-ci s’associent ensuite dans le cytosol au début de la traduction. Il ne faut pas confondre ces deux assemblages. Vérifie la ronéo p. 21 ; la clé AD du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 21,
+        "label": "Ronéo Transcription et maturation — sous-unités ribosomiques"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "La ronéo p. 21 contredit le VRAI de la clé pour D.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-013"
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 14,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La formulation est chimiquement impropre : les facteurs protéiques ne sont pas eux-mêmes hydrolysés « sous forme triphosphate ». Ils hydrolysent le GTP qu’ils fixent en GDP. Le mécanisme attendu paraît identifiable, mais vérifie cette formulation dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-014"
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 17,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La justification compare des types d’ARNt/anticodons aux 61 codons sens, pas le nombre total de molécules d’ARNt dans une cellule. Le nombre exact d’espèces d’ARNt dépend de l’organisme et du décompte retenu. Vérifie ce que recouvre « 48 » dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "D FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-015"
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 26,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Distingue la formation des sous-unités ribosomiques dans le noyau et leur association en ribosome traduisant dans le cytoplasme. Une maturation finale peut se poursuivre après l’export. La formulation globale de l’item ne permet pas de substituer une localisation à l’autre sans préciser l’étape ; vérifie la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 8,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 21,
+        "label": "Ronéo Transcription et maturation — ribosomes"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-016"
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 28,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La justification invoque un « codon d’initiation de la transcription ». Cette notion est incorrecte : le codon AUG concerne l’initiation de la traduction ; la transcription démarre à un site d’initiation. L’autotest traduction Q21C fait justement cette distinction. Vérifie les deux mécanismes dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 9,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-017"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 4,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Des facteurs de transcription se fixent bien sur des éléments proximaux, par exemple Sp1/Sp3 sur des boîtes GC. Leur action n’est donc pas limitée aux séquences distales. Le refus général de A est contestable ; vérifie la distinction promoteur basal, éléments proximaux et éléments distaux dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 1,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11294852/",
+        "label": "Nicolas et al., JBC 2001 — Sp1/Sp3 sur le promoteur proximal",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-018"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 9,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "CREB est bien un facteur de transcription. La justification « il y ressemble mais n’en fait pas partie » est erronée ; les annales le présentent d’ailleurs comme régulateur de la transcription. Vérifie CREB, son domaine de liaison à l’ADN et ses coactivateurs dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 2,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gtr/genes/1385/",
+        "label": "NCBI RefSeq — CREB1, facteur de transcription",
+        "referenceType": "external_primary"
+      },
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-019"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 10,
+    "items": [
+      "B",
+      "C",
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La séquestration cytoplasmique par des HSP ne décrit pas tous les récepteurs aux hormones liposolubles. Les récepteurs des hormones thyroïdiennes, par exemple, sont principalement nucléaires, y compris sans ligand. L’ordre entrée dans le noyau/dimérisation dépend aussi du récepteur. Vérifie si le schéma du cours concerne une sous-famille précise avant de généraliser.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.nature.com/articles/ncomms8048",
+        "label": "Étude expérimentale — récepteur thyroïdien, localisation nucléaire",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B FAUX; C FAUX; D VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-020"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 12,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Une désamination enzymatique est précisément une modification biochimique naturelle d’une base de l’ARN. La justification « action de désaminases » ne réfute donc pas A. ADAR transforme notamment l’adénosine en inosine. Vérifie la définition de l’édition dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gene/103/",
+        "label": "NCBI RefSeq — ADAR, édition de l’ARN",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-021"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 16,
+    "items": [
+      "E"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Certains lncARN s’apparient à des ARNm et favorisent leur dégradation, notamment via STAU1. L’exclusion « pas aux ARNm » est donc fausse comme règle générale. Vérifie les exemples et le périmètre de la ronéo ; la réponse du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21307942/",
+        "label": "Gong et Maquat, Nature 2011 — lncARN et dégradation d’ARNm",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-022"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 18,
+    "items": [
+      "E"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Les ARNm peuvent être méthylés. La modification m6A peut notamment intervenir dans le contrôle de leur traduction. La justification excluant toute méthylation des ARNm est donc scientifiquement fausse. Vérifie la place de ces modifications dans la ronéo de l’année.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26593424/",
+        "label": "Meyer et al., Cell 2015 — m6A et initiation de la traduction",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-023"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 18,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Le mécanisme IRP/IRE en 3′UTR décrit ici concerne classiquement l’ARNm du récepteur de la transferrine (TfR), pas celui de la transferrine elle-même. Les annales emploient explicitement TfR et précisent la stabilisation en manque de fer. Vérifie le nom de la protéine dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 2,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "C FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-024"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 20,
+    "items": [
+      "A"
+    ],
+    "kind": "scientific_conflict",
+    "text": "La biotine intervient aussi dans le métabolisme lipidique : l’acétyl-CoA carboxylase est une enzyme à biotine qui produit le malonyl-CoA pour la synthèse des acides gras. Limiter cette modification au métabolisme des glucides ne permet pas de rejeter A. Vérifie cet exemple dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/datasets/gene/31/",
+        "label": "NCBI RefSeq — ACACA, biotine et synthèse des acides gras",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "A FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-025"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 21,
+    "items": [
+      "B",
+      "C",
+      "D"
+    ],
+    "kind": "scientific_conflict",
+    "text": "La nomenclature est imprécise : E1 active l’ubiquitine, E2 est une enzyme de conjugaison et E3 une ligase. Les appeler toutes « ligases » masque leurs fonctions. L’affirmation « une seule E1 dans le corps » est également incorrecte : UBA1 et UBA6 existent chez l’humain. Vérifie la cascade dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gene/55236/",
+        "label": "NCBI RefSeq — UBA6, enzyme E1 d’activation de l’ubiquitine",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B VRAI; C FAUX; D VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-026"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "id": 23,
+    "items": [
+      "B"
+    ],
+    "kind": "scientific_conflict",
+    "text": "B reste faux car le mécanisme dépend du calcium, mais « lorsqu’elle est trop faible » inverse la logique d’activation des PAD : la fixation de Ca2+ favorise l’activité de ces enzymes. Vérifie la régulation calcique de la citrullination dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15247907/",
+        "label": "Arita et al., 2004 — activation de PAD4 par le calcium",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "B FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-027"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 3,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La justification cite Ser/Thr/Arg, alors que l’autotest régulation Q19A donne Ser/Thr/Tyr pour les phosphorylations classiques enseignées sur groupement hydroxyle. L’arginine ne doit pas remplacer la tyrosine dans cette liste usuelle. Vérifie cette liste dans la ronéo ; cela ne nie pas l’existence de phosphorylations atypiques.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 1,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "4. Autotests Régulation CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "C FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-028"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 5,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "C est bien faux, mais la justification mélange le facteur VII et le facteur VIII. La fiche de synthèse décrit l’inversion touchant le gène F8, avec recombinaison au niveau de l’intron 22, dans l’hémophilie A. Le « 50 % » ne doit pas être généralisé à toutes les hémophilies. Vérifie le facteur, le mécanisme et la population dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 2,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "3. FS Anomalies du génome LS.pdf",
+        "page": 3,
+        "label": "Fiche de synthèse Anomalies du génome — inversion F8"
+      }
+    ],
+    "sourceVerdict": "C FAUX",
+    "courseVerdict": "Fiche de synthèse, p. 3 : facteur VIII et inversion de l’intron 22.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-029"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 7,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "La méthylation des histones n’est pas uniformément répressive : son effet dépend du résidu et du degré de méthylation. Des marques H3K4 sont associées à l’activité transcriptionnelle, alors que certaines marques H3K9/H3K27 sont répressives. Vérifie la marque précise visée par la ronéo avant d’apprendre « hyperméthylation = répression » comme règle absolue.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15899867/",
+        "label": "Étude expérimentale, 2005 — marques de méthylation des histones",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-030"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 8,
+    "items": [
+      "D"
+    ],
+    "kind": "scientific_conflict",
+    "text": "Les récepteurs nucléaires possèdent classiquement un domaine de liaison à l’ADN à doigts de zinc, pas un domaine leucine zipper. Ce dernier correspond à d’autres familles de facteurs, dont CREB. D semble donc validé à tort dans la clé ADE. Vérifie les schémas des domaines dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8670238/",
+        "label": "Étude de mutagenèse — doigts de zinc du récepteur thyroïdien",
+        "referenceType": "external_primary"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/gtr/genes/1385/",
+        "label": "NCBI RefSeq — CREB1, facteur de transcription",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-031"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 9,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Ce corrigé inclut lacI dans l’opéron tout en précisant qu’il dépend d’un autre promoteur. L’autotest traduction Q15C l’exclut au contraire de l’unité lacZYA. La réponse dépend ici du sens donné à « opéron » (unité de transcription ou région régulatrice élargie). Vérifie la définition exacte de la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "4. Autotests Traduction CORRECTION.pdf",
+        "page": 4,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "D VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-032"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 18,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé CD valide C, mais la justification écrit « Faux, régulateurs traductionnels ». Or la régulation de la traduction fait partie du contrôle post-transcriptionnel. Les annales 2024–2025 S2 valident aussi cette même formulation. Vérifie la hiérarchie des niveaux de régulation dans la ronéo ; la clé CD est conservée.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 5,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "C VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": true,
+    "noteId": "biomol-root-v4-033"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 20,
+    "items": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le titre parle de modifications « post-traductionnelles du génome ». Ce sont les protéines (produits de l’expression des gènes) qui subissent les modifications proposées, pas le génome qui serait traduit directement. Les choix visés paraissent identifiables, mais le titre est scientifiquement impropre. Vérifie cette distinction dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "A VRAI; B VRAI; D VRAI; E VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-034"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "id": 22,
+    "items": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le titre parle de modifications « post-traductionnelles du génome ». Ce sont les protéines (produits de l’expression des gènes) qui subissent les modifications proposées, pas le génome qui serait traduit directement. Les choix visés paraissent identifiables, mais le titre est scientifiquement impropre. Vérifie cette distinction dans la ronéo.",
+    "refs": [
+      {
+        "file": "2. Annales Régulation LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "A VRAI; B VRAI; D VRAI; E VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-035"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 3,
+    "items": [
+      "A",
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "La complémentarité de la séquence permet une hybridation avec le brin de la figure. La validation simultanée de « l’un ou l’autre » dépend du sens de cette expression : un choix indéterminé parmi les deux n’est pas la même chose qu’une capacité à reconnaître chacun des deux brins. Vérifie l’interprétation de C dans la ronéo ou la correction d’ED ; la clé AC est conservée.",
+    "refs": [
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "A VRAI; C VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-036"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 12,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "Le changement AAA → UAA produit un STOP, comme l’expliquent C et D. Il ne remplace donc pas la lysine 37 par un autre acide aminé. Si « changement de l’acide aminé » signifie substitution faux-sens, le VRAI de B est impropre. Vérifie la terminologie non-sens/faux-sens dans la ronéo et l’ED.",
+    "refs": [
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-037"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 17,
+    "items": [
+      "B",
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Deux erreurs dans les justifications : le plus long chromosome humain est le chromosome 1, pas le 4 ; et le schéma de sept exons successifs correspond à six introns, pas cinq. Les verdicts B vrai et C faux restent cohérents, mais leurs explications doivent être revues dans la ronéo et le schéma fourni.",
+    "refs": [
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://www.nature.com/articles/nature04727",
+        "label": "Séquençage du chromosome 1 humain, Nature 2006",
+        "referenceType": "external_primary"
+      },
+      {
+        "file": "3. Annales ED LS ENONCE-1.pdf",
+        "page": 6,
+        "label": "Sujet fourni"
+      }
+    ],
+    "sourceVerdict": "B VRAI; C FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-038"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 30,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "B est faux pour TNNT2, mais la justification généralise abusivement. Les 13 protéines codées par le génome mitochondrial contribuent à la phosphorylation oxydative ; la mitochondrie contient beaucoup d’autres protéines codées dans le noyau, avec d’autres fonctions. Vérifie la distinction génome mitochondrial/protéome mitochondrial dans la ronéo.",
+    "refs": [
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "B FAUX",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-039"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 38,
+    "items": [
+      "C",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La grille donne DE, tandis que les justifications donnent C vrai et E faux : elles conduisent à CD. Cette discordance est imprimée dans le corrigé lui-même. La boîte TATA appartient au promoteur, pas à l’exon 1 décrit. Vérifie ce QCM dans la ronéo ou auprès du tutorat ; la clé DE est conservée.",
+    "refs": [
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "C FAUX; E VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": true,
+    "noteId": "biomol-root-v4-040"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 43,
+    "items": [
+      "A",
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "La délétion d’une base provoque ici un décalage du cadre avec STOP prématuré ; ce mécanisme doit être distingué d’une substitution non-sens. De plus, le triplet ADN TGA devient UGA dans l’ARN, pas UAG comme écrit dans l’explication. Enfin, la consigne au singulier contraste avec la clé AD. Vérifie ces trois points dans la ronéo et la correction d’ED.",
+    "refs": [
+      {
+        "file": "3. Annales ED LS CORRECTION.pdf",
+        "page": 20,
+        "label": "Corrigé fourni"
+      }
+    ],
+    "sourceVerdict": "A VRAI; D VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-041"
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 34,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Une désamination de C en U peut, après réplication et fixation de la mutation, aboutir à une substitution C:G → T:A : le dessin C → T ne suffit donc pas à réfuter A. Si le schéma est censé représenter une conversion chimique directe en une étape, il faut distinguer C → U de 5-méthyl-C → T. Le terme « oxydative » mérite aussi d’être vérifié : la désamination spontanée classique est hydrolytique. Vérifie le mécanisme retenu dans la ronéo ; la clé A reste celle du corrigé.",
+    "refs": [
+      {
+        "file": "2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3527293/",
+        "label": "Étude expérimentale — désamination de C et de 5-méthyl-C",
+        "referenceType": "external_primary"
+      },
+      {
+        "file": "ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "label": "Sujet fourni"
+      }
+    ],
+    "sourceVerdict": "A VRAI",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-042"
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 36,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Le calcul donne bien le codon 55 pour la position codante 164. En revanche, le contexte parle d’une thymine dans l’ARNm : une notation c.164C>T concerne la séquence d’ADN codant ; dans l’ARN, la base correspondante est U. Vérifie les notations ADN/ARN dans la ronéo sans changer le calcul.",
+    "refs": [
+      {
+        "file": "2. Correction ED 2025-2026.pdf",
+        "page": 13,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "label": "Sujet fourni"
+      }
+    ],
+    "sourceVerdict": "B VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-043"
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 7,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "E est refusé alors que B valide l’intervention de séquences cis-régulatrices. Les promoteurs et de nombreux éléments régulateurs sont précisément des séquences d’ADN non codantes. Il peut s’agir d’une confusion ADN/ARN ou d’un périmètre particulier du cours. Vérifie l’intention de E dans la ronéo ; la clé BCD est conservée.",
+    "refs": [
+      {
+        "file": "2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "label": "Corrigé fourni"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11294852/",
+        "label": "Nicolas et al., JBC 2001 — Sp1/Sp3 sur le promoteur proximal",
+        "referenceType": "external_primary"
+      }
+    ],
+    "sourceVerdict": "E FAUX",
+    "courseVerdict": "Point recoupé avec la référence scientifique externe citée ; à confronter avec la ronéo de ce chapitre.",
+    "coversWarning": false,
+    "noteId": "biomol-root-v4-044"
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 31,
+    "items": [
+      "C",
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le corrigé donne la lettre D (T dans le sujet), puis écrit « le 1er nucléotide G en gras », correspondant à C. Le sujet renvoie aussi à la figure 3 alors que la comparaison se fait avec les figures 4 et 5. Ces références ne concordent pas. Vérifie le premier nucléotide de l’exon 6 et le lettrage auprès du tutorat ou dans la ronéo ; la clé D est conservée.",
+    "refs": [
+      {
+        "file": "2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "label": "Corrigé fourni"
+      },
+      {
+        "file": "UE2_ED 2026.pdf",
+        "page": 8,
+        "label": "Sujet fourni"
+      }
+    ],
+    "sourceVerdict": "C FAUX; D VRAI",
+    "courseVerdict": "Comparaison des documents fournis ; vérifier la formulation et le périmètre attendus dans la ronéo.",
+    "coversWarning": true,
+    "noteId": "biomol-root-v4-045"
+  }
+]

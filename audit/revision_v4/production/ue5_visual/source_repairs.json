@@ -1,0 +1,1120 @@
+{
+  "patches": [
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "reason": "Les lettres A/B/C sont des objets Word superposés au raster ; elles sont visibles au rendu du DOCX et ont disparu lors de l’import.",
+      "set": {
+        "images": [
+          "static/v4_histo_tn3_q7_labels.png"
+        ]
+      },
+      "refs": [
+        {
+          "file": "AUTOTEST TN3.docx",
+          "page": 2,
+          "label": "Rendu original avec les trois lettres et les flèches"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_histo_tn3_q7_labels.png"
+    },
+    {
+      "bank": "bio.cm2oral",
+      "id": 2,
+      "reason": "Les légendes 1.A–1.E étaient du texte Word séparé des cinq petites images ; rétablissement de la correspondance exacte.",
+      "set": {
+        "context": "Question 2 : L’expérience consiste à créer 5 colonies de levures exprimant chacune une protéine exogène. On construit cinq vecteurs différents contenant à chaque fois le fragment d’ADN codant pour une des 5 protéines, suivi d’un fragment codant pour le gène de la GFP. Après transfection des vecteurs respectifs dans les levures, on obtient 5 colonies exprimant respectivement les 5 protéines : HLA B-52, DAP, Mdm2, AP-N et Arkin-Z. Après observation au microscope confocal à fluorescence on obtient la figure 1:\nLégendes des cinq images dans leur ordre : 1.A — HLA B-52 ; 1.B — DAP ; 1.C — Mdm2 ; 1.D — AP-N ; 1.E — Arkin-Z."
+      },
+      "refs": [
+        {
+          "file": "Colles orales non corrigées.docx",
+          "page": 1,
+          "label": "Figure 1 et légendes des cinq colonies"
+        }
+      ]
+    },
+    {
+      "bank": "bio.cm2oral",
+      "id": 3,
+      "reason": "Les légendes 1.A–1.E étaient du texte Word séparé des cinq petites images ; rétablissement de la correspondance exacte.",
+      "set": {
+        "context": "Question 2 : L’expérience consiste à créer 5 colonies de levures exprimant chacune une protéine exogène. On construit cinq vecteurs différents contenant à chaque fois le fragment d’ADN codant pour une des 5 protéines, suivi d’un fragment codant pour le gène de la GFP. Après transfection des vecteurs respectifs dans les levures, on obtient 5 colonies exprimant respectivement les 5 protéines : HLA B-52, DAP, Mdm2, AP-N et Arkin-Z. Après observation au microscope confocal à fluorescence on obtient la figure 1:\nLégendes des cinq images dans leur ordre : 1.A — HLA B-52 ; 1.B — DAP ; 1.C — Mdm2 ; 1.D — AP-N ; 1.E — Arkin-Z."
+      },
+      "refs": [
+        {
+          "file": "Colles orales non corrigées.docx",
+          "page": 1,
+          "label": "Figure 1 et légendes des cinq colonies"
+        }
+      ]
+    },
+    {
+      "bank": "bio.cm6",
+      "id": 3,
+      "reason": "La formule du glycérol est bien présente dans image2.emf du DOCX ; le lien EMF importé est absent. Rasterisation fidèle du rendu Word, puis association explicite des deux figures aux items.",
+      "set": {
+        "images": [
+          "static/docx_556267fcdbeb.png",
+          "static/v4_bio_cm6_q3_glycerol.png"
+        ],
+        "context": "La première figure concerne les propositions B et C ; la seconde figure concerne les propositions D et E."
+      },
+      "refs": [
+        {
+          "file": "AUTOTEST CM6 LES MEMBRANES(1).docx",
+          "page": 1,
+          "label": "Q3 : phospholipide pour B/C, formule du glycérol pour D/E"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_bio_cm6_q3_glycerol.png"
+    },
+    {
+      "bank": "histo.ann.te",
+      "id": 10,
+      "reason": "La planche T/S/R appartient au Q22 source (ID11), pas au Q21 source (ID10), qui porte sur les épithéliums en général.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 3,
+          "label": "Q21 sans figure et Q22 avec les trois schémas"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.te",
+      "id": 11,
+      "reason": "Seul le panneau T a été importé, sans les panneaux R/S ni leurs légendes. Restauration de la planche entière depuis la page source.",
+      "set": {
+        "images": [
+          "static/v4_histo_ann_te_q11_panels.png"
+        ],
+        "question": "Parmi les propositions se rapportant aux épithéliums, quelle(s) est (sont) celle(s) qui est (sont) correcte(s)"
+      },
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 3,
+          "label": "Q22 source et ses panneaux T, S, R"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_histo_ann_te_q11_panels.png"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "id": 37,
+      "reason": "Le schéma osseux est rattaché au Q17 source (ID38), après le Q16 sur le collagène (ID37).",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 11,
+          "label": "Q16 et Q17 : limite des deux questions"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 8,
+      "reason": "Le début du Q37 suivant était collé à l’item E du Q36 ; suppression du texte étranger, sans modifier E ni la clé.",
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "La structure fléchée 1, appelée épinèvre, est un tissu conjonctif dense non orienté, riche en collagène de type I."
+          },
+          {
+            "id": "B",
+            "text": "La structure fléchée 2, appelée périnèvre, est constituée d’un tissu conjonctif lâche, riche en collagène de type I."
+          },
+          {
+            "id": "C",
+            "text": "La structure fléchée 3, appelée épinèvre, est un tissu conjonctif dense vascularisé."
+          },
+          {
+            "id": "D",
+            "text": "La structure fléchée 4 contient des axones regroupés en faisceaux et des capillaires sanguins."
+          },
+          {
+            "id": "E",
+            "text": "La structure fléchée 4 contient un tissu conjonctif lâche composé de fibroblastes dispersés et de microfibrilles de collagène."
+          }
+        ]
+      },
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 4,
+          "label": "Fin de Q36 E, puis titre de Q37"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 55,
+      "reason": "La micrographie appartient au QCM suivant dans la page originale, pas à cette question de cours.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 19,
+          "label": "Question ID55 sans figure puis ID56 avec figure"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 59,
+      "reason": "La micrographie appartient au QCM suivant dans la page originale, pas à cette question de cours.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 21,
+          "label": "Question ID59 sans figure puis ID60 avec figure"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 16,
+      "reason": "La coupe de langue illustre seulement le Q1 source (ID15). Le Q2 porte sur les techniques générales de préparation.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 6,
+          "label": "Questions 1 et 2 de juin2023"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 21,
+      "reason": "Le paragraphe de protocole et les définitions de mARN-LNP/LNP, liver/spleen précèdent la figure et ont disparu du contexte importé.",
+      "set": {
+        "context": "Dans une étude parue dans la revue Cell en 2020, les auteurs ont cherché à savoir où migraient des ARNm thérapeutiques après injection. Sur la figure suivante sont illustrés à gauche l’observation in vivo des animaux après une injection intradermique d’ARNm thérapeutiques et à droite l’observation de différents organes des animaux après dissection. (mARN-LNP = ARN thérapeutique + sonde ; LNP = sonde seule ; liver = foie ; spleen = rate.)"
+      },
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 7,
+          "label": "Protocole commun immédiatement avant le Q3 source"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 25,
+      "reason": "L’image mitochondriale du Q précédent était dupliquée ; la source montre une coupe épithéliale au trichrome avec une flèche jaune. Suppression de fragments de titres annexés à E et à son explication.",
+      "set": {
+        "images": [
+          "static/v4_histo_ann_tech_q25_original.png"
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "C’est une coloration au trichrome de masson"
+          },
+          {
+            "id": "B",
+            "text": "Sur l’image, on voit juste un morceau d’une grosse cellule"
+          },
+          {
+            "id": "C",
+            "text": "La lumière à gauche correspond à une vésicule lipidique qui a été dissoute durant la déshydratation"
+          },
+          {
+            "id": "D",
+            "text": "On peut voir un épithélium qui mesure environ 40 microns (à 10 microns près)"
+          },
+          {
+            "id": "E",
+            "text": "On distingue du tissu conjonctif"
+          }
+        ],
+        "explanations": {
+          "A": "On retrouve les noyaux en violet, le cytoplasme en rose et le tissu conjonctif en bleu (bleu d’aniline)",
+          "B": ": on voit pleins de cellules différentes car on voit pleins de noyaux donc c’est impossible. En plus on voit du tissu conjonctif et celui-ci n’est pas présent à l’intérieur des cellules",
+          "C": ": On sait qu’on voit pleins de cellules donc il faudrait qu’elle soit vraiment énorme par rapport aux autres cellules et c’est impossible. En plus on voit un épithélium qui est donc en contact avec l’extérieur ou une lumière",
+          "D": ": On peut aligner environ 8 noyaux en hauteur pour faire la taille de l’épithélium (flèche jaune). Les noyaux mesurent 5 µm de diamètre donc environ 8*5= 40µm de hauteur pour l’épithélium",
+          "E": ": Tout ce qui est coloré en bleu au trichrome de Masson"
+        },
+        "category": "Annales · 2024–2025 session 1"
+      },
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 10,
+          "label": "Q22 source : vraie image et limite de l’item E"
+        },
+        {
+          "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+          "page": 13,
+          "label": "Explication E avant le Q23 suivant"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_histo_ann_tech_q25_original.png"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 28,
+      "reason": "L’immunomarquage DAB illustre le Q17 source (ID30), après ces questions générales ; aucun item de cette question ne renvoie à la figure.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 11,
+          "label": "Début du Q17 après les deux questions générales"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 29,
+      "reason": "L’immunomarquage DAB illustre le Q17 source (ID30), après ces questions générales ; aucun item de cette question ne renvoie à la figure.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 11,
+          "label": "Début du Q17 après les deux questions générales"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 23,
+      "reason": "L’énoncé avait absorbé les Q14 et Q15 de juin2024 ; les items A–E et la clé BC sont ceux du Q16 CC2025. Nettoyage de la seule consigne, sans renumérotation.",
+      "set": {
+        "question": "Au sujet de l’immunofluorescence indirecte, indiquez-la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "sourceNumber": 16,
+        "category": "Annales · CC 2025"
+      },
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 9,
+          "label": "Trois QCM distincts sur la page"
+        },
+        {
+          "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+          "page": 11,
+          "label": "Clé BC du Q16"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 11,
+      "reason": "L’item E demande de tenir compte de l’ensemble des résultats. Les figures8/9, présentes aux pages précédentes du même exercice, doivent rester accessibles lorsque ce QCM est filtré seul.",
+      "set": {
+        "images": [
+          "static/figure_bio_ann_cm2_009.png",
+          "static/figure_bio_ann_cm2_010.png",
+          "static/figure_bio_ann_cm2_011.png"
+        ]
+      },
+      "refs": [
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 9,
+          "label": "Contexte commun et figure8"
+        },
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 10,
+          "label": "Figure9"
+        },
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 11,
+          "label": "Figure10 et item E sur l’ensemble des résultats"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 13,
+      "reason": "Le protocole de complémentation GFP, les domaines d’adressage et les longueurs d’onde ont été perdus avant la figure1. Le QCM comparatif a aussi besoin des figures1 et2.",
+      "set": {
+        "context": "La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule. Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire exprimer deux protéines de fusion à la cellule. La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10). La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11). Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront en contact (complémentation de la GFP1-10 par son domaine S11ß)."
+      },
+      "refs": [
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 13,
+          "label": "Introduction de l’expérience de complémentation GFP et figure1"
+        },
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 14,
+          "label": "Figure2 et comparaison sauvage/mutée"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 14,
+      "reason": "Le protocole de complémentation GFP, les domaines d’adressage et les longueurs d’onde ont été perdus avant la figure1. Le QCM comparatif a aussi besoin des figures1 et2.",
+      "set": {
+        "context": "La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule. Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire exprimer deux protéines de fusion à la cellule. La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10). La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11). Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront en contact (complémentation de la GFP1-10 par son domaine S11ß)."
+      },
+      "refs": [
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 13,
+          "label": "Introduction de l’expérience de complémentation GFP et figure1"
+        },
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 14,
+          "label": "Figure2 et comparaison sauvage/mutée"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 15,
+      "reason": "Le protocole de complémentation GFP, les domaines d’adressage et les longueurs d’onde ont été perdus avant la figure1. Le QCM comparatif a aussi besoin des figures1 et2.",
+      "set": {
+        "context": "La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule. Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire exprimer deux protéines de fusion à la cellule. La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10). La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11). Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront en contact (complémentation de la GFP1-10 par son domaine S11ß).",
+        "images": [
+          "static/figure_bio_ann_cm2_013.png",
+          "static/figure_bio_ann_cm2_015.png"
+        ]
+      },
+      "refs": [
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 13,
+          "label": "Introduction de l’expérience de complémentation GFP et figure1"
+        },
+        {
+          "file": "Annales CM2 non corrigées.pdf",
+          "page": 14,
+          "label": "Figure2 et comparaison sauvage/mutée"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 3,
+      "reason": "Seul le schéma de tropomyosine de E était importé. Les illustrations de B (actine fluorescente) et C (filamine) sont présentes au sujet et restaurées.",
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm3_q3_B.png",
+          "static/v4_bio_ann_cm3_q3_C.png",
+          "static/figure_bio_ann_cm3_003.png"
+        ],
+        "context": "Les trois figures correspondent, dans l’ordre, aux propositions B, C et E."
+      },
+      "refs": [
+        {
+          "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+          "page": 3,
+          "label": "Trois figures distinctes sous B, C et E"
+        }
+      ],
+      "assetFiles": [
+        "work/review_v4/ue5_visual/assets/v4_bio_ann_cm3_q3_B.png",
+        "work/review_v4/ue5_visual/assets/v4_bio_ann_cm3_q3_C.png"
+      ]
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 5,
+      "reason": "La micrographie à flèche rouge appartient au Q37 source (ID4), pas au Q21 suivant (ID5).",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+          "page": 4,
+          "label": "Q37 avec image puis Q21 sans figure"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 8,
+      "reason": "La figure5 (deux IRM) est explicitement décrite dans le contexte mais avait disparu. Restauration du second panneau original en complément de la figure4.",
+      "set": {
+        "images": [
+          "static/figure_bio_ann_cm3_008.png",
+          "static/v4_bio_ann_cm3_q8_figure5.png"
+        ],
+        "context": "Figure 4 : échelle = 0,5 µm.\nFigure 5 : images du cerveau obtenues par résonance magnétique (IRM). À gauche, sujet sain ; à droite, patiente atteinte du syndrome d’Ehlers-Danlos."
+      },
+      "refs": [
+        {
+          "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+          "page": 6,
+          "label": "Figures4/5 et légende commune"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_bio_ann_cm3_q8_figure5.png"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 9,
+      "reason": "La figure appartient au QCM suivant dans le PDF, pas à cette question de cours.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+          "page": 7,
+          "label": "Questions ID9 et ID10 séparées dans la page"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 11,
+      "reason": "La figure appartient au QCM suivant dans le PDF, pas à cette question de cours.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+          "page": 8,
+          "label": "Questions ID11 et ID12 séparées dans la page"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 13,
+      "reason": "Seule la figure4 fluorescente était importée ; la figure3 citée par A manque. Restauration de la paire originale.",
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm3_q13_figure3.png",
+          "static/figure_bio_ann_cm3_013.png"
+        ]
+      },
+      "refs": [
+        {
+          "file": "ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+          "page": 9,
+          "label": "Figures3 et4 au-dessus du Q49 source"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_bio_ann_cm3_q13_figure3.png"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 4,
+      "reason": "Le schéma du trafic du QCM précédent était dupliqué. La vraie figure est une protéine possédant un segment hydrophobe et des charges latérales, placée sous A.",
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm4_q4_protein.png"
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "La protéine schématisée ci-dessous correspond à une protéine membranaire de type 1."
+          },
+          {
+            "id": "B",
+            "text": "L’intérieur du noyau est topologiquement équivalent à l’extérieur de la cellule."
+          },
+          {
+            "id": "C",
+            "text": "Le peptide signal se lie à un site hydrophobe du ribosome, ce qui provoque une pause dans la synthèse des protéines, qui reprend lorsque la SRP se lie au peptide signal."
+          },
+          {
+            "id": "D",
+            "text": "Dans les protéines transmembranaires à passages multiples, les segments transmembranaires impairs (à partir de l’extrémité N-terminale) agissent comme des signaux de départ de transfert et les segments pairs comme des signaux d’arrêt de transfert."
+          },
+          {
+            "id": "E",
+            "text": "La lumière du RE contient un mélange d’agents réducteurs contenant des thiols qui empêchent la formation de liaisons S-S (liaisons disulfures) en maintenant les chaînes latérales de cystéines des protéines luminales sous forme réduite (-SH)."
+          }
+        ]
+      },
+      "refs": [
+        {
+          "file": "Annales CM4 2018-2025.pdf",
+          "page": 4,
+          "label": "Q41 A : vraie figure protéique ; CM5 est une annotation marginale"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_bio_ann_cm4_q4_protein.png"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 4,
+      "reason": "La figure numérotée1/2 du Q42 suivant était affichée. Le Q29 source comporte la figure à flèches1–5, identique à celle de CM4Q3.",
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm5_q4_arrows.png"
+        ]
+      },
+      "refs": [
+        {
+          "file": "Annales CM5 2018-2025.pdf",
+          "page": 4,
+          "label": "Q29 : figure à cinq repères, avant le Q42 et sa figure1/2"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_bio_ann_cm5_q4_arrows.png"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 5,
+      "reason": "L’en-tête courant du PDF avait été annexé à la proposition A lors du passage de page ; retrait de ce fragment étranger.",
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Un manteau couvert de clathrine formé de 30 hexagones comporte 180 chaînes lourdes et 180 chaînes légères."
+          },
+          {
+            "id": "B",
+            "text": "En position 1, les adaptatines AP2 déforment les membranes après avoir recruté le manteau de clathrine."
+          },
+          {
+            "id": "C",
+            "text": "Le phosphoinositide PI(4,5)P2 possède 2 groupes phosphate."
+          },
+          {
+            "id": "D",
+            "text": "Au moment où une vieille mitochondrie est englobée dans un autophagosome au cours de la mitophagie, sa matrice est séparée du cytosol par 4 membranes."
+          },
+          {
+            "id": "E",
+            "text": "Les flèches en position 2 illustrent le phénomène de transcytose."
+          }
+        ]
+      },
+      "refs": [
+        {
+          "file": "Annales CM5 2018-2025.pdf",
+          "page": 4,
+          "label": "Fin de A"
+        },
+        {
+          "file": "Annales CM5 2018-2025.pdf",
+          "page": 5,
+          "label": "En-tête de page avant B"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 9,
+      "reason": "Les courbes de capture A/B appartiennent au Q48 source (ID10), pas au Q47 (ID9) qui porte sur les transports en général.",
+      "set": {
+        "images": []
+      },
+      "refs": [
+        {
+          "file": "Annales CM5 2018-2025.pdf",
+          "page": 7,
+          "label": "Q47 sans figure puis Q48 avec figure10"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 2,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm6_002_triglyceride.png"
+        ]
+      },
+      "reason": "La micrographie du QCM précédent était affichée à la place du triglycéride de B. La figure exacte est restaurée depuis le sujet ; clé AD inchangée.",
+      "refs": [
+        {
+          "file": "ACC membranes biologiques.pdf",
+          "page": 2,
+          "label": "QCM 46 B : figure du triglycéride"
+        },
+        {
+          "file": "Correction ACC membranes biologiques.pdf",
+          "page": 3,
+          "label": "QCM 46 : clé AD et B faux"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm6_002_triglyceride.png"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 7,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm6_007_C.png",
+          "static/v4_bio_ann_cm6_007_D.png",
+          "static/figure_bio_ann_cm6_007.png"
+        ],
+        "context": "Les trois figures disponibles ci-jointes correspondent, dans l’ordre, aux propositions C, D et E."
+      },
+      "reason": "Le sujet comporte trois figures pour C, D et E. Seule celle de E était affichée ; ajout du glycosphingolipide de C et du profil hydrophobe de D. La figure 1 citée par A manque déjà au PDF original et n’est pas inventée.",
+      "refs": [
+        {
+          "file": "ACC membranes biologiques.pdf",
+          "page": 5,
+          "label": "QCM 36 : trois figures C/D/E et absence de figure 1"
+        },
+        {
+          "file": "Correction ACC membranes biologiques.pdf",
+          "page": 6,
+          "label": "Même disposition dans la correction"
+        }
+      ],
+      "assetFiles": [
+        "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm6_007_C.png",
+        "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm6_007_D.png"
+      ]
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 11,
+      "set": {
+        "images": []
+      },
+      "reason": "Le graphe de diffusion est intitulé Figure 1 pour le QCM suivant, actuel Q12. Aucun item du Q11 ne renvoie à une figure ; retrait de son association parasite.",
+      "refs": [
+        {
+          "file": "ACC membranes biologiques.pdf",
+          "page": 7,
+          "label": "La figure 1 se rapporte au QCM sur les transports, actuel Q12"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 24,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm6_024_A.png",
+          "static/figure_bio_ann_cm6_024.png"
+        ],
+        "answer": "",
+        "answerIsEmpty": true,
+        "explanations": {
+          "A": "FAUX, Les récepteurs couplés aux protéines G sont des récepteurs à 7 domaines transmembranaires, sur le schéma d’hydrophobicité de la protéine A, on observe un seul domaine hydrophobe n’est pas compatible avec la notion de RCPG. La protéine B en revanche pourrait en être un.",
+          "B": "FAUX, elle est située dans le neurone pré-synaptique, c’est l’acétyl-choline estérase qui se situe dans la fente synaptique (pour réguler la quantité d’Ach présente au niveau de la synapse neuro-musculaire).",
+          "C": "FAUX, un individu de groupe A possède l’antigène A et en cas de présence de sang de groupe B (qui possède l’antigène B), produira des anticorps contre l’antigène B. En revanche il peut bel et bien recevoir du sang O (ainsi que du A naturellement).",
+          "D": "FAUX, Flippases et floppases nécessitent de l’ATP pour fonctionner, ce sont les scramblases qui sont calcium-dépendantes.",
+          "E": "FAUX, il s’agit ici du FLIP (Fluorescence Loss In Photobleaching), le FRAP présenterait un retour à la fluorescence après le photoblanchiement (photobleaching) tandis qu’ici on observe une perte de fluorescence durant toute l’expérience durant le photoblanchiement constant d’une zone de la cellule."
+        },
+        "warning": "",
+        "correctionEndPage": 19,
+        "context": "La première figure concerne la proposition A ; la seconde concerne la proposition E."
+      },
+      "reason": "Restauration du profil hydrophobe A/B omis et du corrigé explicitement tout faux : RIEN suivi de cinq FAUX en page 19. La clé vide devient une réponse évaluée, sans changement de verdict scientifique.",
+      "refs": [
+        {
+          "file": "ACC membranes biologiques.pdf",
+          "page": 14,
+          "label": "QCM 42 : profils hydrophobes puis FLIP"
+        },
+        {
+          "file": "Correction ACC membranes biologiques.pdf",
+          "page": 19,
+          "label": "RIEN et cinq verdicts FAUX explicites"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm6_024_A.png"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 2,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "La protéine indiquée par la flèche 1 est une importine"
+          },
+          {
+            "id": "B",
+            "text": "La fixation de RAN-GTP sur la protéine indiquée par la flèche 1 libère le cargo qu’elle transporte à l’intérieur du noyau."
+          },
+          {
+            "id": "C",
+            "text": "La protéine indiquée par la flèche 1 possède 3 types de site de liaison : un site de reconnaissance des signaux de localisation nucléaire (NLS), des sites d’interaction avec les séquences phénylalanine- glycine présentes sur les domaines non-structurés des nucléoporines du canal et un site de liaison au Ran-GTP."
+          },
+          {
+            "id": "D",
+            "text": "La flèche 2 indique une protéine associée aux microtubules."
+          },
+          {
+            "id": "E",
+            "text": "Les anneaux de cohésine divisent les chromosomes eucaryotes en interphase en une longue série de domaines en boucle qui permettent de rassembler chaque chromosome dans un territoire restreint du noyau."
+          }
+        ]
+      },
+      "reason": "Retrait du fragment « 2. » placé après E ; il précède le changement d’année et le QCM 40 dans le sujet et ne fait pas partie de la proposition.",
+      "refs": [
+        {
+          "file": "ACC le noyau.pdf",
+          "page": 3,
+          "label": "Fin du QCM 27 puis fragment 2. et annales 2023–2024"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 8,
+      "set": {
+        "images": []
+      },
+      "reason": "La micrographie numérotée 1–5 appartient au QCM Organisation de la cellule, actuel Q7. Le QCM suivant sur le noyau ne renvoie pas à cette figure.",
+      "refs": [
+        {
+          "file": "ACC le noyau.pdf",
+          "page": 8,
+          "label": "Séparation des QCM 32 et 50"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 11,
+      "set": {
+        "question": "Les chercheurs ont analysé en microscopie à fluorescence (Figure 3) avec des anticorps spécifiques la localisation de mTOR et de la protéine lysosomale membranaire de type 1 Lamp2 dans des cellules cultivées pendant 2h sans (-AA/G) ou avec (+AA/G) des AA et du glucose.\n\nEn fonction de vos connaissances en biologie cellulaire et des résultats de la Figure 3, vous pouvez affirmer que :"
+      },
+      "reason": "Restauration de l’introduction expérimentale omise avant la figure : technique, identité de Lamp2, durée et conditions AA/glucose.",
+      "refs": [
+        {
+          "file": "ACC le noyau.pdf",
+          "page": 10,
+          "label": "Introduction originale du QCM 50"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 2,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm10_002_figure_legende.png"
+        ]
+      },
+      "reason": "Restauration de la légende expérimentale sous la figure 1 : protocole étoposide, nombre de cellules, β-galactosidase, FSC et western-blot p21/GAPDH.",
+      "refs": [
+        {
+          "file": "Annales CM10 2023-2025.pdf",
+          "page": 3,
+          "label": "Figure et légende exactes du QCM"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm10_002_figure_legende.png"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 3,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm10_003_figure_legende.png"
+        ]
+      },
+      "reason": "Restauration de la légende expérimentale sous la figure 2 : séquence étoposide/ouabaïne, marquages annexine V et iodure de propidium, cytométrie et significativité.",
+      "refs": [
+        {
+          "file": "Annales CM10 2023-2025.pdf",
+          "page": 4,
+          "label": "Figure et légende exactes du QCM"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm10_003_figure_legende.png"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 8,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm10_008_figure_legende.png"
+        ]
+      },
+      "reason": "Restauration du contexte raster omis sous la courbe : mutation BRAF p.V600E, définition Mock/BRAFm, comptage et origine du temps.",
+      "refs": [
+        {
+          "file": "Annales CM10 2023-2025.pdf",
+          "page": 6,
+          "label": "Figure et légende exactes du QCM"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm10_008_figure_legende.png"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 9,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm10_009_tableau_legende.png"
+        ]
+      },
+      "reason": "Le tableau annexine V/IP avec 96 % et 95 % de cellules doublement négatives avait été remplacé par les photographies du QCM suivant. Restauration du tableau et de sa légende, clé AB inchangée.",
+      "refs": [
+        {
+          "file": "Annales CM10 2023-2025.pdf",
+          "page": 7,
+          "label": "Figure et légende exactes du QCM"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm10_009_tableau_legende.png"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 10,
+      "set": {
+        "images": [
+          "static/v4_bio_ann_cm10_010_figure_legende.png"
+        ]
+      },
+      "reason": "Restauration de la légende raster sous les panneaux A/B : β-galactosidase acide, DAPI et foyers de chromatine. La divergence de clé ABDE avec les annales CM2 reste annotée séparément.",
+      "refs": [
+        {
+          "file": "Annales CM10 2023-2025.pdf",
+          "page": 7,
+          "label": "Figure et légende exactes du QCM"
+        }
+      ],
+      "assetFile": "work/review_v4/ue2_ue3/visual_assist/assets/v4_bio_ann_cm10_010_figure_legende.png"
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 6,
+      "reason": "L’import du raster brut ignorait le recadrage Word et ses objets superposés : il révélait une ancienne question et une ancienne échelle. Le rendu original de la figure6, avec sa flèche et sa barre sans valeur numérique, est restauré.",
+      "set": {
+        "images": [
+          "static/v4_bio_cm8_q6_rendered.png"
+        ]
+      },
+      "refs": [
+        {
+          "file": "autotest CM8.docx",
+          "page": 2,
+          "label": "Figure6 rendue avec le recadrage Word et les surcouches"
+        },
+        {
+          "file": "correction autotest CM8.docx",
+          "page": 2,
+          "label": "Même figure au corrigé"
+        }
+      ],
+      "assetFile": "work/review_v4/ue5_visual/assets/v4_bio_cm8_q6_rendered.png"
+    }
+  ],
+  "additions": [
+    {
+      "bank": "histo.ann.tech",
+      "afterId": 22,
+      "question": {
+        "course": "Techniques histologiques",
+        "weight": 1,
+        "warning": "",
+        "images": [],
+        "subjectPage": 9,
+        "correctionPage": 11,
+        "sourceSubject": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+        "sourceCorrection": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "category": "Annales · juin2024 session2",
+        "id": 38,
+        "sourceNumber": 14,
+        "question": "Concernant la technique d’imagerie cellulaire basée sur l’immunohistologie, indiquez l’affirmation correcte parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "La technique est fondée sur l’utilisation de précurseurs de macromolécules marqués avec des isotopes radioactifs."
+          },
+          {
+            "id": "B",
+            "text": "La technique est fondée sur l’utilisation d’anticorps, qui permettent de détecter et de localiser très spécifiquement des protéines et peptides, molécules contre lesquelles ils sont dirigés, et qui se comportent alors comme des antigènes."
+          },
+          {
+            "id": "C",
+            "text": "Le complexe antigène-anticorps peut être révélé par un fluorochrome, comme par exemple la peroxydase."
+          },
+          {
+            "id": "D",
+            "text": "La technique permet la numération des chromosomes."
+          },
+          {
+            "id": "E",
+            "text": "La technique permet de mesurer la quantité d’ADN d’une cellule."
+          }
+        ],
+        "answer": "B",
+        "explanations": {
+          "A": "Cette technique est l’autoradiographie.",
+          "B": "",
+          "C": "La peroxydase est une enzyme.",
+          "D": "La technique utilisée pour les caryotypes est la FISH.",
+          "E": ""
+        }
+      },
+      "reason": "QCM entier absorbé dans l’énoncé de l’actuelID23 lors de l’import ; les cinq propositions et leur correction indépendante sont présentes dans la source. Identifiant neuf, sans renumérotation des questions existantes.",
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 9,
+          "label": "QUESTION14"
+        },
+        {
+          "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+          "page": 11,
+          "label": "Correction de QUESTION14"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "afterId": 38,
+      "question": {
+        "course": "Techniques histologiques",
+        "weight": 1,
+        "warning": "",
+        "images": [],
+        "subjectPage": 9,
+        "correctionPage": 11,
+        "sourceSubject": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+        "sourceCorrection": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "category": "Annales · juin2024 session2",
+        "id": 39,
+        "sourceNumber": 15,
+        "question": "Concernant la préparation histologique standard d’un fragment d’organe pour son observation en microscopie optique, indiquez la ou les affirmations correctes parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "Elle nécessite une fixation rapide du fragment d’organe dans un volume conséquent de fixateur."
+          },
+          {
+            "id": "B",
+            "text": "Elle nécessite par exemple, une fixation avec du formol, encore appelé paraformaldéhyde."
+          },
+          {
+            "id": "C",
+            "text": "Elle nécessite une fixation qui permet de préserver les activités biologiques."
+          },
+          {
+            "id": "D",
+            "text": "Elle nécessite une fixation qui permet de préserver les structures biologiques."
+          },
+          {
+            "id": "E",
+            "text": "Elle nécessite par exemple, une fixation avec de l’acide acétique associé à de l’éthanol."
+          }
+        ],
+        "answer": "ABD",
+        "explanations": {
+          "A": "",
+          "B": "Vrai, mais non dit cette année ; il a dit formaldéhyde ou glutaraldéhyde.",
+          "C": "La fixation ne préserve pas les fonctions biologiques.",
+          "D": "",
+          "E": "Associé au méthanol."
+        }
+      },
+      "reason": "QCM entier absorbé dans l’énoncé de l’actuelID23 lors de l’import ; les cinq propositions et leur correction indépendante sont présentes dans la source. Identifiant neuf, sans renumérotation des questions existantes.",
+      "refs": [
+        {
+          "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+          "page": 9,
+          "label": "QUESTION15"
+        },
+        {
+          "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+          "page": 11,
+          "label": "Correction de QUESTION15"
+        }
+      ]
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "afterId": 2,
+      "question": {
+        "id": 12,
+        "category": "Annales · 2023–2024 · Session1",
+        "course": "CM7 · Le noyau",
+        "question": "Choisissez la(les) réponse(s) correcte(s) concernant le noyau",
+        "options": [
+          {
+            "id": "F",
+            "text": "Au sein du nucléole sont accumulés des ARN et des protéines, impliqués dans la production des ribosomes."
+          },
+          {
+            "id": "G",
+            "text": "20% des séquences du génome humain correspondent à des séquences fortement répétitives."
+          },
+          {
+            "id": "H",
+            "text": "Les importines doivent être associées au RanGTP pour reconnaître les signaux de localisation nucléaires (NLS) des protéines qu’elles importent au travers du complexe du pore nucléaire."
+          },
+          {
+            "id": "I",
+            "text": "Les condensines sont une forme de complexe de protéines SMC (Structural Maintenance of Chromosomes) qui utilisent l’énergie de l’ATP pour former des boucles d’ADN."
+          },
+          {
+            "id": "J",
+            "text": "On trouve dans les zones hétérochromatiques des gènes très actifs transcriptionnellement."
+          }
+        ],
+        "answer": "FI",
+        "sourceAnswer": "AD",
+        "explanations": {
+          "F": "VRAI",
+          "G": "FAUX : Les séquences répétitives représentent plus de % du génome humain.",
+          "H": "FAUX : Une importine a une affinité pour son cargo en présence de RanGDP (présent surtout dans le cytosol). Lorsqu’elle se lie à une RanGTP dans le noyau, elle relâche son cargo.",
+          "I": "VRAI : Chaque condensine est un dimère de SMC.",
+          "J": "FAUX : Les zones hétérochromatiques sont plutôt inactives transcriptionnellement, les gènes actifs se trouvent surtout dans l’euchromatine."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 3,
+        "correctionPage": 4,
+        "sourceSubject": "ACC le noyau.pdf",
+        "sourceCorrection": "Correction ACC le noyau.pdf",
+        "weight": 1,
+        "sourceQuestion": "2023–2024 session 1, QCM 40",
+        "sourceItemMapping": {
+          "F": "A",
+          "G": "B",
+          "H": "C",
+          "I": "D",
+          "J": "E"
+        },
+        "sourceNumber": 40,
+        "year": "2023-2024",
+        "session": "S1"
+      },
+      "reason": "QCM entier omis lors de l’import, à cause du lettrage F–J. Les cinq items figurent entre les actuels Q2 et Q3. La correction p4 est explicitement AD avec cinq verdicts A–E correspondant aux mêmes propositions dans le même ordre ; réponse FI avec les lettres originales F–J.",
+      "refs": [
+        {
+          "file": "ACC le noyau.pdf",
+          "page": 3,
+          "label": "QCM 40, items F–J"
+        },
+        {
+          "file": "Correction ACC le noyau.pdf",
+          "page": 3,
+          "label": "Reprise identique des cinq items F–J"
+        },
+        {
+          "file": "Correction ACC le noyau.pdf",
+          "page": 4,
+          "label": "Clé AD et verdicts détaillés A–E"
+        }
+      ]
+    }
+  ]
+}

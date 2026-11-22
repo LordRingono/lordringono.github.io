@@ -1,0 +1,128 @@
+[
+  {
+    "bank": "histo.ann.tc",
+    "id": 58,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : le corrigé rejette « solide et élastique » par « pas toujours élastique », alors que la ronéo décrit une MEC solide « plus ou moins élastique selon le type de cartilage ». Il faut distinguer une propriété mécanique à des degrés différents et la catégorie particulière du cartilage élastique. Cette formulation ne permet pas d’affirmer une inversion certaine du verdict ; la clé source B reste conservée.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Corrigé du QRM 12 de juin 2024 S2"
+      },
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 13,
+        "label": "Tissus cartilagineux : MEC solide plus ou moins élastique, p. imprimée 26"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B",
+    "reviewedItemText": {
+      "C": "sa matrice extracellulaire est solide et élastique"
+    },
+    "reviewedExplanation": {
+      "C": "Faux : pas toujours élastique."
+    },
+    "noteId": "ue5-restored-tc-001"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 58,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet écrit réellement « pondrocytes » ; le corrigé reprend « chondrocytes ». Le mot du sujet est conservé dans l’énoncé et cette différence est signalée ici. La justification scientifique du corrigé vise donc les chondrocytes, ce qui doit être explicite avant de l’interpréter.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Corrigé du QRM 12 de juin 2024 S2"
+      },
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "page": 12,
+        "label": "QRM12E : « pondrocytes » dans le sujet, confirmé visuellement"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B",
+    "reviewedItemText": {
+      "E": "les pondrocytes produisent la matrice extracellulaire"
+    },
+    "reviewedExplanation": {
+      "E": "Faux : ce sont les chondroblastes, les chondrocytes renouvellent juste la matrice dans les logettes = chondroplastes."
+    },
+    "noteId": "ue5-restored-tc-002"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 58,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "En interprétant E comme le fait le corrigé, c’est-à-dire à propos des chondrocytes, l’exclusion de leur production de MEC est en conflit direct avec la ronéo : elle dit qu’ils synthétisent les fibres et la substance fondamentale et assurent production et maintien de la MEC. La page 18 confirme synthèse et renouvellement chez l’adulte. Le renouvellement suppose une synthèse ; il ne permet pas de réserver toute production aux chondroblastes. Verdict Faux et clé B conservés.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Corrigé du QRM 12 de juin 2024 S2"
+      },
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 14,
+        "label": "Chondrocytes : synthèse des fibres et de la SF, production et maintien de la MEC, p. imprimée 27"
+      },
+      {
+        "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+        "page": 18,
+        "label": "Synthèse et renouvellement de la MEC par les chondrocytes adultes, p. imprimée 31"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B",
+    "reviewedItemText": {
+      "E": "les pondrocytes produisent la matrice extracellulaire"
+    },
+    "reviewedExplanation": {
+      "E": "Faux : ce sont les chondroblastes, les chondrocytes renouvellent juste la matrice dans les logettes = chondroplastes."
+    },
+    "noteId": "ue5-restored-tc-003"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 59,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le collagène I est majoritaire dans la fraction organique de la matrice osseuse, pas dans l’ensemble de la MEC. La ronéo distingue environ 30 % de composante organique et 70 % de composante minérale ; les 95 % de collagène I concernent la composante organique. L’item C accepté omet cette restriction. La clé ABC du corrigé est conservée avec cette réserve.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Corrigé du QRM 13 de juin 2024 S2"
+      },
+      {
+        "file": "TC3 2026.pdf",
+        "page": 3,
+        "label": "MEC osseuse : 30 % organique, 70 % minérale"
+      },
+      {
+        "file": "TC3 2026.pdf",
+        "page": 4,
+        "label": "Collagène I majoritaire dans la composante organique"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABC",
+    "reviewedItemText": {
+      "C": "sa matrice extracellulaire est constituée majoritairement de collagène I"
+    },
+    "reviewedExplanation": {
+      "C": "Vrai."
+    },
+    "noteId": "ue5-restored-tc-004"
+  }
+]

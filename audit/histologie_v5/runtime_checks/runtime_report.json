@@ -1,0 +1,7797 @@
+{
+  "result": "PASS",
+  "site": "/workspace/scratch/f3cb3bb97377/output/site/index.html",
+  "siteSHA256": "37ba5f8d7d320ad773b47caa1b8cf6459cd2898cfbc81cf9adbdc99d6b1e33a2",
+  "adapter": "V4 audit/revision_v4/production/dom_adapter.cjs",
+  "scope": "128 QCM de 9 banques histologiques ; notation, profils, copies des sources et conservation de V4.",
+  "limitation": "Le script et les chaînes HTML réels sont exécutés avec l’adaptateur DOM V4. Ce contrôle ne mesure pas le rendu graphique ou les pixels d’un navigateur.",
+  "errors": [],
+  "bankChecks": [
+    {
+      "bank": "histo.te1",
+      "profile": 1,
+      "questions": 13,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "profile": 1,
+      "questions": 19,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "profile": 1,
+      "questions": 12,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "profile": 1,
+      "questions": 13,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "profile": 1,
+      "questions": 24,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "profile": 1,
+      "questions": 16,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "profile": 1,
+      "questions": 10,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "profile": 1,
+      "questions": 8,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "profile": 1,
+      "questions": 13,
+      "grade": 20,
+      "allItemsSelectedViaRealChangeHandler": true,
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "profile": 2,
+      "questions": 13,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "profile": 2,
+      "questions": 19,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "profile": 2,
+      "questions": 12,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "profile": 2,
+      "questions": 13,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "profile": 2,
+      "questions": 24,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "profile": 2,
+      "questions": 16,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "profile": 2,
+      "questions": 10,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "profile": 2,
+      "questions": 8,
+      "grade": 20,
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "profile": 2,
+      "questions": 13,
+      "grade": 20,
+      "pass": true
+    }
+  ],
+  "cardChecks": [
+    {
+      "bank": "histo.te1",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 13,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 13,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 13,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 13,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 14,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 15,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 16,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 17,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 18,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 19,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 13,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 14,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 15,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 16,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 17,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 18,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 19,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 13,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 14,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 15,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 16,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 17,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 18,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 19,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 1,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 2,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 3,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 4,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 5,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 6,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 12,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 7,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 8,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 9,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 10,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 13,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 11,
+      "stage": "blank-profile-1",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 1,
+      "stage": "selective-one-question",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 2,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 3,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 4,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 5,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 6,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 12,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 7,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 8,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 9,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 10,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 13,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 11,
+      "stage": "selective-one-question",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 1,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 2,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 3,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 4,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 5,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 6,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 12,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 7,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 8,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 9,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 10,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 13,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 11,
+      "stage": "full-key-profile-1",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 13,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "id": 13,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 13,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 14,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 15,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 16,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 17,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 18,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 19,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 13,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 14,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 15,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 16,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 17,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 18,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "id": 19,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 1,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 2,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 3,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 4,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 5,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 6,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 12,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 7,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 8,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 9,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 10,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 13,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 11,
+      "stage": "blank-profile-2",
+      "corrected": false,
+      "sourceRoles": [
+        "subject"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 1,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 2,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 3,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 4,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 5,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 6,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 12,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 7,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 8,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 9,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 10,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 13,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "id": 11,
+      "stage": "classic-global-correction",
+      "corrected": true,
+      "sourceRoles": [
+        "subject",
+        "correction"
+      ],
+      "pass": true
+    }
+  ],
+  "profileReloadChecks": [
+    {
+      "bank": "histo.te1",
+      "mode": "filled",
+      "questions": 13,
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "mode": "filled",
+      "questions": 19,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "mode": "filled",
+      "questions": 12,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "mode": "filled",
+      "questions": 13,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "mode": "filled",
+      "questions": 24,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "mode": "filled",
+      "questions": 16,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "mode": "filled",
+      "questions": 10,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "mode": "filled",
+      "questions": 8,
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "mode": "filled",
+      "questions": 13,
+      "pass": true
+    },
+    {
+      "bank": "histo.te1",
+      "mode": "classic",
+      "questions": 13,
+      "pass": true
+    },
+    {
+      "bank": "histo.te2",
+      "mode": "classic",
+      "questions": 19,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc1",
+      "mode": "classic",
+      "questions": 12,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc2",
+      "mode": "classic",
+      "questions": 13,
+      "pass": true
+    },
+    {
+      "bank": "histo.tc3",
+      "mode": "classic",
+      "questions": 24,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn1",
+      "mode": "classic",
+      "questions": 16,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn2",
+      "mode": "classic",
+      "questions": 10,
+      "pass": true
+    },
+    {
+      "bank": "histo.tn3",
+      "mode": "classic",
+      "questions": 8,
+      "pass": true
+    },
+    {
+      "bank": "histo.autotech",
+      "mode": "classic",
+      "questions": 13,
+      "pass": true
+    }
+  ],
+  "conservation": {
+    "unchangedBanks": [
+      {
+        "bank": "acc",
+        "questions": 38
+      },
+      {
+        "bank": "colle2",
+        "questions": 79
+      },
+      {
+        "bank": "colle1",
+        "questions": 78
+      },
+      {
+        "bank": "eb",
+        "questions": 79
+      },
+      {
+        "bank": "bio.cm2oral",
+        "questions": 7
+      },
+      {
+        "bank": "bio.cm3",
+        "questions": 10
+      },
+      {
+        "bank": "bio.cm4",
+        "questions": 10
+      },
+      {
+        "bank": "bio.cm5",
+        "questions": 17
+      },
+      {
+        "bank": "bio.cm6",
+        "questions": 13
+      },
+      {
+        "bank": "bio.cm7",
+        "questions": 11
+      },
+      {
+        "bank": "bio.cm8",
+        "questions": 16
+      },
+      {
+        "bank": "bio.cm9",
+        "questions": 11
+      },
+      {
+        "bank": "bio.cm10",
+        "questions": 5
+      },
+      {
+        "bank": "histo.ann.te",
+        "questions": 29
+      },
+      {
+        "bank": "histo.ann.tc",
+        "questions": 59
+      },
+      {
+        "bank": "histo.ann.tn",
+        "questions": 66
+      },
+      {
+        "bank": "histo.ann.tech",
+        "questions": 39
+      },
+      {
+        "bank": "bio.ann.cm2",
+        "questions": 15
+      },
+      {
+        "bank": "bio.ann.cm3",
+        "questions": 13
+      },
+      {
+        "bank": "bio.ann.cm4",
+        "questions": 8
+      },
+      {
+        "bank": "bio.ann.cm5",
+        "questions": 16
+      },
+      {
+        "bank": "bio.ann.cm6",
+        "questions": 25
+      },
+      {
+        "bank": "bio.ann.cm7",
+        "questions": 12
+      },
+      {
+        "bank": "bio.ann.cm8",
+        "questions": 13
+      },
+      {
+        "bank": "bio.ann.cm9",
+        "questions": 9
+      },
+      {
+        "bank": "bio.ann.cm10",
+        "questions": 13
+      },
+      {
+        "bank": "embryo.aut.meiose",
+        "questions": 15
+      },
+      {
+        "bank": "embryo.aut.sperm",
+        "questions": 7
+      },
+      {
+        "bank": "embryo.aut.ovo",
+        "questions": 19
+      },
+      {
+        "bank": "embryo.aut.fec",
+        "questions": 24
+      },
+      {
+        "bank": "embryo.aut.s1",
+        "questions": 13
+      },
+      {
+        "bank": "embryo.aut.s2",
+        "questions": 10
+      },
+      {
+        "bank": "embryo.aut.s3",
+        "questions": 37
+      },
+      {
+        "bank": "embryo.aut.s4",
+        "questions": 35
+      },
+      {
+        "bank": "embryo.aut.coeur",
+        "questions": 9
+      },
+      {
+        "bank": "embryo.ann.gamet",
+        "questions": 36
+      },
+      {
+        "bank": "embryo.ann.fec",
+        "questions": 21
+      },
+      {
+        "bank": "embryo.ann.s1",
+        "questions": 13
+      },
+      {
+        "bank": "embryo.ann.s2",
+        "questions": 14
+      },
+      {
+        "bank": "embryo.ann.s3",
+        "questions": 39
+      },
+      {
+        "bank": "embryo.ann.s4",
+        "questions": 41
+      },
+      {
+        "bank": "embryo.ann.coeur",
+        "questions": 24
+      },
+      {
+        "bank": "embryo.col.gamet",
+        "questions": 36
+      },
+      {
+        "bank": "embryo.col.fec",
+        "questions": 26
+      },
+      {
+        "bank": "embryo.col.s1",
+        "questions": 18
+      },
+      {
+        "bank": "embryo.col.s2",
+        "questions": 35
+      },
+      {
+        "bank": "embryo.col.s3",
+        "questions": 53
+      },
+      {
+        "bank": "embryo.col.s4",
+        "questions": 74
+      },
+      {
+        "bank": "ue2.intro.autotest",
+        "questions": 11
+      },
+      {
+        "bank": "ue2.intro.annales",
+        "questions": 14
+      },
+      {
+        "bank": "ue2.adn.autotest",
+        "questions": 14
+      },
+      {
+        "bank": "ue2.adn.annales",
+        "questions": 28
+      },
+      {
+        "bank": "ue2.arn.autotest",
+        "questions": 19
+      },
+      {
+        "bank": "ue2.arn.annales",
+        "questions": 29
+      },
+      {
+        "bank": "ue2.organisation.autotest",
+        "questions": 12
+      },
+      {
+        "bank": "ue2.organisation.annales",
+        "questions": 12
+      },
+      {
+        "bank": "ue2.replication.autotest",
+        "questions": 27
+      },
+      {
+        "bank": "ue2.replication.annales",
+        "questions": 22
+      },
+      {
+        "bank": "ue2.transcription.autotest",
+        "questions": 35
+      },
+      {
+        "bank": "ue2.transcription.annales",
+        "questions": 34
+      },
+      {
+        "bank": "ue2.traduction.autotest",
+        "questions": 29
+      },
+      {
+        "bank": "ue2.traduction.annales",
+        "questions": 30
+      },
+      {
+        "bank": "ue2.regulation.autotest",
+        "questions": 24
+      },
+      {
+        "bank": "ue2.regulation.annales",
+        "questions": 23
+      },
+      {
+        "bank": "ue2.reparation.autotest",
+        "questions": 20
+      },
+      {
+        "bank": "ue2.reparation.annales",
+        "questions": 25
+      },
+      {
+        "bank": "ue2.anomalies.autotest",
+        "questions": 7
+      },
+      {
+        "bank": "ue2.anomalies.annales",
+        "questions": 9
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "questions": 43
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "questions": 43
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "questions": 40
+      },
+      {
+        "bank": "annales.ue2c.proteines.2025s1",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2025s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2025s1",
+        "questions": 9
+      },
+      {
+        "bank": "annales.ue2c.glucides.2025s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2025s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2025s1",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2025s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.thermo.2025s1",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.proteines.2024s1",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2024s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2024s1",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue2c.glucides.2024s1",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2024s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2024s1",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2024s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.thermo.2024s1",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.proteines.2024s2",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2024s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.lipides.2024s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.glucides.2024s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2024s2",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2024s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2024s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2023s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.thermo.2023s1",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2023s1",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.lipides.2023s1",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue2c.glucides.2023s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2023s1",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.proteines.2023s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2023s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.proteines.2023s2",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2023s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.lipides.2023s2",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.glucides.2023s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2023s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2023s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2023s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.proteines.2022s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2022s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2022s1",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.glucides.2022s1",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2022s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2022s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2022s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.thermo.2022s1",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.proteines.2022s2",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2022s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.lipides.2022s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.glucides.2022s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2022s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2022s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2022s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.proteines.2021s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2021s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2021s1",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.glucides.2021s1",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2021s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2021s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2021s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.thermo.2021s1",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.proteines.2021s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2021s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.lipides.2021s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.glucides.2021s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2021s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2021s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2021s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.thermo.2021s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.proteines.2020s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2020s1",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2020s1",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue2c.glucides.2020s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2020s1",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2020s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2020s1",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.proteines.2020s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2020s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.lipides.2020s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.glucides.2020s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2020s2",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2020s2",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2020s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.thermo.2020s2",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.lipides.2020paces",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue2c.glucides.2020paces",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.proteines.2020paces",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2020paces",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2020paces",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2020paces",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2020paces",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue2c.thermo.2020paces",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2019",
+        "questions": 9
+      },
+      {
+        "bank": "annales.ue2c.glucides.2019",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.proteines.2019",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2019",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2019",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2019",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2019",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.thermo.2019",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.lipides.2018",
+        "questions": 8
+      },
+      {
+        "bank": "annales.ue2c.glucides.2018",
+        "questions": 3
+      },
+      {
+        "bank": "annales.ue2c.proteines.2018",
+        "questions": 6
+      },
+      {
+        "bank": "annales.ue2c.enzymes.2018",
+        "questions": 2
+      },
+      {
+        "bank": "annales.ue2c.metabolisme.2018",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.chimie_org.2018",
+        "questions": 5
+      },
+      {
+        "bank": "annales.ue2c.atomistique.2018",
+        "questions": 4
+      },
+      {
+        "bank": "annales.ue2c.thermo.2018",
+        "questions": 1
+      },
+      {
+        "bank": "annales.ue3.2025-2026.s1",
+        "questions": 12
+      },
+      {
+        "bank": "annales.ue3.2024-2025.s1",
+        "questions": 12
+      },
+      {
+        "bank": "annales.ue3.2024-2025.s2",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue3.2023-2024.s1",
+        "questions": 12
+      },
+      {
+        "bank": "annales.ue3.2023-2024.s2",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue3.2022-2023.s1",
+        "questions": 12
+      },
+      {
+        "bank": "annales.ue3.2022-2023.s2",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue3.2021-2022.s1",
+        "questions": 11
+      },
+      {
+        "bank": "annales.ue3.2021-2022.s2",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue3.2020-2021.paces",
+        "questions": 11
+      },
+      {
+        "bank": "annales.ue3.2020-2021.s1",
+        "questions": 11
+      },
+      {
+        "bank": "annales.ue3.2020-2021.s2",
+        "questions": 7
+      },
+      {
+        "bank": "annales.ue3.2019-2020.paces",
+        "questions": 11
+      },
+      {
+        "bank": "annales.ue3.2018-2019.paces",
+        "questions": 11
+      },
+      {
+        "bank": "ue4.annales.theme.sources-naturelles",
+        "questions": 24
+      },
+      {
+        "bank": "ue4.annales.theme.galenique",
+        "questions": 30
+      },
+      {
+        "bank": "ue4.annales.theme.droit",
+        "questions": 44
+      },
+      {
+        "bank": "ue4.annales.theme.cycle-vie",
+        "questions": 26
+      },
+      {
+        "bank": "ue4.annales.theme.benefice-risque",
+        "questions": 23
+      },
+      {
+        "bank": "ue4.annales.theme.conception-rationnelle",
+        "questions": 24
+      },
+      {
+        "bank": "ue4.annales.theme.identification-pa",
+        "questions": 17
+      },
+      {
+        "bank": "ue4.annales.theme.developpement-clinique",
+        "questions": 20
+      },
+      {
+        "bank": "ue4.annales.theme.biotechnologies",
+        "questions": 30
+      },
+      {
+        "bank": "ue4.annales.theme.chimie-organique",
+        "questions": 2
+      },
+      {
+        "bank": "ue4.annales.theme.pk-pd",
+        "questions": 24
+      },
+      {
+        "bank": "ue4.annales.theme.cibles",
+        "questions": 8
+      },
+      {
+        "bank": "ue4.annales.theme.analyse-controles",
+        "questions": 18
+      },
+      {
+        "bank": "ue4.annales.theme.iatrogenie",
+        "questions": 10
+      },
+      {
+        "bank": "ue4.annales.theme.bum",
+        "questions": 36
+      }
+    ],
+    "unchangedBankCount": 208,
+    "unchangedQuestionCount": 2678,
+    "profileStorageKeysUnchanged": true,
+    "oldFileCount": 3208,
+    "oldAuditFileCount": 172,
+    "missingOldFiles": [],
+    "changedOldFiles": []
+  },
+  "specialCases": {
+    "allFalse": {
+      "bank": "histo.tc3",
+      "id": 17,
+      "expected": "∅",
+      "pass": true
+    },
+    "optionsFtoJ": {
+      "bank": "histo.autotech",
+      "id": 13,
+      "options": "FGHIJ",
+      "answer": "GIJ",
+      "pass": true
+    },
+    "explicitNoneDistinctFromBlank": {
+      "blankUncorrected": true,
+      "explicitNoneGrade": 20,
+      "ratedQuestions": 1,
+      "pass": true
+    }
+  },
+  "questions": 128,
+  "captureReferencesChecked": 283,
+  "completedAt": "2026-11-22T19:42:06.177Z",
+  "summary": {
+    "targetQuestions": 128,
+    "gradedBankProfiles": 18,
+    "cardStates": 640,
+    "reloadedBankProfiles": 18,
+    "errors": 0
+  }
+}

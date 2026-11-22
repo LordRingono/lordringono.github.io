@@ -1,0 +1,12 @@
+/* A single theme choice opens all its pharmacology annals. */
+body[data-ue="ue4"] .course-explorer .explorer-section,
+body[data-ue="ue4"] .course-explorer .explorer-types,
+body[data-ue="ue4"] .course-explorer .explorer-series{display:none}
+body[data-ue="ue4"] .course-explorer .explorer-courses{max-height:390px}
+body[data-ue="ue4"] .mobile-explorer .explorer-courses{max-height:none}
+.pharma-review{margin:13px 0 3px;padding:11px 13px;border:1px solid #e8dcc1;border-left:3px solid #ad8544;border-radius:8px;background:#fffbf3;color:#685433;font-size:12px;line-height:1.6}
+.pharma-review-title{font-size:11px;font-weight:800;color:#806127;margin-bottom:4px}
+.pharma-review p{margin:5px 0}
+body[data-ue="ue4"] .correction-body>.help-note{white-space:pre-wrap;overflow-wrap:anywhere}
+@media(max-width:700px){.pharma-review{font-size:11.8px;padding:10px 11px}}
+@media print{.pharma-review{break-inside:avoid;background:#fff;font-size:9px}body[data-ue="ue4"] .correction-body>.help-note{display:block!important}}

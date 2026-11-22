@@ -1,0 +1,67 @@
+[
+  {
+    "old_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/autotest TN1.docx",
+    "new_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/source/autotest TN1(1).docx",
+    "old_sha256": "836a868c1c65d3be2f6e7e21f9407020372e92eaea17951fbc62d14779ee9721",
+    "new_sha256": "836a868c1c65d3be2f6e7e21f9407020372e92eaea17951fbc62d14779ee9721",
+    "paragraphs_equal": true,
+    "media_equal": true,
+    "parts_changed": []
+  },
+  {
+    "old_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/CORRECTION autotest TN1(1).docx",
+    "new_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/source/CORRECTION autotest TN1(2).docx",
+    "old_sha256": "9e01b0d7f698800073924e91a117379dfe5ec2adaf8a2517f9ce2b6a43716d11",
+    "new_sha256": "9e01b0d7f698800073924e91a117379dfe5ec2adaf8a2517f9ce2b6a43716d11",
+    "paragraphs_equal": true,
+    "media_equal": true,
+    "parts_changed": []
+  },
+  {
+    "old_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/AUTOTEST TN2.docx",
+    "new_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/source/AUTOTEST TN2(1).docx",
+    "old_sha256": "a7a871ee6031182bcc103ef82c1dc5f864af18a12ef8e61e085a5a5f067cac9c",
+    "new_sha256": "a7a871ee6031182bcc103ef82c1dc5f864af18a12ef8e61e085a5a5f067cac9c",
+    "paragraphs_equal": true,
+    "media_equal": true,
+    "parts_changed": []
+  },
+  {
+    "old_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/correction autotest TN2(2).docx",
+    "new_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/source/correction autotest TN2(3).docx",
+    "old_sha256": "c185193145c77bc3c985b63975c1a7a12df4343371cfa757978070e071033593",
+    "new_sha256": "c185193145c77bc3c985b63975c1a7a12df4343371cfa757978070e071033593",
+    "paragraphs_equal": true,
+    "media_equal": true,
+    "parts_changed": []
+  },
+  {
+    "old_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/AUTOTEST TN3.docx",
+    "new_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/source/AUTOTEST TN3(1).docx",
+    "old_sha256": "68ce86400d552da2d88717461af25f6bf975f9ba5b980de0ce2187642f2b5dd9",
+    "new_sha256": "68ce86400d552da2d88717461af25f6bf975f9ba5b980de0ce2187642f2b5dd9",
+    "paragraphs_equal": true,
+    "media_equal": true,
+    "parts_changed": []
+  },
+  {
+    "old_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/CORRECTION AUTOTEST TN3.docx",
+    "new_file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/source/CORRECTION AUTOTEST TN3(1).docx",
+    "old_sha256": "718cd9f00cbe9813280b609803de3abdd33e1f8954e1f586127a04ad49185dd1",
+    "new_sha256": "e0208e7869dc122aa38e8400fbc8c17bf8b5e71b7c20ba1d37a3fc68e4f5db0c",
+    "paragraphs_equal": true,
+    "media_equal": true,
+    "parts_changed": [
+      "docProps/core.xml",
+      "word/footnotes.xml",
+      "word/settings.xml",
+      "word/footer1.xml",
+      "docProps/app.xml",
+      "word/header1.xml",
+      "word/endnotes.xml",
+      "word/document.xml"
+    ],
+    "meaningfulChanges": false,
+    "runDifference": "Dans Q3E, le verdict gras « Vrai » est inchangé. Son espace final est seulement déplacé dans un run séparé par le signet _GoBack. Images, paragraphes, clés et corrections sont identiques."
+  }
+]

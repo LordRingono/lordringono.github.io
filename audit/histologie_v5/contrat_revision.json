@@ -1,0 +1,30 @@
+{
+  "scope": [
+    "histo.te1",
+    "histo.te2",
+    "histo.tc1",
+    "histo.tc2",
+    "histo.tc3",
+    "histo.tn1",
+    "histo.tn2",
+    "histo.tn3",
+    "histo.autotech"
+  ],
+  "questions": 128,
+  "items": 649,
+  "unchangedOtherBanks": 208,
+  "currentAllSiteQuestionCount": 2806,
+  "baseline": {
+    "version": 4,
+    "zipSHA256": "c1699c28c029f7b8002152f19d1524a4c29a6d22146f1dd84eb08d20b18cdfcf"
+  },
+  "preserve": [
+    "existing progress IDs",
+    "both profiles",
+    "non-histology banks",
+    "histology annales",
+    "original documents",
+    "official grading keys when only scientific disagreement"
+  ],
+  "coreRule": "Subject statements and screenshots before grading; correction details, screenshot and caveats only after isCorrected(q)."
+}

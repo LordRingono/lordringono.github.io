@@ -1,0 +1,124 @@
+{
+  "status": "PASS",
+  "scope": "Complétude et fidélité documentaire de la revue ; pas de certification scientifique des corrigés du tutorat.",
+  "total_site_qcm": 2788,
+  "total_site_banks": 217,
+  "pharma_qcm": 336,
+  "pharma_items": 1680,
+  "pharma_subjects": 14,
+  "themes": {
+    "Sources naturelles - Kerzaon": 24,
+    "Galénique": 30,
+    "Le droit pharma": 46,
+    "Cycle de vie du médicament": 2,
+    "Balance bénéfice/risque": 23,
+    "Conception rationnelle : Terreux": 24,
+    "Identification PA : Bourguignon": 32,
+    "Développement clinique": 20,
+    "Biotechnologies": 31,
+    "Chimie organique": 9,
+    "PK PD": 24,
+    "Cibles, mécanisme & actions": 7,
+    "Analyse & contrôles des médicaments": 18,
+    "Iatrogénie": 10,
+    "BUM": 36
+  },
+  "graded_pharma": 325,
+  "ungraded_pharma": 11,
+  "new_import_ungraded_total": 18,
+  "questions_with_new_notes": 143,
+  "new_note_count": 160,
+  "preexisting_warnings": 14,
+  "key_restorations": [
+    "ue4:2023-2024:S2:q05"
+  ],
+  "applied_field_patches": [
+    {
+      "sourceId": "ue4:2025-2026:S1:q13",
+      "field": "explanations.C"
+    },
+    {
+      "sourceId": "ue4:2025-2026:S1:q14",
+      "field": "explanations.D"
+    },
+    {
+      "sourceId": "ue4:2025-2026:S1:q14",
+      "field": "explanations.E"
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q15",
+      "field": "explanations.E"
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q06",
+      "field": "explanations.D"
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q09",
+      "field": "explanations.E"
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q09",
+      "field": "generalExplanation"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.B"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.C"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.D"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.E"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "correctionImages"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "warning"
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "answer"
+    }
+  ],
+  "protected_other_banks": 202,
+  "protected_other_qcm": 2452,
+  "protected_image_pdf_files": 2873,
+  "referenced_files": 2831,
+  "decoded_images": 2823,
+  "shared_context_questions": 2,
+  "review_lots": [
+    {
+      "lot": "recent",
+      "questions": 114,
+      "items": 570,
+      "review_sha256": "a1605ac90740f08db9119b8fcd51edf05f86204b3ba4dc0032ede9ea2c67441e"
+    },
+    {
+      "lot": "middle",
+      "questions": 112,
+      "items": 560,
+      "review_sha256": "ffd0fe358ce607e37ac690d148f0dc0f01ab42a370ca3f58fe8a3fcf5eb7d61b"
+    },
+    {
+      "lot": "older",
+      "questions": 110,
+      "items": 550,
+      "review_sha256": "0964106737467285936d766a9fdfe06e3939a692141a794fbd9555f85a519d29"
+    }
+  ],
+  "html_sha256": "c94681b4676da50ef0d1c3a15d680d695778a15a6b80898c63091099f5519843",
+  "preexisting_missing_nonpharma_assets": [
+    "static/docx_3ec65cccd480.emf"
+  ],
+  "pharma_missing_assets": []
+}

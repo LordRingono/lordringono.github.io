@@ -1,0 +1,748 @@
+[
+  {
+    "bank": "histo.ann.te",
+    "id": 18,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 5,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 19,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 21,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+          "page": 7,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 8,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 2,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 2,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    },
+    "status": "partially_course_checked",
+    "itemsCourseChecked": [
+      "C",
+      "D"
+    ],
+    "courseReferences": [
+      {
+        "file": "TC3 2026.pdf",
+        "page": 16,
+        "label": "Ossification de membrane et périoste"
+      },
+      {
+        "file": "TC3 2026.pdf",
+        "page": 17,
+        "label": "Durée comparée de l’ossification endochondrale"
+      }
+    ],
+    "courseVerification": "Contrelecture indépendante des items C et D avec les deux pages citées : verdicts C vrai et D faux concordants ; pas de signalement scientifique ajouté."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 9,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 10,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 11,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 12,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 13,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 21,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 7,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 34,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 12,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 13,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 35,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 12,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 13,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 36,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 12,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 13,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 7,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 3,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 4,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 8,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 4,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 4,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 9,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 4,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 5,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 29,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 5,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 5,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 30,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 5,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 35,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 6,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 7,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 44,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 7,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 8,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 45,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 8,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "7. Colle en chambre S4 LS correction.pdf",
+          "page": 8,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+          "page": 2,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "sourceRepair": true,
+    "sourceRecheck": {
+      "scope": "Contrôle final de chaque item, de sa lettre et de ses limites dans les deux PDF originaux ; suppression des titres voisins et restauration des choix perdus.",
+      "refs": [
+        {
+          "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+          "page": 2,
+          "label": "Énoncé original et limite réelle des items"
+        },
+        {
+          "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+          "page": 3,
+          "label": "Correction originale et limite réelle des commentaires"
+        }
+      ]
+    }
+  }
+]

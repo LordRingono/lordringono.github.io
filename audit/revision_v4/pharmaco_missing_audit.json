@@ -1,0 +1,36 @@
+{
+  "method": "Fresh scan of all 1660 extracted page texts for Sujet UE4, original A/E option sets, source-to-bank statement comparison, visual review of all 13 diagram questions. Old 336 total not used as the counting rule.",
+  "subjectPages": 104,
+  "subjectBlocks": 14,
+  "sourceAItemSets": 333,
+  "sourceFigureOnlySets": 3,
+  "sourceQuestionSets": 336,
+  "bankQuestions": 336,
+  "sourceIdsUnique": 336,
+  "numberedSubjectQuestionsMissingFromBank": [],
+  "bankOptions": 1680,
+  "optionsMatchingOriginalAfterNormalization": 1663,
+  "diagramLabelOptionsVisuallyReviewed": 15,
+  "remainingTextDifferences": [
+    {
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "item": "D",
+      "original": "bdistribution",
+      "bank": "distribution",
+      "effect": "Caractère parasite du PDF supprimé, aucun sens modifié"
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "item": "E",
+      "original": "è50%",
+      "bank": "50%",
+      "effect": "Caractère parasite du PDF supprimé, aucun sens modifié"
+    }
+  ],
+  "blankAnswerQuestions": 12,
+  "blankAnswerWithAUCUNE": 1,
+  "explicitUnscoredReservations": 11,
+  "earliestSourceAcademicYear": "2018-2019",
+  "latestSourceAcademicYear": "2025-2026",
+  "uiRuntimeTest": "Réservé à root : le présent audit est documentaire et statique."
+}

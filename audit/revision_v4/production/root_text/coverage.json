@@ -1,0 +1,120 @@
+[
+  {
+    "bank": "histo.ann.te",
+    "id": 28,
+    "status": "reviewed_with_course",
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "reviewScope": "Les cinq items et les cinq verdicts relus dans le sujet et le corrigé originaux ; question retrouvée lors du contrôle des frontières entre questions.",
+    "consultedFiles": [
+      {
+        "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+        "page": 5,
+        "label": "QRM 9, session 2 de juin 2024"
+      },
+      {
+        "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "page": 5,
+        "label": "Correction du QRM 9"
+      },
+      {
+        "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "page": 6,
+        "label": "Suite des verdicts C–E du QRM 9"
+      }
+    ],
+    "sourceRepair": true,
+    "figureReview": "no_attached_figure",
+    "limitations": [],
+    "courseVerification": "Contrelecture indépendante de tous les items contre les passages indiqués ; aucun conflit de verdict identifié. La correction des jonctions serrées conserve la notion de contrôle sélectif de diffusion.",
+    "courseReferences": [
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 2,
+        "label": "Passage relu lors de la contrelecture indépendante"
+      },
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 3,
+        "label": "Passage relu lors de la contrelecture indépendante"
+      }
+    ],
+    "itemsCourseChecked": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 29,
+    "status": "reviewed_with_course",
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "itemCountReviewed": 5,
+    "reviewScope": "Les cinq items et les cinq verdicts relus dans le sujet et le corrigé originaux ; question retrouvée lors du contrôle des frontières entre questions.",
+    "consultedFiles": [
+      {
+        "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+        "page": 5,
+        "label": "QRM 10, session 2 de juin 2024"
+      },
+      {
+        "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "page": 6,
+        "label": "Correction du QRM 10"
+      }
+    ],
+    "sourceRepair": true,
+    "figureReview": "no_attached_figure",
+    "limitations": [],
+    "courseVerification": "Contrelecture indépendante de tous les items contre les passages indiqués ; aucun conflit de verdict identifié. La correction des jonctions serrées conserve la notion de contrôle sélectif de diffusion.",
+    "courseReferences": [
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 6,
+        "label": "Passage relu lors de la contrelecture indépendante"
+      },
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 7,
+        "label": "Passage relu lors de la contrelecture indépendante"
+      },
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 9,
+        "label": "Passage relu lors de la contrelecture indépendante"
+      },
+      {
+        "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+        "page": 14,
+        "label": "Passage relu lors de la contrelecture indépendante"
+      },
+      {
+        "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+        "page": 2,
+        "label": "Jonctions serrées et contrôle sélectif de diffusion"
+      }
+    ],
+    "itemsCourseChecked": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  }
+]

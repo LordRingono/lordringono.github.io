@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "questions": 110,
+  "items": 550,
+  "sourceSubjects": 4,
+  "existingUngradedPreserved": 10,
+  "rawKeysConformant": 110,
+  "themes": {
+    "droit": 15,
+    "biotechnologies": 8,
+    "analyse-controles": 4,
+    "pk-pd": 10,
+    "iatrogenie": 5,
+    "benefice-risque": 8,
+    "identification-pa": 9,
+    "galenique": 16,
+    "sources-naturelles": 7,
+    "conception-rationnelle": 8,
+    "bum": 4,
+    "developpement-clinique": 8,
+    "cibles": 5,
+    "chimie-organique": 2,
+    "cycle-vie": 1
+  },
+  "notes": 53,
+  "patchProposals": 2,
+  "newProductionAssets": 0,
+  "files": {
+    "input.json": "af213e0b7210ca7c31dd59700b19bd7469605f9b3a8a611a07097c78ac9941cd",
+    "reviews.json": "0964106737467285936d766a9fdfe06e3939a692141a794fbd9555f85a519d29",
+    "review.md": "04d049d6debb4cd3a10a5eed0dc9079870e28f688e9a8fae634e20c995465c34",
+    "text_verification.json": "26f07f1e427916b618e3bcb4faef6e67f130869dcd923ea4d2fe714c98ade7f8",
+    "assets_manifest.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "independent_q5_check.md": "caef9f1215d3d8a787ead4ec56c5a0915cf308f16316b04f544f3e338c152509"
+  },
+  "classificationHarmonizations": [
+    "ue4:2020-2021:PACES:q29 → droit",
+    "ue4:2019-2020:S1:q09 → developpement-clinique"
+  ]
+}

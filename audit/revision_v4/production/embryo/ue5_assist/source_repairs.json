@@ -1,0 +1,676 @@
+[
+  {
+    "bank": "embryo.aut.s4",
+    "id": 9,
+    "reason": "La proposition J a été fusionnée dans I à l’import ; J et son verdict Vrai sont distincts dans le corrigé p. 4.",
+    "sourceFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+    "sourceQuestion": 9,
+    "sourcePage": 3,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 3,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q9, p. 3"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q9, p. 3"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q9, p. 4"
+      }
+    ],
+    "proposedOptions": [
+      {
+        "id": "A",
+        "text": "C’est une coupe transversale."
+      },
+      {
+        "id": "B",
+        "text": "C’est une coupe au cours de la 3ème semaine."
+      },
+      {
+        "id": "C",
+        "text": "c’est probablement une coupe dans la partie médiane de l’embryon, au niveau du sac vitellin."
+      },
+      {
+        "id": "E",
+        "text": "4 correspond à la chorde."
+      },
+      {
+        "id": "F",
+        "text": "1 correspond à la somatopleure."
+      },
+      {
+        "id": "G",
+        "text": "2 correspond à l’ectoblaste de la paroi ventrale."
+      },
+      {
+        "id": "H",
+        "text": "3 correspond à la cavité amniotique."
+      },
+      {
+        "id": "I",
+        "text": "5 correspond au myotome."
+      },
+      {
+        "id": "J",
+        "text": "On observe la différenciation d’un somite."
+      },
+      {
+        "id": "K",
+        "text": "6 correspond à l’hypomère."
+      }
+    ],
+    "proposedExplanations": {
+      "A": "Vrai",
+      "B": "Faux, forcément en S4, puisque la plicature a eu lieu (on voit les parois latérales, la paroi dorsale et la paroi ventrale)",
+      "C": "Faux, on est avant ou en arrière du canal vitellin, puisque l’on voit la paroi ventrale, le cœlome interne, le TD primitif, entièrement fermés",
+      "E": "Vrai",
+      "F": "Faux, splanchnopleure",
+      "G": "Vrai",
+      "H": "Faux, cœlome interne",
+      "I": "Faux, dermatome",
+      "J": "Vrai, la structure va clairement donner le squelette vertébral + le myotome + dermatome, donc une structure définie (qui n’est pas de la face), c’est donc bien un somite",
+      "K": "Vrai"
+    },
+    "proposedAnswer": "AEGJK",
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "A V, B F, C F, E V, F F, G V, H F, I F, J V, K V. La lettre D est déjà absente du PDF : aucun D inventé."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 11,
+    "reason": "La proposition B est restée collée à A ; le corrigé p. 4 lui donne explicitement Vrai.",
+    "sourceFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+    "sourceQuestion": 11,
+    "sourcePage": 4,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 3,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q11, p. 3"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q11, p. 4"
+      }
+    ],
+    "proposedOptions": [
+      {
+        "id": "A",
+        "text": "Issues du neurectoblaste, elles doivent subir une transition épithélio-mésenchymateuse pour migrer."
+      },
+      {
+        "id": "B",
+        "text": "Elles sont d’origine neurectoblastiques."
+      },
+      {
+        "id": "C",
+        "text": "Elles ne formeront que des structures nerveuses."
+      },
+      {
+        "id": "D",
+        "text": "Quand elles ne migrent pas correctement, elles peuvent entrainer des anomalies, comme par exemple le mégacolon congénital."
+      },
+      {
+        "id": "E",
+        "text": "elles forment, entre autres, le système nerveux central."
+      },
+      {
+        "id": "F",
+        "text": "elles expriment des E-cadhérines."
+      },
+      {
+        "id": "G",
+        "text": "Elles se forme par ingression."
+      },
+      {
+        "id": "H",
+        "text": "Elles formeront les ganglions entériques."
+      },
+      {
+        "id": "I",
+        "text": "Elles formeront les dents"
+      },
+      {
+        "id": "J",
+        "text": "Elles formeront le septum aortico-pulmonaire."
+      },
+      {
+        "id": "K",
+        "text": "Elles formeront la corticosurrénale."
+      },
+      {
+        "id": "L",
+        "text": "Elles formeront les ganglions pré-aortiques."
+      },
+      {
+        "id": "M",
+        "text": "Elles migrent pour former les mélanocytes, cellules pigmentaires."
+      },
+      {
+        "id": "N",
+        "text": "Une mauvaise mise en place des ganglions pré-aortiques peut expliquer une pathologie comme la maladie de Hirschprung."
+      }
+    ],
+    "proposedExplanations": {
+      "A": "Vrai, elles se détachent du neurectoblaste et migrent dans le mésoblaste diffus",
+      "B": "Vrai",
+      "C": "Faux",
+      "D": "Vrai",
+      "E": "Faux, système nerveux périphérique",
+      "F": "Faux N-cadhérines",
+      "G": "Faux DELAMINATION",
+      "H": "Vrai",
+      "I": "Vrai",
+      "J": "Vrai",
+      "K": "Faux Médullo-surrénales",
+      "L": "Vrai",
+      "M": "Vrai",
+      "N": "Faux, mauvaise mise en place des ganglions entériques"
+    },
+    "proposedAnswer": "ABDHIJLM",
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "A V, B V, C F, D V, E F, F F, G F, H V, I V, J V, K F, L V, M V, N F."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 13,
+    "reason": "Le PDF comporte deux propositions H différentes. Le second H, sur le côlon, a disparu ; il est restitué sous M, prochaine lettre libre, en préservant tous les anciens identifiants.",
+    "sourceFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+    "sourceQuestion": 13,
+    "sourcePage": 5,
+    "originalAnswer": "AEFIL",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 4,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q13, p. 4"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q13, p. 5"
+      }
+    ],
+    "proposedOptions": [
+      {
+        "id": "A",
+        "text": "On parle d’intestin primitif, dès que l’Entoblaste subit les plicatures."
+      },
+      {
+        "id": "B",
+        "text": "L’intestin primitif est totalement fermé."
+      },
+      {
+        "id": "C",
+        "text": "L’intestin primitif antérieur débute avec la cavité buccale et se termine à l’estomac."
+      },
+      {
+        "id": "D",
+        "text": "Les 3 parties de l’intestin primitif sont définies à partir de l’anatomie définitive du tube digestif."
+      },
+      {
+        "id": "E",
+        "text": "l’appareil respiratoire est d’origine entoblastique."
+      },
+      {
+        "id": "F",
+        "text": "L’intestin moyen est à l’origine de l’intestin grêle."
+      },
+      {
+        "id": "H",
+        "text": "C’est uniquement la première branche de l’anse vitelline qui formera l’intestin grêle",
+        "sourceLabel": "H (1 dans le PDF)"
+      },
+      {
+        "id": "G",
+        "text": "L’intestin moyen est à l’origine de la totalité l’intestin grêle."
+      },
+      {
+        "id": "M",
+        "sourceLabel": "H (2 dans le PDF)",
+        "text": "Le colon est issu de l’intestin moyen et de l’intestin postérieur."
+      },
+      {
+        "id": "I",
+        "text": "L’allantoïde communique avec l’intestin primitif postérieur au niveau du cloaque fermé par la membrane cloacale."
+      },
+      {
+        "id": "J",
+        "text": "Se forme après la gastrulation."
+      },
+      {
+        "id": "K",
+        "text": "Formera l’intestin primitif, subdivisé en 3 parties délimitées arbitrairement en fonction de leur anatomie future."
+      },
+      {
+        "id": "L",
+        "text": "émet la gouttière respiratoire."
+      }
+    ],
+    "proposedExplanations": {
+      "A": "Vrai",
+      "B": "Faux, pas totalement fermé, puisqu’il reste ouvert sur le sac vitellin et Puis Fin S4 il s’ouvre avec perforation de la membrane pharyngienne",
+      "C": "Faux, il se termine avec la première partie du duodénum",
+      "D": "Faux",
+      "E": "Vrai (gouttière respiratoire de l’intestin antérieur)",
+      "F": "Vrai",
+      "H": "FAUX Branche pré-vitelline + branche post-vitelline (en partie) + Intestin primitif antérieur (duodénum)",
+      "G": "Faux + Intestin antérieur avec D1 et D2",
+      "I": "Vrai",
+      "J": "Faux, durant la gastrulation, dès J16 c’est le 1er tissu du DET à se former",
+      "K": "Faux, la délimitation des 3 parties de l’intestin primitif s’est fait en fonction de la vascularisation issue du plexus artériel vitellin.",
+      "L": "Vrai",
+      "M": "Vrai"
+    },
+    "proposedAnswer": "AEFILM",
+    "sourceEvidence": "Premier H : Faux (branche pré-vitelline seule). Second H : Vrai (côlon issu des intestins moyen et postérieur)."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 14,
+    "reason": "Deux propositions C distinctes figurent dans le sujet et le corrigé. La seconde a disparu et son texte a contaminé l’explication de la première ; elle est restituée sous E, prochaine lettre libre.",
+    "sourceFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+    "sourceQuestion": 14,
+    "sourcePage": 5,
+    "originalAnswer": "AC",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 4,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q14, p. 4"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q14, p. 5"
+      }
+    ],
+    "proposedOptions": [
+      {
+        "id": "A",
+        "text": "son origine est mésoblastique."
+      },
+      {
+        "id": "B",
+        "text": "Elle est issue du mésoblaste intermédiaire."
+      },
+      {
+        "id": "C",
+        "text": "Les précurseurs cardiaques qui la constitue sont d’origine splanchnopleurale.",
+        "sourceLabel": "C (1 dans le PDF)"
+      },
+      {
+        "id": "E",
+        "sourceLabel": "C (2 dans le PDF)",
+        "text": "La plicature crâniale permet de faire passer la zone cardiogène en position ventrale."
+      },
+      {
+        "id": "D",
+        "text": "La zone cardiogène est formée en avant de la membrane pharyngienne et se place en arrière de la membrane pharyngienne suite à la plicature caudale."
+      }
+    ],
+    "proposedExplanations": {
+      "A": "Vrai",
+      "B": "Faux mésoblaste latéral",
+      "C": "Vrai",
+      "D": "Faux, plicature Crâniale",
+      "E": "Vrai, sous le TD en formation et derrière la membrane pharyngienne"
+    },
+    "proposedAnswer": "ACE",
+    "sourceEvidence": "A V, B F, premier C V, second C V, D F. Les IDs A/B/C/D existants sont conservés."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "reason": "D est sur la même ligne que C dans le sujet mais constitue une proposition distincte, explicitement corrigée Vrai p. 8.",
+    "sourceFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+    "sourceQuestion": 23,
+    "sourcePage": 8,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 7,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q23, p. 7"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 8,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q23, p. 8"
+      }
+    ],
+    "proposedOptions": [
+      {
+        "id": "A",
+        "text": "il s’agit d’un embryon au cours de la 4ème semaine de développement embryonnaire."
+      },
+      {
+        "id": "B",
+        "text": "il s’agit d’une coupe sagittale."
+      },
+      {
+        "id": "C",
+        "text": "la paroi ventrale est en cours de fermeture."
+      },
+      {
+        "id": "D",
+        "text": "(7) montre le cœlome extra-embryonnaire qui régresse."
+      },
+      {
+        "id": "E",
+        "text": "(4) est le cœlome interne."
+      }
+    ],
+    "proposedExplanations": {
+      "A": "Vrai, on voit les plicatures en cours",
+      "B": "Faux, c’est une Coupe Transversale",
+      "C": "Vrai, la paroi ventrale est en cours de fermeture…. Fin S4, la paroi ventrale apparaitra totalement fermée en CT sauf au milieu de l’embryon, où elle restera ouverte sur le sac vitellin",
+      "D": "Vrai, c’est bien le CEE et il est bien en train de diminuer de taille au profit de la cavité amniotique",
+      "E": "Faux, cavité amniotique qui elle augmente de taille au dépend du cœlome extra-embryonnaire"
+    },
+    "proposedAnswer": "ACD",
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "A V, B F, C V, D V, E F."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 29,
+    "reason": "La légende « Là où se trouvent les IWP », située dans la figure des Q23/24 en haut de la page du sujet, a été ajoutée à tort à la fin de Q29E par extraction de texte.",
+    "sourceFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+    "sourceQuestion": 29,
+    "sourcePage": 10,
+    "originalAnswer": "ABD",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 7,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q29, p. 7"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q29, p. 10"
+      }
+    ],
+    "proposedOptions": [
+      {
+        "id": "A",
+        "text": "A l’intérieur de l’embryon on peut distinguer 5 poches entobranchiales."
+      },
+      {
+        "id": "B",
+        "text": "Ils sont tridermiques, avec une partie entoblastique qui correspond au tube digestif primitif antérieur."
+      },
+      {
+        "id": "C",
+        "text": "A l’extérieur on compte 3 sillons ectobranchiaux."
+      },
+      {
+        "id": "D",
+        "text": "L’arc branchial I formera la mâchoire."
+      },
+      {
+        "id": "E",
+        "text": "Ils sont colonisés par des cellules des crêtes neurales de la région occipitale, cellules qui formeront les muscles et os de la face."
+      }
+    ],
+    "sourceEvidence": "Inspection visuelle du sujet p. 7 : cette phrase est dans le cartouche de la figure, hors de Q29E. Aucun changement de clé."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 6,
+    "reason": "Tous les verdicts sont présents ; la clé avait été laissée vide à cause de la proposition C HP.",
+    "sourceFile": "7. Colle en chambre S4 LS correction.pdf",
+    "sourceQuestion": 6,
+    "sourcePage": 1,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 1,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q6, p. 1"
+      }
+    ],
+    "proposedAnswer": "BE",
+    "sourceAnswerIncludingIgnored": "BCE",
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "A Faux ; B Vrai ; C Vrai HP ; D Faux ; E Vrai. ignoredOptions C est conservé."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 69,
+    "reason": "Les cinq propositions sont explicitement fausses ; ce QCM a une réponse vide déterminée, pas un corrigé manquant.",
+    "sourceFile": "7. Colle en chambre S4 LS correction.pdf",
+    "sourceQuestion": 69,
+    "sourcePage": 13,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 13,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q69, p. 13"
+      }
+    ],
+    "proposedAnswer": "",
+    "proposedRawAnswer": "AUCUNE",
+    "proposedAnswerIsEmpty": true,
+    "proposedAllowNoAnswer": true,
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "Corrigé p. 13 : A Faux somatopleure ; B Faux intra ; C Faux splanchnopleure ; D Faux myotome ; E Faux dermatome."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 72,
+    "reason": "La correction donne tous les verdicts ; la présence de D HP ne justifie pas une clé manquante.",
+    "sourceFile": "7. Colle en chambre S4 LS correction.pdf",
+    "sourceQuestion": 72,
+    "sourcePage": 13,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 13,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q72, p. 13"
+      }
+    ],
+    "proposedAnswer": "B",
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "A Faux, B Vrai, C Faux, D Faux HP, E Faux. ignoredOptions D est conservé."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "reason": "Le sujet a 16 options : F contient deux phrases. Le corrigé a 17 lignes a–q, car ces deux phrases sont séparées en f/g. Les explications après F étaient décalées ; elles sont réappariées par leur texte, en gardant A–P et tous les énoncés.",
+    "sourceFile": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+    "sourceQuestion": 2,
+    "sourcePage": 2,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "page": 1,
+        "label": "4. Autotest Coeur et Vx LS ENONCE.pdf — Q2, p. 1"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS ENONCE.pdf — Q2, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2"
+      }
+    ],
+    "proposedAnswer": "ACDJMNO",
+    "proposedExplanations": {
+      "A": "Vrai",
+      "B": "Faux, 1 circulation intra-embryonnaire et 2 circulations extra-embryonnaires (Chorio-villositaire et vitelline). La somme des trois = circulation embryonnaire",
+      "C": "Vrai",
+      "D": "Vrai",
+      "E": "Faux, hématie embryonnaire nucléé avec hémoglobine (2α + 2γ) alors qu’hématies maternelles anucléés avec hémoglobine (2α + 2β)",
+      "F": "Faux, liaison entre aortes dorsales et aortes ventrales. Faux également pour la seconde phrase : le canal de Cuvier = veine cardinale commune est la fusion de la veine cardinale antérieure et de la veine cardinale postérieure.",
+      "G": "Faux, sang mêlé.",
+      "H": "Faux, du sang mêlé suffit à son développement et un sang trop riche en O2 peut entraîner des anomalies.",
+      "I": "Faux, jamais dans la lame amniotique, par contre, dans les autres lames (choriales et vitelline)",
+      "J": "Vrai, formant la circulation extra-embryonnaire.",
+      "K": "Faux, elles sont toutes d’origine extra-embryonnaire jusqu’à la 6ème semaine. IWP de la lame vitelline",
+      "L": "Faux, ce sont les artères puis les veines.",
+      "M": "Vrai – Veines cardinales antérieures",
+      "N": "Vrai – Veines cardinales postérieures",
+      "O": "Vrai",
+      "P": "Faux, ils sont bien intraembryonnaires, dans la ZC J19… mais ils ne forment aucune cellule sanguine, ce sont des îlots angioformateurs. Les îlots intraembryonnaires ne sont qu’angioformateurs et jamais sanguino-formateurs."
+    },
+    "removeUncorrectedStatus": true,
+    "sourceMapping": {
+      "A": "a",
+      "B": "b",
+      "C": "c",
+      "D": "d",
+      "E": "e",
+      "F": [
+        "f",
+        "g"
+      ],
+      "G": "h",
+      "H": "i",
+      "I": "j",
+      "J": "k",
+      "K": "l",
+      "L": "m",
+      "M": "n",
+      "N": "o",
+      "O": "p",
+      "P": "q"
+    },
+    "sourceEvidence": "Les deux phrases de F sont fausses dans la source. Les vrais dans les IDs conservés sont A,C,D,J,M,N,O. Les désaccords scientifiques avec les explications réappariées font l’objet de notes séparées."
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 4,
+    "reason": "Les cinq verdicts figurent dans le corrigé ; B est HP, et A est la seule réponse vraie.",
+    "sourceFile": "2- Annales Coeur et Vx LS correction.pdf",
+    "sourceQuestion": 4,
+    "sourcePage": 1,
+    "originalAnswer": "",
+    "refs": [
+      {
+        "file": "2- Annales Coeur et Vx LS correction.pdf",
+        "page": 1,
+        "label": "2- Annales Coeur et Vx LS correction.pdf — Q4, p. 1"
+      }
+    ],
+    "proposedAnswer": "A",
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "A Vrai ; B Faux HP ; C Faux ; D Faux ; E Faux. ignoredOptions B est conservé."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 30,
+    "reason": "Le sujet annonce une figure commune aux questions 29 et 30, mais elle n’était rattachée qu’à la première.",
+    "sourceFile": "7. Colle en chambre S4 LS correction.pdf",
+    "sourceQuestion": 30,
+    "sourcePage": 6,
+    "originalAnswer": "CD",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "page": 5,
+        "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q29, p. 5"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 6,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q30, p. 6"
+      }
+    ],
+    "proposedImages": [
+      "static/emb_col_s4_029_1.png"
+    ],
+    "sourceEvidence": "L’annonce de figure commune a été vérifiée dans le PDF ; utilisation de l’image existante sans redessin ni substitution."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "reason": "Le sujet annonce une figure commune aux questions 35 et 36, mais elle n’était rattachée qu’à la première.",
+    "sourceFile": "7. Colle en chambre S4 LS correction.pdf",
+    "sourceQuestion": 36,
+    "sourcePage": 7,
+    "originalAnswer": "ACD",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "page": 6,
+        "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q35, p. 6"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q36, p. 7"
+      }
+    ],
+    "proposedImages": [
+      "static/emb_col_s4_035_1.png"
+    ],
+    "sourceEvidence": "L’annonce de figure commune a été vérifiée dans le PDF ; utilisation de l’image existante sans redessin ni substitution."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 45,
+    "reason": "Le sujet annonce une figure commune aux questions 44 et 45, mais elle n’était rattachée qu’à la première.",
+    "sourceFile": "7. Colle en chambre S4 LS correction.pdf",
+    "sourceQuestion": 45,
+    "sourcePage": 8,
+    "originalAnswer": "ABDE",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q44, p. 7"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 8,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q45, p. 8"
+      }
+    ],
+    "proposedImages": [
+      "static/emb_col_s4_044_1.png"
+    ],
+    "sourceEvidence": "L’annonce de figure commune a été vérifiée dans le PDF ; utilisation de l’image existante sans redessin ni substitution."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "reason": "Le sujet annonce une figure commune aux questions 5 et 6, mais elle n’était rattachée qu’à la première.",
+    "sourceFile": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+    "sourceQuestion": 6,
+    "sourcePage": 3,
+    "originalAnswer": "ABD",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS ENONCE.pdf — Q5, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q6, p. 3"
+      }
+    ],
+    "proposedImages": [
+      "static/emb_aut_coeur_005_1.png"
+    ],
+    "sourceEvidence": "L’annonce de figure commune a été vérifiée dans le PDF ; utilisation de l’image existante sans redessin ni substitution."
+  }
+]

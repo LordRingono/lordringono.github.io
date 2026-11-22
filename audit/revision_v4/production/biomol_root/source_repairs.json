@@ -1,0 +1,340 @@
+{
+  "patches": [
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 25,
+      "set": {
+        "answer": "ABCDE",
+        "correctionPage": 5,
+        "warning": "",
+        "uncorrected": false
+      },
+      "reason": "Clé Wooclap imprimée seule dans un encadré, perdue lors de l’importation.",
+      "refs": [
+        {
+          "file": "4. Autotests Traduction CORRECTION.pdf",
+          "page": 5,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 26,
+      "set": {
+        "answer": "ADE",
+        "correctionPage": 6,
+        "warning": "",
+        "uncorrected": false
+      },
+      "reason": "Clé Wooclap imprimée seule dans un encadré, perdue lors de l’importation.",
+      "refs": [
+        {
+          "file": "4. Autotests Traduction CORRECTION.pdf",
+          "page": 6,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 27,
+      "set": {
+        "answer": "ADE",
+        "correctionPage": 6,
+        "warning": "",
+        "uncorrected": false
+      },
+      "reason": "Clé Wooclap imprimée seule dans un encadré, perdue lors de l’importation.",
+      "refs": [
+        {
+          "file": "4. Autotests Traduction CORRECTION.pdf",
+          "page": 6,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 28,
+      "set": {
+        "answer": "DE",
+        "correctionPage": 6,
+        "warning": "",
+        "uncorrected": false
+      },
+      "reason": "Clé Wooclap imprimée seule dans un encadré, perdue lors de l’importation.",
+      "refs": [
+        {
+          "file": "4. Autotests Traduction CORRECTION.pdf",
+          "page": 6,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 29,
+      "set": {
+        "answer": "AE",
+        "correctionPage": 6,
+        "warning": "",
+        "uncorrected": false
+      },
+      "reason": "Clé Wooclap imprimée seule dans un encadré, perdue lors de l’importation.",
+      "refs": [
+        {
+          "file": "4. Autotests Traduction CORRECTION.pdf",
+          "page": 6,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 24,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "En cas de présence accru de Fer, il est nécessaire de synthétiser de la ferritine pour l’absorber."
+          },
+          {
+            "id": "B",
+            "text": "le facteur eiF2 est phosphorylé quand il est actif."
+          },
+          {
+            "id": "C",
+            "text": "Chez les eucaryotes, l’opéron lactose permet la traduction de plusieurs protéines liées au métabolisme du lactose."
+          },
+          {
+            "id": "D",
+            "text": "La tétracycline se fixe sur les sites A des ribosomes des eucaryotes et bloque la traduction."
+          },
+          {
+            "id": "E",
+            "text": "La ricine se fixe dur la sous unité 60s du ribosome eucaryote qui s’inactive."
+          }
+        ]
+      },
+      "reason": "Le titre Wooclap appartient à la série suivante, pas à l’item E.",
+      "refs": [
+        {
+          "file": "4. Autotests Traduction ENONCE.pdf",
+          "page": 4,
+          "label": "Sujet fourni"
+        },
+        {
+          "file": "4. Autotests Traduction CORRECTION.pdf",
+          "page": 5,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.annales",
+      "id": 18,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Tous les amino-acyl ARNt (sauf l’ARNt initiateur) rentrent dans le ribosome au niveau du site P."
+          },
+          {
+            "id": "B",
+            "text": "Les tétracyclines sont des antibiotiques qui inhibent la traduction chez les procaryotes."
+          },
+          {
+            "id": "C",
+            "text": "Un codon AUG code systématiquement pour une méthionine chez les eucaryotes."
+          },
+          {
+            "id": "D",
+            "text": "Une erreur de type insertion d’un nucléotide induit un décalage du cadre de lecture lors de la traduction si elle est située dans un cistron."
+          },
+          {
+            "id": "E",
+            "text": "Un codon sens dans le code génétique universel peut représenter un codon non-sens dans le code génétique mitochondrial."
+          }
+        ],
+        "sourceEndPage": 4,
+        "explanations": {
+          "A": "Faux, site A"
+        },
+        "warning": ""
+      },
+      "reason": "Un QCM PACE 2020–2021 complet avait été absorbé dans E et ses explications avaient remplacé celles du QCM précédent. La clé BCDE du QCM précédent est conservée.",
+      "refs": [
+        {
+          "file": "2. Annales Traduction LS ENONCE.pdf",
+          "page": 4,
+          "label": "Sujet fourni"
+        },
+        {
+          "file": "2. Annales Traduction LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.traduction.annales",
+      "id": 23,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Un complexe aminoacyl-ARNt se fixe sur le site A du ribosome."
+          },
+          {
+            "id": "B",
+            "text": "Après la formation de la liaison peptidique, il y a translocation du ribosome puis l’ARNt libre se déplace vers le site E du ribosome."
+          },
+          {
+            "id": "C",
+            "text": "Après libération de l’ARNt, il sera recyclé et un nouvel acide aminé sera fixé sur ce dernier."
+          },
+          {
+            "id": "D",
+            "text": "L’activité peptidyltransférase est catalysée par une protéine de la grande sous-unité du ribosome."
+          },
+          {
+            "id": "E",
+            "text": "Le ribosome se déplace le long de l’ARNm de 5’vers 3’."
+          }
+        ],
+        "explanations": {
+          "D": "Faux par un ARNr D. Faux par un ARNr"
+        }
+      },
+      "reason": "Retrait du titre de la session suivante, accolé à E et à une justification.",
+      "refs": [
+        {
+          "file": "2. Annales Traduction LS ENONCE.pdf",
+          "page": 5,
+          "label": "Sujet fourni"
+        },
+        {
+          "file": "2. Annales Traduction LS CORRECTION.pdf",
+          "page": 8,
+          "label": "Corrigé fourni"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.regulation.annales",
+      "id": 1,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "L’AMP cyclique induit la répression de la transcription de l’opéron."
+          },
+          {
+            "id": "B",
+            "text": "Le lactose induit l’activation de l’opéron."
+          },
+          {
+            "id": "C",
+            "text": "L’AMP cyclique interagit avec le répresseur LacI."
+          },
+          {
+            "id": "D",
+            "text": "Le lactose induit l’inactivation du répresseur LacI."
+          },
+          {
+            "id": "E",
+            "text": "Le glucose inactive directement l’ARN polymérase."
+          }
+        ],
+        "explanations": {
+          "A": "Faux, l’AMPc induit l’activation de la transcription de l’opéron. A. Faux, l’AMPc induit l’activation de la transcription de l’opéron.",
+          "C": "Faux, le lactose interagit (inactive) avec le répresseur LacI. C. Faux, le lactose interagit (inactive) avec le répresseur LacI.",
+          "E": "Faux, le glucose provoque une baisse du taux d’AMPc. E. Faux, le glucose provoque une baisse du taux d’AMPc."
+        }
+      },
+      "reason": "Retrait d’un intertitre de session accolé à l’item et à son explication. Aucun ajout d’ancien QCM.",
+      "refs": [
+        {
+          "file": "2. Annales Régulation LS ENONCE.pdf",
+          "page": 1,
+          "label": "Sujet fourni"
+        },
+        {
+          "file": "2. Annales Régulation LS CORRECTION.pdf",
+          "page": 1,
+          "label": "Corrigé fourni"
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "bank": "ue2.traduction.annales",
+      "afterId": 18,
+      "question": {
+        "sourceNumber": "sans numéro",
+        "num": 0,
+        "prime": "",
+        "question": "Concernant la traduction et le code génétique chez les eucaryotes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "La synthèse protéique s’effectue par la création de liaisons peptidiques successives entre une fonction carboxylique du dernier acide aminé et une fonction aminée de l’acide aminé suivant."
+          },
+          {
+            "id": "B",
+            "text": "Un codon sens est un triplet nucléotidique de l’ARNt qui code pour un acide aminé."
+          },
+          {
+            "id": "C",
+            "text": "La phase d’initiation de ce processus nécessite la présence d’un ARNt activé et de GTP."
+          },
+          {
+            "id": "D",
+            "text": "La séquence Kozak permet le recrutement et la liaison de la petite sous unité du ribosome à proximité du codon start AUG."
+          },
+          {
+            "id": "E",
+            "text": "L’ARNm mature ne peut pas être traduit par plusieurs complexes ribosomiques en même temps."
+          }
+        ],
+        "subjectPage": 4,
+        "sourceEndPage": 4,
+        "category": "2020-2021 PACE",
+        "startY": null,
+        "startPage": 4,
+        "figureRefs": [],
+        "context": "",
+        "explanations": {
+          "B": "Faux sur l’ARNm",
+          "D": "Faux c’est la coiffe qui recrute la petite sous-unité",
+          "E": "Faux, on a bien des polyribosomes chez les eucaryotes"
+        },
+        "warning": "",
+        "answer": "AC",
+        "correctionPage": 6,
+        "id": 30,
+        "sourceSubject": "2. Annales Traduction LS ENONCE.pdf",
+        "sourceCorrection": "2. Annales Traduction LS CORRECTION.pdf",
+        "course": "UE2 · Traduction",
+        "weight": 1,
+        "images": [],
+        "originalImages": []
+      },
+      "reason": "QCM PACE 2020–2021 intégral retrouvé dans les deux PDF, auparavant absorbé dans l’item E du QCM précédent. Nouvel identifiant 30, aucun ancien identifiant modifié.",
+      "refs": [
+        {
+          "file": "2. Annales Traduction LS ENONCE.pdf",
+          "page": 4,
+          "label": "Sujet fourni"
+        },
+        {
+          "file": "2. Annales Traduction LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Corrigé fourni"
+        }
+      ]
+    }
+  ]
+}

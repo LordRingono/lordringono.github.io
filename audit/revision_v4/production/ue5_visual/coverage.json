@@ -1,0 +1,100 @@
+[
+  {
+    "bank": "histo.ann.tech",
+    "id": 38,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "status": "reviewed_with_course",
+    "sourceSubject": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+    "subjectPage": 9,
+    "sourceCorrection": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+    "correctionPage": 11,
+    "coursesConsulted": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 23,
+        "label": "Immunohistologie"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 25,
+        "label": "Révélation enzymatique"
+      },
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 29,
+        "label": "FISH et autoradiographie"
+      }
+    ],
+    "reviewScope": "Cinq propositions et leurs explications relues ; recoupement de la ronéo et contrôle indépendant par l’agent UE5. Une réserve de formulation n’entraîne pas de changement de clé."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 39,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "status": "reviewed_with_course",
+    "sourceSubject": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+    "subjectPage": 9,
+    "sourceCorrection": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+    "correctionPage": 11,
+    "coursesConsulted": [
+      {
+        "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+        "page": 12,
+        "label": "Fixateurs et préparation standard"
+      }
+    ],
+    "reviewScope": "Cinq propositions et leurs explications relues ; recoupement de la ronéo et contrôle indépendant par l’agent UE5. Une réserve de formulation n’entraîne pas de changement de clé."
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 12,
+    "itemCount": 5,
+    "itemsReviewed": [
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "status": "reviewed_without_course",
+    "reviewed": true,
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 3,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 4,
+    "courseConsulted": [
+      "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf, p13–14, pour le contexte de transport nucléaire"
+    ],
+    "limitation": "Le pourcentage du commentaire G manque dans la source ; aucun nombre inventé. Le passage consulté du cours ne vérifie pas chaque item du QCM.",
+    "reviewScope": "Les cinq items et la correction ont été relus dans la source ; seul le transport nucléaire a été recoupé dans la ronéo, sans vérification de tous les items par le cours.",
+    "coursesConsulted": [
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 16,
+        "label": "Gradient Ran"
+      },
+      {
+        "file": "Ronéo CM7 Le noyau 2026 CG - Corrigées.pdf",
+        "page": 17,
+        "label": "Import nucléaire"
+      },
+      {
+        "file": "roneo CM9 le cycle cellulaire 2026 - Actualisee.pdf",
+        "page": 11,
+        "label": "Fonction des condensines"
+      }
+    ]
+  }
+]

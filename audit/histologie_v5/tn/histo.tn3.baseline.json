@@ -1,0 +1,370 @@
+{
+  "ue": "ue5h",
+  "courseId": "tn",
+  "kind": "autotest",
+  "seriesLabel": "Autotest TN3",
+  "label": "Autotest TN3",
+  "short": "HISTO",
+  "title": "Tissu nerveux (TN)<br>Autotest TN3",
+  "subtitle": "Autotest TN3 · Tissu nerveux (TN). Questions et corrections issues des documents fournis, avec schémas du sujet lorsqu’ils sont présents.",
+  "description": "UE5 · Histologie · Autotest TN3 · PASS Lyon-Sud",
+  "storage": "pass_ssh_site_ue5_histo_tn3_v1",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur la névroglie, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les cellules de Schwann ont une origine mésenchymateuse"
+        },
+        {
+          "id": "B",
+          "text": "Les cellules satellites sont des cellules du SNC"
+        },
+        {
+          "id": "C",
+          "text": "La névroglie est forcément dans le SNC"
+        },
+        {
+          "id": "D",
+          "text": "La myélinisation du SN périphérique est assurée par les oligodendrocytes"
+        },
+        {
+          "id": "E",
+          "text": "La méthode de Golgi permet de marquer le cytosquelette des cellules gliales"
+        }
+      ],
+      "answer": "E",
+      "explanations": {
+        "A": "neurectodermique, que la microglie est mésenchymateuse.",
+        "B": "SNP",
+        "C": "il existe des cellules de la névroglie dans le SNP c/ satellites et c/ de Schwann",
+        "D": "c/ de Schwann",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 2,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur les épendymocytes présents au niveau de l’épendyme, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ils tapissent les ventricules cardiaques"
+        },
+        {
+          "id": "B",
+          "text": "Le canal épendymaire est limité par une couche d’épendymocytes"
+        },
+        {
+          "id": "C",
+          "text": "Les épendymocytes de l’épendyme présentent au pôle apical des cils mettant en mouvement le LCR"
+        },
+        {
+          "id": "D",
+          "text": "Les épendymocytes, bien que faisant fonction de barrière entre le LCR et le tissu nerveux ne présentent aucune caractéristique des cellules épithéliales"
+        },
+        {
+          "id": "E",
+          "text": "Les épendymocytes de l’épendyme présentent des jonctions serrées"
+        }
+      ],
+      "answer": "BC",
+      "explanations": {
+        "A": "les ventricules cérébraux",
+        "B": "",
+        "C": "et quelques microvillosités",
+        "D": "elles ont des zonula adherens et des jonctions Gap",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 3,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur les épendymocytes présents au niveau des plexus choroïdes, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les épendymocytes des plexus choroïdes présentent sur le pôle apical des cils"
+        },
+        {
+          "id": "B",
+          "text": "Les replis des plexus choroïdiens sont en contact avec des capillaires sanguins non fenestrés"
+        },
+        {
+          "id": "C",
+          "text": "Le LCR est sécrété à partir du sang présent au niveau des villosités choroïdiennes"
+        },
+        {
+          "id": "D",
+          "text": "Ils présentent de la GFAP"
+        },
+        {
+          "id": "E",
+          "text": "Ils présentent des jonctions serrées"
+        }
+      ],
+      "answer": "CE",
+      "explanations": {
+        "A": "des villosités",
+        "B": "fenestrés",
+        "C": "",
+        "D": "seulement les astrocytes",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 4,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur les astrocytes, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les astrocytes sont des cellules isolées dans le parenchyme nerveux, elles ne présentent pas de jonction intercellulaire"
+        },
+        {
+          "id": "B",
+          "text": "On peut repérer des syncytiums astrocytaires grâce à des anticorps anti-connexine 43 marqués en fluorescence"
+        },
+        {
+          "id": "C",
+          "text": "L’ATP est considéré comme un gliotransmetteur"
+        },
+        {
+          "id": "D",
+          "text": "Les astrocytes fibrillaires sont dans la substance blanche"
+        },
+        {
+          "id": "E",
+          "text": "Les astrocytes protoplasmiques constituent 50% du neuropile"
+        }
+      ],
+      "answer": "BCD",
+      "explanations": {
+        "A": "jonctions adhérentes et jonctions GAP syncitium",
+        "B": ", dans les jonctions GAP",
+        "C": "",
+        "D": "",
+        "E": "25% attention neuropile uniquement SG"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 5,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur les astrocytes, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les astrocytes de type 1présentent des pieds engagés dans la barrière hémato-tissulaire"
+        },
+        {
+          "id": "B",
+          "text": "Les astrocytes de type 2 présentent des récepteurs GLUT1 et GLUT 4"
+        },
+        {
+          "id": "C",
+          "text": "Les astrocytes de type 1 contrôlent la concentration ionique du milieu extracellulaire"
+        },
+        {
+          "id": "D",
+          "text": "Les astrocytes type 2 régulent la transmission synaptique"
+        },
+        {
+          "id": "E",
+          "text": "Lors d’une gliose réactionnelle on a une inflammation qui se traduit par une prolifération de toutes les cellules gliales"
+        }
+      ],
+      "answer": "ABD",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "astrocyte type 2",
+        "D": "",
+        "E": "astrocytes seulement"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 6,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie, vous pouvez dire a propos du document 4 suivant :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Qu’il s’agit d’une gaine de myéline"
+        },
+        {
+          "id": "B",
+          "text": "Qu’il s’agit d’une gaine de myéline dans le système nerveux central"
+        },
+        {
+          "id": "C",
+          "text": "Qu’il s’agit précisément d’une gaine de Schwann"
+        },
+        {
+          "id": "D",
+          "text": "Qu’il peut s’agir soit d’un oligodendrocyte soit d’une cellule de Schwann"
+        },
+        {
+          "id": "E",
+          "text": "Les cellules de Schwann ménagent entre elles des nœuds de Ranvier"
+        }
+      ],
+      "answer": "ACE",
+      "explanations": {
+        "A": "",
+        "B": "on voit le noyau donc il s’agit du corps cellulaire de la cellule de Shwann",
+        "C": "car on voit le noyau de la cellule, elle s’enroule donc entièrement autour d’un segment d’axone internode",
+        "D": "",
+        "E": ""
+      },
+      "warning": "",
+      "images": [
+        "static/docx_424af63608b1.png"
+      ],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 7,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie, vous pouvez dire à propos du document suivant :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les membranes plasmiques fusionnent formant ainsi une gaine isolante pour les ions"
+        },
+        {
+          "id": "B",
+          "text": "En A, on distingue un reliquat du noyau de la cellule"
+        },
+        {
+          "id": "C",
+          "text": "L’ultrastructure de la gaine de myéline montre une succession de lignes claires et de lignes sombres"
+        },
+        {
+          "id": "D",
+          "text": "La ligne sombre en B correspond à la ligne dense majeure qui correspond à la fusion des feuillets externes de la membrane plasmique"
+        },
+        {
+          "id": "E",
+          "text": "La ligne sombre en C correspond à la ligne dense mineure qui correspond au reliquat cytosolique"
+        }
+      ],
+      "answer": "AC",
+      "explanations": {
+        "A": "",
+        "B": "reliquat du cytoplasme avec une mitochondrie",
+        "C": "",
+        "D": "internes",
+        "E": "fusion des feuillets externes"
+      },
+      "warning": "",
+      "images": [
+        "static/v4_histo_tn3_q7_labels.png"
+      ],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 8,
+      "category": "Autotest TN3",
+      "course": "Tissu nerveux (TN)",
+      "question": "Parmi ces propositions se rapportant aux tissus nerveux, quelle(s) est (sont) celle(s) qui est (sont) correcte(s) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les astrocytes contrôlent les synapses, notamment celles au glutamate, ils réabsorbent le glutamate de la fente synaptique pour le transformer en glutamine"
+        },
+        {
+          "id": "B",
+          "text": "Les astrocytes stockent le glucose sous forme de glycogène et délivrent aux neurones du lactate"
+        },
+        {
+          "id": "C",
+          "text": "La substance grise contient davantage de myéline que la substance blanche"
+        },
+        {
+          "id": "D",
+          "text": "La présence de gaine de myéline autour des axones n’influence pas la vitesse de propagation de l’influx nerveux"
+        },
+        {
+          "id": "E",
+          "text": "Un oligodendrocyte peut myéliniser plusieurs axones dans le système nerveux périphérique"
+        }
+      ],
+      "answer": "AB",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ", l’accélère par conduction saltatoire entre les nœuds de Ranvier",
+        "E": "dans le SNC"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN3.docx",
+      "sourceCorrection": "CORRECTION AUTOTEST TN3.docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    }
+  ]
+}

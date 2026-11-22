@@ -1,0 +1,74 @@
+[
+  {
+    "bank": "embryo.col.s3",
+    "key": "embryo.col.s3.schema.25_26",
+    "questionIds": [
+      25,
+      26
+    ],
+    "text": "Les questions source 25 et 26 se rapportent au même schéma.",
+    "images": [
+      "static/emb_verified_col_s3_schem_25.png"
+    ],
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 5,
+        "label": "Consigne commune aux questions 25 et 26"
+      },
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 5,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q25, p. 5"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s3",
+    "key": "embryo.col.s3.schema.31_32",
+    "questionIds": [
+      31,
+      32
+    ],
+    "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+    "images": [
+      "static/emb_verified_col_s3_schem_31.png"
+    ],
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 6,
+        "label": "Consigne commune aux questions 31 et 32"
+      },
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q31, p. 7"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s3",
+    "key": "embryo.col.s3.schema.41_42",
+    "questionIds": [
+      41,
+      42
+    ],
+    "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+    "images": [
+      "static/emb_verified_col_s3_schem_41.png"
+    ],
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 8,
+        "label": "Consigne commune aux questions 41 et 42"
+      },
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 9,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q41, p. 9"
+      }
+    ]
+  }
+]

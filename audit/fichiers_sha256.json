@@ -2,24 +2,28 @@
   "scope": "Fichiers du site, sauf le présent manifeste",
   "files": {
     "CONTROLE_ANNALES.md": {
-      "bytes": 21887,
-      "sha256": "ed273c874fac5332b718b3ef37e9126e89e50918c159669385731d07de85d8eb"
+      "bytes": 12391,
+      "sha256": "74176bb5d0cef7e0dad797a4c4eacf855f615180ce21cdb1c461ea19a84b6f93"
     },
     "LIRE_DABORD.md": {
-      "bytes": 2516,
-      "sha256": "0132adab18b8c5ae9acb945cbf9de29ec91877acf504baa8675084ede520a3d9"
+      "bytes": 2409,
+      "sha256": "f2c19c26337da5b3dfad484f78a95d430c64ce5dcd9a7bc9210ec3a3e036da9b"
     },
     "MAINTENANCE.md": {
-      "bytes": 6418,
-      "sha256": "dad980dad42ca2bcf2d341ca0fd57896146efcfcc28a462645586314cc6ef699"
+      "bytes": 6223,
+      "sha256": "893db3558a257db87e73cddc6a9cc4b944038511e581c6f054b9cb374bc7dfd3"
+    },
+    "POINTS_A_VERIFIER.md": {
+      "bytes": 448224,
+      "sha256": "b1cec8581d7edb2474d9009f87cd5e5603994167e7b6090a846e85ad9a3e5e22"
     },
     "Points_a_verifier_UE2.md": {
       "bytes": 7966,
       "sha256": "afddb79f5e1b534fce456065161508482521ebf8523a2df80fe89a322c8ead8b"
     },
     "README.md": {
-      "bytes": 988,
-      "sha256": "f0b0962934d6a7a274300580bc2fb57fc22c3f74b48594abc8f154d7b76b365c"
+      "bytes": 2151,
+      "sha256": "4090a1bb5fe37d5f62c5bf55442e85d27e151f53c13b512073345456273e35b2"
     },
     "audit/BIOMOL_ED_answer_key_repairs.json": {
       "bytes": 3040,
@@ -48,6 +52,22 @@
     "audit/BIOMOL_ED_validation.json": {
       "bytes": 6244,
       "sha256": "adfac70c848a0e48adec462481c73ecd05e0af9df9f0fc30af4156543f7db9d3"
+    },
+    "audit/PHARMACO_classement_336_QCM.csv": {
+      "bytes": 147159,
+      "sha256": "746384c418495d95b07fe9ed4e3507446bfdb5cd95b260b973225e0c6a8fe069"
+    },
+    "audit/PHARMACO_relecture_1680_items.csv": {
+      "bytes": 1244514,
+      "sha256": "049d83b9c3ceeea460b5692afc4c30b31aca9b6db1347cf7a01c92f13f6cf2f1"
+    },
+    "audit/PHARMACO_reserves.json": {
+      "bytes": 83861,
+      "sha256": "60815f5064837b232028c2d719c47a0286038e32e9d0bc1008551bb5cad4e83e"
+    },
+    "audit/PHARMACO_validation_donnees.json": {
+      "bytes": 3164,
+      "sha256": "f3244320cae983dcb4e4429678cff9b864af433d5adf747c0f5d2b3ca200e735"
     },
     "audit/UE2_context_revision.json": {
       "bytes": 81152,
@@ -157,21 +177,493 @@
       "bytes": 19011,
       "sha256": "8423dcd4272eca2050bd244ffa9c5672a56c4ad5357d34bde4c242ce676a3fa3"
     },
+    "audit/historique_2026-11-21/CONTROLE_ANNALES.md": {
+      "bytes": 21887,
+      "sha256": "ed273c874fac5332b718b3ef37e9126e89e50918c159669385731d07de85d8eb"
+    },
+    "audit/historique_2026-11-21/LIRE_DABORD.md": {
+      "bytes": 2516,
+      "sha256": "0132adab18b8c5ae9acb945cbf9de29ec91877acf504baa8675084ede520a3d9"
+    },
+    "audit/historique_2026-11-21/MAINTENANCE.md": {
+      "bytes": 6418,
+      "sha256": "dad980dad42ca2bcf2d341ca0fd57896146efcfcc28a462645586314cc6ef699"
+    },
+    "audit/historique_2026-11-21/fichiers_sha256.json": {
+      "bytes": 489419,
+      "sha256": "4c4cc348e19fbf76fa094a05d29332506a0f19f552ed27089e251ad54b9a8bd6"
+    },
+    "audit/historique_2026-11-21/inventaire_838_qcm.csv": {
+      "bytes": 199677,
+      "sha256": "f605bfe0cbf2643f52ef9cce316b7efef1711c4c5cff2954dd337b657caa93a0"
+    },
+    "audit/historique_v3_2026-11-22/CONTROLE_ANNALES.md": {
+      "bytes": 65798,
+      "sha256": "033cedd6eefbb318d327d6ad21d166b7585784579deccf23036624ce60226da3"
+    },
+    "audit/historique_v3_2026-11-22/MAINTENANCE.md": {
+      "bytes": 7052,
+      "sha256": "1d9811027e2bbbe40accd52f7fa85c1c58b480e61f629f2035f2a650ae30121e"
+    },
+    "audit/historique_v3_2026-11-22/README.md": {
+      "bytes": 2409,
+      "sha256": "f2c19c26337da5b3dfad484f78a95d430c64ce5dcd9a7bc9210ec3a3e036da9b"
+    },
     "audit/images_anciennes_recuperees.json": {
       "bytes": 19331,
       "sha256": "22bb5bc0deb71c0b885d899e6fd84eae2b644a5092f3ee3d23156a33fea45eba"
     },
     "audit/inventaire_838_qcm.csv": {
-      "bytes": 199677,
-      "sha256": "f605bfe0cbf2643f52ef9cce316b7efef1711c4c5cff2954dd337b657caa93a0"
+      "bytes": 190947,
+      "sha256": "90eeceaacb2849345f869725bf139607681ceeb71f82c5cce4bd7f9a46b955ae"
     },
     "audit/inventaire_sujets.json": {
       "bytes": 9556,
       "sha256": "a4308d0fca180a5d561bb02866e54a4a22f050bce5b0546f3c948b1eabb3d7b2"
     },
+    "audit/pharmaco_2026-11-22/CONTRACT.md": {
+      "bytes": 3352,
+      "sha256": "965fbc64f24cb7fa73f77de86e9337586b9d039b310be181104327a4ac45758a"
+    },
+    "audit/pharmaco_2026-11-22/audit_pharma.py": {
+      "bytes": 11707,
+      "sha256": "867b8821f5a2affdb017567cf1092c449949be4fc8e9b11b97b858e64286b886"
+    },
+    "audit/pharmaco_2026-11-22/baseline_exams.json": {
+      "bytes": 6428922,
+      "sha256": "53ea2da0f1b66a838e1442f0e4ae007d26a56d4d58aa60995d57ee2577d35a44"
+    },
+    "audit/pharmaco_2026-11-22/baseline_files.json": {
+      "bytes": 489419,
+      "sha256": "4c4cc348e19fbf76fa094a05d29332506a0f19f552ed27089e251ad54b9a8bd6"
+    },
+    "audit/pharmaco_2026-11-22/baseline_index.html": {
+      "bytes": 4642968,
+      "sha256": "6bc1cc7368fa1623a7aac991819a1bd74d559a9cca4286691e716bf2ebd1506b"
+    },
+    "audit/pharmaco_2026-11-22/baseline_inventory.csv": {
+      "bytes": 199677,
+      "sha256": "f605bfe0cbf2643f52ef9cce316b7efef1711c4c5cff2954dd337b657caa93a0"
+    },
+    "audit/pharmaco_2026-11-22/build_manifest.json": {
+      "bytes": 16622,
+      "sha256": "0494a216500b46089d947a7ab87ba2cc9daf85136f57d450f30e9e24530d21c3"
+    },
+    "audit/pharmaco_2026-11-22/build_pharma.py": {
+      "bytes": 13855,
+      "sha256": "1f65124db79874ccd43941755ca984801e9fd244ca88b3fb5102bfa351fcb777"
+    },
+    "audit/pharmaco_2026-11-22/data_audit.json": {
+      "bytes": 3164,
+      "sha256": "f3244320cae983dcb4e4429678cff9b864af433d5adf747c0f5d2b3ca200e735"
+    },
+    "audit/pharmaco_2026-11-22/logic_checks.json": {
+      "bytes": 690,
+      "sha256": "5d31552501d5df8ad5425b255a2d5e54e4a96902f7882d3678db759b474540d8"
+    },
+    "audit/pharmaco_2026-11-22/middle/audit.json": {
+      "bytes": 56000,
+      "sha256": "af9726afdd208c3418111cd1121d9ffbba2064bdf8d09059d96b5d50618a873e"
+    },
+    "audit/pharmaco_2026-11-22/middle/review.md": {
+      "bytes": 32725,
+      "sha256": "944ed2f63e8a6674d900cab6eea5c0e6eae744939e2572208f80f9cfda1d7ed9"
+    },
+    "audit/pharmaco_2026-11-22/middle/reviews.json": {
+      "bytes": 195110,
+      "sha256": "ffd0fe358ce607e37ac690d148f0dc0f01ab42a370ca3f58fe8a3fcf5eb7d61b"
+    },
+    "audit/pharmaco_2026-11-22/older/assets_manifest.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "audit/pharmaco_2026-11-22/older/independent_q5_check.md": {
+      "bytes": 3182,
+      "sha256": "caef9f1215d3d8a787ead4ec56c5a0915cf308f16316b04f544f3e338c152509"
+    },
+    "audit/pharmaco_2026-11-22/older/review.md": {
+      "bytes": 41780,
+      "sha256": "04d049d6debb4cd3a10a5eed0dc9079870e28f688e9a8fae634e20c995465c34"
+    },
+    "audit/pharmaco_2026-11-22/older/reviews.json": {
+      "bytes": 439583,
+      "sha256": "0964106737467285936d766a9fdfe06e3939a692141a794fbd9555f85a519d29"
+    },
+    "audit/pharmaco_2026-11-22/older/text_verification.json": {
+      "bytes": 2226,
+      "sha256": "26f07f1e427916b618e3bcb4faef6e67f130869dcd923ea4d2fe714c98ade7f8"
+    },
+    "audit/pharmaco_2026-11-22/older/validation.json": {
+      "bytes": 1291,
+      "sha256": "6a26fc9006e2bfc85614bdcae90a079d48f216397e5343599285e103604cf952"
+    },
+    "audit/pharmaco_2026-11-22/patch_decisions.json": {
+      "bytes": 5750,
+      "sha256": "0d28fdc58bde044d74377b485aed267771218b4a3877bf8d1b1af3041d4d6185"
+    },
+    "audit/pharmaco_2026-11-22/pharma_runtime.js": {
+      "bytes": 4646,
+      "sha256": "93b5fefcbd4673a2c82d50104f5f21b91334aabb309a6cec44a6a9af05530160"
+    },
+    "audit/pharmaco_2026-11-22/pharma_style.css": {
+      "bytes": 1011,
+      "sha256": "35b52086840421df77f67a7274a6080292750d0aef52f4a97b8cb455c0148265"
+    },
+    "audit/pharmaco_2026-11-22/question_map.json": {
+      "bytes": 105346,
+      "sha256": "f37c905da88624f1f1ee48826c471e8c6d0320738781d5b016a38d329e65dfd7"
+    },
+    "audit/pharmaco_2026-11-22/questions_v2.json": {
+      "bytes": 1046406,
+      "sha256": "ccfcf249a492dd186838ebc682ba177f0c50a8ab3a435e2125acd1f7eac235f2"
+    },
+    "audit/pharmaco_2026-11-22/recent/review.md": {
+      "bytes": 14674,
+      "sha256": "15d17c726b2d9685e0f27346a0ed66e0533872d284f5e19f180ccbfdf14d6739"
+    },
+    "audit/pharmaco_2026-11-22/recent/reviews.json": {
+      "bytes": 255526,
+      "sha256": "a1605ac90740f08db9119b8fcd51edf05f86204b3ba4dc0032ede9ea2c67441e"
+    },
+    "audit/pharmaco_2026-11-22/test_pharma.cjs": {
+      "bytes": 12266,
+      "sha256": "06a516ab27cb625e5c3d2a61443d0007d8f500d348ed031a6ec1d5aab98c8683"
+    },
+    "audit/pharmaco_2026-11-22/themes.json": {
+      "bytes": 857,
+      "sha256": "27b073de6d74c0b479c29ff3781af5ce627409f3ac8bacf3d712bb14f5324c67"
+    },
+    "audit/pharmaco_2026-11-22/warning_coverage.json": {
+      "bytes": 378,
+      "sha256": "5eddb84e03ed1442ab56f440e56e3467fd4abc2a1497fb0d80015e23831f3079"
+    },
+    "audit/pharmaco_2026-11-22/write_report.py": {
+      "bytes": 25111,
+      "sha256": "9ec4bd9cdbd3a09d8af52e78f58ab3009ad935ea74b276c2b7fc0674af8f7b73"
+    },
     "audit/relecture_independante_contextes.md": {
       "bytes": 1953,
       "sha256": "fec17e022df33e472c6ae9bc348f8ae9d85c532e9a88e926421057d83d2cc3e5"
+    },
+    "audit/revision_v4/ajouts.json": {
+      "bytes": 40646,
+      "sha256": "b5524a0f4fd838a16d12782026538a33ab7da154f45b7c180a4884066ec6de8b"
+    },
+    "audit/revision_v4/annotations.json": {
+      "bytes": 716173,
+      "sha256": "71b7b1debc88db5470c356a957a5278b88d6e29935830f134781a976701489c2"
+    },
+    "audit/revision_v4/content_checks.json": {
+      "bytes": 272,
+      "sha256": "f27a582bac69784cef254ed8e4482c991b3fc31d306dd084cc82bfcb62411ef8"
+    },
+    "audit/revision_v4/couverture.json": {
+      "bytes": 3259432,
+      "sha256": "cdf7fa0cc4d4daa3547cb60f21bb0cf97b97a57f56ec780bb0ad36d8d92fdfcf"
+    },
+    "audit/revision_v4/figures_verifiees.json": {
+      "bytes": 56847,
+      "sha256": "3f8d992fbe5f56997e2fa67b2d734114bc5a135ca870e211ddb8decf5b3933d4"
+    },
+    "audit/revision_v4/logic_checks.json": {
+      "bytes": 656,
+      "sha256": "6772f300507de63b093da9d0bb2f1b15f4b346492bfa44ba2a43c3be50ff45da"
+    },
+    "audit/revision_v4/pharmaco_changes.json": {
+      "bytes": 27164,
+      "sha256": "fa188736ca0af47e4f95e6ed06c6defe56f177a76a20b33d07d09e2db56b0187"
+    },
+    "audit/revision_v4/pharmaco_fresh_subject_inventory.json": {
+      "bytes": 68891,
+      "sha256": "cf96995d5afdc1f4ff8f2c601b3488527bad747018171debe1a3da60b8d559d5"
+    },
+    "audit/revision_v4/pharmaco_missing_audit.json": {
+      "bytes": 1303,
+      "sha256": "b76419174109a22ae036c47953c6cac163f66c876027725a67644ffbb87a92f5"
+    },
+    "audit/revision_v4/pharmaco_relatedThemes.json": {
+      "bytes": 12640,
+      "sha256": "64bb102164786090230bde3f951917eae7cd9e6607a46aa5d1e2a84c09fb256d"
+    },
+    "audit/revision_v4/production/CONTRACT.md": {
+      "bytes": 2628,
+      "sha256": "e3d7dd882b795091c0f6cfcaaabd601a9ef97b737a858729dc8dae7ca0777d6b"
+    },
+    "audit/revision_v4/production/baseline_exams.json": {
+      "bytes": 4791721,
+      "sha256": "1bacc838e23286a527c227079ea3697c35b9d3d3cb9cf3bc289947d77bf5fdee"
+    },
+    "audit/revision_v4/production/baseline_index.html": {
+      "bytes": 4702868,
+      "sha256": "c94681b4676da50ef0d1c3a15d680d695778a15a6b80898c63091099f5519843"
+    },
+    "audit/revision_v4/production/biomol_root/coverage.json": {
+      "bytes": 100343,
+      "sha256": "9b368c8a7c530584ce0ddab06cdb592208cf01330fdc2640c5169dfb6c9cc992"
+    },
+    "audit/revision_v4/production/biomol_root/findings.md": {
+      "bytes": 1130,
+      "sha256": "ba41d4a9c9d13767310f7e58d2157b5218ef048d0bcd1e4656ffda248b0a74d4"
+    },
+    "audit/revision_v4/production/biomol_root/notes.json": {
+      "bytes": 44590,
+      "sha256": "b7c7893ee748f7c6442dbb78f838060198b5d063de467b9f7f80a6c2dd226e5b"
+    },
+    "audit/revision_v4/production/biomol_root/source_repairs.json": {
+      "bytes": 10862,
+      "sha256": "81e87d16adf405b060aee0750b710708f20b44b7f0ba0ea4a687d31da5037bbc"
+    },
+    "audit/revision_v4/production/build_site.py": {
+      "bytes": 18919,
+      "sha256": "3e6c2c4bbc46f259b9128d05f4119005fe9bd70d6725adbe9d441f5ce86c2fca"
+    },
+    "audit/revision_v4/production/check_content.py": {
+      "bytes": 2892,
+      "sha256": "4145da4e675ab638c465223266bb89738027fa60de936d9a64efc41da120775a"
+    },
+    "audit/revision_v4/production/dom_adapter.cjs": {
+      "bytes": 1924,
+      "sha256": "872fb584cf2d70b0d673d11cb302505487ea57b705f35a12d76d5376122d5f73"
+    },
+    "audit/revision_v4/production/embryo/coverage.json": {
+      "bytes": 467179,
+      "sha256": "2ef99eaf1d1024d10d6df8245e31d316d6934c460a8d88e816cdda8e72235491"
+    },
+    "audit/revision_v4/production/embryo/findings.md": {
+      "bytes": 7849,
+      "sha256": "341d72f09ea51b6e64946fd6a0211916169b22fdb1c3140c05ab2ec7f51df1c4"
+    },
+    "audit/revision_v4/production/embryo/notes.json": {
+      "bytes": 66015,
+      "sha256": "12a19d798df026e9319e3c3028c319ec87158e6c620686f7b03638090bd13074"
+    },
+    "audit/revision_v4/production/embryo/shared_contexts.json": {
+      "bytes": 1856,
+      "sha256": "a291b62fbcdad9acf7590dff750118bb3eabe5aa9810a436fad9a1821855cb49"
+    },
+    "audit/revision_v4/production/embryo/source_additions.json": {
+      "bytes": 4973,
+      "sha256": "22e66154304947667647247aefec6417a42e1dd1cd671470185f69628b01c508"
+    },
+    "audit/revision_v4/production/embryo/source_repairs.json": {
+      "bytes": 61534,
+      "sha256": "3c06d461f35313d84fa956ba26ffb1258e21763313292a1240c9c605e28a94b0"
+    },
+    "audit/revision_v4/production/embryo/stats.json": {
+      "bytes": 1061,
+      "sha256": "56e390cccbd42f2e697d8fb0ba22d4d36bde42eb5bfaf3ffd61ea81e3f01f432"
+    },
+    "audit/revision_v4/production/embryo/ue5_assist/coverage.json": {
+      "bytes": 504408,
+      "sha256": "f53ebde422453dabdbed850b76eba4c5826d90b4f6c2f9659aca04d75b9097a6"
+    },
+    "audit/revision_v4/production/embryo/ue5_assist/findings.md": {
+      "bytes": 8579,
+      "sha256": "8f87f15231c94f4165ea25494f2aa88b3b14cd3c59c5f6e6279c730715809fbf"
+    },
+    "audit/revision_v4/production/embryo/ue5_assist/notes.json": {
+      "bytes": 72419,
+      "sha256": "12f16cc963fe0c140539a649bff36ea93cbdd87b9b41cb6f4f02393c7d5ff913"
+    },
+    "audit/revision_v4/production/embryo/ue5_assist/source_repairs.json": {
+      "bytes": 24154,
+      "sha256": "922406ed92f844ef63f1c9d623832794fa00049a93033d69e91199dec3faae47"
+    },
+    "audit/revision_v4/production/pharma/changes.json": {
+      "bytes": 27164,
+      "sha256": "fa188736ca0af47e4f95e6ed06c6defe56f177a76a20b33d07d09e2db56b0187"
+    },
+    "audit/revision_v4/production/pharma/coverage.json": {
+      "bytes": 241420,
+      "sha256": "b15374f4890794c1d74b67e7f2eb0ece74cc61c2e1684e8d7d9041004e9b0fab"
+    },
+    "audit/revision_v4/production/pharma/findings.md": {
+      "bytes": 9838,
+      "sha256": "9e8fe0de17702883fba3b4b91bcb18fa3f264a49fe3a67e81bf455dc3dfd30ed"
+    },
+    "audit/revision_v4/production/pharma/notes.json": {
+      "bytes": 159103,
+      "sha256": "0f20d3835a48e958f4447bf34faaa15c6448a2033c6b6ad353909c015c402912"
+    },
+    "audit/revision_v4/production/pharma/relatedThemes.json": {
+      "bytes": 12640,
+      "sha256": "64bb102164786090230bde3f951917eae7cd9e6607a46aa5d1e2a84c09fb256d"
+    },
+    "audit/revision_v4/production/pharma/stats.json": {
+      "bytes": 1983,
+      "sha256": "25bc013894ab9cb0e08322ee53a9b94f3ade765f9544ddbdf7859d3d1bfa9edb"
+    },
+    "audit/revision_v4/production/pharma_themes.json": {
+      "bytes": 857,
+      "sha256": "27b073de6d74c0b479c29ff3781af5ce627409f3ac8bacf3d712bb14f5324c67"
+    },
+    "audit/revision_v4/production/review_runtime.js": {
+      "bytes": 4703,
+      "sha256": "c0662721900f23e4750ac7227c7a67f449481290fc35616343a9a6e882b7b1c6"
+    },
+    "audit/revision_v4/production/review_style.css": {
+      "bytes": 2422,
+      "sha256": "38fb785a1f28067b57e729389d6ca031209ad62522db9100a64904ac06a38de1"
+    },
+    "audit/revision_v4/production/root_text/build_repairs.py": {
+      "bytes": 11765,
+      "sha256": "caf438c8d2d95d8623183d91d27d7f7c45a5833eb4681b1ba0b0767039060ed4"
+    },
+    "audit/revision_v4/production/root_text/coverage.json": {
+      "bytes": 3647,
+      "sha256": "bda2c2904777db4e1363f40da364f949f73f79574fbc28d1d019183d016a3a36"
+    },
+    "audit/revision_v4/production/root_text/coverage_overrides.json": {
+      "bytes": 20705,
+      "sha256": "a4df7af5f1e5a7389b7bcd864e6e276fb376f2b2c8cae9771fa644ecb3ab1f08"
+    },
+    "audit/revision_v4/production/root_text/crossreview.md": {
+      "bytes": 4358,
+      "sha256": "a674afd76b875c11adb3663155acc3880ec16d5a02966b15af94392681677895"
+    },
+    "audit/revision_v4/production/root_text/crossreview_tc_tn.md": {
+      "bytes": 5744,
+      "sha256": "ef6ca481e3773acfd6e88b37c36aed3a9da3692c1184b9787b04db906b41a317"
+    },
+    "audit/revision_v4/production/root_text/histo_completeness.md": {
+      "bytes": 4109,
+      "sha256": "2e543e8bd1fa75bbbe5c24dfb323c2d87ed0c099abfcd794b9a7c97221416b17"
+    },
+    "audit/revision_v4/production/root_text/shared_contexts.json": {
+      "bytes": 3669,
+      "sha256": "64d5d2054fb9c7e12a47e7aee787d6622ba5b958fa73e5319d6a9320eac6cce2"
+    },
+    "audit/revision_v4/production/root_text/source_repairs.json": {
+      "bytes": 34487,
+      "sha256": "7b92e041a0a3d5347118acb8d402c5b1fb048079ea4c370aef07c9f4f75b4a01"
+    },
+    "audit/revision_v4/production/root_text/tc_coverage.json": {
+      "bytes": 6937,
+      "sha256": "4636f3de57354281e37b4028d4e665e7936b86a54afa4c345ac2f48111af1811"
+    },
+    "audit/revision_v4/production/root_text/tc_notes.json": {
+      "bytes": 5136,
+      "sha256": "669f68ca547d9b5f99dd4da9b214d7bc4cc995abcac5a4648589f9f99b9a9a3d"
+    },
+    "audit/revision_v4/production/root_text/tc_source_repairs.json": {
+      "bytes": 6870,
+      "sha256": "38ffd1cc8e3e72ee9c0ff9a0d151457e440ffb89f91596572714c6b06a52ed7e"
+    },
+    "audit/revision_v4/production/root_text/tn_context_repairs.json": {
+      "bytes": 6544,
+      "sha256": "696c45f3de85f3360c8bc944b3dc3b714a289ba653cb5903c1f5aa489b98f589"
+    },
+    "audit/revision_v4/production/root_text/tn_context_review.md": {
+      "bytes": 1507,
+      "sha256": "8d904ede48fdaae8d9a909674021e2c24e69319935ac5fed75b700b765330682"
+    },
+    "audit/revision_v4/production/root_text/tn_coverage.json": {
+      "bytes": 3602,
+      "sha256": "94cd1d0f4164e8f5f9046d34ebdb22c4efb2fe3d49625ab9ec6da8d75e6e23c8"
+    },
+    "audit/revision_v4/production/root_text/tn_notes.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "audit/revision_v4/production/root_text/tn_shared_contexts.json": {
+      "bytes": 4091,
+      "sha256": "ee2d2891509dac0f208e44c551e6e72a4a5523a042c3b7f61d1775a76e62a276"
+    },
+    "audit/revision_v4/production/root_text/tn_source_repairs.json": {
+      "bytes": 4525,
+      "sha256": "c49ebf339faea3dd44de696ea67b92f2ab4e32eaf309d84052191b9a4bd18188"
+    },
+    "audit/revision_v4/production/test_site.cjs": {
+      "bytes": 12235,
+      "sha256": "85cf0ba12e6d93a53b3e3a35c14f291bf7d3ec1e008c38a21cd453d814cba8d9"
+    },
+    "audit/revision_v4/production/ue1/coverage.json": {
+      "bytes": 98640,
+      "sha256": "69dc3aab3b7259f7e20eccd3b83d531a4294d6d6e7a1de6031712bd5775e08ad"
+    },
+    "audit/revision_v4/production/ue1/findings.md": {
+      "bytes": 1030,
+      "sha256": "b4589710defbdb20d51128c45626b9ea91c9ad5300c3d9a889179f7991f4655f"
+    },
+    "audit/revision_v4/production/ue1/notes.json": {
+      "bytes": 40247,
+      "sha256": "94d05e1d3168d640b8d353f90008e780bceb9f7a63861e4c58d9c4285246b98a"
+    },
+    "audit/revision_v4/production/ue2_ue3/build_repairs.py": {
+      "bytes": 10238,
+      "sha256": "8670defe76a970e1e75d8b5804fc4bb5761add353ad177d396c2ddbd18ac1516"
+    },
+    "audit/revision_v4/production/ue2_ue3/coverage.json": {
+      "bytes": 708437,
+      "sha256": "ecc977191cf5492e195f0891f07f5ffcb255a66ef4f2eb10ed01222867d16c80"
+    },
+    "audit/revision_v4/production/ue2_ue3/findings.md": {
+      "bytes": 77752,
+      "sha256": "8661fd433bf0d3a049c6da75c55b8e5edb3b350007a2bd9ea9c67a4011ec0e3c"
+    },
+    "audit/revision_v4/production/ue2_ue3/notes.json": {
+      "bytes": 97493,
+      "sha256": "87a4c44e1c402597b573e3b25719dff8ca9f0f2d2e7c83249f4e6a7795f2ffa0"
+    },
+    "audit/revision_v4/production/ue2_ue3/source_repairs.json": {
+      "bytes": 45502,
+      "sha256": "0aeb3440e6f0453528e59a15b91de4b0acf694983e4e11fcb125754e1db9320d"
+    },
+    "audit/revision_v4/production/ue5/coverage.json": {
+      "bytes": 643874,
+      "sha256": "44591bfcfd708e28f408e31282103ec246d855ee13506771cfd8703d6a7ba59f"
+    },
+    "audit/revision_v4/production/ue5/figure_reviews.json": {
+      "bytes": 802,
+      "sha256": "a860a989a8d5fa7ab62dad22d8a258af46266b7cb4534204af5a35dc9a4b4396"
+    },
+    "audit/revision_v4/production/ue5/findings.md": {
+      "bytes": 20498,
+      "sha256": "8285f15855340fb96cab3fe4839ed98d9bf3eaff7ec71ea9850e2227929fcaef"
+    },
+    "audit/revision_v4/production/ue5/notes.json": {
+      "bytes": 106753,
+      "sha256": "88ca1f8de10e9b676432e13b8498fa63b3b216bc8f487e1d68d1ad07ccedee73"
+    },
+    "audit/revision_v4/production/ue5/source_repairs.json": {
+      "bytes": 73489,
+      "sha256": "d92ad5eb85deb2d6dcfbfb77b7022dae38ba32180c32e8cf2cfdb1a7c5e52e42"
+    },
+    "audit/revision_v4/production/ue5_visual/coverage.json": {
+      "bytes": 3173,
+      "sha256": "b7d6f3a20177960ceb60bb6279473a8ba303008ac242e2237e14a48f86f3efe1"
+    },
+    "audit/revision_v4/production/ue5_visual/figure_reviews.json": {
+      "bytes": 44651,
+      "sha256": "6af4af6c11a7a55e44e16842c05cd43c1ae36806e3b86e12d574280a13e13751"
+    },
+    "audit/revision_v4/production/ue5_visual/findings.md": {
+      "bytes": 10509,
+      "sha256": "a459b1ee5ca9e55afdca62e78100aaa3771ba07c718b182f18d757eef30776d8"
+    },
+    "audit/revision_v4/production/ue5_visual/notes.json": {
+      "bytes": 26328,
+      "sha256": "0a20c0d5050cd4b72861fcca156c32174cc2369031215b07db77eff17eee0c5b"
+    },
+    "audit/revision_v4/production/ue5_visual/source_repairs.json": {
+      "bytes": 46609,
+      "sha256": "522a5c09a7bbcabf270a993d7b8f17bd627bfa4a78ec63ed92e6cf9c5c1b1ee7"
+    },
+    "audit/revision_v4/production/write_report.py": {
+      "bytes": 25411,
+      "sha256": "c068f6b16d8d165eed3b007c805fc74b68e90a4687db92045a3081b35389ba0a"
+    },
+    "audit/revision_v4/references.json": {
+      "bytes": 47161,
+      "sha256": "19c5c972fcf581cd8cedd32cdb448f033ef5298ce996f4878e6369d7b02fa085"
+    },
+    "audit/revision_v4/reparations.json": {
+      "bytes": 442474,
+      "sha256": "0f2fd78380a3d8d8de7615a73b311f162da2a574938afa9ef840441ce7b62c70"
+    },
+    "audit/revision_v4/statistiques.json": {
+      "bytes": 930,
+      "sha256": "c69ceb9a9600a08a546ea1f9d5595f635d54900738a0c3338c28f78637cfd943"
     },
     "audit/scripts_revision/audit_context_revision.py": {
       "bytes": 8467,
@@ -218,8 +710,8 @@
       "sha256": "5aa4e25c099a2a9651d443d39e366f271b6f2e9740a3fdaabaccb1afb56af566"
     },
     "index.html": {
-      "bytes": 4642968,
-      "sha256": "6bc1cc7368fa1623a7aac991819a1bd74d559a9cca4286691e716bf2ebd1506b"
+      "bytes": 5281986,
+      "sha256": "8b8036cc5e2e176f887e0ae3e6c6ee05f86a88aedadca2bc78a2ce2741487d10"
     },
     "sources/Annales_compilation.pdf": {
       "bytes": 26394668,
@@ -248,6 +740,574 @@
     "sources/biomol_ed_annales_sujet.pdf": {
       "bytes": 1081253,
       "sha256": "2b700ae186efcd214799445fd4d705c0aa864ad718210a7e213aa270b6baa7b0"
+    },
+    "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf": {
+      "bytes": 4618878,
+      "sha256": "35a5fce5f24592dd37b0c44e558b5f90c123511dd1013a1ac31e249a7c1384d7"
+    },
+    "sources/revision_v4/2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf": {
+      "bytes": 400562,
+      "sha256": "6e7bec8576e08bcf1cce79d3e3c36b3cd10e8c1f99042d2da92d7d3882f73c71"
+    },
+    "sources/revision_v4/2_Annales_ADN_LS_CORRECTION_7075006a82.pdf": {
+      "bytes": 673933,
+      "sha256": "7075006a82e1418206348ba5858d4f2b315c3b0ce6a04a2ce3ec2a671796064f"
+    },
+    "sources/revision_v4/2_Annales_ADN_LS_ENONCE_cb48dd05b5.pdf": {
+      "bytes": 544184,
+      "sha256": "cb48dd05b5f3a5ffaef7e95adaca660e5f1410fa0904fe3f5f22eea08ced8d14"
+    },
+    "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_CORRECTION_34adbc3fff.pdf": {
+      "bytes": 383960,
+      "sha256": "34adbc3fff2f0db89631e2ac15352f86dff29bbc4fcd3b825477e077ade61bdf"
+    },
+    "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_ENONCE_c6c7ec8f5d.pdf": {
+      "bytes": 347343,
+      "sha256": "c6c7ec8f5deb7335ea7ed01dee472f7e821a2f9df09eec59dd008e60298fcc4f"
+    },
+    "sources/revision_v4/2_Annales_Anomalies_LS_CORRECTION_fa09d9a0b4.pdf": {
+      "bytes": 314229,
+      "sha256": "fa09d9a0b46cc3a652faeceee07335741c6d57e85e21ad53d2bfab595e181f7a"
+    },
+    "sources/revision_v4/2_Annales_Anomalies_LS_ENONCE_f716f194aa.pdf": {
+      "bytes": 286413,
+      "sha256": "f716f194aa30ab51ddc9dc31ead7d8a892b050c3e59981d112c31fe49a71b4ef"
+    },
+    "sources/revision_v4/2_Annales_Coeur_et_Vx_LS_correction_3a3f96649f.pdf": {
+      "bytes": 326502,
+      "sha256": "3a3f96649fc4df1efaf8c722f85fddef6c4d364f960f1d8e4c656a67c5084902"
+    },
+    "sources/revision_v4/2_Annales_Fecondation_LS_correction_56ee0ecad9.pdf": {
+      "bytes": 318176,
+      "sha256": "56ee0ecad95cd432ee54a58da610f4089ee2d976872e4395922d873944145897"
+    },
+    "sources/revision_v4/2_Annales_Organisation_du_genome_LS_ENONCE_d1a50c7ee9.pdf": {
+      "bytes": 202992,
+      "sha256": "d1a50c7ee92387a896cc6a5f3e9d2e6e4bbda4a9c81cef108a4cf1209bac1749"
+    },
+    "sources/revision_v4/2_Annales_Regulation_LS_CORRECTION_9ae1fb1982.pdf": {
+      "bytes": 307360,
+      "sha256": "9ae1fb19823e6c7504cbc0527bee11fcf3309a17e708f84dc2affbb464a944e1"
+    },
+    "sources/revision_v4/2_Annales_Regulation_LS_ENONCE_0508ee9011.pdf": {
+      "bytes": 309922,
+      "sha256": "0508ee9011df95f7881c1b4576814c21116adc186e6514c23707105c89a5850e"
+    },
+    "sources/revision_v4/2_Annales_Reparation_LS_CORRECTION_b31ba7b317.pdf": {
+      "bytes": 469202,
+      "sha256": "b31ba7b317bef4c576234424bed4f2fdf71c0eaa464964a17603eb710c48ff9d"
+    },
+    "sources/revision_v4/2_Annales_Reparation_LS_ENONCE_4b9e5f490a.pdf": {
+      "bytes": 319223,
+      "sha256": "4b9e5f490af0474ea6a174f00a3e4579b83aaf03ad98925ec8b0a0caf1929205"
+    },
+    "sources/revision_v4/2_Annales_Replication_LS_CORRECTION_5c944ec316.pdf": {
+      "bytes": 682479,
+      "sha256": "5c944ec3167037f95955d455b52630e4c7919593c6bfcfbf68b690751b2ecc1d"
+    },
+    "sources/revision_v4/2_Annales_Replication_LS_ENONCE_760cf70ed6.pdf": {
+      "bytes": 378412,
+      "sha256": "760cf70ed64bef59e7b1da98d42ca041dff62e90df6801b9ef77bf125fc73393"
+    },
+    "sources/revision_v4/2_Annales_S1_DE_LS_Correction_b60fc75cbc.pdf": {
+      "bytes": 356008,
+      "sha256": "b60fc75cbcb2099a08d49889e5a58e007d3cab8ca2948a158808cde8016aad2a"
+    },
+    "sources/revision_v4/2_Annales_S2_LS_Correction_9ec0aeb950.pdf": {
+      "bytes": 410757,
+      "sha256": "9ec0aeb95028c75fc07180db9e9b59f8f7912c7cd192b5458ebbcbf6a5318308"
+    },
+    "sources/revision_v4/2_Annales_S4_du_DE_LS_Enonce_cc11ef36c0.pdf": {
+      "bytes": 396387,
+      "sha256": "cc11ef36c00e2385158dfea3d165b05f5c9cfe1469e2c924456fe3fdbd89e25b"
+    },
+    "sources/revision_v4/2_Annales_S4_du_DE_LS_correction_1_b591b2c431.pdf": {
+      "bytes": 415477,
+      "sha256": "b591b2c43187d3980a3d68a82aa6e7e7eeb6f9dfdfb476ff18e927163f8d62f7"
+    },
+    "sources/revision_v4/2_Annales_Traduction_LS_CORRECTION_ca89132824.pdf": {
+      "bytes": 373238,
+      "sha256": "ca89132824f98fa2b260307ceaf01552255d85df8726ed811421398a23133c50"
+    },
+    "sources/revision_v4/2_Annales_Traduction_LS_ENONCE_c9fa3b519a.pdf": {
+      "bytes": 345393,
+      "sha256": "c9fa3b519a5fb73bb7e31e3f561ef5641c593c365cb2485866dc68ba6c9bfbef"
+    },
+    "sources/revision_v4/2_Annales_Transcription_LS_CORRECTION_66d5a8d8a3.pdf": {
+      "bytes": 393269,
+      "sha256": "66d5a8d8a3a970105ec27395fc57972ad1c4f429a648a6acf354fc7d6e82566d"
+    },
+    "sources/revision_v4/2_Annales_Transcription_LS_ENONCE_cf13334214.pdf": {
+      "bytes": 351570,
+      "sha256": "cf133342149e9cdcd0a1dd5bc8a6c66a4624f909ceebee473b3aab12724b4eb7"
+    },
+    "sources/revision_v4/2_Annales_meiose_et_gametogenese_LS_CORRECTION_3f2ba9f3b8.pdf": {
+      "bytes": 353595,
+      "sha256": "3f2ba9f3b8e2616f2d004bc0f15477dff384eee668b03683338aaf6f7a951530"
+    },
+    "sources/revision_v4/2_Correction_ED_2025_2026_c041790337.pdf": {
+      "bytes": 2075194,
+      "sha256": "c0417903375683b4ef2045d79c2ede659c040d9fb5d1e6fe45b0fd00b7e34f77"
+    },
+    "sources/revision_v4/2_Correction_ED_2026_2027_88469f17eb.pdf": {
+      "bytes": 1547463,
+      "sha256": "88469f17eb3c5c2ebdc7b5b339754c3092042f7c763e40c6d7f9cf80b0cebb67"
+    },
+    "sources/revision_v4/3_Annales_ED_LS_CORRECTION_3bddb4653f.pdf": {
+      "bytes": 1277099,
+      "sha256": "3bddb4653fb3084a4ee9f2c7a1f12e2486c25483bc82d351a2cd324f8b35c1a4"
+    },
+    "sources/revision_v4/3_Annales_ED_LS_ENONCE_1_2b700ae186.pdf": {
+      "bytes": 1081253,
+      "sha256": "2b700ae186efcd214799445fd4d705c0aa864ad718210a7e213aa270b6baa7b0"
+    },
+    "sources/revision_v4/3_FS_Anomalies_du_genome_LS_77415191c9.pdf": {
+      "bytes": 704063,
+      "sha256": "77415191c96b1ba605348a457f95f233f5914821e959620afe2db689aa57b771"
+    },
+    "sources/revision_v4/3_FS_gametogenese_LS_423b1d6f34.pdf": {
+      "bytes": 3041134,
+      "sha256": "423b1d6f34d2e726177a85fbdb79d1af632c680935093f6b3ea63ee1ab771ae8"
+    },
+    "sources/revision_v4/4_1_Autotest_spermatogenese_LS_correction_971993efe1.pdf": {
+      "bytes": 305851,
+      "sha256": "971993efe19edf90536fa0a574ded193aa9fad544b647f2b021a14c1262edda4"
+    },
+    "sources/revision_v4/4_2_Autotest_Ovogenese_LS_correction_c0c4c52963.pdf": {
+      "bytes": 345106,
+      "sha256": "c0c4c52963ad493bcc7ce4526a66275c4bdda484e925b0c570d94cc53c4a75a0"
+    },
+    "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf": {
+      "bytes": 358012,
+      "sha256": "d4087b6880ffdd4d6dab895cb8b1d59d5ab85b29b4d801fd3293d545b8fe9cf9"
+    },
+    "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_ENONCE_5ddcdafe1b.pdf": {
+      "bytes": 339876,
+      "sha256": "5ddcdafe1bc20709624501ff1b61463e5da3d961b685fdb06b963afd517d5bdf"
+    },
+    "sources/revision_v4/4_Autotest_Meiose_LS_CORRECTION_ab4f31738f.pdf": {
+      "bytes": 312154,
+      "sha256": "ab4f31738f5340829f4f5dcca8d9b29fa386ca1098b7cefd490af0d4b63aaf90"
+    },
+    "sources/revision_v4/4_Autotest_S1_DE_LS_CORRECTION_b26d87eaf9.pdf": {
+      "bytes": 320063,
+      "sha256": "b26d87eaf94f176544af7706b5eb8fa4dcb7aeca9a32f57b7f3d32ad74ecaa62"
+    },
+    "sources/revision_v4/4_Autotest_S2_DE_LS_CORRECTION_aeefc30927.pdf": {
+      "bytes": 297570,
+      "sha256": "aeefc30927d728e2d4bfab36ce6c36a879e23c1f7688f14485503ebf1eec95e6"
+    },
+    "sources/revision_v4/4_Autotest_S3_DE_LS_CORRECTION_b7e7d6ad1d.pdf": {
+      "bytes": 536931,
+      "sha256": "b7e7d6ad1d66f43dc3d26e4b7c17ea962aaed99578e5e1ed2ed8656209406ccb"
+    },
+    "sources/revision_v4/4_Autotest_S4_DE_LS_CORRECTION_d47965888e.pdf": {
+      "bytes": 881606,
+      "sha256": "d47965888eb0b1746c91ab6e26ad88c25fa265bf49967a17dae0eacd28604a04"
+    },
+    "sources/revision_v4/4_Autotest_S4_DE_LS_ENONCE_a3f1a6910c.pdf": {
+      "bytes": 598625,
+      "sha256": "a3f1a6910c5ffd1449063133ba270860f742eca4db07fd431cfd6cbd3ddbe005"
+    },
+    "sources/revision_v4/4_Autotest_fecondation_LS_CORRECTION_56aee89816.pdf": {
+      "bytes": 520769,
+      "sha256": "56aee898168d65df648713a5c8d65f41af5d9cb009b6a9333fe6e4a2101d577f"
+    },
+    "sources/revision_v4/4_Autotests_ADN_CORRECTION_1f3c1076f1.pdf": {
+      "bytes": 307199,
+      "sha256": "1f3c1076f10be0aa650dedbd9819972e19ef613fc47ab53a474a21ab5e77977f"
+    },
+    "sources/revision_v4/4_Autotests_ADN_ENONCE_be376e27c1.pdf": {
+      "bytes": 271716,
+      "sha256": "be376e27c1f20118e019255cf87fd74b098799224544f6bc6968e342253403d8"
+    },
+    "sources/revision_v4/4_Autotests_ARN_et_metabolisme_CORRECTION_058559c1b9.pdf": {
+      "bytes": 436412,
+      "sha256": "058559c1b98055eeae2ad7d34ce760deaa6d61d2813cde640c1354c0e1ead368"
+    },
+    "sources/revision_v4/4_Autotests_ARN_et_metabolisme_ENONCE_e00722b14f.pdf": {
+      "bytes": 279164,
+      "sha256": "e00722b14fd0391048499c017a8f8bee105a0a8acb1b8464a1b3ef7e11398fb5"
+    },
+    "sources/revision_v4/4_Autotests_Acides_Nucleiques_CORRECTION_5065962702.pdf": {
+      "bytes": 315030,
+      "sha256": "5065962702c819e1a2488c91decd34e7ceb947d8475e2c45d6a6c3c2963994fe"
+    },
+    "sources/revision_v4/4_Autotests_Acides_Nucleiques_ENNONCE_fde6fd3107.pdf": {
+      "bytes": 176501,
+      "sha256": "fde6fd310719a7ffc81eedb9e03d79cdf87171c2c5499ba37a7fec98b124ba55"
+    },
+    "sources/revision_v4/4_Autotests_Anomalies_du_genome_CORRECTION_1_6f444b8e14.pdf": {
+      "bytes": 291714,
+      "sha256": "6f444b8e144d495708341b0f0f5bb01013e7ba372be7702d693e3c9b443c841c"
+    },
+    "sources/revision_v4/4_Autotests_Anomalies_du_genome_ENONCE_42d0809978.pdf": {
+      "bytes": 172597,
+      "sha256": "42d0809978c2aae1c97e0ff7b96131c14071d1f438283d13272ac2783867dd64"
+    },
+    "sources/revision_v4/4_Autotests_Organisation_du_genome_CORRECTION_1_5d58eabfe8.pdf": {
+      "bytes": 302605,
+      "sha256": "5d58eabfe886c6a3a66bdccf490009e5f8fc45ee5069e71c3c2696d7e58fa2c2"
+    },
+    "sources/revision_v4/4_Autotests_Organisation_du_genome_ENONCE_035a76c1b2.pdf": {
+      "bytes": 285756,
+      "sha256": "035a76c1b236b64f23bedaa9450dc81f55911b21e55989d76165c557f458621d"
+    },
+    "sources/revision_v4/4_Autotests_Regulation_CORRECTION_4af5afe136.pdf": {
+      "bytes": 329691,
+      "sha256": "4af5afe136b61b3bdf6351badf132ff16dfa20229b6fb5f799d53f73feffa02f"
+    },
+    "sources/revision_v4/4_Autotests_Reparation_de_l_ADN_CORRECTION_d02c847809.pdf": {
+      "bytes": 325170,
+      "sha256": "d02c847809cf30097706dac82b1d819e96241baad1791b1c4b3e83912650d96e"
+    },
+    "sources/revision_v4/4_Autotests_Reparation_de_l_ADN_ENONCE_2d3d6436be.pdf": {
+      "bytes": 278212,
+      "sha256": "2d3d6436be120ed95a0d6b0d1fb29cde040c5693a5dd3fd35572f2c68cf644e0"
+    },
+    "sources/revision_v4/4_Autotests_Replication_CORRECTION_e43067e2d2.pdf": {
+      "bytes": 360762,
+      "sha256": "e43067e2d2025ec59a0a9015905ac73e24753a3b807513d2ec16838bbe83dd1e"
+    },
+    "sources/revision_v4/4_Autotests_Replication_ENONCE_05acce7880.pdf": {
+      "bytes": 297862,
+      "sha256": "05acce7880e7aeae1929beda2c702f8ffe48a7900c65d16a6421c81097db366a"
+    },
+    "sources/revision_v4/4_Autotests_Traduction_CORRECTION_f7562c0594.pdf": {
+      "bytes": 354838,
+      "sha256": "f7562c05944302ba5ba936b553cc7e8bf767e4d08f995ddb9c0e89d845a10acd"
+    },
+    "sources/revision_v4/4_Autotests_Traduction_ENONCE_1d12cc3be3.pdf": {
+      "bytes": 336594,
+      "sha256": "1d12cc3be349e9d3f06a1ed5d8441f82ddc73ea548ded9d86f7764d849810919"
+    },
+    "sources/revision_v4/4_Autotests_Transcription_LS_CORRECTION_9b5e57d4f3.pdf": {
+      "bytes": 337329,
+      "sha256": "9b5e57d4f3e5bcfab70481ffd21c3b31992ef5efd59fdc8322989d87ae135bf7"
+    },
+    "sources/revision_v4/4_Autotests_Transcription_LS_ENONCE_a4ddf9fba8.pdf": {
+      "bytes": 329195,
+      "sha256": "a4ddf9fba8135d5a2cec48cadd0987266f428492f137e3a37e4ee03d59319ce6"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_Fecondation_LS_correction_f575091c98.pdf": {
+      "bytes": 334921,
+      "sha256": "f575091c989bfece28ccc31b4f9d4ab16f1af2c8de5d23b2121ae8cb8542dcda"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_Gametogenese_LS_correction_49ebcc481e.pdf": {
+      "bytes": 359697,
+      "sha256": "49ebcc481eed54fc325e8edd79ca0e3346c34fecce3e4363b897f7b5d0480eab"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_S1_LS_correction_6f86e9d2ff.pdf": {
+      "bytes": 341747,
+      "sha256": "6f86e9d2ff7dfa41dba109cba2b602d1490506dd657e7da66ec08fa8b579566c"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_S2_LS_correction_c6ccd4fca9.pdf": {
+      "bytes": 428596,
+      "sha256": "c6ccd4fca9c6a5c9f47ef52d0e8cbcdb544b1ca49cb009d391077a7f2d78ae63"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_S3_LS_correction_f9cff1c0c9.pdf": {
+      "bytes": 545707,
+      "sha256": "f9cff1c0c9f78e0b4f5d07d0164ec44308dd812a14935beadd052137c6f7af82"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_S4_LS_Enonce_312bcc17bf.pdf": {
+      "bytes": 574872,
+      "sha256": "312bcc17bf3a06e65b434c023c33de713992b924e6208b72e0722fbb715c7af3"
+    },
+    "sources/revision_v4/7_Colle_en_chambre_S4_LS_correction_aae35ab638.pdf": {
+      "bytes": 949768,
+      "sha256": "aae35ab638582be1a7582406e518db051842255d0f94bb2b61581499ae5c190c"
+    },
+    "sources/revision_v4/ACC_Cytosquelette_et_migration_cellulaire_1_1_228c1c7b23.pdf": {
+      "bytes": 889758,
+      "sha256": "228c1c7b237cf3fe39ddeeda828b442da3ea047e7d8a5057d7c69d4141703a30"
+    },
+    "sources/revision_v4/ACC_le_noyau_cfd9506a6d.pdf": {
+      "bytes": 588927,
+      "sha256": "cfd9506a6d696bb7ff24b2cff90d652194278661dca004d8851d7ad995a4e680"
+    },
+    "sources/revision_v4/ACC_membranes_biologiques_387bc17507.pdf": {
+      "bytes": 966359,
+      "sha256": "387bc17507728993c4b6db175c1f295846b6bea7e43d93ba8cb3a0babfd0ea18"
+    },
+    "sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf": {
+      "bytes": 1189840,
+      "sha256": "580d7a5282f4d7c9c486a14c17d92c2182f7a2bf96d801bec9fd42735ddaa82a"
+    },
+    "sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf": {
+      "bytes": 1342186,
+      "sha256": "3cb51b54dad6dfab4e2c42c339b5b8ca91cf207ccb80288de144b267764495d4"
+    },
+    "sources/revision_v4/AUTOTEST_CM10_MORT_CELLULAIRE_9a1d08d77e.docx": {
+      "bytes": 18007,
+      "sha256": "9a1d08d77eec5f9f61e9cca824fda0e4416863989e823f249fdf60b849a21ec4"
+    },
+    "sources/revision_v4/AUTOTEST_CM6_LES_MEMBRANES_1_e845004f0e.docx": {
+      "bytes": 94090,
+      "sha256": "e845004f0ecf0d5e4f52cbe500a837dffe94da9a35e32f4a683779778587e51a"
+    },
+    "sources/revision_v4/AUTOTEST_TN3_68ce86400d.docx": {
+      "bytes": 276324,
+      "sha256": "68ce86400d552da2d88717461af25f6bf975f9ba5b980de0ce2187642f2b5dd9"
+    },
+    "sources/revision_v4/Annales_CM10_2023_2025_cd0b00e0b7.pdf": {
+      "bytes": 881815,
+      "sha256": "cd0b00e0b7e6070b9f3716f1337851301f99c64602a32754f08fe9c439edf05b"
+    },
+    "sources/revision_v4/Annales_CM2_corrigees_1_61faf7819f.pdf": {
+      "bytes": 1383138,
+      "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9"
+    },
+    "sources/revision_v4/Annales_CM2_non_corrigees_24f2849e61.pdf": {
+      "bytes": 1940172,
+      "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816"
+    },
+    "sources/revision_v4/Annales_CM4_2018_2025_6c48306bb0.pdf": {
+      "bytes": 790877,
+      "sha256": "6c48306bb08d4a244984d31ecb2675e6e3f39bdcc69e8ebe9506f1ec83cdddec"
+    },
+    "sources/revision_v4/Annales_CM5_2018_2025_e28d5cc12f.pdf": {
+      "bytes": 1254752,
+      "sha256": "e28d5cc12f9ddb7907a018d72b58b799f0372ee64e629249f061e709a767caf5"
+    },
+    "sources/revision_v4/Annales_Tissu_Epithelial_2020_2026_CORRECTION_1e6bf3af86.pdf": {
+      "bytes": 503294,
+      "sha256": "1e6bf3af868a7e328c73bc68b409e88fe3ab1faccce0b112ab500c1005781f47"
+    },
+    "sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf": {
+      "bytes": 639291,
+      "sha256": "cd39b0a2e7afd1d5a8b032afd9a638b2209cab6332849359673308b9cd4cad5c"
+    },
+    "sources/revision_v4/Annales_corrigees_CM10_2023_2025_d1271adff3.pdf": {
+      "bytes": 921924,
+      "sha256": "d1271adff30ae34a45b019bfe7920c2d0f2bc905aaf4539a5bae9e72d0c490a8"
+    },
+    "sources/revision_v4/Annales_corrigees_CM4_2018_2025_aefbeb2617.pdf": {
+      "bytes": 1020903,
+      "sha256": "aefbeb26177e671cf58c56a17694880276665173f27fc148d7fbc2214bbab05a"
+    },
+    "sources/revision_v4/Annales_corrigees_CM5_2018_2025_b781e9e7fe.pdf": {
+      "bytes": 1467048,
+      "sha256": "b781e9e7feae04e958302eae295f7456a3126539bb22d0321fdc00bae51eb2f1"
+    },
+    "sources/revision_v4/Annales_corrigees_CM8_2019_2025_1_4069aae4bb.pdf": {
+      "bytes": 467726,
+      "sha256": "4069aae4bb41058d3375a8d5754749d6f1740731db7cfa4f4f9619ddfb353657"
+    },
+    "sources/revision_v4/CM5_roneo_2026_Corrige_9f2b6fb6b8.pdf": {
+      "bytes": 3697751,
+      "sha256": "9f2b6fb6b817fb835ff6255ff91f6f3bc2849cef03da13c53ff7bdff440e797a"
+    },
+    "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf": {
+      "bytes": 1869954,
+      "sha256": "e4a8873297861e4e6168e760df17cf78910b5c022c14712a76e062f667378b0d"
+    },
+    "sources/revision_v4/CORRECTION_autotest_CM10_MORT_CELLULAIRE_28511413b2.docx": {
+      "bytes": 19040,
+      "sha256": "28511413b2e7c6feff2290b63f24100ded147d5fcc85e34430764ce459f5f01b"
+    },
+    "sources/revision_v4/CORRECTION_autotest_TC2_06fc48f39c.docx": {
+      "bytes": 23577,
+      "sha256": "06fc48f39ce61eec52c4f97d9bca2887cb11974f2cc5c8701d415211792b8783"
+    },
+    "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf": {
+      "bytes": 2334294,
+      "sha256": "9d9e60bef2f459dc2eb46f3adbcace7b2126a676edef6662b934149dc0408b47"
+    },
+    "sources/revision_v4/Chap_3_chimie_phy_260906_130652_137a0f5169.pdf": {
+      "bytes": 1384071,
+      "sha256": "137a0f516942697cd35007528252a63e3b9731d70e641d13aa0b464bc39b3ff4"
+    },
+    "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf": {
+      "bytes": 126913,
+      "sha256": "f8abddbcbaa8db1764aa2ed05d733776ae6343ec636d11541a603ae927f40aad"
+    },
+    "sources/revision_v4/Colles_orales_corrigees_377668ac6b.docx": {
+      "bytes": 1136240,
+      "sha256": "377668ac6b854003d4e0f590389746c5242be1a96064ffc97f831f184fcc50de"
+    },
+    "sources/revision_v4/Colles_orales_non_corrigees_05a1284a26.docx": {
+      "bytes": 1135217,
+      "sha256": "05a1284a269e313b3ff0f58f4a51052987832df61ef9f765dad69ea20cd4c8a8"
+    },
+    "sources/revision_v4/Correction_ACC_Cytosquelette_et_migration_cellulaire_1_2_9102f32c48.pdf": {
+      "bytes": 742483,
+      "sha256": "9102f32c482edb9f2031d3653aa935e50a8c926ffcce3cca3ceb4c689f99b37d"
+    },
+    "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf": {
+      "bytes": 760869,
+      "sha256": "5289830c46c199399ccb91c19958310fb49510bd3cb33cf5920ac30d9048418c"
+    },
+    "sources/revision_v4/Correction_ACC_le_noyau_e68c1b3595.pdf": {
+      "bytes": 4523965,
+      "sha256": "e68c1b3595f19f8c7c23b56aed5f1e3fbaf4253a366a203edcb8493add6ab645"
+    },
+    "sources/revision_v4/Correction_ACC_membranes_biologiques_b72abd12a3.pdf": {
+      "bytes": 934715,
+      "sha256": "b72abd12a3ac2bfff751b97923ae888cb3b4868f94f73dbf196bf46e49ed4dd7"
+    },
+    "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf": {
+      "bytes": 1076313,
+      "sha256": "f40e021e499329247ec1ad0242fb75abace36e8d859aaf3376753595159d575d"
+    },
+    "sources/revision_v4/Droit_Pharma_261001_102709_382ac72fda.pdf": {
+      "bytes": 811124,
+      "sha256": "382ac72fda881ee1d6bb85929299953111fcd69ae12f972fc235bb531fc394d1"
+    },
+    "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf": {
+      "bytes": 107946,
+      "sha256": "d80c585c99fff757af43493ca49ea46283cd07d808d070816ce56edf842032d4"
+    },
+    "sources/revision_v4/ED_2025_2026_PASS_5eecfa2326.pdf": {
+      "bytes": 565606,
+      "sha256": "5eecfa232642ae0609e3204cc5709de112db3ea2920cbc7acb17c084a4fb05e3"
+    },
+    "sources/revision_v4/Roneo_CM1_GENERALITES_sur_les_cellules_LBH_CG_26_ACTUALISATION_d99bbfa76c.pdf": {
+      "bytes": 1067929,
+      "sha256": "d99bbfa76c48982e55e8a4734de700ad188533c4bdde1d51106e9b5f6faddb0c"
+    },
+    "sources/revision_v4/Roneo_CM7_Le_noyau_2026_CG_Corrigees_fe06c11668.pdf": {
+      "bytes": 3221879,
+      "sha256": "fe06c11668806af4614fd8e469bae8dbba0f592ada7dfd3357bba067271d1c80"
+    },
+    "sources/revision_v4/Roneo_RE_et_adressage_2026_Corrige_0c80ebc16b.pdf": {
+      "bytes": 2216575,
+      "sha256": "0c80ebc16bfb5d12c86483e89e0f83c57d5134e4830ea8498db6e4abb4462cd6"
+    },
+    "sources/revision_v4/Roneo_S1_27da6dafa5.pdf": {
+      "bytes": 1300190,
+      "sha256": "27da6dafa5097337f7f873492a91da7213aabb049a441ff1e7e3648008fb92f5"
+    },
+    "sources/revision_v4/Roneo_S2_eeeaa76273.pdf": {
+      "bytes": 6596059,
+      "sha256": "eeeaa76273e744a9254f3de846ba3ded1db3865e38c973933c5697226ffb48b5"
+    },
+    "sources/revision_v4/Roneo_S3_05579bfe1f.pdf": {
+      "bytes": 9393362,
+      "sha256": "05579bfe1fce66f2b946fc305eb1b9a1448c50eca52813daf7ed496c5531b352"
+    },
+    "sources/revision_v4/Roneo_Techniques_Histologiques_Gouriou_2026_ACTUALISEE_fc6fab116f.pdf": {
+      "bytes": 6051033,
+      "sha256": "fc6fab116fb36aa326b6f9a49cea7a07939156d43d76f524c0c7cbb487fe6c18"
+    },
+    "sources/revision_v4/Roneo_cours_AG2_du_vendredi_03_10_25_e580484da4.pdf": {
+      "bytes": 2751296,
+      "sha256": "e580484da43913925d2a52b35f0584f24c002762b1f0deb224ce3016f7c904bc"
+    },
+    "sources/revision_v4/Roneo_cours_derives_isopreniques_du_vendredi_09_10_26_docx_b75de48b67.pdf": {
+      "bytes": 2094050,
+      "sha256": "b75de48b67d147711ff31679499feb232ff41ee7412b4d13c535c63901761e10"
+    },
+    "sources/revision_v4/Roneo_glucides_1_du_vendredi_09_10_26_8b60f9a1cb.pdf": {
+      "bytes": 2205963,
+      "sha256": "8b60f9a1cb7539c433f5bf7c265a9dcb293a54b7e2ba7157848b670f147c5c55"
+    },
+    "sources/revision_v4/Roneo_glucides_2_du_vendredi_23_10_26_89b0203066.pdf": {
+      "bytes": 6226232,
+      "sha256": "89b0203066fc4e1343fa3cd3326b50f5accf236e514b0c5d7c200e08ddfc7343"
+    },
+    "sources/revision_v4/Roneo_lipides_complexes_des_lundi_28_09_et_05_10_26_docx_5e0f109cbc.pdf": {
+      "bytes": 2293822,
+      "sha256": "5e0f109cbcd61bdbef07e671d0f2ed2a0ffd60c65189d54c6f605ae3d88dd4cf"
+    },
+    "sources/revision_v4/Roneo_lipides_simples_du_lundi_06_10_25_docx_5be871addb.pdf": {
+      "bytes": 770189,
+      "sha256": "5be871addb11e69ea24aa544902c723772856fe05a8e567c229b284af5b0d261"
+    },
+    "sources/revision_v4/TC1_2026_CG_non_corrigees_ACTUALISE_4b0f419e52.pdf": {
+      "bytes": 1908058,
+      "sha256": "4b0f419e522b66045588f0d006df35cdf103d3ce99d6ce611c55e671613e3150"
+    },
+    "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf": {
+      "bytes": 2115113,
+      "sha256": "884b28982581e625ee943339c7627b4ae74398794a3e09141786bb3ab01d7abb"
+    },
+    "sources/revision_v4/TC3_2026_8f1c2e6921.pdf": {
+      "bytes": 3000033,
+      "sha256": "8f1c2e6921dc4395121efe5d9e50c5c9843cfbeae3eaf5a2736fe5729a0ce7f3"
+    },
+    "sources/revision_v4/TN1_Roneo_2026_ACTUALISEE_629067c364.pdf": {
+      "bytes": 1939786,
+      "sha256": "629067c3640279de7107a041904c6207345601461e03b9902a1cfee497e1a9c5"
+    },
+    "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf": {
+      "bytes": 2951170,
+      "sha256": "660afa6a3c6512036f151cde6ef5f957cf3159c39773e4bab93fea6821852499"
+    },
+    "sources/revision_v4/TN3_Roneo_2026_252c9211d9.pdf": {
+      "bytes": 3009903,
+      "sha256": "252c9211d98b88b97afd5c92e860d14c301de9ac67215b9d8589cc56df27d72f"
+    },
+    "sources/revision_v4/Tissu_epithelial_1_CG_ACTUALISE_32f70cbe4a.pdf": {
+      "bytes": 2656271,
+      "sha256": "32f70cbe4a0351f66dce7f5b41e819ad90bf1ee5762d8bf30f8d6ca6b1cee162"
+    },
+    "sources/revision_v4/Tissu_epithelial_2_CG_ACTUALISE_934413563c.pdf": {
+      "bytes": 3064862,
+      "sha256": "934413563ce0993d5230d0361802df54ac68a1a091f2e5f0cc7868381bb88947"
+    },
+    "sources/revision_v4/UE2_ED_2026_4cdfbd6461.pdf": {
+      "bytes": 529403,
+      "sha256": "4cdfbd6461238f5ae5934a92f6993326410b3e086c35fccdd95dea7807c00ae0"
+    },
+    "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_1db02487eb.pdf": {
+      "bytes": 784691,
+      "sha256": "1db02487ebc6ab5cb1398afe703a875b1f067b1b980789240dd715303990630d"
+    },
+    "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_CORRECTION_2_15a22929d2.pdf": {
+      "bytes": 836095,
+      "sha256": "15a22929d28cbf15ba6500a30fa987c620de3f6211c5d3aa0b0168b9bf1b06c3"
+    },
+    "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf": {
+      "bytes": 747084,
+      "sha256": "16377b30d25c71a39ec111911b900f531f79e896eb96718a33dc5609d0b483e3"
+    },
+    "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf": {
+      "bytes": 790798,
+      "sha256": "25bc666fc1aac802bcb546d2ccd70c6c79640c7a2482cb04f057b52029820260"
+    },
+    "sources/revision_v4/autotest_CM8_c564795948.docx": {
+      "bytes": 206966,
+      "sha256": "c5647959487f96106bef255418f60c9bc68d9e4bc176c60c9ad3e8c2fe2b34a6"
+    },
+    "sources/revision_v4/autotest_TE2_2_d3be7eb93e.docx": {
+      "bytes": 23047,
+      "sha256": "d3be7eb93e6b3e1361f5f60865f9a5b8cce143e9f41e56bfc15b897d166db55f"
+    },
+    "sources/revision_v4/cHAP_6_chimie_phy_260918_180842_0dc69384ac.pdf": {
+      "bytes": 447867,
+      "sha256": "0dc69384acc2f007d7dd74edfe2b0259c5a11e554d5dda5bf613e9de75873371"
+    },
+    "sources/revision_v4/correction_autotest_CM8_9809cbaad2.docx": {
+      "bytes": 210338,
+      "sha256": "9809cbaad291582d27ae92fbc9183f5553e41039f44015fe3121cdd40d7e7fe9"
+    },
+    "sources/revision_v4/correction_autotest_TE2_25_28aae8db92.docx": {
+      "bytes": 25775,
+      "sha256": "28aae8db92f1e9f3579a42940f983502d79b514de8af5d15617eeca633babe72"
+    },
+    "sources/revision_v4/cycle_de_vie_du_medicament_M_Le_Borgne_e21aea198f.pdf": {
+      "bytes": 12341715,
+      "sha256": "e21aea198fc104f6e0ad191f788fbdb4ba4cadee0edeaaf440b7ee754e3f1357"
+    },
+    "sources/revision_v4/downloadfile_1_b90ecec811.pdf": {
+      "bytes": 6625256,
+      "sha256": "b90ecec8117e48a67fea7d4058456972481d3ff14f862b1404b24173a6a6b778"
+    },
+    "sources/revision_v4/roneo_CM2_Techniques_en_BIO_CELL_26_LBH_CG_corrigees_b98a9ee425.pdf": {
+      "bytes": 4778763,
+      "sha256": "b98a9ee42582750736c0a1a2eab40f31add41d678bd8e746cc19bbce607bb5c5"
+    },
+    "sources/revision_v4/roneo_CM3_LE_CYTOSQUELETTE_CG_Actualisation_fc0c863a5c.pdf": {
+      "bytes": 2260689,
+      "sha256": "fc0c863a5c90c16a5aa60b4d5f06b0231258a61f7c89e6885f2fac85f9ebcbe7"
+    },
+    "sources/revision_v4/roneo_CM6_MP_2026_Actualisee_a9adb03638.pdf": {
+      "bytes": 2281404,
+      "sha256": "a9adb03638e36804b89b2804037fe49c0e4d0c7859183940533e1f3e71cb9780"
+    },
+    "sources/revision_v4/roneo_CM9_le_cycle_cellulaire_2026_Actualisee_ad8f79c400.pdf": {
+      "bytes": 1892893,
+      "sha256": "ad8f79c4001560b2f61a12441e0012f11e2dc0a97dcbad447d4ba045daa66287"
     },
     "static/annales_ue2_100_18a86ce8d2.webp": {
       "bytes": 59432,
@@ -10945,6 +12005,10 @@
       "bytes": 60496,
       "sha256": "0eb25bb695d9a8cc752f9c37ed77f3de975bd8c80d7ef37d64419bd02a93f011"
     },
+    "static/emb_v4_ann_s2_13.png": {
+      "bytes": 59648,
+      "sha256": "db585d0aabc5b3eefbe13a9a85a67f9ee9f9519fc2375f34d8eaf4e9628f562b"
+    },
     "static/emb_verified_ann_s1_photos.png": {
       "bytes": 492042,
       "sha256": "af65013ec4cd8a5e6b33f10a95a2523125c87ea2cba5cc5d539ac4bf41c56071"
@@ -11712,6 +12776,86 @@
     "static/ue2_ue2_traduction_autotest_q007_page02_image1.webp": {
       "bytes": 4492,
       "sha256": "aa28d04ad36b534a3d709a5ae4a444ed207c01ea839d7f34937f87815e03187d"
+    },
+    "static/v4_bio_ann_cm10_002_figure_legende.png": {
+      "bytes": 346208,
+      "sha256": "853fdf8d7ea082e9df44e9762266d7e81cf926b0ddc21c3bf20c6b04ac57b48a"
+    },
+    "static/v4_bio_ann_cm10_003_figure_legende.png": {
+      "bytes": 612029,
+      "sha256": "bcbbf5656d761e7e8804c5771c40da6978e7b9145a1c210653c10cc18e5de5b3"
+    },
+    "static/v4_bio_ann_cm10_008_figure_legende.png": {
+      "bytes": 275587,
+      "sha256": "3900ab77cccf1710220cf3c0dba37b4627471e16d7411b417f98161aed8efb70"
+    },
+    "static/v4_bio_ann_cm10_009_tableau_legende.png": {
+      "bytes": 57985,
+      "sha256": "03dd28b620ed3bf96447b283d2947ef51cd407122bda09f5d2dfe3235eb73f34"
+    },
+    "static/v4_bio_ann_cm10_010_figure_legende.png": {
+      "bytes": 270262,
+      "sha256": "9548f91c8ab201cade73116cdc69d128ddb63d7e385e1fd4c99a62d3ba0adc38"
+    },
+    "static/v4_bio_ann_cm3_q13_figure3.png": {
+      "bytes": 102677,
+      "sha256": "24899e51d9b9a0f3f7faa5a8fe98ccd093c5f2f98a38126d3f261986da525e28"
+    },
+    "static/v4_bio_ann_cm3_q3_B.png": {
+      "bytes": 195506,
+      "sha256": "47fb0fb5fe0be1e010aad8a327315b6bcfc0606d13e95610a388ad036ea272c8"
+    },
+    "static/v4_bio_ann_cm3_q3_C.png": {
+      "bytes": 127550,
+      "sha256": "fea19cb1179c364751a8bfd3bc315afd3a7b29e1d013ec23ebdfba8c82095092"
+    },
+    "static/v4_bio_ann_cm3_q8_figure5.png": {
+      "bytes": 412521,
+      "sha256": "1b05a1383c00ce9eaf53b17171b1f9aa838344cd9505434661abdbe2e3481d70"
+    },
+    "static/v4_bio_ann_cm4_q4_protein.png": {
+      "bytes": 104654,
+      "sha256": "7aa1bb379de76601b8ee3cad9e2cfdc8b61dcea28e4450cbb5c1525a04c064b4"
+    },
+    "static/v4_bio_ann_cm5_q4_arrows.png": {
+      "bytes": 294526,
+      "sha256": "85bd47733618b1727b7c2f55595c5e49f8f6f17b589428c3c159f816303563d8"
+    },
+    "static/v4_bio_ann_cm6_002_triglyceride.png": {
+      "bytes": 168142,
+      "sha256": "141e8f3a96cede2331daa33155ada1e1804373cbf8d7a40882834d93b7fcb528"
+    },
+    "static/v4_bio_ann_cm6_007_C.png": {
+      "bytes": 13110,
+      "sha256": "a32eb38f2bf995d98caede9503cdffc3bd1d4c0526222938d13f9b0406cd15f7"
+    },
+    "static/v4_bio_ann_cm6_007_D.png": {
+      "bytes": 21000,
+      "sha256": "de9ce88af88527959580fdb49156e7a9b32ab1edb261a7d4b2913aefe2b59cd6"
+    },
+    "static/v4_bio_ann_cm6_024_A.png": {
+      "bytes": 124222,
+      "sha256": "699bf7d4fa0183fa8321b85945249cef44f56099225eca61fd887b8d06137adb"
+    },
+    "static/v4_bio_cm6_q3_glycerol.png": {
+      "bytes": 9809,
+      "sha256": "a67308d70b9b78443b9457631ed647f9ebb279acbfc5a066df9caee9b2299585"
+    },
+    "static/v4_bio_cm8_q6_rendered.png": {
+      "bytes": 202268,
+      "sha256": "2afd55c4b6d75a7dde14c07bee72ed2bb90d779c970b3239241b4f47b21e51b2"
+    },
+    "static/v4_histo_ann_te_q11_panels.png": {
+      "bytes": 267058,
+      "sha256": "bbd6e0f9f16664d89aea83deec6f16220ce85a697a109e01ebc3a11f71e77ee6"
+    },
+    "static/v4_histo_ann_tech_q25_original.png": {
+      "bytes": 459414,
+      "sha256": "e3ba9876ba906b00c8ac47886d97747638118bfdc08781ff9a1e2e0d0ba9358b"
+    },
+    "static/v4_histo_tn3_q7_labels.png": {
+      "bytes": 255209,
+      "sha256": "5a89357bcb8ed1725fac78b84bf8caad9b4dc6fc8e15bad1dfd44bf7999b174b"
     }
   }
 }

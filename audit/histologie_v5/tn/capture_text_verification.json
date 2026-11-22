@@ -1,0 +1,2542 @@
+{
+  "comparisons": 362,
+  "passed": 362,
+  "failed": 0,
+  "method": "Chaque paragraphe original intégral comparé au texte de sa capture, espaces/ponctuation/symboles non alphanumériques ignorés.",
+  "items": [
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 1,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 2,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 3,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 4,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 5,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 6,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 7,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 8,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 9,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 10,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 11,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 12,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 13,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 14,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 15,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn1",
+      "id": 16,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 1,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 2,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 3,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "F",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 4,
+      "item": "F",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "F",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "G",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "F",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 5,
+      "item": "G",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "F",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "G",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "F",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 6,
+      "item": "G",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 7,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "F",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 8,
+      "item": "F",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "F",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "G",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "F",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 9,
+      "item": "G",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "F",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "G",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "H",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "F",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "G",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn2",
+      "id": 10,
+      "item": "H",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 1,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 2,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 3,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 4,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 5,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 6,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 7,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "A",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "B",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "C",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "D",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "E",
+      "side": "subject",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "A",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "B",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "C",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "D",
+      "side": "correction",
+      "matches": true
+    },
+    {
+      "bank": "histo.tn3",
+      "id": 8,
+      "item": "E",
+      "side": "correction",
+      "matches": true
+    }
+  ]
+}

@@ -1,0 +1,2272 @@
+{
+  "banks": {
+    "histo.te1": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie sur les épithéliums vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules épithéliales sont étroitement juxtaposées et jointives"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules épithéliales disposées en une simple couche sont polarisées"
+            },
+            {
+              "id": "C",
+              "text": "La face apicale de la cellule épithéliale se trouve soit à la surface du corps soit au contact de la lumière d’une cavité naturelle"
+            },
+            {
+              "id": "D",
+              "text": "Chaque cellule épithéliale est entourée d’une membrane basale"
+            },
+            {
+              "id": "E",
+              "text": "Le domaine baso-latéral de la cellule épithéliale est isolé du domaine apical par des systèmes de jonction"
+            }
+          ],
+          "answer": "ABCE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. attention les cellules des épithéliums pluristratifiés ne sont pas toutes polarisées, surtout celles des couches intermédiaires",
+            "C": "Vrai.",
+            "D": "Faux. seules les cellules de la couche basale pour les épithéliums pluristratifiés reposent sur la membrane basale, pour les E simples, les cellules reposent sur la membrane basale par leur pôle basal uniquement, elles ne sont pas entourées",
+            "E": "Vrai. notamment les jonctions serrées"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 1
+        },
+        {
+          "id": 2,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie sur les épithéliums vous pouvez dire que:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le pôle apical des cellules d’un épithélium simple est en contact avec la membrane basale"
+            },
+            {
+              "id": "B",
+              "text": "certains tissus épithéliaux présentent une protection chimique leur conférant par exemple une résistance contre le froid"
+            },
+            {
+              "id": "C",
+              "text": "La protection mécanique est plutôt assurée par des épithéliums (pluri)stratifiés"
+            },
+            {
+              "id": "D",
+              "text": "Certains épithéliums ont à la fois un rôle de sécrétion et un rôle de revêtement"
+            },
+            {
+              "id": "E",
+              "text": "Les épithéliums alvéolaires pulmonaires sont impliqués dans les échanges air/sang"
+            }
+          ],
+          "answer": "CDE",
+          "explanations": {
+            "A": "Faux. avec la lumière d’un tube",
+            "B": "Faux. dans ce cas protection mécanique",
+            "C": "Vrai.",
+            "D": "Vrai. c’est le cas des cellules glandulaires sécrétrices au sein d’un épithélium simple comme les cellules des glandes salivaires",
+            "E": "Vrai. au niveau des alvéoles l’O2 inspiré passe dans le sang des capillaires, et le CO2 dissous dans le sang des capillaires passe sous forme gazeuse dans l’alvéole pulmonaire"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 2
+        },
+        {
+          "id": 3,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "D’après vos connaissances sur les cils, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ils sont immobiles"
+            },
+            {
+              "id": "B",
+              "text": "L’axonème du cil est dépourvu de doublet de microtubules central"
+            },
+            {
+              "id": "C",
+              "text": "Dans le doublet central il y a deux microtubules complets"
+            },
+            {
+              "id": "D",
+              "text": "Dans les doublets périphériques le microtubule incomplet est le microtubule A"
+            },
+            {
+              "id": "E",
+              "text": "La racine ciliaire s’enfonce dans le cytoplasme au pôle apical de la cellule polarisée"
+            }
+          ],
+          "answer": "CE",
+          "explanations": {
+            "A": "Faux.",
+            "B": "Faux. c’est le corpuscule basal qui en est dépourvu",
+            "C": "Vrai.",
+            "D": "Faux. c’est le B qui n’a que 11 protofilaments au lieu de 13",
+            "E": "Vrai. comprendre qu’on veut dire que la racine ciliaire s’enfonce depuis le pôle apical"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 3
+        },
+        {
+          "id": 4,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "Certains épithéliums sont dits apparentés, cochez les propositions qui vous semblent correctes",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules endothéliales ne présentent pas systématiquement des JS contrairement aux cellules épithéliales"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules endothéliales tapissent les cavités cardio-vasculaires"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules épithéliales des systèmes cardiovasculaires sont des cellules endothéliales avec des FI de cytokératine"
+            },
+            {
+              "id": "D",
+              "text": "Les cavités coelomiques sont tapissées par des cellules mésothéliales avec des FI de cytokératine et vimentine, elles sont phagocytaires"
+            },
+            {
+              "id": "E",
+              "text": "Les cellules mésothéliales sont dépourvues de Membrane Basale"
+            }
+          ],
+          "answer": "ABE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. et certains capillaires sont discontinus et présentent une MB discontinue",
+            "C": "Faux. FI de vimentine",
+            "D": "Faux. pas de cytokératine",
+            "E": "Vrai. (attention cette année a retiré l’info dans son ppt, ne posera peut-être pas de question dessus)"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.te1",
+              "id": 4,
+              "items": [
+                "E"
+              ],
+              "kind": "outdated_reference",
+              "text": "Item E : la clé retient l’absence de membrane basale du mésothélium, mais le tableau de la ronéo actualisée ne donne plus cette information : la case porte « a retiré la légende ». La source signale elle-même ce retrait. À vérifier dans la ronéo auprès de l’enseignant ; cette ancienne réponse ne doit pas être présentée comme confirmée par le cours actuel.",
+              "refs": [
+                {
+                  "file": "Tissu épithélial 1 - CG ACTUALISE.pdf",
+                  "page": 5,
+                  "label": "Tableau comparatif épithélium, endothélium, mésothélium",
+                  "href": "sources/revision_v4/Tissu_epithelial_1_CG_ACTUALISE_32f70cbe4a.pdf#page=5"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : ABE",
+              "reviewedItemText": {
+                "E": "Les cellules mésothéliales sont dépourvues de Membrane Basale"
+              },
+              "reviewedExplanation": {
+                "E": "Vrai. (attention cette année a retiré l’info dans son ppt, ne posera peut-être pas de question dessus)"
+              },
+              "noteId": "ue5-001"
+            }
+          ],
+          "sourceQuestionNumber": 4
+        },
+        {
+          "id": 5,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie, vous pouvez dire A propos des microvillosités :",
+          "options": [
+            {
+              "id": "A",
+              "text": "ce sont des projections digitiformes de la membrane cellulaire"
+            },
+            {
+              "id": "B",
+              "text": "les microvillosités sont trop petites pour être bien visibles en MO"
+            },
+            {
+              "id": "C",
+              "text": "le faisceau axial d’actine est relié à la membrane par la calmoduline et la myosine 1"
+            },
+            {
+              "id": "D",
+              "text": "ces projections digitiforme de la Membrane Plasmique sont toujours isolées à disposition irrégulières, quels que soient les tissus"
+            },
+            {
+              "id": "E",
+              "text": "on peut les mettre en évidence en MO avec des anticorps anti-actine marqués"
+            }
+          ],
+          "answer": "ABCE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. taille 0,5 à 1 micron, on les voit au MET",
+            "C": "Vrai.",
+            "D": "Faux. dans le TD : plateau strié où elles sont espacés régulièrement",
+            "E": "Vrai. voir cours Techniques Histo"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 6
+        },
+        {
+          "id": 6,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie, vous pouvez dire A propos des microvillosités :",
+          "options": [
+            {
+              "id": "A",
+              "text": "elles sont systématiques dans les épithéliums impliqués dans les échanges"
+            },
+            {
+              "id": "B",
+              "text": "les protéines de rassemblement entre microfilaments d’actine sont la villine et fimbrine"
+            },
+            {
+              "id": "C",
+              "text": "elles sont disposées en bordure en brosse dans le tube contourné proximal du néphron"
+            },
+            {
+              "id": "D",
+              "text": "le faisceau axial de microfilaments d’actine de la microvillosité, est en continuité avec le réseau dense d’actine sous membranaire = la plaque terminale"
+            },
+            {
+              "id": "E",
+              "text": "elles sont mobiles"
+            }
+          ],
+          "answer": "ABCD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. et la fascine",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. immobiles"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 7
+        },
+        {
+          "id": 7,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie sur les épithéliums vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le tissu de revêtement du tractus respiratoire est de type cylindrique simple et toutes les cellules atteignent la surface"
+            },
+            {
+              "id": "B",
+              "text": "L’endocarde est formé de cellules pavimenteuses qui reposent sur un chorion"
+            },
+            {
+              "id": "C",
+              "text": "Les endothéliums présentent systématiquement des jonctions serrées"
+            },
+            {
+              "id": "D",
+              "text": "Les endothéliums qui tapissent les cavités internes des vaisseaux sanguins reposent sur une membrane basale qui est une structure lamellaire et continue"
+            },
+            {
+              "id": "E",
+              "text": "Tous les épithéliums et ses apparentés ne présentent pas des filaments intermédiaires de cytokératine"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "A": "Faux. il est pseudostratifié toutes les cellules touchent la membrane basale mais n’atteignent pas forcément la lumière",
+            "B": "Faux. sur une couche sous endothéliale",
+            "C": "Faux. pas systématiques",
+            "D": "Faux. elle n’est pas systématiquement continue quand elle est sous les endothéliums",
+            "E": "Vrai. endothéliums et mésothéliums vimentine"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 8
+        },
+        {
+          "id": 8,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances sur les épithéliums du tractus respiratoire vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "C’est un épithélium stratifié"
+            },
+            {
+              "id": "B",
+              "text": "C’est un épithélium simple cubique présentant une bordure en brosse"
+            },
+            {
+              "id": "C",
+              "text": "Le pôle apical présente des stéréocils qui sont de longues microvillosités"
+            },
+            {
+              "id": "D",
+              "text": "Le tapis mucociliaire est animé par un mouvement synchrone des cils"
+            },
+            {
+              "id": "E",
+              "text": "Les noyaux des cellules sont à des niveaux différents donnant un aspect pluristratifié à cet épithélium"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "A": "Faux. pseudostratifié toutes les cellules touchent la MB mais toutes n’atteignent pas la lumière",
+            "B": "Faux. simple cylindrique pseudo-stratifié",
+            "C": "Faux. des cils",
+            "D": "Faux. (attention si on raisonne à l’échelle de la cellule ou du tissu)",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 9
+        },
+        {
+          "id": 9,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances sur les épithéliums malpighiens, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "C’est un épithélium stratifié pavimenteux"
+            },
+            {
+              "id": "B",
+              "text": "La couche basale cubique repose sur la membrane basale"
+            },
+            {
+              "id": "C",
+              "text": "Le tissu conjonctif sous-jacent est un chorion"
+            },
+            {
+              "id": "D",
+              "text": "Les cellules de cet épithélium sont toutes vivantes et uni-nucléées"
+            },
+            {
+              "id": "E",
+              "text": "On les retrouve dans le rein"
+            }
+          ],
+          "answer": "ABCD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. cavités internes en relation avec milieu ext(buccale, oeso, anal, vagin)"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 10
+        },
+        {
+          "id": 10,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie, les organes présentant un épithélium malpighien sont notamment :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La cavité buccale"
+            },
+            {
+              "id": "B",
+              "text": "Le canal anal"
+            },
+            {
+              "id": "C",
+              "text": "L’oesophage"
+            },
+            {
+              "id": "D",
+              "text": "La trachée"
+            },
+            {
+              "id": "E",
+              "text": "La paroi des canaux des glandes salivaires parotides"
+            }
+          ],
+          "answer": "ABC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. simple pseudostratifié cilié",
+            "E": "Faux. cubique stratifié"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 11
+        },
+        {
+          "id": 11,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances sur les épithéliums transitionnels vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules de la couche superficielle sont arrondies et parfois binucléées"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules des couches intermédiaires sont polygonales"
+            },
+            {
+              "id": "C",
+              "text": "Cet épithélium est cylindrique simple"
+            },
+            {
+              "id": "D",
+              "text": "Les cellules de la couche superficielle présentent des plaques d’uroplakine qui est une protéine hydrophobe"
+            },
+            {
+              "id": "E",
+              "text": "Cet épithélium est particulièrement étanche grâce à des inter-digitations entre les cellules et des systèmes de jonctions"
+            }
+          ],
+          "answer": "ABDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. il présente 3 couches de cellules",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 12
+        },
+        {
+          "id": 12,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances sur l’épiderme, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "C’est un épithélium cylindrique stratifié"
+            },
+            {
+              "id": "B",
+              "text": "Seules les couches les plus superficielles sont pavimenteuses"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules en surface de l’épiderme sont kératinisées et vivantes"
+            },
+            {
+              "id": "D",
+              "text": "La couche la plus profonde est cylindrique"
+            },
+            {
+              "id": "E",
+              "text": "La kératinisation est une accumulation de lipides intracellulaires"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. stratifié pavimenteux kératinisé",
+            "B": "Vrai.",
+            "C": "Faux. kératinisées et mortes",
+            "D": "Faux. cubique",
+            "E": "Faux. de protéines = kératine"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 13
+        },
+        {
+          "id": 13,
+          "category": "Autotest TE1",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances sur les épithéliums pavimenteux, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules pavimenteuses sont peu épaisses, de l’ordre de 2 microns"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules pavimenteuses tapissent les alvéoles pulmonaires"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules pavimenteuses tapissent le tube contourné proximale du néphron"
+            },
+            {
+              "id": "D",
+              "text": "L’intima est formé de cellules pavimenteuses"
+            },
+            {
+              "id": "E",
+              "text": "Le noyau des cellules pavimenteuse est aplati et périphérique"
+            }
+          ],
+          "answer": "BD",
+          "explanations": {
+            "A": "Faux. 0,2 micron",
+            "B": "Vrai.",
+            "C": "Faux. de la anse de henlé (microvillosités dans TCP du nephron)",
+            "D": "Vrai. (endothélium des vaisseaux)",
+            "E": "Faux. central"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "Colle orale non corrigée TE1.docx",
+          "sourceCorrection": "Colle orale corrigée TE1.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 14
+        }
+      ]
+    },
+    "histo.te2": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie sur les entérocytes (cours 2), vous pouvez dire",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les entérocytes (vu en bio cell FPU) sont des cellules épithéliales de l’intestin grêle"
+            },
+            {
+              "id": "B",
+              "text": "Ce sont des cellules cubiques"
+            },
+            {
+              "id": "C",
+              "text": "Ce sont des cellules polarisées"
+            },
+            {
+              "id": "D",
+              "text": "Elles présentent au pôle apical des microvillosités"
+            },
+            {
+              "id": "E",
+              "text": "Elles sont ciliées"
+            }
+          ],
+          "answer": "ACD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. cylindriques",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 1
+        },
+        {
+          "id": 2,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "La polarité cellulaire",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les glandes exocrines libèrent leur sécrétion sur tout le pourtour cellulaire"
+            },
+            {
+              "id": "B",
+              "text": "La face apicale est morphologiquement variable d’un épithélium à l’autre"
+            },
+            {
+              "id": "C",
+              "text": "La face apicale est la moins significative de la fonction d’un épithélium donné"
+            },
+            {
+              "id": "D",
+              "text": "Le domaine apical est spécialisé dans les échanges avec le sang"
+            },
+            {
+              "id": "E",
+              "text": "La zonula occludens délimite le pole apical du pole baso-latéral"
+            }
+          ],
+          "answer": "BE",
+          "explanations": {
+            "A": "Faux. essentiellement au niveau du pôle apical en relation avec la lumière de l’organe",
+            "B": "Vrai. il peut y avoir des cils, des microvillosités …",
+            "C": "Faux. au contraire très significative",
+            "D": "Faux. c’est le pôle basal, via la mb basale",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 2
+        },
+        {
+          "id": 3,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les molécules suivantes appartiennent aux plaques cytoplasmiques des desmosomes maculaires :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cadhérine"
+            },
+            {
+              "id": "B",
+              "text": "plakoglobine"
+            },
+            {
+              "id": "C",
+              "text": "Plectine"
+            },
+            {
+              "id": "D",
+              "text": "Les claudines"
+            },
+            {
+              "id": "E",
+              "text": "Les ZO1"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. espace intercellulaire. Plaque : plakoglobines",
+            "B": "Vrai.",
+            "C": "Faux. uniquement dans hémidesmosome",
+            "D": "Faux. JS",
+            "E": "Faux. dans les jonctions serrées"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 3
+        },
+        {
+          "id": 4,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les hémidesmosomes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ils permettent l’accrochage de la cellule à la membrane basale"
+            },
+            {
+              "id": "B",
+              "text": "Sont visibles en MO"
+            },
+            {
+              "id": "C",
+              "text": "Comme les desmosomes ils sont solidaires des filaments intermédiaires"
+            },
+            {
+              "id": "D",
+              "text": "Les intégrines transmembranaires s’accrochent directement aux filaments intermédiaires"
+            },
+            {
+              "id": "E",
+              "text": "Les intégrines sont des protéines transmembranaires"
+            }
+          ],
+          "answer": "ACE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. uniquement en ME",
+            "C": "Vrai.",
+            "D": "Faux. il existe une plaque cytoplasmique entre la partie cytoplasmique de l’intégrine et les FI",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 4
+        },
+        {
+          "id": 5,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les protéines suivantes appartiennent aux jonctions serrées :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Desmocolline"
+            },
+            {
+              "id": "B",
+              "text": "Caténines"
+            },
+            {
+              "id": "C",
+              "text": "Paxilline"
+            },
+            {
+              "id": "D",
+              "text": "Claudine"
+            },
+            {
+              "id": "E",
+              "text": "Occludine"
+            }
+          ],
+          "answer": "DE",
+          "explanations": {
+            "A": "Faux. sur desmososmes",
+            "B": "Faux. zonula adherens, ceinture d’adhérence",
+            "C": "Faux. contact en foyer/focaux",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 5
+        },
+        {
+          "id": 6,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les contacts intercellulaires :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’espace intercellulaire des jonctions serrées est élargi"
+            },
+            {
+              "id": "B",
+              "text": "Les jonctions serrées ont un rôle de barrière physiologique étanche et maintiennent la polarité des cellules épithéliales."
+            },
+            {
+              "id": "C",
+              "text": "L’espace intercellulaire au niveau des jonctions communicantes est réduit à 5/6 nm"
+            },
+            {
+              "id": "D",
+              "text": "L’espace intercellulaire au niveau des desmosomes maculaires est élargie"
+            },
+            {
+              "id": "E",
+              "text": "La zonula adhérens ne présente pas d’élargissement de l’espace intercellulaire à son niveau"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. il y a fusion des membranes externes des deux cellules adjacentes à leur niveau. 100 à 300nm",
+            "B": "Vrai.",
+            "C": "Faux. 2/4nm",
+            "D": "Faux. c’est l’espace normal, il est élargi à 20/30nm",
+            "E": "Faux. un espace intercellulaire non étanche élargi"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.te2",
+              "id": 6,
+              "items": [
+                "D"
+              ],
+              "kind": "roneo_conflict",
+              "text": "Item D : les deux documents ne posent pas exactement la même proposition. Le sujet dit seulement « l’espace intercellulaire au niveau des desmosomes maculaires est élargie ». Le corrigé ajoute « à 10/20 nm », puis répond Faux et précise 20–30 nm. Ce Faux porte donc sur la valeur ajoutée dans le corrigé. La ronéo confirme un espace élargi de 20–30 nm. La clé officielle est conservée, mais elle ne répond pas fidèlement à l’item du sujet ; à vérifier dans la ronéo.",
+              "refs": [
+                {
+                  "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+                  "page": 6,
+                  "label": "Desmosomes maculaires, p. imprimée 27",
+                  "href": "sources/revision_v4/Tissu_epithelial_2_CG_ACTUALISE_934413563c.pdf#page=6"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : B",
+              "reviewedItemText": {
+                "D": "L’espace intercellulaire au niveau des desmosomes maculaires est élargie"
+              },
+              "reviewedExplanation": {
+                "D": "Faux. c’est l’espace normal, il est élargi à 20/30nm"
+              },
+              "courseVerdict": "Espace intercellulaire élargi de 20 à 30 nm.",
+              "noteId": "ue5-002"
+            }
+          ],
+          "sourceQuestionNumber": 6
+        },
+        {
+          "id": 7,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Tissu épithélial : En fonction de vos connaissances générales en histologie vous pouvez dire que l’épithélium de la paroi de l’oesophage montre les caractéristiques suivantes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les filaments d’actine du cytosquelette sont reliés aux jonctions serrées, aux zonula adhérens et aux contacts en foyers"
+            },
+            {
+              "id": "B",
+              "text": "Les contacts en foyer des couches intermédiaires sont solidarisés au cytosquelette d’actine via l’actinine"
+            },
+            {
+              "id": "C",
+              "text": "Les intégrines transmembranaires permettent l’accrochage des cellules épithéliales à la plectine et/ ou à la fibronectine de la membrane basale"
+            },
+            {
+              "id": "D",
+              "text": "Les jonctions serrées impliquées dans la polarité morpho-fonctionnelle des cellules épithéliales montrent des protéines transmembranaires de types ZO1, ZO2 et ZO3"
+            },
+            {
+              "id": "E",
+              "text": "Les jonctions serrées permettent le passage d’eau entre deux cellules adjacentes"
+            }
+          ],
+          "answer": "AC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. uniquement la couche la plus basale celle qui est accrochée à la membrane basale via des intégrines est concernée",
+            "C": "Vrai. pour les hémi-desmosomes et les contacts en foyer",
+            "D": "Faux. ces protéines ZO sont des protéines intracytoplasmiques accrochées directement aux claudine et occludine et à l’actine via la cinguline",
+            "E": "Faux."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.te2",
+              "id": 7,
+              "items": [
+                "C"
+              ],
+              "kind": "roneo_conflict",
+              "text": "Item C : la plectine n’est pas une molécule de la membrane basale. La ronéo la situe dans la plaque cytoplasmique de l’hémidesmosome, entre les intégrines et les filaments intermédiaires. La fibronectine est, elle, un partenaire extracellulaire. La formulation validée par la source confond ces deux côtés de l’adhérence.",
+              "refs": [
+                {
+                  "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+                  "page": 7,
+                  "label": "Hémidesmosomes, p. imprimée 28",
+                  "href": "sources/revision_v4/Tissu_epithelial_2_CG_ACTUALISE_934413563c.pdf#page=7"
+                },
+                {
+                  "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+                  "page": 5,
+                  "label": "Contacts en foyer, p. imprimée 26",
+                  "href": "sources/revision_v4/Tissu_epithelial_2_CG_ACTUALISE_934413563c.pdf#page=5"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : AC",
+              "reviewedItemText": {
+                "C": "Les intégrines transmembranaires permettent l’accrochage des cellules épithéliales à la plectine et/ ou à la fibronectine de la membrane basale"
+              },
+              "reviewedExplanation": {
+                "C": "Vrai. pour les hémi-desmosomes et les contacts en foyer"
+              },
+              "noteId": "ue5-003"
+            }
+          ],
+          "sourceQuestionNumber": 7
+        },
+        {
+          "id": 8,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Tissu épithélial, En fonction de vos connaissances générales en histologie sur les glandes vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules caliciformes de l’épithélium duodénal sont des cellules glandulaires isolées"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules de Leydig sont des cellules glandulaires endocrines isolées situées dans la paroi des tubes séminifères"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules myoépithéliales sont des cellules glandulaires"
+            },
+            {
+              "id": "D",
+              "text": "Les glandes amphicrines comme le foie présentent à la fois un canal excréteur et à la fois une grande vascularisation"
+            },
+            {
+              "id": "E",
+              "text": "La thyroïde est une glande endocrine individualisée qui sécrète les hormones thyroïdiennes"
+            }
+          ],
+          "answer": "ADE",
+          "explanations": {
+            "A": "Vrai. idem pour épithélium respiratoire, vu avec la coloration de PAS !!",
+            "B": "Faux. elles sont groupées en amas",
+            "C": "Faux. cellules avec des caractéristiques contractiles qui concourent à la sortie du produit sécrété",
+            "D": "Vrai. endo et exocrine",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 8
+        },
+        {
+          "id": 9,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Des jonctions communicantes sont présentes entre les cellules de l’épithélium gastrique on peut affirmer à propos de cette jonction intercellulaire :",
+          "options": [
+            {
+              "id": "A",
+              "text": "elle augmente l’espace intercellulaire"
+            },
+            {
+              "id": "B",
+              "text": "Elle est constitutivement ouverte"
+            },
+            {
+              "id": "C",
+              "text": "chaque canal correspond à l’alignement de deux hémidesmosomes"
+            },
+            {
+              "id": "D",
+              "text": "un connexon est constitué de 12 sous-unités protéiques les connexines"
+            },
+            {
+              "id": "E",
+              "text": "elle permet le passage des électrolytes et de l’AMPc par exemple"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "A": "Faux. elle le diminue 2-4 nm au lieu de 10-20nm",
+            "B": "Faux. régulation par gradient de Ca2+ et pH",
+            "C": "Faux. attention hémiconnexons",
+            "D": "Faux. 6",
+            "E": "Vrai. et des petits éléments . AMPc = 329 Da donc <1500Da"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.te2",
+              "id": 9,
+              "items": [
+                "B"
+              ],
+              "kind": "source_conflict",
+              "text": "Item B : le sujet original s’arrête à « Elle est constitutivement ». Le corrigé donne la phrase complète « Elle est constitutivement ouverte », classée Faux car l’ouverture est régulée par le Ca2+ et le pH. Le mot « ouverte » est rétabli dans l’item interactif à partir du corrigé ; les deux captures originales permettent de vérifier cette différence.",
+              "refs": [
+                {
+                  "file": "autotest TE2 (2).docx",
+                  "page": null,
+                  "label": "Paragraphe 60 (index à partir de 0), QCM 9 B",
+                  "href": "sources/revision_v4/autotest_TE2_2_d3be7eb93e.docx"
+                },
+                {
+                  "file": "correction autotest TE2 25.docx",
+                  "page": null,
+                  "label": "Paragraphe 62 (index à partir de 0), QCM 9 B",
+                  "href": "sources/revision_v4/correction_autotest_TE2_25_28aae8db92.docx"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : E",
+              "reviewedItemText": {
+                "B": "Elle est constitutivement ouverte"
+              },
+              "reviewedExplanation": {
+                "B": "Faux. régulation par gradient de Ca2+ et pH"
+              },
+              "noteId": "ue5-004"
+            }
+          ],
+          "sourceQuestionNumber": 9
+        },
+        {
+          "id": 10,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les desmosomes maculaires :",
+          "options": [
+            {
+              "id": "A",
+              "text": "C’est une structure de jonction commune à tous les épithéliums"
+            },
+            {
+              "id": "B",
+              "text": "C’est une structure symétrique"
+            },
+            {
+              "id": "C",
+              "text": "Ils sont reliés aux filaments intermédiaires du cytosquelette"
+            },
+            {
+              "id": "D",
+              "text": "La plaque cytoplasmique est la ligne dense"
+            },
+            {
+              "id": "E",
+              "text": "Les cadhérines transmembranaires sont responsables de la présence de la ligne dense cytoplasmique"
+            }
+          ],
+          "answer": "ABC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. chevauchement des extrémités des cadhérines",
+            "E": "Faux. ligne dense extracellulaire"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 10
+        },
+        {
+          "id": 11,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les jonctions suivantes sont reliées aux microfilaments d’actine cellulaires :",
+          "options": [
+            {
+              "id": "A",
+              "text": "les jonctions serrées"
+            },
+            {
+              "id": "B",
+              "text": "les zonula adhérens"
+            },
+            {
+              "id": "C",
+              "text": "les desmosomes maculaires"
+            },
+            {
+              "id": "D",
+              "text": "les contacts en foyer"
+            },
+            {
+              "id": "E",
+              "text": "les jonctions communicantes"
+            }
+          ],
+          "answer": "ABD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. FI : filaments intermédiaires.",
+            "D": "Vrai.",
+            "E": "Faux. aucune liaison avec le cytosquelette"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 11
+        },
+        {
+          "id": 12,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "D’après vos connaissances en histologie sur la biologie des épithéliums, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules de Merkel présentes dans le tissu épithélial, transmettent des informations sur le toucher aux terminaisons nerveuses libres qui proviennent du tissu conjonctif sous-jacent"
+            },
+            {
+              "id": "B",
+              "text": "Les papilles dermiques sont des replis du tissu épithélial stratifié, elles permettent de diminuer la distance entre le tissu conjonctif et les cellules de la couche basale du tissu épithélial"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules souches permettent le renouvellement des cellules épithéliales mortes, elles sont situées au contact de la membrane basale"
+            },
+            {
+              "id": "D",
+              "text": "La vitesse de renouvellement des cellules épithéliales intestinales est de 48 jours"
+            },
+            {
+              "id": "E",
+              "text": "Les cellules souches sont bloquées en phase S du cycle cellulaire"
+            }
+          ],
+          "answer": "AC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. les cellules des couches les plus superficielles du tissu épithélial",
+            "C": "Vrai.",
+            "D": "Faux. 48 heures",
+            "E": "Faux. en phase G0, elles sont quiescentes, la phase S est une phase active de la réplication de l’ADN"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 12
+        },
+        {
+          "id": 13,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "D’après vos connaissances en histologie sur la membrane basale, vous pouvez dire que les éléments suivants constituent la membrane basale :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les fibres élastiques"
+            },
+            {
+              "id": "B",
+              "text": "Le collagène IV"
+            },
+            {
+              "id": "C",
+              "text": "Les lamines"
+            },
+            {
+              "id": "D",
+              "text": "Le perlécan qui est un GAG"
+            },
+            {
+              "id": "E",
+              "text": "Les intégrines"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. MEC",
+            "B": "Vrai.",
+            "C": "Faux. attention les lamines sont des FI de la lamina nucléaire, il s’agit ici des laminines",
+            "D": "Faux. un protéoglycane, voir TC1",
+            "E": "Faux. ces protéines sont transmembranaires et viennent s’accrocher sur les fibronectines de la MB"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 13
+        },
+        {
+          "id": 14,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "D’après vos connaissances en histologie et notamment sur la membrane basale, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "En MET, la membrane basale au niveau du glomérule des néphrons du rein présente une épaisseur de 50 à 800nm"
+            },
+            {
+              "id": "B",
+              "text": "la lamina lucida est dense aux électrons car elle est riche en GAG"
+            },
+            {
+              "id": "C",
+              "text": "Les intégrines transmembranaires du pôle basal des cellules épithéliales viennent s’accrocher aux protéines de la lamina lucida"
+            },
+            {
+              "id": "D",
+              "text": "La membrane basale joue un rôle de barrière entre le TC et le TE sus-jacent, elle évite le passage de nombreux éléments en provenance du TC"
+            },
+            {
+              "id": "E",
+              "text": "La lamina fibro reticularis fusionne avec le tissu conjonctif sous-jacent"
+            }
+          ],
+          "answer": "ACE",
+          "explanations": {
+            "A": "Vrai. car il y a fusion de la MB des cellules endothéliales des capillaires + cellules épithéliales du néphron",
+            "B": "Faux. peu dense mais bien riche en GAG",
+            "C": "Vrai. la plus externe vers le TE",
+            "D": "Faux. au contraire c’est un tamis moléculaire qui laisse passer les gaz et les nutriments sanguins et facteurs de croissance depuis le TC",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 14
+        },
+        {
+          "id": 15,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "A partir de vos connaissances en histologie sur les épithéliums vous pouvez dire que les cellules souches des épithéliums présentent les caractéristiques suivantes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Elles présentent une capacité de division importante"
+            },
+            {
+              "id": "B",
+              "text": "Elles sont polarisées"
+            },
+            {
+              "id": "C",
+              "text": "Elles présentent les caractéristiques cytologiques des tissus épithéliaux"
+            },
+            {
+              "id": "D",
+              "text": "Elles sont différenciées"
+            },
+            {
+              "id": "E",
+              "text": "Elles ont une durée de vie brève"
+            }
+          ],
+          "answer": "AC",
+          "explanations": {
+            "A": "Vrai. elles sont à l’origine de nombreuses cellules grâce à des mitoses successives",
+            "B": "Faux. elles restent arrondies indifférenciées",
+            "C": "Vrai.",
+            "D": "Faux. indifférenciées",
+            "E": "Faux. elles régénèrent un tissu sur une longue durée"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 15
+        },
+        {
+          "id": 16,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "La polarité cellulaire",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les glandes exocrines libèrent leur sécrétion au pôle basal"
+            },
+            {
+              "id": "B",
+              "text": "La face apicale des cellules épithéliales est morphologiquement variable d’un épithélium à l’autre"
+            },
+            {
+              "id": "C",
+              "text": "La face apicale est la moins significative de la fonction d’un épithélium donné"
+            },
+            {
+              "id": "D",
+              "text": "L’oreille interne présente des stéréocils, elle est spécialisé pour capter les ondes sonores"
+            },
+            {
+              "id": "E",
+              "text": "Les jonctions serrées délimitent le pôle apical du pôle basolatéral, ce qui implique aussi une polarisation des fonctions cellulaires"
+            }
+          ],
+          "answer": "BDE",
+          "explanations": {
+            "A": "Faux. essentiellement au niveau du pôle apical en relation avec la lumière de l’organe",
+            "B": "Vrai. il peut y avoir des cils, des microvillosités …",
+            "C": "Faux. au contraire très significative",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 16
+        },
+        {
+          "id": 17,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les cellules glandulaires exocrines",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules caliciformes gastriques sont des cellules glandulaires"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules muco-sécrétantes de l’estomac sont des cellules séreuses"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules acineuses pancréatiques sont séreuses et sont mises en évidence par le réactif de Schiff"
+            },
+            {
+              "id": "D",
+              "text": "L’amylase est sécrétion séreuse des glandes salivaires"
+            },
+            {
+              "id": "E",
+              "text": "Les glandes salivaires peuvent être mixtes"
+            }
+          ],
+          "answer": "ADE",
+          "explanations": {
+            "A": "Vrai. isolées",
+            "B": "Faux. muqueuses",
+            "C": "Faux. les enzymes ne sont pas mises en évidence par le réactif de Schiff = PAS seulement le mucus. Histoenzymo",
+            "D": "Vrai. c’est une enzyme",
+            "E": "Vrai. elles sécrètent du mucus et des enzymes par des cellules différentes mais sont présentes dans le même acinus"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 17,
+          "reviewNotes": [
+            {
+              "bank": "histo.te2",
+              "id": 17,
+              "items": [
+                "A"
+              ],
+              "kind": "possible_error",
+              "text": "Item A : le corrigé retient Vrai pour « cellules caliciformes gastriques » et la ronéo emploie elle-même cette expression. La terminologie mérite toutefois une clarification : en histologie normale, les cellules mucosécrétantes de l’estomac se distinguent des cellules caliciformes ; la présence de cellules caliciformes dans la muqueuse gastrique est notamment un marqueur de métaplasie intestinale. La clé officielle est conservée. Vérifier ce vocabulaire avec la ronéo et l’enseignant, en distinguant tissu normal et contexte pathologique.",
+              "refs": [
+                {
+                  "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+                  "page": 15,
+                  "label": "Formulation de la ronéo, page imprimée 36",
+                  "href": "sources/revision_v4/Tissu_epithelial_2_CG_ACTUALISE_934413563c.pdf#page=15"
+                },
+                {
+                  "label": "Étude originale : cellules caliciformes et métaplasie intestinale gastrique (résumé, PMID 20059269)",
+                  "href": "https://pubmed.ncbi.nlm.nih.gov/20059269/"
+                }
+              ],
+              "sourceVerdict": "Clé du corrigé : ADE",
+              "noteId": "histo-v5-histo.te2-17-A"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "Les glandes endocrines",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sécrètent leurs produits dans la lumière d’une cavité interne"
+            },
+            {
+              "id": "B",
+              "text": "les cellules endocrines sont disposées en amas circulaires, en cordons ou en follicules"
+            },
+            {
+              "id": "C",
+              "text": "les cellules de Leydig forment les ilots de Langherans"
+            },
+            {
+              "id": "D",
+              "text": "les ilots de Langherans sont entourés d’une membrane basale"
+            },
+            {
+              "id": "E",
+              "text": "les follicules de la thyroïde sont formés de cellules exocrines"
+            }
+          ],
+          "answer": "BD",
+          "explanations": {
+            "A": "Faux. dans le sang",
+            "B": "Vrai. En Amas : Cellules de Leydig dans le testicule, en cordons cas de l’hypophyse, en îlots : Pancréas endocrine : les ilots de Langerhans. En follicules : cellules arrangées en bracelet, au centre on y voit la sécrétion glandulaire : cas de la Thyroïde",
+            "C": "Faux. ce terme est réservé au pancréas, mais elles sont bien en mas comme celles de ilots de L . Dans les tubes séminifères",
+            "D": "Vrai.",
+            "E": "Faux. endocrines"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.te2",
+              "id": 18,
+              "items": [
+                "C"
+              ],
+              "kind": "roneo_conflict",
+              "text": "L’item C est bien rejeté : les îlots de Langerhans appartiennent au pancréas. En revanche, l’explication localise à tort les cellules de Leydig « dans les tubes séminifères ». La ronéo les situe dans le tissu interstitiel testiculaire, entre les tubes.",
+              "refs": [
+                {
+                  "file": "Tissu épithélial 2 - CG - ACTUALISE.pdf",
+                  "page": 11,
+                  "label": "Glandes endocrines : cellules de Leydig, p. imprimée 32",
+                  "href": "sources/revision_v4/Tissu_epithelial_2_CG_ACTUALISE_934413563c.pdf#page=11"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : BD",
+              "reviewedItemText": {
+                "C": "les cellules de Leydig forment les ilots de Langherans"
+              },
+              "reviewedExplanation": {
+                "C": "Faux. ce terme est réservé au pancréas, mais elles sont bien en mas comme celles de ilots de L . Dans les tubes séminifères"
+              },
+              "noteId": "ue5-005"
+            }
+          ],
+          "sourceQuestionNumber": 18
+        },
+        {
+          "id": 19,
+          "category": "Autotest TE2",
+          "course": "Tissu épithélial (TE)",
+          "question": "A propos des cellules souches des épithéliums simples",
+          "options": [
+            {
+              "id": "A",
+              "text": "Elles présentent le même mode et la même durée de renouvellement quelque soient les épithéliums"
+            },
+            {
+              "id": "B",
+              "text": "Sont présentes dans le tissu nerveux"
+            },
+            {
+              "id": "C",
+              "text": "Après la division, les deux cellules filles migrent et perdent leur adhérence à la membrane basale"
+            },
+            {
+              "id": "D",
+              "text": "Elles se situent entre les pôles basaux des cellules épithéliales"
+            },
+            {
+              "id": "E",
+              "text": "Les cellules souches épithéliales peuvent donner soit des cellules de revêtement soit des cellules glandulaires"
+            }
+          ],
+          "answer": "BDE",
+          "explanations": {
+            "A": "Faux. le mode et la durée sont fonction des épithéliums. 48h TD et 40j trompe fallope",
+            "B": "Vrai.",
+            "C": "Faux. dans les Ep simples, les cellules après la division se déplacent mais restent en contact avec la MB",
+            "D": "Vrai.",
+            "E": "Vrai. épithéliales les 2"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": null,
+          "sourceSubject": "autotest TE2 (2).docx",
+          "sourceCorrection": "correction autotest TE2 25.docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 19
+        }
+      ]
+    },
+    "histo.autotech": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie, les étapes pour l’étude d’une coupe en paraffine en MO sont : (attention cette liste n’est pas forcément exhaustive) :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Une fixation au formol par perfusion veineuse chez le patient"
+            },
+            {
+              "id": "B",
+              "text": "L’échantillon fixé est déshydraté dans des bains d’alcool de degré décroissant"
+            },
+            {
+              "id": "C",
+              "text": "D’une immersion dans un bain de paraffine à 40°C"
+            },
+            {
+              "id": "D",
+              "text": "D’une coupe au microtome semi-automatique d’une épaisseur de 1 micron"
+            },
+            {
+              "id": "E",
+              "text": "Un dépôt sur des lames de verres pré-gélatinées"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "A": "Faux. jamais par perfusion chez un humain mais par immersion après un prélèvement sinon on tue le patient",
+            "B": "Faux. la déshydratation a lieu dans des bains d’alcool de degré croissant",
+            "C": "Faux. 57°C/60°C",
+            "D": "Faux. 3 à 5",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 1
+        },
+        {
+          "id": 2,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur la description morphologique d’une coupe en paraffine de tissu humain, les différents colorants possibles sont (attention cette liste n’est pas forcément exhaustive) :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Un anticorps marqué à un fluorochrome"
+            },
+            {
+              "id": "B",
+              "text": "Le HES qui permet de distinguer le tissu conjonctif du tissu épithélial"
+            },
+            {
+              "id": "C",
+              "text": "Le trichrome de Masson contenant notamment le rouge ponceau qui colore en vert le cytoplasme des cellules"
+            },
+            {
+              "id": "D",
+              "text": "L’éosine qui colore les noyaux cellulaires en violet"
+            },
+            {
+              "id": "E",
+              "text": "L’éosine est un colorant acide"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. ce n’est pas un colorant mais un immunomarquage",
+            "B": "Vrai.",
+            "C": "Faux. en rouge",
+            "D": "Faux. l’hématoxyline",
+            "E": "Faux. basophile"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "reviewNotes": [
+            {
+              "bank": "histo.autotech",
+              "id": 2,
+              "items": [
+                "E"
+              ],
+              "kind": "roneo_conflict",
+              "text": "Item E : le sujet dit « L’éosine est un colorant acide », tandis que le corrigé remplace « acide » par « acidophile », puis indique « Faux, basophile ». La ronéo classe l’éosine parmi les colorants acides. Le vocabulaire varie donc entre les deux documents, et le verdict officiel conservé ici contredit la formulation du sujet. À vérifier dans la ronéo : distinguer la nature acide du colorant et l’affinité tinctoriale des structures.",
+              "refs": [
+                {
+                  "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+                  "page": 17,
+                  "label": "Colorants acides et basiques : éosine et hématoxyline",
+                  "href": "sources/revision_v4/Roneo_Techniques_Histologiques_Gouriou_2026_ACTUALISEE_fc6fab116f.pdf#page=17"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : B",
+              "reviewedItemText": {
+                "E": "L’éosine est un colorant acide"
+              },
+              "reviewedExplanation": {
+                "E": "Faux. basophile"
+              },
+              "noteId": "ue5-007"
+            }
+          ],
+          "sourceQuestionNumber": 2
+        },
+        {
+          "id": 3,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur la coupe en congélation, vous pouvez dire que:",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’inclusion est réalisée par une inclusion des tissus, dans l’araldite"
+            },
+            {
+              "id": "B",
+              "text": "les coupes de 20 microns sont réalisées au cryostat"
+            },
+            {
+              "id": "C",
+              "text": "Les coupes au cryostat sont réalisées dans une enceinte à -20°C"
+            },
+            {
+              "id": "D",
+              "text": "La morphologie des coupes en congélation est meilleure que celle des coupes en résine"
+            },
+            {
+              "id": "E",
+              "text": "L’échantillon protégé par un cryoprotecteur est plongé dans l’isopentane"
+            }
+          ],
+          "answer": "BCE",
+          "explanations": {
+            "A": "Faux. pas d’inclusion dans les coupes en congelation, c’est le principe on congèle isopentane + azote liquide",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 3
+        },
+        {
+          "id": 4,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur la coupe en résine utilisée en MET, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les coupes sont traversées par un faisceau d’électrons"
+            },
+            {
+              "id": "B",
+              "text": "L’épaisseur des coupes en résine est identique pour la ME et la MO"
+            },
+            {
+              "id": "C",
+              "text": "Les coupes pour la ME sont obtenues avec un ultra-microtome"
+            },
+            {
+              "id": "D",
+              "text": "Dans la demarche de fabrication d’une coupe destinée à la ME on doit employer à un moment un milieu d’inclusion comme la résine Epoxy"
+            },
+            {
+              "id": "E",
+              "text": "La résine est utilisée à 40°C"
+            }
+          ],
+          "answer": "ACD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. semi-fines pour MO et ultrafines pour ME",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. 60°C"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 4
+        },
+        {
+          "id": 5,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie, les différents fixateurs disponibles pour une étude morphologique de tissu en microscopie optique sont :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’éthanol ou le méthanol"
+            },
+            {
+              "id": "B",
+              "text": "Le formaldéhyde"
+            },
+            {
+              "id": "C",
+              "text": "Un mélange d’acide chlorhydrique et de formol appelé liquide de Bouin"
+            },
+            {
+              "id": "D",
+              "text": "La fixation est une étape indispensable, d’une durée fixe pour tout type d’échantillon et qui permet la précipitation des protéines de l’échantillon"
+            },
+            {
+              "id": "E",
+              "text": "L’araldite"
+            }
+          ],
+          "answer": "AB",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. c’est formol + acide picrique",
+            "D": "Faux. la durée d’immersion varie selon la taille de l’échantillon",
+            "E": "Faux. c’est un des milieux d’inclusion pour les coupes en résine"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 5
+        },
+        {
+          "id": 6,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur les généralités sur les techniques, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La résolution en MO est de l’ordre de 2 microns"
+            },
+            {
+              "id": "B",
+              "text": "La résolution en ME, est de l’ordre de 0,2nm"
+            },
+            {
+              "id": "C",
+              "text": "L’analyse moléculaire in situ permet de marquer la présence de constituants biochimiques comme par exemple l’ensemble des glucides"
+            },
+            {
+              "id": "D",
+              "text": "La description morphologique des tissus ne se fait qu’en MO"
+            },
+            {
+              "id": "E",
+              "text": "La théorie cellulaire met en relief que les organes sont formés de tissus"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. 0,2 microns",
+            "B": "Vrai.",
+            "C": "Faux. l’analyse moléculaire in situ permet de marquer une molécule précisément, une protéine, un acide nucléique par exemple, c’est l’étude in situ des constituants biochimiques qui permet de mettre en évidence tous les glucides par exemple",
+            "D": "Faux. aussi en ME",
+            "E": "Faux. elle dit que la cellule est élément unitaire du vivant"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 7
+        },
+        {
+          "id": 12,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur les échantillons hospitaliers, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules en culture in vitro sont observées en MO inversée"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules en culture in vitro sont placées soit dans des boites de pétri, soit dans des flacons de culture"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules en culture in vitro sont maintenues dans une étuve à 37°C dont l’atmosphère est dépourvue de CO2"
+            },
+            {
+              "id": "D",
+              "text": "Les cultures ex vivo sont des cellules que l’on maintient en survie pour les réinjecter au patient"
+            },
+            {
+              "id": "E",
+              "text": "Dans les prélèvements cytologiques, on a les frottis cervico-vaginaux"
+            }
+          ],
+          "answer": "ABDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. enrichie en CO2",
+            "D": "Vrai. on les maintient ainsi afin d’être réinjectées après traitement ou modif génétiques",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "weight": 1,
+          "sourceQuestionNumber": 8,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "reviewNotes": [
+            {
+              "bank": "histo.autotech",
+              "id": 12,
+              "items": [],
+              "kind": "source_conflict",
+              "text": "Le sujet original porte les lettres A, B, C, A, D. Le corrigé reprend les cinq mêmes propositions dans le même ordre sous les lettres A, B, C, D, E. Cette numérotation du corrigé est utilisée ici pour éviter deux items A ; la clé est ABDE.",
+              "refs": [],
+              "sourceVerdict": "Clé du corrigé : ABDE",
+              "noteId": "histo-v5-histo.autotech-12-q"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur les échantillons hospitaliers, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les produits de brossage bronchique peuvent être étalés sur une lame et colorés avec le MGG"
+            },
+            {
+              "id": "B",
+              "text": "Les appositions permettent d’observer en MO, des cellules isolées restées collées sur la lame de verre après tamponnage d’une tranche de ganglion par exemple"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules obtenues par apposition sont colorées avec un colorant de routine comme le PAS"
+            },
+            {
+              "id": "D",
+              "text": "La technique d’apposition entre dans la catégorie d’étude cytologiques"
+            },
+            {
+              "id": "E",
+              "text": "Les coupes de tissu permettent les études morphologiques ainsi que les études in situ"
+            }
+          ],
+          "answer": "BDE",
+          "explanations": {
+            "A": "Faux. ce colorant est réservé au frottis sanguin",
+            "B": "Vrai.",
+            "C": "Faux. colorant de routine = bleu de méthylène par exemple",
+            "D": "Vrai.",
+            "E": "Vrai. constituants biochimiques et/ou moléculaires"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "reviewNotes": [
+            {
+              "bank": "histo.autotech",
+              "id": 7,
+              "items": [
+                "A"
+              ],
+              "kind": "possible_error",
+              "text": "Item A : l’explication affirme que le MGG serait réservé aux frottis sanguins. La ronéo en donne cet exemple sans établir une exclusivité. À vérifier dans la ronéo : cette seule justification ne permet pas d’exclure son emploi sur un prélèvement cytologique bronchique.",
+              "refs": [
+                {
+                  "file": "Ronéo Techniques Histologiques Gouriou 2026 ACTUALISEE.pdf",
+                  "page": 19,
+                  "label": "Coloration May-Grünwald-Giemsa",
+                  "href": "sources/revision_v4/Roneo_Techniques_Histologiques_Gouriou_2026_ACTUALISEE_fc6fab116f.pdf#page=19"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : BDE",
+              "reviewedItemText": {
+                "A": "Les produits de brossage bronchique peuvent être étalés sur une lame et colorés avec le MGG"
+              },
+              "reviewedExplanation": {
+                "A": "Faux. ce colorant est réservé au frottis sanguin"
+              },
+              "noteId": "ue5-008"
+            }
+          ],
+          "sourceQuestionNumber": 9
+        },
+        {
+          "id": 8,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie, les différents échantillons hospitaliers disponibles sont",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules en culture in vitro"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules d’une biopsie chirurgicale"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules issues d’une apposition"
+            },
+            {
+              "id": "D",
+              "text": "Une coupe réalisée dans un tissu"
+            },
+            {
+              "id": "E",
+              "text": "Des cellules en suspension recueillies par brossage"
+            }
+          ],
+          "answer": "ABCDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 10
+        },
+        {
+          "id": 9,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur la description morphologique d’une coupe en paraffine de tissu humain, les différents colorants possibles sont (attention cette liste n’est pas forcément exhaustive) :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La résine"
+            },
+            {
+              "id": "B",
+              "text": "Le crésyl violet qui est particulièrement utilisé pour l’étude du cerveau"
+            },
+            {
+              "id": "C",
+              "text": "Le HES qui permet de distinguer le tissu conjonctif du tissu épithélial"
+            },
+            {
+              "id": "D",
+              "text": "Le trichrome de Masson contenant notamment le ponceau de xylidine qui colore en rose le cytoplasme des cellules"
+            },
+            {
+              "id": "E",
+              "text": "Le MGG qui permet de mettre en évidence les glucides de la membrane basale"
+            }
+          ],
+          "answer": "BCD",
+          "explanations": {
+            "A": "Faux.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. cellules sanguines"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 13
+        },
+        {
+          "id": 10,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur la recherche in situ d’une molécule sur une coupe de tissu humain, les différentes propositions suivantes correspondent à des caractéristiques du microscope à fluorescence :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La source lumineuse provient d’une lampe émettant des photons"
+            },
+            {
+              "id": "B",
+              "text": "La longueur d’onde d’excitation du fluorochrome doit être inférieure à celle émise par le fluorochrome"
+            },
+            {
+              "id": "C",
+              "text": "Les anticorps marqués par des fluorochromes sont surtout des IgM"
+            },
+            {
+              "id": "D",
+              "text": "Afin de repérer les noyaux des cellules en MO à fluorescence, on marque l’ADN par l’hématoxyline"
+            },
+            {
+              "id": "E",
+              "text": "Sur un microscope confocal à fluorescence les objectifs sont forcément inversés"
+            }
+          ],
+          "answer": "AB",
+          "explanations": {
+            "A": "Vrai. toutes les longueurs d’onde de l’UV aux IR",
+            "B": "Vrai.",
+            "C": "Faux. des IgG",
+            "D": "Faux. ce n’est pas un colorant fluorescent. On utilise le DAPI",
+            "E": "Faux. iles peuvent être dessus ou dessous selon le type de préparation"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "sourceQuestionNumber": 14
+        },
+        {
+          "id": 13,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "D’après vos connaissances générales en histologie et notamment sur la coupe en résine vous pouvez dire que :",
+          "options": [
+            {
+              "id": "F",
+              "text": "Les coupes semi-fines sont de 100nm"
+            },
+            {
+              "id": "G",
+              "text": "Le milieu d’inclusion est la résine Epoxy ou l’araldite"
+            },
+            {
+              "id": "H",
+              "text": "L’épaisseur des coupes en résine est identique pour la ME et la MO"
+            },
+            {
+              "id": "I",
+              "text": "Les coupes semi-fines sont déposées sur une lame de verre pré-gélatinées"
+            },
+            {
+              "id": "J",
+              "text": "Les coupes pour la ME sont obtenues avec un ultra-microtome"
+            }
+          ],
+          "answer": "GIJ",
+          "explanations": {
+            "F": "Faux. 1micron",
+            "G": "Vrai.",
+            "H": "Faux. semi-fines pour MO et ultrafines pour ME",
+            "I": "Vrai.",
+            "J": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "weight": 1,
+          "sourceQuestionNumber": 16,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "subjectPage": 3,
+          "correctionPage": 3
+        },
+        {
+          "id": 11,
+          "category": "Autotest techniques histologiques",
+          "course": "Techniques histologiques",
+          "question": "A partir de vos connaissances en histologie sur les techniques, vous pouvez reconnaitre ce document C ci-dessous et dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "On peut voir ici un canal coupé en coupe transversale"
+            },
+            {
+              "id": "B",
+              "text": "Les noyaux des cellules épithéliales sont probablement colorés au rouge Ponceau"
+            },
+            {
+              "id": "C",
+              "text": "La coupe est observée au ME"
+            },
+            {
+              "id": "D",
+              "text": "Le collagène du TC est mis en évidence au trichrome de Masson par le safran"
+            },
+            {
+              "id": "E",
+              "text": "La recherche d’une protéine particulière par immunohistologie est préférable sur une coupe en congélation"
+            }
+          ],
+          "answer": "AE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. hématoxyline",
+            "C": "Faux. l’image est en couleur",
+            "D": "Faux. par le bleu d’aniline ou vert lumière, le Safran c’est pour HES",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [
+            "static/figure_histo_autotech_011.png"
+          ],
+          "subjectPage": 3,
+          "correctionPage": 3,
+          "sourceSubject": "Autotest.pdf",
+          "sourceCorrection": "autotest correction.pdf",
+          "weight": 1,
+          "originalImages": [
+            "static/histo_autotech_011_context.webp"
+          ],
+          "sourceQuestionNumber": 17
+        }
+      ]
+    }
+  }
+}

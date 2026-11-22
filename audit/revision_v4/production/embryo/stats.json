@@ -1,0 +1,37 @@
+{
+  "scope": "Première partie finalisée : gamétogenèse, fécondation, S1, S2, S3. S4 et cœur délégués dans ue5_assist/.",
+  "baselineQuestionsReviewed": 414,
+  "baselineItemsRead": 2347,
+  "restoredSourceQuestions": 2,
+  "coverageRows": 416,
+  "sourceItemsReviewedAfterRepairs": 2363,
+  "notes": 71,
+  "questionsWithNotes": 66,
+  "noteKinds": {
+    "roneo_conflict": 41,
+    "source_conflict": 15,
+    "possible_error": 14,
+    "missing_reference": 1
+  },
+  "sourceRepairs": 51,
+  "sharedFigureGroups": 3,
+  "reviewStatuses": {
+    "reviewed_with_course": 342,
+    "reviewed_without_course": 64,
+    "needs_source": 10
+  },
+  "delegatedBaselineQuestions": 183,
+  "delegatedBanks": [
+    "embryo.aut.s4",
+    "embryo.aut.coeur",
+    "embryo.ann.s4",
+    "embryo.ann.coeur",
+    "embryo.col.s4"
+  ],
+  "keysKeptForScientificConflicts": true,
+  "absentCourses": [
+    "Ronéo détaillé de méiose",
+    "Ronéo spécialisé de fécondation",
+    "Cours de génétique indépendant pour arbitrer les formulations sur la lyonisation et les gènes Hox"
+  ]
+}

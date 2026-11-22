@@ -1,0 +1,109 @@
+[
+  {
+    "bank": "histo.ann.tn",
+    "id": 65,
+    "sourceNumber": 16,
+    "itemsReviewed": 5,
+    "itemIdsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "baselineItemCount": 0,
+    "restoredSourceQuestion": true,
+    "reviewStatus": "reviewed_with_course",
+    "coursesConsulted": [
+      "TN1 - Ronéo 2026 - ACTUALISEE.pdf"
+    ],
+    "courseReferences": [
+      {
+        "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+        "page": 11,
+        "label": "Nerfs, fascicules, cellules et enveloppes ; p. imprimée 10"
+      }
+    ],
+    "targetedCourseReferences": [],
+    "notes": [],
+    "sourceRepair": true,
+    "sourceFile": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+    "sourcePages": [
+      19
+    ],
+    "sourceSubjectFile": "annales TISSU NERVEUX 2018 2025.pdf",
+    "sourceSubjectPages": [
+      18
+    ],
+    "figureReviewed": false,
+    "imagesReviewed": [],
+    "reviewScope": "Les cinq items du sujet et leurs cinq verdicts source ont été relus. Comparaison aux pages de ronéo indiquées et contre-lecture indépendante v4_ue2_ue3. Pas de nouvelle figure. Clé source conservée malgré les éventuelles réserves.",
+    "courseVerification": "Comparaison localisée aux ronéos, sans certification générale. Pour TN65/66, thèmes déjà rencontrés dans TN11/TN13 mais nouvelle lecture du texte propre à juin 2024 ; les entrées de session restent distinctes.",
+    "findingStatus": "no_additional_issue_identified_in_review",
+    "certifiedScientificAccuracy": false
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 66,
+    "sourceNumber": 17,
+    "itemsReviewed": 5,
+    "itemIdsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "baselineItemCount": 0,
+    "restoredSourceQuestion": true,
+    "reviewStatus": "reviewed_with_course",
+    "coursesConsulted": [
+      "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+      "TN3 - Ronéo 2026.pdf"
+    ],
+    "courseReferences": [
+      {
+        "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+        "page": 5,
+        "label": "Méninges, espace sous-arachnoïdien et interface piogliale ; p. imprimée 4"
+      },
+      {
+        "file": "TN3 - Ronéo 2026.pdf",
+        "page": 5,
+        "label": "Épendyme ventriculaire et canal central"
+      },
+      {
+        "file": "TN3 - Ronéo 2026.pdf",
+        "page": 6,
+        "label": "Plexus choroïdes"
+      },
+      {
+        "file": "TN3 - Ronéo 2026.pdf",
+        "page": 7,
+        "label": "Sécrétion du LCS"
+      },
+      {
+        "file": "TN3 - Ronéo 2026.pdf",
+        "page": 10,
+        "label": "Limitante gliale"
+      }
+    ],
+    "targetedCourseReferences": [],
+    "notes": [],
+    "sourceRepair": true,
+    "sourceFile": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+    "sourcePages": [
+      19
+    ],
+    "sourceSubjectFile": "annales TISSU NERVEUX 2018 2025.pdf",
+    "sourceSubjectPages": [
+      18
+    ],
+    "figureReviewed": false,
+    "imagesReviewed": [],
+    "reviewScope": "Les cinq items du sujet et leurs cinq verdicts source ont été relus. Comparaison aux pages de ronéo indiquées et contre-lecture indépendante v4_ue2_ue3. Pas de nouvelle figure. Clé source conservée malgré les éventuelles réserves.",
+    "courseVerification": "Comparaison localisée aux ronéos, sans certification générale. Pour TN65/66, thèmes déjà rencontrés dans TN11/TN13 mais nouvelle lecture du texte propre à juin 2024 ; les entrées de session restent distinctes.",
+    "findingStatus": "no_additional_issue_identified_in_review",
+    "certifiedScientificAccuracy": false
+  }
+]

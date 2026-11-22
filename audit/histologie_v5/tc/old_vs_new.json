@@ -1,0 +1,50 @@
+[
+  {
+    "bank": "histo.tc1",
+    "role": "subject",
+    "newSource": "Autotest TC1 nonCO(1).docx",
+    "newSHA256": "dcad58ee8c6e6eb26baa193cd150f5182400f1bea30ed26613f18d8c90c24181",
+    "oldMatch": "work/histo_v5/old_source/Autotest TC1 nonCO.docx",
+    "binaryIdentical": true
+  },
+  {
+    "bank": "histo.tc1",
+    "role": "correction",
+    "newSource": "correction autotest TC1(1).docx",
+    "newSHA256": "9d923eae9e041ce4cc7c6c1a12cf5f9d841f5988d089db3354d619c343f19c2a",
+    "oldMatch": "work/histo_v5/old_source/correction autotest TC1.docx",
+    "binaryIdentical": true
+  },
+  {
+    "bank": "histo.tc2",
+    "role": "subject",
+    "newSource": "autotest TC2(1).docx",
+    "newSHA256": "cd4dd985e57b5e86a3d087cc552c38ba8abbd1fe85edded1d00a05860a89eec4",
+    "oldMatch": "work/histo_v5/old_source/autotest TC2.docx",
+    "binaryIdentical": true
+  },
+  {
+    "bank": "histo.tc2",
+    "role": "correction",
+    "newSource": "CORRECTION autotest TC2(1).docx",
+    "newSHA256": "06fc48f39ce61eec52c4f97d9bca2887cb11974f2cc5c8701d415211792b8783",
+    "oldMatch": "work/histo_v5/old_source/CORRECTION autotest TC2.docx",
+    "binaryIdentical": true
+  },
+  {
+    "bank": "histo.tc3",
+    "role": "subject",
+    "newSource": "AUTOTEST TC3 2025(1).docx",
+    "newSHA256": "7e3264b21b449e800a0ce3fa9b1ad0261d9bb862282573e9c90300a0668ff4bf",
+    "oldMatch": "work/histo_v5/old_source/AUTOTEST TC3 2025.docx",
+    "binaryIdentical": true
+  },
+  {
+    "bank": "histo.tc3",
+    "role": "correction",
+    "newSource": "CORRECTION AUTOTEST TC3 OS(2).docx",
+    "newSHA256": "57044c915784fb55f9550210e5e23ee7a6092e4b6af2fe9e64ad3be770ea7d8a",
+    "oldMatch": "work/histo_v5/old_source/CORRECTION AUTOTEST TC3 OS(1).docx",
+    "binaryIdentical": true
+  }
+]

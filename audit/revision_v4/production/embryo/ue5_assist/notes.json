@@ -1,0 +1,1973 @@
+[
+  {
+    "bank": "embryo.aut.s4",
+    "id": 6,
+    "items": [
+      "G"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le motif « structures sous-cutanées (derme) » ne permet pas d’opposer le derme aux structures cutanées : la ronéo S4 p. 16 nomme explicitement le dérivé du dermatome « derme cutané ». La même ronéo emploie ensuite « sous-cutanées » p. 21, ce qui crée une ambiguïté de vocabulaire. Cette note porte sur la justification ; elle ne valide pas toute la proposition, qui affirme aussi l’absence de migration.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q6, p. 2"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 16,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 16"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 21,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 21"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AIJ ; G : Faux",
+    "sourceVerdictDetails": {
+      "answer": "AIJ",
+      "items": {
+        "G": "Faux"
+      },
+      "explanations": {
+        "G": "Faux, les structures Sous-cutanées (derme)"
+      }
+    },
+    "noteId": "embryo-ue5-assist-001",
+    "courseVerdict": "Dermatome → derme cutané ; distinguer derme et épiderme.",
+    "reviewedItemText": {
+      "G": "Le dermatome ne migre pas, et forme les structures cutanées."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 7,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : « une demi-vertèbre » peut désigner une fraction d’une seule vertèbre ou la quantité totale de tissu produite. Le corrigé vise deux quarts de deux vertèbres voisines. La ronéo décrit cette redistribution ; le piège doit porter sur les deux niveaux vertébraux, sans transformer deux quarts en une quantité différente d’une moitié. Verdict de la source conservé.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q7, p. 3"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 18,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 18"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 19,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 19"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : DG ; C : Faux",
+    "sourceVerdictDetails": {
+      "answer": "DG",
+      "items": {
+        "C": "Faux"
+      },
+      "explanations": {
+        "C": "Faux, un somite forme 2 1/4 vertèbres…sa partie rostrale forme le ¼ d’une vertèbre et sa partie caudale forme le ¼ de la vertèbre suivante"
+      }
+    },
+    "noteId": "embryo-ue5-assist-002",
+    "reviewedItemText": {
+      "C": "un somite forme une demi vertèbre."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 13,
+    "items": [
+      "H",
+      "M"
+    ],
+    "kind": "source_conflict",
+    "text": "Le document contient deux propositions nommées H. Le premier H porte sur la seule première branche de l’anse vitelline et est Faux ; le second porte sur l’origine du côlon et est Vrai. Le second est restitué sous la lettre libre M, avec son libellé source, afin de conserver les anciens identifiants et réponses enregistrées.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 4,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q13, p. 4"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q13, p. 5"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AEFILM ; H : Faux, M : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "AEFILM",
+      "items": {
+        "H": "Faux",
+        "M": "Vrai"
+      },
+      "explanations": {
+        "H": "FAUX Branche pré-vitelline + branche post-vitelline (en partie) + Intestin primitif antérieur (duodénum)",
+        "M": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-003",
+    "reviewedItemText": {
+      "H": "C’est uniquement la première branche de l’anse vitelline qui formera l’intestin grêle",
+      "M": "Le colon est issu de l’intestin moyen et de l’intestin postérieur."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 14,
+    "items": [
+      "C",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Deux propositions différentes portent C dans le PDF. La première concerne l’origine splanchnopleurale des précurseurs cardiaques ; la seconde la plicature crâniale. Elles sont toutes deux corrigées Vrai. La seconde est restituée sous E, prochaine lettre libre, et son ancien libellé C est indiqué sans renommer les options existantes.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS ENONCE.pdf",
+        "page": 4,
+        "label": "4. Autotest S4 DE LS ENONCE.pdf — Q14, p. 4"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q14, p. 5"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACE ; C : Vrai, E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ACE",
+      "items": {
+        "C": "Vrai",
+        "E": "Vrai"
+      },
+      "explanations": {
+        "C": "Vrai",
+        "E": "Vrai, sous le TD en formation et derrière la membrane pharyngienne"
+      }
+    },
+    "noteId": "embryo-ue5-assist-004",
+    "reviewedItemText": {
+      "C": "Les précurseurs cardiaques qui la constitue sont d’origine splanchnopleurale.",
+      "E": "La plicature crâniale permet de faire passer la zone cardiogène en position ventrale."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 21,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : le corrigé date l’existence du stomodéum par la perforation de la membrane pharyngienne. Il faut préciser si le terme désigne la dépression buccale primitive ou sa communication avec le pharynx après perforation. La ronéo S4 reprend cette assimilation p. 11 ; elle ne tranche donc pas cette réserve terminologique. Le verdict Faux reste celui de la source.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 8,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q21, p. 8"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 11,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 11"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 32,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 32"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : CD ; A : Faux",
+    "sourceVerdictDetails": {
+      "answer": "CD",
+      "items": {
+        "A": "Faux"
+      },
+      "explanations": {
+        "A": "Faux, ouverture de la membrane pharyngienne à J27-29"
+      }
+    },
+    "noteId": "embryo-ue5-assist-005",
+    "reviewedItemText": {
+      "A": "Un stomodéum."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 29,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification corrigée mélange deux origines : les muscles de la face ne sont pas décrits dans la ronéo comme issus de « cellules des crêtes neurales issues des somitomères ». La ronéo attribue ces muscles au mésoblaste para-axial, alors qu’elle attribue les os/cartilages aux cellules des crêtes neurales et au mésoblaste latéral. Le verdict Faux de E est conservé ; c’est la dernière partie de l’explication qui est erronée.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q29, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 36,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 36"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABD ; E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ABD",
+      "items": {
+        "E": "Faux"
+      },
+      "explanations": {
+        "E": "Faux, Il y a bien colonisation des arcs branchiaux par des cellules des crêtes neurales, cellules de la région occipitale, mais attention elles formeront les os et cartilages de la face, les muscles de la face sont eux produits à partir des cellules des crêtes neurales issues des somitomères + somites occipitaux"
+      }
+    },
+    "noteId": "embryo-ue5-assist-006",
+    "courseVerdict": "Muscles faciaux : mésoblaste para-axial ; ne pas assimiler somites/somitomères et crêtes neurales.",
+    "reviewedItemText": {
+      "E": "Ils sont colonisés par des cellules des crêtes neurales de la région occipitale, cellules qui formeront les muscles et os de la face."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 30,
+    "items": [
+      "C"
+    ],
+    "kind": "outdated_reference",
+    "text": "La justification situe le cordon ombilical en S7, alors que la ronéo S4 situe sa formation à la fin de S6 p. 7 et reprend S6 p. 8. Ce décalage de repère chronologique concerne l’explication ; l’item qui le place déjà en fin de S4 reste Faux dans la source.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 7,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 7"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 8,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 8"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABE ; C : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ABE",
+      "items": {
+        "C": "Faux"
+      },
+      "explanations": {
+        "C": "Faux, c’est encore un pédicule embryonnaire…cordon ombilical en S7"
+      }
+    },
+    "noteId": "embryo-ue5-assist-007",
+    "courseVerdict": "Repère du cours fourni : fin de S6.",
+    "reviewedItemText": {
+      "C": "un cordon ombilical."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 30,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Les corrigés ne donnent pas la même limite à la disparition de la ligne primitive : cet autotest affirme « fin à J22 », tandis que la colle S4 Q41 refuse sa disparition à J21–22 en disant qu’elle est encore présente en S4. La ronéo p. 40 date l’arrêt de son fonctionnement du début de S4 et décrit sa dernière transition en bourgeon caudal. Distinguer arrêt fonctionnel, régression et visibilité ; la clé n’est pas harmonisée arbitrairement.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q41, p. 7"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 40,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 40"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABE ; D : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ABE",
+      "items": {
+        "D": "Faux"
+      },
+      "explanations": {
+        "D": "Faux, plus de ligne primitive en S4, fin à J22"
+      }
+    },
+    "noteId": "embryo-ue5-assist-008",
+    "reviewedItemText": {
+      "D": "une ligne primitive."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 30,
+    "items": [
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "La présence d’un reliquat de cœlome externe en fin de S4 concorde avec la ronéo p. 8. En revanche, l’explication « jusqu’au 3e mois » n’utilise pas le même repère que cette page, qui rattache la disparition du reliquat à la formation du cordon en S6. La date et le compartiment visés doivent être précisés ; le verdict Vrai sur le reliquat en fin de S4 est conservé.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 8,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 8"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABE ; E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ABE",
+      "items": {
+        "E": "Vrai"
+      },
+      "explanations": {
+        "E": "Vrai jusqu’au 3ème mois"
+      }
+    },
+    "noteId": "embryo-ue5-assist-009",
+    "reviewedItemText": {
+      "E": "Du cœlome externe résiduel."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 33,
+    "items": [
+      "C"
+    ],
+    "kind": "outdated_reference",
+    "text": "L’explication indique une ouverture de la membrane pharyngienne à J24–26. La ronéo S4 donne J27–29, et l’autotest Q21 utilise également J27–29. Le verdict Vrai de sa régression avant la fin du premier mois est conservé ; les jours précis du corrigé ne sont pas cohérents avec le repère du cours fourni.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q33, p. 10"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 8,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q21, p. 8"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 32,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 32"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 33,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 33"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : CDG ; C : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "CDG",
+      "items": {
+        "C": "Vrai"
+      },
+      "explanations": {
+        "C": "Vrai, J24-26 ouverture de la bouche"
+      }
+    },
+    "noteId": "embryo-ue5-assist-010",
+    "reviewedItemText": {
+      "C": "Membrane pharyngienne."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 35,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : le périmètre de « plus fréquent » doit être précisé. La page 44 distingue spina bifida occulta et aperta, puis situe le myéloméningocèle parmi les formes aperta, tout en reprenant ailleurs une formulation générale. Cette page ne permet donc pas de certifier la fréquence pour l’ensemble des spina bifida. La réponse de référence est conservée.",
+    "refs": [
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 11,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q35, p. 11"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 44,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 44"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCDEFG ; B : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ABCDEFG",
+      "items": {
+        "B": "Vrai"
+      },
+      "explanations": {
+        "B": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-011",
+    "reviewedItemText": {
+      "B": "Le Myéloméningocèle est le cas le plus fréquent de spina Bifida."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 4,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : « participe à la formation d’une vertèbre » n’affirme pas qu’un somite forme seul une vertèbre entière ni qu’il ne contribue qu’à un seul niveau. La ronéo décrit la contribution de fractions de plusieurs somites à des vertèbres voisines. Le corrigé semble lire une exclusivité absente de cette phrase ; cela ne suffit pas à déclarer l’item Vrai, notamment sans préciser les somites considérés. Clé conservée.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 2,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q14, p. 2"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 18,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 18"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 19,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 19"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AB ; D : Faux",
+    "sourceVerdictDetails": {
+      "answer": "AB",
+      "items": {
+        "D": "Faux"
+      },
+      "explanations": {
+        "D": "Faux paires de somites (sclérotome), elles sont décalées d’une hémi-somite"
+      }
+    },
+    "noteId": "embryo-ue5-assist-012",
+    "reviewedItemText": {
+      "D": "Chaque somite participe à la formation d’une vertèbre."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 6,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé globale imprimée est B, mais la ligne D du même corrigé est explicitement marquée Vrai. La ronéo S4 décrit bien l’abouchement du canal de Wolff à la face postérieure de l’allantoïde. Le désaccord appartient au document source ; la clé globale conservée dans le site n’est pas remplacée par une clé scientifique reconstruite.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 2,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q16, p. 2"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 24,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 24"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 25,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 25"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B ; D : Faux",
+    "sourceVerdictDetails": {
+      "answer": "B",
+      "items": {
+        "D": "Faux"
+      },
+      "explanations": {
+        "D": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-013",
+    "courseVerdict": "Le contenu de D est décrit dans le cours ; clé globale et verdict détaillé se contredisent.",
+    "reviewedItemText": {
+      "D": "Le canal de Wolff s’est abouché dans la paroi postérieure de l’allantoïde."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 8,
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "A est inclus dans la clé globale ADE du document (AE après exclusion de D HP), mais le commentaire de A dit « Faux 4 » au lieu de trois fentes. La ronéo S4 enseigne quatre fentes ectobranchiales. La clé et le commentaire du tutorat sont donc contradictoires ; la clé historique est conservée avec ce signalement.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 2,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q18, p. 2"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 35,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 35"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 36,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 36"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AE ; A : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "AE",
+      "items": {
+        "A": "Vrai"
+      },
+      "explanations": {
+        "A": "Faux 4"
+      }
+    },
+    "noteId": "embryo-ue5-assist-014",
+    "courseVerdict": "Quatre fentes ectobranchiales dans la ronéo fournie.",
+    "reviewedItemText": {
+      "A": "Chez l’homme, 4 arcs sont visibles extérieurement, séparés par trois fentes ectobranchiales."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 11,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "D figure dans la clé globale BDE du document (BD après exclusion de E HP), mais la ligne D est marquée « Faux S6 ». La ronéo S4 date aussi la formation du cordon de la fin de S6. Le désaccord entre la clé et le commentaire est présent dans le PDF, et non dû à l’import.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 3,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q14, p. 3"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 7,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 7"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 8,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 8"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BD ; D : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BD",
+      "items": {
+        "D": "Vrai"
+      },
+      "explanations": {
+        "D": "Faux S6"
+      }
+    },
+    "noteId": "embryo-ue5-assist-015",
+    "courseVerdict": "La ronéo situe la formation du cordon à la fin de S6.",
+    "reviewedItemText": {
+      "D": "Le cordon ombilical est situé dans la paroi ventrale de l’embryon à la fin de la 4ème semaine du développement embryonnaire"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 17,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "B figure dans la clé globale ABDE, alors que le commentaire le déclare Faux, invoque cinq cavités, puis parle à nouveau de quatre cavités à J22. Cette justification est contradictoire. À vérifier dans la ronéo cœur/vaisseaux : distinguer les renflements du tube cardiaque primitif et les cavités cardiaques définitives. La ronéo S3 disponible ne détaille pas cette chronologie ; aucun nouveau verdict n’est imposé.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 4,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q15, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 49,
+        "label": "Embryo/Roneo S3.PDF — p. 49"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 50,
+        "label": "Embryo/Roneo S3.PDF — p. 50"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABDE ; B : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ABDE",
+      "items": {
+        "B": "Vrai"
+      },
+      "explanations": {
+        "B": "Faux Le cœur a 5 cavités le reste est vrai : Le neuropore antérieur se ferme à J24 (milieu de S4) alors que les 4 cavités du cœur s’observent J22."
+      }
+    },
+    "noteId": "embryo-ue5-assist-016",
+    "reviewedItemText": {
+      "B": "Un cœur avec ses 4 cavités et un neuropore antérieur."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 7,
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "Question indiquée hors programme dans cette source. Vérifier le périmètre de la ronéo de l’année utilisée. Cette mention ancienne est signalée après correction ; elle ne change ni la clé ni la notation de la question.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 2,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q17, p. 2"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABC ; A : Vrai, B : Vrai, C : Vrai, D : Faux, E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ABC",
+      "items": {
+        "A": "Vrai",
+        "B": "Vrai",
+        "C": "Vrai",
+        "D": "Faux",
+        "E": "Faux"
+      },
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "Faux : c’est l’union d’une veine cardinale antérieure et d’une veine cardinale postérieure",
+        "E": "Faux : veines ombilicales qui apportent le sang O2 à l’embryon"
+      }
+    },
+    "noteId": "embryo-ue5-assist-017",
+    "reviewedItemText": {
+      "A": "La communication inter-auriculaire persiste tout au long de la vie fœtale.",
+      "B": "Le sang du ventricule droit est essentiellement évacué dans l’aorte par le canal artériel.",
+      "C": "Au cours du développement embryonnaire, deux tubes cardiaques fusionnent pour donner un tube unique.",
+      "D": "Une veine cardinale commune nait de la réunion de deux veines cardinales antérieures.",
+      "E": "Les veines vitellines apportent du sang oxygéné à l’embryon, leur rôle est très important dans l’organogénèse du cœur et des vaisseaux."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 16,
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "Question indiquée hors programme dans cette source. Vérifier le périmètre de la ronéo de l’année utilisée. Cette mention ancienne est signalée après correction ; elle ne change ni la clé ni la notation de la question.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS Enoncé.pdf",
+        "page": 4,
+        "label": "2- Annales S4 du DE LS Enoncé.pdf — Q14, p. 4"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCDE ; A : Faux, B : Vrai, C : Vrai, D : Vrai, E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BCDE",
+      "items": {
+        "A": "Faux",
+        "B": "Vrai",
+        "C": "Vrai",
+        "D": "Vrai",
+        "E": "Vrai"
+      },
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-018",
+    "reviewedItemText": {
+      "A": "La vasculogenèse débute en tout premier au sein des vaisseaux villositaires au cours de la 3ème semaine de développement embryonnaire.",
+      "B": "La vasculogenèse se fait à partir des angioblastes qui se différencient in situ, et qui migrent pour former les tubes capillaires primitifs.",
+      "C": "Différents facteurs de croissance interviennent lors de la vasculogenèse, dont le facteur de croissance de l’endothélium vasculaire (Vascular Endothelial Growth ou VEGF).",
+      "D": "Les arcs branchiaux sont le siège d’une vasculogenèse.",
+      "E": "La vasculogenèse et l’angiogenèse deviennent très actives au cours de la 4ème semaine de développement embryonnaire, formant les vaisseaux embryonnaires et extra-embryonnaires."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 24,
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "Question indiquée hors programme dans cette source. Vérifier le périmètre de la ronéo de l’année utilisée. Cette mention ancienne est signalée après correction ; elle ne change ni la clé ni la notation de la question.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS Enoncé.pdf",
+        "page": 6,
+        "label": "2- Annales S4 du DE LS Enoncé.pdf — Q15, p. 6"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AD ; A : Vrai, B : Faux, C : Faux, D : Vrai, E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "AD",
+      "items": {
+        "A": "Vrai",
+        "B": "Faux",
+        "C": "Faux",
+        "D": "Vrai",
+        "E": "Faux"
+      },
+      "explanations": {
+        "A": "",
+        "B": "Faux : Dans le sens cranio-caudal : bulbe artériel, ventricule primitif, oreillette primitive, sinus veineux",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-019",
+    "reviewedItemText": {
+      "A": "Le tube cardiaque primitif se forme en même temps que la délimitation de l’embryon se met en place.",
+      "B": "Dans le sens crânio-caudal, le tube cardiaque est formé par le sinus veineux, le septum transversum, l’oreillette primitive et le ventricule primitif.",
+      "C": "Les 2 veines cardinales antérieures se jettent directement dans le sinus veineux du tube cardiaque.",
+      "D": "Vers J28 du développement embryonnaire, les battements cardiaques sont coordonnés avec des mouvements péristaltiques qui déterminent le sens du flux sanguin.",
+      "E": "Les 2 artères ombilicales apportent le sang oxygéné à l’embryon en fin de 4ème semaine du développement embryonnaire."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 27,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : préciser si « fusionnent au cours de S4 » vise un contact/fusion local ou l’achèvement de l’ensemble de la fusion amniochoriale. La page 8 parle à la fois de fusion totale des lames et d’un reliquat de cœlome externe, tandis que l’autotest Q30 prolonge ce reliquat jusqu’au troisième mois. Les repères fournis ne sont pas harmonisés ; le verdict du tutorat est conservé.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 7,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q14, p. 7"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 4,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 4"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 8,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 8"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ADE ; D : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ADE",
+      "items": {
+        "D": "Vrai"
+      },
+      "explanations": {
+        "D": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-020",
+    "reviewedItemText": {
+      "D": "Les légendes 7 et 8 représentent respectivement les lames amniotique et choriale. Ces 2 lames fusionnent au cours de la 4ème semaine du développement embryonnaire."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : la formulation générale « ouverture du canal médullaire » doit être distinguée d’une moelle exposée à la surface et des différentes formes de spina bifida. La page 44 juxtapose formes occulta et aperta et emploie une définition générale d’ouverture. Elle ne suffit pas à étendre la description d’une forme ouverte à toutes les formes. Verdict conservé.",
+    "refs": [
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 10,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q13, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 44,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 44"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCDE ; B : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BCDE",
+      "items": {
+        "B": "Vrai"
+      },
+      "explanations": {
+        "B": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-021",
+    "reviewedItemText": {
+      "B": "le spina bifida correspond à une ouverture du canal médullaire"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 13,
+    "items": [
+      "E"
+    ],
+    "kind": "missing_reference",
+    "text": "Le corrigé indique seulement « Pas de date donnée » pour E, sans verdict Vrai/Faux, alors que le QCM porte sur J26. Les autres verdicts sont présents. La clé complète reste indéterminée ; le cours ne doit pas servir à fabriquer une clé absente de la source.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 3,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q13, p. 3"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 24,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 24"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 25,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 25"
+      }
+    ],
+    "sourceVerdict": "Clé complète non déterminée dans la source ; E : non déterminé",
+    "sourceVerdictDetails": {
+      "answer": "",
+      "items": {
+        "E": "non déterminé"
+      },
+      "explanations": {
+        "E": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-022",
+    "reviewedItemText": {
+      "E": "Le canal de Wolff débouche dans l’allantoïde."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 16,
+    "items": [
+      "E"
+    ],
+    "kind": "missing_reference",
+    "text": "Pour E, le corrigé indique « Date non précisée » et ne donne pas de verdict. La clé complète de ce QCM à J25 ne peut pas être reconstruite à partir du document. La présence d’autres propositions corrigées ne justifie pas de noter ce QCM comme si toutes les réponses étaient connues.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 3,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q16, p. 3"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 40,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 40"
+      }
+    ],
+    "sourceVerdict": "Clé complète non déterminée dans la source ; E : non déterminé",
+    "sourceVerdictDetails": {
+      "answer": "",
+      "items": {
+        "E": "non déterminé"
+      },
+      "explanations": {
+        "E": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-023",
+    "reviewedItemText": {
+      "E": "La ligne primitive n’est plus visible."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 21,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : l’énoncé demande une structure dont la mise en place « dérive directement de la neurulation ». La page 40 fait naître l’éminence/bourgeon caudal de la dernière transition de la ligne primitive ; ce bourgeon participe ensuite à la neurulation secondaire. Le sens de la relation causale mérite donc d’être précisé. La clé Vrai du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 4,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q21, p. 4"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 40,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 40"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE ; E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BCE",
+      "items": {
+        "E": "Vrai"
+      },
+      "explanations": {
+        "E": "Vrai = bourgeon caudal"
+      }
+    },
+    "noteId": "embryo-ue5-assist-024",
+    "reviewedItemText": {
+      "E": "Éminence caudale."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 38,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification « Fin S7 J27/29 pour MP » contient une incohérence de semaine : J27–29 correspond ici au repère de fin de S4 de la membrane pharyngienne, explicitement donné dans la ronéo. La membrane cloacale est située en S9 dans ce cours. L’item initial reste Faux ; c’est « S7 » dans la justification qui est erroné.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q38, p. 7"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 32,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 32"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 33,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 33"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : C ; B : Faux",
+    "sourceVerdictDetails": {
+      "answer": "C",
+      "items": {
+        "B": "Faux"
+      },
+      "explanations": {
+        "B": "Faux Fin S7 J27/29 pour MP S9 pour la caudale"
+      }
+    },
+    "noteId": "embryo-ue5-assist-025",
+    "reviewedItemText": {
+      "B": "Les membranes pharyngiennes et caudales se résorbent entre J22 et J24"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 41,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La colle refuse la disparition de la ligne primitive à J21–22, en la disant encore présente en S4 ; l’autotest S4 Q30 affirme au contraire « fin à J22 ». La ronéo p. 40 distingue la dernière transition de la ligne primitive et son arrêt de fonctionnement au début de S4. Ces formulations ne permettent pas de confondre date d’arrêt, régression et disparition visible. Clé conservée.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q41, p. 7"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 40,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 40"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : E ; B : Faux",
+    "sourceVerdictDetails": {
+      "answer": "E",
+      "items": {
+        "B": "Faux"
+      },
+      "explanations": {
+        "B": "Faux encore là en S4"
+      }
+    },
+    "noteId": "embryo-ue5-assist-026",
+    "reviewedItemText": {
+      "B": "La disparition de la ligne primitive"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 44,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le repère 3 de la figure désigne la splanchnopleure, comme le confirment l’image, la Q35D sur le même schéma et la ronéo. L’item D écrit pourtant « somatopleure » et reçoit « Vrai splanchnopleure » dans le corrigé. C’est une contradiction de la source ; l’énoncé et la clé sont conservés, avec cette réserve explicite.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 8,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q44, p. 8"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 6,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q35, p. 6"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 9,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 9"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 29,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 29"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCD ; D : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ABCD",
+      "items": {
+        "D": "Vrai"
+      },
+      "explanations": {
+        "D": "Vrai splanchnopleure"
+      }
+    },
+    "noteId": "embryo-ue5-assist-027",
+    "courseVerdict": "Repère 3 : splanchnopleure ; repère 4 : somatopleure.",
+    "reviewedItemText": {
+      "D": "3) représente la somatopleure"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 47,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet et le corrigé écrivent tous deux « la totalité de l’intestin grêle dérive de l’intestin grêle », puis le corrigé ajoute « Faux moyen ». La phrase est tautologique et ne permet pas de retrouver sans interprétation l’item réellement voulu. La ronéo décrit une contribution de l’intestin antérieur et de l’intestin moyen à l’intestin grêle. Aucun mot n’est remplacé dans l’énoncé par supposition.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "page": 8,
+        "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q47, p. 8"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 9,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q47, p. 9"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 34,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 34"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 35,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 35"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : A ; B : Faux",
+    "sourceVerdictDetails": {
+      "answer": "A",
+      "items": {
+        "B": "Faux"
+      },
+      "explanations": {
+        "B": "Faux moyen"
+      }
+    },
+    "noteId": "embryo-ue5-assist-028",
+    "reviewedItemText": {
+      "B": "La totalité de l'intestin grêle dérive de l’intestin grêle"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 49,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé rejette « zone cardiogène » comme annexe au motif qu’elle est à la fois dedans et dehors. La ronéo S3 p. 49 décrit précisément cette position mixte, puis p. 50 répond explicitement Oui à son classement comme annexe parce qu’une partie est extérieure. Le désaccord porte sur la convention de classement utilisée dans ces documents ; le verdict de la colle est conservé.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 9,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q49, p. 9"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 49,
+        "label": "Embryo/Roneo S3.PDF — p. 49"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 50,
+        "label": "Embryo/Roneo S3.PDF — p. 50"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE ; A : Faux",
+    "sourceVerdictDetails": {
+      "answer": "BDE",
+      "items": {
+        "A": "Faux"
+      },
+      "explanations": {
+        "A": "Faux dehors et dedans"
+      }
+    },
+    "noteId": "embryo-ue5-assist-029",
+    "courseVerdict": "La ronéo S3 classe la zone cardiogène parmi les annexes en raison de sa partie extra-embryonnaire.",
+    "reviewedItemText": {
+      "A": "Zone cardiogène"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 50,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : « disparition du cœlome externe à la fin de S4 » ne doit pas être lu comme disparition complète. La page 8 conserve un reliquat après les plicatures, et l’autotest Q30E accepte ce reliquat en fin de S4. Le mot disparition peut décrire une régression en cours ; la formulation mérite cette précision sans modifier la clé.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 9,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q50, p. 9"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 8,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 8"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACD ; D : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ACD",
+      "items": {
+        "D": "Vrai"
+      },
+      "explanations": {
+        "D": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-030",
+    "reviewedItemText": {
+      "D": "On assiste à une disparition du cœlome externe à la fin de la 4ème semaine"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 52,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’affirmation « entièrement disparu à la fin de la 4e semaine » est acceptée dans la colle, alors que la ronéo S4 conserve explicitement un reliquat de cœlome extra-embryonnaire après les plicatures. L’autotest Q30E accepte également un cœlome externe résiduel en fin de S4. Le qualificatif « entièrement » crée une contradiction ; la clé de la colle est conservée.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q52, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 8,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 8"
+      },
+      {
+        "file": "4. Autotest S4 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S4 DE LS CORRECTION.pdf — Q30, p. 10"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABCE ; E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "ABCE",
+      "items": {
+        "E": "Vrai"
+      },
+      "explanations": {
+        "E": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-031",
+    "courseVerdict": "Un reliquat persiste au terme des plicatures décrites ; régression ne signifie pas disparition complète.",
+    "reviewedItemText": {
+      "E": "Le cœlome extra embryonnaire aura entièrement disparu à la fin de la 4ème semaine"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : la seule présence de somites qui se différencient ne suffit pas à justifier « fin de S4 ». La page 16 situe le début de cette transformation dès S4 et rappelle son gradient crânio-caudal. La figure montre bien une différenciation avancée et une paroi ventrale fermée au niveau de la coupe, mais la justification doit reposer sur cet ensemble de signes, pas sur la différenciation seule. Verdict conservé.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q54, p. 10"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 16,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 16"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCD ; A : Faux",
+    "sourceVerdictDetails": {
+      "answer": "BCD",
+      "items": {
+        "A": "Faux"
+      },
+      "explanations": {
+        "A": "Faux fin de S4 les somites se différencient déjà"
+      }
+    },
+    "noteId": "embryo-ue5-assist-032",
+    "reviewedItemText": {
+      "A": "Il s’agit d'une coupe transversale correspondant au début de la 4°\" semaine"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 60,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé rejette l’origine de toute la moelle épinière dans le tube neural au motif que la neurulation secondaire est mésoblastique. Or l’item dit « tube neural », et non « neurectoblaste ». La ronéo p. 40 inclut explicitement la portion de neurulation secondaire dans le tube neural définitif, de double origine. Le rejet confond origine du tissu et structure finale ; la clé n’est pas modifiée.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 11,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q60, p. 11"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 39,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 39"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 40,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 40"
+      },
+      {
+        "file": "2- Annales S4 du DE LS correction-1.pdf",
+        "page": 3,
+        "label": "2- Annales S4 du DE LS correction-1.pdf — Q19, p. 3"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : C ; E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "C",
+      "items": {
+        "E": "Faux"
+      },
+      "explanations": {
+        "E": "Faux neurulation II aussi mésoblastique"
+      }
+    },
+    "noteId": "embryo-ue5-assist-033",
+    "courseVerdict": "Le tube neural définitif inclut les portions issues des neurulations primaire et secondaire.",
+    "reviewedItemText": {
+      "E": "La moelle épinière dérive en totalité du tube neural"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 70,
+    "items": [
+      "E"
+    ],
+    "kind": "missing_reference",
+    "text": "E est présent dans le sujet mais absent du corrigé : la correction de Q70 s’arrête après D. La clé complète reste donc indéterminée, même si la ronéo décrit l’abouchement des canaux de Wolff. Aucun verdict n’est ajouté à la source par déduction.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "page": 12,
+        "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q70, p. 12"
+      },
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 13,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q70, p. 13"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 24,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 24"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 25,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 25"
+      }
+    ],
+    "sourceVerdict": "Clé complète non déterminée dans la source ; E : non déterminé",
+    "sourceVerdictDetails": {
+      "answer": "",
+      "items": {
+        "E": "non déterminé"
+      },
+      "explanations": {
+        "E": ""
+      }
+    },
+    "noteId": "embryo-ue5-assist-034",
+    "reviewedItemText": {
+      "E": "Les 2 canaux de Wolff débouchent au niveau de la face postérieure de l'allantoïde"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 72,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo d’anatomie : « deux feuillets viscéraux » est rejeté au profit de « pariétaux ». La ronéo S4 appelle d’abord les deux parois du cœlome « pariétales », puis distingue le feuillet viscéral du feuillet pariétal ; cet usage du mot paroi peut créer une confusion avec la définition anatomique d’un méso. L’item est déjà HP et reste ignoré dans la notation.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 13,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q72, p. 13"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 29,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 29"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 30,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 30"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : B ; D : Faux",
+    "sourceVerdictDetails": {
+      "answer": "B",
+      "items": {
+        "D": "Faux"
+      },
+      "explanations": {
+        "D": "Faux pariétaux HP (on verra en anatomie)"
+      }
+    },
+    "noteId": "embryo-ue5-assist-035",
+    "reviewedItemText": {
+      "D": "Le méso correspond à l’accolement de deux feuillets viscéraux"
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 74,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "La généralisation « les hématies fœtales sont nucléées » doit être rapprochée de l’autotest cœur Q9, qui distingue hématies primitives nucléées et hématies définitives anucléées. Ces deux formulations ne sont pas équivalentes. La ronéo S3 décrit le début de l’hématopoïèse mais ne documente pas suffisamment la succession des populations fœtales ; le verdict Vrai de la colle est conservé, sans validation de la généralisation.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S4 LS correction.pdf",
+        "page": 14,
+        "label": "7. Colle en chambre S4 LS correction.pdf — Q73, p. 14"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BDE ; D : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BDE",
+      "items": {
+        "D": "Vrai"
+      },
+      "explanations": {
+        "D": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-036",
+    "reviewedItemText": {
+      "D": "Les hématies fœtales sont nucléées."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 1,
+    "items": [
+      "M"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : garder la restriction « feuillet pariétal » déjà donnée par le corrigé. La ronéo S4 distingue péricarde pariétal issu de la somatopleure et péricarde viscéral/épicarde issu de la splanchnopleure. Le verdict Vrai n’est pas contesté dans le sens restreint explicitement indiqué ; la réserve porte sur une lecture qui attribuerait les deux feuillets à la somatopleure.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q1, p. 1"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 30,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 30"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : C,E,I,L,M,N,P,R,U,W,Y,AA,CC ; M : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "C,E,I,L,M,N,P,R,U,W,Y,AA,CC",
+      "items": {
+        "M": "Vrai"
+      },
+      "explanations": {
+        "M": "Vrai = Feuillet pariétal"
+      }
+    },
+    "noteId": "embryo-ue5-assist-037",
+    "courseVerdict": "Somatopleure → péricarde pariétal ; splanchnopleure → péricarde viscéral/épicarde.",
+    "reviewedItemText": {
+      "M": "Le péricarde est formé à partir de la somatopleure."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "items": [
+      "K"
+    ],
+    "kind": "source_conflict",
+    "text": "Après réappariement, K reprend bien le verdict Faux et l’explication de la ligne l du corrigé : toutes les hématies seraient extra-embryonnaires jusqu’à S6. Cette explication contredit le même autotest Q9G/N, qui affirme une hématopoïèse hépatique dès J23 et une coexistence intra/extra-embryonnaire dès cette date. La ronéo S3 ne date pas précisément ce relais. Le verdict source rétabli reste Faux ; la chronologie de sa justification nécessite la ronéo cœur/vaisseaux absente.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDJMNO ; K : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ACDJMNO",
+      "items": {
+        "K": "Faux"
+      },
+      "explanations": {
+        "K": "Faux, elles sont toutes d’origine extra-embryonnaire jusqu’à la 6ème semaine. IWP de la lame vitelline"
+      }
+    },
+    "noteId": "embryo-ue5-assist-038",
+    "reviewedItemText": {
+      "K": "Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo cœur/vaisseaux : la distinction entre HbF et HbA ne doit pas être utilisée pour généraliser une nucléation à toutes les hématies embryonnaires ou fœtales. L’autotest Q9 distingue lui-même hématies primitives nucléées et définitives anucléées. Le verdict Faux de l’identité des hémoglobines n’est pas contesté ; la justification regroupe plusieurs propriétés et périodes sans les séparer.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ACDJMNO ; E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ACDJMNO",
+      "items": {
+        "E": "Faux"
+      },
+      "explanations": {
+        "E": "Faux, hématie embryonnaire nucléé avec hémoglobine (2α + 2γ) alors qu’hématies maternelles anucléés avec hémoglobine (2α + 2β)"
+      }
+    },
+    "noteId": "embryo-ue5-assist-039",
+    "reviewedItemText": {
+      "E": "L’hémoglobine fœtale est identique à l’hémoglobine maternelle."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Les items demandent les repères 1 à 5, mais la figure du sujet original p. 2 porte déjà des noms de vaisseaux et ne montre pas ces numéros. La même image se trouve dans le site. La clé peut être lue dans le corrigé, mais l’association numérique demandée ne peut pas être vérifiée directement sur cette source. Aucun numéro n’a été ajouté artificiellement à la figure.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS ENONCE.pdf — Q5, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q5, p. 3"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BCE ; A : Faux, B : Vrai, C : Vrai, D : Faux, E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BCE",
+      "items": {
+        "A": "Faux",
+        "B": "Vrai",
+        "C": "Vrai",
+        "D": "Faux",
+        "E": "Vrai"
+      },
+      "explanations": {
+        "A": "Faux, veine cardinale ANTERIEURE",
+        "B": "Vrai",
+        "C": "Vrai",
+        "D": "Faux, oreillette primitive",
+        "E": "Vrai = Aortes dorsales primitives = aortes dorsales"
+      }
+    },
+    "noteId": "embryo-ue5-assist-040",
+    "reviewedItemText": {
+      "A": "(1) Veine cardinale postérieure.",
+      "B": "(2) Artères inter-segmentaires.",
+      "C": "(3) Aorte commune issue de la fusion des deux aortes dorsales au niveau du 10ème métamère.",
+      "D": "(4) Ventricule primitif.",
+      "E": "(5) Aortes primitives."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "items": [
+      "B",
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La figure commune aux Q5/6 est rétablie ici, mais le repère 6 demandé par B et C manque déjà dans le sujet original : l’image comporte des noms de vaisseaux, sans la numérotation annoncée. Le corrigé associe 6 à la veine cardinale commune ; cette association n’est pas vérifiable sur la figure numérotée, qui n’a pas été retrouvée. La clé de la source est conservée.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS ENONCE.pdf — Q6, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q6, p. 3"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : ABD ; B : Vrai, C : Faux",
+    "sourceVerdictDetails": {
+      "answer": "ABD",
+      "items": {
+        "B": "Vrai",
+        "C": "Faux"
+      },
+      "explanations": {
+        "B": "Vrai = Veine cardiale commune",
+        "C": "Faux. Le sang oxygéné est contenu dans les deux veines ombilicales, non représentées sur ce schéma, ne représentant que la circulation intraembryonnaire"
+      }
+    },
+    "noteId": "embryo-ue5-assist-041",
+    "reviewedItemText": {
+      "B": "(6) canal de cuvier.",
+      "C": "(6) vaisseaux contenant du sang riche en dioxygène."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 7,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : l’explication emploie « péricarde » au sens de péricarde pariétal. La ronéo S4 rappelle que l’épicarde est lui-même le feuillet viscéral du péricarde, d’origine splanchnopleurale, tandis que son feuillet pariétal dérive de la somatopleure. Le verdict Faux de la source doit donc être lu avec cette restriction ; il ne doit pas attribuer tout le péricarde à la somatopleure.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q7, p. 4"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 30,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 30"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : A ; E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "A",
+      "items": {
+        "E": "Faux"
+      },
+      "explanations": {
+        "E": "Faux, péricarde = somato et épicarde = splanchno"
+      }
+    },
+    "noteId": "embryo-ue5-assist-042",
+    "reviewedItemText": {
+      "E": "Le péricarde et l’épicarde proviennent du même feuillet."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 9,
+    "items": [
+      "G",
+      "N"
+    ],
+    "kind": "source_conflict",
+    "text": "La chronologie donnée ici (foie dès J23/S4 et coexistence des hématopoïèses intra/extra-embryonnaires de J23 à J60) contredit l’explication de Q2K, qui maintient toutes les hématies d’origine extra-embryonnaire jusqu’à S6. La ronéo S3 p. 48 annonce seulement le relais par le foie, sans trancher ces dates. Ces verdicts sont conservés ; la ronéo cœur/vaisseaux est nécessaire pour résoudre le désaccord.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BFGIKLN ; G : Vrai, N : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BFGIKLN",
+      "items": {
+        "G": "Vrai",
+        "N": "Vrai"
+      },
+      "explanations": {
+        "G": "Vrai, J23 Foie",
+        "N": "Vrai, de j23 à j60"
+      }
+    },
+    "noteId": "embryo-ue5-assist-043",
+    "reviewedItemText": {
+      "G": "L’hématopoïèse intraembryonnaire débute dès la S4.",
+      "N": "L’hématopoïèse est intra-embryonnaire et extr-embryonnaire pendant quelques semaines."
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 9,
+    "items": [
+      "I"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo cœur/vaisseaux : le mot « toujours » étend la composition α/γ à toutes les hématies embryonnaires, sans distinguer la période embryonnaire de la période fœtale. Les pages disponibles sur les îlots de Wolff et Pander ne décrivent pas la succession des hémoglobines et ne suffisent pas à confirmer cette généralisation. Le verdict Vrai demeure celui du corrigé.",
+    "refs": [
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : BFGIKLN ; I : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "BFGIKLN",
+      "items": {
+        "I": "Vrai"
+      },
+      "explanations": {
+        "I": "Vrai et aussi vrai pour les hématies fœtales"
+      }
+    },
+    "noteId": "embryo-ue5-assist-044",
+    "reviewedItemText": {
+      "I": "Les hématies embryonnaires sont toujours constituées d’hémoglobine de type alpha et gamma, qu’elles soient nucléés ou anucléés."
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 4,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : la comparaison « péricarde et épicarde » nécessite de préciser péricarde pariétal. La ronéo S4 inclut l’épicarde dans le péricarde comme feuillet viscéral et donne aux feuillets pariétal et viscéral des origines différentes. Le verdict Faux de la source est conservé ; il ne doit pas faire oublier cette définition.",
+    "refs": [
+      {
+        "file": "2- Annales Coeur et Vx LS correction.pdf",
+        "page": 1,
+        "label": "2- Annales Coeur et Vx LS correction.pdf — Q4, p. 1"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 30,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 30"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : A ; E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "A",
+      "items": {
+        "E": "Faux"
+      },
+      "explanations": {
+        "E": "Faux"
+      }
+    },
+    "noteId": "embryo-ue5-assist-045",
+    "reviewedItemText": {
+      "E": "Le péricarde et l’épicarde proviennent du même feuillet."
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 6,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : la réponse « Faux, somatopleure » vise le péricarde pariétal. La ronéo S4 décrit aussi un péricarde viscéral, ou épicarde, dérivé de la splanchnopleure. La formulation générale de l’item et de l’explication doit donc être précisée ; le verdict du corrigé est conservé sans présenter cette réserve de vocabulaire comme une erreur de clé démontrée.",
+    "refs": [
+      {
+        "file": "2- Annales Coeur et Vx LS correction.pdf",
+        "page": 2,
+        "label": "2- Annales Coeur et Vx LS correction.pdf — Q6, p. 2"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 30,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 30"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AB ; D : Faux",
+    "sourceVerdictDetails": {
+      "answer": "AB",
+      "items": {
+        "D": "Faux"
+      },
+      "explanations": {
+        "D": "Faux somatopleure"
+      }
+    },
+    "noteId": "embryo-ue5-assist-046",
+    "reviewedItemText": {
+      "D": "Le péricarde est formé par la splanchnopleure"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 9,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le corrigé remplace S6 par S4 pour le début de l’hématopoïèse intra-embryonnaire hépatique. L’autotest cœur Q2K affirme pourtant que toutes les hématies sont encore d’origine extra-embryonnaire jusqu’à S6. La ronéo S3 ne donne pas la date précise du relais hépatique ; le désaccord entre corrigés reste explicitement non résolu.",
+    "refs": [
+      {
+        "file": "2- Annales Coeur et Vx LS correction.pdf",
+        "page": 2,
+        "label": "2- Annales Coeur et Vx LS correction.pdf — Q9, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AE ; D : Faux",
+    "sourceVerdictDetails": {
+      "answer": "AE",
+      "items": {
+        "D": "Faux"
+      },
+      "explanations": {
+        "D": "Faux 4e S avec le foie"
+      }
+    },
+    "noteId": "embryo-ue5-assist-047",
+    "reviewedItemText": {
+      "D": "L'hématopoïèse intra-embryonnaire débute à partir de la sixième semaine"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 9,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "L’affirmation générale sur des hématies fœtales nucléées n’est pas harmonisée avec l’autotest cœur Q9, qui distingue hématies primitives nucléées et hématies définitives anucléées. La généralisation ne peut pas être certifiée à partir de la ronéo S3, limitée au démarrage de l’hématopoïèse. La clé Vrai de l’annale est conservée.",
+    "refs": [
+      {
+        "file": "2- Annales Coeur et Vx LS correction.pdf",
+        "page": 2,
+        "label": "2- Annales Coeur et Vx LS correction.pdf — Q9, p. 2"
+      },
+      {
+        "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 48,
+        "label": "Embryo/Roneo S3.PDF — p. 48"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AE ; E : Vrai",
+    "sourceVerdictDetails": {
+      "answer": "AE",
+      "items": {
+        "E": "Vrai"
+      },
+      "explanations": {
+        "E": "Vrai"
+      }
+    },
+    "noteId": "embryo-ue5-assist-048",
+    "reviewedItemText": {
+      "E": "Les hématies fœtales sont nucléées"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 11,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "À vérifier dans la ronéo : « péricarde » doit être précisé ici en péricarde pariétal pour l’opposer à l’épicarde. La ronéo S4 distingue le feuillet pariétal issu de la somatopleure et le feuillet viscéral/épicarde issu de la splanchnopleure. Le verdict de la source reste inchangé.",
+    "refs": [
+      {
+        "file": "2- Annales Coeur et Vx LS correction.pdf",
+        "page": 3,
+        "label": "2- Annales Coeur et Vx LS correction.pdf — Q11, p. 3"
+      },
+      {
+        "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+        "page": 30,
+        "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 30"
+      }
+    ],
+    "sourceVerdict": "Clé de référence : AD ; E : Faux",
+    "sourceVerdictDetails": {
+      "answer": "AD",
+      "items": {
+        "E": "Faux"
+      },
+      "explanations": {
+        "E": "Faux"
+      }
+    },
+    "noteId": "embryo-ue5-assist-049",
+    "reviewedItemText": {
+      "E": "Le péricarde et l'épicarde proviennent du même feuillet"
+    }
+  }
+]

@@ -1,0 +1,3409 @@
+{
+  "checks": 486,
+  "failures": [],
+  "details": [
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 1,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 2,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 3,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 4,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 5,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 6,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 7,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 8,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 9,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 10,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 11,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc1",
+      "id": 12,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 1,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 2,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 3,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 4,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 5,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 6,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 7,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 8,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 9,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 10,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 11,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 12,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc2",
+      "id": 13,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 1,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 2,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 3,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 4,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 5,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 6,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 7,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 8,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 9,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 10,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 11,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 12,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 13,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 14,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 15,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 16,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 17,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 18,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 19,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 20,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 21,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 22,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 23,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "subject",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "subject",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "subject",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "subject",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "subject",
+      "item": "E",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "correction",
+      "item": "A",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "correction",
+      "item": "B",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "correction",
+      "item": "C",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "correction",
+      "item": "D",
+      "complete": true
+    },
+    {
+      "bank": "histo.tc3",
+      "id": 24,
+      "side": "correction",
+      "item": "E",
+      "complete": true
+    }
+  ],
+  "symbolEquivalence": "Word Symbol F061 / PDF U+F061 = α, visually confirmed"
+}

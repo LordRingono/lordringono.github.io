@@ -1,0 +1,1276 @@
+[
+  {
+    "bank": "histo.tn3",
+    "id": 7,
+    "images": [
+      "static/v4_histo_tn3_q7_labels.png"
+    ],
+    "observation": "Contre-vérification du DOCX : les lettres A/B/C existent bien en surcouche Word. Le rendu source intégral du schéma restaure la correspondance des flèches sans modifier la clé AC. Complète la première revue TN3.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 2,
+    "images": [
+      "static/docx_8bf7a6806f51.png",
+      "static/docx_8d843537c7c9.png",
+      "static/docx_a8c1b531cbb8.png",
+      "static/docx_3a09ab8d3e84.png",
+      "static/docx_08f18e2cb8f8.png"
+    ],
+    "observation": "Cinq photographies GFP vues séparément : motifs membranaires ou cytosoliques cohérents avec les items. Les légendes 1.A–1.E perdues sont récupérées dans le DOCX. La résolution limitée est celle des originaux.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 3,
+    "images": [
+      "static/docx_8bf7a6806f51.png",
+      "static/docx_8d843537c7c9.png",
+      "static/docx_a8c1b531cbb8.png",
+      "static/docx_3a09ab8d3e84.png",
+      "static/docx_08f18e2cb8f8.png"
+    ],
+    "observation": "Cinq photographies GFP vues séparément : motifs membranaires ou cytosoliques cohérents avec les items. Les légendes 1.A–1.E perdues sont récupérées dans le DOCX. La résolution limitée est celle des originaux.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 4,
+    "images": [
+      "static/docx_96e6807858ce.png"
+    ],
+    "observation": "Cytogrammes et histogramme vus : après prétraitement à l’étoposide, les populations Ann+/IP+ et Ann+/IP− sous ouabaïne passent de36%/21% à12%/15%. La différence de formulation nécrose/apoptose et le rejet de E dans le corrigé sont explicités dans une note ; aucune nouvelle clé scientifique.",
+    "figureStatus": "reviewed_with_source_conflict"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 6,
+    "images": [
+      "static/docx_bc3d3195d684.png"
+    ],
+    "observation": "Gel 2D vu : séparation horizontale selon le point isoélectrique, verticale selon la masse. Les repères sont présents ; aucune anomalie d’appariement de l’image identifiée.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.cm2oral",
+    "id": 7,
+    "images": [
+      "static/docx_bec3b9fba085.png"
+    ],
+    "observation": "Western blots vus : tubuline témoin semblable, signal phospho-mTOR diminué dans la seconde condition et mTOR total distinct. Les bandes et conditions nécessaires aux items sont présentes.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.cm6",
+    "id": 3,
+    "images": [
+      "static/docx_556267fcdbeb.png",
+      "static/v4_bio_cm6_q3_glycerol.png"
+    ],
+    "observation": "Le premier schéma représente un phospholipide ; le second, confirmé au rendu DOCX, est la formule du glycérol et manquait à l’écran. Restauration proposée ; clé D inchangée.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.cm6",
+    "id": 4,
+    "images": [
+      "static/docx_a672475412fa.png"
+    ],
+    "observation": "Schéma structural X–sphingosine–acide gras vu ; tête, squelette et queue sont discernables. Pas de nouvelle anomalie d’import visuelle.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.cm8",
+    "id": 6,
+    "images": [
+      "static/v4_bio_cm8_q6_rendered.png"
+    ],
+    "observation": "Rendu Word original inspecté : il masque l’interface Acrobat et l’ancienne échelle0,3µm du raster brut, et comporte une flèche et une nouvelle barre sans nombre. Restauration fidèle proposée. Le décalage4items/5items entre sujet et corrigé est signalé séparément.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.cm3",
+    "id": 5,
+    "images": [
+      "static/docx_1c5d52a10f36.jpeg"
+    ],
+    "observation": "JPEG supplémentaire absent du manifest mais présent dans output/site : quatre panneaux de levure bourgeonnante et anneau contractile vus ; échelle 10 µm visible. Pas de fichier à restaurer.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 10,
+    "images": [],
+    "observation": "Figure parasite du QCM suivant, confirmée par la page source ; retrait proposé.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 11,
+    "images": [
+      "static/v4_histo_ann_te_q11_panels.png"
+    ],
+    "observation": "Source inspectée : T pseudostratifié cilié, S pavimenteux simple, R cylindrique simple. Deux panneaux et trois légendes étaient absents ; la planche originale complète est proposée, clé BCDE conservée.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 13,
+    "images": [
+      "static/figure_histo_ann_te_013.png"
+    ],
+    "observation": "Trois schémas R/S/T vus ; légendes lisibles et correspondance avec les types d’épithélium des items. Pas de nouvelle anomalie visuelle.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 17,
+    "images": [
+      "static/figure_histo_ann_te_017.png"
+    ],
+    "observation": "Cinq architectures glandulaires A–E vues ; branches, tubules et unités sécrétrices visibles. Pas de perte de panneau ou de lettre observée.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 24,
+    "images": [
+      "static/figure_histo_ann_te_024.png"
+    ],
+    "observation": "Deux schémas épithéliaux numérotés 1 et 2 vus, avec leurs cils ; les deux numéros et les noyaux sont visibles. Pas de nouvelle anomalie d’import.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 37,
+    "images": [],
+    "observation": "Le schéma osseux appartient au QCM suivant ; retrait de l’image parasite confirmé dans le PDF.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 38,
+    "images": [
+      "static/figure_histo_ann_tc_038.png"
+    ],
+    "observation": "Schéma osseux avec lettres H/J/K/L/M vu et comparé aux items : cellules de surface, cellule multinucléée, canal central et cellule incluse sont identifiables. Figure correcte pour le Q17 source.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 8,
+    "images": [
+      "static/figure_histo_ann_tn_008.png"
+    ],
+    "observation": "Coupe schématique d’un nerf avec repères 1–4 vue ; tous les repères nécessaires sont présents. Texte parasite du QCM suivant retiré de E avec preuve source.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 55,
+    "images": [],
+    "observation": "Micrographie parasite appartenant au QCM suivant, vérifiée dans la source ; retrait proposé.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 59,
+    "images": [],
+    "observation": "Micrographie parasite appartenant au QCM suivant, vérifiée dans la source ; retrait proposé.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 56,
+    "images": [
+      "static/figure_histo_ann_tn_056.png"
+    ],
+    "observation": "Neurone coloré au bleu de toluidine vu : noyau pâle, nucléole et cytoplasme granuleux visibles. Figure adaptée aux items ; pas de perte de légende.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 57,
+    "images": [
+      "static/figure_histo_ann_tn_057.png"
+    ],
+    "observation": "Micrographie de synapse chimique vue : une flèche et des vésicules présynaptiques visibles, avec densification membranaire. Aucun défaut d’appariement observé.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 60,
+    "images": [
+      "static/figure_histo_ann_tn_060.png"
+    ],
+    "observation": "Même type de synapse, avec deux flèches dans la version source. Le corrigé distingue déjà la flèche gauche lisse et la flèche droite à manteau ; cette ambiguïté de la consigne est bien documentée dans l’explication existante.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 11,
+    "images": [
+      "static/figure_histo_ann_tech_011.png"
+    ],
+    "observation": "Photographie de tubes séminifères vue : échelle 100 µm, plusieurs étages cellulaires, lumière et espaces de rétraction visibles. Contexte réellement commun aux deux QCM, à conserver.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 12,
+    "images": [
+      "static/figure_histo_ann_tech_012.png"
+    ],
+    "observation": "Photographie de tubes séminifères vue : échelle 100 µm, plusieurs étages cellulaires, lumière et espaces de rétraction visibles. Contexte réellement commun aux deux QCM, à conserver.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 15,
+    "images": [
+      "static/figure_histo_ann_tech_015.png"
+    ],
+    "observation": "Coupe transversale de langue vue à faible grossissement ; la surface et les saillies sont visibles. Le conflit interne sur A (clé vraie / explication contraire) est déjà signalé par une note ; pas de changement de clé sur la seule image.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 16,
+    "images": [],
+    "observation": "La microphotographie de langue est rattachée à la question précédente, pas aux items de préparation ; retrait de l’image parasite.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 21,
+    "images": [
+      "static/figure_histo_ann_tech_021.png"
+    ],
+    "observation": "Image de biodistribution vue avec pseudo-couleurs et organes ; restauration du protocole original et des définitions des deux conditions, nécessaires pour interpréter le document.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 22,
+    "images": [
+      "static/figure_histo_ann_tech_022.png"
+    ],
+    "observation": "Quatre micrographies pulse-chase vues : temps3/7/37/117 min et grains de marquage présents. Le glissement endocrine/exocrine dans l’explication est déjà traité dans la note existante.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "images": [
+      "static/figure_histo_ann_tech_024.png"
+    ],
+    "observation": "Figure8 vue : contrôles et deux lignées de patients identifiés, crêtes moins visibles dans la dernière et membranes encore présentes. Protocole inclus dans le raster ; pas de nouvelle perte.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 25,
+    "images": [
+      "static/v4_histo_ann_tech_q25_original.png"
+    ],
+    "observation": "Image mitochondriale importée sans rapport avec les items. La vraie coupe épithéliale et sa flèche jaune sont récupérées dans le sujet ; source et corrigé concordent sur la planche attendue. Clé ADE conservée.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 28,
+    "images": [],
+    "observation": "Le schéma appartient au Q17 source (ID30). L’image parasite est retirée après contrôle de la page.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 29,
+    "images": [],
+    "observation": "Le schéma appartient au Q17 source (ID30). L’image parasite est retirée après contrôle de la page.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 30,
+    "images": [
+      "static/histo_ann_tech_030_micrograph_original.png"
+    ],
+    "observation": "Micrographie DAB restaurée antérieurement vue : marquage brun membranaire, nombreux noyaux et structures glandulaires ; la source confirme que cette figure appartient à cette question.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 35,
+    "images": [
+      "static/figure_histo_ann_tech_035.png"
+    ],
+    "observation": "Deux images vues, trichrome et fluorescence, avec flèches jaunes et noyaux. Pas de panneau ou de légende perdu ; les estimations de taille restent celles du corrigé.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 11,
+    "images": [
+      "static/figure_histo_autotech_011.png"
+    ],
+    "observation": "Document C vu : coupe transversale de canal, épithélium et collagène coloré en bleu autour de la lumière. Figure concordante avec les items, sans nouvelle anomalie.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 9,
+    "images": [
+      "static/figure_bio_ann_cm2_009.png"
+    ],
+    "observation": "Micrographies mitochondriales avec protocole Leber et légendes des trois lignées vues. Crêtes et membranes visibles ; figure8 complète et adaptée aux items.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 10,
+    "images": [
+      "static/figure_bio_ann_cm2_010.png"
+    ],
+    "observation": "Images JC-1 et histogramme vus : barres, significativité et relation fluorescence/potentiel sont explicités dans la légende. La figure9 est complète.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 11,
+    "images": [
+      "static/figure_bio_ann_cm2_009.png",
+      "static/figure_bio_ann_cm2_010.png",
+      "static/figure_bio_ann_cm2_011.png"
+    ],
+    "observation": "Six cytogrammes annexine V/IP, quadrants et histogrammes vus ; les données des figures8/9 précédentes sont jointes pour rendre l’item E autonome lors du filtrage.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 12,
+    "images": [
+      "static/figure_bio_ann_cm2_012.png"
+    ],
+    "observation": "Six cytogrammes Calcéine/HE et Calcéine/TMRM vus, avec doses, pourcentages et axes. Protocole complet dans la consigne ; pas de perte visuelle identifiée.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 13,
+    "images": [
+      "static/figure_bio_ann_cm2_013.png"
+    ],
+    "observation": "Panneaux de fluorescence488nm, anticorps633nm et superposition vus ; protocole GFP1–10/S11 et définitions OMM/IMS/mt récupérés dans le sujet. La figure1 est commune aux deux premières questions.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 14,
+    "images": [
+      "static/figure_bio_ann_cm2_014.png"
+    ],
+    "observation": "Panneaux de fluorescence488nm, anticorps633nm et superposition vus ; protocole GFP1–10/S11 et définitions OMM/IMS/mt récupérés dans le sujet. La figure1 est commune aux deux premières questions.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 15,
+    "images": [
+      "static/figure_bio_ann_cm2_013.png",
+      "static/figure_bio_ann_cm2_015.png"
+    ],
+    "observation": "Panneaux de fluorescence488nm, anticorps633nm et superposition vus ; protocole GFP1–10/S11 et définitions OMM/IMS/mt récupérés dans le sujet. Les deux figures sont jointes pour la comparaison WT/A53T.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 1,
+    "images": [
+      "static/figure_bio_ann_cm3_001.png"
+    ],
+    "observation": "Réseau fibrillaire vu en relief ; figure bien associée à D. Pas de nouvelle anomalie d’import.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 3,
+    "images": [
+      "static/v4_bio_ann_cm3_q3_B.png",
+      "static/v4_bio_ann_cm3_q3_C.png",
+      "static/figure_bio_ann_cm3_003.png"
+    ],
+    "observation": "Source entière et trois panneaux vus : fibres d’actine, filamine et tropomyosine. Les deux premiers avaient disparu. Le doute déjà imprimé dans la correction sur la migration est conservé, sans déduire un mouvement de la seule photographie.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 4,
+    "images": [
+      "static/figure_bio_ann_cm3_004.png"
+    ],
+    "observation": "Image de microtubules vue avec flèche rouge convergeant vers le foyer périnucléaire ; figure adaptée à E. Le problème de formulation de A est déjà annoté.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 5,
+    "images": [],
+    "observation": "Figure parasite du QCM précédent ; retrait confirmé dans la source.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 6,
+    "images": [
+      "static/figure_bio_ann_cm3_006.png"
+    ],
+    "observation": "Figure4 fluorescente du réseau microtubulaire vue ; image présente et adaptée aux deux premiers items.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 8,
+    "images": [
+      "static/figure_bio_ann_cm3_008.png",
+      "static/v4_bio_ann_cm3_q8_figure5.png"
+    ],
+    "observation": "Réseau de lamina et paire d’IRM vus dans la source. La légende d’IRM ne doit pas être appliquée à la micrographie ; le deuxième panneau est restauré et les deux références sont distinguées.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 9,
+    "images": [],
+    "observation": "Figure parasite du QCM suivant ; retrait après contrôle du PDF.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 11,
+    "images": [],
+    "observation": "Figure parasite du QCM suivant ; retrait après contrôle du PDF.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 10,
+    "images": [
+      "static/figure_bio_ann_cm3_010.png"
+    ],
+    "observation": "Planche épidermolyse avec panneaux A/B/C et barre40µm vue ; le décollement et le schéma interprétatif sont tous présents.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 12,
+    "images": [
+      "static/figure_bio_ann_cm3_012.png"
+    ],
+    "observation": "Deux cellules témoin/colcémide et repère A vus ; le protocole et le repère sont présents, sans nouvelle perte.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 13,
+    "images": [
+      "static/v4_bio_ann_cm3_q13_figure3.png",
+      "static/figure_bio_ann_cm3_013.png"
+    ],
+    "observation": "Figure3 en microscopie électronique et figure4 fluorescente vues dans leur contexte. La première avait été perdue ; restauration sans modification de CDE.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 1,
+    "images": [
+      "static/figure_bio_ann_cm4_001.png"
+    ],
+    "observation": "Deux schémas A/B vus avec charges, motif asparagine et flèches1/2 ; tous les repères sont présents. La confusion SRP/récepteur est déjà annotée.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 2,
+    "images": [
+      "static/figure_bio_ann_cm4_002.png"
+    ],
+    "observation": "Schéma d’import RE vu avec flèches1/2/3 distinctes ; aucun repère perdu. Les lettres finales B/E parasites se trouvent déjà dans le texte du sujet source.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 3,
+    "images": [
+      "static/figure_bio_ann_cm4_003.png"
+    ],
+    "observation": "Schéma de trafic vu avec flèches1–5. Le compartiment3 et l’item de sécrétion constitutive nécessitent la note de contradiction avec une autre clé du même schéma.",
+    "figureStatus": "reviewed_with_source_conflict"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 4,
+    "images": [
+      "static/v4_bio_ann_cm4_q4_protein.png"
+    ],
+    "observation": "Charges N/C et segment hydrophobe de20AA vus dans la vraie figure restaurée. Le schéma de trafic étranger est remplacé ; le désaccord sur la généralisation des segments impairs/pairs reste annoté à clé constante.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 6,
+    "images": [
+      "static/figure_bio_ann_cm4_006.png"
+    ],
+    "observation": "Topologie à six passages transmembranaires vue ; N-terminal glycosylé et charges flanquantes visibles malgré un original peu contrasté. Aucun segment perdu.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 1,
+    "images": [
+      "static/figure_bio_ann_cm5_001.png"
+    ],
+    "observation": "Cycle de modification d’un oligosaccharide vu, avec flèche marquée ?. La correction disponible ne fournit pas une clé complète et certaine de ce QCM ; aucune réponse déduite du seul dessin.",
+    "figureStatus": "reviewed_without_complete_key"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 3,
+    "images": [
+      "static/figure_bio_ann_cm5_003.png"
+    ],
+    "observation": "Figure de trafic à flèches1–4 vue ; compartiment3 sur la voie endocytique et légendes visibles. Contradiction de verdict entre annales sur la sécrétion constitutive signalée séparément.",
+    "figureStatus": "reviewed_with_source_conflict"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "images": [
+      "static/v4_bio_ann_cm5_q4_arrows.png"
+    ],
+    "observation": "Le schéma numéroté1/2 correspondait au QCM suivant. Les flèches1–5 attendues sont récupérées dans le sujet. La clé BDE reste celle du corrigé ; les contradictions scientifiques sont annotées.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 5,
+    "images": [
+      "static/figure_bio_ann_cm5_005.png"
+    ],
+    "observation": "Figure à repères1/2 vue et confirmée dans le Q42 source. Seul un en-tête parasite est retiré de A ; figure et clé D conservées.",
+    "figureStatus": "reviewed_source_restoration_proposed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 8,
+    "images": [
+      "static/figure_bio_ann_cm5_008.png"
+    ],
+    "observation": "Figure7 vue intégralement : protocole des deux souches et11 conditions SNARE lisibles. La coexistence v/t sur les deux souches donne la plus forte activité ; désaccord sur l’item Rab déjà annoté.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 9,
+    "images": [],
+    "observation": "Courbes parasites du QCM suivant ; retrait confirmé dans le sujet. La note scientifique existante reste indépendante de ce retrait.",
+    "figureStatus": "reviewed_wrong_attachment"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 10,
+    "images": [
+      "static/figure_bio_ann_cm5_010.png"
+    ],
+    "observation": "Courbes A linéaire/B saturable vues, axes et concentrations lisibles ; figure bien associée au Q48 source. Le désaccord sur C reste déjà documenté.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 11,
+    "images": [
+      "static/figure_bio_ann_cm5_011.png"
+    ],
+    "observation": "Figure4 commune vue avec les sept repères, flèches RE/Golgi/membrane/endosomes. Le rattachement aux deux QCM est explicite dans le PDF ; conserver ce contexte partagé.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 12,
+    "images": [
+      "static/figure_bio_ann_cm5_012.png"
+    ],
+    "observation": "Figure4 commune vue avec les sept repères, flèches RE/Golgi/membrane/endosomes. Le rattachement aux deux QCM est explicite dans le PDF ; conserver ce contexte partagé.",
+    "figureStatus": "reviewed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 13,
+    "images": [
+      "static/figure_bio_ann_cm5_013.png"
+    ],
+    "observation": "Deux micrographies immunogold Sec62 et GFP-Rab7 vues avec flèches et particules noires. La justification B/E du corrigé contredit le principe annoncé du marquage ; note ciblée proposée à clé B constante.",
+    "figureStatus": "reviewed_with_source_conflict"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 16,
+    "images": [
+      "static/figure_bio_ann_cm5_016.png"
+    ],
+    "observation": "Le document importé est bien le texte de protocole UBQLN2/MTM1 listant les constructions GFP dans la compilation. La figure6 évoquée dans la consigne n’est pas reproduite dans cette source ; aucune figure inventée.",
+    "figureStatus": "reviewed_with_missing_original_figure"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 1,
+    "images": [
+      "static/figure_bio_ann_cm6_001.png"
+    ],
+    "observation": "La micrographie, son échelle et le réseau de jonctions sont présents ; correspondance avec E et avec la page 2 du sujet vérifiée. B et E restent les items retenus.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 2,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 2,
+    "originalAnswer": "BE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 2,
+    "images": [
+      "static/v4_bio_ann_cm6_002_triglyceride.png"
+    ],
+    "observation": "Image actuelle _002 inspectée : micrographie du Q1 au lieu de la molécule. Le sujet montre un glycérol estérifié par trois acides gras, ce qui explique B faux. Figure restaurée ; AD inchangée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 2,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 3,
+    "originalAnswer": "AD",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm6_002.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 6,
+    "images": [
+      "static/figure_bio_ann_cm6_006.png"
+    ],
+    "observation": "La coupe montre une mitochondrie et ses crêtes, pas une bactérie. L’image correspond à C ; rejet de C cohérent avec la figure. Clé AD inchangée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 4,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 5,
+    "originalAnswer": "AD",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 7,
+    "images": [
+      "static/v4_bio_ann_cm6_007_C.png",
+      "static/v4_bio_ann_cm6_007_D.png",
+      "static/figure_bio_ann_cm6_007.png"
+    ],
+    "observation": "C représente un glycosphingolipide, D un seul domaine hydrophobe, E une image de cryofracture. C et D omis dans le site sont restaurés. Figure 1 absente du PDF et commentaire A contradictoire : annotation spécifique. La modalité de E suit la source et son cours ; aucun arbitrage externe ajouté.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 5,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 6,
+    "originalAnswer": "A",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_and_source_limit",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm6_007.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 11,
+    "images": [],
+    "observation": "L’image est le graphe de diffusion du Q12 ; aucun item du Q11 ne l’utilise. Retrait proposé. Note UE5-066 sur A conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 7,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 9,
+    "originalAnswer": "CDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm6_011.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 12,
+    "images": [
+      "static/figure_bio_ann_cm6_012.png"
+    ],
+    "observation": "Le fichier _012 montre la courbe A saturable et la droite B ; A correspond à une diffusion facilitée. Figure et clé ABD alignées ; le cours décrit les canaux comme pratiquement non saturables.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 7,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 9,
+    "originalAnswer": "ABD",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 13,
+    "images": [
+      "static/figure_bio_ann_cm6_013.png"
+    ],
+    "observation": "Figure et légende annexine V/FITC lisibles ; les cellules fléchées exposent la phosphatidylsérine, contexte apoptotique plutôt que division. Clé DE cohérente.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 8,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 10,
+    "originalAnswer": "DE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 15,
+    "images": [
+      "static/figure_bio_ann_cm6_015.png"
+    ],
+    "observation": "Sept segments hydrophobes numérotés sont visibles ; C concorde. Légende présente. Clé CDE conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 9,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 11,
+    "originalAnswer": "CDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 16,
+    "images": [
+      "static/figure_bio_ann_cm6_016.png"
+    ],
+    "observation": "Protocole voltage-clamp, panneaux A/B/C et inhibition TTX/TEA présents. Le courant sodique est entrant transitoire, le courant potassique sortant soutenu ; A/B/C sont raccordés aux bonnes courbes. Clé ABCD conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 10,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 12,
+    "originalAnswer": "ABCD",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 22,
+    "images": [
+      "static/figure_bio_ann_cm6_022.png"
+    ],
+    "observation": "La fluorescence en A diminue sous blanchiment continu de B : FLIP, conforme au rejet de B et à D vrai. Image et protocole dans l’énoncé concordent. Clé DE conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 13,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 16,
+    "originalAnswer": "DE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "id": 24,
+    "images": [
+      "static/v4_bio_ann_cm6_024_A.png",
+      "static/figure_bio_ann_cm6_024.png"
+    ],
+    "observation": "Le schéma FLIP de E est correct ; le profil hydrophobe de A manque et est récupéré p14. La source p19 indique RIEN et cinq FAUX ; restauration du statut de clé vide explicite et des commentaires.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC membranes biologiques.pdf",
+    "subjectPage": 14,
+    "sourceCorrection": "Correction ACC membranes biologiques.pdf",
+    "correctionPage": 18,
+    "originalAnswer": "",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm6_024.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 1,
+    "images": [
+      "static/figure_bio_ann_cm7_001.png"
+    ],
+    "observation": "Flèche 1 : importine avec cargo ; flèche 2 : composant SUN de la membrane interne, relié à la lamina. Appariement des items et clé ABCE vérifiés.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 2,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 2,
+    "originalAnswer": "ABCE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 2,
+    "images": [
+      "static/figure_bio_ann_cm7_002.png"
+    ],
+    "observation": "Même schéma de transport/LINC avec flèches 1 et 2 ; ABCE concorde. Le fragment final « 2. » après E appartient à la séparation avant l’annale suivante. Le QCM F–J suivant est rétabli séparément sous ID12.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 3,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 3,
+    "originalAnswer": "ABCE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 3,
+    "images": [
+      "static/figure_bio_ann_cm7_003.png"
+    ],
+    "observation": "Point 1 : nucléole ; point 2 : hétérochromatine périphérique dense. D vrai et E faux sont appariés aux bons repères ; AD conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 4,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 4,
+    "originalAnswer": "AD",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 4,
+    "images": [
+      "static/figure_bio_ann_cm7_004.png"
+    ],
+    "observation": "Figure 5 lisible : ACT dans le sens du squelette 5′→3′ ; E faux, mais justification originale sur l’oxygène incorrecte. Note existante sur la masse de 100 pg conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 5,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 5,
+    "originalAnswer": "AC",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_with_annotation"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 5,
+    "images": [
+      "static/figure_bio_ann_cm7_005.png"
+    ],
+    "observation": "GFP-S2 et GFP-S1-S2 sont nucléaires, GFP seule et GFP-S1 cytosoliques ; cela étaye S2 suffisant et S1 non nécessaire. La construction GFP seule exclue du noyau reste la limite signalée par UE5-073 ; la figure ne donne pas sa masse.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 6,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 6,
+    "originalAnswer": "BC",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_existing_note"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 6,
+    "images": [
+      "static/figure_bio_ann_cm7_006.png"
+    ],
+    "observation": "Les queues de nucléoplasmine permettent l’accumulation nucléaire ; les têtes seules restent dans le compartiment injecté. B concorde avec l’image. Notes existantes sur les types chromosomiques C et les boucles E conservées.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 7,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 7,
+    "originalAnswer": "BDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_existing_note"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 7,
+    "images": [
+      "static/figure_bio_ann_cm7_007.png"
+    ],
+    "observation": "Les repères montrent cytoplasme/nucléoplasme, hétérochromatine, nucléole et mitochondrie ; C/D/E correctement associés. Réserve ajoutée sur « traverser 2 membranes » en B : passage par le canal du pore.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 8,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 8,
+    "originalAnswer": "BD",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_with_annotation"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 8,
+    "images": [],
+    "observation": "Le fichier _008 est la micrographie du Q7, sans renvoi par les items de Q8. Retrait proposé. La note existante sur GTP/Ran-GTP reste valable.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 8,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 9,
+    "originalAnswer": "BE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm7_008.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 9,
+    "images": [
+      "static/figure_bio_ann_cm7_009.png"
+    ],
+    "observation": "La figure comporte le contexte des sondes chromosomiques, les deux états, les lamines et le détail FG. Les pores non spécialisés et FG non rigides sont cohérents avec les rejets C/D. A ne peut être confirmé comme activation sur ce schéma ; la clé E est conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 9,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 10,
+    "originalAnswer": "E",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 11,
+    "images": [
+      "static/figure_bio_ann_cm7_011.png"
+    ],
+    "observation": "Les panneaux −AA/G et +AA/G montrent le rapprochement mTOR/Lamp2 ; le contexte de 2 h et l’identité membranaire de Lamp2 étaient omis de l’énoncé et sont rétablis. Note existante sur NLS/Lamp2 A conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "ACC le noyau.pdf",
+    "subjectPage": 10,
+    "sourceCorrection": "Correction ACC le noyau.pdf",
+    "correctionPage": 11,
+    "originalAnswer": "ACDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 2,
+    "images": [
+      "static/v4_bio_ann_cm10_002_figure_legende.png"
+    ],
+    "observation": "Courbe de croissance bloquée, β-galactosidase accrue, FSC accru et p21 accru après étoposide concordent avec BDE. Légende expérimentale omise récupérée dans le PDF.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "Annales CM10 2023-2025.pdf",
+    "subjectPage": 3,
+    "sourceCorrection": "Annales corrigées CM10 2023-2025.pdf",
+    "correctionPage": 3,
+    "originalAnswer": "BDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm10_002.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 3,
+    "images": [
+      "static/v4_bio_ann_cm10_003_figure_legende.png"
+    ],
+    "observation": "La fraction annexine positive sous ouabaïne passe de 57 % environ chez les contrôles à 27 % environ après étoposide ; E reflète cette résistance relative. Légende omise récupérée. Annotation distincte sur la famille BCL2 dans le commentaire de D ; clé ABCDE inchangée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "Annales CM10 2023-2025.pdf",
+    "subjectPage": 4,
+    "sourceCorrection": "Annales corrigées CM10 2023-2025.pdf",
+    "correctionPage": 4,
+    "originalAnswer": "ABCDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm10_003.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 4,
+    "images": [
+      "static/figure_bio_ann_cm10_004.png"
+    ],
+    "observation": "1 : crêtes mitochondriales ; 2 : élément englobé et non noyau entier ; 4 : double membrane autophagique ; 5 : mitochondrie. Figure au MET, échelle 1 µm lisible ; clé ADE conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "Annales CM10 2023-2025.pdf",
+    "subjectPage": 5,
+    "sourceCorrection": "Annales corrigées CM10 2023-2025.pdf",
+    "correctionPage": 5,
+    "originalAnswer": "ADE",
+    "scientificKeyChanged": false,
+    "figureStatus": "reviewed_no_new_anomaly"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 8,
+    "images": [
+      "static/v4_bio_ann_cm10_008_figure_legende.png"
+    ],
+    "observation": "Courbe Mock supérieure à BRAFm ; le graphe seul ne permet pas de nommer le mécanisme de ralentissement ou de mort. Légende comprenant BRAF V600E, index et début du comptage au jour 1 récupérée ; clé A conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "Annales CM10 2023-2025.pdf",
+    "subjectPage": 6,
+    "sourceCorrection": "Annales corrigées CM10 2023-2025.pdf",
+    "correctionPage": 8,
+    "originalAnswer": "A",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm10_008.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 9,
+    "images": [
+      "static/v4_bio_ann_cm10_009_tableau_legende.png"
+    ],
+    "observation": "L’image actuelle est celle de Q10 ; le véritable tableau donne 96 % Mock et 95 % BRAFm doublement négatifs (annexine/IP), ce qui réfute D/E. Tableau et légende récupérés ; AB inchangée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "Annales CM10 2023-2025.pdf",
+    "subjectPage": 7,
+    "sourceCorrection": "Annales corrigées CM10 2023-2025.pdf",
+    "correctionPage": 9,
+    "originalAnswer": "AB",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm10_009.png"
+    ]
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "id": 10,
+    "images": [
+      "static/v4_bio_ann_cm10_010_figure_legende.png"
+    ],
+    "observation": "Images A/B correctes, mais légende raster absente ; celle-ci explicite β-galactosidase et DAPI. Récupération complète. Note UE5-091 sur la divergence ABDE/DE et les modalités optiques conservée.",
+    "itemCount": 5,
+    "itemsReviewed": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "sourceSubject": "Annales CM10 2023-2025.pdf",
+    "subjectPage": 7,
+    "sourceCorrection": "Annales corrigées CM10 2023-2025.pdf",
+    "correctionPage": 10,
+    "originalAnswer": "ABDE",
+    "scientificKeyChanged": false,
+    "figureStatus": "source_repair_proposed",
+    "reviewedOriginalImages": [
+      "static/figure_bio_ann_cm10_010.png"
+    ]
+  }
+]

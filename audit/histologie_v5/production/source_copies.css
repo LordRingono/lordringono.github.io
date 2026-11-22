@@ -1,0 +1,14 @@
+/* Scoped to the reviewed histology source menus. */
+.histo-source-copy{background:var(--paper,#fafbf9);border-color:var(--border);padding:9px 12px}
+.histo-source-copy>summary{font-size:11px;font-weight:600;color:var(--muted,#687973)}
+.histo-source-copy>summary:hover{color:var(--teal)}
+.histo-source-copy>summary:focus-visible{outline:2px solid var(--teal);outline-offset:4px;border-radius:3px}
+.histo-source-copy .histo-source-meta{font-size:10px;line-height:1.6;color:var(--muted,#687973);overflow-wrap:anywhere;margin-top:12px}
+.histo-source-copy .histo-source-note{font-size:12px;line-height:1.6;margin:10px 0;color:var(--ink,#243d36)}
+.histo-source-copy figure{margin:10px 0 0;min-width:0}
+.histo-source-copy img{height:auto;max-height:none;margin:0 auto;background:#fff;border-radius:4px}
+.histo-source-copy figcaption{font-size:10px;color:var(--muted,#687973);text-align:center;margin:5px 0 12px}
+.histo-source-copy .histo-source-links{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:11px;margin-top:12px}
+.histo-source-copy a{color:var(--teal);text-underline-offset:3px}
+.correction-body>.histo-source-copy{margin:16px 0 0}
+@media print{.histo-source-copy:not([open]){display:none}}

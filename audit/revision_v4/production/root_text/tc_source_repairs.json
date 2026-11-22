@@ -1,0 +1,194 @@
+{
+  "patches": [],
+  "additions": [
+    {
+      "bank": "histo.ann.tc",
+      "afterId": 39,
+      "question": {
+        "id": 57,
+        "sourceNumber": 11,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu conjonctif (TC)",
+        "question": "Concernant le tissu conjonctif, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "le collagène de type IV est majoritaire dans ce tissu"
+          },
+          {
+            "id": "B",
+            "text": "les fibres élastiques sont constituées à 90% d’élastine"
+          },
+          {
+            "id": "C",
+            "text": "le tissu adipeux est un tissu conjonctif dense"
+          },
+          {
+            "id": "D",
+            "text": "les fibroblastes sont dispersés dans la matrice extracellulaire"
+          },
+          {
+            "id": "E",
+            "text": "l’histiocyte est la forme tissulaire du macrophage"
+          }
+        ],
+        "answer": "BDE",
+        "explanations": {
+          "A": "Faux : il est dans la lamina densa de la membrane basale.",
+          "B": "Vrai.",
+          "C": "Faux : TC lâche.",
+          "D": "Vrai.",
+          "E": "Vrai."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 11,
+        "correctionPage": 13,
+        "sourceSubject": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "sourceCorrection": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "weight": 1
+      },
+      "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 11,
+          "label": "Question 11, juin 2024 session 2 : cinq propositions originales"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 13,
+          "label": "Question 11, juin 2024 session 2 : cinq verdicts explicites"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "afterId": 57,
+      "question": {
+        "id": 58,
+        "sourceNumber": 12,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu conjonctif (TC)",
+        "question": "Concernant le tissu cartilagineux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "il comporte une vascularisation importante"
+          },
+          {
+            "id": "B",
+            "text": "il est utilisé comme matrice pour la croissance osseuse"
+          },
+          {
+            "id": "C",
+            "text": "sa matrice extracellulaire est solide et élastique"
+          },
+          {
+            "id": "D",
+            "text": "le cartilage hyalin est le plus rare dans l’organisme"
+          },
+          {
+            "id": "E",
+            "text": "les pondrocytes produisent la matrice extracellulaire"
+          }
+        ],
+        "answer": "B",
+        "explanations": {
+          "A": "Faux : il est avasculaire.",
+          "B": "Vrai.",
+          "C": "Faux : pas toujours élastique.",
+          "D": "Faux.",
+          "E": "Faux : ce sont les chondroblastes, les chondrocytes renouvellent juste la matrice dans les logettes = chondroplastes."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 12,
+        "correctionPage": 13,
+        "sourceSubject": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "sourceCorrection": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "weight": 1
+      },
+      "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 12,
+          "label": "Question 12, juin 2024 session 2 : cinq propositions originales"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 13,
+          "label": "Question 12, juin 2024 session 2 : cinq verdicts explicites"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tc",
+      "afterId": 58,
+      "question": {
+        "id": 59,
+        "sourceNumber": 13,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu conjonctif (TC)",
+        "question": "Concernant le tissu osseux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+        "options": [
+          {
+            "id": "A",
+            "text": "il est un réservoir d’ions minéraux comme le calcium"
+          },
+          {
+            "id": "B",
+            "text": "il possède une matrice extracellulaire minéralisée, rigide"
+          },
+          {
+            "id": "C",
+            "text": "sa matrice extracellulaire est constituée majoritairement de collagène I"
+          },
+          {
+            "id": "D",
+            "text": "les ostéoclastes fabriquent le tissu osseux"
+          },
+          {
+            "id": "E",
+            "text": "les ostéocytes détruisent le tissu osseux"
+          }
+        ],
+        "answer": "ABC",
+        "explanations": {
+          "A": "Vrai.",
+          "B": "Vrai.",
+          "C": "Vrai.",
+          "D": "Faux : ils la détruisent.",
+          "E": "Faux : ce sont les ostéoclastes."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 12,
+        "correctionPage": 13,
+        "sourceSubject": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "sourceCorrection": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "weight": 1
+      },
+      "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+      "refs": [
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+          "page": 12,
+          "label": "Question 13, juin 2024 session 2 : cinq propositions originales"
+        },
+        {
+          "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+          "page": 13,
+          "label": "Question 13, juin 2024 session 2 : cinq verdicts explicites"
+        }
+      ]
+    }
+  ]
+}

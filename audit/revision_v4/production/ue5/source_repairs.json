@@ -1,0 +1,1054 @@
+[
+  {
+    "bank": "histo.tc2",
+    "id": 1,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 1,
+    "originalAnswer": "AC",
+    "proposedAnswer": "AC",
+    "proposedExplanations": {
+      "A": "et rond",
+      "B": "",
+      "C": "",
+      "D": "bcp pr production de chaleur",
+      "E": "mito avec pigments bruns"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "un noyau central",
+        "verdict": true,
+        "explanation": "et rond",
+        "sourceParagraph": 3,
+        "sourceText": "un noyau central VRAI, et rond"
+      },
+      {
+        "label": "B",
+        "text": "un cytoplasme riche en glycogène",
+        "verdict": false,
+        "explanation": "",
+        "sourceParagraph": 4,
+        "sourceText": "un cytoplasme riche en glycogène Faux"
+      },
+      {
+        "label": "C",
+        "text": "la présence de gouttelettes d’acides gras",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 5,
+        "sourceText": "la présence de gouttelettes d’acides gras Vrai"
+      },
+      {
+        "label": "D",
+        "text": "très peu de mitochondries",
+        "verdict": false,
+        "explanation": "bcp pr production de chaleur",
+        "sourceParagraph": 6,
+        "sourceText": "très peu de mitochondries Faux, bcp pr production de chaleur"
+      },
+      {
+        "label": "E",
+        "text": "une couleur sombre due au gouttelettes de gras qui remplissent le cytoplasme",
+        "verdict": false,
+        "explanation": "mito avec pigments bruns",
+        "sourceParagraph": 7,
+        "sourceText": "une couleur sombre due au gouttelettes de gras qui remplissent le cytoplasme Faux, mito avec pigments bruns"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 2,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 2,
+    "originalAnswer": "AE",
+    "proposedAnswer": "AC",
+    "proposedExplanations": {
+      "A": "",
+      "B": "polygonal",
+      "C": "Coll III non fibreux",
+      "D": "periph",
+      "E": "brun"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "les cellules adipeuses sont entourées d’une membrane basale",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 10,
+        "sourceText": "les cellules adipeuses sont entourées d’une membrane basale Vrai"
+      },
+      {
+        "label": "B",
+        "text": "l’adipocyte brun est cubique",
+        "verdict": false,
+        "explanation": "polygonal",
+        "sourceParagraph": 11,
+        "sourceText": "l’adipocyte brun est cubique Faux polygonal"
+      },
+      {
+        "label": "C",
+        "text": "la membrane basale des adipocytes blancs est riche en réticuline",
+        "verdict": true,
+        "explanation": "Coll III non fibreux",
+        "sourceParagraph": 12,
+        "sourceText": "la membrane basale des adipocytes blancs est riche en réticuline Vrai Coll III non fibreux"
+      },
+      {
+        "label": "D",
+        "text": "le noyau des adipocytes blancs est central",
+        "verdict": false,
+        "explanation": "periph",
+        "sourceParagraph": 13,
+        "sourceText": "le noyau des adipocytes blancs est central Faux , periph"
+      },
+      {
+        "label": "E",
+        "text": "on retrouve UCP1 dans les adipocytes blancs",
+        "verdict": false,
+        "explanation": "brun",
+        "sourceParagraph": 14,
+        "sourceText": "on retrouve UCP1 dans les adipocytes blancs Faux, brun"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 3,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 3,
+    "originalAnswer": "AE",
+    "proposedAnswer": "AE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "il est en périphérie",
+      "C": "pas de fixation en congélation",
+      "D": "gynoide et androide",
+      "E": "ou le noir Soudan"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "le tissu adipeux blanc stocke des triglycérides sous forme d’une enclave lipidique unique chez l’adulte",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 17,
+        "sourceText": "le tissu adipeux blanc stocke des triglycérides sous forme d’une enclave lipidique unique chez l’adulte Vrai"
+      },
+      {
+        "label": "B",
+        "text": "les adipocytes blancs montrent un noyau central unique",
+        "verdict": false,
+        "explanation": "il est en périphérie",
+        "sourceParagraph": 18,
+        "sourceText": "les adipocytes blancs montrent un noyau central unique Faux il est en périphérie"
+      },
+      {
+        "label": "C",
+        "text": "Afin de conserver la qualité morphologique des adipocytes, en MO, on peut fixer le tissu avec du méthanol avant de faire un enrobage et une préparation en congélation",
+        "verdict": false,
+        "explanation": "pas de fixation en congélation",
+        "sourceParagraph": 19,
+        "sourceText": "Afin de conserver la qualité morphologique des adipocytes, en MO, on peut fixer le tissu avec du méthanol avant de faire un enrobage et une préparation en congélation Faux, pas de fixation en congélation"
+      },
+      {
+        "label": "D",
+        "text": "Il a une répartition homogène entre les hommes et les femmes",
+        "verdict": false,
+        "explanation": "gynoide et androide",
+        "sourceParagraph": 20,
+        "sourceText": "Il a une répartition homogène entre les hommes et les femmes Faux gynoide et androide"
+      },
+      {
+        "label": "E",
+        "text": "On peut marquer la gouttelette lipidique avec de l’Oil Red O sur une coupe en congélation",
+        "verdict": true,
+        "explanation": "ou le noir Soudan",
+        "sourceParagraph": 21,
+        "sourceText": "On peut marquer la gouttelette lipidique avec de l’Oil Red O sur une coupe en congélation Vrai ou le noir Soudan"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 4,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 4,
+    "originalAnswer": "ABE",
+    "proposedAnswer": "AE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "aussi dans la partie profonde de la peau fœtal et dans le placenta = mésenchyme embryonnaire",
+      "C": "au niveau de la pulpe dentaire et corps vitré de l’oeil",
+      "D": "des fibroblastes dispersées dans la SF",
+      "E": ""
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "ce TC gélatineux est rare et essentiellement présent durant la vie fœtale",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 24,
+        "sourceText": "ce TC gélatineux est rare et essentiellement présent durant la vie fœtale VRAI"
+      },
+      {
+        "label": "B",
+        "text": "on le trouve uniquement chez le fœtus dans le cordon ombilical, c’est la gelée de Wharton",
+        "verdict": false,
+        "explanation": "aussi dans la partie profonde de la peau fœtal et dans le placenta = mésenchyme embryonnaire",
+        "sourceParagraph": 25,
+        "sourceText": "on le trouve uniquement chez le fœtus dans le cordon ombilical, c’est la gelée de Wharton F aussi dans la partie profonde de la peau fœtal et dans le placenta = mésenchyme embryonnaire"
+      },
+      {
+        "label": "C",
+        "text": "il n’existe plus chez l’adulte",
+        "verdict": false,
+        "explanation": "au niveau de la pulpe dentaire et corps vitré de l’oeil",
+        "sourceParagraph": 26,
+        "sourceText": "il n’existe plus chez l’adulte F au niveau de la pulpe dentaire et corps vitré de l’oeil"
+      },
+      {
+        "label": "D",
+        "text": "il ne contient pas de cellules",
+        "verdict": false,
+        "explanation": "des fibroblastes dispersées dans la SF",
+        "sourceParagraph": 27,
+        "sourceText": "il ne contient pas de cellules F des fibroblastes dispersées dans la SF"
+      },
+      {
+        "label": "E",
+        "text": "l’acide hyaluronique compose l’essentiel de la SF",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 28,
+        "sourceText": "l’acide hyaluronique compose l’essentiel de la SF Vrai"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 5,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 5,
+    "originalAnswer": "BCE",
+    "proposedAnswer": "ABE",
+    "proposedExplanations": {
+      "A": "avec, le T mucoïde, le T réticulaire et le TC fibreux dense et le TC fibreux lâche",
+      "B": "",
+      "C": "il est bitendu",
+      "D": "le stroma = TC fibreux lâche non spécialisé aréolaire",
+      "E": "TC à prédominance cellulaire (comme tissu adipeux)"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "les TC non spécialisés",
+        "verdict": true,
+        "explanation": "avec, le T mucoïde, le T réticulaire et le TC fibreux dense et le TC fibreux lâche",
+        "sourceParagraph": 31,
+        "sourceText": "les TC non spécialisés Vrai avec, le T mucoïde, le T réticulaire et le TC fibreux dense et le TC fibreux lâche"
+      },
+      {
+        "label": "B",
+        "text": "les tissus conjonctifs spécialisés comme le tissu adipeux",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 32,
+        "sourceText": "les tissus conjonctifs spécialisés comme le tissu adipeux Vrai"
+      },
+      {
+        "label": "C",
+        "text": "le TC fibreux dense unitendu que l’on trouve dans le stroma cornéen",
+        "verdict": false,
+        "explanation": "il est bitendu",
+        "sourceParagraph": 33,
+        "sourceText": "le TC fibreux dense unitendu que l’on trouve dans le stroma cornéen Faux il est bitendu"
+      },
+      {
+        "label": "D",
+        "text": "le TC fibreux dense situé par exemple dans le stroma des organes",
+        "verdict": false,
+        "explanation": "le stroma = TC fibreux lâche non spécialisé aréolaire",
+        "sourceParagraph": 34,
+        "sourceText": "le TC fibreux dense situé par exemple dans le stroma des organes Faux le stroma = TC fibreux lâche non spécialisé aréolaire"
+      },
+      {
+        "label": "E",
+        "text": "le TC réticulaire situé dans la moelle osseuse",
+        "verdict": true,
+        "explanation": "TC à prédominance cellulaire (comme tissu adipeux)",
+        "sourceParagraph": 35,
+        "sourceText": "le TC réticulaire situé dans la moelle osseuse  Vrai TC à prédominance cellulaire (comme tissu adipeux)"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 6,
+    "originalAnswer": "ACD",
+    "proposedAnswer": "BCE",
+    "proposedExplanations": {
+      "A": "aussi dans le glycocalyx et dans le plasma sanguin",
+      "B": "",
+      "C": "",
+      "D": "soit a6b1 soit a6b4",
+      "E": "ou collagène 4"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "La fibronectine est une protéine dimérique que l’on ne trouve que dans la MEC du TC lâche",
+        "verdict": false,
+        "explanation": "aussi dans le glycocalyx et dans le plasma sanguin",
+        "sourceParagraph": 40,
+        "sourceText": "La fibronectine est une protéine dimérique que l’on ne trouve que dans la MEC du TC lâche Faux aussi dans le glycocalyx et dans le plasma sanguin"
+      },
+      {
+        "label": "B",
+        "text": "Les laminines sont des protéines en forme de croix asymétrique, elles présentent des domaines leur permettant un accrochage avec le collagène IV",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 41,
+        "sourceText": "Les laminines sont des protéines en forme de croix asymétrique, elles présentent des domaines leur permettant un accrochage avec le collagène IV Vrai"
+      },
+      {
+        "label": "C",
+        "text": "Les laminines sont formées de trois monomères différents α1, β1 et ϒ1",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 43,
+        "sourceText": "Les laminines sont formées de trois monomères différents α1, β1 et ϒ1 Vrai"
+      },
+      {
+        "label": "D",
+        "text": "Les laminines s’accrochent sur des dimères d’intégrines a6 b5",
+        "verdict": false,
+        "explanation": "soit a6b1 soit a6b4",
+        "sourceParagraph": 44,
+        "sourceText": "Les laminines s’accrochent sur des dimères d’intégrines a6 b5 Faux soit a6b1 soit a6b4"
+      },
+      {
+        "label": "E",
+        "text": "Les laminines peuvent s’associer dans la MEC à l’héparane sulfate",
+        "verdict": true,
+        "explanation": "ou collagène 4",
+        "sourceParagraph": 45,
+        "sourceText": "Les laminines peuvent s’associer dans la MEC à l’héparane sulfate Vrai ou collagène 4"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 7,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 7,
+    "originalAnswer": "BCE",
+    "proposedAnswer": "ACD",
+    "proposedExplanations": {
+      "A": "",
+      "B": "idem en cellules en SF",
+      "C": "",
+      "D": "",
+      "E": "c’est le TC réticulaire . Il est riche en élastine"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "C’est un lieu d’échange métabolique",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 48,
+        "sourceText": "C’est un lieu d’échange métabolique Vrai"
+      },
+      {
+        "label": "B",
+        "text": "Il présente plus de SF que de cellules",
+        "verdict": false,
+        "explanation": "idem en cellules en SF",
+        "sourceParagraph": 49,
+        "sourceText": "Il présente plus de SF que de cellules Faux idem en cellules en SF"
+      },
+      {
+        "label": "C",
+        "text": "On peut y trouver des fibres nerveuses",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 50,
+        "sourceText": "On peut y trouver des fibres nerveuses Vrai"
+      },
+      {
+        "label": "D",
+        "text": "Il forme les gaines péritendineuses",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 51,
+        "sourceText": "Il forme les gaines péritendineuses vrai"
+      },
+      {
+        "label": "E",
+        "text": "Il est riche en réticuline",
+        "verdict": false,
+        "explanation": "c’est le TC réticulaire . Il est riche en élastine",
+        "sourceParagraph": 52,
+        "sourceText": "Il est riche en réticuline Faux c’est le TC réticulaire . Il est riche en élastine"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 8,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 8,
+    "originalAnswer": "C",
+    "proposedAnswer": "BCE",
+    "proposedExplanations": {
+      "A": "chez l’adulte on ne le trouve qu’au niveau de la pulpe dentaire et dans le corps vitré de l’œil",
+      "B": "",
+      "C": "",
+      "D": "fibroblastes dispersés dans la SF",
+      "E": ""
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "Il est très répandu chez le fœtus et chez l’adulte",
+        "verdict": false,
+        "explanation": "chez l’adulte on ne le trouve qu’au niveau de la pulpe dentaire et dans le corps vitré de l’œil",
+        "sourceParagraph": 55,
+        "sourceText": "Il est très répandu chez le fœtus et chez l’adulte faux chez l’adulte on ne le trouve qu’au niveau de la pulpe dentaire et dans le corps vitré de l’œil"
+      },
+      {
+        "label": "B",
+        "text": "Sa substance fondamentale est riche en acide hyaluronique",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 56,
+        "sourceText": "Sa substance fondamentale est riche en acide hyaluronique Vrai"
+      },
+      {
+        "label": "C",
+        "text": "Il forme le mésenchyme embryonnaire",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 57,
+        "sourceText": "Il forme le mésenchyme embryonnaire vrai"
+      },
+      {
+        "label": "D",
+        "text": "Il est dépourvu des cellules",
+        "verdict": false,
+        "explanation": "fibroblastes dispersés dans la SF",
+        "sourceParagraph": 58,
+        "sourceText": "Il est dépourvu des cellules Faux fibroblastes dispersés dans la SF"
+      },
+      {
+        "label": "E",
+        "text": "Il présente quelques fines fibres de collagène",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 59,
+        "sourceText": "Il présente quelques fines fibres de collagène Vrai"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 9,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 9,
+    "originalAnswer": "ADE",
+    "proposedAnswer": "C",
+    "proposedExplanations": {
+      "A": "avasculaire",
+      "B": "le cartilage articulaire est dépourvu de périchondre mais vrai pour sa nature",
+      "C": "",
+      "D": "chondroplastes",
+      "E": "il synthétise les fibres de la MEC  + la SF à sa proximité"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "La matrice extracellulaire solide est bien vascularisée",
+        "verdict": false,
+        "explanation": "avasculaire",
+        "sourceParagraph": 61,
+        "sourceText": "La matrice extracellulaire solide est bien vascularisée Faux , avasculaire"
+      },
+      {
+        "label": "B",
+        "text": "Le périchondre présent autour des cartilages articulaires est formé de TC dense non orienté",
+        "verdict": false,
+        "explanation": "le cartilage articulaire est dépourvu de périchondre mais vrai pour sa nature",
+        "sourceParagraph": 62,
+        "sourceText": "Le périchondre présent autour des cartilages articulaires est formé de TC dense non orienté Faux le cartilage articulaire est dépourvu de périchondre mais vrai pour sa nature"
+      },
+      {
+        "label": "C",
+        "text": "Les chondrocytes sont le seul type de cellules présentes dans la MEC du cartilage",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 63,
+        "sourceText": "Les chondrocytes sont le seul type de cellules présentes dans la MEC du cartilage Vrai"
+      },
+      {
+        "label": "D",
+        "text": "Les chondrocytes logent dans des ostéoplastes",
+        "verdict": false,
+        "explanation": "chondroplastes",
+        "sourceParagraph": 64,
+        "sourceText": "Les chondrocytes logent dans des ostéoplastes Faux chondroplastes"
+      },
+      {
+        "label": "E",
+        "text": "Le chondrocyte est une cellule quiescente non active",
+        "verdict": false,
+        "explanation": "il synthétise les fibres de la MEC  + la SF à sa proximité",
+        "sourceParagraph": 65,
+        "sourceText": "Le chondrocyte est une cellule quiescente non active Faux il synthétise les fibres de la MEC  + la SF à sa proximité"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 10,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 10,
+    "originalAnswer": "BC",
+    "proposedAnswer": "ADE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "en groupe isogénique coronaire",
+      "C": "les cellules souches sont dans la couche interne formée de TC lâche",
+      "D": "c’est là où sont les cellules souches",
+      "E": "+ ménisques + symphyse pubienne + site d’insertion des tendons sur les os+ capsules articulaires"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "Le cartilage hyalin présente des fibres de collagène de type II",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 67,
+        "sourceText": "Le cartilage hyalin présente des fibres de collagène de type II Vrai"
+      },
+      {
+        "label": "B",
+        "text": "Le cartilage hyalin est capable de présenter une croissance en 3D grâce aux mitoses des chondrocytes assemblés en groupe isogénique axial",
+        "verdict": false,
+        "explanation": "en groupe isogénique coronaire",
+        "sourceParagraph": 68,
+        "sourceText": "Le cartilage hyalin est capable de présenter une croissance en 3D grâce aux mitoses des chondrocytes assemblés en groupe isogénique axial Faux en groupe isogénique coronaire"
+      },
+      {
+        "label": "C",
+        "text": "Le périchondre présent le long des cartilages hyalins est formé d’une couche externe de TC dense avec des cellules souches qui donneront les chondroblastes",
+        "verdict": false,
+        "explanation": "les cellules souches sont dans la couche interne formée de TC lâche",
+        "sourceParagraph": 69,
+        "sourceText": "Le périchondre présent le long des cartilages hyalins est formé d’une couche externe de TC dense avec des cellules souches qui donneront les chondroblastes Faux les cellules souches sont dans la couche interne formée de TC lâche"
+      },
+      {
+        "label": "D",
+        "text": "La croissance appositionnelle démarre de la couche interne du périchondre",
+        "verdict": true,
+        "explanation": "c’est là où sont les cellules souches",
+        "sourceParagraph": 70,
+        "sourceText": "La croissance appositionnelle démarre de la couche interne du périchondre Vrai c’est là où sont les cellules souches"
+      },
+      {
+        "label": "E",
+        "text": "Le fibrocartilage dépourvu de périchondre forme les disques intervertébraux",
+        "verdict": true,
+        "explanation": "+ ménisques + symphyse pubienne + site d’insertion des tendons sur les os+ capsules articulaires",
+        "sourceParagraph": 71,
+        "sourceText": "Le fibrocartilage dépourvu de périchondre forme les disques intervertébraux Vrai + ménisques + symphyse pubienne + site d’insertion des tendons sur les os+ capsules articulaires"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 11,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 11,
+    "originalAnswer": "BCE",
+    "proposedAnswer": "BC",
+    "proposedExplanations": {
+      "A": "90%",
+      "B": "",
+      "C": "",
+      "D": "pas de perichondre sur articulaire",
+      "E": "c’est l’axiale"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "La matrice extracellulaire représente 50 % du tissu cartilagineux",
+        "verdict": false,
+        "explanation": "90%",
+        "sourceParagraph": 73,
+        "sourceText": "La matrice extracellulaire représente 50 % du tissu cartilagineux  FAUX 90%"
+      },
+      {
+        "label": "B",
+        "text": "La substance fondamentale de la matrice extracellulaire n’est pas minéralisée",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 74,
+        "sourceText": "La substance fondamentale de la matrice extracellulaire n’est pas minéralisée VRAI"
+      },
+      {
+        "label": "C",
+        "text": "Les chondrocytes ont pour origine les cellules mésenchymateuses",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 75,
+        "sourceText": "Les chondrocytes ont pour origine les cellules mésenchymateuses VRAI"
+      },
+      {
+        "label": "D",
+        "text": "Le cartilage hyalin formant le cartilage articulaire est renouvelable grâce à la présence du périchondre à sa périphérie",
+        "verdict": false,
+        "explanation": "pas de perichondre sur articulaire",
+        "sourceParagraph": 76,
+        "sourceText": "Le cartilage hyalin formant le cartilage articulaire est renouvelable grâce à la présence du périchondre à sa périphérie FAUX, pas de perichondre sur articulaire"
+      },
+      {
+        "label": "E",
+        "text": "La croissance interstitielle coronaire permet une croissance en longueur du cartilage",
+        "verdict": false,
+        "explanation": "c’est l’axiale",
+        "sourceParagraph": 77,
+        "sourceText": "La croissance interstitielle coronaire permet une croissance en longueur du cartilage Faux c’est l’axiale"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 12,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 12,
+    "originalAnswer": "ABCE",
+    "proposedAnswer": "BCE",
+    "proposedExplanations": {
+      "A": "Hyalin, élastique : II, Fibro : II+I",
+      "B": "int et ext",
+      "C": "",
+      "D": "c’est l’APPOSITIONNELLE qui fait ça. Intersticielle début de mitose de chondrocyte dans chrondroplaste",
+      "E": ""
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "On retrouve autant de collagène II que de collagène I dans tous les types de cartilage",
+        "verdict": false,
+        "explanation": "Hyalin, élastique : II, Fibro : II+I",
+        "sourceParagraph": 80,
+        "sourceText": "On retrouve autant de collagène II que de collagène I dans tous les types de cartilage FAUX. Hyalin, élastique : II, Fibro : II+I"
+      },
+      {
+        "label": "B",
+        "text": "Le périchondre est formé de deux couches",
+        "verdict": true,
+        "explanation": "int et ext",
+        "sourceParagraph": 81,
+        "sourceText": "Le périchondre est formé de deux couches VRAI , int et ext"
+      },
+      {
+        "label": "C",
+        "text": "La croissance interstitielle axiale assure une croissance en longueur des cartilages",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 82,
+        "sourceText": "La croissance interstitielle axiale assure une croissance en longueur des cartilages VRAI"
+      },
+      {
+        "label": "D",
+        "text": "La croissance interstitielle axiale démarre du périchondre",
+        "verdict": false,
+        "explanation": "c’est l’APPOSITIONNELLE qui fait ça. Intersticielle début de mitose de chondrocyte dans chrondroplaste",
+        "sourceParagraph": 83,
+        "sourceText": "La croissance interstitielle axiale démarre du périchondre FAUX c’est l’APPOSITIONNELLE qui fait ça. Intersticielle début de mitose de chondrocyte dans chrondroplaste."
+      },
+      {
+        "label": "E",
+        "text": "Dans les figures de croissance interstitielle isogénique coronaire on peut voir des chondroblastes en mitose",
+        "verdict": true,
+        "explanation": "",
+        "sourceParagraph": 84,
+        "sourceText": "Dans les figures de croissance interstitielle isogénique coronaire on peut voir des chondroblastes en mitose VRAI"
+      }
+    ],
+    "removeUncorrectedStatus": false
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 13,
+    "reason": "Preuve directe de décalage de la correction lors de l’extraction ; énoncés et items correspondent au DOCX original.",
+    "sourceFile": "Archive.zip / CORRECTION autotest TC2.docx",
+    "sourceQuestion": 13,
+    "originalAnswer": "",
+    "proposedAnswer": "ABCE",
+    "proposedExplanations": {
+      "A": "se souvenir qu’au niveau des articulations on a bien un cartilage hyalin dépourvu de périchondre",
+      "B": "du TA",
+      "C": "on parle de maladie auto-immune",
+      "D": "mutation sur un gène du collagène",
+      "E": "mutation du gène de la fibrilline"
+    },
+    "sourceItems": [
+      {
+        "label": "A",
+        "text": "L’arthrose articulaire est un remplacement du tissu cartilagineux hyalin par du tissu fibreux ou osseux",
+        "verdict": true,
+        "explanation": "se souvenir qu’au niveau des articulations on a bien un cartilage hyalin dépourvu de périchondre",
+        "sourceParagraph": 87,
+        "sourceText": "L’arthrose articulaire est un remplacement du tissu cartilagineux hyalin par du tissu fibreux ou osseux Vrai se souvenir qu’au niveau des articulations on a bien un cartilage hyalin dépourvu de périchondre"
+      },
+      {
+        "label": "B",
+        "text": "Le TC peut montrer des formes de cancer notamment les liposarcomes",
+        "verdict": true,
+        "explanation": "du TA",
+        "sourceParagraph": 88,
+        "sourceText": "Le TC peut montrer des formes de cancer notamment les liposarcomes Vrai, du TA"
+      },
+      {
+        "label": "C",
+        "text": "Le lupus érythémateux est une maladie dûe à des sécrétions d’anticorps par le sujet malade",
+        "verdict": true,
+        "explanation": "on parle de maladie auto-immune",
+        "sourceParagraph": 89,
+        "sourceText": "Le lupus érythémateux est une maladie dûe à des sécrétions d’anticorps par le sujet malade Vrai on parle de maladie auto-immune"
+      },
+      {
+        "label": "D",
+        "text": "Le syndrome d’Ehlers-Danlos est une liposarcome",
+        "verdict": false,
+        "explanation": "mutation sur un gène du collagène",
+        "sourceParagraph": 90,
+        "sourceText": "Le syndrome d’Ehlers-Danlos est une liposarcome Faux mutation sur un gène du collagène"
+      },
+      {
+        "label": "E",
+        "text": "Le syndrome de Marfan est une maladie affectant les fibres élastiques",
+        "verdict": true,
+        "explanation": "mutation du gène de la fibrilline",
+        "sourceParagraph": 91,
+        "sourceText": "Le syndrome de Marfan est une maladie affectant les fibres élastiques Vrai mutation du gène de la fibrilline"
+      }
+    ],
+    "removeUncorrectedStatus": true
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 4,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales CM2 corrigées-1.pdf",
+    "sourcePage": 4,
+    "originalAnswer": "",
+    "proposedAnswer": "BDE",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "Lecture visuelle du corrigé PDF scanné, rendu cm2_source_p4.png : verdicts A FAUX, B VRAI, C FAUX, D VRAI, E VRAI.",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 5,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales CM2 corrigées-1.pdf",
+    "sourcePage": 5,
+    "originalAnswer": "ACDE",
+    "proposedAnswer": "ABCDE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "Lecture visuelle du corrigé PDF scanné, rendu cm2_source_p5.png : verdicts A VRAI, B VRAI, C VRAI, D VRAI, E VRAI.",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 6,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales CM2 corrigées-1.pdf",
+    "sourcePage": 6,
+    "originalAnswer": "",
+    "proposedAnswer": "A",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "Lecture visuelle du corrigé PDF scanné, rendu cm2_source_p6.png : verdicts A VRAI, B FAUX, C FAUX, D FAUX, E FAUX.",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 7,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales CM2 corrigées-1.pdf",
+    "sourcePage": 6,
+    "originalAnswer": "ACDE",
+    "proposedAnswer": "AB",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "Lecture visuelle du corrigé PDF scanné, rendu cm2_source_p6.png : verdicts A VRAI, B VRAI, C FAUX, D FAUX, E FAUX.",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 8,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales CM2 corrigées-1.pdf",
+    "sourcePage": 7,
+    "originalAnswer": "CE",
+    "proposedAnswer": "DE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "Lecture visuelle du corrigé PDF scanné, rendu cm2_source_p7.png : verdicts A FAUX, B FAUX, C FAUX, D VRAI, E VRAI.",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 7,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 7,
+    "originalAnswer": "ABCDE",
+    "proposedAnswer": "CD",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n\n   CD\n    A. FAUX : Le reste de l’item est vrai mais les Rab ne sont pas des protéines membranaires de type I, ce sont\n      des protéines périphériques. En effet, elles peuvent se détacher des membranes (elles sont libres dans le\n      cytosol quand inactives) et s’y rattachent par l’intermédiaire d’un lipide.\n    B. FAUX : La mitophagie n’est pas vraiment une endocytose. Lors d’une endocytose, une cellule intègre du\n      matériel provenant de l’extérieur, or les mitochondries se situent déjà à l’intérieur de la cellule. Elles sont\n      éliminées via la formation d’un autophagosome et non d’une vésicule d’endocytose.\n    C. VRAI\n   D. VRAI\n    E. FAUX : C’est le récepteur à l’EGF qui est détruit après son endocytose. Le récepteur à la transferrine est\n        lui recyclé vers la membrane plasmique.\n\n\n\n                                    Annales 2022-2023 session 1\n\n\n\n47. D’après vos connaissances et la figure 7 :\n      A. La fusion est la plus efficace quand les v-SNARES et les t-SNARES sont exprimés par toutes les vésicules.\n      B. Dès lors que t-SNARES est présent dans une préparation vésiculaire et que v-SNARES est présent dans\n          l’autre préparation vésiculaire on obtient une fusion.\n        C. Dans les levures, les protéines Rab complémentaires sur les vésicules se lient les unes aux autres pour\n         permettre aux vésicules de transport de s’arrimer sélectivement à leurs membranes cibles appropriées.\n      D. Dans tous les évènements impliquant la fusion d’une vésicule à une membrane cible, les feuillets\n         cytosoliques des bicouches de la vésicule et de la cible fusionnent toujours ensemble, tous comme les\n          feuillets qui ne sont pas en contact avec le cytosol.\n       E. Le complexe trans-SNARE composé de 4 hélices alpha super enroulées est dissocié par la protéine NSF\n        (une ATPase).\n\n\n     ABCDE\n      A. VRAI, on peut voir grâce au graphique que lorsque les deux vacuoles expriment v-snare et t-snare\n           l’activité de la phosphatase alcaline est de 100%.\n      B. VRAI, on obtient une fusion mais la fusion n’est pas optimale car l’activité de la phosphatase alcaline\n         est d’environ 30%.\n       C. VRAI\n      D. VRAI\n       E. VRAI\n\n\n\n\n\n6/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 8,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 7,
+    "originalAnswer": "ABDE",
+    "proposedAnswer": "ABCDE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n\n   CD\n    A. FAUX : Le reste de l’item est vrai mais les Rab ne sont pas des protéines membranaires de type I, ce sont\n      des protéines périphériques. En effet, elles peuvent se détacher des membranes (elles sont libres dans le\n      cytosol quand inactives) et s’y rattachent par l’intermédiaire d’un lipide.\n    B. FAUX : La mitophagie n’est pas vraiment une endocytose. Lors d’une endocytose, une cellule intègre du\n      matériel provenant de l’extérieur, or les mitochondries se situent déjà à l’intérieur de la cellule. Elles sont\n      éliminées via la formation d’un autophagosome et non d’une vésicule d’endocytose.\n    C. VRAI\n   D. VRAI\n    E. FAUX : C’est le récepteur à l’EGF qui est détruit après son endocytose. Le récepteur à la transferrine est\n        lui recyclé vers la membrane plasmique.\n\n\n\n                                    Annales 2022-2023 session 1\n\n\n\n47. D’après vos connaissances et la figure 7 :\n      A. La fusion est la plus efficace quand les v-SNARES et les t-SNARES sont exprimés par toutes les vésicules.\n      B. Dès lors que t-SNARES est présent dans une préparation vésiculaire et que v-SNARES est présent dans\n          l’autre préparation vésiculaire on obtient une fusion.\n        C. Dans les levures, les protéines Rab complémentaires sur les vésicules se lient les unes aux autres pour\n         permettre aux vésicules de transport de s’arrimer sélectivement à leurs membranes cibles appropriées.\n      D. Dans tous les évènements impliquant la fusion d’une vésicule à une membrane cible, les feuillets\n         cytosoliques des bicouches de la vésicule et de la cible fusionnent toujours ensemble, tous comme les\n          feuillets qui ne sont pas en contact avec le cytosol.\n       E. Le complexe trans-SNARE composé de 4 hélices alpha super enroulées est dissocié par la protéine NSF\n        (une ATPase).\n\n\n     ABCDE\n      A. VRAI, on peut voir grâce au graphique que lorsque les deux vacuoles expriment v-snare et t-snare\n           l’activité de la phosphatase alcaline est de 100%.\n      B. VRAI, on obtient une fusion mais la fusion n’est pas optimale car l’activité de la phosphatase alcaline\n         est d’environ 30%.\n       C. VRAI\n      D. VRAI\n       E. VRAI\n\n\n\n\n\n6/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 9,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 8,
+    "originalAnswer": "",
+    "proposedAnswer": "ABDE",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "                                              Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n                                    Annales 2021-2022 session 1\n\n\n47. Transports vésiculaires\n      A. Dans des cellules traitées par une base faible (par exemple la chloroquine) qui augmente le Ph des\n         organelles intracellulaires, les récepteurs au M6P auraient tendance à s’accumuler dans le Golgi parce\n          qu’ils ne pourraient plus se lier aux enzymes lysosomales.\n      B. Les endosomes tardifs se transforment en lysosomes matures en perdant certaines protéines\n        membranaires et en abaissant leur Ph intraluminal.\n       C. Les protéines Rab complémentaire sur les vésicules de transport et les membranes cibles se lient pour\n         assurer la précision de ciblage des vésicules.\n      D. L’appareil de Golgi réalise la plus forte glycosylation en fixant sur des sérines de certaines protéines\n       une ou plusieurs chaines de glycosaminoglycanes pour former les protéoglycanes.\n       E. Les protéines adaptatrices des vésicules de transport cellulaire incurvent les membranes, recrutent des\n        cargos et participent à l’assemblage des protéines du manteau.\n\n\n     ABDE\n      A. VRAI. Le récepteur au M6P se lie aux hydrolases acides vers un ph de 6.7 et lorsqu’ils arrivent dans\n        l’endosome  il s’en dissocie car le ph est plus bas (autour de 6). Dons si l’on abaisse le ph des\n        compartiments de façon permanente, le récepteur du M6P serait en permanence dissocié des\n         hydrolases. FAUX, Si on augmente le pH le récepteur pourra se lier mais pas se dissocier :\n                    accumulation du récepteur dans les endosomes précoces\n      B. VRAI.\n       C. FAUX. Les protéines Rab interagissent avec des protéines effectrices de Rab. Ce sont les protéines\n        Snares (t-Snare et v-Snare) qui interagissent de façon complémentaire entre un compartiment et\n          l’autre.\n      D. VRAI. Les protéoglycanes sont les protéines les plus glycosylées (avec les mucines).\n       E. VRAI.\n\n\n48. Endocytose/exocytose :\n\n\n\n\n\nDes cellules ont été incubées en présence de concentrations croissantes de 2 molécules radioactives (A ou B) et\nleur capture cellulaire a été mesurée. Les résultats pour les molécules A et B sont présentées sur la figure 10.\n\n      A. Contrairement à la molécule A, la molécule B est endocytée via un récepteur.\n      B. Toute particule qui entre en contact avec la surface du macrophage est phagocytée.\n       C. La matrice d’une mitochondrie en cours de mitophagie est séparée du cytosol par 4 membranes.\n      D. Quand une vésicule de sécrétion est positionnée sous la membrane plasmique, l’interaction des v-\n       SNAREs complémentaires de la membrane entraine immédiatement son exocytose.\n       E. Lors de la transcytose, les vésicules formées par les puits couverts de clathrine au niveau de la\n       membrane apicale fusionnent avec la membrane basolatérale, transportant ainsi le matériel endocyté\n       au travers de l’épithélium.\n\n\n\n\n                                                                                                     3/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 10,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 9,
+    "originalAnswer": "",
+    "proposedAnswer": "AE",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n     AE\n      A. VRAI. On voit qu’au-dessus d’une certaine concentration de molécule B, la vitesse de capture\n        n’augmente plus. On assiste à un phénomène de saturation, ce qui n’est pas le cas pour B. La molécule\n       B voyage donc par un transporteur alors que A diffuse librement.\n      B. FAUX. Les particules phagocytées par un macrophage sont celles qui sont reconnues comme étrangères\n        par les récepteurs à antigènes des macrophages.\n       C. FAUX. Elle est séparée du cytosol par trois membranes : les membranes externes et internes de la\n        mitochondrie, et la membrane de l’autophagosome. Vrai, les 2 membranes de l'autophagosomes et de la mito\n      D. FAUX. Pour l’exocytose régulée par exemple, le contenu des vésicules reste sous la membrane\n        plasmique jusqu’à l’arrivée du signal déclencheur de l’exocytose.\n       E. VRAI.\n\n\n\n                                      Annales 2020-2021 PACES\n\n\n\n53. La figure 4 récapitule les étapes du transport membranaire.\n\n\n\n\n\n          A.  (1) Indique l’endroit où la GTPase Sar1 recrute le manteau de COPII sur les vésicules destinées au\n             réseau tubulo-vésiculaire du cis-Golgi.\n           B.  (2) renseigne le trafic qui dépend de la structure KDEL en C-terminal des protéines solubles du\n             réticulum endoplasmique.\n           C.  En (3) le complexe trans-Snare permet la fusion homotopique des vésicules issues du RE pour\n            former le réseau tubulo-vésiculaire du cis-golgi.\n          D.  (4) renseigne le site où la N-glycosylation des protéines membranaires et sécrétées débute.\n           E.  La flèche (5) représente la rétro translocation des protéines dénaturées dans la lumière du\n            lysosome et détruites par le protéasome.\n\n\n\n\n\n4/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 11,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 10,
+    "originalAnswer": "AE",
+    "proposedAnswer": "ABC",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "                                           Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n  ABC\n  A.  VRAI. La protéine du manteau protéique au niveau du RE est bien COPII et la GTPase associée est bien\n      Sar1.\n  B.  VRAI. KDEL est la séquence d’adressage au RE qui est utilisée dans la voie rétrograde de l’appareil de\n      Golgi au RE.\n  C.  VRAI. Le complexe trans-snare est composé des protéines s-snare et t-snare.\n  D.  FAUX. La N-glycosylation débute dans le RE.\n   E.  FAUX. Les protéines adressées au lysosome sont dégradées par des enzymes.\n\n\n54. Sur la figure 4 :\nA.  (6) indique les vésicules de transport rétrograde et de recyclage du récepteur au mannose-6-phosphate\n    impliqué dans le ciblage des enzymes lysosomales.\nB.  (7) indique le site où toutes les formes d’endocytose dépendent du manteau de clathrine.\nC.  Les GTPases monomériques Rab sont des moteurs moléculaires qui transportent les vésicules le long\n   des filaments du cytosquelette.\nD.  Les manteaux de Clathrine et de COPII se détache des vésicules dès leur séparation avec la membrane\n   du compartiment donneur.\nE.  Les protéines adaptatrices des manteaux protéiques (AP2, Sec23-Sec24, ) recrutent les cargos des\n    vésicules et les protéines des manteaux de Clathrine et de COPII, respectivement.\n\n\n  ACDE\n  A.  VRAI. Le récepteur au mannose-6-phosphate est présent dans le trans-Golgi. Il se lie aux hydrolases\n      acides, et il s’en dissocie au contact du pH acide du lysosome.\n  B.  FAUX. Il existe des formes d’endocytose indépendantes de la clathrine, par exemple la phagocytose.\n  C.  VRAI.  Il existe différents types de Rab. Certains sont des moteurs moléculaires responsables du\n      transport le long des filaments du cytosquelette.\n  D.  VRAI.\n   E.  VRAI.\n\n\n\n\n\n                                                                                                 5/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 12,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 10,
+    "originalAnswer": "ABC",
+    "proposedAnswer": "ACDE",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "                                           Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n  ABC\n  A.  VRAI. La protéine du manteau protéique au niveau du RE est bien COPII et la GTPase associée est bien\n      Sar1.\n  B.  VRAI. KDEL est la séquence d’adressage au RE qui est utilisée dans la voie rétrograde de l’appareil de\n      Golgi au RE.\n  C.  VRAI. Le complexe trans-snare est composé des protéines s-snare et t-snare.\n  D.  FAUX. La N-glycosylation débute dans le RE.\n   E.  FAUX. Les protéines adressées au lysosome sont dégradées par des enzymes.\n\n\n54. Sur la figure 4 :\nA.  (6) indique les vésicules de transport rétrograde et de recyclage du récepteur au mannose-6-phosphate\n    impliqué dans le ciblage des enzymes lysosomales.\nB.  (7) indique le site où toutes les formes d’endocytose dépendent du manteau de clathrine.\nC.  Les GTPases monomériques Rab sont des moteurs moléculaires qui transportent les vésicules le long\n   des filaments du cytosquelette.\nD.  Les manteaux de Clathrine et de COPII se détache des vésicules dès leur séparation avec la membrane\n   du compartiment donneur.\nE.  Les protéines adaptatrices des manteaux protéiques (AP2, Sec23-Sec24, ) recrutent les cargos des\n    vésicules et les protéines des manteaux de Clathrine et de COPII, respectivement.\n\n\n  ACDE\n  A.  VRAI. Le récepteur au mannose-6-phosphate est présent dans le trans-Golgi. Il se lie aux hydrolases\n      acides, et il s’en dissocie au contact du pH acide du lysosome.\n  B.  FAUX. Il existe des formes d’endocytose indépendantes de la clathrine, par exemple la phagocytose.\n  C.  VRAI.  Il existe différents types de Rab. Certains sont des moteurs moléculaires responsables du\n      transport le long des filaments du cytosquelette.\n  D.  VRAI.\n   E.  VRAI.\n\n\n\n\n\n                                                                                                 5/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 13,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 11,
+    "originalAnswer": "ABDE",
+    "proposedAnswer": "B",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n                                  Annales 2020-2021 PASS session 2\n\n\n37. Transport vésiculaire des protéines.\nDes chercheurs ont analysé par microscopie électronique des cellules marquées avec des anticorps couplées à\ndes billes d'or : anti-Sec62 (qui fait partie du complexe de translocation des protéines dans le RE (Fig. 2A) et anti-\nRab7 (qui s’associe aux membranes des lysosomes) (Fig. 2B).\n\n\n\n\n\nEn fonction de vos connaissances générales de biologie cellulaire et des résultats présentés vous pouvez affirmer\nque :\n\n      A. Les barres d’échelle de la figure 2 correspondent à 1nm.\n      B. Les sphères noires de la figure 2 correspondent à du matériel non digéré dans les lysosomes\n       C. Les membranes marquées sur la figure 2 correspondent à des membranes mitochondriales\n      D. Les protéines destinées aux mitochondries sont synthétisées au niveau du réticulum endoplasmique\n        rugueux\n       E. Les membranes marquées sur la figure 2B correspondent à des membranes lysosomales\n\n\n     B\n      A. FAUX, ça serait plutôt 1 micron.\n      B. Rab7 marque les endosomes tardifs qui s’éloignent de la membrane plasmique donc VRAI, mais ils le\n        seront sous peu, car Rab7 permet l’association aux lysosomes.\n       C. FAUX, Rab7 se situe sur les membranes des endosomes tardifs.\n      D. Je dirai FAUX, car le RE synthétise plutôt les protéines destinées à la sécrétion, à la MP, ou qui passeront\n        par le Golgi. Mais aucune certitude, et je ne trouve pas de réponse dans les cours.\n       E. Je dirai FAUX, pour les mêmes raisons que l’item B.\n\n\n\n\n\n6/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 14,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 12,
+    "originalAnswer": "",
+    "proposedAnswer": "ABDE",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "                                              Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n 38. En fonction de vos connaissances générales de biologie cellulaire et des résultats présentés, vous pouvez\n affirmer que :\n      A. Les mitochondries et les vésicules d’autophagie sont limitées par une double membrane.\n      B. L'autophagie permet d'éliminer les mitochondries vieillies qui laissent s'échapper trop de radicaux\n           libres.\n       C. Le matériel inclus dans les véhicules d’autophagie est détruit par le protéasome.\n      D. Les protéines de la famille Rab sont des GTPases monomériques qui contrôlent le trafic vésiculaire dans\n          les cellules.\n       E. Les protéines Rab sont activées par les GAP (GTPase Activating Proteins).\n\n\n     ABDE\n      A. VRAI\n      B. VRAI\n       C. FAUX, le lysosome est responsable de la dégradation des macromolécules lors de l’autophagie.\n      D. VRAI\n       E. Je dirai VRAI, mais c’est un peu complexe : GAP accélère l’hydrolyse du GTP (GAP est une protéine\n          activatrice), mais l’hydrolyse du GTP conduit à l’inactivation de la protéine Rab.\n\n\n\n                                         Annales 2018-2019\n\n\n\n49. Traffic vésiculaire :\n     A.  La liaison d’une protéine à une ancre de glycosylphosphatidylinositol (GPI) se réalise dans la lumière du\n         RE, et cible cette protéine plus particulièrement vers les radeaux lipidiques de la membrane plasmique\n     B.  Les GTPases monomériques Rab sont des moteurs  moléculaires  qui déplacent  les  vésicules\n         intracellulaires le long des microtubules et des filaments d’actine\n    C.  Toutes les protéines endocytées sont dégradées en AA par des cathepsines lysosomales\n    D.  Le mannose-6-phosphate est un signal ajouté dans l’appareil de Golgi en position C-terminal des\n        protéines destinées à l’exportation vers les lysosomes\n    E.  La matrice d’une mitochondrie dans un autophagosome est séparée du cytosol par 3 membranes\n\n\n\n\n\n                                                                                                     7/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 16,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigées CM5 2018-2025.pdf",
+    "sourcePage": 14,
+    "originalAnswer": "",
+    "proposedAnswer": "AB",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "                                              Correction ACC Transport vésiculaire – Tutorat Santé Lyon Sud\n\n\n                                         Annales 2017-2018\n\n\n51. Trafic des protéines, transport vésiculaire : en fonction de vos connaissances en biologie cellulaire et des\nrésultats de la figure 6 et des informations précédentes vous pouvez affirmer que :\n      A. L’adressage de la NLS-GFP dépend de l’activité d’une RAN-GEF dans le noyau.\n      B. La GFP-CASQ1 possède une séquence Lys-Asp-Glu-Leu à son extrémité C-terminale.\n       C. La GFP-GLUR1 est reconnue par le récepteur au mannose 6-phosphate.\n      D. La GFPu est synthétisée au niveau du réticulum endoplasmique rugueux.\n       E. La kinésine se déplace vers les extrémités positives des filaments intermédiaires de vimentine.\n\n\n\n    AB\n      A. VRAI : La protéine Ran-GEF est indispensable à recharge de Ran en GTP au niveau du nucléoplasme.\n\n\n\n\n\n      B. VRAI : il s’agit de la séquence KDEL qui permet l’adressage au RE depuis l’appareil de golgi\n       C. FAUX : le mannose-6-P est un signal d’adressage au lysosome\n      D. FAUX : dans le cytoplasme car il s’agit d’une protéine cytoplasmique donc elle ne passe pas par le RE.\n       E. FAUX : vers l’extrémité + des microtubules, on parle de transport antérograde. Les filaments\n         intermédiaires n’ont pas d’extrémité + puisqu’ils ne sont pas polarisés.\n\n\n\n\n\n                                                                                                     9/14",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 9,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Correction ACC le noyau.pdf",
+    "sourcePage": 10,
+    "originalAnswer": "",
+    "proposedAnswer": "E",
+    "proposedExplanations": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ", gradient de RAN-GTP/GDP"
+    },
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "Correction ACC Le noyau – Tutorat Santé Lyon Sud\n\n\n     E\n      A. FAUX : Si la transcription des gènes du chromosome 1 s’était activée, on aurait vraisemblablement\n        observé une décondensation de ces portions du génome et donc un changement de taille des régions\n       marquées\n      B. FAUX : Les molécules de <5000 daltons diffusent librement entre les mailles du pore, elles n’ont pas\n        besoin d’une importine pour franchir le pore.\n       C. FAUX : Un CPN est bidirectionnel.\n      D. FAUX : Ce sont des protéines flexibles.\n       E. VRAI : Elles renforcent l’enveloppe nucléaire.\n\n\n\n                                        Annales 2019-2020\n\n\n\n59. Transport des protéines dans le noyau :\n      A. L’accumulation de Ran-GTP dans  le noyau par rapport au cytoplasme permet  la  sélectivité\n         d’exportation et d’importation de certaines protéines.\n      B. Le transport des protéines au-travers des pores nucléaires dépend de l’accumulation de GTP dans le\n        noyau.\n       C. Les interactions hydrophobes entre les répétitions de F-G (Phénylalanine-Glycine) des nucléoporines\n       de la lumière des pores nucléaires créent une barrière de diffusion entre le nucléoplasme et le\n        cytoplasme.\n      D. L’importation et l’exportation de protéines dans le noyau s’effectuent par des pores nucléaires\n          distincts.\n       E. L’importation dans le noyau du facteur de transcription NFAT est dépendante de l’activité d’une\n        phosphatase.\n\n\n     ABCE\n      A. VRAI : Lors de l’arrivée dans le noyau d’une importine, liée ou non à un cargo, celle-ci interagit avec le\n       Ran-GTP ce qui va libérer le cargo éventuel par un phénomène de changement de conformation.\n         Ensuite, le complexe Ran-GTP/importine rediffuse vers le cytoplasme grâce au gradient de Ran-GTP et\n       permet de redémarrer le cycle.\n      B. FAUX : Ce n’est pas l’accumulation de GTP libre qui compte, mais le gradient de Ran-GTP/Ran-GDP (GTP\n       en soi est présent partout dans la cellule, c’est Ran qui, sous forme GTP ou GDP, régule le transport).\n       C. VRAI : Les nucléoporines du canal riches en F-G possèdent des régions hydrophobes qui se repoussent\n         et forment ainsi un gel au centre du canal qui limite la diffusion passive des molécules.\n      D. FAUX : Le trafic au-travers de chaque complexe du pore nucléaire est bidirectionnel (transport\n        simultané dans les deux directions). On peut ajouter que dans un complexe,  il y a environ 1000\n        molécules entrant et sortant par seconde.\n       E. VRAI : NFAT est importé dans  le noyau lorsque le lymphocyte T est activé, donc lorsque  la\n        concentration en calcium est élevée. Cela active une phosphatase libérant NFAT de ses phosphates : la\n        conformation de NFAT est alors idéale pour lier la calcineurine (une importine) car la NLS est dévoilée.\n\n\n\n\n\n10/12",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": 3,
+    "reason": "Réappariement prouvé par le corrigé original : la clé du site est absente ou provient du bloc de correction voisin. Les items existants correspondent à la question du PDF.",
+    "sourceFile": "Annales corrigees CM8 2019-2025-1.pdf",
+    "sourcePage": 3,
+    "originalAnswer": "",
+    "proposedAnswer": "AE",
+    "proposedExplanations": {},
+    "removeUncorrectedStatus": true,
+    "sourceEvidence": "Correction ACC Mitochondries et peroxysomes – Tutorat Santé Lyon Sud\n\n\n                        Correction détaillée\n\n\n                                    Annales 2024-2025 session 1\n\n\n\n1. QCM 39 : Concernant les lysosomes et mitochondries\n      A. Les lysosomes sont des organelles filiformes, de contenu basique\n      B. L’autophagie permet de recycler des composants intra-cellulaires\n       C. Les protéines de la matrice mitochondriale sont importées sous forme repliée\n      D. L’hétéroplasmie correspond à  la présence de deux  allèles  différents  (hétérozygotie)  par  la\n        mitochondrie\n       E. La cardiolipine, de la membrane interne mitochondriale, est essentielle au fonctionnement de la chaîne\n         respiratoire\n\n\n     BE\n      A. FAUX : Leur contenu est à pH acide\n      B. VRAI\n       C. FAUX : Elles sont sous forme dépliée\n      D. FAUX : Il s’agit de la présence de différents types d’ADN mitochondrial au sein de l’organisme\n       E. VRAI\n\n\n\n\n                                    Annales 2023-2024 session 1\n\n\n\n  45. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries\n       F. La fusion mitochondriale permet de mettre en commun des ressources comme l’oxygène.\n      G. En général : les cellules contiennent dix mitochondries comportant chacune une copie d’ADNmt.\n      H. Le « chromosome » mitochondrial présente un centromère et des télomères.\n          I. La réplication de l’ADN mitochondrial se déroule lors de la phase S du cycle cellulaire et fait intervenir\n          les polymérases delta et epsilon.\n         J. Un influx faible de calcium en provenance du réticulum endoplasmique stimule le fonctionnement de\n         certaines enzymes mitochondriales.\n\n\n     AE\n      A. VRAI\n      B. FAUX : Une  cellule contient généralement plus d’une centaine de mitochondries, et chaque\n        mitochondrie possède entre 1 et 10 exemplaires de son génome.\n       C. FAUX : L’ADNmt est circulaire et non linéaire.\n      D. FAUX : Les mitochondries sont indépendantes du cycle cellulaire, elles peuvent répliquer leur ADN et\n        se diviser à n’importe quel moment.\n       E. VRAI : Tandis qu’un influx trop important risque d’activer le processus d’apoptose.\n\n\n\n\n\n2/8",
+    "scope": "Clé et statut hors note seulement. Les éventuels désaccords scientifiques internes au corrigé sont signalés séparément, sans substituer une clé scientifique."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 64,
+    "reason": "La correction affichée provient de la question sur les astrocytes (p.18), au lieu de la question sur les oligodendrocytes (p.23–24).",
+    "sourceFile": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+    "sourcePage": 23,
+    "sourcePages": [
+      23,
+      24
+    ],
+    "originalAnswer": "BD",
+    "proposedAnswer": "BDE",
+    "proposedExplanations": {
+      "A": "Ils appartiennent uniquement à la glie centrale.",
+      "B": "Ils sont présents dans le SNC et donc dans la substance grise et blanche (puisque cette distinction substance grise et blanche ne se fait que dans le SNC).",
+      "C": "Ils ont une origine neuroectodermique.",
+      "D": "",
+      "E": ""
+    },
+    "removeUncorrectedStatus": false,
+    "sourceEvidence": "EMSLB_PASS SUD_UE5_HISTOLOGIE_TISSU NERVEUX  \n \n23 \nC.ROCHET 2025 \n \n3. QCM 28 : Concernant le transport axonal, quelle(s) est(sont) la(les) affirmation(s) exacte(s) ?  \n(Histo. Pr Desestret)  \nA. Il implique des protéines motrices liées aux microtubules VRAI : La kinésine pour le transport \nantérograde et la dynéine pour le transport rétrograde  \nB. Le transport antérograde rapide concerne le transport des mitochondries et des vésicules \nsynaptiques VRAI \nC. Le transport rétrograde rapide est lié à l’activité ATPasique de la dynéine FAUX : Il n’y a pas de \ndistinction lent/rapide pour le transport rétrograde. Il n’y a que le transport antérograde qui est distingué \nen lent et rapide. Sinon tout le reste de l’item est juste \nD. Le transport rétrograde concerne les corps multivésiculaires (structures synaptiques) FAUX : \nToute la phrase est vraie sauf les parenthèses : les corps multivésiculaires sont des structures pré-\nlysosomales et non synaptiques \nE. Le transport lent est uniquement rétrograde FAUX : Il n’y a pas de distinction lent/rapide pour le \ntransport rétrograde. Il n’y a que le transport antérograde qui est distingué en lent et rapide \n \n4. QCM 29 : Concernant les relations entre le liquide cérébro-spinal (LCS) et le tissu nerveux, \nquelle(s) est(sont) la(les) affirmation(s) exacte(s) ?  \n(Histo. Pr Desestret)  \nA. Le LCS est au contact de structures nerveuses du système nerveux central et périphérique VRAI : \nIl entoure le SNC mais aussi une partie du SNP (les paires crâniennes et les racines des nerfs rachidiens) \nB. L’interface entre le LCS contenu dans les ventricules et le tissu cérébral est constituée par \nl’épendyme VRAI \nC. Le LCS circule dans les espaces sous-arachnoïdiens VRAI \nD. Le LCS est produit par les plexus choroïdes VRAI \nE. L’interface entre le LCS péri-encéphalique et le tissu cérébral est constituée par la dure-mère \nFAUX, pie mère \n \n5. QCM 30 : Concernant la substance grise, quelle(s) est(sont) la(les) affirmation(s) exacte(s) ?  \n(Histo. Pr Desestret)  \nA. Elle constitue la partie interne de la moelle spinale et des hémisphères cérébelleux et cérébraux  \nElle constitue bien la partie interne de la moelle spinale mais elle constitue la partie EXTERNE des \nhémisphères cérébraux et cérébelleux \nB. Elle correspond au tissu de conduction de l’influx nerveux au sein du système nerveux central \nFAUX : C’est la substance blanche qui correspond au tissu de conduction. La substance grise constitue le \ntissu de réception, de traitement et d’intégration au sein du SNC \nC. Elle contient des capillaires sanguins, du neuropile et des corps cellulaires de neurones VRAI \nD. Elle contient des astrocytes et des oligodendrocytes VRAI : Ces derniers font partie de la névroglie \ncentrale, donc présente dans le SNC et la substance grise (et aussi la blanche) ne se retrouve que dans le \nSNC \nE. Elle ne contient pas de synapse FAUX : C’est justement sa particularité de contenir des synapses (les \nsynapses font partie du neuropile) \n \n6. QCM 31 : Concernant les oligodendrocytes, quelle(s) est(sont) la(les) affirmation(s) exacte(s) ?  \n(Histo. Pr Desestret)  \nA. Ils appartiennent à la glie du tissu nerveux périphérique et central FAUX : Ils appartiennent \nuniquement à la glie centrale  \n \n\nEMSLB_PASS SUD_UE5_HISTOLOGIE_TISSU NERVEUX  \n \n24 \nC.ROCHET 2025 \nB. Ils sont présents dans la substance blanche et la substance grise VRAI : Ils sont présents dans le SNC \net donc dans la substance grise et blanche (puisque cette distinction substance grise et blanche ne se fait \nque dans le SNC) \nC. Ils sont d’origine mésenchymateuse FAUX : Ils ont une origine neuroectodermique \nD. Sur une coupe histologique colorée à l’Hématoxiline Eosine, seuls leurs noyaux entourés d’un \nhalo clair sont visibles VRAI \nE. En s’enroulant autour des axones, leurs prolongements forment la gaine de myéline de la \nsubstance blanche du système nerveux central VRAI \n \n \n",
+    "scope": "Réappariement du corrigé original, sans substitution d’une clé scientifique."
+  }
+]

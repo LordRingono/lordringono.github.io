@@ -1,0 +1,5845 @@
+[
+  {
+    "sourceId": "ue4:2022-2023:S1:q01",
+    "themeId": "droit",
+    "reason": "Valeur constitutionnelle de la Charte de l'environnement et principe de précaution.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 802,
+      "sourceEndPage": 802,
+      "correctionPage": 811,
+      "correctionNumber": 1,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q02",
+    "themeId": "droit",
+    "reason": "Institutions européennes, règlement des essais et politique pharmaceutique européenne.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé valide A, qui affirme que les commissaires représentent leur pays et sont élus par les assemblées nationales. Vérifie ces deux affirmations dans la ronéo de droit pharma ; la clé source ABDE est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "possible_error",
+        "text": "Le corrigé valide A, qui affirme que les commissaires représentent leur pays et sont élus par les assemblées nationales. Vérifie ces deux affirmations dans la ronéo de droit pharma ; la clé source ABDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 802,
+      "sourceEndPage": 802,
+      "correctionPage": 811,
+      "correctionNumber": 2,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [
+      "Sujet p802 Q2 et corrigé p811 Q2 : formulation et verdict A vus."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q03",
+    "themeId": "sources-naturelles",
+    "reason": "Origines végétales et animales des principes actifs, ethnopharmacologie et prospection naturelle.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "D est faux ici, mais la même affirmation sur les antibiotiques issus de venins est validée avec « VRAI ?? » en 2021–2022 S1 Q4C. Vérifie ce point dans la ronéo Sources naturelles ; la clé ACE est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "D"
+        ],
+        "kind": "source_conflict",
+        "text": "D est faux ici, mais la même affirmation sur les antibiotiques issus de venins est validée avec « VRAI ?? » en 2021–2022 S1 Q4C. Vérifie ce point dans la ronéo Sources naturelles ; la clé ACE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 802,
+      "sourceEndPage": 802,
+      "correctionPage": 812,
+      "correctionNumber": 3,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q04",
+    "themeId": "sources-naturelles",
+    "reason": "Extraction, hémisynthèse et culture des ressources naturelles ; biotechnologie et criblage sont ici comparés comme moyens d'obtention.",
+    "confidence": 0.91,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 802,
+      "sourceEndPage": 802,
+      "correctionPage": 812,
+      "correctionNumber": 4,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "AD",
+      "rawAnswerPreserved": "AD"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q05",
+    "themeId": "analyse-controles",
+    "reason": "Monographies, impuretés et méthodes analytiques du contrôle qualité.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 803,
+      "sourceEndPage": 803,
+      "correctionPage": 813,
+      "correctionNumber": 5,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q13",
+    "themeId": "analyse-controles",
+    "reason": "Identification de la Pharmacopée par ses monographies et spécifications qualitatives/quantitatives de qualité.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 806,
+      "sourceEndPage": 806,
+      "correctionPage": 817,
+      "correctionNumber": 13,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "DE",
+      "rawAnswerPreserved": "DE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q06",
+    "themeId": "conception-rationnelle",
+    "reason": "Docking, mécanique moléculaire, relations structure-activité et pharmacophore.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification de C porte explicitement « VRAI ? » à propos du calcul de stabilité par relation structure-activité. Vérifie ce point dans la ronéo Conception rationnelle ; la clé source ABCD est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_uncertainty",
+        "text": "La justification de C porte explicitement « VRAI ? » à propos du calcul de stabilité par relation structure-activité. Vérifie ce point dans la ronéo Conception rationnelle ; la clé source ABCD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 803,
+      "sourceEndPage": 803,
+      "correctionPage": 813,
+      "correctionNumber": 6,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ABCD",
+      "rawAnswerPreserved": "ABCD"
+    },
+    "visualChecks": [
+      "Corrigé p813 Q6 : point d'interrogation après VRAI confirmé visuellement."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q07",
+    "themeId": "conception-rationnelle",
+    "reason": "Choix d'une équation QSAR à partir de trois structures et de leurs descripteurs.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "general_solution_and_key_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "general_solution_and_key_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "general_solution_and_key_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "general_solution_and_key_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "general_solution_and_key_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 804,
+      "sourceEndPage": 804,
+      "correctionPage": 814,
+      "correctionNumber": 7,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "D",
+      "rawAnswerPreserved": "D"
+    },
+    "visualChecks": [
+      "Tableau sujet p804 : trois molécules complètes et activités3/8/6 ; corrigé p814 concordant avec l'équation D."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q10",
+    "themeId": "chimie-organique",
+    "reason": "Familles structurales d’acides AINS, motifs phényl/indolyl et stéréochimie ; la compétence dominante est chimique.",
+    "confidence": 0.97,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "A emploie le terme « acides arylalcaloïdes », tel qu'imprimé dans le sujet, et le corrigé le valide sans précision. Vérifie la dénomination de cette famille dans la ronéo Identification PA ; le texte source est conservé."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_uncertainty",
+        "text": "A emploie le terme « acides arylalcaloïdes », tel qu'imprimé dans le sujet, et le corrigé le valide sans précision. Vérifie la dénomination de cette famille dans la ronéo Identification PA ; le texte source est conservé."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 805,
+      "sourceEndPage": 805,
+      "correctionPage": 815,
+      "correctionNumber": 10,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [
+      "Sujet p805 Q10 : terme arylalcaloïdes confirmé, il ne s'agit pas d'une erreur d'extraction."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q11",
+    "themeId": "identification-pa",
+    "reason": "Principes de pharmacomodulation : substituants, chaînes latérales et cycles pour optimiser un principe actif.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 805,
+      "sourceEndPage": 805,
+      "correctionPage": 816,
+      "correctionNumber": 11,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ABC",
+      "rawAnswerPreserved": "ABC"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q08",
+    "themeId": "biotechnologies",
+    "reason": "Édition génomique CRISPR/Cas9, thérapie cellulaire et cellules iPS.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 804,
+      "sourceEndPage": 804,
+      "correctionPage": 815,
+      "correctionNumber": 8,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q09",
+    "themeId": "biotechnologies",
+    "reason": "Biomédicaments, thérapie cellulaire, transcriptomique et production recombinante ; l'item R&D est secondaire.",
+    "confidence": 0.96,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 805,
+      "sourceEndPage": 805,
+      "correctionPage": 815,
+      "correctionNumber": 9,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ADE",
+      "rawAnswerPreserved": "ADE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q24",
+    "themeId": "biotechnologies",
+    "reason": "CAR-T : lymphocytes modifiés, transfert génétique et immunothérapie cellulaire.",
+    "confidence": 0.87,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "E emploie « vaccin » pour la délivrance du gène dans les lymphocytes et est validé sans explication. Vérifie le vocabulaire du transfert génétique des CAR-T dans la ronéo Biotechnologies ; la clé source BCE est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "E emploie « vaccin » pour la délivrance du gène dans les lymphocytes et est validé sans explication. Vérifie le vocabulaire du transfert génétique des CAR-T dans la ronéo Biotechnologies ; la clé source BCE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 808,
+      "sourceEndPage": 808,
+      "correctionPage": 821,
+      "correctionNumber": 24,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "BCE",
+      "rawAnswerPreserved": "BCE"
+    },
+    "visualChecks": [
+      "Sujet p808 Q24E et corrigé p821 Q24E : vaccin/VRAI confirmés visuellement."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q12",
+    "themeId": "identification-pa",
+    "reason": "Développement de me-too, veille des brevets et distinction avec les génériques.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé valide sans justification le mot « nécessairement » concernant les indications d'un me-too. Vérifie la portée de cette affirmation dans la ronéo Identification PA ; la clé source ACDE est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Le corrigé valide sans justification le mot « nécessairement » concernant les indications d'un me-too. Vérifie la portée de cette affirmation dans la ronéo Identification PA ; la clé source ACDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 805,
+      "sourceEndPage": 805,
+      "correctionPage": 816,
+      "correctionNumber": 12,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [
+      "Sujet p805 Q12 : nécessairement en E confirmé visuellement."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q14",
+    "themeId": "galenique",
+    "reason": "Reconnaissance de la forme capsule à partir de sa définition pharmaceutique.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 806,
+      "sourceEndPage": 806,
+      "correctionPage": 817,
+      "correctionNumber": 14,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "B",
+      "rawAnswerPreserved": "B"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q15",
+    "themeId": "galenique",
+    "reason": "Stérilité des formes selon les voies parentérale et ophtalmique.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 806,
+      "sourceEndPage": 806,
+      "correctionPage": 817,
+      "correctionNumber": 15,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACD",
+      "rawAnswerPreserved": "ACD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q16",
+    "themeId": "iatrogenie",
+    "reason": "Définition et responsabilité de la iatrogénie, rôle des professionnels et du patient.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 806,
+      "sourceEndPage": 806,
+      "correctionPage": 818,
+      "correctionNumber": 16,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "BC",
+      "rawAnswerPreserved": "BC"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q17",
+    "themeId": "benefice-risque",
+    "reason": "Pharmacovigilance et imputabilité des effets indésirables, avec critères chronologiques et réintroduction.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé exige en C un mécanisme documenté et exclut en D un effet retardé lorsque la concentration est nulle. Vérifie les critères d'imputabilité et la portée de l'hystérésis dans la ronéo Balance bénéfice/risque ; la clé source AC est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé exige en C un mécanisme documenté et exclut en D un effet retardé lorsque la concentration est nulle. Vérifie les critères d'imputabilité et la portée de l'hystérésis dans la ronéo Balance bénéfice/risque ; la clé source AC est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C",
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "Le corrigé exige en C un mécanisme documenté et exclut en D un effet retardé lorsque la concentration est nulle. Vérifie les critères d'imputabilité et la portée de l'hystérésis dans la ronéo Balance bénéfice/risque ; la clé source AC est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 806,
+      "sourceEndPage": 806,
+      "correctionPage": 818,
+      "correctionNumber": 17,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "AC",
+      "rawAnswerPreserved": "AC"
+    },
+    "visualChecks": [
+      "Corrigé p818 Q17 : verdicts C vrai/D faux et justification sur la concentration nulle vus."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q18",
+    "themeId": "pk-pd",
+    "reason": "Demi-vie, intervalle de prise, état d'équilibre et volume de distribution.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "A est vrai ici, alors que le rôle des paramètres pharmacocinétiques dans l’ajustement de la posologie est rejeté en 2021–2022 S1 Q18A. Vérifie cette divergence dans la ronéo PK PD ; la clé A est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_conflict",
+        "text": "A est vrai ici, alors que le rôle des paramètres pharmacocinétiques dans l’ajustement de la posologie est rejeté en 2021–2022 S1 Q18A. Vérifie cette divergence dans la ronéo PK PD ; la clé A est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 807,
+      "sourceEndPage": 807,
+      "correctionPage": 818,
+      "correctionNumber": 18,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "A",
+      "rawAnswerPreserved": "A"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q19",
+    "themeId": "developpement-clinique",
+    "reason": "Nature et pertinence des critères cliniques d'efficacité du point de vue du patient.",
+    "confidence": 0.79,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Les justifications de A et E définissent le critère clinique comme un guide du choix thérapeutique, alors que le QCM interroge aussi les critères d'efficacité. Vérifie la distinction entre critère de jugement et choix du traitement dans la ronéo Développement clinique ; la clé BC est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Les justifications de A et E définissent le critère clinique comme un guide du choix thérapeutique, alors que le QCM interroge aussi les critères d'efficacité. Vérifie la distinction entre critère de jugement et choix du traitement dans la ronéo Développement clinique ; la clé BC est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A",
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "Les justifications de A et E définissent le critère clinique comme un guide du choix thérapeutique, alors que le QCM interroge aussi les critères d'efficacité. Vérifie la distinction entre critère de jugement et choix du traitement dans la ronéo Développement clinique ; la clé BC est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 807,
+      "sourceEndPage": 807,
+      "correctionPage": 819,
+      "correctionNumber": 19,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "BC",
+      "rawAnswerPreserved": "BC"
+    },
+    "visualChecks": [
+      "Corrigé p819 Q19 : les définitions employées en A/E sont bien présentes dans le document."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q20",
+    "themeId": "benefice-risque",
+    "reason": "Évaluation et remise en cause de la balance bénéfice/risque aux phasesIII/IV et selon le patient.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 807,
+      "sourceEndPage": 807,
+      "correctionPage": 819,
+      "correctionNumber": 20,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ABC",
+      "rawAnswerPreserved": "ABC"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q25",
+    "themeId": "developpement-clinique",
+    "reason": "Phase0 : population, microdoses, objectifs pharmacocinétiques et place dans le développement.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification de B ne cite que les phasesIII etIV pour mesurer les effets indésirables. Vérifie la place de l'étude de la tolérance dans les différentes phases du développement clinique dans ta ronéo ; la clé source ACE est conservée."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B"
+        ],
+        "kind": "possible_error",
+        "text": "La justification de B ne cite que les phasesIII etIV pour mesurer les effets indésirables. Vérifie la place de l'étude de la tolérance dans les différentes phases du développement clinique dans ta ronéo ; la clé source ACE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 808,
+      "sourceEndPage": 808,
+      "correctionPage": 821,
+      "correctionNumber": 25,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [
+      "Corrigé p821 Q25 : justification B citant seulement phasesIII/IV vue."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q21",
+    "themeId": "developpement-clinique",
+    "reason": "Interprétation de l'effet traitement et de sa composante placebo selon les patients et situations.",
+    "confidence": 0.78,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "D affirme que l'effet placebo est « plus mineur » lorsque le médicament est actif, sans préciser s'il s'agit de sa part relative ou de son importance absolue. Vérifie cette distinction dans la ronéo Développement clinique ; le corrigé source retient D vrai."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "D"
+        ],
+        "kind": "source_uncertainty",
+        "text": "D affirme que l'effet placebo est « plus mineur » lorsque le médicament est actif, sans préciser s'il s'agit de sa part relative ou de son importance absolue. Vérifie cette distinction dans la ronéo Développement clinique ; le corrigé source retient D vrai."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 807,
+      "sourceEndPage": 807,
+      "correctionPage": 820,
+      "correctionNumber": 21,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "BCDE",
+      "rawAnswerPreserved": "BCDE"
+    },
+    "visualChecks": [
+      "Corrigé p820 Q21 : justification D vue, importance du placebo comparée à activité médicamenteuse."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q22",
+    "themeId": "bum",
+    "reason": "Adhésion thérapeutique, règle des5B, information et acteurs du bon usage.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 807,
+      "sourceEndPage": 807,
+      "correctionPage": 820,
+      "correctionNumber": 22,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S1:q23",
+    "themeId": "bum",
+    "reason": "Application de la règle des5B, dossier pharmaceutique et RCP comme outils de bon usage.",
+    "confidence": 0.95,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "D est vrai ici, mais le même lien entre erreur de rangement et erreur d’administration est faux en 2021–2022 S1 Q22B. Vérifie ce point dans la ronéo BUM ; la clé ACDE est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "D"
+        ],
+        "kind": "source_conflict",
+        "text": "D est vrai ici, mais le même lien entre erreur de rangement et erreur d’administration est faux en 2021–2022 S1 Q22B. Vérifie ce point dans la ronéo BUM ; la clé ACDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 808,
+      "sourceEndPage": 808,
+      "correctionPage": 821,
+      "correctionNumber": 23,
+      "shortCorrectionPage": 810,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q01",
+    "themeId": "droit",
+    "reason": "Définition légale de l'officine et activités relevant de son champ.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 824,
+      "sourceEndPage": 824,
+      "correctionPage": 831,
+      "correctionNumber": 1,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q12",
+    "themeId": "droit",
+    "reason": "Publicité, responsabilité judiciaire et objectifs de l'industrie pharmaceutique.",
+    "confidence": 0.8,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification de A, qui affirme que toute publicité est strictement interdite, porte « VRAI ? ». Vérifie la portée de l'interdiction et les distinctions enseignées dans la ronéo de droit pharma ; la clé ABCD est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_uncertainty",
+        "text": "La justification de A, qui affirme que toute publicité est strictement interdite, porte « VRAI ? ». Vérifie la portée de l'interdiction et les distinctions enseignées dans la ronéo de droit pharma ; la clé ABCD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 826,
+      "sourceEndPage": 826,
+      "correctionPage": 835,
+      "correctionNumber": 12,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ABCD",
+      "rawAnswerPreserved": "ABCD"
+    },
+    "visualChecks": [
+      "Corrigé p835 Q12 : VRAI ? pour A confirmé."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q02",
+    "themeId": "sources-naturelles",
+    "reason": "Ethnopharmacologie, observation des organismes et origine/activité des substances naturelles.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 824,
+      "sourceEndPage": 824,
+      "correctionPage": 831,
+      "correctionNumber": 2,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "AB",
+      "rawAnswerPreserved": "AB"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q03",
+    "themeId": "analyse-controles",
+    "reason": "Contrôles des matières premières et falsifications, Pharmacopée et caractérisation physicochimique.",
+    "confidence": 0.94,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 824,
+      "sourceEndPage": 824,
+      "correctionPage": 832,
+      "correctionNumber": 3,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "AB",
+      "rawAnswerPreserved": "AB"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q04",
+    "themeId": "conception-rationnelle",
+    "reason": "Modélisation, chimie quantique, docking et QSAR.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé rejette la prédiction d'affinité en E mais justifie ce rejet par « le QSAR calcule l'interaction », sans expliciter la distinction. Vérifie les propriétés prédites par QSAR dans la ronéo Conception rationnelle ; la clé ACD est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Le corrigé rejette la prédiction d'affinité en E mais justifie ce rejet par « le QSAR calcule l'interaction », sans expliciter la distinction. Vérifie les propriétés prédites par QSAR dans la ronéo Conception rationnelle ; la clé ACD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 824,
+      "sourceEndPage": 824,
+      "correctionPage": 832,
+      "correctionNumber": 4,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ACD",
+      "rawAnswerPreserved": "ACD"
+    },
+    "visualChecks": [
+      "Corrigé p832 Q4 : verdict et justification E vus."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q07",
+    "themeId": "chimie-organique",
+    "reason": "Identification de la classe chimique du naproxène : taille moléculaire et familles d'acides, sans question de criblage ou de développement.",
+    "confidence": 0.81,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé qualifie le naproxène d'arylcarboxylique, rejette arylalcanoïque et valide simultanément 2-naphtylpropionique. Vérifie l'articulation de ces familles chimiques dans ta ronéo ; la clé source ACE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé qualifie le naproxène d'arylcarboxylique, rejette arylalcanoïque et valide simultanément 2-naphtylpropionique. Vérifie l'articulation de ces familles chimiques dans ta ronéo ; la clé source ACE est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé qualifie le naproxène d'arylcarboxylique, rejette arylalcanoïque et valide simultanément 2-naphtylpropionique. Vérifie l'articulation de ces familles chimiques dans ta ronéo ; la clé source ACE est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "Le corrigé qualifie le naproxène d'arylcarboxylique, rejette arylalcanoïque et valide simultanément 2-naphtylpropionique. Vérifie l'articulation de ces familles chimiques dans ta ronéo ; la clé source ACE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 825,
+      "sourceEndPage": 825,
+      "correctionPage": 833,
+      "correctionNumber": 7,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [
+      "Corrigé p833 Q7 : C vrai/D faux/E vrai confirmés."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q05",
+    "themeId": "biotechnologies",
+    "reason": "Vaccins recombinants, puces à ADN, organismes transgéniques et production de protéines.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La production d’érythropoïétine humaine active par E. coli est fausse ici, mais la même proposition est vraie en 2021–2022 S2 Q6E. Vérifie le système de production et l’activité de la protéine dans la ronéo Biotechnologies ; la clé BCD est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_conflict",
+        "text": "La production d’érythropoïétine humaine active par E. coli est fausse ici, mais la même proposition est vraie en 2021–2022 S2 Q6E. Vérifie le système de production et l’activité de la protéine dans la ronéo Biotechnologies ; la clé BCD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 825,
+      "sourceEndPage": 825,
+      "correctionPage": 832,
+      "correctionNumber": 5,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "BCD",
+      "rawAnswerPreserved": "BCD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q06",
+    "themeId": "biotechnologies",
+    "reason": "Métabolomique, génie génétique, anticorps recombinants et thérapies cellulaires.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 825,
+      "sourceEndPage": 825,
+      "correctionPage": 833,
+      "correctionNumber": 6,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ACE",
+      "rawAnswerPreserved": "ACE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q08",
+    "themeId": "galenique",
+    "reason": "Compatibilité des formes solutions, suspensions et émulsions avec la voie intramusculaire.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 825,
+      "sourceEndPage": 825,
+      "correctionPage": 833,
+      "correctionNumber": 8,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ABCDE",
+      "rawAnswerPreserved": "ABCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q10",
+    "themeId": "droit",
+    "reason": "Mentions obligatoires sur la spécialité pharmaceutique et distinction avec la notice.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 826,
+      "sourceEndPage": 826,
+      "correctionPage": 834,
+      "correctionNumber": 10,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ABC",
+      "rawAnswerPreserved": "ABC"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q09",
+    "themeId": "identification-pa",
+    "reason": "Biomarqueurs, criblage virtuel/haut débit et passage des molécules aux hits/leads.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La clé source est « AUCUNE ». Pour C, le corrigé oppose la modélisation mathématique/informatique au « modèle biomathématique » sans expliquer cette exclusion du criblage virtuel. Vérifie ce point dans la ronéo Identification PA ; aucune réponse de remplacement n'est imposée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "possible_error",
+        "text": "La clé source est « AUCUNE ». Pour C, le corrigé oppose la modélisation mathématique/informatique au « modèle biomathématique » sans expliquer cette exclusion du criblage virtuel. Vérifie ce point dans la ronéo Identification PA ; aucune réponse de remplacement n'est imposée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 825,
+      "sourceEndPage": 825,
+      "correctionPage": 834,
+      "correctionNumber": 9,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "",
+      "rawAnswerPreserved": "AUCUNE"
+    },
+    "visualChecks": [
+      "Corrigé p834 Q9 : AUCUNE et justification C vus ; grille p830 identique."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q11",
+    "themeId": "bum",
+    "reason": "Déterminants de l'observance, liberté du patient et communication prescripteur-patient.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 826,
+      "sourceEndPage": 826,
+      "correctionPage": 835,
+      "correctionNumber": 11,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q13",
+    "themeId": "bum",
+    "reason": "Facteurs influençant l'observance et mesures d'éducation thérapeutique ; le sujet répète cette série en Q16.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 826,
+      "sourceEndPage": 826,
+      "correctionPage": 835,
+      "correctionNumber": 13,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "CE",
+      "rawAnswerPreserved": "CE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q15",
+    "themeId": "benefice-risque",
+    "reason": "Variabilité, évolution et quantification de la balance bénéfice/risque et préférences du patient.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 827,
+      "sourceEndPage": 827,
+      "correctionPage": 836,
+      "correctionNumber": 15,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "CE",
+      "rawAnswerPreserved": "CE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q16",
+    "themeId": "bum",
+    "reason": "Observance, prévention primaire, polymédication et éducation thérapeutique ; doublon présent dans le sujet, conservé.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 827,
+      "sourceEndPage": 827,
+      "correctionPage": 837,
+      "correctionNumber": 16,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "CE",
+      "rawAnswerPreserved": "CE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q17",
+    "themeId": "bum",
+    "reason": "Adaptation de l'usage aux populations à risque : enfants, patients âgés, grossesse et insuffisance rénale.",
+    "confidence": 0.95,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 827,
+      "sourceEndPage": 827,
+      "correctionPage": 837,
+      "correctionNumber": 17,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ADE",
+      "rawAnswerPreserved": "ADE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q18",
+    "themeId": "bum",
+    "reason": "Démarche et objectifs de l'éducation thérapeutique du patient.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "A dit que l'ETP est centrée sur « les soignants » et le corrigé la valide sans explication. Vérifie la distinction entre centrage sur le patient et rôle des soignants dans la ronéo BUM ; la clé ABDE est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "possible_error",
+        "text": "A dit que l'ETP est centrée sur « les soignants » et le corrigé la valide sans explication. Vérifie la distinction entre centrage sur le patient et rôle des soignants dans la ronéo BUM ; la clé ABDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 827,
+      "sourceEndPage": 827,
+      "correctionPage": 837,
+      "correctionNumber": 18,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [
+      "Sujet p827 Q18 : mot soignants confirmé ; corrigé p837 et grille p830 retiennent A."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2022-2023:S2:q14",
+    "themeId": "pk-pd",
+    "reason": "Paramètres PK/PD, liaison au récepteur, demi-vie, Emax et CE50 ; les deux domaines sont couverts par le thème demandé.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le titre annonce la pharmacocinétique, mais plusieurs items et explications portent sur la pharmacodynamie. C est validé avec la mention « HP maintenant ». Vérifie le périmètre et les notions de demi-vie/effet dans la ronéo PK PD ; la clé BC est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le titre annonce la pharmacocinétique, mais plusieurs items et explications portent sur la pharmacodynamie. C est validé avec la mention « HP maintenant ». Vérifie le périmètre et les notions de demi-vie/effet dans la ronéo PK PD ; la clé BC est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le titre annonce la pharmacocinétique, mais plusieurs items et explications portent sur la pharmacodynamie. C est validé avec la mention « HP maintenant ». Vérifie le périmètre et les notions de demi-vie/effet dans la ronéo PK PD ; la clé BC est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le titre annonce la pharmacocinétique, mais plusieurs items et explications portent sur la pharmacodynamie. C est validé avec la mention « HP maintenant ». Vérifie le périmètre et les notions de demi-vie/effet dans la ronéo PK PD ; la clé BC est conservée.",
+          "E est faux ici avec la distinction efficacité/Emax et puissance/CE50, mais la même définition par CE50 est validée en 2021–2022 S1 Q19E. Vérifie cette divergence dans la ronéo PK PD ; la clé BC est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Le titre annonce la pharmacocinétique, mais plusieurs items et explications portent sur la pharmacodynamie. C est validé avec la mention « HP maintenant ». Vérifie le périmètre et les notions de demi-vie/effet dans la ronéo PK PD ; la clé BC est conservée."
+      },
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_conflict",
+        "text": "E est faux ici avec la distinction efficacité/Emax et puissance/CE50, mais la même définition par CE50 est validée en 2021–2022 S1 Q19E. Vérifie cette divergence dans la ronéo PK PD ; la clé BC est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 826,
+      "sourceEndPage": 826,
+      "correctionPage": 836,
+      "correctionNumber": 14,
+      "shortCorrectionPage": 830,
+      "answerPreserved": "BC",
+      "rawAnswerPreserved": "BC"
+    },
+    "visualChecks": [
+      "Sujet p826 Q14 et corrigé p836 vus : caractères parasites b/è de l'extraction absents de l'image, transcription D/E correcte ; mention HP confirmée."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q01",
+    "themeId": "droit",
+    "reason": "Compétences respectives de l'ANSM, de l'ANSES et de l'Agence européenne du médicament.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé attribue à l'ANSES la compétence sur les médicaments humains et vétérinaires, mais rejette la même double compétence pour l'agence européenne. Vérifie précisément les champs de compétence enseignés dans la ronéo de droit pharma ; la clé BC est conservée."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé attribue à l'ANSES la compétence sur les médicaments humains et vétérinaires, mais rejette la même double compétence pour l'agence européenne. Vérifie précisément les champs de compétence enseignés dans la ronéo de droit pharma ; la clé BC est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B",
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "Le corrigé attribue à l'ANSES la compétence sur les médicaments humains et vétérinaires, mais rejette la même double compétence pour l'agence européenne. Vérifie précisément les champs de compétence enseignés dans la ronéo de droit pharma ; la clé BC est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 840,
+      "sourceEndPage": 840,
+      "correctionPage": 849,
+      "correctionNumber": 1,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "BC",
+      "rawAnswerPreserved": "BC"
+    },
+    "visualChecks": [
+      "Corrigé p849 Q1 : B vrai/E faux et renvois à l'ANSES confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q02",
+    "themeId": "droit",
+    "reason": "Directives européennes, transposition et fondement juridique du code communautaire du médicament.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 840,
+      "sourceEndPage": 840,
+      "correctionPage": 849,
+      "correctionNumber": 2,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABC",
+      "rawAnswerPreserved": "ABC"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q17",
+    "themeId": "bum",
+    "reason": "Sens critique des professionnels face à l'information industrielle, intérêt de santé publique et objectifs commerciaux.",
+    "confidence": 0.77,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 844,
+      "sourceEndPage": 844,
+      "correctionPage": 855,
+      "correctionNumber": 16,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q03",
+    "themeId": "sources-naturelles",
+    "reason": "Ethnopharmacologie, chimiotaxonomie et zoopharmacognosie pour choisir des sources de principes actifs.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 840,
+      "sourceEndPage": 840,
+      "correctionPage": 850,
+      "correctionNumber": 3,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "BCE",
+      "rawAnswerPreserved": "BCE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q04",
+    "themeId": "sources-naturelles",
+    "reason": "Origines fongiques, végétales et animales de principes actifs et activités thérapeutiques.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "L’origine fongique de l’ergotamine est vraie ici, mais la même proposition est fausse en 2021–2022 S2 Q2C. Vérifie ce point dans la ronéo Sources naturelles ; la clé ACDE est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "C porte « VRAI ?? » et le corrigé reconnaît que le point n'était pas explicite dans le cours. La même affirmation venins/antibiotiques est fausse en 2022–2023 S1 Q3D. Vérifie ce point dans la ronéo Sources naturelles ; la clé ACDE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_conflict",
+        "text": "C porte « VRAI ?? » et le corrigé reconnaît que le point n'était pas explicite dans le cours. La même affirmation venins/antibiotiques est fausse en 2022–2023 S1 Q3D. Vérifie ce point dans la ronéo Sources naturelles ; la clé ACDE est conservée."
+      },
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_conflict",
+        "text": "L’origine fongique de l’ergotamine est vraie ici, mais la même proposition est fausse en 2021–2022 S2 Q2C. Vérifie ce point dans la ronéo Sources naturelles ; la clé ACDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 840,
+      "sourceEndPage": 840,
+      "correctionPage": 850,
+      "correctionNumber": 4,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [
+      "Corrigé p850 Q4 : VRAI ?? et réserve imprimée lus visuellement."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q05",
+    "themeId": "analyse-controles",
+    "reason": "Pharmacopée, pureté énantiomérique, titrage et actualisation des monographies.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 841,
+      "sourceEndPage": 841,
+      "correctionPage": 850,
+      "correctionNumber": 5,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABCE",
+      "rawAnswerPreserved": "ABCE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q13",
+    "themeId": "droit",
+    "reason": "Champ d'application et force juridique des BPF/BPP et de la Pharmacopée.",
+    "confidence": 0.92,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "missing_in_source",
+        "observation": [
+          "Ce QCM sur les BPF/BPP est absent du corrigé fourni. Il reste hors note : vérifie les cinq propositions dans la ronéo de droit pharma. Le décalage de numérotation du corrigé suivant a été pris en compte."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "missing_in_source",
+        "observation": [
+          "Ce QCM sur les BPF/BPP est absent du corrigé fourni. Il reste hors note : vérifie les cinq propositions dans la ronéo de droit pharma. Le décalage de numérotation du corrigé suivant a été pris en compte."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "missing_in_source",
+        "observation": [
+          "Ce QCM sur les BPF/BPP est absent du corrigé fourni. Il reste hors note : vérifie les cinq propositions dans la ronéo de droit pharma. Le décalage de numérotation du corrigé suivant a été pris en compte."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "missing_in_source",
+        "observation": [
+          "Ce QCM sur les BPF/BPP est absent du corrigé fourni. Il reste hors note : vérifie les cinq propositions dans la ronéo de droit pharma. Le décalage de numérotation du corrigé suivant a été pris en compte."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "missing_in_source",
+        "observation": [
+          "Ce QCM sur les BPF/BPP est absent du corrigé fourni. Il reste hors note : vérifie les cinq propositions dans la ronéo de droit pharma. Le décalage de numérotation du corrigé suivant a été pris en compte."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Ce QCM sur les BPF/BPP est absent du corrigé fourni. Il reste hors note : vérifie les cinq propositions dans la ronéo de droit pharma. Le décalage de numérotation du corrigé suivant a été pris en compte."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 843,
+      "sourceEndPage": 843,
+      "correctionPage": 848,
+      "correctionNumber": null,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "",
+      "rawAnswerPreserved": ""
+    },
+    "visualChecks": [
+      "Sujet p843 Q13 entier ; grille p848 à24Q et page854 confirmant le décalage sujet14/15/16 vers corrigé13/14/15."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q06",
+    "themeId": "conception-rationnelle",
+    "reason": "Mécanique et dynamique moléculaires, modèles semi-empiriques et champ de force AMBER.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 841,
+      "sourceEndPage": 841,
+      "correctionPage": 851,
+      "correctionNumber": 6,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q07",
+    "themeId": "conception-rationnelle",
+    "reason": "Reconnaissance des fonctions et score d'adéquation au pharmacophore fourni.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification compte deux cycles aromatiques pour C, alors que le dessin présente trois cycles fusionnés. Vérifie la convention de comptage et la correspondance spatiale au pharmacophore dans la ronéo Conception rationnelle ; la clé ABC est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_uncertainty",
+        "text": "La justification compte deux cycles aromatiques pour C, alors que le dessin présente trois cycles fusionnés. Vérifie la convention de comptage et la correspondance spatiale au pharmacophore dans la ronéo Conception rationnelle ; la clé ABC est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 841,
+      "sourceEndPage": 841,
+      "correctionPage": 851,
+      "correctionNumber": 7,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABC",
+      "rawAnswerPreserved": "ABC"
+    },
+    "visualChecks": [
+      "Image sujet p841 complète : pharmacophore, légende et molécules A–E ; corrigé p851 vu, dont le comptage de C."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q10",
+    "themeId": "identification-pa",
+    "reason": "Optimisation structure-activité, châssis moléculaires, me-too et protection des séries de composés.",
+    "confidence": 0.91,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "C est noté faux, mais la fin de la justification imprimée contient « mais d'un médicament falsifié », formulation incohérente avec ce verdict. Vérifie la distinction me-too/falsification dans la ronéo Identification PA ; la clé ABDE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_uncertainty",
+        "text": "C est noté faux, mais la fin de la justification imprimée contient « mais d'un médicament falsifié », formulation incohérente avec ce verdict. Vérifie la distinction me-too/falsification dans la ronéo Identification PA ; la clé ABDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 842,
+      "sourceEndPage": 842,
+      "correctionPage": 852,
+      "correctionNumber": 10,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [
+      "Corrigé p852 Q10 : fin de phrase incohérente confirmée, pas d'erreur d'extraction.",
+      "Sujet p842 Q10 : accent isolé après la consigne réellement imprimé ; aucun texte voisin intégré."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q11",
+    "themeId": "chimie-organique",
+    "reason": "Biostéréoconversion des acides arylpropioniques et modifications chimiques du naproxène, avec un item de contrôle et un item d’optimisation.",
+    "confidence": 0.81,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 842,
+      "sourceEndPage": 842,
+      "correctionPage": 853,
+      "correctionNumber": 11,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ADE",
+      "rawAnswerPreserved": "ADE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q08",
+    "themeId": "biotechnologies",
+    "reason": "Conception et production des vaccins recombinants, à ADN et à ARN.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 842,
+      "sourceEndPage": 842,
+      "correctionPage": 852,
+      "correctionNumber": 8,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABCDE",
+      "rawAnswerPreserved": "ABCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q09",
+    "themeId": "biotechnologies",
+    "reason": "Thérapie cellulaire, cellules pluripotentes, greffes et production industrielle de cellules.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 842,
+      "sourceEndPage": 842,
+      "correctionPage": 852,
+      "correctionNumber": 9,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ACD",
+      "rawAnswerPreserved": "ACD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q12",
+    "themeId": "identification-pa",
+    "reason": "Criblage ciblé et haut débit, chimiothèque et sélection des molécules candidates.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 843,
+      "sourceEndPage": 843,
+      "correctionPage": 853,
+      "correctionNumber": 12,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "BE",
+      "rawAnswerPreserved": "BE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q14",
+    "themeId": "galenique",
+    "reason": "Formes et voie orale : absorption, émulsion, ampoule buvable et unités de volume.",
+    "confidence": 0.94,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 843,
+      "sourceEndPage": 843,
+      "correctionPage": 854,
+      "correctionNumber": 13,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "A",
+      "rawAnswerPreserved": "A"
+    },
+    "visualChecks": [
+      "Sujet p843 et corrigé p854 : sourceQ14 lié au corrigé13 par son contenu, non par le numéro seul."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q15",
+    "themeId": "galenique",
+    "reason": "Préparations injectables, isotonicité, émulsions, pH et excipients.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 843,
+      "sourceEndPage": 843,
+      "correctionPage": 854,
+      "correctionNumber": 14,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "A",
+      "rawAnswerPreserved": "A"
+    },
+    "visualChecks": [
+      "Sujet p843 et corrigé p854 : sourceQ15 lié au corrigé14."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q16",
+    "themeId": "bum",
+    "reason": "Observance, liberté du patient et relation de confiance avec le prescripteur.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 843,
+      "sourceEndPage": 843,
+      "correctionPage": 854,
+      "correctionNumber": 15,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [
+      "Sujet p843 et corrigé p854 : sourceQ16 lié au corrigé15."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q20",
+    "themeId": "bum",
+    "reason": "Individualisation de la prescription selon préférences et risque du patient.",
+    "confidence": 0.94,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 844,
+      "sourceEndPage": 844,
+      "correctionPage": 856,
+      "correctionNumber": 19,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "DE",
+      "rawAnswerPreserved": "DE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q22",
+    "themeId": "bum",
+    "reason": "Règle des5B, éducation thérapeutique, acteurs du bon usage et prévention des erreurs.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le lien entre erreur de rangement et erreur d'administration est faux ici, mais vrai en 2022–2023 S1 Q23D. La justification donne un exemple d'erreur de voie sans trancher ce lien. Vérifie ce point dans la ronéo BUM ; la clé AE est conservée."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B"
+        ],
+        "kind": "source_conflict",
+        "text": "Le lien entre erreur de rangement et erreur d'administration est faux ici, mais vrai en 2022–2023 S1 Q23D. La justification donne un exemple d'erreur de voie sans trancher ce lien. Vérifie ce point dans la ronéo BUM ; la clé AE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 845,
+      "sourceEndPage": 845,
+      "correctionPage": 857,
+      "correctionNumber": 21,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "AE",
+      "rawAnswerPreserved": "AE"
+    },
+    "visualChecks": [
+      "Corrigé p857 sourceQ22/corrigé21 : B faux et exemple d'erreur de voie confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q23",
+    "themeId": "bum",
+    "reason": "Prescription conforme, avis du patient, contexte physiopathologique et suivi de l'adhésion.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 845,
+      "sourceEndPage": 845,
+      "correctionPage": 857,
+      "correctionNumber": 22,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q18",
+    "themeId": "pk-pd",
+    "reason": "Paramètres PK, intervalle d'administration, demi-vie, hystérésis et équilibre des concentrations.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "A est faux ici, mais l'affirmation selon laquelle les paramètres pharmacocinétiques permettent d'ajuster la posologie est vraie en 2022–2023 S1 Q18A. Vérifie ce point dans la ronéo PK PD ; la clé BDE est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification propose un espacement « toutes les 5 demi-vies », tandis que B/E parlent du délai d'équilibre. Vérifie la distinction entre intervalle des doses et temps d'équilibre dans la ronéo PK PD."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_conflict",
+        "text": "A est faux ici, mais l'affirmation selon laquelle les paramètres pharmacocinétiques permettent d'ajuster la posologie est vraie en 2022–2023 S1 Q18A. Vérifie ce point dans la ronéo PK PD ; la clé BDE est conservée."
+      },
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "possible_error",
+        "text": "La justification propose un espacement « toutes les 5 demi-vies », tandis que B/E parlent du délai d'équilibre. Vérifie la distinction entre intervalle des doses et temps d'équilibre dans la ronéo PK PD."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 844,
+      "sourceEndPage": 844,
+      "correctionPage": 855,
+      "correctionNumber": 17,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "BDE",
+      "rawAnswerPreserved": "BDE"
+    },
+    "visualChecks": [
+      "Corrigé p855 sourceQ18/corrigé17 : A faux et phrase toutes les5demi-vies de C confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q19",
+    "themeId": "pk-pd",
+    "reason": "Agonisme/antagonisme, réversibilité, puissance, efficacité et CE50.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification assimile « antagoniste complet » à « irréversible » et à une liaison covalente. Vérifie ces notions distinctes dans la ronéo PK PD ; la clé source BCDE est conservée."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "D/E associent puissance, effet maximal et CE50 ; E est vrai ici, alors que2022–2023 S2 Q14E est faux et distingue Emax/CE50. Vérifie cette distinction dans la ronéo PK PD ; aucune clé de remplacement n'est imposée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "D/E associent puissance, effet maximal et CE50 ; E est vrai ici, alors que2022–2023 S2 Q14E est faux et distingue Emax/CE50. Vérifie cette distinction dans la ronéo PK PD ; aucune clé de remplacement n'est imposée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B"
+        ],
+        "kind": "possible_error",
+        "text": "La justification assimile « antagoniste complet » à « irréversible » et à une liaison covalente. Vérifie ces notions distinctes dans la ronéo PK PD ; la clé source BCDE est conservée."
+      },
+      {
+        "items": [
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "text": "D/E associent puissance, effet maximal et CE50 ; E est vrai ici, alors que2022–2023 S2 Q14E est faux et distingue Emax/CE50. Vérifie cette distinction dans la ronéo PK PD ; aucune clé de remplacement n'est imposée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 844,
+      "sourceEndPage": 844,
+      "correctionPage": 856,
+      "correctionNumber": 18,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "BCDE",
+      "rawAnswerPreserved": "BCDE"
+    },
+    "visualChecks": [
+      "Corrigé p856 sourceQ19/corrigé18 vu, en particulier la liaison covalente et E vrai."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q25",
+    "themeId": "cibles",
+    "reason": "Identification des mécanismes d'action impliquant ADN/ARN et récepteurs nucléaires.",
+    "confidence": 0.92,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 845,
+      "sourceEndPage": 845,
+      "correctionPage": 858,
+      "correctionNumber": 24,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABCDE",
+      "rawAnswerPreserved": "ABCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q21",
+    "themeId": "benefice-risque",
+    "reason": "Évaluation du progrès thérapeutique par l'ASMR, usage pour prescrire et rôle de la HAS.",
+    "confidence": 0.84,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 844,
+      "sourceEndPage": 844,
+      "correctionPage": 856,
+      "correctionNumber": 20,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "C",
+      "rawAnswerPreserved": "C"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q24",
+    "themeId": "developpement-clinique",
+    "reason": "Objectifs des études de phaseIV dans une indication déjà reconnue.",
+    "confidence": 0.95,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 845,
+      "sourceEndPage": 845,
+      "correctionPage": 858,
+      "correctionNumber": 23,
+      "shortCorrectionPage": 848,
+      "answerPreserved": "ABCD",
+      "rawAnswerPreserved": "ABCD"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q01",
+    "themeId": "droit",
+    "reason": "Codes de déontologie, niveaux législatif/réglementaire et champ du Code de la santé publique.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "D valide l’absence de toute disposition sur les médicaments vétérinaires dans le CSP, sans justification. Vérifie ce champ dans la version de la ronéo Le droit pharma utilisée pour ce sujet ; la clé ACDE est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "D valide l’absence de toute disposition sur les médicaments vétérinaires dans le CSP, sans justification. Vérifie ce champ dans la version de la ronéo Le droit pharma utilisée pour ce sujet ; la clé ACDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 860,
+      "sourceEndPage": 860,
+      "correctionPage": 867,
+      "correctionNumber": 1,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [
+      "Corrigé p867 Q1 : verdict D VRAI confirmé."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q13",
+    "themeId": "droit",
+    "reason": "Encadrement de l’industrie pharmaceutique, sanctions et communication sur ses produits.",
+    "confidence": 0.79,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 862,
+      "sourceEndPage": 862,
+      "correctionPage": 871,
+      "correctionNumber": 13,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "BCDE",
+      "rawAnswerPreserved": "BCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q02",
+    "themeId": "sources-naturelles",
+    "reason": "Exploration des plantes et origines végétales ou microbiennes des médicaments.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "L’origine fongique de l’ergotamine est fausse ici, mais vraie en 2021–2022 S1 Q4A. La justification évoque elle-même l’ergot de seigle. Vérifie ce point dans la ronéo Sources naturelles ; la clé ADE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_conflict",
+        "text": "L’origine fongique de l’ergotamine est fausse ici, mais vraie en 2021–2022 S1 Q4A. La justification évoque elle-même l’ergot de seigle. Vérifie ce point dans la ronéo Sources naturelles ; la clé ADE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 860,
+      "sourceEndPage": 860,
+      "correctionPage": 867,
+      "correctionNumber": 2,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ADE",
+      "rawAnswerPreserved": "ADE"
+    },
+    "visualChecks": [
+      "Corrigé p867 Q2 : C FAUX et mention ergot de seigle confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q03",
+    "themeId": "analyse-controles",
+    "reason": "BPF, contrôles de qualité par HPLC et référentiels de pharmacopée.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé signale lui-même une possible coquille « BFP » pour « BPF », puis invoque leur harmonisation mondiale. Vérifie ces deux motifs distincts dans la ronéo Analyse & contrôles des médicaments ; la clé AD est conservée."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Le corrigé signale lui-même une possible coquille « BFP » pour « BPF », puis invoque leur harmonisation mondiale. Vérifie ces deux motifs distincts dans la ronéo Analyse & contrôles des médicaments ; la clé AD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 860,
+      "sourceEndPage": 860,
+      "correctionPage": 868,
+      "correctionNumber": 3,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "AD",
+      "rawAnswerPreserved": "AD"
+    },
+    "visualChecks": [
+      "Corrigé p868 Q3 : possible faute de frappe explicitement signalée par la source."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q04",
+    "themeId": "conception-rationnelle",
+    "reason": "Simulation moléculaire, docking, QSAR et modélisation de protéines.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "C est rejeté au motif que « le score docking n’existe pas » et qu’il s’agirait du « SCORING ». Vérifie la terminologie et les types de complexes évalués dans la ronéo Conception rationnelle ; la clé BDE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_uncertainty",
+        "text": "C est rejeté au motif que « le score docking n’existe pas » et qu’il s’agirait du « SCORING ». Vérifie la terminologie et les types de complexes évalués dans la ronéo Conception rationnelle ; la clé BDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 860,
+      "sourceEndPage": 860,
+      "correctionPage": 868,
+      "correctionNumber": 4,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "BDE",
+      "rawAnswerPreserved": "BDE"
+    },
+    "visualChecks": [
+      "Corrigé p868 Q4 : justification terminologique de C confirmée."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q07",
+    "themeId": "identification-pa",
+    "reason": "Pharmacomodulation des AINS : squelette, substituants, chaîne et propriétés à étudier.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 861,
+      "sourceEndPage": 861,
+      "correctionPage": 869,
+      "correctionNumber": 7,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "BCDE",
+      "rawAnswerPreserved": "BCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q08",
+    "themeId": "identification-pa",
+    "reason": "Séries chimiques d’AINS et représentation de Markush liée à l’exploration d’analogues.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 861,
+      "sourceEndPage": 861,
+      "correctionPage": 870,
+      "correctionNumber": 8,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q05",
+    "themeId": "biotechnologies",
+    "reason": "Vaccins à protéines recombinantes et vaccins à acides nucléiques.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 860,
+      "sourceEndPage": 860,
+      "correctionPage": 868,
+      "correctionNumber": 5,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABCD",
+      "rawAnswerPreserved": "ABCD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q06",
+    "themeId": "biotechnologies",
+    "reason": "Vaccins recombinants, puces à ADN et systèmes de production de protéines.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La production d’érythropoïétine humaine active par E. coli est vraie ici, mais la même proposition est fausse en 2022–2023 S2 Q5E. Vérifie le système de production et l’activité de la protéine dans la ronéo Biotechnologies ; la clé BCDE est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_conflict",
+        "text": "La production d’érythropoïétine humaine active par E. coli est vraie ici, mais la même proposition est fausse en 2022–2023 S2 Q5E. Vérifie le système de production et l’activité de la protéine dans la ronéo Biotechnologies ; la clé BCDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 861,
+      "sourceEndPage": 861,
+      "correctionPage": 869,
+      "correctionNumber": 6,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "BCDE",
+      "rawAnswerPreserved": "BCDE"
+    },
+    "visualChecks": [
+      "Corrigé p869 Q6 : E VRAI et E. coli comme biousine d’EPO confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q09",
+    "themeId": "identification-pa",
+    "reason": "Biomarqueurs, nouvelles indications, criblage virtuel et passage des molécules au stade clinique.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La proposition évoque les modélisations mathématique et informatique du criblage virtuel, mais la justification répond seulement « modèle biomathématique = biologie + maths ». Vérifie le motif du verdict dans la ronéo Identification PA ; la clé C est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "La proposition évoque les modélisations mathématique et informatique du criblage virtuel, mais la justification répond seulement « modèle biomathématique = biologie + maths ». Vérifie le motif du verdict dans la ronéo Identification PA ; la clé C est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 861,
+      "sourceEndPage": 861,
+      "correctionPage": 870,
+      "correctionNumber": 9,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "C",
+      "rawAnswerPreserved": "C"
+    },
+    "visualChecks": [
+      "Corrigé p870 Q9 : justification biomathématique de D confirmée."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q10",
+    "themeId": "galenique",
+    "reason": "Formes pharmaceutiques compatibles avec la voie intramusculaire.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 862,
+      "sourceEndPage": 862,
+      "correctionPage": 870,
+      "correctionNumber": 10,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABCDE",
+      "rawAnswerPreserved": "ABCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q11",
+    "themeId": "droit",
+    "reason": "Mentions obligatoires de l’étiquetage d’une spécialité pharmaceutique.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 862,
+      "sourceEndPage": 862,
+      "correctionPage": 871,
+      "correctionNumber": 11,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABC",
+      "rawAnswerPreserved": "ABC"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q12",
+    "themeId": "bum",
+    "reason": "Observance, liberté du patient, relation de confiance et déterminants de l’adhésion.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 862,
+      "sourceEndPage": 862,
+      "correctionPage": 871,
+      "correctionNumber": 12,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "CDE",
+      "rawAnswerPreserved": "CDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q15",
+    "themeId": "bum",
+    "reason": "Critères de choix et de prescription adaptés au patient, aux bénéfices et aux risques.",
+    "confidence": 0.92,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 863,
+      "sourceEndPage": 863,
+      "correctionPage": 872,
+      "correctionNumber": 15,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABCD",
+      "rawAnswerPreserved": "ABCD"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q16",
+    "themeId": "bum",
+    "reason": "Surveillance pratique du traitement et de l’observance : examen, entretien, examens complémentaires.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 863,
+      "sourceEndPage": 863,
+      "correctionPage": 873,
+      "correctionNumber": 16,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABCE",
+      "rawAnswerPreserved": "ABCE"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q17",
+    "themeId": "bum",
+    "reason": "Choix, suivi et adhésion au traitement médicamenteux.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 863,
+      "sourceEndPage": 863,
+      "correctionPage": 873,
+      "correctionNumber": 17,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "AB",
+      "rawAnswerPreserved": "AB"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q18",
+    "themeId": "bum",
+    "reason": "Prévention des erreurs, suivi de l’observance et adaptation aux populations à risque.",
+    "confidence": 0.86,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 863,
+      "sourceEndPage": 863,
+      "correctionPage": 873,
+      "correctionNumber": 18,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q14",
+    "themeId": "pk-pd",
+    "reason": "Ajustement des doses, intervalle d’administration, demi-vie, équilibre et volume de distribution.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "L’ajustement des doses par les paramètres pharmacocinétiques est faux ici, mais vrai en 2022–2023 S1 Q18A. Vérifie ce point dans la ronéo PK PD ; la clé BDE est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification propose un espacement « toutes les 5 demi-vies », alors que B/D évoquent le délai d’équilibre. Vérifie la distinction entre intervalle des doses et temps d’équilibre dans la ronéo PK PD."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "E valide un volume de distribution ne pouvant pas dépasser le volume sanguin. Vérifie cette borne et la définition du volume apparent de distribution dans la ronéo PK PD ; le verdict imprimé est conservé."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_conflict",
+        "text": "L’ajustement des doses par les paramètres pharmacocinétiques est faux ici, mais vrai en 2022–2023 S1 Q18A. Vérifie ce point dans la ronéo PK PD ; la clé BDE est conservée."
+      },
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "possible_error",
+        "text": "La justification propose un espacement « toutes les 5 demi-vies », alors que B/D évoquent le délai d’équilibre. Vérifie la distinction entre intervalle des doses et temps d’équilibre dans la ronéo PK PD."
+      },
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "E valide un volume de distribution ne pouvant pas dépasser le volume sanguin. Vérifie cette borne et la définition du volume apparent de distribution dans la ronéo PK PD ; le verdict imprimé est conservé."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 862,
+      "sourceEndPage": 862,
+      "correctionPage": 872,
+      "correctionNumber": 14,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "BDE",
+      "rawAnswerPreserved": "BDE"
+    },
+    "visualChecks": [
+      "Corrigé p872 Q14 : A FAUX, toutes les 5 demi-vies et E VRAI confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2021-2022:S2:q19",
+    "themeId": "developpement-clinique",
+    "reason": "Études comparatives et critères de démonstration nécessaires à l’AMM d’un biosimilaire.",
+    "confidence": 0.87,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification de D parle de « biosimilarité des produits génériques » ; E retient un intervalle 80–125 % sur la demi-vie. Vérifie la distinction bioéquivalence/biosimilarité et les paramètres à comparer dans la ronéo Développement clinique ; la clé E est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification de D parle de « biosimilarité des produits génériques » ; E retient un intervalle 80–125 % sur la demi-vie. Vérifie la distinction bioéquivalence/biosimilarité et les paramètres à comparer dans la ronéo Développement clinique ; la clé E est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "D",
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "La justification de D parle de « biosimilarité des produits génériques » ; E retient un intervalle 80–125 % sur la demi-vie. Vérifie la distinction bioéquivalence/biosimilarité et les paramètres à comparer dans la ronéo Développement clinique ; la clé E est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 864,
+      "sourceEndPage": 864,
+      "correctionPage": 874,
+      "correctionNumber": 19,
+      "shortCorrectionPage": 866,
+      "answerPreserved": "E",
+      "rawAnswerPreserved": "E"
+    },
+    "visualChecks": [
+      "Sujet p864 Q19 et corrigé p874 : paramètres, intervalle 80–125 %, mot génériques et verdict E VRAI contrôlés visuellement."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q01",
+    "themeId": "developpement-clinique",
+    "reason": "Éthique des recherches chez l’être humain : protocole, risques, placebo et consentement selon Helsinki.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 876,
+      "sourceEndPage": 876,
+      "correctionPage": 885,
+      "correctionNumber": 1,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABCE",
+      "rawAnswerPreserved": "ABCE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q02",
+    "themeId": "cibles",
+    "reason": "Mécanismes d’action des anticorps monoclonaux : reconnaissance antigénique, cytotoxicité, macrophages et cellules tumorales.",
+    "confidence": 0.97,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 876,
+      "sourceEndPage": 876,
+      "correctionPage": 885,
+      "correctionNumber": 2,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABDE",
+      "rawAnswerPreserved": "ABDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q06",
+    "themeId": "biotechnologies",
+    "reason": "Applications biotechnologiques aux biomarqueurs, protéines recombinantes, expression génique et vaccins.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification remplace globalement « production de molécules synthétiques chimiques » par « hémisynthèse ». Vérifie la distinction entre synthèse chimique et hémisynthèse dans la ronéo Biotechnologies ; la clé BCDE est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "possible_error",
+        "text": "La justification remplace globalement « production de molécules synthétiques chimiques » par « hémisynthèse ». Vérifie la distinction entre synthèse chimique et hémisynthèse dans la ronéo Biotechnologies ; la clé BCDE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 877,
+      "sourceEndPage": 877,
+      "correctionPage": 887,
+      "correctionNumber": 6,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "BCDE",
+      "rawAnswerPreserved": "BCDE"
+    },
+    "visualChecks": [
+      "Corrigé p887 Q6 : justification A « c’est l’hémisynthèse » confirmée."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q07",
+    "themeId": "biotechnologies",
+    "reason": "Transgenèse animale, modèles expérimentaux, souris knock-out et production de protéines recombinantes.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification assimile « knock-out » à une simple sous-expression. Vérifie la distinction entre inactivation et diminution d’expression dans la ronéo Biotechnologies ; le verdict imprimé est conservé."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé valide les modèles « in vitro » et rejette les modèles « in vivo » pour la transgenèse animale. Vérifie cette opposition dans la ronéo Biotechnologies ; la clé C est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé valide les modèles « in vitro » et rejette les modèles « in vivo » pour la transgenèse animale. Vérifie cette opposition dans la ronéo Biotechnologies ; la clé C est conservée."
+        ]
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B"
+        ],
+        "kind": "possible_error",
+        "text": "La justification assimile « knock-out » à une simple sous-expression. Vérifie la distinction entre inactivation et diminution d’expression dans la ronéo Biotechnologies ; le verdict imprimé est conservé."
+      },
+      {
+        "items": [
+          "C",
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "Le corrigé valide les modèles « in vitro » et rejette les modèles « in vivo » pour la transgenèse animale. Vérifie cette opposition dans la ronéo Biotechnologies ; la clé C est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 877,
+      "sourceEndPage": 877,
+      "correctionPage": 887,
+      "correctionNumber": 7,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "C",
+      "rawAnswerPreserved": "C"
+    },
+    "visualChecks": [
+      "Sujet p877 Q7 et corrigé p887 : termes in vitro/in vivo, KO et clé C lus visuellement."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q03",
+    "themeId": "sources-naturelles",
+    "reason": "Intérêt et exploration des molécules naturelles, ethnopharmacologie et modes d’obtention de principes actifs.",
+    "confidence": 0.95,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 876,
+      "sourceEndPage": 876,
+      "correctionPage": 886,
+      "correctionNumber": 3,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABCE",
+      "rawAnswerPreserved": "ABCE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q04",
+    "themeId": "sources-naturelles",
+    "reason": "Origines marines et animales, venins et applications thérapeutiques des produits naturels.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé cite Aggrastat et Integrilin pour valider la catégorie « anticoagulants ». Vérifie la classe pharmacologique précise de ces exemples dans la ronéo Sources naturelles ; la clé CE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "E regroupe cytarabine et vidarabine sous une application anticancéreuse. Vérifie séparément l’activité attribuée à chaque molécule dans la ronéo Sources naturelles ; le verdict imprimé est conservé."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "possible_error",
+        "text": "Le corrigé cite Aggrastat et Integrilin pour valider la catégorie « anticoagulants ». Vérifie la classe pharmacologique précise de ces exemples dans la ronéo Sources naturelles ; la clé CE est conservée."
+      },
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "E regroupe cytarabine et vidarabine sous une application anticancéreuse. Vérifie séparément l’activité attribuée à chaque molécule dans la ronéo Sources naturelles ; le verdict imprimé est conservé."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 876,
+      "sourceEndPage": 876,
+      "correctionPage": 886,
+      "correctionNumber": 4,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "CE",
+      "rawAnswerPreserved": "CE"
+    },
+    "visualChecks": [
+      "Corrigé p886 Q4 : exemples Aggrastat/Integrilin et verdict E VRAI confirmés."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q05",
+    "themeId": "analyse-controles",
+    "reason": "BPF, monographies, identification du naproxène, impuretés et rôle des contrôles qualitatifs.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 877,
+      "sourceEndPage": 877,
+      "correctionPage": 887,
+      "correctionNumber": 5,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q08",
+    "themeId": "conception-rationnelle",
+    "reason": "Modélisation par homologie, docking flexible, mécanique quantique et QSAR.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 877,
+      "sourceEndPage": 877,
+      "correctionPage": 888,
+      "correctionNumber": 8,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "B",
+      "rawAnswerPreserved": "B"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q09",
+    "themeId": "conception-rationnelle",
+    "reason": "Calcul d’un modèle QSAR à partir de trois descripteurs et d’activités expérimentales.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [
+      {
+        "field": "explanations.E",
+        "reason": "Le tableau et les calculs placés après les cinq verdicts concernent le QCM entier ; ils doivent être rendus en explication générale.",
+        "before": "FAUX 1eremolécule 2èmolécule 3èmolécule Nombre Cy 2 2 2 Nombre H 5 2 3 Nombre N 1 3 2 0 × 2 + 3 × 5 + 1 × 1 = 16 0 × 2 + 3 × 2 + 1 × 3 = 9 0 × 2 + 3 × 3 + 1 × 2 = 11",
+        "after": "FAUX",
+        "requireRootValidation": true,
+        "evidence": "Le corrigé p889 énumère les verdicts A–E, puis présente un tableau et trois calculs communs à la réponse B. La capture annales_ue4_2020-2021_s1_q09_explanation_p889.webp permet de vérifier la séparation.",
+        "sourcePages": [
+          889
+        ]
+      },
+      {
+        "field": "generalExplanation",
+        "reason": "Restitution fidèle du tableau et des calculs communs au QCM, auparavant concaténés à la seule explication E.",
+        "before": "",
+        "after": "Tableau du corrigé — molécules 1, 2 et 3, dans l’ordre :\nNombre Cy : 2 ; 2 ; 2\nNombre H : 5 ; 2 ; 3\nNombre N : 1 ; 3 ; 2\n\nCalculs proposés pour la réponse B :\n0 × 2 + 3 × 5 + 1 × 1 = 16\n0 × 2 + 3 × 2 + 1 × 3 = 9\n0 × 2 + 3 × 3 + 1 × 2 = 11",
+        "requireRootValidation": true,
+        "evidence": "Le corrigé p889 énumère les verdicts A–E, puis présente un tableau et trois calculs communs à la réponse B. La capture annales_ue4_2020-2021_s1_q09_explanation_p889.webp permet de vérifier la séparation.",
+        "sourcePages": [
+          889
+        ]
+      }
+    ],
+    "sourceEvidence": {
+      "subjectPage": 878,
+      "sourceEndPage": 878,
+      "correctionPage": 889,
+      "correctionNumber": 9,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "B",
+      "rawAnswerPreserved": "B"
+    },
+    "visualChecks": [
+      "Figure p878 : trois molécules, trois descripteurs et trois activités visibles sans correction.",
+      "Corrigé p889 : tableau des descripteurs et trois calculs de la réponse B lus visuellement.",
+      "Le bloc général conserve tous les nombres et opérations imprimés ; aucune clé ni proposition n’est modifiée."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q10",
+    "themeId": "identification-pa",
+    "reason": "Conception et optimisation de petites molécules bioactives, Markush et modulation structurale.",
+    "confidence": 0.86,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "L’item vise les acides 3-phénylpropioniques, alors que la justification compare aussi les 3-indolylacétiques aux 2-phénylpropioniques. Vérifie les familles réellement comparées dans la ronéo Identification PA ; la clé ADE est conservée."
+        ]
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "C"
+        ],
+        "kind": "source_uncertainty",
+        "text": "L’item vise les acides 3-phénylpropioniques, alors que la justification compare aussi les 3-indolylacétiques aux 2-phénylpropioniques. Vérifie les familles réellement comparées dans la ronéo Identification PA ; la clé ADE est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 878,
+      "sourceEndPage": 878,
+      "correctionPage": 889,
+      "correctionNumber": 10,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ADE",
+      "rawAnswerPreserved": "ADE"
+    },
+    "visualChecks": [
+      "Corrigé p889 Q10 : changement de famille chimique dans la justification C confirmé."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q11",
+    "themeId": "chimie-organique",
+    "reason": "Trois items portent sur chiralité, pouvoir rotatoire du racémique et synthèse énantiosélective ; deux portent sur la pharmacomodulation.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 878,
+      "sourceEndPage": 878,
+      "correctionPage": 890,
+      "correctionNumber": 11,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "BDE",
+      "rawAnswerPreserved": "BDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q12",
+    "themeId": "identification-pa",
+    "reason": "Me-too, nouvelles indications, criblage ciblé/haut débit et distinction avec un générique.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le corrigé impose la même indication à tout « me-too compound », sans autre précision. Vérifie la portée de cette condition dans la ronéo Identification PA ; la clé BD est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Le corrigé impose la même indication à tout « me-too compound », sans autre précision. Vérifie la portée de cette condition dans la ronéo Identification PA ; la clé BD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 879,
+      "sourceEndPage": 879,
+      "correctionPage": 890,
+      "correctionNumber": 12,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "BD",
+      "rawAnswerPreserved": "BD"
+    },
+    "visualChecks": [
+      "Corrigé p890 Q12 : obligation de même indication explicitement imprimée pour A."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q13",
+    "themeId": "galenique",
+    "reason": "Classement des formes galéniques solides avec l’exemple partagé de l’oxyde de zinc.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 879,
+      "sourceEndPage": 879,
+      "correctionPage": 890,
+      "correctionNumber": 13,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [
+      "Contexte partagé p879 identique pour Q13/Q14 : insolubilité dans l’eau et les huiles minérales conservée avant les questions."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q14",
+    "themeId": "galenique",
+    "reason": "Stérilité, tonicité et voies d’administration des préparations parentérales, avec le contexte partagé de l’oxyde de zinc.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 879,
+      "sourceEndPage": 879,
+      "correctionPage": 891,
+      "correctionNumber": 14,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ADE",
+      "rawAnswerPreserved": "ADE"
+    },
+    "visualChecks": [
+      "Contexte partagé p879 identique pour Q13/Q14 : portée et données préservées."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q15",
+    "themeId": "galenique",
+    "reason": "Site de libération des comprimés gastro-résistants.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 879,
+      "sourceEndPage": 879,
+      "correctionPage": 891,
+      "correctionNumber": 15,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "E",
+      "rawAnswerPreserved": "E"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q16",
+    "themeId": "pk-pd",
+    "reason": "Agonistes complets, partiels, inverses et conséquences quantitatives de l’antagonisme.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification associe l’antagonisme non compétitif à une hausse de CE50 et une baisse d’Emax. Vérifie le modèle de courbe et les paramètres concernés dans la ronéo PK PD ; la clé AB est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "La justification associe l’antagonisme non compétitif à une hausse de CE50 et une baisse d’Emax. Vérifie le modèle de courbe et les paramètres concernés dans la ronéo PK PD ; la clé AB est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 879,
+      "sourceEndPage": 879,
+      "correctionPage": 892,
+      "correctionNumber": 16,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "AB",
+      "rawAnswerPreserved": "AB"
+    },
+    "visualChecks": [
+      "Corrigé p892 Q16 : hausse CE50 et baisse Emax explicitement écrites dans la justification E."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q17",
+    "themeId": "iatrogenie",
+    "reason": "Interactions médicamenteuses/alimentaires et toxicité liées aux cytochromes P450, avec leur variabilité génétique.",
+    "confidence": 0.85,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 880,
+      "sourceEndPage": 880,
+      "correctionPage": 892,
+      "correctionNumber": 17,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ACDE",
+      "rawAnswerPreserved": "ACDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q18",
+    "themeId": "benefice-risque",
+    "reason": "Définition, acteurs et champ de la pharmacovigilance.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La justification décrit les déclarations des professionnels comme reposant sur le « volontariat ». Vérifie le cadre de déclaration retenu par la version de la ronéo Balance bénéfice/risque utilisée pour ce sujet ; la clé B est conservée."
+        ]
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "A"
+        ],
+        "kind": "source_uncertainty",
+        "text": "La justification décrit les déclarations des professionnels comme reposant sur le « volontariat ». Vérifie le cadre de déclaration retenu par la version de la ronéo Balance bénéfice/risque utilisée pour ce sujet ; la clé B est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 880,
+      "sourceEndPage": 880,
+      "correctionPage": 892,
+      "correctionNumber": 18,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "B",
+      "rawAnswerPreserved": "B"
+    },
+    "visualChecks": [
+      "Corrigé p892 Q18 : terme volontariat confirmé visuellement."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q19",
+    "themeId": "benefice-risque",
+    "reason": "Pharmaco-épidémiologie : observation en conditions réelles, risques et niveau de preuve.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 880,
+      "sourceEndPage": 880,
+      "correctionPage": 893,
+      "correctionNumber": 19,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q23",
+    "themeId": "iatrogenie",
+    "reason": "Déterminants, évaluation et prévisibilité des effets indésirables médicamenteux.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "Le correcteur écrit « pour moi le très rend l’item faux » : la réserve porte sur ce degré de prévisibilité. Vérifie la formulation attendue dans la ronéo Iatrogénie ; la clé BC est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "Le correcteur écrit « pour moi le très rend l’item faux » : la réserve porte sur ce degré de prévisibilité. Vérifie la formulation attendue dans la ronéo Iatrogénie ; la clé BC est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 881,
+      "sourceEndPage": 881,
+      "correctionPage": 895,
+      "correctionNumber": 23,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "BC",
+      "rawAnswerPreserved": "BC"
+    },
+    "visualChecks": [
+      "Corrigé p895 Q23 : réserve subjective « pour moi » explicitement présente en E."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q20",
+    "themeId": "droit",
+    "reason": "Champ du monopole pharmaceutique et catégories de produits concernées.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 880,
+      "sourceEndPage": 880,
+      "correctionPage": 893,
+      "correctionNumber": 20,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABCD",
+      "rawAnswerPreserved": "ABCD"
+    },
+    "visualChecks": [],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q21",
+    "themeId": "droit",
+    "reason": "Conditions démographiques d’ouverture, transfert et regroupement d’officines.",
+    "confidence": 0.98,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "B et E sont strictement identiques dans le sujet et tous deux faux dans le corrigé. Le doublon source est conservé ; vérifie la distinction transfert/regroupement dans la ronéo Le droit pharma."
+        ]
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "B et E sont strictement identiques dans le sujet et tous deux faux dans le corrigé. Le doublon source est conservé ; vérifie la distinction transfert/regroupement dans la ronéo Le droit pharma."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "B",
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "B et E sont strictement identiques dans le sujet et tous deux faux dans le corrigé. Le doublon source est conservé ; vérifie la distinction transfert/regroupement dans la ronéo Le droit pharma."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 881,
+      "sourceEndPage": 881,
+      "correctionPage": 894,
+      "correctionNumber": 21,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "A",
+      "rawAnswerPreserved": "A"
+    },
+    "visualChecks": [
+      "Sujet p881 Q21 : répétition exacte B/E confirmée visuellement ; grille p884 et corrigé p894 donnent A seul."
+    ],
+    "mixedTheme": false
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q22",
+    "themeId": "bum",
+    "reason": "Contenu d’une ordonnance et informations utiles à la prescription adaptée au patient.",
+    "confidence": 0.88,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": [
+          "La consigne demande ce qui « peut » figurer sur une ordonnance, mais la justification de E rappelle seulement la durée du traitement à spécifier. Vérifie la portée attendue de la consigne dans la ronéo BUM ; la clé ABD est conservée."
+        ]
+      }
+    },
+    "reviewNotes": [
+      {
+        "items": [
+          "E"
+        ],
+        "kind": "source_uncertainty",
+        "text": "La consigne demande ce qui « peut » figurer sur une ordonnance, mais la justification de E rappelle seulement la durée du traitement à spécifier. Vérifie la portée attendue de la consigne dans la ronéo BUM ; la clé ABD est conservée."
+      }
+    ],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 881,
+      "sourceEndPage": 881,
+      "correctionPage": 894,
+      "correctionNumber": 22,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABD",
+      "rawAnswerPreserved": "ABD"
+    },
+    "visualChecks": [
+      "Corrigé p894 Q22 : justification E centrée sur la durée du traitement confirmée."
+    ],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q24",
+    "themeId": "bum",
+    "reason": "Dossier pharmaceutique, coordination des soins et prévention des risques d’automédication.",
+    "confidence": 0.9,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 881,
+      "sourceEndPage": 881,
+      "correctionPage": 895,
+      "correctionNumber": 24,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "BCD",
+      "rawAnswerPreserved": "BCD"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  },
+  {
+    "sourceId": "ue4:2020-2021:S1:q25",
+    "themeId": "bum",
+    "reason": "Prescription individualisée, règle des 5B et information médicale, avec des déterminants PK de réponse.",
+    "confidence": 0.88,
+    "checksAtoE": {
+      "A": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "B": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "C": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "D": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      },
+      "E": {
+        "subject": "verified_against_source",
+        "correction": "key_and_explanation_matched_to_source",
+        "observation": []
+      }
+    },
+    "reviewNotes": [],
+    "patches": [],
+    "sourceEvidence": {
+      "subjectPage": 882,
+      "sourceEndPage": 882,
+      "correctionPage": 895,
+      "correctionNumber": 25,
+      "shortCorrectionPage": 884,
+      "answerPreserved": "ABCDE",
+      "rawAnswerPreserved": "ABCDE"
+    },
+    "visualChecks": [],
+    "mixedTheme": true
+  }
+]

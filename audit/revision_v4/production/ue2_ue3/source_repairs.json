@@ -1,0 +1,1164 @@
+{
+  "additions": [
+    {
+      "bank": "ue2.arn.annales",
+      "afterId": 17,
+      "question": {
+        "sourceNumber": "X",
+        "num": 0,
+        "prime": "",
+        "question": "Les ARN de transfert :",
+        "options": [
+          {
+            "id": "A",
+            "text": "Sont transférés du noyau au cytoplasme lors de la traduction."
+          },
+          {
+            "id": "B",
+            "text": "Contiennent de très nombreux ribonucléotides atypiques obtenus par modification enzymatique post-transcriptionnelle."
+          },
+          {
+            "id": "C",
+            "text": "Le ribonucléotide terminal de type cytosine fixe de façon covalente l’acide aminé spécifié par l’anti-codon."
+          },
+          {
+            "id": "D",
+            "text": "L’anticodon porté par le bras A s’associe de façon anti-parallèle et complémentaire au codon porté par l’ARNm."
+          },
+          {
+            "id": "E",
+            "text": "Un ARNt portant un anticodon donné est lié à un acide aminé spécifique."
+          }
+        ],
+        "subjectPage": 4,
+        "sourceEndPage": 4,
+        "category": "2020-2021 PACE",
+        "startY": null,
+        "startPage": 4,
+        "figureRefs": [],
+        "context": "",
+        "explanations": {
+          "A": "Faux, la traduction se fait TOUJOURS dans le cytoplasme, donc ils sont formés dans le cytoplasme",
+          "C": "Faux, c’est une adénine et non une cytosine (séquence terminale CCA 3’)"
+        },
+        "warning": "",
+        "answer": "BDE",
+        "correctionPage": 6,
+        "id": 28,
+        "sourceSubject": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "sourceCorrection": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "course": "UE2 · ARN et métabolisme",
+        "weight": 1,
+        "images": [],
+        "originalImages": []
+      },
+      "reason": "QCM intégral présent dans les PDF fournis, mais absorbé dans le dernier item de la question précédente lors du découpage. Nouvel identifiant en fin de numérotation ; aucun identifiant existant changé.",
+      "refs": [
+        {
+          "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+          "page": 4,
+          "label": "Énoncé complet du QCM récupéré"
+        },
+        {
+          "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clé et explications originales"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "afterId": 18,
+      "question": {
+        "sourceNumber": "X",
+        "num": 0,
+        "prime": "",
+        "question": "Les petits ARN non codants :",
+        "options": [
+          {
+            "id": "A",
+            "text": "Les snARN et les snoARN sont des ARN régulateurs."
+          },
+          {
+            "id": "B",
+            "text": "Les snARN représentent 10% des ARN totaux."
+          },
+          {
+            "id": "C",
+            "text": "Les snARN modifient les ribonucléotides des ARN ribosomiques en plaçant des enzymes au niveau de certaines séquences de leur ARN cible."
+          },
+          {
+            "id": "D",
+            "text": "Les snARN s’associent à des protéines spécifiques pour former des ribonucléoprotéines nucléaires."
+          },
+          {
+            "id": "E",
+            "text": "Les snoARN sont impliqués dans la modification post-transcriptionnelle d’ARN non codants."
+          }
+        ],
+        "subjectPage": 4,
+        "sourceEndPage": 4,
+        "category": "2020-2021 PASS Session 2",
+        "startY": null,
+        "startPage": 4,
+        "figureRefs": [],
+        "context": "",
+        "explanations": {
+          "A": "Vrai, ils régulent la maturation d’autres ARN",
+          "B": "Faux, tous les ARN régulateurs représentent <1% des ARN totaux",
+          "C": "Faux, ce sont les snoARN qui le font"
+        },
+        "warning": "",
+        "answer": "ADE",
+        "correctionPage": 6,
+        "id": 29,
+        "sourceSubject": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "sourceCorrection": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "course": "UE2 · ARN et métabolisme",
+        "weight": 1,
+        "images": [],
+        "originalImages": []
+      },
+      "reason": "QCM intégral présent dans les PDF fournis, mais absorbé dans le dernier item de la question précédente lors du découpage. Nouvel identifiant en fin de numérotation ; aucun identifiant existant changé.",
+      "refs": [
+        {
+          "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+          "page": 4,
+          "label": "Énoncé complet du QCM récupéré"
+        },
+        {
+          "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clé et explications originales"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.anomalies.annales",
+      "afterId": 4,
+      "question": {
+        "sourceNumber": "15’",
+        "num": 15,
+        "prime": "’",
+        "question": "Une insertion de 3 nucléotides :",
+        "options": [
+          {
+            "id": "A",
+            "text": "Induit un décalage du cadre de lecture."
+          },
+          {
+            "id": "B",
+            "text": "Peut conduire à la formation d’un codon stop."
+          },
+          {
+            "id": "C",
+            "text": "Induit une modification du site d’épissage en amont de l’exon."
+          },
+          {
+            "id": "D",
+            "text": "Est responsable de recombinaison chromosomique."
+          },
+          {
+            "id": "E",
+            "text": "Peut modifier la fonction de la protéine codée par le gène."
+          }
+        ],
+        "subjectPage": 1,
+        "sourceEndPage": 1,
+        "category": "2020-2021",
+        "startY": null,
+        "startPage": 1,
+        "figureRefs": [],
+        "context": "",
+        "explanations": {
+          "A": "Faux",
+          "B": "Vrai si les 3 nts sont un codon stop",
+          "C": "Faux pas d’action à distance",
+          "D": "Faux, aucune raison",
+          "E": "Vrai si l’AA ajouté affecte un domaine fonctionnel ou le repliement de la protéine"
+        },
+        "warning": "",
+        "answer": "BE",
+        "correctionPage": 2,
+        "id": 9,
+        "sourceSubject": "2. Annales Anomalies LS ENONCE.pdf",
+        "sourceCorrection": "2. Annales Anomalies LS CORRECTION.pdf",
+        "course": "UE2 · Anomalies du génome",
+        "weight": 1,
+        "images": [],
+        "originalImages": []
+      },
+      "reason": "QCM intégral présent dans les PDF fournis, mais absorbé dans le dernier item de la question précédente lors du découpage. Nouvel identifiant en fin de numérotation ; aucun identifiant existant changé.",
+      "refs": [
+        {
+          "file": "2. Annales Anomalies LS ENONCE.pdf",
+          "page": 1,
+          "label": "Énoncé complet du QCM récupéré"
+        },
+        {
+          "file": "2. Annales Anomalies LS CORRECTION.pdf",
+          "page": 2,
+          "label": "Clé et explications originales"
+        }
+      ]
+    }
+  ],
+  "patches": [
+    {
+      "bank": "ue2.arn.annales",
+      "id": 17,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Les miARN se fixent sur la partie 3’UTR non traduite de leurs ARNm cibles."
+          },
+          {
+            "id": "B",
+            "text": "1 seul miARN peut cibler une centaine d’ARNm différents."
+          },
+          {
+            "id": "C",
+            "text": "Les miARN peuvent être véhiculés en dehors des cellules."
+          },
+          {
+            "id": "D",
+            "text": "Les gènes codant les miARN sont souvent regroupés en clusters."
+          },
+          {
+            "id": "E",
+            "text": "Des miARN sont retrouvés dans les mitochondries (mitomiR) et peuvent activer la traduction des ARNm mitochondriaux."
+          }
+        ],
+        "sourceEndPage": 3,
+        "explanations": {
+          "C": "Vrai car on les retrouve dans le sang"
+        },
+        "warning": ""
+      },
+      "reason": "Retrait de la question X PACE absorbée dans E et restauration des explications du Q7 miARN ; clé ABCDE inchangée.",
+      "refs": [
+        {
+          "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+          "page": 3,
+          "label": "Fin réelle de Q7 miARN"
+        },
+        {
+          "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+          "page": 4,
+          "label": "Question X séparée"
+        },
+        {
+          "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Q7 ABCDE et son explication C puis X BDE"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "id": 18,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Ils sont considérés comme des ARN codants car ils participent à la synthèse des protéines."
+          },
+          {
+            "id": "B",
+            "text": "Les nombreux nucléosides atypiques présents dans leur séquence permettent la formation des boucles A, T et D."
+          },
+          {
+            "id": "C",
+            "text": "La base A de la séquence CCA située a l'extrémité 3’ de l'ARNt fixe de façon covalente l'acide amine spécifié par l'anti-codon."
+          },
+          {
+            "id": "D",
+            "text": "La troisième base de leur anti-codon est variable."
+          },
+          {
+            "id": "E",
+            "text": "Les ARNt associés au même acide aminé sont appelés ARNt iso-accepteurs."
+          }
+        ],
+        "category": "2020-2021 PASS Session 2",
+        "explanations": {
+          "A": "Faux, ARN codant = ARN qui est traduit, seuls les ARNm sont des ARN codants",
+          "D": "Faux, c’est la 1ère base de l’anticodon, qui correspond à la 3ème base du codon sur l’ARNm : Attention codon et anti-codon sont antiparallèles"
+        },
+        "warning": ""
+      },
+      "reason": "Retrait du QCM X petits ARN absorbé dans E et restauration du corrigé Q5 ARNt ; clé BCE inchangée.",
+      "refs": [
+        {
+          "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+          "page": 4,
+          "label": "Q5 puis X sont deux QCM distincts"
+        },
+        {
+          "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clés et explications de Q5 BCE et X ADE"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.anomalies.annales",
+      "id": 4,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Un variant génétique dont la fréquence dans la population générale est supérieure à 1%."
+          },
+          {
+            "id": "B",
+            "text": "Un variant génétique portant sur 1 ou 2 nucléotides."
+          },
+          {
+            "id": "C",
+            "text": "Un variant génétique induisant un décalage du cadre de lecture."
+          },
+          {
+            "id": "D",
+            "text": "Un variant génétique également appelé mutation faux-sens."
+          },
+          {
+            "id": "E",
+            "text": "Un variant génétique synonyme."
+          }
+        ],
+        "explanations": {
+          "A": "Vrai, c'est la définition du cours"
+        },
+        "warning": ""
+      },
+      "reason": "Q15’ absorbé dans E et explications de Q15 contaminées par Q15’ ; clé A inchangée.",
+      "refs": [
+        {
+          "file": "2. Annales Anomalies LS ENONCE.pdf",
+          "page": 1,
+          "label": "Q15 et Q15’ distincts"
+        },
+        {
+          "file": "2. Annales Anomalies LS CORRECTION.pdf",
+          "page": 2,
+          "label": "Q15 A puis Q15’ BE"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 29,
+      "set": {
+        "answer": "DE",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 6
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 5,
+          "label": "Wooclap 2025 Q1"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clé isolée DE"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 30,
+      "set": {
+        "answer": "AD",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 6
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 5,
+          "label": "Wooclap 2025 Q2"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clé isolée AD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 31,
+      "set": {
+        "answer": "BD",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 6
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 5,
+          "label": "Wooclap 2025 Q3"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clé isolée BD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 32,
+      "set": {
+        "answer": "CD",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 6
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 5,
+          "label": "Wooclap 2025 Q4"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Clé isolée CD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 33,
+      "set": {
+        "answer": "BD",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 7
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 6,
+          "label": "Wooclap 2025 Q5"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 7,
+          "label": "Clé isolée BD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 34,
+      "set": {
+        "answer": "ACD",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 7
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 6,
+          "label": "Wooclap 2025 Q6"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 7,
+          "label": "Clé isolée ACD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 35,
+      "set": {
+        "answer": "ADE",
+        "warning": "",
+        "category": "Wooclap 2025",
+        "correctionPage": 7
+      },
+      "reason": "Clé imprimée seule après les propositions, perdue par le parseur ; restauration littérale.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 6,
+          "label": "Wooclap 2025 Q7"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 7,
+          "label": "Clé isolée ADE"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 28,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Il est composé d’un brin sens et d’un brin matrice."
+          },
+          {
+            "id": "B",
+            "text": "Il est composé d’un brin sens et d’un brin codant."
+          },
+          {
+            "id": "C",
+            "text": "Il est composé d’un brin sens et d’un brin transcrit."
+          },
+          {
+            "id": "D",
+            "text": "Il est composé d’un brin sens et d’un brin antisens qui sont anti-parallèles."
+          },
+          {
+            "id": "E",
+            "text": "Il est composé d’un seul brin."
+          }
+        ],
+        "explanations": {
+          "A": "",
+          "B": "c’est le même brin",
+          "C": "",
+          "D": "",
+          "E": ""
+        }
+      },
+      "reason": "Retrait du titre de section Wooclap 2025 accolé à l’item E et à son explication.",
+      "refs": [
+        {
+          "file": "4. Autotests Transcription LS ENONCE.pdf",
+          "page": 5,
+          "label": "Fin de Q28 puis titre de section"
+        },
+        {
+          "file": "4. Autotests Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Item E Faux puis titre Wooclap"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 17,
+      "set": {
+        "answer": "BD",
+        "explanations": {
+          "A": "Faux. La transcription commence 25 nt après la boite TATA",
+          "B": "Vrai. Pour permettre la synthèse en 5’→3’",
+          "C": "Faux on est chez les eucaryotes donc signal de term = AATAAA (chez les procaryotes : riche en T après le palindrome imparfait)",
+          "E": "Faux. La queue polyA est non transcrite et non présente sur l’ADN"
+        },
+        "correctionPage": 6,
+        "category": "2020-2021 Session 1 et 2 PACE et PASS",
+        "warning": ""
+      },
+      "reason": "Appariement prouvé par les cinq propositions identiques : numéros 1’/2’/3’ dans le sujet, 10/11/12 dans le corrigé.",
+      "refs": [
+        {
+          "file": "2. Annales Transcription LS ENONCE.pdf",
+          "page": 4,
+          "label": "Question 1’"
+        },
+        {
+          "file": "2. Annales Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Question 10 : BD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 18,
+      "set": {
+        "answer": "B",
+        "explanations": {
+          "A": "Faux. Dans le noyau",
+          "C": "Faux. Le site accepteur d’épissage est en 3’ des introns",
+          "D": "Faux. C’est une 7-méthyl guanosine",
+          "E": "Faux du brin anti sens"
+        },
+        "correctionPage": 6,
+        "category": "2020-2021 Session 1 et 2 PACE et PASS",
+        "warning": ""
+      },
+      "reason": "Appariement prouvé par les cinq propositions identiques : numéros 1’/2’/3’ dans le sujet, 10/11/12 dans le corrigé.",
+      "refs": [
+        {
+          "file": "2. Annales Transcription LS ENONCE.pdf",
+          "page": 4,
+          "label": "Question 2’"
+        },
+        {
+          "file": "2. Annales Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Question 11 : B"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 19,
+      "set": {
+        "answer": "BCE",
+        "explanations": {
+          "A": "Faux. Epissage uniquement dans le noyau",
+          "D": "Faux. Constitués de snARN (attention à ne pas confondre les snARN et les snoARN !!)"
+        },
+        "correctionPage": 6,
+        "category": "2020-2021 Session 1 et 2 PACE et PASS",
+        "warning": ""
+      },
+      "reason": "Appariement prouvé par les cinq propositions identiques : numéros 1’/2’/3’ dans le sujet, 10/11/12 dans le corrigé.",
+      "refs": [
+        {
+          "file": "2. Annales Transcription LS ENONCE.pdf",
+          "page": 4,
+          "label": "Question 3’"
+        },
+        {
+          "file": "2. Annales Transcription LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Question 12 : BCE"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.replication.annales",
+      "id": 18,
+      "set": {
+        "answer": "ACD",
+        "correctionPage": 6,
+        "category": "2022-2023 sessions 1 et 2",
+        "explanations": {
+          "B": "Faux, l’amorce fait 4 à 12 nts",
+          "E": "Faux, une seule séquence sur le brin avancé, la ligase est nécessaire sur le brin retardé"
+        },
+        "warning": ""
+      },
+      "reason": "Même QCM : numéro 39’ dans le sujet, 39 dans l’énoncé du corrigé mais 39’ devant la clé ACD. Appariement par les cinq items.",
+      "refs": [
+        {
+          "file": "2. Annales Réplication LS ENONCE.pdf",
+          "page": 4,
+          "label": "Q39’"
+        },
+        {
+          "file": "2. Annales Réplication LS CORRECTION.pdf",
+          "page": 6,
+          "label": "Q39 et clé 39’ ACD"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 11,
+      "set": {
+        "answer": "BDE",
+        "correctionPage": 4,
+        "explanations": {
+          "A": "Faux, altération du système MMR",
+          "C": "Faux, des substitutions"
+        },
+        "warning": ""
+      },
+      "reason": "Clé BDE isolée en tête de la page suivante, immédiatement après le Q9 de la page précédente.",
+      "refs": [
+        {
+          "file": "2. Annales Réparation LS ENONCE.pdf",
+          "page": 3,
+          "label": "Q9 La réparation de l’ADN"
+        },
+        {
+          "file": "2. Annales Réparation LS CORRECTION.pdf",
+          "page": 3,
+          "label": "Q9 en fin de page"
+        },
+        {
+          "file": "2. Annales Réparation LS CORRECTION.pdf",
+          "page": 4,
+          "label": "BDE et explications A/C en haut de page"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.anomalies.autotest",
+      "id": 1,
+      "set": {
+        "answer": "",
+        "answerIsEmpty": true,
+        "warning": ""
+      },
+      "reason": "Les cinq items A à E portent explicitement Faux dans la correction. La clé vide est donc une réponse tout faux, et non une absence de corrigé.",
+      "refs": [
+        {
+          "file": "4. Autotests Anomalies du génome ENONCE.pdf",
+          "page": 1,
+          "label": "Autotest 1 Les SNV"
+        },
+        {
+          "file": "4. Autotests Anomalies du génome CORRECTION-1.pdf",
+          "page": 1,
+          "label": "Cinq verdicts Faux explicitement imprimés"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "id": 15,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "L'hétérochromatine correspond à des zones chromosomiques peu condensées, essentiellement sous forme de fibres chromatiniennes de 10nm."
+          },
+          {
+            "id": "B",
+            "text": "L'acétylation des histones contribue à l’état de condensation de l’ADN."
+          },
+          {
+            "id": "C",
+            "text": "La structure double brin de l’ADN est stabilisée par la formation de deux liaisons hydrogène entre deux bases puriques et trois liaisons hydrogène entre deux bases pyrimidiques."
+          },
+          {
+            "id": "D",
+            "text": "Les surenroulements négatifs rendent l’ADN moins accessible aux enzymes et aux protéines et bloquent ainsi la transcription."
+          },
+          {
+            "id": "E",
+            "text": "Le grand sillon de l’ADN sous forme B permet la fixation de protéines et d’ARN régulateurs."
+          }
+        ],
+        "explanations": {
+          "A": "Faux, très condensée A. Faux, très condensée",
+          "B": "Faux acétylation = décondensation B. Faux acétylation = décondensation",
+          "C": "Faux on a toujours Pur/Pyr C. Faux on a toujours Pur/Pyr",
+          "D": "Faux c’est l’inverse D. Faux c’est l’inverse"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales ADN LS ENONCE.pdf",
+          "page": 4,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "id": 17,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Sa séquence est AGTC."
+          },
+          {
+            "id": "B",
+            "text": "Les quatre bases sont en conformation syn."
+          },
+          {
+            "id": "C",
+            "text": "La séquence de son brin complémentaire est CAGT."
+          },
+          {
+            "id": "D",
+            "text": "Les quatre bases seront unies aux quatre bases complémentaires par un total de dix liaisons hydrogène."
+          },
+          {
+            "id": "E",
+            "text": "La liaison entre les différents"
+          }
+        ],
+        "explanations": {
+          "A": "Faux, ACTG A. Faux, ACTG",
+          "B": "Faux anti B. Faux anti",
+          "C": "Vrai, il faut prendre le complémentaire et C. Vrai, il faut prendre le complémentaire et en sens opposé donc G>C, T>A, C>G, A>T.",
+          "D": "Vrai 2 paires CG et 2 paires AT D. Vrai 2 paires CG et 2 paires AT",
+          "E": "Vrai E. Vrai"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales ADN LS ENONCE.pdf",
+          "page": 5,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.organisation.annales",
+      "id": 7,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "L’ADN répétitif dérivé d’éléments transposables représente environ 45% du génome."
+          },
+          {
+            "id": "B",
+            "text": "Les pseudogènes sont des copies généralement fonctionnelles d’un gène."
+          },
+          {
+            "id": "C",
+            "text": "Les gènes des ARN non codants sont la plupart du temps uniques."
+          },
+          {
+            "id": "D",
+            "text": "Les microsatellites sont des séquences non-codantes, répétées en tandem, et dispersées dans tout le génome."
+          },
+          {
+            "id": "E",
+            "text": "Les séquences LTR sont retrouvées dans le génome humain."
+          }
+        ],
+        "explanations": {
+          "B": "Faux, non fonctionnelles B. Faux, non fonctionnelles",
+          "C": "Faux au contraire, ils sont souvent répétés C. Faux au contraire, ils sont souvent répétés"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Organisation du genome LS ENONCE.pdf",
+          "page": 2,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.replication.annales",
+      "id": 11,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Un polysome permet la synthèse par polymérisation de l’ADN"
+          },
+          {
+            "id": "B",
+            "text": "La fidélité de l’ADN polymérase permet un taux d’erreur d’environ une erreur toutes les 107 paires de bases."
+          },
+          {
+            "id": "C",
+            "text": "La primase synthétise les amorces d’ADN nécessaires a l’initiation de la réplication"
+          },
+          {
+            "id": "D",
+            "text": "L’ADN polymérase α initie la réplication sur le brin tardif chez les Eucaryotes"
+          },
+          {
+            "id": "E",
+            "text": "Chez les Eucaryotes, tous les nucléosomes présents sur les deux génomes fils sont des nucléosomes parentaux."
+          }
+        ],
+        "explanations": {
+          "A": "Faux. Un polysome ou polyribosome correspond à l’association entre un ARNm et plusieurs ribosomes qui A. Faux. Un polysome ou polyribosome correspond à l’association entre un ARNm et plusieurs ribosomes qui traduisent simultanément la même protéine. (Ne pas confondre polysome et polymérase)",
+          "B": "Vrai. L’ADN polymérase seule permet un taux d’erreur d’environ une erreur toutes les 107 paires de bases. B. Vrai. L’ADN polymérase seule permet un taux d’erreur d’environ une erreur toutes les 107 paires de bases. Cependant, grâce a des mécanismes de réparation, on aboutit à un taux d’erreur d’une erreur toutes les 109 paires de bases",
+          "C": "Faux. La primase synthétise les amorces d’ARN nécessaires à l’initiation de la réplication. (Attention à bien lire car C. Faux. La primase synthétise les amorces d’ARN nécessaires à l’initiation de la réplication. (Attention à bien lire car ce genre de piège est très fréquent)",
+          "D": "Vrai. L’ADN polymérase α initie la réplication du brin tardif chez les Eucaryotes en synthétisant les 1ers nucléotides D. Vrai. L’ADN polymérase α initie la réplication du brin tardif chez les Eucaryotes en synthétisant les 1ers nucléotides des fragments d’Okazaki. Ensuite c’est l’ADN polymérase δ qui prend le relai",
+          "E": "Faux. Lors de la réplication, 50% des nucléosomes des génomes fils sont d’origine parentale tandis que les 50 autres E. Faux. Lors de la réplication, 50% des nucléosomes des génomes fils sont d’origine parentale tandis que les 50 autres % sont neo-synthetises"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Réplication LS ENONCE.pdf",
+          "page": 3,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.replication.annales",
+      "id": 13,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "La réplication est semi-conservative et discontinue sur un des deux brins d’ADN"
+          },
+          {
+            "id": "B",
+            "text": "Le taux de mutation des génomes est d’environ 1 seul nucléotide modifié pour 109 nucléotides à chaque cycle de réplication"
+          },
+          {
+            "id": "C",
+            "text": "La mise en place d’une amorce d’ADN nécessaire à la réplication est assurée par une primase"
+          },
+          {
+            "id": "D",
+            "text": "Avant addition non covalente d’un nucléotide sur le brin d’ADN fils en cours de synthèse, l’ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de base qui va être créée"
+          },
+          {
+            "id": "E",
+            "text": "L’ADN polymérase δ possède une fonction d’édition, qui est une fonction exonucléasique 3’→ 5’"
+          }
+        ],
+        "explanations": {
+          "B": "Vrai. On parle du cycle de réplication donc c’est bien 109 B. Vrai. On parle du cycle de réplication donc c’est bien 109",
+          "C": "Faux. Amorce d’ARN C. Faux. Amorce d’ARN",
+          "D": "Faux. On parle d’addition covalente D. Faux. On parle d’addition covalente"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Réplication LS ENONCE.pdf",
+          "page": 3,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.replication.annales",
+      "id": 15,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "L’allongement des télomères induit la senescence réplicative"
+          },
+          {
+            "id": "B",
+            "text": "Si l’activité cellulaire de la primase est faible ou nulle, un raccourcissement des chromosomes est observé après chaque division cellulaire de la taille des amorces d’ARN."
+          },
+          {
+            "id": "C",
+            "text": "Les séquences répétées présentes au niveau des télomères sont des séquences répétées en file indienne."
+          },
+          {
+            "id": "D",
+            "text": "La réplication des chromosomes s’initie et s’effectue par petites portions et de manière synchrone"
+          },
+          {
+            "id": "E",
+            "text": "Les séquences répétées présentes au niveau des télomères résultent de l’activité d’une ribonucleoproteine possédant une activité reverse transcriptase."
+          }
+        ],
+        "explanations": {
+          "A": "Faux : c’est le raccourcissement des télomères qui induit la sénescence réplicative A. Faux : c’est le raccourcissement des télomères qui induit la sénescence réplicative",
+          "B": "Faux : sans primase, pas de réplication B. Faux : sans primase, pas de réplication",
+          "C": "Vrai, elles sont répétées en file indienne = en tandem C. Vrai, elles sont répétées en file indienne = en tandem",
+          "D": "Faux : elle se fait de manière asynchrone chez l’Homme D. Faux : elle se fait de manière asynchrone chez l’Homme",
+          "E": "Vrai la télomérase : Elle synthétise de l’ADN à partir de sa séquence d’ARN afin de rallonger le brin parental. E. Vrai la télomérase : Elle synthétise de l’ADN à partir de sa séquence d’ARN afin de rallonger le brin parental."
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Réplication LS ENONCE.pdf",
+          "page": 3,
+          "label": "Fin de la question et titre de la série suivante"
+        },
+        {
+          "file": "2. Annales Réplication LS ENONCE.pdf",
+          "page": 4,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 16,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Le branchement du cap en 5’ sur les pre-ARNm eucaryotes fait intervenir l’action d’une phosphatase, d’une guanyltransférase, et d’une méthyltransférase"
+          },
+          {
+            "id": "B",
+            "text": "La séquence polyA présente sur les ARN messagers eucaryotes est codée par la séquence du signal de terminaison de la transcription présente sur l’ADN génomique"
+          },
+          {
+            "id": "C",
+            "text": "La maturation des ARN ribosomique fait intervenir le mécanisme d’épissage"
+          },
+          {
+            "id": "D",
+            "text": "Les snoRNP interviennent dans la maturation des ARN ribosomique"
+          },
+          {
+            "id": "E",
+            "text": "Le mécanisme d’épissage est très consommateur d’ATP et fait intervenir deux réactions de transestérification"
+          }
+        ],
+        "explanations": {
+          "A": "Vrai. La phosphatase a pour rôle éliminer le phosphate en 5’ sur le pré-ARNm, la guanyltransférase ajoute la A. Vrai. La phosphatase a pour rôle éliminer le phosphate en 5’ sur le pré-ARNm, la guanyltransférase ajoute la guanosine du cap 5’ et la méthylase méthyle cette même guanosine ainsi que les 2 nucléotides suivant",
+          "B": "Faux. La queue polyA n’est jamais codée par le génome, elle est ajoutée lors du mécanisme de maturation par une B. Faux. La queue polyA n’est jamais codée par le génome, elle est ajoutée lors du mécanisme de maturation par une enzyme : la polyadenilate polymérase. On dit que la queue polyA est post transcriptionnelle",
+          "C": "Faux. Le mécanisme de maturation des ARNr ne fait pas intervenir l’épissage (concerne les introns notamment) mais C. Faux. Le mécanisme de maturation des ARNr ne fait pas intervenir l’épissage (concerne les introns notamment) mais un clivage (clivage des espaces inter géniques) ainsi qu’une modification chimique des bases",
+          "D": "Vrai. Les snoRNP (a ne pas confondre avec les snRNP qui ont un rôle dans l’épissage) sont des ribonucléoprotéides D. Vrai. Les snoRNP (a ne pas confondre avec les snRNP qui ont un rôle dans l’épissage) sont des ribonucléoprotéides composées de snoRNA qui guident les modifications de bases des ARNr (méthylation, isomérisation, ...)",
+          "E": "Vrai. L’élimination d’un intron est réalisée après 2 réactions de transestérification et fait intervenir le spliceosome qui E. Vrai. L’élimination d’un intron est réalisée après 2 réactions de transestérification et fait intervenir le spliceosome qui consomme 1 molécule d’ATP à chaque étape de l’épissage"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Transcription LS ENONCE.pdf",
+          "page": 4,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 27,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "L’ajout de la queue polyA en 3’ des ARN messagers est codée par une séquence polyT située sur le brin matrice de l’ADN génomique."
+          },
+          {
+            "id": "B",
+            "text": "L’ajout d’une coiffe en 5’ de l’ARN est nécessaire à l’export de l’ARN messager hors du noyau."
+          },
+          {
+            "id": "C",
+            "text": "L’utilisation d’ARN messagers polycistroniques permet de coordonner la synthèse des protéines impliquées dans un même métabolisme."
+          },
+          {
+            "id": "D",
+            "text": "L’épissage fait intervenir des petits ARN appelés microARN."
+          },
+          {
+            "id": "E",
+            "text": "Le brin dit « anti-sens » d’un gène donné possède une séquence complémentaire et antiparallèle à celle du transcrit obtenu."
+          }
+        ],
+        "explanations": {
+          "A": "Faux, la polyA n’est pas codée mais ajoutée A. Faux, la polyA n’est pas codée mais ajoutée",
+          "C": "Faux, pas d’ARN polycistronique chez les eucaryotes C. Faux, pas d’ARN polycistronique chez les eucaryotes",
+          "D": "Faux, snARN D. Faux, snARN"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Transcription LS ENONCE.pdf",
+          "page": 5,
+          "label": "Fin de la question et titre de la série suivante"
+        },
+        {
+          "file": "2. Annales Transcription LS ENONCE.pdf",
+          "page": 6,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 16,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "La réparation par l’exonucléase ABC fait intervenir une activité exonucléasique. HP"
+          },
+          {
+            "id": "B",
+            "text": "La photolyase répare les dimères de thymine chez l’Homme"
+          },
+          {
+            "id": "C",
+            "text": "Le système MMR humain détecte les mésappariements a réparer sur le brin fils et le statut de méthylation d’une séquence GATC"
+          },
+          {
+            "id": "D",
+            "text": "La création de sites AP peut résulter de phénomènes spontanés ou de phénomènes induits par des radiations ionisantes"
+          },
+          {
+            "id": "E",
+            "text": "La réparation de lésions d’ADN induites par désamination spontanée (par exemple désamination d’une C en U) fait d’abord intervenir une ADN glycosylase spécifique qui va cliver la liaison N-glycosidique de la base a réparer"
+          }
+        ],
+        "explanations": {
+          "A": "Faux, une activite endonucleasique A. Faux, une activite endonucleasique",
+          "B": "Faux. La photolyase n’existe pas chez l’humain ! (cependant chez les procaryotes elle répare bien les dimères de B. Faux. La photolyase n’existe pas chez l’humain ! (cependant chez les procaryotes elle répare bien les dimères de thymine)",
+          "C": "Faux. Le systeme MMR humain détecte les mésappariements à réparer sur le brin fils et le statut de méthylation d’un C. Faux. Le systeme MMR humain détecte les mésappariements à réparer sur le brin fils et le statut de méthylation d’un ilot CpG. (CpG  eucaryotes/ GATC procaryotes)",
+          "D": "Vrai. Un site AP est un site abasique avec rupture de la liaison entre la base et l’ose. Un site AP peut survenir de façon D. Vrai. Un site AP est un site abasique avec rupture de la liaison entre la base et l’ose. Un site AP peut survenir de façon spontanée ou par agent mutagène comme les radiations ionisantes"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Réparation LS ENONCE.pdf",
+          "page": 3,
+          "label": "Fin de la question et titre de la série suivante"
+        },
+        {
+          "file": "2. Annales Réparation LS ENONCE.pdf",
+          "page": 4,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 21,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Le système MMR (DNA MisMatch Repair) permet la correction d’erreurs post-réplicatives."
+          },
+          {
+            "id": "B",
+            "text": "L’inactivation du système MMR est associée au syndrome de Lynch."
+          },
+          {
+            "id": "C",
+            "text": "La photolyase permet la réparation des dimères de thymine chez l’Homme."
+          },
+          {
+            "id": "D",
+            "text": "Le mécanisme de réparation BER (Excision Réparation de Bases) aboutit à la création d’un site abasique qui sera ensuite réparé."
+          },
+          {
+            "id": "E",
+            "text": "La réparation des cassures double brin de l’ADN fait le plus souvent intervenir un mécanisme de réparation très fidèle."
+          }
+        ],
+        "explanations": {
+          "A": "Faux durant la réplication A. Faux durant la réplication",
+          "C": "Faux pas chez l’Homme C. Faux pas chez l’Homme",
+          "E": "Faux, non fidèle (NHEJ dans 70% des cas) E. Faux, non fidèle (NHEJ dans 70% des cas)"
+        }
+      },
+      "reason": "Retrait du seul titre de la série suivante accolé à la fin de l’item E. Les mots précédant ce titre sont présents tels quels dans le PDF. Aucune fin inventée pour ADN17E, qui reste tronqué dans la source.",
+      "refs": [
+        {
+          "file": "2. Annales Réparation LS ENONCE.pdf",
+          "page": 4,
+          "label": "Fin de la question et titre de la série suivante"
+        },
+        {
+          "file": "2. Annales Réparation LS ENONCE.pdf",
+          "page": 5,
+          "label": "Fin de la question et titre de la série suivante"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2570 @@
+{
+  "banks": {
+    "histo.tc1": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le tissu conjonctif :",
+          "options": [
+            {
+              "id": "A",
+              "text": "est un tissu de remplissage"
+            },
+            {
+              "id": "B",
+              "text": "quand on parle de tissu conjonctif fibreux c’est que la matrice extracellulaire présente des protéines fibreuses comme le collagène"
+            },
+            {
+              "id": "C",
+              "text": "on le classe selon la qualité de la MEC et des cellules résidentes"
+            },
+            {
+              "id": "D",
+              "text": "il est richement vascularisé, il alimente notamment les tissus épithéliaux en nutriments et gaz respiratoires"
+            },
+            {
+              "id": "E",
+              "text": "les cellules du TC ont pour origine les cellules mésenchymateuses"
+            }
+          ],
+          "answer": "ABCDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Vrai. car ces derniers sont non vascularisés",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 1,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 2,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les fibroblastes et fibrocytes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "le fibroblaste présente une chromatine fine et de nombreux organites"
+            },
+            {
+              "id": "B",
+              "text": "le fibrocyte a un rôle de macrophage"
+            },
+            {
+              "id": "C",
+              "text": "le fibroblaste est une cellule migrante"
+            },
+            {
+              "id": "D",
+              "text": "les deux proviennent de cellules mésenchymateuses"
+            },
+            {
+              "id": "E",
+              "text": "elles présentent une membrane basale"
+            }
+          ],
+          "answer": "ACD",
+          "explanations": {
+            "A": "Vrai. cellule avec un rôle de synthèse",
+            "B": "Faux. c’est une cellule au repos",
+            "C": "Vrai. mais résidente, mobilité faible",
+            "D": "Vrai. mais ne proviennent pas du sang",
+            "E": "Faux. ni l’une ni l’autre car ce ne sont pas des cellules (myo)épithéliales"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 2,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 3,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Caractéristiques du TC",
+          "options": [
+            {
+              "id": "A",
+              "text": "les cellules du TC ne présentent aucun système d’adhérence"
+            },
+            {
+              "id": "B",
+              "text": "les cellules peu nombreuses baignent dans un gel matriciel extracellulaire"
+            },
+            {
+              "id": "C",
+              "text": "c’est un tissu peu vascularisé"
+            },
+            {
+              "id": "D",
+              "text": "ce tissu conjonctif peut être squelettique"
+            },
+            {
+              "id": "E",
+              "text": "il présente seulement des cellules mobiles"
+            }
+          ],
+          "answer": "BD",
+          "explanations": {
+            "A": "Faux. contacts focaux pour leur adhérence à la MEC notamment via des intégrines",
+            "B": "Vrai.",
+            "C": "Faux. il est au contraire bien vascularisé",
+            "D": "Vrai. → os et cartilage",
+            "E": "Faux. aussi des cellules résidentes fibroblastes, fibrocytes et adipocytes et myofibroblastes"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 3,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 4,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Rôles du TC",
+          "options": [
+            {
+              "id": "A",
+              "text": "il a un rôle nutritif pour les organes"
+            },
+            {
+              "id": "B",
+              "text": "il participe aux réactions inflammatoires"
+            },
+            {
+              "id": "C",
+              "text": "il participe aux processus de cicatrisation"
+            },
+            {
+              "id": "D",
+              "text": "c’est le plus abondant de l’organisme"
+            },
+            {
+              "id": "E",
+              "text": "toutes les réponses sont vraies"
+            }
+          ],
+          "answer": "ABCDE",
+          "explanations": {
+            "A": "Vrai. voie de cheminement des vx sanguins et lymphatiques → apport des nutriments pour les c épithéliales : rôle nutritif",
+            "B": "Vrai. Siège des cellules libres du système immunitaire",
+            "C": "Vrai. avec les myofibroblastes",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 4,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 5,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les rôles du fibroblaste :",
+          "options": [
+            {
+              "id": "A",
+              "text": "il présente une forte activité de synthèse : il fabrique tous les éléments de la MEC"
+            },
+            {
+              "id": "B",
+              "text": "il peut phagocyter des fibres de la MEC"
+            },
+            {
+              "id": "C",
+              "text": "il est riche en desmine et synthétise de la fibronectine et de la laminine"
+            },
+            {
+              "id": "D",
+              "text": "il présente des récepteurs aux cytokines"
+            },
+            {
+              "id": "E",
+              "text": "toutes les réponses sont exactes"
+            }
+          ],
+          "answer": "ABD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. c’est la fibroclasie, il les détruit grâce aux metalloprotéases",
+            "C": "Faux. pas desmine mais vimentine",
+            "D": "Vrai. il fabrique aussi des cytokines",
+            "E": "Faux."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 5,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 6,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le myofibroblaste :",
+          "options": [
+            {
+              "id": "A",
+              "text": "On peut le différencier du fibroblaste en MO"
+            },
+            {
+              "id": "B",
+              "text": "comme le fibroblaste il présente une MB"
+            },
+            {
+              "id": "C",
+              "text": "il présente dans son cytoplasme de la myosine et de l’actine"
+            },
+            {
+              "id": "D",
+              "text": "cette cellule peut être à l’origine de fibrose après le processus de cicatrisation"
+            },
+            {
+              "id": "E",
+              "text": "il accumule des triglycérides"
+            }
+          ],
+          "answer": "CD",
+          "explanations": {
+            "A": "Faux. en ME",
+            "B": "Faux. pas de MB",
+            "C": "Vrai. cellule contractile",
+            "D": "Vrai.",
+            "E": "Faux. ce sont seulement les adipocytes qui ont cette fonction"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 6,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 7,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos des mastocytes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "ce sont des cellules qui ont des précurseurs sanguins"
+            },
+            {
+              "id": "B",
+              "text": "ils présentent une coloration métachromatique au PAS"
+            },
+            {
+              "id": "C",
+              "text": "sont des cellules rondes entre 15 et 20 microns et présentent des granulations responsables des réactions allergiques"
+            },
+            {
+              "id": "D",
+              "text": "produisent des prostaglandines et l’histamine (vasodilatateur)"
+            },
+            {
+              "id": "E",
+              "text": "ils sont plus fréquents que les macrophages"
+            }
+          ],
+          "answer": "ACD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. ils sont PAS + mais c’est le bleu de toluidine → différentes couleurs selon affinité tinctoriales→ colorations rouges des granulations métachromatiques",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. moins"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 7,
+          "subjectEndPage": 1,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 8,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le tissu conjonctif :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La matrice extracellulaire du TC est séparée du TE par une membrane basale"
+            },
+            {
+              "id": "B",
+              "text": "La matrice extracellulaire n’est formée que de la substance fondamentale"
+            },
+            {
+              "id": "C",
+              "text": "La SF est un gel hydraté amorphe non colorable"
+            },
+            {
+              "id": "D",
+              "text": "La SF est formé de collagène et de GAGs"
+            },
+            {
+              "id": "E",
+              "text": "Les protéoglycanes proviennent du plasma sanguin"
+            }
+          ],
+          "answer": "A",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. + fibres insolubles + autres protéines comme fibronectines et laminines + GAGs",
+            "C": "Faux. on peut le coloré au bleu alcian",
+            "D": "Faux. pas le collagène, eau+GAGs",
+            "E": "Faux. ils sont synthétisés par les fibroblastes"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 8,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 9,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos des GAGs :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ce sont des polysaccharides non linéaires"
+            },
+            {
+              "id": "B",
+              "text": "L’acide hyaluronique est un GAG non sulfaté"
+            },
+            {
+              "id": "C",
+              "text": "Les GAGs sont une répétition d’un sucre aminé et d’un sucre uronique"
+            },
+            {
+              "id": "D",
+              "text": "L’acide hyaluronique est dégradé par les collagénases"
+            },
+            {
+              "id": "E",
+              "text": "Ils peuvent être liés à une protéine axiale par une liaison de covalence pour former des protéoglycanes comme la chondroitine sulfate"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. linéaires",
+            "B": "Vrai.",
+            "C": "Faux. acide uronique",
+            "D": "Faux. hyaluronidase",
+            "E": "Faux. cette molécule est un GAG et non un PG"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 9,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 10,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos des protéoglycanes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le dermatane sufate se situe dans la membrane basale"
+            },
+            {
+              "id": "B",
+              "text": "Le perlecan se situe dans la MEC du cartilage"
+            },
+            {
+              "id": "C",
+              "text": "Le versican se situe dans la MEC du derme"
+            },
+            {
+              "id": "D",
+              "text": "L’aggrecan est ubiquitaire"
+            },
+            {
+              "id": "E",
+              "text": "Le keratane sulfate est le constituant principal de la MEC des tendons"
+            }
+          ],
+          "answer": "C",
+          "explanations": {
+            "A": "Faux. c’est un GAG",
+            "B": "Faux. il est dans la MB",
+            "C": "Vrai.",
+            "D": "Faux. dans la MEC du cartilage et tendon",
+            "E": "Faux. c’est un GAG"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 10,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 11,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "La synthèse du collagène 1 :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les chaines α sont assemblées par trois au niveau du REG"
+            },
+            {
+              "id": "B",
+              "text": "Les chaines α présentent deux propeptides dans le fibroblaste"
+            },
+            {
+              "id": "C",
+              "text": "Le clivage des propeptides est réalisé dans le cytosol des fibroblastes"
+            },
+            {
+              "id": "D",
+              "text": "Avec la coupure des propeptides on passe du procollagène au tropocollagène"
+            },
+            {
+              "id": "E",
+              "text": "Le collagène 1 présente une striation de 67nM"
+            }
+          ],
+          "answer": "ABDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. ces propeptids sont les extrémités qui seront clivés dans les vésicules d’excrétion",
+            "C": "Faux. au moment de l’exocytose",
+            "D": "Vrai.",
+            "E": "Vrai. Le corrigé précise que la striation est visible en MET."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 11,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc1",
+              "id": 11,
+              "items": [
+                "E"
+              ],
+              "kind": "source_conflict",
+              "text": "Le sujet écrit « 67nM » et le corrigé « 67Nm ». La ronéo TC1 indique une périodicité de 67 nm : l’unité attendue est le nanomètre (nm). La réponse Vrai du corrigé est conservée ; vérifiez cette unité dans la ronéo en cas de doute.",
+              "refs": [
+                {
+                  "file": "Autotest TC1 nonCO(1).docx",
+                  "page": 2,
+                  "label": "Question 11 E : unité du sujet original"
+                },
+                {
+                  "file": "correction autotest TC1(1).docx",
+                  "page": 2,
+                  "label": "Question 11 E : unité du corrigé original"
+                },
+                {
+                  "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+                  "page": 13,
+                  "label": "Périodicité de 67 nm des fibrilles de collagène",
+                  "href": "sources/revision_v4/TC1_2026_CG_non_corrigees_ACTUALISE_4b0f419e52.pdf#page=13"
+                }
+              ],
+              "sourceVerdict": "Item E : Vrai selon le corrigé original",
+              "reviewedItemText": {
+                "E": "Le collagène 1 présente une striation de 67nM"
+              },
+              "reviewedExplanation": {
+                "E": "Vrai. Le corrigé précise que la striation est visible en MET."
+              },
+              "noteId": "histo-v5-tc1-q11"
+            }
+          ],
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 12,
+          "category": "Autotest TC1",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos des fibres élastiques :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La synthèse de l’élastine est régulière et constante tout au long de la vie, par les fibroblastes du TC"
+            },
+            {
+              "id": "B",
+              "text": "L’élastine est une protéine synthétisée sous forme de précurseur la proélastine"
+            },
+            {
+              "id": "C",
+              "text": "La protéine élastine s’assemble avec des microfibrillines"
+            },
+            {
+              "id": "D",
+              "text": "Les pontages de tropoélastine sont réalisés par une enzyme la lysyl-oxydase qui est sensible aux UV et au tabac"
+            },
+            {
+              "id": "E",
+              "text": "Elles sont nombreuses dans la paroi des grosses artères type aorte"
+            }
+          ],
+          "answer": "CDE",
+          "explanations": {
+            "A": "Faux. cette synthèse diminue à l’âge adulte",
+            "B": "Faux. la tropo-élastine",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "Autotest TC1 nonCO(1).docx",
+          "sourceCorrection": "correction autotest TC1(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 13,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        }
+      ]
+    },
+    "histo.tc2": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le tissu adipeux brun est caractérisé par :",
+          "options": [
+            {
+              "id": "A",
+              "text": "un noyau central"
+            },
+            {
+              "id": "B",
+              "text": "un cytoplasme riche en glycogène"
+            },
+            {
+              "id": "C",
+              "text": "la présence de gouttelettes d’acides gras"
+            },
+            {
+              "id": "D",
+              "text": "très peu de mitochondries"
+            },
+            {
+              "id": "E",
+              "text": "une couleur sombre due au gouttelettes de gras qui remplissent le cytoplasme"
+            }
+          ],
+          "answer": "AC",
+          "explanations": {
+            "A": "Vrai. et rond",
+            "B": "Faux.",
+            "C": "Vrai.",
+            "D": "Faux. bcp pr production de chaleur",
+            "E": "Faux. mito avec pigments bruns"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 1,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 2,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du tissu adipeux",
+          "options": [
+            {
+              "id": "A",
+              "text": "les cellules adipeuses sont entourées d’une membrane basale"
+            },
+            {
+              "id": "B",
+              "text": "l’adipocyte brun est cubique"
+            },
+            {
+              "id": "C",
+              "text": "la membrane basale des adipocytes blancs est riche en réticuline"
+            },
+            {
+              "id": "D",
+              "text": "le noyau des adipocytes blancs est central"
+            },
+            {
+              "id": "E",
+              "text": "on retrouve UCP1 dans les adipocytes blancs"
+            }
+          ],
+          "answer": "AC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. polygonal",
+            "C": "Vrai. Coll III non fibreux",
+            "D": "Faux. periph",
+            "E": "Faux. brun"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc2",
+              "id": 2,
+              "items": [
+                "C"
+              ],
+              "kind": "roneo_conflict",
+              "text": "L’item C et la description d’une enveloppe riche en réticuline autour de l’adipocyte sont repris dans la ronéo TC2. En revanche, l’explication restaurée « Coll III non fibreux » est erronée : TC1 classe le collagène III, ou réticuline, parmi les collagènes fibrillaires. Le collagène IV du réseau de la lame basale appartient à la catégorie non fibrillaire ; ces deux collagènes ne doivent pas être confondus. La clé source AC reste conservée.",
+              "refs": [
+                {
+                  "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+                  "page": 11,
+                  "label": "Collagène III : réticuline, collagène fibrillaire",
+                  "href": "sources/revision_v4/TC1_2026_CG_non_corrigees_ACTUALISE_4b0f419e52.pdf#page=11"
+                },
+                {
+                  "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+                  "page": 12,
+                  "label": "Collagène IV : réseau non fibrillaire",
+                  "href": "sources/revision_v4/TC1_2026_CG_non_corrigees_ACTUALISE_4b0f419e52.pdf#page=12"
+                },
+                {
+                  "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+                  "page": 10,
+                  "label": "Enveloppe des adipocytes blancs, p. imprimée 23",
+                  "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=10"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : AC",
+              "reviewedItemText": {
+                "C": "la membrane basale des adipocytes blancs est riche en réticuline"
+              },
+              "reviewedExplanation": {
+                "C": "Vrai. Coll III non fibreux"
+              },
+              "noteId": "ue5-092"
+            }
+          ],
+          "sourceQuestionNumber": 2,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 3,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le tissu adipeux blanc :",
+          "options": [
+            {
+              "id": "A",
+              "text": "le tissu adipeux blanc stocke des triglycérides sous forme d’une enclave lipidique unique chez l’adulte"
+            },
+            {
+              "id": "B",
+              "text": "les adipocytes blancs montrent un noyau central unique"
+            },
+            {
+              "id": "C",
+              "text": "Afin de conserver la qualité morphologique des adipocytes, en MO, on peut fixer le tissu avec du méthanol avant de faire un enrobage et une préparation en congélation"
+            },
+            {
+              "id": "D",
+              "text": "Il a une répartition homogène entre les hommes et les femmes"
+            },
+            {
+              "id": "E",
+              "text": "On peut marquer la gouttelette lipidique avec de l’Oil Red O sur une coupe en congélation"
+            }
+          ],
+          "answer": "AE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. il est en périphérie",
+            "C": "Faux. pas de fixation en congélation",
+            "D": "Faux. gynoide et androide",
+            "E": "Vrai. ou le noir Soudan"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 3,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 4,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du TC mucoïde",
+          "options": [
+            {
+              "id": "A",
+              "text": "ce TC gélatineux est rare et essentiellement présent durant la vie fœtale"
+            },
+            {
+              "id": "B",
+              "text": "on le trouve uniquement chez le fœtus dans le cordon ombilical, c’est la gelée de Wharton"
+            },
+            {
+              "id": "C",
+              "text": "il n’existe plus chez l’adulte"
+            },
+            {
+              "id": "D",
+              "text": "il ne contient pas de cellules"
+            },
+            {
+              "id": "E",
+              "text": "l’acide hyaluronique compose l’essentiel de la SF"
+            }
+          ],
+          "answer": "AE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. aussi dans la partie profonde de la peau fœtal et dans le placenta = mésenchyme embryonnaire",
+            "C": "Faux. au niveau de la pulpe dentaire et corps vitré de l’oeil",
+            "D": "Faux. des fibroblastes dispersées dans la SF",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 4,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 5,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Selon la qualité de la matrice on peut classer le TC en différentes classes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "les TC non spécialisés"
+            },
+            {
+              "id": "B",
+              "text": "les tissus conjonctifs spécialisés comme le tissu adipeux"
+            },
+            {
+              "id": "C",
+              "text": "le TC fibreux dense unitendu que l’on trouve dans le stroma cornéen"
+            },
+            {
+              "id": "D",
+              "text": "le TC fibreux dense situé par exemple dans le stroma des organes"
+            },
+            {
+              "id": "E",
+              "text": "le TC réticulaire situé dans la moelle osseuse"
+            }
+          ],
+          "answer": "ABE",
+          "explanations": {
+            "A": "Vrai. avec, le T mucoïde, le T réticulaire et le TC fibreux dense et le TC fibreux lâche",
+            "B": "Vrai.",
+            "C": "Faux. il est bitendu",
+            "D": "Faux. le stroma = TC fibreux lâche non spécialisé aréolaire",
+            "E": "Vrai. TC à prédominance cellulaire (comme tissu adipeux)"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 5,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 6,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les protéines de la matrice extracellulaire du tissu conjonctif",
+          "options": [
+            {
+              "id": "A",
+              "text": "La fibronectine est une protéine dimérique que l’on ne trouve que dans la MEC du TC lâche"
+            },
+            {
+              "id": "B",
+              "text": "Les laminines sont des protéines en forme de croix asymétrique, elles présentent des domaines leur permettant un accrochage avec le collagène IV"
+            },
+            {
+              "id": "C",
+              "text": "Les laminines sont formées de trois monomères différents α1, β1 et ϒ1"
+            },
+            {
+              "id": "D",
+              "text": "Les laminines s’accrochent sur des dimères d’intégrines a6 b5"
+            },
+            {
+              "id": "E",
+              "text": "Les laminines peuvent s’associer dans la MEC à l’héparane sulfate"
+            }
+          ],
+          "answer": "BCE",
+          "explanations": {
+            "A": "Faux. aussi dans le glycocalyx et dans le plasma sanguin",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. soit a6b1 soit a6b4",
+            "E": "Vrai. ou collagène 4"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc2",
+              "id": 6,
+              "items": [
+                "C"
+              ],
+              "kind": "possible_error",
+              "text": "Item C : l’assemblage α1/β1/γ1 correspond à une composition particulière de laminine ; la ronéo décrit plusieurs isoformes et trois chaînes associées. À vérifier dans la ronéo : la formulation générale « les laminines » ne doit pas faire croire que toutes les isoformes comportent exclusivement les mêmes chaînes numérotées 1. La clé source BCE reste conservée.",
+              "refs": [
+                {
+                  "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+                  "page": 2,
+                  "label": "Laminines : trois chaînes et diversité des isoformes, p. imprimée 15",
+                  "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=2"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : BCE",
+              "reviewedItemText": {
+                "C": "Les laminines sont formées de trois monomères différents α1, β1 et ϒ1"
+              },
+              "reviewedExplanation": {
+                "C": "Vrai."
+              },
+              "noteId": "ue5-093"
+            }
+          ],
+          "sourceQuestionNumber": 6,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 7,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du TC lâche ou aréolaire",
+          "options": [
+            {
+              "id": "A",
+              "text": "C’est un lieu d’échange métabolique"
+            },
+            {
+              "id": "B",
+              "text": "Il présente plus de SF que de cellules"
+            },
+            {
+              "id": "C",
+              "text": "On peut y trouver des fibres nerveuses"
+            },
+            {
+              "id": "D",
+              "text": "Il forme les gaines péritendineuses"
+            },
+            {
+              "id": "E",
+              "text": "Il est riche en réticuline"
+            }
+          ],
+          "answer": "ACD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. idem en cellules en SF",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. c’est le TC réticulaire . Il est riche en élastine"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc2",
+              "id": 7,
+              "items": [
+                "E"
+              ],
+              "kind": "roneo_conflict",
+              "text": "L’item E est rejeté pour l’expression « riche en réticuline ». L’explication restaurée ne doit cependant pas exclure le collagène III du tissu aréolaire ni le définir comme un tissu riche en élastine : la ronéo le décrit globalement pauvre en fibres, avec du collagène I, du collagène III et de l’élastine. La prédominance de la réticuline caractérise le tissu réticulaire, mais sa présence n’y est pas exclusive.",
+              "refs": [
+                {
+                  "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+                  "page": 4,
+                  "label": "Composition du tissu conjonctif lâche aréolaire, p. imprimée 17",
+                  "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=4"
+                },
+                {
+                  "file": "TC1 2026 - CG non corrigées - ACTUALISE.pdf",
+                  "page": 11,
+                  "label": "Réticuline dans le tissu conjonctif lâche",
+                  "href": "sources/revision_v4/TC1_2026_CG_non_corrigees_ACTUALISE_4b0f419e52.pdf#page=11"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : ACD",
+              "reviewedItemText": {
+                "E": "Il est riche en réticuline"
+              },
+              "reviewedExplanation": {
+                "E": "Faux. c’est le TC réticulaire . Il est riche en élastine"
+              },
+              "noteId": "ue5-094"
+            }
+          ],
+          "sourceQuestionNumber": 7,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 8,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du TC mucoïde :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Il est très répandu chez le fœtus et chez l’adulte"
+            },
+            {
+              "id": "B",
+              "text": "Sa substance fondamentale est riche en acide hyaluronique"
+            },
+            {
+              "id": "C",
+              "text": "Il forme le mésenchyme embryonnaire"
+            },
+            {
+              "id": "D",
+              "text": "Il est dépourvu des cellules"
+            },
+            {
+              "id": "E",
+              "text": "Il présente quelques fines fibres de collagène"
+            }
+          ],
+          "answer": "BCE",
+          "explanations": {
+            "A": "Faux. chez l’adulte on ne le trouve qu’au niveau de la pulpe dentaire et dans le corps vitré de l’œil",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. fibroblastes dispersés dans la SF",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 8,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 9,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le tissu cartilagineux :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La matrice extracellulaire solide est bien vascularisée"
+            },
+            {
+              "id": "B",
+              "text": "Le périchondre présent autour des cartilages articulaires est formé de TC dense non orienté"
+            },
+            {
+              "id": "C",
+              "text": "Les chondrocytes sont le seul type de cellules présentes dans la MEC du cartilage"
+            },
+            {
+              "id": "D",
+              "text": "Les chondrocytes logent dans des ostéoplastes"
+            },
+            {
+              "id": "E",
+              "text": "Le chondrocyte est une cellule quiescente non active"
+            }
+          ],
+          "answer": "C",
+          "explanations": {
+            "A": "Faux. avasculaire",
+            "B": "Faux. le cartilage articulaire est dépourvu de périchondre mais vrai pour sa nature",
+            "C": "Vrai.",
+            "D": "Faux. chondroplastes",
+            "E": "Faux. il synthétise les fibres de la MEC + la SF à sa proximité"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 9,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 10,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du tissu cartilagineux",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le cartilage hyalin présente des fibres de collagène de type II"
+            },
+            {
+              "id": "B",
+              "text": "Le cartilage hyalin est capable de présenter une croissance en 3D grâce aux mitoses des chondrocytes assemblés en groupe isogénique axial"
+            },
+            {
+              "id": "C",
+              "text": "Le périchondre présent le long des cartilages hyalins est formé d’une couche externe de TC dense avec des cellules souches qui donneront les chondroblastes"
+            },
+            {
+              "id": "D",
+              "text": "La croissance appositionnelle démarre de la couche interne du périchondre"
+            },
+            {
+              "id": "E",
+              "text": "Le fibrocartilage dépourvu de périchondre forme les disques intervertébraux"
+            }
+          ],
+          "answer": "ADE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. en groupe isogénique coronaire",
+            "C": "Faux. les cellules souches sont dans la couche interne formée de TC lâche",
+            "D": "Vrai. c’est là où sont les cellules souches",
+            "E": "Vrai. + ménisques + symphyse pubienne + site d’insertion des tendons sur les os+ capsules articulaires"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 10,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 11,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "D’après vos connaissances en histologie sur les tissus cartilagineux vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La matrice extracellulaire représente 50 % du tissu cartilagineux"
+            },
+            {
+              "id": "B",
+              "text": "La substance fondamentale de la matrice extracellulaire n’est pas minéralisée"
+            },
+            {
+              "id": "C",
+              "text": "Les chondrocytes ont pour origine les cellules mésenchymateuses"
+            },
+            {
+              "id": "D",
+              "text": "Le cartilage hyalin formant le cartilage articulaire est renouvelable grâce à la présence du périchondre à sa périphérie"
+            },
+            {
+              "id": "E",
+              "text": "La croissance interstitielle coronaire permet une croissance en longueur du cartilage"
+            }
+          ],
+          "answer": "BC",
+          "explanations": {
+            "A": "Faux. 90%",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. pas de perichondre sur articulaire",
+            "E": "Faux. c’est l’axiale"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc2",
+              "id": 11,
+              "items": [
+                "E"
+              ],
+              "kind": "roneo_conflict",
+              "text": "Item E : la croissance isogénique coronaire se fait dans plusieurs directions ; la ronéo précise en longueur et en largeur. Elle permet donc aussi une augmentation en longueur. Rejeter la proposition au seul motif que la croissance axiale assure la longueur suppose un « uniquement » absent de l’énoncé. La distinction attendue est croissance axiale dans une direction contre croissance coronaire en trois dimensions ; la clé source BC est conservée.",
+              "refs": [
+                {
+                  "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+                  "page": 19,
+                  "label": "Croissances interstitielles axiale et coronaire, p. imprimée 32",
+                  "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=19"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : BC",
+              "reviewedItemText": {
+                "E": "La croissance interstitielle coronaire permet une croissance en longueur du cartilage"
+              },
+              "reviewedExplanation": {
+                "E": "Faux. c’est l’axiale"
+              },
+              "noteId": "ue5-095"
+            }
+          ],
+          "sourceQuestionNumber": 11,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 12,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "D’après vos connaissances en histologie sur les tissus cartilagineux vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "On retrouve autant de collagène II que de collagène I dans tous les types de cartilage"
+            },
+            {
+              "id": "B",
+              "text": "Le périchondre est formé de deux couches"
+            },
+            {
+              "id": "C",
+              "text": "La croissance interstitielle axiale assure une croissance en longueur des cartilages"
+            },
+            {
+              "id": "D",
+              "text": "La croissance interstitielle axiale démarre du périchondre"
+            },
+            {
+              "id": "E",
+              "text": "Dans les figures de croissance interstitielle isogénique coronaire on peut voir des chondroblastes en mitose"
+            }
+          ],
+          "answer": "BCE",
+          "explanations": {
+            "A": "Faux. Hyalin, élastique : II, Fibro : II+I",
+            "B": "Vrai. int et ext",
+            "C": "Vrai.",
+            "D": "Faux. c’est l’APPOSITIONNELLE qui fait ça. Intersticielle début de mitose de chondrocyte dans chrondroplaste.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc2",
+              "id": 12,
+              "items": [
+                "E"
+              ],
+              "kind": "roneo_conflict",
+              "text": "Item E : la ronéo décrit la croissance interstitielle par mitose des chondrocytes dans leur logette, puis formation d’un groupe isogénique. La proposition validée parle de chondroblastes. Le terme attendu dans le mécanisme décrit est donc chondrocytes ; il faut le distinguer de la croissance appositionnelle à partir du périchondre. La clé source BCE est conservée.",
+              "refs": [
+                {
+                  "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+                  "page": 18,
+                  "label": "Croissance appositionnelle depuis le périchondre, p. imprimée 31",
+                  "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=18"
+                },
+                {
+                  "file": "TC2 2026 - Partie 1 ACTUALISE.pdf",
+                  "page": 19,
+                  "label": "Mitose des chondrocytes et groupes isogéniques, p. imprimée 32",
+                  "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=19"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : BCE",
+              "reviewedItemText": {
+                "E": "Dans les figures de croissance interstitielle isogénique coronaire on peut voir des chondroblastes en mitose"
+              },
+              "reviewedExplanation": {
+                "E": "Vrai."
+              },
+              "noteId": "ue5-096"
+            }
+          ],
+          "sourceQuestionNumber": 12,
+          "subjectEndPage": 3,
+          "correctionEndPage": 3
+        },
+        {
+          "id": 13,
+          "category": "Autotest TC2",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Pathologies du TC :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’arthrose articulaire est un remplacement du tissu cartilagineux hyalin par du tissu fibreux ou osseux"
+            },
+            {
+              "id": "B",
+              "text": "Le TC peut montrer des formes de cancer notamment les liposarcomes"
+            },
+            {
+              "id": "C",
+              "text": "Le lupus érythémateux est une maladie dûe à des sécrétions d’anticorps par le sujet malade"
+            },
+            {
+              "id": "D",
+              "text": "Le syndrome d’Ehlers-Danlos est un liposarcome"
+            },
+            {
+              "id": "E",
+              "text": "Le syndrome de Marfan est une maladie affectant les fibres élastiques"
+            }
+          ],
+          "answer": "ABCE",
+          "explanations": {
+            "A": "Vrai. se souvenir qu’au niveau des articulations on a bien un cartilage hyalin dépourvu de périchondre",
+            "B": "Vrai. du TA",
+            "C": "Vrai. on parle de maladie auto-immune",
+            "D": "Faux. mutation sur un gène du collagène",
+            "E": "Vrai. mutation du gène de la fibrilline"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 3,
+          "sourceSubject": "autotest TC2(1).docx",
+          "sourceCorrection": "CORRECTION autotest TC2(1).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "uncorrected": false,
+          "sourceQuestionNumber": 13,
+          "subjectEndPage": 3,
+          "correctionEndPage": 3
+        }
+      ]
+    },
+    "histo.tc3": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du tissu osseux",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le tissu osseux présente la MEC la plus minéralisée"
+            },
+            {
+              "id": "B",
+              "text": "Le tissu osseux présente la MEC la plus hydratée"
+            },
+            {
+              "id": "C",
+              "text": "La MEC du TO est un réservoir de calcium et de phosphore"
+            },
+            {
+              "id": "D",
+              "text": "Le TO est le principal constituant de l’os"
+            },
+            {
+              "id": "E",
+              "text": "Le TO est formé d’une matrice minérale et d’une matrice organique riche en collagène I"
+            }
+          ],
+          "answer": "ACE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. la moins hydratées 50% seulement et 70/80% pour le cartilage",
+            "C": "Vrai. les cristaux d’hydroxyapatite sont formés de phosphate de calcium",
+            "D": "Faux. 25% et 60% de moelle osseuse qui n’est pas un TO !!!",
+            "E": "Vrai. (absence de coll II et de fibres élastiques)"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 1,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 2,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos de la matrice organique du TO, vous pouvez dire qu’elle contient :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Du collagène I"
+            },
+            {
+              "id": "B",
+              "text": "Des fibres élastiques"
+            },
+            {
+              "id": "C",
+              "text": "Des GAGs sulfatés"
+            },
+            {
+              "id": "D",
+              "text": "Des protéines comme l’ostéocalcine"
+            },
+            {
+              "id": "E",
+              "text": "L’ostéopontine"
+            }
+          ],
+          "answer": "ACDE",
+          "explanations": {
+            "A": "Vrai. fibrillaire",
+            "B": "Faux.",
+            "C": "Vrai. chondroïtine sulfate et kératane sulfate",
+            "D": "Vrai. elle assure la liaison entre calcium et fibres de collagène I",
+            "E": "Vrai. elle assure le lien entre ostéoclastes et matrice"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 2,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 3,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos des ostéocytes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ces cellules sont isolées les unes des autres, elles sont dans un ostéoplaste"
+            },
+            {
+              "id": "B",
+              "text": "Elles ont une forte activité de synthèse"
+            },
+            {
+              "id": "C",
+              "text": "Elles interagissent avec les cellules bordantes"
+            },
+            {
+              "id": "D",
+              "text": "Les ostéocytes comme les chondrocytes peuvent se diviser dans leur logette"
+            },
+            {
+              "id": "E",
+              "text": "Ces cellules sont multinucléées"
+            }
+          ],
+          "answer": "C",
+          "explanations": {
+            "A": "Faux. elles communiquent entre elles via des jonctions communicantes type GAP = connexons",
+            "B": "Faux. activité réduite, c/ quiescentes",
+            "C": "Vrai. par le biais des canalicules",
+            "D": "Faux. ils ne se divisent pas mais vivent plus de 10 ans",
+            "E": "Faux. ce sont les ostéoclastes"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 3,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 4,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos de la résorption osseuse :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Elle est assurée par les ostéoclastes"
+            },
+            {
+              "id": "B",
+              "text": "Dans la chambre de résorption sont libérés des ions H+ et des enzymes lysosomales"
+            },
+            {
+              "id": "C",
+              "text": "La résorption osseuse est déclenchée par des facteurs hormonaux notamment comme la PTH"
+            },
+            {
+              "id": "D",
+              "text": "Les ostéoclastes présentent à leur surface des récepteurs RANK-L"
+            },
+            {
+              "id": "E",
+              "text": "Les ostéoclastes sécrètent l’OPG et ainsi cessent leur activité"
+            }
+          ],
+          "answer": "ABC",
+          "explanations": {
+            "A": "Vrai. cellule volumineuse 100µm et plurinucléées en provenance du sang",
+            "B": "Vrai. les collagénases et les lysozymes vont digérer la partie organique de la MEC osseuse",
+            "C": "Vrai. la parathormone est activée qd la calcémie diminue",
+            "D": "Faux. des récepteurs Rank, RANK-L est le ligand (= signal) des récepteurs Rank",
+            "E": "Faux. c’est les ostéoblastes qui sécrètent l’OPG"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 4,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 5,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos du tissu osseux",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’os compact est lamellaire"
+            },
+            {
+              "id": "B",
+              "text": "L’os spongieux est lamellaire"
+            },
+            {
+              "id": "C",
+              "text": "L’os lamellaire est un tissu orienté"
+            },
+            {
+              "id": "D",
+              "text": "Un os haversien présente à la fois du tissu osseux compact et du tissu osseux spongieux"
+            },
+            {
+              "id": "E",
+              "text": "Dans un os d’adulte la partie médullaire de l’os est riche en tissu hématopoiétique"
+            }
+          ],
+          "answer": "ABC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai. les fibres de collagène sont parallèles dans les lamelles et celles-ci se superposent avec des orientations différentes",
+            "D": "Faux. compact uniquement",
+            "E": "Faux. en tissu adipeux"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 5,
+          "subjectEndPage": 1,
+          "correctionEndPage": 1
+        },
+        {
+          "id": 6,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A propos des ostéons :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le canal central de Volkman présente des capillaires sanguins et lymphatiques"
+            },
+            {
+              "id": "B",
+              "text": "Le canal de Havers est plus large que le canal de Volkman"
+            },
+            {
+              "id": "C",
+              "text": "Dans les canaux de Volkman on trouve dans l’axe central des ostéocytes"
+            },
+            {
+              "id": "D",
+              "text": "Le tissu osseux spongieux est aussi appelé tissu osseux réticulaire"
+            },
+            {
+              "id": "E",
+              "text": "La fibre nerveuse axiale des ostéons est amyélinisée"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "A": "Faux. canal de Havers",
+            "B": "Faux. c’est le contraire",
+            "C": "Faux. ils sont bordés par des cellules bordantes",
+            "D": "Faux. trabéculaire, le TO réticulaire est le TO primaire transitoire",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 6,
+          "subjectEndPage": 1,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 7,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Généralités sur l’os :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chez un adulte on peut trouver de l’os réticulaire"
+            },
+            {
+              "id": "B",
+              "text": "Le tissu osseux spongieux est réticulaire"
+            },
+            {
+              "id": "C",
+              "text": "Le tissu osseux spongieux est absent des os longs chez l’adulte"
+            },
+            {
+              "id": "D",
+              "text": "La moelle osseuse est prélevée au sein des os plats des hanches riches en tissu osseux spongieux"
+            },
+            {
+              "id": "E",
+              "text": "Dès l’âge de 5 ans, le tissu hématopoiétique dans la partie centrale des os longs est remplacé progressivement par du tissu adipeux"
+            }
+          ],
+          "answer": "ADE",
+          "explanations": {
+            "A": "Vrai. au niveau des cals osseux en cas de réparation d’une fracture",
+            "B": "Faux. trabéculaire et lamellaire",
+            "C": "Faux. il est présent au niveau des épiphyses et dans la cavité medullaire de la métaphyse = métaphyse",
+            "D": "Vrai. il contient le tissu hématopoiétique",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 7,
+          "subjectEndPage": 1,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 8,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "L’os compact :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules bordantes sont situées entre les lamelles des ostéons"
+            },
+            {
+              "id": "B",
+              "text": "Les ostéocytes situés en surface de la lamelle la plus interne communiquent entre eux au niveau de jonctions GAP aux extrémités de prolongements cytoplasmiques"
+            },
+            {
+              "id": "C",
+              "text": "La lamelle la plus centrale de l’ostéon délimite le canal de Havers qui contient une fibre nerveuse myélinisée et un capillaire sanguin"
+            },
+            {
+              "id": "D",
+              "text": "Les canaux de Volkman sont perpendiculaires à l’axe de la diaphyse"
+            },
+            {
+              "id": "E",
+              "text": "Les canaux de Volkman sont en continuité entre le périoste et les canaux de Havers"
+            }
+          ],
+          "answer": "DE",
+          "explanations": {
+            "A": "Faux. uniquement en surface de la lamelle la plus interne des ostéons = canal de Havers",
+            "B": "Faux. il n’y a pas d’ostéocytes en surface de la lamelle la plus interne des ostéons, il y a des cellules bordantes",
+            "C": "Faux. fibre nerveuse amyélinisée",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 8,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc3",
+              "id": 8,
+              "items": [
+                "D",
+                "E"
+              ],
+              "kind": "source_conflict",
+              "text": "Le sujet présente cette question comme une QRU, mais le corrigé original indique explicitement « Vrai » pour D et pour E. La clé DE est donc conservée. Vérifiez dans la ronéo ou auprès de l’enseignant si la mention QRU est une erreur de titre.",
+              "refs": [
+                {
+                  "file": "AUTOTEST TC3 2025(1).docx",
+                  "page": 1,
+                  "label": "QRU 8 : titre du sujet original"
+                },
+                {
+                  "file": "CORRECTION AUTOTEST TC3 OS(2).docx",
+                  "page": 2,
+                  "label": "Question 8 : D et E explicitement marqués Vrai"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : DE",
+              "reviewedItemText": {
+                "D": "Les canaux de Volkman sont perpendiculaires à l’axe de la diaphyse",
+                "E": "Les canaux de Volkman sont en continuité entre le périoste et les canaux de Havers"
+              },
+              "reviewedExplanation": {
+                "D": "Vrai.",
+                "E": "Vrai."
+              },
+              "noteId": "histo-v5-tc3-q8"
+            }
+          ],
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 9,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "L’ossification primaire :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Débute au 3ème mois de la vie fœtale et remplace soit le cartilage soit le mésenchyme embryonnaire"
+            },
+            {
+              "id": "B",
+              "text": "Cette ossification endochondrale est permise par la mise en place de clusters de cellules mésenchymateuses"
+            },
+            {
+              "id": "C",
+              "text": "Les chondroblastes se transforment en ostéoblastes qui sécrètent de l’ostéoïde autour des clusters"
+            },
+            {
+              "id": "D",
+              "text": "L’os compact va se développer en périphérie de cet os primaire à partir du périoste, mis en place par des ostéoblastes situés en périphérie"
+            },
+            {
+              "id": "E",
+              "text": "La matrice organique minéralisée par les ostéocytes forme des trabécules"
+            }
+          ],
+          "answer": "AD",
+          "explanations": {
+            "A": "Vrai. comprend l’ossification de membrane et endochondrale/périostique",
+            "B": "Faux. endochondrale = remplacement du cartilage hyalin",
+            "C": "Faux. cellules cartilagineuses ne se transforment pas en cellules osseuses",
+            "D": "Vrai. c’est l’ossification périostique",
+            "E": "Faux. ostéoblastes"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 9,
+          "generalExplanation": "Attention : ne pas confondre l’ossification primaire avec les centres d’ossification primaire (précision du corrigé original).",
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 10,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "L’ossification endochondrale :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Elle concerne les os longs"
+            },
+            {
+              "id": "B",
+              "text": "La matrice de cartilage hyalin sera remplacée par de l’os"
+            },
+            {
+              "id": "C",
+              "text": "Au centre de la diaphyse on observe un centre d’ossification primaire, les ostéoblastes arrivent jusque-là en longeant les capillaires sanguins"
+            },
+            {
+              "id": "D",
+              "text": "Le centre d’ossification primaire est envahi de capillaires sanguins"
+            },
+            {
+              "id": "E",
+              "text": "L’ossification épiphysaire est réalisée par des centres d ‘ossification secondaire"
+            }
+          ],
+          "answer": "ABCDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 10,
+          "subjectEndPage": 2,
+          "correctionEndPage": 2
+        },
+        {
+          "id": 11,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "La croissance des os longs :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Des centres d’ossification se répartissent uniformément sur la longueur de la diaphyse"
+            },
+            {
+              "id": "B",
+              "text": "Les ostéoblastes gagnent les cavités gagnées par les capillaires et forment une matrice osseuse en la déposant de façon centripète"
+            },
+            {
+              "id": "C",
+              "text": "Est stimulée par l’hormone de croissance et est inhibée par la thyroxine"
+            },
+            {
+              "id": "D",
+              "text": "La couche externe du périoste est formée d’un TC fibreux vascularisé et innervé"
+            },
+            {
+              "id": "E",
+              "text": "L’endoste juxtapose le périoste mais est situé au contact de l’os"
+            }
+          ],
+          "answer": "BD",
+          "explanations": {
+            "A": "Faux. cette croissance a lieu au niveau des cartilages de conjugaison seulement",
+            "B": "Vrai. cela comble les cavités laissées vides par la mort des chondrocytes",
+            "C": "Faux. activée par les deux hormones",
+            "D": "Vrai.",
+            "E": "Faux. il est uniquement dans la partie centrale de la diaphyse et ne touche pas le périoste"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 11,
+          "subjectEndPage": 2,
+          "correctionEndPage": 3
+        },
+        {
+          "id": 12,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A partir de vos connaissances en histologie et notamment sur le cartilage, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le collagène de type II a l’aspect de fines fibrilles et se retrouve abondamment dans la MEC du fibrocartilage"
+            },
+            {
+              "id": "B",
+              "text": "La MEC est formée en plus du collagène, de sels minéraux, de GAGs sulfatés et de protéoglycanes"
+            },
+            {
+              "id": "C",
+              "text": "Les disques intervertébraux présentent une matrice extracellulaire riche en collagène I"
+            }
+          ],
+          "answer": "BC",
+          "explanations": {
+            "A": "Faux. dans le cartilage hyalin et élastique, I dans fibrocartilage",
+            "B": "Vrai.",
+            "C": "Vrai. → fibrocartilage"
+          },
+          "warning": "Vérification conseillée : cette question comporte moins de quatre propositions dans le document extrait ; comparer avec le sujet original.",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 12,
+          "subjectEndPage": 2,
+          "correctionEndPage": 3
+        },
+        {
+          "id": 13,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "A partir de vos connaissances en histologie et notamment sur le tissu osseux, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’ossification périostique permet la synthèse de matrice osseuse sur toute la longueur de la diaphyse et au niveau des épiphyse"
+            },
+            {
+              "id": "B",
+              "text": "Les os plats du crâne présentent une partie d’os spongieux appelé diploë"
+            },
+            {
+              "id": "C",
+              "text": "Dans l’os spongieux, les espaces entre les trabécules contiennent de la moelle osseuse hématopoiétique et des capillaires sanguins"
+            },
+            {
+              "id": "D",
+              "text": "Les cellules osseuses ont toutes pour origine les cellules souches ostéogènes"
+            },
+            {
+              "id": "E",
+              "text": "Une cellule bordante activée se transforme en ostéoblaste mais l’inverse n’est plus possible, l’ostéoblaste se différencie systématiquement en ostéocyte"
+            }
+          ],
+          "answer": "BC",
+          "explanations": {
+            "A": "Faux. uniquement le pourtour de la diaphyse, le reste est de l’ossification endochondrale",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. pas les ostéoclastes qui proviennent des cellules souches sanguines on parle de lignée ostéoclastique",
+            "E": "Faux. c’est possible dans les deux sens"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 13,
+          "subjectEndPage": 2,
+          "correctionEndPage": 3
+        },
+        {
+          "id": 14,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "D’après vos connaissances en histologie et notamment sur le tissu osseux, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La maladie des os de verre est due à une mutation du gène codant pour le collagène 1"
+            },
+            {
+              "id": "B",
+              "text": "L’ostéonectine est une glycoprotéine de la matrice organique, elle permet la précipitation des ions Ca++ et phosphates au contact du collagène 1"
+            },
+            {
+              "id": "C",
+              "text": "Les ostéoclastes présentent des récepteurs RANK et à l’OPG"
+            },
+            {
+              "id": "D",
+              "text": "Le collagène I est la base de fixation des ions minéraux, l’absence ou la présence de collagène anormal peut conduire à des pathologies comme la maladie des os de verre"
+            },
+            {
+              "id": "E",
+              "text": "Toutes les réponses sont correctes"
+            }
+          ],
+          "answer": "AD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. c’est une protéine de liaison entre le collagène 1 et les cristaux d’hydroxyapatite",
+            "C": "Faux. pas à l’OPG",
+            "D": "Vrai.",
+            "E": "Faux."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 14,
+          "subjectEndPage": 3,
+          "correctionEndPage": 3
+        },
+        {
+          "id": 15,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Le tissu osseux :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Est un tissu conjonctif spécialisé"
+            },
+            {
+              "id": "B",
+              "text": "Il a pour origine comme le tissu cartilagineux le tissu mésenchymateux"
+            },
+            {
+              "id": "C",
+              "text": "C’est un tissu avasculaire"
+            },
+            {
+              "id": "D",
+              "text": "Sa matrice calcifiée est un véritable réservoir d’ions minéraux"
+            },
+            {
+              "id": "E",
+              "text": "La matrice organique est composée à 90% de fibres parmi lesquelles on trouve majoritairement des fibres de collagène 1 et des fibres de collagène 2 alors que les fibres élastiques sont absentes"
+            }
+          ],
+          "answer": "ABD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. il est vascularisé et innervé",
+            "D": "Vrai.",
+            "E": "Faux. pas de collagène 2 non plus"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 15,
+          "subjectEndPage": 3,
+          "correctionEndPage": 4
+        },
+        {
+          "id": 16,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Parmi les protéines de la substance fondamentale on note la présence de :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La calcitonine"
+            },
+            {
+              "id": "B",
+              "text": "L’ostéopontine"
+            },
+            {
+              "id": "C",
+              "text": "La parathormone"
+            },
+            {
+              "id": "D",
+              "text": "Des facteurs de croissance comme le TGFb"
+            },
+            {
+              "id": "E",
+              "text": "L’hydroxyapatite"
+            }
+          ],
+          "answer": "BD",
+          "explanations": {
+            "A": "Faux. ne pas confondre calcitonine et ostéocalcine. Calcitonine diminue résorption",
+            "B": "Vrai.",
+            "C": "Faux. c’est un facteur hormonal activant les ostéoblastes",
+            "D": "Vrai.",
+            "E": "Faux. pas une protéine"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 4,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 16,
+          "subjectEndPage": 3,
+          "correctionEndPage": 4
+        },
+        {
+          "id": 17,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les cristaux d’hydroxyapatite :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ont une forme d’octogones"
+            },
+            {
+              "id": "B",
+              "text": "Ils s’intercalent sur les fibres de collagène et sur les fibres élastiques"
+            },
+            {
+              "id": "C",
+              "text": "Sont formés de chlorure de Calcium cristallisés"
+            },
+            {
+              "id": "D",
+              "text": "Leur intrication au sein des fibres de la MEC les rend peu mobilisables, d’où la nécessité de signaux hormonaux pour leur libération dans le sang"
+            },
+            {
+              "id": "E",
+              "text": "Le défaut de minéralisation de la MEC par absence de vitamine B, conduit à des déformations osseuses"
+            }
+          ],
+          "answer": "",
+          "explanations": {
+            "A": "Faux. hexagones",
+            "B": "Faux. pas de fibres élastiques, mais oui ils s’intercalent sur les fibres de collagène 1",
+            "C": "Faux. phosphates de calcium",
+            "D": "Faux. ils sont facilement mobilisables et leur disponibilité est effectivement gérée par des hormones",
+            "E": "Faux. vitamine D, rachitisme"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 4,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 17,
+          "answerIsEmpty": true,
+          "allowNoAnswer": true,
+          "subjectEndPage": 3,
+          "correctionEndPage": 4
+        },
+        {
+          "id": 18,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les ostéoclastes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leur fonction de résorption est activée par la calcitonine"
+            },
+            {
+              "id": "B",
+              "text": "La lacune de résorption présente un pH acide"
+            },
+            {
+              "id": "C",
+              "text": "Ils sont recrutés par les ostéoblastes"
+            },
+            {
+              "id": "D",
+              "text": "Sont volumineux, environ 100 microns"
+            },
+            {
+              "id": "E",
+              "text": "Toutes les propositions sont correctes"
+            }
+          ],
+          "answer": "BCD",
+          "explanations": {
+            "A": "Faux. inhibée et activée par la PTH",
+            "B": "Vrai. libération de H+ permettant la dissolution des cristaux d’hydroxyapatite",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 4,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 18,
+          "subjectEndPage": 3,
+          "correctionEndPage": 4
+        },
+        {
+          "id": 19,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les ostéoblastes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Présentent un noyau ovale central"
+            },
+            {
+              "id": "B",
+              "text": "Sont en contact avec les ostéocytes grâce à leurs prolongements cytoplasmiques"
+            },
+            {
+              "id": "C",
+              "text": "Ils ont un REG très développé permettant la synthèse de collagène 2 notamment"
+            },
+            {
+              "id": "D",
+              "text": "Ils stockent du Ca++ et du phosphore dans des vésicules"
+            },
+            {
+              "id": "E",
+              "text": "Ils synthétisent la bordure ostéoïde"
+            }
+          ],
+          "answer": "BDE",
+          "explanations": {
+            "A": "Faux. le noyau est refoulé vers le pôle non sécréteur à l’opposé de la surface de l’os",
+            "B": "Vrai.",
+            "C": "Faux. pas de collagène 2 mais oui un REG développé pr coll I",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 4,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 19,
+          "subjectEndPage": 3,
+          "correctionEndPage": 4
+        },
+        {
+          "id": 20,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "L’apposition osseuse :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les ostéoblastes libèrent les ions stockés dans leurs vésicules, présentes au niveau des prolongements cytoplasmiques, dans la matrice ostéoïde"
+            },
+            {
+              "id": "B",
+              "text": "Les ions libérés par l’ostéoblaste précipitent dans la matrice minérale sous forme de cristaux de phosphate de calcium"
+            },
+            {
+              "id": "C",
+              "text": "Les ostéoblastes sont enfermés dans une logette appelée ostéoplaste"
+            },
+            {
+              "id": "D",
+              "text": "Les ostéoblastes ne sont responsables que de la synthèse de l’ostéoïde, la minéralisation est assurée par les ostéocytes"
+            },
+            {
+              "id": "E",
+              "text": "Les ostéoblastes peuvent être mis au repos et devenir des cellules bordantes"
+            }
+          ],
+          "answer": "ABE",
+          "explanations": {
+            "A": "Vrai. là ils précipitent sous forme de cristaux d’hydroxyapatite au contact du collagène 1 → formation de la MEC minéralisée",
+            "B": "Vrai. = hydroxyapatite",
+            "C": "Faux. ce sont uniquement les ostéocytes",
+            "D": "Faux. les ostéoblastes synthétisent la matrice organique (collagène 1 + protéines ostéopontine … puis ils déversent les ions qui précipitent en extracellulaire donc sont responsables de la matrice minérale + organique",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 3,
+          "correctionPage": 4,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 20,
+          "subjectEndPage": 4,
+          "correctionEndPage": 5
+        },
+        {
+          "id": 21,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les ostéoblastes sont sensibles :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aux cytokines"
+            },
+            {
+              "id": "B",
+              "text": "A la vitamine D"
+            },
+            {
+              "id": "C",
+              "text": "A la PTH"
+            },
+            {
+              "id": "D",
+              "text": "A l’hormone de croissance"
+            },
+            {
+              "id": "E",
+              "text": "Toutes les réponses sont correctes"
+            }
+          ],
+          "answer": "ABCDE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai. ils présentent des récepteurs à la parathormone",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 4,
+          "correctionPage": 5,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 21,
+          "subjectEndPage": 4,
+          "correctionEndPage": 5
+        },
+        {
+          "id": 22,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "La résorption osseuse :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Est le fait des ostéoclastes activés par les ostéoblastes"
+            },
+            {
+              "id": "B",
+              "text": "L’ostéoprotégérine synthétisé par les ostéoblastes immobilise les ligands Rank-L et activent ainsi la résorption"
+            },
+            {
+              "id": "C",
+              "text": "La molécule Rank-L se situe en surface des ostéoblastes"
+            },
+            {
+              "id": "D",
+              "text": "Les ostéoblastes sont responsables de l’activation des pré-ostéoclastes"
+            },
+            {
+              "id": "E",
+              "text": "Est due à l’apoptose des ostéoblastes"
+            }
+          ],
+          "answer": "AD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. lors de la résorption, les ostéoclastes doivent être activés par Rank-L qui vient se fixer sur leur récepteurs Rank, si l’OPG immobilise Rank-L alors Rank-L ne peut pas venir stimuler les ostéoclastes donc pas de résorption",
+            "C": "Faux. il est synthétisé par les ostéoblastes, le récepteur Rank est sur les ostéoclastes, Rank-L est le ligand",
+            "D": "Vrai. grâce à la libération du M-CSF",
+            "E": "Faux. absolument pas la seule cellule responsable de la résorption est l’ostéoclaste"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 4,
+          "correctionPage": 5,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "reviewNotes": [
+            {
+              "bank": "histo.tc3",
+              "id": 22,
+              "items": [
+                "C"
+              ],
+              "kind": "possible_error",
+              "text": "Item C : l’explication établit que RANK-L est produit par l’ostéoblaste et se fixe à RANK sur l’ostéoclaste, mais cela ne suffit pas à exclure une forme membranaire de RANK-L sur l’ostéoblaste. La page de cours consultée illustre surtout le ligand libéré. À vérifier dans la ronéo : le verdict faux sur la seule localisation « en surface » reste à confirmer.",
+              "refs": [
+                {
+                  "file": "TC3 2026.pdf",
+                  "page": 10,
+                  "label": "Régulation RANK-L / RANK / ostéoprotégérine",
+                  "href": "sources/revision_v4/TC3_2026_8f1c2e6921.pdf#page=10"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : AD",
+              "reviewedItemText": {
+                "C": "La molécule Rank-L se situe en surface des ostéoblastes"
+              },
+              "reviewedExplanation": {
+                "C": "Faux. il est synthétisé par les ostéoblastes, le récepteur Rank est sur les ostéoclastes, Rank-L est le ligand"
+              },
+              "noteId": "ue5-006"
+            }
+          ],
+          "sourceQuestionNumber": 22,
+          "subjectEndPage": 4,
+          "correctionEndPage": 5
+        },
+        {
+          "id": 23,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les ostéocytes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ils communiquent entre eux grâce à des jonctions Gap situées au niveau de leurs prolongements cytoplasmiques"
+            },
+            {
+              "id": "B",
+              "text": "Ces cellules fusiformes ont des capacités de synthèse réduite"
+            },
+            {
+              "id": "C",
+              "text": "Ils interviennent lors du remodelage osseux en prenant une part active de la synthèse"
+            },
+            {
+              "id": "D",
+              "text": "Les ostéocytes ont une durée de vie courte ils sont régulièrement remplacés par la différenciation des ostéoblastes"
+            },
+            {
+              "id": "E",
+              "text": "Ils peuvent se diviser lors du remodelage osseux"
+            }
+          ],
+          "answer": "AB",
+          "explanations": {
+            "A": "Vrai. les prolongements sont situés dans les canalicules de la matrice osseuse",
+            "B": "Vrai.",
+            "C": "Faux. ils régulent seulement par perception des contraintes mécaniques, ce sont les ostéoblastes qui synthétisent",
+            "D": "Faux. ils peuvent vivre plusieurs dizaines d’années",
+            "E": "Faux. ces cellules ne se divisent pas"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 4,
+          "correctionPage": 5,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 23,
+          "subjectEndPage": 4,
+          "correctionEndPage": 5
+        },
+        {
+          "id": 24,
+          "category": "Autotest TC3",
+          "course": "Tissu conjonctif (TC)",
+          "question": "Les ostéoclastes :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ils ne sont jamais en surface de l’os"
+            },
+            {
+              "id": "B",
+              "text": "Ces cellules sont polynucléées"
+            },
+            {
+              "id": "C",
+              "text": "Ils sécrètent des enzymes lysosomales"
+            },
+            {
+              "id": "D",
+              "text": "Ils se lient à la matrice osseuse, sur les intégrines de la MEC"
+            },
+            {
+              "id": "E",
+              "text": "La chambre de résorption est limitée par une bordure en brosse"
+            }
+          ],
+          "answer": "BC",
+          "explanations": {
+            "A": "Faux. ils y sont disséminés",
+            "B": "Vrai.",
+            "C": "Vrai. ils contiennent de nbx lysosomes riches en collagénase et phosphatases qui seront libérés dans la lacune de résorption",
+            "D": "Faux. les intégrines sont sur la membrane de l’ostéoclaste, elles sont transmembranaires et vont s’accrocher à la fibronectine de la MEC",
+            "E": "Faux. les prolongements cytoplasmiques de la MP forment une bordure en brosse dans la lacune de résorption"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 4,
+          "correctionPage": 5,
+          "sourceSubject": "AUTOTEST TC3 2025(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TC3 OS(2).docx",
+          "weight": 1,
+          "approximateDocxPage": true,
+          "sourceQuestionNumber": 24,
+          "subjectEndPage": 4,
+          "correctionEndPage": 5
+        }
+      ]
+    }
+  }
+}

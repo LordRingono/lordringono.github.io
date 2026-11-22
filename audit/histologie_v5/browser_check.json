@@ -1,0 +1,6 @@
+{
+  "status": "BLOCKED",
+  "reason": "Chromium ne peut pas démarrer dans cet environnement : socket() failed, Operation not permitted. Aucun contrôle de pixels ou de mise en page dans un navigateur n’est revendiqué.",
+  "functionalVerification": "Voir runtime_checks/runtime_report.json : JavaScript réel, notation, profils et HTML généré.",
+  "sourceVisualVerification": "Voir quality/visual_review.json : les 56 pages originales ont été inspectées."
+}

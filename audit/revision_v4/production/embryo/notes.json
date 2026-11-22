@@ -1,0 +1,1855 @@
+[
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 2,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification « ne peut pas être haploïde et avoir […] 2 chromatides » est erronée : la fiche de gamétogenèse décrit les spermatocytes II comme N,2C, donc haploïdes avec des chromosomes à deux chromatides. Dans la liste NC/N2C/N4C de l’item, c’est N4C qui pose problème dans le schéma normal enseigné. Le verdict Faux de l’ensemble n’est pas modifié.",
+    "refs": [
+      {
+        "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest Méiose LS - CORRECTION.pdf — Q2, p. 1"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 2,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-001"
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 4,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "La justification oppose globalement mitose et méiose. Il faut distinguer la division réductionnelle I et la division équationnelle II : la seconde division méiotique ne réduit pas une nouvelle fois la ploïdie. L’explication du corrigé est trop générale.",
+    "refs": [
+      {
+        "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest Méiose LS - CORRECTION.pdf — Q4, p. 2"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 2,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-002"
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 7,
+    "items": [
+      "G"
+    ],
+    "kind": "source_conflict",
+    "text": "Coquille dans la justification : « PORTIONS […] pas des Portions » ne formule aucune opposition. Le point visé est l’échange de portions de chromatides non sœurs, et non l’échange de chromatides entières.",
+    "refs": [
+      {
+        "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest Méiose LS - CORRECTION.pdf — Q7, p. 3"
+      },
+      {
+        "file": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+        "page": 6,
+        "label": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf — Q1, p. 6"
+      }
+    ],
+    "noteId": "embryo-v4-003"
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 12,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé rejette une plaque équatoriale « classique » en méiose II. Ce verdict mérite vérification dans le ronéo détaillé de méiose, absent du corpus : les formulations proposées ne permettent pas d’identifier précisément ce que « classique » exclut. Ne pas apprendre ce Faux comme l’absence d’alignement métaphasique.",
+    "refs": [
+      {
+        "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest Méiose LS - CORRECTION.pdf — Q12, p. 4"
+      }
+    ],
+    "noteId": "embryo-v4-004"
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 15,
+    "items": [
+      "J"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’énoncé « les aneuploïdies sont normalement sans conséquence » est coché Vrai. Le ronéo S1 classe au contraire les aneuploïdies parmi les anomalies intrinsèques pouvant interrompre le développement ; les annales citent aussi des monosomies non viables. La généralisation du corrigé est donc à signaler explicitement, sans remplacer sa clé.",
+    "refs": [
+      {
+        "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest Méiose LS - CORRECTION.pdf — Q15, p. 5"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 19,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "2. Annales S1 DE LS Correction.pdf",
+        "page": 1,
+        "label": "2. Annales S1 DE LS Correction.pdf — Q9, p. 1"
+      }
+    ],
+    "sourceVerdict": "Vrai",
+    "courseVerdict": "Les conséquences dépendent de l’aneuploïdie ; elles ne sont pas généralement nulles.",
+    "noteId": "embryo-v4-005"
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 15,
+    "items": [
+      "K"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé assimile les translocations équilibrées à des crossing-over déséquilibrés. La fiche « Anomalies du génome » distingue la translocation entre chromosomes non homologues et le bilan équilibré (sans perte ni gain de matériel) ou déséquilibré. L’égalité proposée mélange le mécanisme et le bilan chromosomique.",
+    "refs": [
+      {
+        "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest Méiose LS - CORRECTION.pdf — Q15, p. 5"
+      },
+      {
+        "file": "3. FS Anomalies du génome LS.pdf",
+        "page": 3,
+        "label": "3. FS Anomalies du génome LS.pdf"
+      }
+    ],
+    "sourceVerdict": "Vrai",
+    "courseVerdict": "Translocation équilibrée ≠ crossing-over déséquilibré.",
+    "noteId": "embryo-v4-006"
+  },
+  {
+    "bank": "embryo.aut.sperm",
+    "id": 3,
+    "items": [
+      "G"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La phrase « les spermatocytes II subissent la méiose » est notée Faux au motif qu’ils ne font pas les deux divisions. La fiche précise pourtant qu’ils subissent bien la division II. Le Faux ne se comprend qu’en ajoutant « l’ensemble des deux divisions » ; l’énoncé pris au sens large est ambigu.",
+    "refs": [
+      {
+        "file": "4.1. Autotest spermatogénèse LS correction.pdf",
+        "page": 2,
+        "label": "4.1. Autotest spermatogénèse LS correction.pdf — Q3, p. 2"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 2,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-007"
+  },
+  {
+    "bank": "embryo.aut.ovo",
+    "id": 5,
+    "items": [
+      "G"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Vrai « la méiose ne peut avoir lieu que dans un follicule » doit être limité à la reprise et à l’achèvement de la première division. La fiche précise que la deuxième division s’achève lors de la fécondation, après l’expulsion de l’ovocyte II. La formulation générale ne décrit donc pas toute la méiose féminine.",
+    "refs": [
+      {
+        "file": "4.2. Autotest Ovogenèse LS correction.pdf",
+        "page": 3,
+        "label": "4.2. Autotest Ovogenèse LS correction.pdf — Q5, p. 3"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 8,
+        "label": "3. FS gamétogenèse LS.pdf"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 9,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "sourceVerdict": "Vrai",
+    "courseVerdict": "Méiose I intrafolliculaire ; achèvement de la méiose II après fécondation.",
+    "noteId": "embryo-v4-008"
+  },
+  {
+    "bank": "embryo.aut.ovo",
+    "id": 6,
+    "items": [
+      "N"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification place une vésicule germinative excentrée dans l’ovocyte II. La fiche décrit l’excentration du noyau de l’ovocyte I pendant sa maturation ; l’ovocyte II ovulé, bloqué en métaphase II, ne possède plus d’enveloppe nucléaire. Le Faux peut être conservé, mais sa justification ne doit pas être mémorisée telle quelle.",
+    "refs": [
+      {
+        "file": "4.2. Autotest Ovogenèse LS correction.pdf",
+        "page": 3,
+        "label": "4.2. Autotest Ovogenèse LS correction.pdf — Q6, p. 3"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 8,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-009"
+  },
+  {
+    "bank": "embryo.aut.ovo",
+    "id": 10,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’explication situe la fécondation dans le pavillon. Le ronéo S1 situe T0 et la formation des pronoyaux dans l’ampoule tubaire ; le pavillon capte le complexe cumulo-ovocytaire. Cette localisation est une erreur dans la justification, indépendamment de la clé de l’item.",
+    "refs": [
+      {
+        "file": "4.2. Autotest Ovogenèse LS correction.pdf",
+        "page": 4,
+        "label": "4.2. Autotest Ovogenèse LS correction.pdf — Q10, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 2,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 3,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-010"
+  },
+  {
+    "bank": "embryo.aut.ovo",
+    "id": 14,
+    "items": [
+      "G",
+      "K"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La vésicule germinative désigne le noyau de l’ovocyte I, pas une cellule entière. Pour K, opposer « follicule secondaire » à « primordial » ne justifie pas le Faux : la fiche montre aussi un ovocyte I dans les follicules primaires et secondaires. Il faut séparer le nom du noyau, la ploïdie de la cellule et le stade folliculaire.",
+    "refs": [
+      {
+        "file": "4.2. Autotest Ovogenèse LS correction.pdf",
+        "page": 6,
+        "label": "4.2. Autotest Ovogenèse LS correction.pdf — Q14, p. 6"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 7,
+        "label": "3. FS gamétogenèse LS.pdf"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 10,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-011"
+  },
+  {
+    "bank": "embryo.aut.ovo",
+    "id": 15,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Coquille scientifique dans la justification « Faux, GP1 = NC » : le premier globule polaire est N,2C dans la fiche, alors que le second est N,C. La justification répète ici la formule qu’elle devrait corriger.",
+    "refs": [
+      {
+        "file": "4.2. Autotest Ovogenèse LS correction.pdf",
+        "page": 7,
+        "label": "4.2. Autotest Ovogenèse LS correction.pdf — Q15, p. 7"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 8,
+        "label": "3. FS gamétogenèse LS.pdf"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 9,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "courseVerdict": "GP1 : N,2C ; GP2 : N,C.",
+    "noteId": "embryo-v4-012"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 1,
+    "items": [
+      "B",
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé imprimée est ABD, mais la même page écrit explicitement « Faux, au cours de la phase S » pour B. D, qui parle de séparation des centromères au diplotène, appelle également vérification du cours détaillé de méiose. Il s’agit d’une contradiction du corrigé source, pas d’un décalage d’extraction : la clé ABD est conservée.",
+    "refs": [
+      {
+        "file": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+        "page": 1,
+        "label": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf — Q1, p. 1"
+      }
+    ],
+    "noteId": "embryo-v4-013"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La clé source ACE inclut E, alors que sa justification imprimée dit « Faux ». La fiche confirme la différence : ovocyte II en métaphase II = N,2C ; spermatozoïde = N,C. Le corrigé porte donc une contradiction interne, étayée par le cours.",
+    "refs": [
+      {
+        "file": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+        "page": 3,
+        "label": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf — Q3, p. 3"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 8,
+        "label": "3. FS gamétogenèse LS.pdf"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 12,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "sourceVerdict": "Clé : Vrai ; justification : Faux",
+    "courseVerdict": "Quantités d’ADN différentes.",
+    "noteId": "embryo-v4-014"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La justification reporte la formation des ponts disulfures des protamines à la fécondation. Le corrigé de fécondation situe au contraire leur mise en place pendant le transit épididymaire. Le Faux de l’item ne permet pas de retenir l’explication « pendant la fécondation ».",
+    "refs": [
+      {
+        "file": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+        "page": 3,
+        "label": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf — Q4, p. 3"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 2,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q5, p. 2"
+      },
+      {
+        "file": "2. Annales Fécondation LS correction.pdf",
+        "page": 3,
+        "label": "2. Annales Fécondation LS correction.pdf — Q4, p. 3"
+      }
+    ],
+    "noteId": "embryo-v4-015"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 7,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’expression « le gamète mâle s’appelle spermatogonie lors de la multiplication », cochée Vrai, emploie gamète pour un précurseur. La fiche distingue les spermatogonies diploïdes de la lignée germinale et le spermatozoïde, gamète haploïde obtenu après méiose et différenciation. Lire ici « précurseur du gamète ».",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Gamétogénèse LS correction.pdf",
+        "page": 1,
+        "label": "7. Colle en chambre Gamétogénèse LS correction.pdf — Q7, p. 1"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 1,
+        "label": "3. FS gamétogenèse LS.pdf"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 2,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-016"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 15,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le corrigé accepte « ensemble du flagelle » seulement en restreignant la portée à la parenthèse « pièce principale et pièce intermédiaire ». Or la pièce terminale fait aussi partie du flagelle. Sa justification passe en outre des fibres denses à la gaine fibreuse, deux structures distinctes. Retenir la distribution anatomique de chaque structure, pas cette généralisation.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Gamétogénèse LS correction.pdf",
+        "page": 2,
+        "label": "7. Colle en chambre Gamétogénèse LS correction.pdf — Q15, p. 2"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 4,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-017"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 28,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Faux est justifié par « le 2e globule polaire est expulsé dans le follicule de De Graaf ». La fiche réserve l’émission de GP2 à l’achèvement de la méiose II lors de la fécondation, après l’ovulation ; c’est GP1 qui est émis avant l’ovulation. La justification confond les deux globules polaires.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Gamétogénèse LS correction.pdf",
+        "page": 5,
+        "label": "7. Colle en chambre Gamétogénèse LS correction.pdf — Q28, p. 5"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 8,
+        "label": "3. FS gamétogenèse LS.pdf"
+      },
+      {
+        "file": "3. FS gamétogenèse LS.pdf",
+        "page": 9,
+        "label": "3. FS gamétogenèse LS.pdf"
+      }
+    ],
+    "noteId": "embryo-v4-018"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 3,
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La justification dit que la réaction acrosomique est suivie de la reconnaissance de ZP3. Le même autotest explique que la reconnaissance primaire de ZP3 précède et déclenche la réaction acrosomique ; la fixation secondaire à ZP2 vient ensuite. La chronologie de cette justification est inversée.",
+    "refs": [
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q4, p. 1"
+      },
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q7, p. 2"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 4,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q14, p. 4"
+      }
+    ],
+    "noteId": "embryo-v4-019"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 10,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La mention « cryptes vaginales » est discordante avec les « cryptes cervicales » décrites dans l’explication du premier QCM de cet autotest. La clé ne change pas, mais la localisation à retenir dans ce contexte est cervicale.",
+    "refs": [
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q11, p. 3"
+      },
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q1, p. 1"
+      }
+    ],
+    "noteId": "embryo-v4-020"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 12,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "L’adsorption de glycoprotéines inhibitrices est présentée comme une capacitation. Les autres corrections décrivent pendant la capacitation un démasquage des récepteurs et une élimination de résidus glucidiques ; le masquage par les facteurs inhibiteurs caractérise la décapacitation. Ce Vrai est contradictoire avec ces explications. Le ronéo spécialisé de fécondation n’est pas disponible pour arbitrage définitif.",
+    "refs": [
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q13, p. 4"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 4,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q13, p. 4"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 5,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q16, p. 5"
+      }
+    ],
+    "noteId": "embryo-v4-021"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 15,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "L’explication attribue à l’acrosine le rôle de récepteur de fixation secondaire. Le même autotest et la colle distinguent l’acrosine, enzyme libérée, de la molécule d’adhésion à ZP2 nommée SPAM. Ne pas assimiler l’enzyme et le récepteur.",
+    "refs": [
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q16, p. 4"
+      },
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 6,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q20, p. 6"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 2,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q4, p. 2"
+      }
+    ],
+    "noteId": "embryo-v4-022"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé définit le zygote comme un embryon à deux blastomères. Le ronéo S1 définit d’abord le zygote comme la cellule-œuf à J0, puis distingue les deux blastomères après la première mitose ; il tolère ensuite l’emploi large du mot zygote. Cette tolérance de vocabulaire ne doit pas devenir une définition exclusive à deux cellules.",
+    "refs": [
+      {
+        "file": "2. Annales Fécondation LS correction.pdf",
+        "page": 3,
+        "label": "2. Annales Fécondation LS correction.pdf — Q8, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 2,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 3,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q26, p. 7"
+      }
+    ],
+    "noteId": "embryo-v4-023"
+  },
+  {
+    "bank": "embryo.col.fec",
+    "id": 12,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé définit le zygote comme un embryon à deux blastomères. Le ronéo S1 définit d’abord le zygote comme la cellule-œuf à J0, puis distingue les deux blastomères après la première mitose ; il tolère ensuite l’emploi large du mot zygote. Cette tolérance de vocabulaire ne doit pas devenir une définition exclusive à deux cellules.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 4,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q12, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 2,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 3,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q26, p. 7"
+      }
+    ],
+    "noteId": "embryo-v4-024"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "items": [
+      "B",
+      "C",
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le document source comporte deux propositions A, puis B, C, D, tout en annonçant la clé ABD. Cette numérotation rend l’appariement de la clé ambigu. La colle reprend les cinq phrases avec A–E et la clé ABD : la mobilité linéaire est B, les ponts disulfures C (Faux), l’inhibition par le liquide spermatique D (Vrai), la membrane acrosomique E (Faux). Ne pas interpréter les lettres de l’annale comme une validation scientifique des phrases actuellement B et D.",
+    "refs": [
+      {
+        "file": "2. Annales Fécondation LS correction.pdf",
+        "page": 1,
+        "label": "2. Annales Fécondation LS correction.pdf — Q6, p. 1"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 4,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q13, p. 4"
+      }
+    ],
+    "noteId": "embryo-v4-025"
+  },
+  {
+    "bank": "embryo.col.fec",
+    "id": 4,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification réduit ici l’interaction gamétique à la reconnaissance spermatozoïde–zone pellucide. Le ronéo S1 situe cependant T0 au début de la traversée des cellules du cumulus ; l’autotest emploie aussi cette définition plus large. Le Faux doit porter sur « toutes les enzymes […] à travers le cumulus », sans apprendre que toute interaction commence seulement à ZP3.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 2,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q4, p. 2"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 2,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest fécondation LS - CORRECTION.pdf — Q1, p. 1"
+      }
+    ],
+    "noteId": "embryo-v4-026"
+  },
+  {
+    "bank": "embryo.col.fec",
+    "id": 20,
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Le Faux oppose « calcium extracellulaire » à « intracellulaire ». La phrase peut toutefois désigner soit l’origine du calcium, soit le compartiment où sa concentration augmente. Le ronéo S1 dit explicitement que le calcium entre dans la cellule. Retenir l’augmentation intracellulaire ; le seul adjectif extracellulaire ne suffit pas à décrire le sens du flux.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 5,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q20, p. 5"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 3,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-027"
+  },
+  {
+    "bank": "embryo.col.fec",
+    "id": 21,
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "L’explication dit « c’est la définition de la réaction acrosomique », mais l’énoncé cite la membrane interne de l’acrosome. Les autres corrections définissent la fusion de la membrane plasmique avec la membrane acrosomique externe. Ce défaut de membrane suffit à rendre la proposition fausse et doit être précisé.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 6,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q21, p. 6"
+      },
+      {
+        "file": "7. Colle en chambre Fécondation LS correction.pdf",
+        "page": 4,
+        "label": "7. Colle en chambre Fécondation LS correction.pdf — Q12, p. 4"
+      }
+    ],
+    "noteId": "embryo-v4-028"
+  },
+  {
+    "bank": "embryo.aut.s1",
+    "id": 2,
+    "items": [
+      "F"
+    ],
+    "kind": "possible_error",
+    "text": "La justification qualifie le trophoblaste de pluripotent. Le ronéo définit la pluripotence par la possibilité de donner les trois feuillets embryonnaires sans donner le placenta, tout en rattachant le trophoblaste au placenta. Cette terminologie est donc insuffisamment précise dans les supports eux-mêmes. Le Faux « trophoblaste totipotent » est conservé ; la qualification positive demande arbitrage du cours enseignant.",
+    "refs": [
+      {
+        "file": "4. Autotest S1 DE LS CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest S1 DE LS CORRECTION.pdf — Q2, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 6,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 12,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-029"
+  },
+  {
+    "bank": "embryo.aut.s1",
+    "id": 9,
+    "items": [
+      "G"
+    ],
+    "kind": "possible_error",
+    "text": "Le Vrai affirme qu’un marquage épigénétique éteint nécessairement les deux allèles. Le même chapitre traite pourtant l’empreinte parentale comme un marquage épigénétique à expression monoallélique. Le mot « si » ne précise pas que les deux allèles portent le même marquage : généralisation à vérifier, sans modifier la clé.",
+    "refs": [
+      {
+        "file": "4. Autotest S1 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S1 DE LS CORRECTION.pdf — Q8, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 13,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 14,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-030"
+  },
+  {
+    "bank": "embryo.aut.s1",
+    "id": 10,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "La justification transforme l’absence d’effacement précoce de l’empreinte en permanence identique chez tous les ascendants et descendants. Le ronéo affirme seulement la conservation des marques des gènes soumis à empreinte pendant la reprogrammation embryonnaire précoce. Il ne suffit pas à valider cette extension à toutes les générations ; le remaniement pendant la gamétogenèse doit être vérifié dans le cours détaillé.",
+    "refs": [
+      {
+        "file": "4. Autotest S1 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S1 DE LS CORRECTION.pdf — Q9, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 14,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-031"
+  },
+  {
+    "bank": "embryo.aut.s1",
+    "id": 12,
+    "items": [
+      "B",
+      "H",
+      "J"
+    ],
+    "kind": "possible_error",
+    "text": "Réserve sur les explications de lyonisation : le ronéo fourni mêle « protection » contre les maladies récessives liées à X, empreinte parentale et inactivation aléatoire. H (« empreinte génétique » opposée à « parentale ») n’est pas une distinction expliquée par le cours ; p.18 décrit même une exception trophoblastique. Le ronéo comporte ici des formulations discutables et aucun contre-ronéo de génétique n’est disponible : ces points demandent arbitrage enseignant, sans convertir la fiche en preuve scientifique définitive.",
+    "refs": [
+      {
+        "file": "4. Autotest S1 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S1 DE LS CORRECTION.pdf — Q11, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 17,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 18,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-032"
+  },
+  {
+    "bank": "embryo.aut.s1",
+    "id": 13,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Erreur logique de quantificateur : « au moins 10 % » est déclaré Faux parce que le cours indique environ 50 %. Or 50 % satisfait nécessairement « au moins 10 % ». Le chiffre du cours ne justifie donc pas le Faux de cette formulation.",
+    "refs": [
+      {
+        "file": "4. Autotest S1 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S1 DE LS CORRECTION.pdf — Q12, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 18,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "sourceVerdict": "Faux",
+    "courseVerdict": "Environ 50 % ; compatible avec « au moins 10 % ».",
+    "noteId": "embryo-v4-033"
+  },
+  {
+    "bank": "embryo.col.s1",
+    "id": 8,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification place l’embryon à J3 dans le pavillon. Le ronéo le maintient pendant les trois premiers jours dans l’ampoule tubaire ; il migre ensuite vers la cavité utérine. Le Vrai de l’item « encore dans la trompe » reste correct, seule la précision « pavillon » est à corriger.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S1 LS correction.pdf",
+        "page": 2,
+        "label": "7. Colle en chambre S1 LS correction.pdf — Q8, p. 2"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 9,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 10,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-034"
+  },
+  {
+    "bank": "embryo.aut.s2",
+    "id": 6,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item à J13 est cohérent avec la fin de nidation du cours. En revanche, l’explication ajoute qu’elle pourrait être terminée dès J10 : le ronéo montre encore l’invasion à J10 et l’intégration complète à J11. Ne pas retenir J10 comme date certaine de fin de l’implantation.",
+    "refs": [
+      {
+        "file": "4. Autotest S2 DE LS CORRECTION.pdf",
+        "page": 2,
+        "label": "4. Autotest S2 DE LS CORRECTION.pdf — Q6, p. 2"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 8,
+        "label": "Embryo/Roneo S2.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 9,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-035"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 4,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Le Faux oppose implicitement le chorion endométrial au myomètre. Le ronéo explique que la réaction déciduale limite l’invasion afin d’empêcher l’œuf d’atteindre le myomètre. Si « limite l’invasion dans le myomètre » signifie empêche son extension jusque-là, le sens est compatible ; si cela présuppose une invasion physiologique du myomètre, il est faux. Formulation à arbitrer.",
+    "refs": [
+      {
+        "file": "2. Annales S2 LS Correction.pdf",
+        "page": 1,
+        "label": "2. Annales S2 LS Correction.pdf — Q10, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 12,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-036"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 4,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé explique la réaction déciduale uniquement par sa progression au fil de l’invasion. Le ronéo la montre déjà au contact du blastocyste à J7. Il faut distinguer début et achèvement : elle peut commencer le premier jour sans être complète ni limitée à ce seul jour. La justification ne permet pas de nier son début précoce.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 1,
+        "label": "7. Colle en chambre S2 LS correction.pdf — Q4, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 6,
+        "label": "Embryo/Roneo S2.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 9,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-037"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 25,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé explique la réaction déciduale uniquement par sa progression au fil de l’invasion. Le ronéo la montre déjà au contact du blastocyste à J7. Il faut distinguer début et achèvement : elle peut commencer le premier jour sans être complète ni limitée à ce seul jour. La justification ne permet pas de nier son début précoce.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 6,
+        "label": "7. Colle en chambre S2 LS correction.pdf — Q25, p. 6"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 6,
+        "label": "Embryo/Roneo S2.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 9,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-038"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 26,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Faux porte sur une dérivation directe du lécithocèle secondaire depuis le blastocèle. L’explication va trop loin en niant aussi tout lien indirect : le ronéo décrit le liquide de l’ancien blastocèle dans le lécithocèle primaire, puis le remaniement de celui-ci en lécithocèle secondaire. Séparer filiation des cavités, remodelage de leurs parois et formation de novo du cœlome extra-embryonnaire.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 6,
+        "label": "7. Colle en chambre S2 LS correction.pdf — Q26, p. 6"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 15,
+        "label": "Embryo/Roneo S2.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 16,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-039"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 33,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La phrase dit « se résorbe partiellement à partir de J11 en laissant trois lames » ; le corrigé la rejette au seul motif J13. Le ronéo distingue bien le début de résorption à J11 et les lames individualisées à J13. L’item est ambigu selon que la fin de la phrase décrit le résultat ultérieur ou l’état déjà atteint à J11.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 8,
+        "label": "7. Colle en chambre S2 LS correction.pdf — Q35, p. 8"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 16,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-040"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 1,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification place le disque tridermique dès J14/J15, alors que le même QCM le date à J16 dans D. Le ronéo distingue la ligne primitive à J14–15 et le remplacement de l’hypoblaste puis la mise en place du mésoblaste à J16. Le Faux de C est conservé ; la date ajoutée dans son explication est discordante.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q1, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 20,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 25,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-041"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 3,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Faux est cohérent avec un mésoblaste para-axial céphalique déjà segmenté. En revanche, la justification « tube neural à la S4 » omet le début de fermeture à J21, encore en S3. Le ronéo distingue ce début de la fermeture complète en S4.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q3, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 35,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 41,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-042"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 4,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification affirme que la plaque préchordale n’induit pas de plaque neurale. Le ronéo cite explicitement la chorde ET la plaque préchordale comme sources de SHH pour l’induction neurale. Cette restriction de l’explication est donc en désaccord avec le cours, sans remettre en cause le Vrai de A.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 1,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q4, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 39,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 40,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 49,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-043"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le repère « 7 premières paires de somites à J20 » de la justification diffère du ronéo : segmentation para-axiale dès J19 et sept paires à J21. L’association gouttière neurale–chorde–somites reste possible ; c’est la précision chiffrée de la correction qui est à rectifier.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q9, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 35,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-044"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La justification exclut d’abord l’ectoblaste sur une coupe sagittale puis le réintroduit dans la même phrase, en avant de la plaque neurale et en arrière du nœud postérieur. Ces deux formulations sont incompatibles. Préciser le niveau et l’étendue de la coupe avant d’utiliser cette explication comme règle générale.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q9, p. 3"
+      }
+    ],
+    "noteId": "embryo-v4-045"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 12,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Faux « début de synthèse d’hCG en S3 » ne pose pas problème. La date J10 ajoutée dans l’explication est plus tardive que le début de sécrétion donné à J8 dans le ronéo S2. Il faut distinguer début de synthèse, augmentation du taux et détection.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q12, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 11,
+        "label": "Embryo/Roneo S2.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S2.PDF",
+        "page": 12,
+        "label": "Embryo/Roneo S2.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-046"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 13,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification appelle la protéine entière « homéodomaine = 60 aa ». Le ronéo distingue l’homéoprotéine, facteur de transcription, et son homéodomaine, fragment conservé de 60 acides aminés codé par l’homéobox de 180 nucléotides. Le Faux de l’item est maintenu ; la correction doit garder cette distinction partie–tout.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q13, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 52,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 53,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-047"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 14,
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "FGF8 est rangé avec Nodal et BMP4 dans la famille TGF-β. Le ronéo répète cette classification dans une question de révision, tout en développant FGF comme « Fibroblast Growth Factor » ailleurs. Ce passage du ronéo ne constitue donc pas une contre-vérification indépendante : la classification moléculaire de FGF8 demande un arbitrage dans le cours enseignant. La clé reste celle du tutorat.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 4,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q14, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 8,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 30,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 31,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-048"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 15,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item Vrai « l’homéoprotéine est codée par une homéobox » est trop large : selon le ronéo, la séquence homéobox code le domaine conservé de 60 acides aminés, tandis que le gène homéotique code la protéine complète. Ne pas confondre la protéine et l’un de ses domaines.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q15, p. 5"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 52,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 53,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-049"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 15,
+    "items": [
+      "G",
+      "H"
+    ],
+    "kind": "possible_error",
+    "text": "La justification de G localise tous les gènes Hox sur toute la longueur du chromosome 3 ; H reprend aussi ce chromosome. Le schéma additionnel du ronéo emploie la même simplification sans préciser les différents groupes de gènes humains. Le corpus fourni ne permet pas d’en faire une localisation génomique vérifiée. Conserver ici la règle de colinéarité 3′/5′ enseignée, mais faire vérifier l’attribution chromosomique.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 5,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q15, p. 5"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 51,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 52,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-050"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 31,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "« Pendant toute la 3e semaine » est trop absolu : le ronéo fait apparaître le canal chordal à J16, puis le canal neurentérique à J17. La communication cavité amniotique–lécithocèle secondaire n’est donc pas décrite dès le début J14–15 de la semaine. Le Vrai source est conservé avec cette réserve de chronologie.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 8,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q31, p. 8"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 17,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 25,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 27,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-051"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 37,
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’asymétrie droite–gauche des organes est un résultat physiologique du gradient de morphogènes décrit dans le ronéo. Une anomalie des cils peut perturber la latéralité ou inverser la position des organes ; la simple présence d’une asymétrie ne prouve pas cette anomalie. Il manque dans l’énoncé une notion d’asymétrie anormale ou de malposition.",
+    "refs": [
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q37, p. 10"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 30,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 31,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "sourceVerdict": "Vrai",
+    "courseVerdict": "Asymétrie physiologique ; anomalie de latéralité à distinguer.",
+    "noteId": "embryo-v4-052"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 2,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "La direction « du nœud de Hensen vers la membrane pharyngienne » décrit la migration du processus chordal. Le ronéo décrit ensuite le soulèvement de la plaque et la formation de la chorde d’avant en arrière. Le Vrai de l’item n’est donc interprétable qu’en précisant à quelle étape « formation de la chorde » renvoie ; ne pas confondre les deux directions.",
+    "refs": [
+      {
+        "file": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+        "page": 1,
+        "label": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf — Q12, p. 1"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 21,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 25,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-053"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 13,
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Vérifier l’unité : le passage détaillé du ronéo indique 3–4 PAIRES de somites par jour et sept paires à J21, tandis que sa révision abrégée écrit elle-même « 3–4 somites ». L’item reprend cette omission de « paires ». Le cours est donc incohérent dans ses formulations ; le repère chiffré doit être appris avec son unité complète.",
+    "refs": [
+      {
+        "file": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+        "page": 3,
+        "label": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf — Q13, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 35,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 51,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-054"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 20,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Contradiction explicite sur la même page : la clé annoncée est ABD, alors que l’item E porte la mention « Vrai ». Il ne s’agit pas d’un décalage de parsing ; la clé du tutorat est conservée et E nécessite arbitrage de la source.",
+    "refs": [
+      {
+        "file": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+        "page": 5,
+        "label": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf — Q9, p. 5"
+      }
+    ],
+    "sourceVerdict": "Clé : Faux ; justification : Vrai",
+    "noteId": "embryo-v4-055"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 23,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La désignation imprimée « VGF (Vascular Growth Factor) » ne correspond pas au nom développé dans le ronéo : VEGF = Vascular Endothelial Growth Factor. Le rôle de stimulation vasculaire visé par le Vrai reste celui du VEGF ; signaler la lettre et le mot manquants dans l’énoncé source.",
+    "refs": [
+      {
+        "file": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+        "page": 6,
+        "label": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf — Q8, p. 6"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 8,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-056"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 11,
+    "items": [
+      "E"
+    ],
+    "kind": "missing_reference",
+    "text": "Le corrigé source donne explicitement A et B Vrai, C et D Faux, mais n’indique aucun verdict pour E. Le contrôle visuel de la page confirme cette absence. La question reste hors note ; une clé complète ne peut pas être reconstruite comme si elle était imprimée.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 3,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q11, p. 3"
+      }
+    ],
+    "noteId": "embryo-v4-057"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 15,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’explication ajoute « mésoblaste embryonnaire » à la barrière placentaire. Le ronéo situe l’axe mésenchymateux dans la villosité, issu de la lame choriale : il s’agit de mésenchyme EXTRA-embryonnaire. Le Vrai de D reste valable pour la présence de cytotrophoblaste et syncytiotrophoblaste.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 3,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q15, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 5,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 7,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-058"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 33,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La colle rejette la zone cardiogène comme annexe parce qu’elle est en partie intra- et en partie extra-embryonnaire. Le ronéo répond pourtant explicitement Oui à la même question, précisément parce qu’une partie est extra-embryonnaire ; l’autotest S3 Q36 E la coche aussi Vrai. Contradiction de classement entre les supports, à conserver visible après correction.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q33, p. 7"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 49,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 50,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 10,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q36, p. 10"
+      }
+    ],
+    "sourceVerdict": "Faux",
+    "courseVerdict": "Oui, annexe partiellement extra-embryonnaire selon le ronéo.",
+    "noteId": "embryo-v4-059"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 34,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification « Faux mésoblastique » ne corrige pas le problème de l’item : le ronéo rappelle que les cellules qui migrent ont bien une origine épiblastique. En revanche, tout l’espace n’est pas colonisé (exceptions des membranes pharyngienne et cloacale), et le passage par Hensen concerne le processus chordal ; le mésoblaste migre par la ligne primitive. Ces précisions expliquent le Faux.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q34, p. 7"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 20,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 21,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 25,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-060"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 34,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Vrai associe toute distribution asymétrique à de graves malpositions. Le ronéo décrit au contraire une expression asymétrique physiologique de Nodal, Lefty2 et Pitx2, nécessaire à la latéralité normale. C’est une perturbation de cette organisation, non l’asymétrie elle-même, qui est susceptible de produire une malposition.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q34, p. 7"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 30,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 31,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-061"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 36,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "La coexistence avec les villosités secondaires est cohérente, mais le J16 ajouté par le corrigé est discordant : le développement détaillé date la plaque chordale de J17. Le ronéo contient lui-même plus bas une phrase de coexistence à J16 contredisant ses propres dates. Retenir la distinction plaque préchordale/canal chordal J16, plaque chordale J17, en signalant cette incohérence des supports.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 8,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q36, p. 8"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 25,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 27,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-062"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 38,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé oppose « mésenchyme intra-villositaire » et « extra-embryonnaire » pour justifier Faux. Ces termes ne s’excluent pas : le mésenchyme extra-embryonnaire de la lame choriale est précisément situé dans l’axe de la villosité. Les quatre couches énumérées sont celles du ronéo. Le motif donné ne justifie donc pas le rejet de l’item.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 8,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q38, p. 8"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 5,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 7,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "sourceVerdict": "Faux",
+    "courseVerdict": "Le mésenchyme extra-embryonnaire est intra-villositaire dans cette barrière.",
+    "noteId": "embryo-v4-063"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 45,
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le Faux tient au nœud cité : le canal chordal est issu de cellules passant par le nœud de Hensen, antérieur, et non par le nœud postérieur. L’explication « mésoblastique, d’origine épiblastique » ne corrige pas cette localisation et ne doit pas faire oublier l’erreur principale.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q45, p. 10"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 21,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 33,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-064"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 46,
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "La justification isolée « J18 » est ambiguë. Le ronéo situe l’allantoïde à J16 et le début de la chorde à J18 ; le Vrai porte bien sur cet ordre. J18 doit donc être rattaché à la chorde, pas à l’allantoïde.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q46, p. 10"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 25,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 46,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 49,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-065"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 48,
+    "items": [
+      "D"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La justification date le début de segmentation du mésoblaste para-axial de J20. Le ronéo donne J19 pour le para-axial et J20 pour l’intermédiaire. Le Faux comparant ce début à la plaque neurale J18 reste inchangé ; la correction confond les deux mésoblastes.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q48, p. 10"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 35,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 41,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-066"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 48,
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le Vrai « cœlome interne visible sur une coupe sagittale à J20 » s’oppose à l’autotest S3 Q9 D, qui précise uniquement une coupe transversale. Le ronéo illustre le clivage latéral en coupe transversale. Sans précision du niveau sagittal (médian ou latéral), ne pas transformer l’une de ces phrases en règle universelle ; arbitrage du plan de coupe nécessaire.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q48, p. 10"
+      },
+      {
+        "file": "4. Autotest S3 DE LS CORRECTION.pdf",
+        "page": 3,
+        "label": "4. Autotest S3 DE LS CORRECTION.pdf — Q9, p. 3"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 36,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 37,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-067"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 49,
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La correction « CT et SCT » est incomplète si elle est lue comme une liste exhaustive : le ronéo décrit aussi la participation du mésenchyme extra-embryonnaire de la lame choriale aux villosités secondaires, puis de leurs vaisseaux. Le Faux de l’origine exclusivement syncytiotrophoblastique reste correct.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 10,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q49, p. 10"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 3,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 5,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 6,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-068"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 50,
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’expression « BMP4, effet dorsalisant » dans la justification est inversée par rapport à l’explication du ronéo : les cellules exposées à davantage de BMP4 migrent plus latéralement et plus ventralement ; ses antagonistes favorisent l’axe. Le rôle de la ligne primitive dans la polarité dorso-ventrale reste bien confirmé.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 11,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q50, p. 11"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 29,
+        "label": "Embryo/Roneo S3.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 32,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "courseVerdict": "BMP4 : migration latérale et ventrale dans le modèle du cours.",
+    "noteId": "embryo-v4-069"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 53,
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Le situs inversus est présenté comme le nom d’une mutation. Le ronéo emploie la même expression, sans identifier de gène ni de variant, puis décrit surtout l’inversion de position des organes. La formulation confond potentiellement le phénotype et sa cause génétique : le corpus ne permet pas d’attribuer ce phénomène à une mutation unique nommée ainsi.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S3 LS correction.pdf",
+        "page": 11,
+        "label": "7. Colle en chambre S3 LS correction.pdf — Q53, p. 11"
+      },
+      {
+        "file": "Embryo/Roneo S3.PDF",
+        "page": 30,
+        "label": "Embryo/Roneo S3.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-070"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé imprimée est ABC(D)E : le corrigé qualifie explicitement D d’ambigu, en distinguant la taille de l’œuf et celle de l’embryon. Les photographies sont disponibles, mais elles ne résolvent pas cette réserve de formulation. La question reste hors note tant que le statut de D n’est pas arbitré.",
+    "refs": [
+      {
+        "file": "2. Annales S1 DE LS Correction.pdf",
+        "page": 4,
+        "label": "2. Annales S1 DE LS Correction.pdf — Q6, p. 4"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 3,
+        "label": "Embryo/Roneo S1.PDF"
+      },
+      {
+        "file": "Embryo/Roneo S1.PDF",
+        "page": 6,
+        "label": "Embryo/Roneo S1.PDF"
+      }
+    ],
+    "noteId": "embryo-v4-071"
+  }
+]

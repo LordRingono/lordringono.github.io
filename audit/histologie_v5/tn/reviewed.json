@@ -1,0 +1,1742 @@
+{
+  "banks": {
+    "histo.tn1": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du SN",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le système nerveux reçoit intègre et traite des informations nerveuses"
+            },
+            {
+              "id": "B",
+              "text": "Le SN ne traite que les informations issues de l’environnement"
+            },
+            {
+              "id": "C",
+              "text": "Les seules cellules présentes dans le Système Nerveux sont des neurones et des cellules sanguines"
+            },
+            {
+              "id": "D",
+              "text": "Les neurones sont les seules cellules excitables"
+            },
+            {
+              "id": "E",
+              "text": "Les neurones sont capables de générer un message et le transmettre à d’autres neurones"
+            }
+          ],
+          "answer": "AE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. aussi des informations endogènes",
+            "C": "Faux. + gliales",
+            "D": "Faux. aussi les cellules musculaires",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 2,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du SN",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les afférences représentent les informations entrant dans le SN"
+            },
+            {
+              "id": "B",
+              "text": "Les informations sensorielles sont afférentes"
+            },
+            {
+              "id": "C",
+              "text": "Les informations motrices sont afférentes"
+            },
+            {
+              "id": "D",
+              "text": "Les informations sensorielles sont traitées dans le névraxe"
+            },
+            {
+              "id": "E",
+              "text": "Le névraxe ne comprend que la moelle épinière"
+            }
+          ],
+          "answer": "ABD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. efférentes",
+            "D": "Vrai. c’est le SNC",
+            "E": "Faux. cerveau, tronc cerebral, cervelet et ME"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 3,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du SN",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le tronc cérébral appartient à l’étage sus tentoriel"
+            },
+            {
+              "id": "B",
+              "text": "Le cervelet appartient à l’étage sous tentoriel"
+            },
+            {
+              "id": "C",
+              "text": "La moelle épinière appartient à l’étage sus tentoriel"
+            },
+            {
+              "id": "D",
+              "text": "L’encéphale dans la boite crânienne est le seul dans l’étage sus-tentoriel"
+            },
+            {
+              "id": "E",
+              "text": "Tous les nerfs crâniens appartiennent au SNC"
+            }
+          ],
+          "answer": "B",
+          "explanations": {
+            "A": "Faux. sous tentoriel avec cervelet",
+            "B": "Vrai.",
+            "C": "Faux. étage vertébral",
+            "D": "Faux. le cerveau seul est à l’étage sus-tentoriel, le tronc cérébral est à l’étage sous tentoriel . Encephale : cerveau, cervelet, tronc cérébral",
+            "E": "Faux. seulement les nerfs optiques"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 4,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du SNP",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les nerfs crâniens sauf les nerfs optiques appartiennent au SNP"
+            },
+            {
+              "id": "B",
+              "text": "Les nerfs sensoriels afférents appartiennent au SNP"
+            },
+            {
+              "id": "C",
+              "text": "Les nerfs moteurs dont les corps cellulaires sont dans la substance grise de la moelle épinière appartiennent au SNC"
+            },
+            {
+              "id": "D",
+              "text": "Les ganglions rachidiens (ou spinaux) qui contiennent les corps cellulaires des neurones sensoriels sont dans le SNP"
+            },
+            {
+              "id": "E",
+              "text": "Les ganglions végétatifs n’appartiennent pas au système nerveux"
+            }
+          ],
+          "answer": "ABD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. ils sont bien dans le SNP même si les corps cellulaires appartiennent à la substance grise de la moelle épinière",
+            "D": "Vrai.",
+            "E": "Faux. au SNP"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 5,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos des cellules gliales présentes dans le SNC on note :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les astrocytes"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules satellites"
+            },
+            {
+              "id": "C",
+              "text": "Les cellules de Schwann"
+            },
+            {
+              "id": "D",
+              "text": "Les oligodendrocytes"
+            },
+            {
+              "id": "E",
+              "text": "Les épendymocytes"
+            }
+          ],
+          "answer": "ADE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. SNP",
+            "C": "Faux. SNP",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 6,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du LCS= liquide cérébrospinal= LCR liquide céphalo rachidien :",
+          "options": [
+            {
+              "id": "A",
+              "text": "On ne le trouve que dans le 3ème et le 4ème ventricule présent dans l’encéphale"
+            },
+            {
+              "id": "B",
+              "text": "Le LCS est en contact avec le tissu nerveux"
+            },
+            {
+              "id": "C",
+              "text": "Le LCS est en contact avec le sang"
+            },
+            {
+              "id": "D",
+              "text": "Le LCS circule au sein de la moelle épinière"
+            },
+            {
+              "id": "E",
+              "text": "L’épendyme est le tissu entre le LCS et le tissu nerveux"
+            }
+          ],
+          "answer": "BCDE",
+          "explanations": {
+            "A": "Faux. + acqueduc de Sylvius + canal épendymaire + périencéphalique dans espace sous arachnoidien + citerne de la base+ autour des racines des nerfs crâniens et sacrés",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Vrai. dans le canal épendymaire",
+            "E": "Vrai. il recouvre les ventricules + canal de l’épendyme"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 7,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du LCR :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les épendymocytes sont des cellules à l’interface LCR/sang"
+            },
+            {
+              "id": "B",
+              "text": "Le LCR est synthétisé au niveau des plexus choroïdes présents au niveau du canal épendymaire"
+            },
+            {
+              "id": "C",
+              "text": "L’interface piogliale est l’interface entre le TN et le sang"
+            },
+            {
+              "id": "D",
+              "text": "Les méninges sont formées de la pie mère et de l’arachnoïde"
+            },
+            {
+              "id": "E",
+              "text": "Les leptoméninges sont formées de la dure mère et de la pie mère"
+            }
+          ],
+          "answer": "AD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. au niveau des ventricules latéraux+3ème +4ème lieu de synthèse du LCR",
+            "C": "Faux. c’est l’interface entre le TN et le LCS",
+            "D": "Vrai. + la dure mère",
+            "E": "Faux. arachnoide et pie mère"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false,
+          "reviewNotes": [
+            {
+              "bank": "histo.tn1",
+              "id": 7,
+              "items": [
+                "D"
+              ],
+              "kind": "possible_error",
+              "text": "Item D : le corrigé retient Vrai et ajoute « + la dure mère ». La formulation de l’énoncé est donc incomplète si elle est comprise comme une liste exhaustive : la ronéo décrit trois méninges, la dure-mère, l’arachnoïde et la pie-mère. La clé officielle est conservée ; vérifier cette nuance dans la ronéo.",
+              "refs": [
+                {
+                  "file": "TN1 - Ronéo 2026 - ACTUALISEE.pdf",
+                  "page": 5,
+                  "label": "Trois méninges autour du système nerveux central",
+                  "href": "sources/revision_v4/TN1_Roneo_2026_ACTUALISEE_629067c364.pdf#page=5"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : AD",
+              "reviewedItemText": {
+                "D": "Les méninges sont formées de la pie mère et de l’arachnoïde"
+              },
+              "reviewedExplanation": {
+                "D": "Vrai. + la dure mère"
+              },
+              "noteId": "v5-histo-tn1-q7-d"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos des méninges :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La dure mère est un TC résistant et dur"
+            },
+            {
+              "id": "B",
+              "text": "Des cellules mésothéliales sont décrites au niveau de la pie mère"
+            },
+            {
+              "id": "C",
+              "text": "L’arachnoïde est vascularisée"
+            },
+            {
+              "id": "D",
+              "text": "La glie limitante ou limitante gliale est un enchevêtrement d’astrocytes"
+            },
+            {
+              "id": "E",
+              "text": "Le LCR circule dans l’espace sous arachnoïdien"
+            }
+          ],
+          "answer": "ADE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. arachnoïde",
+            "C": "Faux. avasculaire",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 9,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos de la substance blanche SB",
+          "options": [
+            {
+              "id": "A",
+              "text": "Elle est située en position centrale dans la moelle épinière"
+            },
+            {
+              "id": "B",
+              "text": "Elle forme le cortex du cerveau"
+            },
+            {
+              "id": "C",
+              "text": "Elle contient des axones myélinisés"
+            },
+            {
+              "id": "D",
+              "text": "Elle présente de nombreuses synapses"
+            },
+            {
+              "id": "E",
+              "text": "Elle présente des astrocytes et des cellules microgliales"
+            }
+          ],
+          "answer": "CE",
+          "explanations": {
+            "A": "Faux. externe",
+            "B": "Faux. centrale",
+            "C": "Vrai.",
+            "D": "Faux.",
+            "E": "Vrai. + oligodendrocytes comme SG"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 10,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos de la substance grise",
+          "options": [
+            {
+              "id": "A",
+              "text": "On trouve dans la SG de la moelle épinière des corps cellulaires de motoneurones"
+            },
+            {
+              "id": "B",
+              "text": "Elle est en position centrale dans l’encéphale"
+            },
+            {
+              "id": "C",
+              "text": "Elle est dépourvue de cellules gliales"
+            },
+            {
+              "id": "D",
+              "text": "Elle n’est pas vascularisée contrairement à la substance blanche"
+            },
+            {
+              "id": "E",
+              "text": "Elle est formée par le neuropile"
+            }
+          ],
+          "answer": "AE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. périphérique → le cortex",
+            "C": "Faux. astrocytes et cellules microgliales + oligodendrocytes",
+            "D": "Faux. les deux sont vascularisées",
+            "E": "Vrai. enchevêtrement de dendrites et d'émergence d’axones (= les neurites) + synapses et prolongements gliaux"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 11,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "Dans le neuropile on trouve :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Des prolongements d’astrocytes"
+            },
+            {
+              "id": "B",
+              "text": "Des émergences d’axone"
+            },
+            {
+              "id": "C",
+              "text": "Des enchevêtrements de dendrites"
+            },
+            {
+              "id": "D",
+              "text": "Des capillaires sanguins"
+            },
+            {
+              "id": "E",
+              "text": "Des synapses"
+            }
+          ],
+          "answer": "ABCE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux.",
+            "E": "Vrai. mais pas de corps cellulaires ni de cellules gliales ni de neurones !!!"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 12,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos des nerfs :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Un nerf = un axone"
+            },
+            {
+              "id": "B",
+              "text": "Un nerf = une fibre nerveuse"
+            },
+            {
+              "id": "C",
+              "text": "Une fibre nerveuse = un axone"
+            },
+            {
+              "id": "D",
+              "text": "Dans un nerf tous les axones sont myélinisés"
+            },
+            {
+              "id": "E",
+              "text": "Tous les nerfs appartiennent au SNP"
+            }
+          ],
+          "answer": "C",
+          "explanations": {
+            "A": "Faux. ensemble de fibres nerveuses rassemblées en faisceaux",
+            "B": "Faux.",
+            "C": "Vrai.",
+            "D": "Faux.",
+            "E": "Faux. pas le nerf optique , si on écrit « tous les nerfs rachidiens appartiennent au SNP » alors c’est Vrai"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 13,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos de la structure des nerfs",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les faisceaux rassemblent de nombreux axones"
+            },
+            {
+              "id": "B",
+              "text": "Les nerfs sont vascularisés"
+            },
+            {
+              "id": "C",
+              "text": "L’enveloppe externe du nerf est le paranèvre"
+            },
+            {
+              "id": "D",
+              "text": "L’enveloppe autour de chaque faisceau est l’épinèvre"
+            },
+            {
+              "id": "E",
+              "text": "Chaque fibre nerveuse est entourée d’un endonèvre"
+            }
+          ],
+          "answer": "ABCE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai. on trouve les VS = vaisseaux sanguins dans l’épinèvre",
+            "C": "Vrai.",
+            "D": "Faux. c’est le périnèvre",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 14,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "Histologie des nerfs :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’endonèvre est un TC lâche avec quelques fibrilles de collagène"
+            },
+            {
+              "id": "B",
+              "text": "Le périnèvre est un TC lâche avec quelques fibroblastes"
+            },
+            {
+              "id": "C",
+              "text": "L’épinèvre est un TC dense avec quelques adipocytes et des vasanervorum"
+            },
+            {
+              "id": "D",
+              "text": "Le paranèvre est un TC lâche"
+            },
+            {
+              "id": "E",
+              "text": "Le paranèvre forme une capsule protectrice"
+            }
+          ],
+          "answer": "ACE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. ce n’est pas un TC",
+            "C": "Vrai. vaisseaux nourriciers",
+            "D": "Faux. dense et capsulaire",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 15,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "On trouve dans les ganglions rachidiens présents dans le SNP :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Des corps cellulaires de neurones sensoriels"
+            },
+            {
+              "id": "B",
+              "text": "Des corps cellulaires de neurones moteurs"
+            },
+            {
+              "id": "C",
+              "text": "Des cellules satellites"
+            },
+            {
+              "id": "D",
+              "text": "Des synapses"
+            },
+            {
+              "id": "E",
+              "text": "Des cellules gliales"
+            }
+          ],
+          "answer": "ACE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. ME",
+            "C": "Vrai.",
+            "D": "Faux. → dans gg végétatifs seulement",
+            "E": "Vrai. = c/ satellites"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 16,
+          "category": "Autotest TN1",
+          "course": "Tissu nerveux (TN)",
+          "question": "A propos du SN Entérique",
+          "options": [
+            {
+              "id": "A",
+              "text": "Il appartient au SNC"
+            },
+            {
+              "id": "B",
+              "text": "Il est formé de trois plexus"
+            },
+            {
+              "id": "C",
+              "text": "Le plexus de Meisner est dans la sous muqueuse de la paroi du tube digestif (TD)"
+            },
+            {
+              "id": "D",
+              "text": "Le plexus d’Auerbach est dans la musculeuse de la paroi du TD"
+            },
+            {
+              "id": "E",
+              "text": "Il permet le contrôle de la motricité et de la sensibilité du TD"
+            }
+          ],
+          "answer": "CDE",
+          "explanations": {
+            "A": "Faux.",
+            "B": "Faux. deux",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "autotest TN1(1).docx",
+          "sourceCorrection": "CORRECTION autotest TN1(2).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        }
+      ]
+    },
+    "histo.tn2": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les neurones sont bloqués en phase G0 de leur cycle cellulaire"
+            },
+            {
+              "id": "B",
+              "text": "Le cytoplasme des neurones et la partie proximale des dendrites, montrent après coloration au crésyl violet des corps de Nissl"
+            },
+            {
+              "id": "C",
+              "text": "On observe une forte activité de réplication chez les neurones"
+            },
+            {
+              "id": "D",
+              "text": "Les grains de Lipofuschine sont présents dans le noyau des neurones"
+            },
+            {
+              "id": "E",
+              "text": "Le cône d’implantation de l’axone présente des corps de Nissl"
+            }
+          ],
+          "answer": "AB",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. ils sont bloqués en phase G0, on a plutôt une forte activité transcriptionnelle",
+            "D": "Faux. dans le péricaryon = cytoplasme au niveau des lysosomes",
+            "E": "Faux. uniquement des ribosomes libres"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 2,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’imprégnation argentique est une technique de coloration qui marque bien les organites du soma"
+            },
+            {
+              "id": "B",
+              "text": "Les neurofilaments sont des filaments intermédiaires dont le diamètre est égal à 10nm"
+            },
+            {
+              "id": "C",
+              "text": "L’actine est en position sous membranaire"
+            },
+            {
+              "id": "D",
+              "text": "Le transport des protéines le long de l’axone se fait sur les microtubules orientés"
+            },
+            {
+              "id": "E",
+              "text": "Les MAPs sont des protéines associées aux neurofilaments"
+            }
+          ],
+          "answer": "BCD",
+          "explanations": {
+            "A": "Faux. le cytosquelette",
+            "B": "Vrai.",
+            "C": "Vrai. elle permet la souplesse et la plasticité de la MP mais attention pas sa contractilité",
+            "D": "Vrai. elles se déplacent de l’extrémité – vers l’extrémité + des microtubules",
+            "E": "Faux. aux microtubules, dans les dendrites et soma"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false,
+          "reviewNotes": [
+            {
+              "bank": "histo.tn2",
+              "id": 2,
+              "items": [
+                "D"
+              ],
+              "kind": "possible_error",
+              "text": "Item D : Vrai est conservé. Le détail du corrigé décrivant un déplacement de l’extrémité − vers l’extrémité + correspond au transport antérograde. Il ne faut pas en déduire que tout transport axonal suit ce sens : la ronéo distingue aussi le transport rétrograde, dans l’autre sens, assuré par la dynéine. Vérifier cette distinction dans la ronéo.",
+              "refs": [
+                {
+                  "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+                  "page": 7,
+                  "label": "Deux sens du transport axonal",
+                  "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=7"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : BCD",
+              "reviewedItemText": {
+                "D": "Le transport des protéines le long de l’axone se fait sur les microtubules orientés"
+              },
+              "reviewedExplanation": {
+                "D": "Vrai. elles se déplacent de l’extrémité – vers l’extrémité + des microtubules"
+              },
+              "noteId": "v5-histo-tn2-q2-d"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le transport antérograde est assuré par la kinésine"
+            },
+            {
+              "id": "B",
+              "text": "Le transport rétrograde est assuré par Tau"
+            },
+            {
+              "id": "C",
+              "text": "Les facteurs neurotrophiques captés dans le milieu extracellulaire sont acheminés vers le soma par transport rétrograde rapide, de l’ordre de 200 à 400mm/jour"
+            },
+            {
+              "id": "D",
+              "text": "L’épine dendritique est un élément post-synaptique"
+            },
+            {
+              "id": "E",
+              "text": "Un axone ne se termine que par un seul bouton axonique"
+            }
+          ],
+          "answer": "ACD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. c’est une protéine de stabilisation et non un moteur moléculaire. Antérograde = dynéine",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. il peut y avoir ramification et de nombreux boutons synaptiques"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false,
+          "reviewNotes": [
+            {
+              "bank": "histo.tn2",
+              "id": 3,
+              "items": [
+                "B"
+              ],
+              "kind": "roneo_conflict",
+              "text": "L’item B est bien faux pour Tau, qui n’est pas le moteur du transport rétrograde. L’explication comporte cependant une inversion : la dynéine assure le transport rétrograde, et la kinésine le transport antérograde, comme le précise la ronéo.",
+              "refs": [
+                {
+                  "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+                  "page": 7,
+                  "label": "Transports axonaux antérograde et rétrograde",
+                  "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=7"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : ACD",
+              "reviewedItemText": {
+                "B": "Le transport rétrograde est assuré par Tau"
+              },
+              "reviewedExplanation": {
+                "B": "Faux. c’est une protéine de stabilisation et non un moteur moléculaire. Antérograde = dynéine"
+              },
+              "noteId": "ue5-009"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "L’axone est riche en ribosomes libres"
+            },
+            {
+              "id": "B",
+              "text": "Le cône d’émergence de l’axone montre de nombreux canaux Ca++ voltage dépendants"
+            },
+            {
+              "id": "C",
+              "text": "Le nœud de Ranvier est l’espace entre deux cellules de Schwann sur un axone de neurone périphérique"
+            },
+            {
+              "id": "D",
+              "text": "Le déplacement du potentiel d’action est saltatoire sur les dendrites"
+            },
+            {
+              "id": "E",
+              "text": "Le nœud de Ranvier est un espace où l’axolemme montre un grand nombre de canaux Na+ voltage dépendants"
+            },
+            {
+              "id": "F",
+              "text": "En coupe transversale, en MO, le halo clair autour d’un axone traduit la présence d’une gaine de myéline"
+            }
+          ],
+          "answer": "CEF",
+          "explanations": {
+            "A": "Faux. absence de corps de Nissl et de ribosomes libres. Seulement dans le cône d’émergence",
+            "B": "Faux. canaux Na+VD",
+            "C": "Vrai.",
+            "D": "Faux. uniquement sur les axones myélinisés",
+            "E": "Vrai.",
+            "F": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 5,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les neurones cholinergiques libèrent de la dopamine"
+            },
+            {
+              "id": "B",
+              "text": "Un neurone peut synthétiser différents neurotransmetteurs"
+            },
+            {
+              "id": "C",
+              "text": "Les neurones cholinergiques déclenchent systématiquement une dépolarisation de la membrane post-synaptique"
+            },
+            {
+              "id": "D",
+              "text": "Les récepteurs de l’acétylcholine sont le récepteur nicotinique et le récepteur muscarinique"
+            },
+            {
+              "id": "E",
+              "text": "les dendrites sont dépourvues de microtubules"
+            },
+            {
+              "id": "F",
+              "text": "Les dendrites peuvent être dichotomiques"
+            },
+            {
+              "id": "G",
+              "text": "Un neurone est une cellule polarisée"
+            }
+          ],
+          "answer": "BDFG",
+          "explanations": {
+            "A": "Faux. de l’acétylcholine",
+            "B": "Vrai.",
+            "C": "Faux. si inhibiteurs",
+            "D": "Vrai.",
+            "E": "Faux. elles en ont",
+            "F": "Vrai.",
+            "G": "Vrai."
+          },
+          "warning": "Correction de l’extraction : le premier item était précédemment placé dans l’énoncé. Les lettres et la clé ont été rétablies d’après les documents fournis.",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 6,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les synapses, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les synapses chimiques sont symétriques"
+            },
+            {
+              "id": "B",
+              "text": "Le récepteur nicotinique est un canal ionique voltage dépendant"
+            },
+            {
+              "id": "C",
+              "text": "C’est Ramon Cajal, qui le premier suggère l’existence d’un espace entre deux neurones"
+            },
+            {
+              "id": "D",
+              "text": "Les synapses électriques sont très présentes dans le SNC"
+            },
+            {
+              "id": "E",
+              "text": "C’est la nature du neurotransmetteur qui définit soit une hyperpolarisation soit une dépolarisation de la membrane post-synaptique"
+            },
+            {
+              "id": "F",
+              "text": "Le GABA est un neurotransmetteur inhibiteur"
+            },
+            {
+              "id": "G",
+              "text": "La noradrénaline est un monoamine"
+            }
+          ],
+          "answer": "CFG",
+          "explanations": {
+            "A": "Faux. une membrane présynaptique très différente de la membrane postsynaptique",
+            "B": "Faux. canal chimiodépendant, il ne s’ouvre qu’en présence d’acétylcholine",
+            "C": "Vrai. → théorie des neurones en contiguité",
+            "D": "Faux. SNP",
+            "E": "Faux. pas sa nature mais son action sur le récepteur présent sur la membrane post-synaptique",
+            "F": "Vrai. tout comme la glycine",
+            "G": "Vrai."
+          },
+          "warning": "Correction de l’extraction : le premier item était précédemment placé dans l’énoncé. Les lettres et la clé ont été rétablies d’après les documents fournis.",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false,
+          "sourceEndPage": 2,
+          "reviewNotes": [
+            {
+              "bank": "histo.tn2",
+              "id": 6,
+              "items": [
+                "D"
+              ],
+              "kind": "possible_error",
+              "text": "Item D : Faux est cohérent avec « très présentes », mais le détail « SNP » du corrigé est trop abrégé. La ronéo indique que les synapses électriques sont très rares dans le SNC et en donne un exemple dans l’olive bulbaire inférieure. Ne pas comprendre ce détail comme une absence totale dans le SNC ; vérifier le passage de la ronéo.",
+              "refs": [
+                {
+                  "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+                  "page": 11,
+                  "label": "Synapses électriques : présence rare dans le SNC",
+                  "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=11"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : CFG",
+              "reviewedItemText": {
+                "D": "Les synapses électriques sont très présentes dans le SNC"
+              },
+              "reviewedExplanation": {
+                "D": "Faux. SNP"
+              },
+              "noteId": "v5-histo-tn2-q6-d"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les synapses, cochez l’ordre correct des événements proposés",
+          "options": [
+            {
+              "id": "A",
+              "text": "1-2-3-4-5"
+            },
+            {
+              "id": "B",
+              "text": "5-1-2-3-4"
+            },
+            {
+              "id": "C",
+              "text": "5-3-2-1-4"
+            },
+            {
+              "id": "D",
+              "text": "1-5-3-4-2"
+            },
+            {
+              "id": "E",
+              "text": "1-5-4-3-2"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "E": "Vrai. Le corrigé désigne explicitement cet ordre : 1-5-4-3-2.",
+            "A": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2.",
+            "B": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2.",
+            "C": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2.",
+            "D": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "context": "Événements à ordonner : 1. Ouverture des canaux calciques voltages dépendants présynaptiques ; 2. Recapture présynaptique du neurotransmetteur ; 3. Entrée d’ions Na+ dans le neurone postsynaptique ; 4. Fixation du neurotransmetteur sur un récepteur spécifique postsynaptique ; 5. Ancrage/arrimage : fusion de la vésicule synaptique sur la membrane présynaptique",
+          "approximateDocxPage": false,
+          "generalExplanation": "Le corrigé retient E : 1-5-4-3-2. Les cinq événements à ordonner restent affichés au-dessus des propositions."
+        },
+        {
+          "id": 8,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur les tissus nerveux, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Le transport axonal antérograde est assuré par la dynéine"
+            },
+            {
+              "id": "B",
+              "text": "La dynéine présente une activité ATPasique qui lui permet d’acheminer des virus neurotropes"
+            },
+            {
+              "id": "C",
+              "text": "Les synapses chimiques permettent la transmission bidirectionnelle du message nerveux"
+            },
+            {
+              "id": "D",
+              "text": "Le glutamate est un acide aminé qui fait fonction de neurotransmetteur excitateur"
+            },
+            {
+              "id": "E",
+              "text": "Les opioïdes endogènes sont des neurotransmetteurs de nature peptidique"
+            },
+            {
+              "id": "F",
+              "text": "La dopamine est un catécholamine"
+            }
+          ],
+          "answer": "BDEF",
+          "explanations": {
+            "A": "Faux. kinesine",
+            "B": "Vrai.",
+            "C": "Faux. uniquement les synapses électriques sont bidirectionnelles",
+            "D": "Vrai.",
+            "E": "Vrai.",
+            "F": "Vrai."
+          },
+          "warning": "Correction de l’extraction : le premier item était précédemment placé dans l’énoncé. Les lettres et la clé ont été rétablies d’après les documents fournis.",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 9,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur les tissus nerveux et notamment sur les synapses chimiques, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "La zone d’exocytose des vésicules synaptiques est contrainte dans une zone dite « active »"
+            },
+            {
+              "id": "B",
+              "text": "Le calcium qui entre par les canaux voltage dépendants sur la membrane présynaptique, permet la translocation des vésicules remplies de neurotransmetteurs"
+            },
+            {
+              "id": "C",
+              "text": "Le recyclage membranaire des vésicules synaptiques se fait grâce à des manteaux de clathrine"
+            },
+            {
+              "id": "D",
+              "text": "L’acétylcholine est recaptée par la cellule présnatique par des vésicules recouvertes de clathrine"
+            },
+            {
+              "id": "E",
+              "text": "Les astrocytes partenaires de la transmission synaptique récupèrent l’excès de neurotransmetteurs qui diffusent dans la fente et génèrent un potentiel d’action"
+            },
+            {
+              "id": "F",
+              "text": "Le prozac est un inhibiteur de la recapture de l’adrénaline"
+            },
+            {
+              "id": "G",
+              "text": "Les astrocytes sont des cellules gliales du système nerveux périphérique"
+            }
+          ],
+          "answer": "ABC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Vrai.",
+            "D": "Faux. elle est dégradée dans la fente par l’acétylcholinestérase",
+            "E": "Faux. ils ne génèrent pas de PA",
+            "F": "Faux. de la serotinine = IRS",
+            "G": "Faux. SNC"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 10,
+          "category": "Autotest TN2",
+          "course": "Tissu nerveux (TN)",
+          "question": "Parmi ces propositions se rapportant aux tissus nerveux et notamment à la myéline, quelle(s) est (sont) celle(s) qui est (sont) correcte(s) ?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Une démyélinisation des axones est caractéristique de la sclérose en plaque"
+            },
+            {
+              "id": "B",
+              "text": "La présence de gaine de myéline autour des axones n’influence pas la vitesse de propagation de l’influx nerveux"
+            },
+            {
+              "id": "C",
+              "text": "Un oligodendrocyte peut myéliniser plusieurs axones dans le système nerveux périphérique"
+            },
+            {
+              "id": "D",
+              "text": "Entre les internodes on trouve des canaux ioniques voltage dépendants"
+            },
+            {
+              "id": "E",
+              "text": "La recapture des neurotransmetteurs présents dans la fente synaptique peut se faire par un récepteur présynaptique"
+            },
+            {
+              "id": "F",
+              "text": "La toxine botulique bloque la recapture et le recyclage de l’acétylcholine"
+            },
+            {
+              "id": "G",
+              "text": "La syntaxine et la synaptobrévine sont des SNARE"
+            },
+            {
+              "id": "H",
+              "text": "La toxine botulique bloque l’activité des SNARE"
+            }
+          ],
+          "answer": "ADEGH",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. elle l’augmente",
+            "C": "Faux. les oligodendrocytes myélinisent plusieurs axones dans le SNC",
+            "D": "Vrai. au niveau des nœuds de Ranvier",
+            "E": "Vrai.",
+            "F": "Faux. elle bloque la libération de l’Ach",
+            "G": "Vrai.",
+            "H": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 3,
+          "sourceSubject": "AUTOTEST TN2(1).docx",
+          "sourceCorrection": "correction autotest TN2(3).docx",
+          "weight": 1,
+          "approximateDocxPage": false,
+          "reviewNotes": [
+            {
+              "bank": "histo.tn2",
+              "id": 10,
+              "items": [
+                "E"
+              ],
+              "kind": "possible_error",
+              "text": "Item E : la recapture est décrite plus précisément dans la ronéo comme un passage par des transporteurs membranaires. Le cours utilise aussi le mot « récepteurs » dans un passage antérieur. À vérifier dans la ronéo : distinguer un transporteur de recapture d’un récepteur présynaptique qui module la libération ; cette ambiguïté terminologique ne suffit pas à modifier la clé.",
+              "refs": [
+                {
+                  "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+                  "page": 15,
+                  "label": "Devenir des neurotransmetteurs",
+                  "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=15"
+                },
+                {
+                  "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+                  "page": 17,
+                  "label": "Recapture par les transporteurs membranaires",
+                  "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=17"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : ADEGH",
+              "reviewedItemText": {
+                "E": "La recapture des neurotransmetteurs présents dans la fente synaptique peut se faire par un récepteur présynaptique"
+              },
+              "reviewedExplanation": {
+                "E": "Vrai."
+              },
+              "noteId": "ue5-010"
+            }
+          ]
+        }
+      ]
+    },
+    "histo.tn3": {
+      "questions": [
+        {
+          "id": 1,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur la névroglie, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les cellules de Schwann ont une origine mésenchymateuse"
+            },
+            {
+              "id": "B",
+              "text": "Les cellules satellites sont des cellules du SNC"
+            },
+            {
+              "id": "C",
+              "text": "La névroglie est forcément dans le SNC"
+            },
+            {
+              "id": "D",
+              "text": "La myélinisation du SN périphérique est assurée par les oligodendrocytes"
+            },
+            {
+              "id": "E",
+              "text": "La méthode de Golgi permet de marquer le cytosquelette des cellules gliales"
+            }
+          ],
+          "answer": "E",
+          "explanations": {
+            "A": "Faux. neurectodermique, que la microglie est mésenchymateuse.",
+            "B": "Faux. SNP",
+            "C": "Faux. il existe des cellules de la névroglie dans le SNP c/ satellites et c/ de Schwann",
+            "D": "Faux. c/ de Schwann",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 2,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur les épendymocytes présents au niveau de l’épendyme, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ils tapissent les ventricules cardiaques"
+            },
+            {
+              "id": "B",
+              "text": "Le canal épendymaire est limité par une couche d’épendymocytes"
+            },
+            {
+              "id": "C",
+              "text": "Les épendymocytes de l’épendyme présentent au pôle apical des cils mettant en mouvement le LCR"
+            },
+            {
+              "id": "D",
+              "text": "Les épendymocytes, bien que faisant fonction de barrière entre le LCR et le tissu nerveux ne présentent aucune caractéristique des cellules épithéliales"
+            },
+            {
+              "id": "E",
+              "text": "Les épendymocytes de l’épendyme présentent des jonctions serrées"
+            }
+          ],
+          "answer": "BC",
+          "explanations": {
+            "A": "Faux. les ventricules cérébraux",
+            "B": "Vrai.",
+            "C": "Vrai. et quelques microvillosités",
+            "D": "Faux. elles ont des zonula adherens et des jonctions Gap",
+            "E": "Faux."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 3,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur les épendymocytes présents au niveau des plexus choroïdes, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les épendymocytes des plexus choroïdes présentent sur le pôle apical des cils"
+            },
+            {
+              "id": "B",
+              "text": "Les replis des plexus choroïdiens sont en contact avec des capillaires sanguins non fenestrés"
+            },
+            {
+              "id": "C",
+              "text": "Le LCR est sécrété à partir du sang présent au niveau des villosités choroïdiennes"
+            },
+            {
+              "id": "D",
+              "text": "Ils présentent de la GFAP"
+            },
+            {
+              "id": "E",
+              "text": "Ils présentent des jonctions serrées"
+            }
+          ],
+          "answer": "CE",
+          "explanations": {
+            "A": "Faux. des villosités",
+            "B": "Faux. fenestrés",
+            "C": "Vrai.",
+            "D": "Faux. seulement les astrocytes",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 4,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur les astrocytes, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les astrocytes sont des cellules isolées dans le parenchyme nerveux, elles ne présentent pas de jonction intercellulaire"
+            },
+            {
+              "id": "B",
+              "text": "On peut repérer des syncytiums astrocytaires grâce à des anticorps anti-connexine 43 marqués en fluorescence"
+            },
+            {
+              "id": "C",
+              "text": "L’ATP est considéré comme un gliotransmetteur"
+            },
+            {
+              "id": "D",
+              "text": "Les astrocytes fibrillaires sont dans la substance blanche"
+            },
+            {
+              "id": "E",
+              "text": "Les astrocytes protoplasmiques constituent 50% du neuropile"
+            }
+          ],
+          "answer": "BCD",
+          "explanations": {
+            "A": "Faux. jonctions adhérentes et jonctions GAP → syncitium",
+            "B": "Vrai. dans les jonctions GAP",
+            "C": "Vrai.",
+            "D": "Vrai.",
+            "E": "Faux. 25% attention neuropile uniquement SG"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 5,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie sur les astrocytes, vous pouvez dire que :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les astrocytes de type 1 présentent des pieds engagés dans la barrière hémato-tissulaire"
+            },
+            {
+              "id": "B",
+              "text": "Les astrocytes de type 2 présentent des récepteurs GLUT1 et GLUT 4"
+            },
+            {
+              "id": "C",
+              "text": "Les astrocytes de type 1 contrôlent la concentration ionique du milieu extracellulaire"
+            },
+            {
+              "id": "D",
+              "text": "Les astrocytes type 2 régulent la transmission synaptique"
+            },
+            {
+              "id": "E",
+              "text": "Lors d’une gliose réactionnelle on a une inflammation qui se traduit par une prolifération de toutes les cellules gliales"
+            }
+          ],
+          "answer": "ABD",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux. astrocyte type 2",
+            "D": "Vrai.",
+            "E": "Faux. astrocytes seulement"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 1,
+          "correctionPage": 1,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false,
+          "reviewNotes": [
+            {
+              "bank": "histo.tn3",
+              "id": 5,
+              "items": [
+                "B"
+              ],
+              "kind": "roneo_conflict",
+              "text": "Item B : le corrigé retient Vrai mais reprend le mot « récepteurs ». La ronéo parle de transporteurs spécifiques GLUT1 et GLUT4. Le terme transporteur est donc à retenir pour ce mécanisme ; vérifier la terminologie dans la ronéo. La clé du corrigé est conservée.",
+              "refs": [
+                {
+                  "file": "TN3 - Ronéo 2026.pdf",
+                  "page": 11,
+                  "label": "Transporteurs GLUT1 et GLUT4 des astrocytes",
+                  "href": "sources/revision_v4/TN3_Roneo_2026_252c9211d9.pdf#page=11"
+                }
+              ],
+              "sourceVerdict": "Clé de référence : ABD",
+              "reviewedItemText": {
+                "B": "Les astrocytes de type 2 présentent des récepteurs GLUT1 et GLUT 4"
+              },
+              "reviewedExplanation": {
+                "B": "Vrai."
+              },
+              "noteId": "v5-histo-tn3-q5-b"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie, vous pouvez dire a propos du document 4 suivant :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Qu’il s’agit d’une gaine de myéline"
+            },
+            {
+              "id": "B",
+              "text": "Qu’il s’agit d’une gaine de myéline dans le système nerveux central"
+            },
+            {
+              "id": "C",
+              "text": "Qu’il s’agit précisément d’une gaine de Schwann"
+            },
+            {
+              "id": "D",
+              "text": "Qu’il peut s’agir soit d’un oligodendrocyte soit d’une cellule de Schwann"
+            },
+            {
+              "id": "E",
+              "text": "Les cellules de Schwann ménagent entre elles des nœuds de Ranvier"
+            }
+          ],
+          "answer": "ACE",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. → on voit le noyau donc il s’agit du corps cellulaire de la cellule de Shwann",
+            "C": "Vrai. car on voit le noyau de la cellule, elle s’enroule donc entièrement autour d’un segment d’axone → internode",
+            "D": "Faux.",
+            "E": "Vrai."
+          },
+          "warning": "",
+          "images": [
+            "static/docx_424af63608b1.png"
+          ],
+          "subjectPage": 1,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 7,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "D’après vos connaissances en histologie, vous pouvez dire à propos du document suivant :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les membranes plasmiques fusionnent formant ainsi une gaine isolante pour les ions"
+            },
+            {
+              "id": "B",
+              "text": "En A, on distingue un reliquat du noyau de la cellule"
+            },
+            {
+              "id": "C",
+              "text": "L’ultrastructure de la gaine de myéline montre une succession de lignes claires et de lignes sombres"
+            },
+            {
+              "id": "D",
+              "text": "La ligne sombre en B correspond à la ligne dense majeure qui correspond à la fusion des feuillets externes de la membrane plasmique"
+            },
+            {
+              "id": "E",
+              "text": "La ligne sombre en C correspond à la ligne dense mineure qui correspond au reliquat cytosolique"
+            }
+          ],
+          "answer": "AC",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Faux. reliquat du cytoplasme avec une mitochondrie",
+            "C": "Vrai.",
+            "D": "Faux. internes",
+            "E": "Faux. fusion des feuillets externes"
+          },
+          "warning": "",
+          "images": [
+            "static/v4_histo_tn3_q7_labels.png"
+          ],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        },
+        {
+          "id": 8,
+          "category": "Autotest TN3",
+          "course": "Tissu nerveux (TN)",
+          "question": "Parmi ces propositions se rapportant aux tissus nerveux, quelle(s) est (sont) celle(s) qui est (sont) correcte(s) ?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Les astrocytes contrôlent les synapses, notamment celles au glutamate, ils réabsorbent le glutamate de la fente synaptique pour le transformer en glutamine"
+            },
+            {
+              "id": "B",
+              "text": "Les astrocytes stockent le glucose sous forme de glycogène et délivrent aux neurones du lactate"
+            },
+            {
+              "id": "C",
+              "text": "La substance grise contient davantage de myéline que la substance blanche"
+            },
+            {
+              "id": "D",
+              "text": "La présence de gaine de myéline autour des axones n’influence pas la vitesse de propagation de l’influx nerveux"
+            },
+            {
+              "id": "E",
+              "text": "Un oligodendrocyte peut myéliniser plusieurs axones dans le système nerveux périphérique"
+            }
+          ],
+          "answer": "AB",
+          "explanations": {
+            "A": "Vrai.",
+            "B": "Vrai.",
+            "C": "Faux.",
+            "D": "Faux. l’accélère par conduction saltatoire entre les nœuds de Ranvier",
+            "E": "Faux. dans le SNC"
+          },
+          "warning": "",
+          "images": [],
+          "subjectPage": 2,
+          "correctionPage": 2,
+          "sourceSubject": "AUTOTEST TN3(1).docx",
+          "sourceCorrection": "CORRECTION AUTOTEST TN3(1).docx",
+          "weight": 1,
+          "approximateDocxPage": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "draft": false,
+  "protectedBanks": 202,
+  "protectedQuestions": 2452,
+  "protectedRenderedStates": 7356,
+  "protectedScores": 606,
+  "ue4Questions": 336,
+  "ue4Items": 1680,
+  "themeCount": 15,
+  "migratedAnswers": 672,
+  "migratedCorrectedStates": 672,
+  "classicPartialThemes": 14,
+  "themesScored": 15,
+  "reviewBoxesChecked": 143,
+  "sharedContextQuestionsChecked": 2,
+  "sourceAnswersReloaded": true,
+  "resetDoesNotResurrectLegacy": true,
+  "otherProfilesAndThemesPreserved": true,
+  "exportsHideUncorrectedAnswersAndNotes": true,
+  "limitation": "Application script and HTML are tested using a deterministic DOM adapter; this is not a browser layout test."
+}

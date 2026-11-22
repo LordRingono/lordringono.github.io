@@ -1,0 +1,387 @@
+{
+  "draft": false,
+  "questions": 336,
+  "items": 1680,
+  "themes": 15,
+  "totalSiteQuestions": 2788,
+  "totalSiteBanks": 217,
+  "notesQuestions": 143,
+  "notesCount": 160,
+  "themeCounts": {
+    "Sources naturelles - Kerzaon": 24,
+    "Galénique": 30,
+    "Le droit pharma": 46,
+    "Cycle de vie du médicament": 2,
+    "Balance bénéfice/risque": 23,
+    "Conception rationnelle : Terreux": 24,
+    "Identification PA : Bourguignon": 32,
+    "Développement clinique": 20,
+    "Biotechnologies": 31,
+    "Chimie organique": 9,
+    "PK PD": 24,
+    "Cibles, mécanisme & actions": 7,
+    "Analyse & contrôles des médicaments": 18,
+    "Iatrogénie": 10,
+    "BUM": 36
+  },
+  "reviewInputs": [
+    {
+      "lot": "recent",
+      "questions": 114,
+      "sha256": "a1605ac90740f08db9119b8fcd51edf05f86204b3ba4dc0032ede9ea2c67441e"
+    },
+    {
+      "lot": "middle",
+      "questions": 112,
+      "sha256": "ffd0fe358ce607e37ac690d148f0dc0f01ab42a370ca3f58fe8a3fcf5eb7d61b"
+    },
+    {
+      "lot": "older",
+      "questions": 110,
+      "sha256": "0964106737467285936d766a9fdfe06e3939a692141a794fbd9555f85a519d29"
+    }
+  ],
+  "appliedPatches": [
+    {
+      "sourceId": "ue4:2025-2026:S1:q13",
+      "field": "explanations.C",
+      "before": "FAUX : La molécule est présente en quantité faible dans les écorces, cela ne permet donc pas une production à l’échelle industrielle , il faut passer par une synthèse totale",
+      "after": "La justification imprimée ne correspond pas à cet item ; voir la réserve ci-dessous.",
+      "kind": "source_misassigned_justification",
+      "sourcePages": [
+        718,
+        719
+      ],
+      "evidence": "L’item C parle de synthèse d’analogues, le commentaire parle de quantité présente dans les écorces.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p705 et corrigé p718 examinés visuellement : commentaire sur les écorces placé sous un item concernant la synthèse d’analogues. Aucun verdict changé.",
+        "checkedPages": [
+          705,
+          718
+        ]
+      }
+    },
+    {
+      "sourceId": "ue4:2025-2026:S1:q14",
+      "field": "explanations.D",
+      "before": "FAUX : La thérapie cellulaire a déjà fait ses preuves notamment chez les patients atteint de DMLA en 2018",
+      "after": "La justification imprimée ne correspond pas à cet item ; voir la réserve ci-dessous.",
+      "kind": "source_misassigned_justification",
+      "sourcePages": [
+        718,
+        719
+      ],
+      "evidence": "Les commentaires D/E du Q14 sur les produits naturels sont recopiés mot pour mot dans la correction du Q15 sur la thérapie cellulaire et la transcriptomique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p705, corrigés p718 et p719 examinés : justification de thérapie cellulaire reproduite depuis Q15D et étrangère à Q14D.",
+        "checkedPages": [
+          705,
+          718,
+          719
+        ]
+      }
+    },
+    {
+      "sourceId": "ue4:2025-2026:S1:q14",
+      "field": "explanations.E",
+      "before": "FAUX : l’analyse des métabolites correspond au métabolome",
+      "after": "La justification imprimée ne correspond pas à cet item ; voir la réserve ci-dessous.",
+      "kind": "source_misassigned_justification",
+      "sourcePages": [
+        718,
+        719
+      ],
+      "evidence": "Les commentaires D/E du Q14 sur les produits naturels sont recopiés mot pour mot dans la correction du Q15 sur la thérapie cellulaire et la transcriptomique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p705, corrigés p718 et p719 examinés : justification de métabolome reproduite depuis Q15E et étrangère à Q14E.",
+        "checkedPages": [
+          705,
+          718,
+          719
+        ]
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.B",
+      "before": "VRAI",
+      "after": "FAUX : en cas d’insuffisance hépatique",
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md"
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.C",
+      "before": "FAUX",
+      "after": "VRAI",
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md"
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.D",
+      "before": "FAUX",
+      "after": "FAUX : Tmax est un paramètre qui permet d’évaluer l’absorption du médicament (= Temps nécessaire pour atteindre Cmax)",
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md"
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "explanations.E",
+      "before": "FAUX",
+      "after": "VRAI",
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md"
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "correctionImages",
+      "before": [
+        "static/annales_ue4_2023-2024_s2_q05_explanation_p796.webp",
+        "static/annales_ue4_2023-2024_s2_q05_explanation_p797.webp"
+      ],
+      "after": [
+        "static/annales_ue4_2023-2024_s2_q05_explanation_p796.webp"
+      ],
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md"
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "warning",
+      "before": "Divergence dans le corrigé fourni : la grille courte et la clé placée sous le QCM donnent ACE, mais les justifications déclarent A et B vrais, C, D et E faux. La clé source ACE reste documentée ; cette contradiction non résolue impose de conserver le QCM hors note.",
+      "after": "",
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md"
+      }
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q05",
+      "field": "answer",
+      "before": "",
+      "after": "ACE",
+      "kind": "source_mapping_error",
+      "sourcePages": [
+        790,
+        794,
+        796,
+        797
+      ],
+      "evidence": "p794 : grille courte ACE. p796 : boîte du Q5 ACE, A/C/E VRAI, B FAUX (insuffisance hépatique), D FAUX (Tmax). p797 : les verdicts AB appartiennent explicitement au Q6 sur l’effet indésirable grave, sans rapport avec les items de pharmacocinétique.",
+      "requiresRootValidation": true,
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p790, grille p794, encadré p796 et question suivante p797 contre-vérifiés : Q5 a pour clé ACE ; les verdicts AB et la capture p797 appartiennent au Q6. Rétablissement de la source, pas d’arbitrage scientifique.",
+        "checkedPages": [
+          790,
+          794,
+          796,
+          797
+        ],
+        "independentReviewer": "older/independent_q5_check.md",
+        "restoresSourceKey": true
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q09",
+      "field": "explanations.E",
+      "reason": "Le tableau et les calculs placés après les cinq verdicts concernent le QCM entier ; ils doivent être rendus en explication générale.",
+      "before": "FAUX 1eremolécule 2èmolécule 3èmolécule Nombre Cy 2 2 2 Nombre H 5 2 3 Nombre N 1 3 2 0 × 2 + 3 × 5 + 1 × 1 = 16 0 × 2 + 3 × 2 + 1 × 3 = 9 0 × 2 + 3 × 3 + 1 × 2 = 11",
+      "after": "FAUX",
+      "requireRootValidation": true,
+      "evidence": "Le corrigé p889 énumère les verdicts A–E, puis présente un tableau et trois calculs communs à la réponse B. La capture annales_ue4_2020-2021_s1_q09_explanation_p889.webp permet de vérifier la séparation.",
+      "sourcePages": [
+        889
+      ],
+      "decision": {
+        "apply": true,
+        "reason": "Encadré p889 examiné visuellement : les cinq verdicts précèdent un tableau de descripteurs et trois calculs pour la formule B. Le bloc vaut pour l’ensemble du QCM et doit être séparé de E ; valeurs et clé B conservées.",
+        "checkedPages": [
+          889
+        ]
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q09",
+      "field": "generalExplanation",
+      "reason": "Restitution fidèle du tableau et des calculs communs au QCM, auparavant concaténés à la seule explication E.",
+      "before": "",
+      "after": "Tableau du corrigé — molécules 1, 2 et 3, dans l’ordre :\nNombre Cy : 2 ; 2 ; 2\nNombre H : 5 ; 2 ; 3\nNombre N : 1 ; 3 ; 2\n\nCalculs proposés pour la réponse B :\n0 × 2 + 3 × 5 + 1 × 1 = 16\n0 × 2 + 3 × 2 + 1 × 3 = 9\n0 × 2 + 3 × 3 + 1 × 2 = 11",
+      "requireRootValidation": true,
+      "evidence": "Le corrigé p889 énumère les verdicts A–E, puis présente un tableau et trois calculs communs à la réponse B. La capture annales_ue4_2020-2021_s1_q09_explanation_p889.webp permet de vérifier la séparation.",
+      "sourcePages": [
+        889
+      ],
+      "decision": {
+        "apply": true,
+        "reason": "Encadré p889 examiné visuellement : les cinq verdicts précèdent un tableau de descripteurs et trois calculs pour la formule B. Le bloc vaut pour l’ensemble du QCM et doit être séparé de E ; valeurs et clé B conservées.",
+        "checkedPages": [
+          889
+        ]
+      }
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q06",
+      "field": "explanations.D",
+      "before": "VRAI : elle ne peut pas être hydrophobe et hydrophile à la fois",
+      "after": "La justification imprimée ne correspond pas à cet item ; voir la réserve ci-dessous.",
+      "reason": "Justification sans rapport avec « Les liposomes sont des vecteurs vésiculaires » ; elle paraît reproduire un raisonnement sur la pommade de B. Retrait de cette explication trompeuse, sans inventer de remplacement scientifique ni changer la clé ADE.",
+      "subjectPages": [
+        965
+      ],
+      "correctionPages": [
+        975
+      ],
+      "sourceEvidence": "p975, Q6D : VRAI : elle ne peut pas être hydrophobe et hydrophile à la fois",
+      "sourcePreservedIn": "static/annales_ue4_2018-2019_s1_q06_explanation_p975.webp",
+      "type": "editorial_source_mismatch",
+      "decision": {
+        "apply": true,
+        "reason": "Corrigé p975 examiné visuellement avec item répété : liposomes vésiculaires, tandis que la phrase sur hydrophobie/hydrophilie concerne le thème de la pommade de B. Neutralisation éditoriale, clé ADE conservée.",
+        "checkedPages": [
+          975
+        ]
+      }
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q15",
+      "field": "explanations.E",
+      "before": "FAUX : B, C, et D sont vrais",
+      "after": "La justification imprimée ne correspond pas à cet item ; voir la réserve ci-dessous.",
+      "reason": "L’argument « B, C, et D sont vrais » répond à une proposition « Toutes les propositions sont fausses », absente : E reproduit exactement D. Justification neutralisée, texte E et clé BCD conservés.",
+      "subjectPages": [
+        967
+      ],
+      "correctionPages": [
+        979
+      ],
+      "sourceEvidence": "D et E : « Un extrait brut peut être actif » ; p979, justification E : « FAUX : B, C, et D sont vrais ».",
+      "sourcePreservedIn": "static/annales_ue4_2018-2019_s1_q15_explanation_p979.webp",
+      "type": "editorial_source_mismatch",
+      "decision": {
+        "apply": true,
+        "reason": "Sujet p967 et corrigé p979 examinés : D et E sont identiques, mais de verdict opposé. La justification de E ne justifie pas son texte ; réserve précise conservée, clé source BCD inchangée.",
+        "checkedPages": [
+          967,
+          979
+        ]
+      }
+    }
+  ],
+  "htmlSha256": "c94681b4676da50ef0d1c3a15d680d695778a15a6b80898c63091099f5519843",
+  "protectedNonUE4Banks": 202,
+  "protectedNonUE4Questions": 2452
+}

@@ -1,0 +1,568 @@
+{
+  "ue": "ue5h",
+  "courseId": "tn",
+  "kind": "autotest",
+  "seriesLabel": "Autotest TN2",
+  "label": "Autotest TN2",
+  "short": "HISTO",
+  "title": "Tissu nerveux (TN)<br>Autotest TN2",
+  "subtitle": "Autotest TN2 · Tissu nerveux (TN). Questions et corrections issues des documents fournis, avec schémas du sujet lorsqu’ils sont présents.",
+  "description": "UE5 · Histologie · Autotest TN2 · PASS Lyon-Sud",
+  "storage": "pass_ssh_site_ue5_histo_tn2_v1",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les neurones sont bloqués en phase G0 de leur cycle cellulaire"
+        },
+        {
+          "id": "B",
+          "text": "Le cytoplasme des neurones et la partie proximale des dendrites, montrent après coloration au crésyl violet des corps de Nissl"
+        },
+        {
+          "id": "C",
+          "text": "On observe une forte activité de réplication chez les neurones"
+        },
+        {
+          "id": "D",
+          "text": "Les grains de Lipofuschine sont présents dans le noyau des neurones"
+        },
+        {
+          "id": "E",
+          "text": "Le cône d’implantation de l’axone présente des corps de Nissl"
+        }
+      ],
+      "answer": "AB",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "ils sont bloqués en phase G0, on a plutôt une forte activité transcriptionnelle",
+        "D": "dans le péricaryon = cytoplasme au niveau des lysosomes",
+        "E": "uniquement des ribosomes libres"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 2,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "L’imprégnation argentique est une technique de coloration qui marque bien les organites du soma"
+        },
+        {
+          "id": "B",
+          "text": "Les neurofilaments sont des filaments intermédiaires dont le diamètre est égal à 10nm"
+        },
+        {
+          "id": "C",
+          "text": "L’actine est en position sous membranaire"
+        },
+        {
+          "id": "D",
+          "text": "Le transport des protéines le long de l’axone se fait sur les microtubules orientés"
+        },
+        {
+          "id": "E",
+          "text": "Les MAPs sont des protéines associées aux neurofilaments"
+        }
+      ],
+      "answer": "BCD",
+      "explanations": {
+        "A": "le cytosquelette",
+        "B": "",
+        "C": "elle permet la souplesse et la plasticité de la MP mais attention pas sa contractilité",
+        "D": "elles se déplacent de l’extrémité – vers l’extrémité + des microtubules",
+        "E": "aux microtubules, dans les dendrites et soma"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 3,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Le transport antérograde est assuré par la kinésine"
+        },
+        {
+          "id": "B",
+          "text": "Le transport rétrograde est assuré par Tau"
+        },
+        {
+          "id": "C",
+          "text": "Les facteurs neurotrophiques captés dans le milieu extracellulaire sont acheminés vers le soma par transport rétrograde rapide, de l’ordre de 200 à 400mm/jour"
+        },
+        {
+          "id": "D",
+          "text": "L’épine dendritique est un élément post-synaptique"
+        },
+        {
+          "id": "E",
+          "text": "Un axone ne se termine que par un seul bouton axonique"
+        }
+      ],
+      "answer": "ACD",
+      "explanations": {
+        "A": "",
+        "B": "c’est une protéine de stabilisation et non un moteur moléculaire. Antérograde = dynéine",
+        "C": "",
+        "D": "",
+        "E": "il peut y avoir ramification et de nombreux boutons synaptiques"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true,
+      "reviewNotes": [
+        {
+          "bank": "histo.tn2",
+          "id": 3,
+          "items": [
+            "B"
+          ],
+          "kind": "roneo_conflict",
+          "text": "L’item B est bien faux pour Tau, qui n’est pas le moteur du transport rétrograde. L’explication comporte cependant une inversion : la dynéine assure le transport rétrograde, et la kinésine le transport antérograde, comme le précise la ronéo.",
+          "refs": [
+            {
+              "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+              "page": 7,
+              "label": "Transports axonaux antérograde et rétrograde",
+              "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=7"
+            }
+          ],
+          "sourceVerdict": "Clé de référence : ACD",
+          "reviewedItemText": {
+            "B": "Le transport rétrograde est assuré par Tau"
+          },
+          "reviewedExplanation": {
+            "B": "c’est une protéine de stabilisation et non un moteur moléculaire. Antérograde = dynéine"
+          },
+          "noteId": "ue5-009"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "L’axone est riche en ribosomes libres"
+        },
+        {
+          "id": "B",
+          "text": "Le cône d’émergence de l’axone montre de nombreux canaux Ca++ voltage dépendants"
+        },
+        {
+          "id": "C",
+          "text": "Le nœud de Ranvier est l’espace entre deux cellules de Schwann sur un axone de neurone périphérique"
+        },
+        {
+          "id": "D",
+          "text": "Le déplacement du potentiel d’action est saltatoire sur les dendrites"
+        },
+        {
+          "id": "E",
+          "text": "Le nœud de Ranvier est un espace où l’axolemme montre un grand nombre de canaux Na+ voltage dépendants"
+        },
+        {
+          "id": "F",
+          "text": "En coupe transversale, en MO, le halo clair autour d’un axone traduit la présence d’une gaine de myéline"
+        }
+      ],
+      "answer": "CEF",
+      "explanations": {
+        "A": "absence de corps de Nissl et de ribosomes libres. Seulement dans le cône d’émergence",
+        "B": "canaux Na+VD",
+        "C": "",
+        "D": "uniquement sur les axones myélinisés",
+        "E": "",
+        "F": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 5,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les neurones, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les neurones cholinergiques libèrent de la dopamine"
+        },
+        {
+          "id": "B",
+          "text": "Un neurone peut synthétiser différents neurotransmetteurs"
+        },
+        {
+          "id": "C",
+          "text": "Les neurones cholinergiques déclenchent systématiquement une dépolarisation de la membrane post-synaptique"
+        },
+        {
+          "id": "D",
+          "text": "Les récepteurs de l’acétylcholine sont le récepteur nicotinique et le récepteur muscarinique"
+        },
+        {
+          "id": "E",
+          "text": "les dendrites sont dépourvues de microtubules"
+        },
+        {
+          "id": "F",
+          "text": "Les dendrites peuvent être dichotomiques"
+        },
+        {
+          "id": "G",
+          "text": "Un neurone est une cellule polarisée"
+        }
+      ],
+      "answer": "BDFG",
+      "explanations": {
+        "A": "Faux : les neurones cholinergiques libèrent de l’acétylcholine, et non de la dopamine.",
+        "B": "",
+        "C": ", si inhibiteurs",
+        "D": "",
+        "E": "elles en ont",
+        "F": "",
+        "G": ""
+      },
+      "warning": "Correction de l’extraction : le premier item était précédemment placé dans l’énoncé. Les lettres et la clé ont été rétablies d’après les documents fournis.",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 6,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les synapses, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les synapses chimiques sont symétriques"
+        },
+        {
+          "id": "B",
+          "text": "Le récepteur nicotinique est un canal ionique voltage dépendant"
+        },
+        {
+          "id": "C",
+          "text": "C’est Ramon Cajal, qui le premier suggère l’existence d’un espace entre deux neurones"
+        },
+        {
+          "id": "D",
+          "text": "Les synapses électriques sont très présentes dans le SNC"
+        },
+        {
+          "id": "E",
+          "text": "C’est la nature du neurotransmetteur qui définit soit une hyperpolarisation soit une dépolarisation de la membrane post-synaptique"
+        },
+        {
+          "id": "F",
+          "text": "Le GABA est un neurotransmetteur inhibiteur"
+        },
+        {
+          "id": "G",
+          "text": "La noradrénaline est un monoamine"
+        }
+      ],
+      "answer": "CFG",
+      "explanations": {
+        "A": "Faux : une synapse chimique est asymétrique ; ses éléments pré- et postsynaptiques sont différents.",
+        "B": "canal chimiodépendant, il ne s’ouvre qu’en présence d’acétylcholine",
+        "C": "théorie des neurones en contiguité",
+        "D": "SNP",
+        "E": "pas sa nature mais son action sur le récepteur présent sur la membrane post-synaptique",
+        "F": "tout comme la glycine",
+        "G": ""
+      },
+      "warning": "Correction de l’extraction : le premier item était précédemment placé dans l’énoncé. Les lettres et la clé ont été rétablies d’après les documents fournis.",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true,
+      "sourceEndPage": 2
+    },
+    {
+      "id": 7,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur le système nerveux et particulièrement sur les synapses, cochez l’ordre correct des événements proposés",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-2-3-4-5"
+        },
+        {
+          "id": "B",
+          "text": "5-1-2-3-4"
+        },
+        {
+          "id": "C",
+          "text": "5-3-2-1-4"
+        },
+        {
+          "id": "D",
+          "text": "1-5-3-4-2"
+        },
+        {
+          "id": "E",
+          "text": "1-5-4-3-2"
+        }
+      ],
+      "answer": "E",
+      "explanations": {
+        "E": "Vrai : l’ordre proposé est 1-5-4-3-2, tel qu’indiqué dans le corrigé."
+      },
+      "warning": "Item A : réponse non retrouvée dans le corrigé. Item B : réponse non retrouvée dans le corrigé. Item C : réponse non retrouvée dans le corrigé. Item D : réponse non retrouvée dans le corrigé. Item E : réponse non retrouvée dans le corrigé. Item F : réponse non retrouvée dans le corrigé. Item G : réponse non retrouvée dans le corrigé. Item H : réponse non retrouvée dans le corrigé. Item I : réponse non retrouvée dans le corrigé. Cette question est conservée hors note faute de correction exploitable. Correction de la transcription : les cinq étapes sont des données à ordonner, non des réponses cochables.",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "context": "Événements à ordonner : 1. Ouverture des canaux calciques voltages dépendants présynaptiques ; 2. Recapture présynaptique du neurotransmetteur ; 3. Entrée d’ions Na+ dans le neurone postsynaptique ; 4. Fixation du neurotransmetteur sur un récepteur spécifique postsynaptique ; 5. Ancrage/arrimage : fusion de la vésicule synaptique sur la membrane présynaptique",
+      "approximateDocxPage": true,
+      "generalExplanation": "Les étapes à ordonner sont affichées au-dessus des cinq propositions."
+    },
+    {
+      "id": 8,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur les tissus nerveux, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Le transport axonal antérograde est assuré par la dynéine"
+        },
+        {
+          "id": "B",
+          "text": "La dynéine présente une activité ATPasique qui lui permet d’acheminer des virus neurotropes"
+        },
+        {
+          "id": "C",
+          "text": "Les synapses chimiques permettent la transmission bidirectionnelle du message nerveux"
+        },
+        {
+          "id": "D",
+          "text": "Le glutamate est un acide aminé qui fait fonction de neurotransmetteur excitateur"
+        },
+        {
+          "id": "E",
+          "text": "Les opioïdes endogènes sont des neurotransmetteurs de nature peptidique"
+        },
+        {
+          "id": "F",
+          "text": "La dopamine est un catécholamine"
+        }
+      ],
+      "answer": "BDEF",
+      "explanations": {
+        "A": "Faux : le transport axonal antérograde est assuré par les kinésines, et non par la dynéine.",
+        "B": "",
+        "C": "uniquement les synapses électriques sont bidirectionnelles",
+        "D": "",
+        "E": "",
+        "F": ""
+      },
+      "warning": "Correction de l’extraction : le premier item était précédemment placé dans l’énoncé. Les lettres et la clé ont été rétablies d’après les documents fournis.",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 9,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "D’après vos connaissances en histologie sur les tissus nerveux et notamment sur les synapses chimiques, vous pouvez dire que :",
+      "options": [
+        {
+          "id": "A",
+          "text": "La zone d’exocytose des vésicules synaptiques est contrainte dans une zone dite « active »"
+        },
+        {
+          "id": "B",
+          "text": "Le calcium qui entre par les canaux voltage dépendants sur la membrane présynaptique, permet la translocation des vésicules remplies de neurotransmetteurs"
+        },
+        {
+          "id": "C",
+          "text": "Le recyclage membranaire des vésicules synaptiques se fait grâce à des manteaux de clathrine"
+        },
+        {
+          "id": "D",
+          "text": "L’acétylcholine est recaptée par la cellule présnatique par des vésicules recouvertes de clathrine"
+        },
+        {
+          "id": "E",
+          "text": "Les astrocytes partenaires de la transmission synaptique récupèrent l’excès de neurotransmetteurs qui diffusent dans la fente et génèrent un potentiel d’action"
+        },
+        {
+          "id": "F",
+          "text": "Le prozac est un inhibiteur de la recapture de l’adrénaline"
+        },
+        {
+          "id": "G",
+          "text": "Les astrocytes sont des cellules gliales du système nerveux périphérique"
+        }
+      ],
+      "answer": "ABC",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "elle est dégradée dans la fente par l’acétylcholinestérase",
+        "E": ", ils ne génèrent pas de PA",
+        "F": "de la serotinine = IRS",
+        "G": "SNC"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 10,
+      "category": "Autotest TN2",
+      "course": "Tissu nerveux (TN)",
+      "question": "Parmi ces propositions se rapportant aux tissus nerveux et notamment à la myéline, quelle(s) est (sont) celle(s) qui est (sont) correcte(s) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Une démyélinisation des axones est caractéristique de la sclérose en plaque"
+        },
+        {
+          "id": "B",
+          "text": "La présence de gaine de myéline autour des axones n’influence pas la vitesse de propagation de l’influx nerveux"
+        },
+        {
+          "id": "C",
+          "text": "Un oligodendrocyte peut myéliniser plusieurs axones dans le système nerveux périphérique"
+        },
+        {
+          "id": "D",
+          "text": "Entre les internodes on trouve des canaux ioniques voltage dépendants"
+        },
+        {
+          "id": "E",
+          "text": "La recapture des neurotransmetteurs présents dans la fente synaptique peut se faire par un récepteur présynaptique"
+        },
+        {
+          "id": "F",
+          "text": "La toxine botulique bloque la recapture et le recyclage de l’acétylcholine"
+        },
+        {
+          "id": "G",
+          "text": "La syntaxine et la synaptobrévine sont des SNARE"
+        },
+        {
+          "id": "H",
+          "text": "La toxine botulique bloque l’activité des SNARE"
+        }
+      ],
+      "answer": "ADEGH",
+      "explanations": {
+        "A": "",
+        "B": "elle l’augmente",
+        "C": "les oligodendrocytes myélinisent plusieurs axones dans le SNC",
+        "D": "au niveau des nœuds de Ranvier",
+        "E": "",
+        "F": "elle bloque la libération de l’Ach",
+        "G": "",
+        "H": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "AUTOTEST TN2.docx",
+      "sourceCorrection": "correction autotest TN2(2).docx",
+      "weight": 1,
+      "approximateDocxPage": true,
+      "reviewNotes": [
+        {
+          "bank": "histo.tn2",
+          "id": 10,
+          "items": [
+            "E"
+          ],
+          "kind": "possible_error",
+          "text": "Item E : la recapture est décrite plus précisément dans la ronéo comme un passage par des transporteurs membranaires. Le cours utilise aussi le mot « récepteurs » dans un passage antérieur. À vérifier dans la ronéo : distinguer un transporteur de recapture d’un récepteur présynaptique qui module la libération ; cette ambiguïté terminologique ne suffit pas à modifier la clé.",
+          "refs": [
+            {
+              "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+              "page": 15,
+              "label": "Devenir des neurotransmetteurs",
+              "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=15"
+            },
+            {
+              "file": "TN2 - Ronéo 2026 - Actualisée.pdf",
+              "page": 17,
+              "label": "Recapture par les transporteurs membranaires",
+              "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=17"
+            }
+          ],
+          "sourceVerdict": "Clé de référence : ADEGH",
+          "reviewedItemText": {
+            "E": "La recapture des neurotransmetteurs présents dans la fente synaptique peut se faire par un récepteur présynaptique"
+          },
+          "reviewedExplanation": {
+            "E": ""
+          },
+          "noteId": "ue5-010"
+        }
+      ]
+    }
+  ]
+}

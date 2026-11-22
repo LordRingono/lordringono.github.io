@@ -1,0 +1,4813 @@
+[
+  {
+    "bank": "histo.te1",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q1_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      93.801,
+      531.686,
+      218.001
+    ],
+    "width": 937,
+    "height": 250,
+    "sha256": "92be4f3ac732b77552da2decba59a22d6dbf459f62dca21df2779a61c1e668d3"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q1_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      97.751,
+      529.198,
+      303.601
+    ],
+    "width": 932,
+    "height": 413,
+    "sha256": "5854938b4a5f236cc21cf04980bfed51ab5e9034f7361158b35896bebabf56e4"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q2_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      232.951,
+      519.575,
+      348.951
+    ],
+    "width": 913,
+    "height": 233,
+    "sha256": "2f8d4f8f8d7e0d82c10fe32e4f9164bc5f0e21d55e377296fefb222a6e18b820"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q2_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      318.751,
+      528.658,
+      554.151
+    ],
+    "width": 931,
+    "height": 472,
+    "sha256": "6debad70e334620ccd7ecfb4a527aeca559cee6aabd1342f09d699ec812d2f47"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q3_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      350.451,
+      484.836,
+      447.751
+    ],
+    "width": 843,
+    "height": 196,
+    "sha256": "787b8a433fcaff07a28b875ed4fc8b1c3c87f44894373c0167c8833b6c92cbfe"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q3_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      579.751,
+      528.102,
+      742.751
+    ],
+    "width": 930,
+    "height": 327,
+    "sha256": "462fc9f12c1bb724b3dfb283c9ad9c70fff8598cea493540268979533218e109"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q4_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      462.701,
+      522.917,
+      614.851
+    ],
+    "width": 919,
+    "height": 305,
+    "sha256": "f87e37916477f0b34044d9b41c0f9ce6bdf211dd05ab03757c94a3eebc5347f8"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q4_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      68.501,
+      529.342,
+      276.601
+    ],
+    "width": 932,
+    "height": 417,
+    "sha256": "6cc407df118786121b5bebac14631a0fa89dd492c7ac5519cc10f3c9afaf5ad8"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q5_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      629.801,
+      513.767,
+      755.051
+    ],
+    "width": 901,
+    "height": 252,
+    "sha256": "125e7d30d18bde131ecefff6f23bc32869dcf614813f59c1ccebd92acb5f7fa6"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q5_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      283.901,
+      530.768,
+      477.351
+    ],
+    "width": 935,
+    "height": 388,
+    "sha256": "7983e2419eff28f9951fd9e18e9288807c15b0ba4e52154bf0fb95f73be83509"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q6_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      68.301,
+      531.275,
+      179.051
+    ],
+    "width": 936,
+    "height": 223,
+    "sha256": "e403c7aaeedfb5380081f3919d532f15b6842ba6a8a7ad7d57139bc1f1e9ca6e"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q6_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      492.501,
+      532.862,
+      656.651
+    ],
+    "width": 939,
+    "height": 329,
+    "sha256": "bfb4aa4caa263978a0daea29cca7287ba948a5db2eac97bb1319834646b1bf0c"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q7_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      194.001,
+      524.899,
+      331.651
+    ],
+    "width": 923,
+    "height": 276,
+    "sha256": "06202f23b7c2e182537223a817c192643db332bd31cbba4cbae8a5ede901a10b"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q7_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      671.801,
+      527.234,
+      762.701
+    ],
+    "width": 928,
+    "height": 183,
+    "sha256": "c1f5c94bf4ad75d00b02a919c7033952b9e8ebc0ac25adc744d23f4381149c86"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q7_correction_2.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 3,
+    "rect": [
+      81.95,
+      68.501,
+      530.858,
+      207.701
+    ],
+    "width": 899,
+    "height": 279,
+    "sha256": "b5b72e38c4569848445d251a6abb7df26bcbe4a67160e9b6436a7a72efa6c69c"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q8_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      346.601,
+      526.307,
+      471.851
+    ],
+    "width": 926,
+    "height": 251,
+    "sha256": "c728445ae60079b0a2848431e52d5b0874924bcaea2b3a7d4144c6c74f6338fb"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q8_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      222.851,
+      530.068,
+      401.651
+    ],
+    "width": 934,
+    "height": 359,
+    "sha256": "6ee6e05cf4d872cf85041bb10e1fb963196de75bc23dffaa82dac89bf44c9afe"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q9_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      486.801,
+      511.125,
+      584.101
+    ],
+    "width": 896,
+    "height": 196,
+    "sha256": "df737bf90e745237c571e55688d4a5b67d7954cf11ff242655a47e19952ec858"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q9_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      416.801,
+      525.22,
+      551.651
+    ],
+    "width": 924,
+    "height": 271,
+    "sha256": "b586198500bcfb04a0912a7647d5092244c87d805834bc7de9b0daf290c4889a"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q10_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      621.551,
+      498.566,
+      733.351
+    ],
+    "width": 871,
+    "height": 224,
+    "sha256": "40d724d580eb90871c0b4f3e9e51f88f73a3d1f4338163e7766c76b02c628131"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q10_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      566.801,
+      490.414,
+      687.001
+    ],
+    "width": 854,
+    "height": 242,
+    "sha256": "257230375afd47d928239d40dca5a7193be14c503487550190749685eea4128d"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q11_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      748.301,
+      515.875,
+      769.301
+    ],
+    "width": 905,
+    "height": 43,
+    "sha256": "96c656e432ead6219e00e47da61939ccbb448f03c4431a09e6cb1f362c6985a5"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q11_subject_2.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 3,
+    "rect": [
+      81.95,
+      68.301,
+      529.321,
+      170.001
+    ],
+    "width": 896,
+    "height": 205,
+    "sha256": "46f83a9ad30155e9054e60b27dfbe50ddc4f0e269ee4a913ebde54da616d4989"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q11_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      702.151,
+      530.416,
+      763.751
+    ],
+    "width": 934,
+    "height": 124,
+    "sha256": "7e5e7ab5ed96307838286ea1ea441d15be75eeda3ab52aa88eb19cc130bf1997"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q11_correction_2.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 4,
+    "rect": [
+      81.95,
+      68.501,
+      515.746,
+      163.751
+    ],
+    "width": 869,
+    "height": 191,
+    "sha256": "5fcd8682641dbb2af14dff13de9eee7e58afae37d1abd6b1ce70786613656b50"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q12_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      184.951,
+      431.225,
+      282.251
+    ],
+    "width": 736,
+    "height": 196,
+    "sha256": "06fe36adde91f43739a662d20037ca41b32d587376e7fabe6334bfa6564c5e92"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q12_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 4,
+    "rect": [
+      63.95,
+      178.901,
+      526.65,
+      312.601
+    ],
+    "width": 927,
+    "height": 269,
+    "sha256": "77da6d2c0a4f602fa23d42d26446ee245c44f937d493b48289a7be7361459d6a"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te1_q13_subject_1.png",
+    "source": "sources/histo_v5/te1_subject.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      297.201,
+      518.175,
+      394.501
+    ],
+    "width": 910,
+    "height": 196,
+    "sha256": "8de81157528ea1d64cfb91af2502300423c424effb807da125caebc0b0a8cc43"
+  },
+  {
+    "bank": "histo.te1",
+    "id": 13,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te1_q13_correction_1.png",
+    "source": "sources/histo_v5/te1_correction.pdf",
+    "page": 4,
+    "rect": [
+      63.95,
+      327.751,
+      533.412,
+      477.251
+    ],
+    "width": 940,
+    "height": 300,
+    "sha256": "45ce91f709852f578fc7e8100c078adc2eb5464552648aa625abb9b1e0769e70"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q1_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      90.809,
+      546.258,
+      183.093
+    ],
+    "width": 1035,
+    "height": 186,
+    "sha256": "e147467225242750cd5d579c0541f7c365b30adcc632e4e3b7f3949839078d3c"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q1_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      90.809,
+      546.258,
+      183.093
+    ],
+    "width": 1035,
+    "height": 186,
+    "sha256": "b751d8d538efd0b3a797a9b93835fca53db665f92910b9c2c4bd1382fd67115d"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q2_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      187.409,
+      457.95,
+      279.693
+    ],
+    "width": 858,
+    "height": 186,
+    "sha256": "1bd7f42f89c85b43b2e474d9456277dfbbf86fdee846de976369a92b2798e9a0"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q2_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      187.409,
+      563.448,
+      334.893
+    ],
+    "width": 1069,
+    "height": 296,
+    "sha256": "c82d97dadd24555b92aa7ab90e185af37ff2a47d83f62d961eabafea78a650b7"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q3_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      284.009,
+      522.652,
+      390.093
+    ],
+    "width": 988,
+    "height": 213,
+    "sha256": "4d9edfd9e7d2d8137bd0d15b573413862a8dd21e795c4b041a21e80bdfcb3106"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q3_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      339.209,
+      522.652,
+      445.293
+    ],
+    "width": 988,
+    "height": 213,
+    "sha256": "0f16e9209d4ce7c7003f493b1eff0094287e52926f84dc89147dcc443353d519"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q4_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      394.409,
+      506.9,
+      486.693
+    ],
+    "width": 956,
+    "height": 186,
+    "sha256": "14f23c2873ce269a938df22ccf4cd28e5fb88eb326d65fc579e7ac42c018b393"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q4_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      449.609,
+      545.516,
+      555.693
+    ],
+    "width": 1034,
+    "height": 213,
+    "sha256": "7fe59392137aed685e2e073f5142273f7fd33619595dd627bfe9562f278a5b19"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q5_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      491.009,
+      403.046,
+      583.293
+    ],
+    "width": 749,
+    "height": 185,
+    "sha256": "ccf6d091e13b5c94af0c68578336072a1deb7a9c30f5affe5748c868b3579d9c"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q5_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      560.009,
+      403.046,
+      652.293
+    ],
+    "width": 749,
+    "height": 185,
+    "sha256": "46129849c5c7543da59e32873590521c6a72bf8e62e7d92c325bb654aab3b87b"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q6_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      587.609,
+      550.244,
+      693.693
+    ],
+    "width": 1043,
+    "height": 213,
+    "sha256": "263719c9784396c2649f1935358b09ce6aacac2e00281fbc2866a3da64e5445d"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q6_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      656.609,
+      563.082,
+      776.493
+    ],
+    "width": 1069,
+    "height": 240,
+    "sha256": "329255347ea3d7196a16758269bbf8ea20062a35ed7267ecc13881b45449e3e3"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q6_correction_2.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 2,
+    "rect": [
+      47.1,
+      60.209,
+      565.212,
+      97.293
+    ],
+    "width": 1037,
+    "height": 75,
+    "sha256": "a8e3366966c73be3f1d0be74a90832a1930fc04c7ba9a60628c0d066a54e0904"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q7_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.1,
+      698.009,
+      561.272,
+      790.293
+    ],
+    "width": 1065,
+    "height": 185,
+    "sha256": "5e449706408fdde6771133a89bd4692cc6d7d3c5c90582b6e89e56bab58e0590"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q7_subject_2.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      33.051,
+      554.396,
+      138.693
+    ],
+    "width": 1051,
+    "height": 212,
+    "sha256": "5a1b529a207115ad665c6a6d2f264fc49ff84aafa537d96c465f1d4ea86a5b3b"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q7_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      115.409,
+      561.272,
+      331.893
+    ],
+    "width": 1065,
+    "height": 434,
+    "sha256": "bf917645b5bed43215c6d0a7d7c8b9c6ee48345a883a2ed413ee564d5f0c0d38"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q8_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      143.009,
+      564.872,
+      276.693
+    ],
+    "width": 1072,
+    "height": 268,
+    "sha256": "2a7b8da68e0889b7b18f12ea8c112c99abbf22073870062356b1cbfdea955684"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q8_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      336.209,
+      566.95,
+      497.493
+    ],
+    "width": 1076,
+    "height": 323,
+    "sha256": "300232e35872b71694953f6b06f82efe192d3e29a298d7ff1369c8f74753011e"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q9_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      281.009,
+      546.608,
+      387.093
+    ],
+    "width": 1036,
+    "height": 213,
+    "sha256": "f39701935d8809568786876947236f69169b4c7c98e1120a376fb13859b6dd40"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q9_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      515.609,
+      564.3,
+      635.493
+    ],
+    "width": 1071,
+    "height": 240,
+    "sha256": "63f30ea2d816350db18e20d0e46d3c2d1db74638549556d17d6eae9af3f186e1"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q10_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      391.409,
+      562.55,
+      483.693
+    ],
+    "width": 1068,
+    "height": 186,
+    "sha256": "1919714b9f631b435d37c048dac0f3f5db499d9f1a26d51329435775e9ac3a10"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q10_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      639.809,
+      562.172,
+      745.893
+    ],
+    "width": 1067,
+    "height": 213,
+    "sha256": "35d21e1503ebc76899ef2c3e06cb8ca131dcd8668cafa8a8bb49b391e383aeb3"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q11_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      488.009,
+      479.696,
+      580.293
+    ],
+    "width": 902,
+    "height": 185,
+    "sha256": "3d0c1d7604abcb3257b84e1063c8e16f3ea8b2b83dc2a8ac1f223cca4e382aac"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q11_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      750.209,
+      479.696,
+      787.293
+    ],
+    "width": 902,
+    "height": 75,
+    "sha256": "58e44f3180fad8bc241b69130e5a2a0d37fd38df5ac465e2a42b187d67b6911b"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q11_correction_2.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 3,
+    "rect": [
+      47.1,
+      60.209,
+      407.456,
+      124.893
+    ],
+    "width": 721,
+    "height": 130,
+    "sha256": "7a6c1d15923ff942c584bcd3be30bd39100f1f3e9dd4b7aa5066bfa680d60037"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q12_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      584.609,
+      564.524,
+      732.093
+    ],
+    "width": 1072,
+    "height": 296,
+    "sha256": "046d055beb83db884f59f93b147ac82b47b7f378d7e49587ad41e64741a4fd68"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q12_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      129.209,
+      564.524,
+      304.293
+    ],
+    "width": 1072,
+    "height": 351,
+    "sha256": "bfd17253a6377630a9561b38373a2012c9fba4e7c675488917a9931a43df7f25"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q13_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.1,
+      736.409,
+      556.708,
+      787.293
+    ],
+    "width": 1056,
+    "height": 103,
+    "sha256": "201d9d0efda8ef7f3cadcfc6e3a3866b9b2245cbd24f01d30dcc8e94f7196a82"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q13_subject_2.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      33.051,
+      320.78,
+      124.893
+    ],
+    "width": 584,
+    "height": 184,
+    "sha256": "c3a194d99c5742c3ec2cc11496b294cb1615f642d1f0267a3a45cf4d0391681d"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 13,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q13_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      308.609,
+      556.708,
+      442.293
+    ],
+    "width": 1056,
+    "height": 268,
+    "sha256": "d483f25c270293bbfbe4d79115a5b05c4eb2af25ef015652a488abe7e30def63"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 14,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q14_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      129.209,
+      569.35,
+      276.693
+    ],
+    "width": 1081,
+    "height": 296,
+    "sha256": "31e0d0774165ad326617b7840f338c34634d8893dcb16a035c8dac19a244debc"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 14,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q14_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      446.609,
+      569.35,
+      635.493
+    ],
+    "width": 1081,
+    "height": 378,
+    "sha256": "d4197049bd7e5931994a68be8843c210804464ff30801a678b699ddb0590ce85"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 15,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q15_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      281.009,
+      540.6,
+      387.093
+    ],
+    "width": 1024,
+    "height": 213,
+    "sha256": "d2fdd88bbdc612c1a2b469bf5365174ac4732269f8ba90c62fffcabe58523545"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 15,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q15_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      639.809,
+      545.132,
+      759.693
+    ],
+    "width": 1033,
+    "height": 241,
+    "sha256": "211c284d758483b746fb20cc8b85d86d5391448543ff1c9302424d6be6b2e3ab"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 16,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q16_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      391.409,
+      551.2,
+      497.493
+    ],
+    "width": 1045,
+    "height": 213,
+    "sha256": "c2d60ea5e7dc21bcc1b33e26aca59f8245e7428fe8c0e811724cd67c6c21556e"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 16,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q16_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      764.009,
+      201.596,
+      787.293
+    ],
+    "width": 346,
+    "height": 47,
+    "sha256": "421fae501cdd54d097bc41829a9ccd6603e0a4145449070e3f84827ff8dc3e91"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 16,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q16_correction_2.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 4,
+    "rect": [
+      47.1,
+      60.209,
+      563.776,
+      193.893
+    ],
+    "width": 1034,
+    "height": 268,
+    "sha256": "506e0be1c6ac2b7031089cc3948ccf8d1bba2f084c278e55fb1428321160b5c5"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 17,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q17_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      501.809,
+      558.2,
+      594.093
+    ],
+    "width": 1059,
+    "height": 186,
+    "sha256": "9fd4b47b93bcf90f00b11e43a35a9ceb81deb9afe2195284e7612bcccd075271"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 17,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q17_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 4,
+    "rect": [
+      29.1,
+      198.209,
+      562.212,
+      331.893
+    ],
+    "width": 1067,
+    "height": 268,
+    "sha256": "4628c3c7765bdc6d3a89004872fa69240f99dec2c0bfd709433ddd1b5d85245b"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 18,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q18_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      598.409,
+      492.3,
+      690.693
+    ],
+    "width": 927,
+    "height": 186,
+    "sha256": "fa85d43ff47b79181c4dd6aec1b87c02b33c03af70214def4808570f90e79af7"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 18,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q18_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 4,
+    "rect": [
+      29.1,
+      336.209,
+      568.2,
+      483.693
+    ],
+    "width": 1079,
+    "height": 296,
+    "sha256": "275bb4bd8e7ba90df4a6dcea2c73b17cc2ab83ecb6f7c9b938dda4d8e5be02dd"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 19,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q19_subject_1.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.1,
+      695.009,
+      557.25,
+      773.493
+    ],
+    "width": 1057,
+    "height": 157,
+    "sha256": "c220596f4163b8bb0a239f175c432fcceb92bbc9a1aa364f3c1f1d63ed0d8127"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 19,
+    "role": "subject",
+    "src": "static/histo_v5/histo_te2_q19_subject_2.png",
+    "source": "sources/histo_v5/te2_subject.pdf",
+    "page": 4,
+    "rect": [
+      29.1,
+      33.051,
+      543.248,
+      97.293
+    ],
+    "width": 1029,
+    "height": 129,
+    "sha256": "68638d34040614f5c149af0852b0d71ec7e15d92fffe209987f779a4498b7793"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 19,
+    "role": "correction",
+    "src": "static/histo_v5/histo_te2_q19_correction_1.png",
+    "source": "sources/histo_v5/te2_correction.pdf",
+    "page": 4,
+    "rect": [
+      29.1,
+      488.009,
+      567.7,
+      635.493
+    ],
+    "width": 1078,
+    "height": 295,
+    "sha256": "6df2682da2fd9abe6e22d7cc4baa6b01d8e07a954377da2ca9a2e80ad713bede"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q1_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      33.4,
+      535.982,
+      143.26
+    ],
+    "width": 1014,
+    "height": 221,
+    "sha256": "5389402d057aa94b140ed1dfcd59e47ee14a49e0ca7c88f47128837948bd13c4"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q1_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      48.04,
+      551.456,
+      187.3
+    ],
+    "width": 1045,
+    "height": 279,
+    "sha256": "01f0983df21cd16e148b7b3308cf54b2a6e5a209340bae85c9b6aaf4cfedc131"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q2_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      165.3,
+      559.154,
+      304.45
+    ],
+    "width": 1061,
+    "height": 279,
+    "sha256": "3e07cbaa981509547dbc75f05441279f7a240b85a0f3eeb504376e573a87bee0"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q2_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      194.58,
+      567.812,
+      348.37
+    ],
+    "width": 1078,
+    "height": 308,
+    "sha256": "f50dc0433d1b209dd48ae8864ddea11ec30a1b6507bee5c3b107f00b8e4caf1b"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q3_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      311.73,
+      555.194,
+      426.13
+    ],
+    "width": 1053,
+    "height": 230,
+    "sha256": "16c31adda14d036fecb546d835dbe4451d8eeac89114a7be57a8750163532736"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q3_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      341.01,
+      555.194,
+      471.27
+    ],
+    "width": 1053,
+    "height": 261,
+    "sha256": "867cf78028b9fdfdaea7fd99dd544e67e894685b053595da21b3e21cb193254d"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q4_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      442.79,
+      563.216,
+      573.03
+    ],
+    "width": 1069,
+    "height": 262,
+    "sha256": "ec131473989b0bd3712783c9d6c78e5b9270d8e2bbd593b784d9403ac493a7b7"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q4_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      473.27,
+      563.216,
+      619.23
+    ],
+    "width": 1069,
+    "height": 293,
+    "sha256": "fab9acf78a4f65bdf088c835cc7cfaed6ec63d0ef87f3761ae1d8ae536403594"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q5_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      574.91,
+      565.636,
+      699.54
+    ],
+    "width": 1074,
+    "height": 251,
+    "sha256": "30366dff60b4aa3e00736e087881af5a75f5fff5c861ce85d861949f7084c40d"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q5_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      645.02,
+      565.636,
+      798.896
+    ],
+    "width": 1074,
+    "height": 308,
+    "sha256": "91d82286b9cc1441baab00d7b5dc4827d9994a1c08af864b1d2a36123e08944b"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q6_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 1,
+    "rect": [
+      29.0,
+      706.82,
+      560.64,
+      802.016
+    ],
+    "width": 1064,
+    "height": 192,
+    "sha256": "8c3011bb0d8848ecfecc3dacb1d0d881cbab1692b7043e295b9baf2729ce15a7"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q6_subject_2.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 2,
+    "rect": [
+      47.0,
+      31.54,
+      433.622,
+      70.04
+    ],
+    "width": 774,
+    "height": 78,
+    "sha256": "d2959bef4282bf2c70ed28fcc56a389f0298bb22d6d6c6b8147320ecf8761797"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q6_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      48.04,
+      562.226,
+      216.58
+    ],
+    "width": 1067,
+    "height": 338,
+    "sha256": "cbd53deba851615146a823e2d2f7f6d568580a35e945074e56db5e988ddb5ee5"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q12_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      77.34,
+      550.058,
+      216.58
+    ],
+    "width": 1043,
+    "height": 280,
+    "sha256": "915a0a4436a53206291ab5e8175292bd779af819bd2d9f3fb1a1666f6fa2df56"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q12_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      223.86,
+      563.24,
+      377.77
+    ],
+    "width": 1069,
+    "height": 309,
+    "sha256": "6f55c1e16a9f4a00ed1181569596b59bddca3c02c55b3c2cbd442795a1c577fc"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q7_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      223.86,
+      549.192,
+      348.37
+    ],
+    "width": 1041,
+    "height": 250,
+    "sha256": "b5ebfa5a23d3d768385ca83746439163715e188bdfad5dc9e405af47ad3b5646"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q7_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      399.69,
+      566.0,
+      568.11
+    ],
+    "width": 1074,
+    "height": 338,
+    "sha256": "e29ec39dc1ed4b36a03581e1d9fce582b98c750fa550fff400884e975e3a9d01"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q8_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      355.77,
+      538.994,
+      465.63
+    ],
+    "width": 1020,
+    "height": 221,
+    "sha256": "352dbc49abb439e9fad1d729df7fbbff1a4c51fdc94b368cbdb8ab1bb5008f0d"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q8_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      575.51,
+      538.994,
+      685.38
+    ],
+    "width": 1020,
+    "height": 220,
+    "sha256": "b18ebd4985f037de2dc418cd4c745319d1c0e208b22daa10ccb253e541325938"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q9_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      472.91,
+      526.292,
+      612.15
+    ],
+    "width": 995,
+    "height": 280,
+    "sha256": "6fbb81c723de5655a491337654a87b8934649f26573cb414efdb25fcce607441"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q9_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      707.3,
+      524.826,
+      802.616
+    ],
+    "width": 992,
+    "height": 192,
+    "sha256": "af4bffe6bd626fd9f117d013a6a2df20371ddb2bba03ce76b557dfdab044318e"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q9_correction_2.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 3,
+    "rect": [
+      47.0,
+      31.54,
+      537.392,
+      99.34
+    ],
+    "width": 981,
+    "height": 136,
+    "sha256": "273d9fb3fb59992765a1bb6c39a0ed7dbdaed03ad890b4539effee178fe4691b"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q10_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 2,
+    "rect": [
+      29.0,
+      619.46,
+      565.058,
+      758.576
+    ],
+    "width": 1073,
+    "height": 280,
+    "sha256": "99a9bee02027017a9390348959e15bd00c2141bf405d93cc65a54da8d5f1827b"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q10_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.0,
+      106.62,
+      564.792,
+      289.81
+    ],
+    "width": 1072,
+    "height": 367,
+    "sha256": "910625b02fc72f18526d545073d7e38c3827db921a676b71dafcc2caa1508002"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q13_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.0,
+      33.4,
+      557.72,
+      147.82
+    ],
+    "width": 1058,
+    "height": 230,
+    "sha256": "d95b2e4561a5510a0dac37f0aa811af7aa20f458c377456a860ddabc29d313ca"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 13,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q13_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.0,
+      311.73,
+      556.28,
+      441.97
+    ],
+    "width": 1055,
+    "height": 261,
+    "sha256": "e14dfeeb8398b994d25b405db971ba92e09c8d431d0c801c290fc2199292534b"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_autotech_q11_subject_1.png",
+    "source": "sources/histo_v5/autotech_subject.pdf",
+    "page": 3,
+    "rect": [
+      29.0,
+      164.46,
+      546.428,
+      435.49
+    ],
+    "width": 1035,
+    "height": 543,
+    "sha256": "6e11f4df762003b78410472002a6f032deb70a92f0d62883b1403289ea66d3ca"
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_autotech_q11_correction_1.png",
+    "source": "sources/histo_v5/autotech_correction.pdf",
+    "page": 3,
+    "rect": [
+      29.0,
+      458.63,
+      546.278,
+      744.3
+    ],
+    "width": 1035,
+    "height": 572,
+    "sha256": "36409c4e31bc1ae698ac48a8da794fe88526c98bed09aecfe7adfbe8f83888b1"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q1_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      64.109,
+      556.848,
+      179.993
+    ],
+    "width": 1052,
+    "height": 232,
+    "sha256": "ed9547ea602a7a7fa21ce2c4ea1d46ab62f08823e46c301674b0dc015c2effac"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q1_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      64.109,
+      556.848,
+      179.993
+    ],
+    "width": 1052,
+    "height": 232,
+    "sha256": "e4ed9ac581add5832e5f41b35ea052d26a6adf75512696a72cf09bea41a94a3e"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q2_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      188.309,
+      409.6,
+      276.593
+    ],
+    "width": 758,
+    "height": 178,
+    "sha256": "4b5af077003de9b0013006a0b5a5d4f632adfe206b8e9dedea005a9c591bdb48"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q2_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      188.309,
+      554.44,
+      304.193
+    ],
+    "width": 1047,
+    "height": 233,
+    "sha256": "be6e1204725b052cc664c529adae8c9d37fd56bfda5845d5973fb38d2455fd97"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q3_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      284.909,
+      432.95,
+      373.193
+    ],
+    "width": 804,
+    "height": 178,
+    "sha256": "e84784358fcbb006daa1f8c0acc7b30cf34da1219521d75ac2f18f22b485fb2e"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q3_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      312.509,
+      530.142,
+      428.393
+    ],
+    "width": 999,
+    "height": 232,
+    "sha256": "5d835d203a17f62fbe96f20af2592264c3a3b0ac7b50d0a918c200d7da1b2ff0"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q4_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      381.509,
+      277.65,
+      469.793
+    ],
+    "width": 494,
+    "height": 177,
+    "sha256": "c0f2b8bf59724f80d5ff119758b2a8d697f255425404832a0c3df4a48bcbff20"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q4_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      436.709,
+      563.476,
+      538.793
+    ],
+    "width": 1065,
+    "height": 205,
+    "sha256": "9ebbf69a75d77c3d1d48d8810da77d6a3ab809833d5e1a6ae5914c08c04f106e"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q5_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      478.109,
+      471.6,
+      593.993
+    ],
+    "width": 882,
+    "height": 232,
+    "sha256": "4b2a0fe680694f41e73ab82d5dfa2265e033dd3714fb7d089911cef09c507446"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q5_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      547.109,
+      540.812,
+      662.993
+    ],
+    "width": 1020,
+    "height": 232,
+    "sha256": "2faccac2eecd7efc5d395caf6501bd4d6ea3ee2fc0cf8eb75f25701317574d5e"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q6_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      602.309,
+      451.25,
+      690.593
+    ],
+    "width": 841,
+    "height": 178,
+    "sha256": "551f0eaf1e439d623255e0f4bdb6bd73b2729db0926a1d5ec4f3b784357fe90b"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q6_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      671.309,
+      527.72,
+      759.593
+    ],
+    "width": 994,
+    "height": 178,
+    "sha256": "6c5cf791675f4ddf81c19085336ccedcd035bf243d57c3912a0682a11490e6ba"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q7_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      698.909,
+      532.284,
+      800.993
+    ],
+    "width": 1003,
+    "height": 205,
+    "sha256": "6f4c9c2a61cd99b7ec0b1f1df01f5f8d1d177a9a6e864270082b1d2785da10a5"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q7_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      767.909,
+      354.63,
+      800.993
+    ],
+    "width": 648,
+    "height": 67,
+    "sha256": "b735217f53e2e1d095845840a0a31512ec25cba43dc5366833407ca8760d19e1"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q7_correction_2.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 2,
+    "rect": [
+      49.1,
+      33.509,
+      556.642,
+      135.593
+    ],
+    "width": 1016,
+    "height": 205,
+    "sha256": "bcf1e986e4f50c1523ab345434ef1472c439161e3a27e9b3d75b7879801a5340"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q8_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      47.309,
+      449.9,
+      135.593
+    ],
+    "width": 838,
+    "height": 178,
+    "sha256": "6ae2d9a9c455a0a8bfc9308266a85ef5a350df9771221c90ec1c56c2b74c6ff9"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q8_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      143.909,
+      565.55,
+      245.993
+    ],
+    "width": 1070,
+    "height": 205,
+    "sha256": "739852d1c0bcc0651403348f0674fc78dba156fcc1803675a7ee8b3547ab99e1"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q9_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      143.909,
+      494.628,
+      245.993
+    ],
+    "width": 928,
+    "height": 205,
+    "sha256": "bd6cc3578679e927195fb297293759c5f13328062690103a71d135c1ae69ec43"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q9_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      254.309,
+      536.79,
+      356.393
+    ],
+    "width": 1012,
+    "height": 205,
+    "sha256": "dbbb21157a0640a46334de2a33e2d07daa58973f84f230d96e67f863c4b07504"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q10_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      254.309,
+      414.95,
+      342.593
+    ],
+    "width": 768,
+    "height": 178,
+    "sha256": "42eeda59bf6cbdc48ad952656b43fbdf570bfcfa088232091aedd497c2248052"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q10_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      364.709,
+      513.854,
+      452.993
+    ],
+    "width": 966,
+    "height": 177,
+    "sha256": "23d95bdbe372ef1d73a6638164c5991115c5460aca0478a8e1147a5161163ad1"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q11_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      350.909,
+      449.25,
+      439.193
+    ],
+    "width": 837,
+    "height": 178,
+    "sha256": "495102e02535f6a9b1ebdae3209998e51e0709ddbf252feded01d3f531d37a34"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q11_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      475.109,
+      516.032,
+      590.993
+    ],
+    "width": 971,
+    "height": 232,
+    "sha256": "ad198a60133a33187afc0b569ee6d19b1d8563b5ed525a799d926709bc69ef06"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc1_q12_subject_1.png",
+    "source": "sources/histo_v5/tc1_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      447.509,
+      561.24,
+      549.593
+    ],
+    "width": 1061,
+    "height": 205,
+    "sha256": "4c661f286c4627576dfbaa42905fb2fa045db426374e658417f121ea7e0f16cb"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc1_q12_correction_1.png",
+    "source": "sources/histo_v5/tc1_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      599.309,
+      561.24,
+      728.993
+    ],
+    "width": 1061,
+    "height": 260,
+    "sha256": "3adac7e991ed4cb971d412e0b2de03fd38267e6ed9c90f22043fb19a5537b85b"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q1_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 1,
+    "rect": [
+      69.25,
+      102.801,
+      493.31,
+      194.051
+    ],
+    "width": 849,
+    "height": 184,
+    "sha256": "8dd64225d899e0735e4ae11c20cc456ed837ced74addf792089b9008d7bfd088"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q1_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 1,
+    "rect": [
+      34.4,
+      50.309,
+      530.64,
+      152.393
+    ],
+    "width": 994,
+    "height": 205,
+    "sha256": "e949068b1fa8c730c0d61f77065e53a48e3f3cb93e592e090f218e327c7496c2"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q2_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 1,
+    "rect": [
+      69.25,
+      205.351,
+      430.162,
+      296.601
+    ],
+    "width": 723,
+    "height": 184,
+    "sha256": "b0470061ac3a6e529acdcfd111225c7773df5724d9eb7781c9264a9cd4288bac"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q2_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 1,
+    "rect": [
+      34.4,
+      160.709,
+      506.604,
+      248.993
+    ],
+    "width": 946,
+    "height": 177,
+    "sha256": "0e1319bf716199d2b9708daab1217af720242d4d8f6ed158a748b33168020837"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q3_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 1,
+    "rect": [
+      65.95,
+      307.901,
+      530.762,
+      443.101
+    ],
+    "width": 931,
+    "height": 272,
+    "sha256": "b068784dfb413ca3186f416e192a981c588befc59e0c20e9bac29eb3c0f7183e"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q3_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      257.309,
+      556.198,
+      400.793
+    ],
+    "width": 1051,
+    "height": 288,
+    "sha256": "c3cf22b8cc10e4b1113fb894c055419074dab6172c33e217b7ea2e3b3a19158e"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q4_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 1,
+    "rect": [
+      65.95,
+      454.401,
+      508.574,
+      560.301
+    ],
+    "width": 887,
+    "height": 213,
+    "sha256": "1388033e727fd1b717eb17c86e84a315da81cdbe7c7ea4cb0dcec7ff1239f1db"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q4_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      409.109,
+      551.912,
+      511.193
+    ],
+    "width": 1042,
+    "height": 205,
+    "sha256": "be148ea6e70e5422c9bb86ad848ad495da794ccb5214e632a65c000407df1f6d"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q5_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 1,
+    "rect": [
+      65.95,
+      571.601,
+      452.65,
+      662.851
+    ],
+    "width": 775,
+    "height": 183,
+    "sha256": "0065bd30b5f514fe049caa9ea331b066c3a0f69962c6fae7f2c0eb6cf0d9b1bf"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q5_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      519.509,
+      551.982,
+      649.193
+    ],
+    "width": 1042,
+    "height": 260,
+    "sha256": "23f4ca6539d4dc81681d0a3f5adf61c715d78eb5eb08f6b67e2276771e2d92f4"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q6_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 1,
+    "rect": [
+      65.95,
+      674.151,
+      529.812,
+      770.001
+    ],
+    "width": 929,
+    "height": 193,
+    "sha256": "b2e09fff8bd995d0770f3200c3361af90ee1f16052f296308cd670b0c05baa9e"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q6_subject_2.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 2,
+    "rect": [
+      83.95,
+      70.501,
+      434.312,
+      104.301
+    ],
+    "width": 702,
+    "height": 68,
+    "sha256": "67bc90efa24e334c0dbbc55669edd39d32658b14ff76ffe6a06cb95a2345ae43"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q6_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      685.109,
+      555.24,
+      800.443
+    ],
+    "width": 1049,
+    "height": 231,
+    "sha256": "b383dfea2dd9e276eca94be9095e20c00229772f5f16942e5546822fc476ad96"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q6_correction_2.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      49.1,
+      33.509,
+      501.264,
+      67.693
+    ],
+    "width": 905,
+    "height": 69,
+    "sha256": "30302d84cdeefad9cbbb11c633ca7269d5fb0ce227d0c75a2d8db30cf2aad091"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q7_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 2,
+    "rect": [
+      65.95,
+      124.751,
+      303.612,
+      220.601
+    ],
+    "width": 477,
+    "height": 193,
+    "sha256": "c9277ab6de9e79b7a137e62caaf9441ffe8277bc49147c4c2965d286b48bd194"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q7_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      85.109,
+      446.76,
+      177.793
+    ],
+    "width": 832,
+    "height": 186,
+    "sha256": "c6d40c9cab0ed829c9ed4de3a6dca18914d935ea04bbbd22ad2762f97cbed3fc"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q8_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 2,
+    "rect": [
+      65.95,
+      241.051,
+      404.512,
+      336.901
+    ],
+    "width": 679,
+    "height": 192,
+    "sha256": "ad1b05779515d6667b03eec6473aef7018f3bd61aa55eea16d6da7b65f9fa4b0"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q8_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      195.209,
+      565.6,
+      302.793
+    ],
+    "width": 1070,
+    "height": 216,
+    "sha256": "fc95507c9082ccfe08feddf3d2b654cf989d946afe44928396a54fcba1808cbd"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q9_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 2,
+    "rect": [
+      65.95,
+      342.701,
+      522.566,
+      454.351
+    ],
+    "width": 915,
+    "height": 224,
+    "sha256": "5ecd111b249b12fa67ae914266d654b58cc6dfbbf994d13f90ca67c1e0579b0e"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q9_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      306.409,
+      557.52,
+      428.893
+    ],
+    "width": 1054,
+    "height": 246,
+    "sha256": "ede15a66f0b5c45071ad29c935d10adb8a2990769b9e62820b9843f21b7994b0"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q10_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 2,
+    "rect": [
+      65.95,
+      460.151,
+      527.15,
+      587.601
+    ],
+    "width": 924,
+    "height": 256,
+    "sha256": "8c08482d9d753174db7b1f300cbc2d7ef44b669a9a0646d968f9e4072976c26f"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q10_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      432.509,
+      560.112,
+      599.693
+    ],
+    "width": 1059,
+    "height": 335,
+    "sha256": "34a71b9213ee9fb6e9ea315c5bf395c9387f9c91d6296c4c0a3a6af72ce04d67"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q11_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 2,
+    "rect": [
+      65.95,
+      593.401,
+      524.962,
+      713.951
+    ],
+    "width": 919,
+    "height": 242,
+    "sha256": "be56183c4d071b37bccb4f97d6d4d1cfe07f27a093ba5800580b173f7eaf6eda"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q11_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      603.309,
+      538.51,
+      719.193
+    ],
+    "width": 1016,
+    "height": 233,
+    "sha256": "8f26671760507e15a17892f2ce06e63d1dbb8576ab880968f17e756a619598f8"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q12_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 3,
+    "rect": [
+      65.95,
+      70.501,
+      527.712,
+      191.051
+    ],
+    "width": 925,
+    "height": 242,
+    "sha256": "bb0265cdb3aeb22f662cfef9540b6af18e55110271e7b651cd9c999daad4f635"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q12_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      727.509,
+      566.25,
+      801.993
+    ],
+    "width": 1071,
+    "height": 149,
+    "sha256": "33e67e7a2a72cca4fcc27adeb120c4eb9906100536131b7b4923c10c06d90706"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q12_correction_2.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 3,
+    "rect": [
+      49.1,
+      33.509,
+      561.9,
+      94.193
+    ],
+    "width": 1026,
+    "height": 122,
+    "sha256": "064f39b257459945e5bcceed315c4c40897e9fbf26796027299ca4747b502ec1"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc2_q13_subject_1.png",
+    "source": "sources/histo_v5/tc2_subject.pdf",
+    "page": 3,
+    "rect": [
+      65.95,
+      202.351,
+      522.41,
+      329.801
+    ],
+    "width": 914,
+    "height": 256,
+    "sha256": "7f5415ed953c0733509b06ab26efe5ae9d696e8a25d270f509fc452f00a1a137"
+  },
+  {
+    "bank": "histo.tc2",
+    "id": 13,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc2_q13_correction_1.png",
+    "source": "sources/histo_v5/tc2_correction.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      102.509,
+      561.146,
+      254.793
+    ],
+    "width": 1061,
+    "height": 305,
+    "sha256": "1c7a0494912e99797627160ebc9f34728802aaaa4de5e19bd0eba78360ef7bd8"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q1_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      64.109,
+      503.2,
+      152.393
+    ],
+    "width": 945,
+    "height": 177,
+    "sha256": "4bf22e7565f0e62f00578ef65564755b28a173e3639af326d3d55cb1171a664a"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q1_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      64.109,
+      547.178,
+      207.593
+    ],
+    "width": 1033,
+    "height": 288,
+    "sha256": "edac16ab950bcc3b1a12c19e689fcf2399c1f4756aa486f510acc74bf3c9f634"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q2_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      160.709,
+      475.696,
+      248.993
+    ],
+    "width": 890,
+    "height": 177,
+    "sha256": "22e2d326862c53118cf3366089d57f896603a14f3a67d9f914add85f7d87ee1b"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q2_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      215.909,
+      567.25,
+      317.993
+    ],
+    "width": 1073,
+    "height": 205,
+    "sha256": "7887a7cd9cbffc51b8329a6cffa24806d01505c4dfc2d5a3f64582cd06116a23"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q3_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      257.309,
+      443.95,
+      345.593
+    ],
+    "width": 826,
+    "height": 178,
+    "sha256": "fa7b2ee49629f2d1d7fa94935eedc709a7df55356453cd4c3f2f150bd744a5cd"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q3_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      326.309,
+      558.142,
+      442.193
+    ],
+    "width": 1055,
+    "height": 233,
+    "sha256": "e3bdf45264be9a1473ef7ef280a5baf4bd985e8361dcd6a11fd30b9dcfde5fc3"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q4_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      353.909,
+      525.25,
+      442.193
+    ],
+    "width": 989,
+    "height": 178,
+    "sha256": "83d494cfb43687e621f2162e9e9f949cfbf83e96a6f0cc585164072f10e1d77f"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q4_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      450.509,
+      563.878,
+      607.793
+    ],
+    "width": 1066,
+    "height": 315,
+    "sha256": "30256e7b437779910f7c6bbdb0aedaa54503708e314e92954a3dec27c4b2acdb"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q5_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      450.509,
+      500.35,
+      538.793
+    ],
+    "width": 939,
+    "height": 177,
+    "sha256": "45a57e8dbeaec3b63016b69d7da99c4d3d8e55319c0cfe5be538bf9b4841c36f"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q5_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      671.309,
+      562.368,
+      800.993
+    ],
+    "width": 1063,
+    "height": 260,
+    "sha256": "eb18b97c2d2f0491c7986da91b5cf310b2bd4eb395936ccfde46fcaeb2811fc5"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q6_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      547.109,
+      457.25,
+      635.393
+    ],
+    "width": 853,
+    "height": 177,
+    "sha256": "3741e63ba6d8e644fbff546516f8d3757762f4b6eb3c695374a2fef3c05e3dc2"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q6_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      47.309,
+      554.552,
+      176.993
+    ],
+    "width": 1048,
+    "height": 260,
+    "sha256": "0dcbac898258501e4546d4872d62b1419c187d99e7fe24da4086db828426eca4"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q7_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      643.709,
+      542.65,
+      745.793
+    ],
+    "width": 1024,
+    "height": 205,
+    "sha256": "71544ac617df5aa6714545ce53107e1f7f75cc6230f10bb93f3acd5efebbcf24"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q7_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      185.309,
+      550.876,
+      328.793
+    ],
+    "width": 1040,
+    "height": 288,
+    "sha256": "d7c4c9323e022aa8a791c372a89a123fd8cdb09a49ecb7dc3a8fac96a0ef7105"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q8_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 1,
+    "rect": [
+      31.1,
+      754.109,
+      389.65,
+      787.193
+    ],
+    "width": 718,
+    "height": 67,
+    "sha256": "51a738793560bb8fc687274b7760e27e1e99f2b27ae10cc78321dc5f5ed4b9a1"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q8_subject_2.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      49.1,
+      33.509,
+      553.572,
+      121.793
+    ],
+    "width": 1010,
+    "height": 177,
+    "sha256": "b0f54f9b61690cd7ec1a65ce57aa62c21d0a316f448471fa09aa289530c91c1b"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q8_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      337.109,
+      565.65,
+      480.593
+    ],
+    "width": 1070,
+    "height": 288,
+    "sha256": "c73b0e59f28b3e96d1b808eb97c781cfc788633f98a90a0f67f29e53d73874d3"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q9_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      130.109,
+      561.24,
+      245.993
+    ],
+    "width": 1061,
+    "height": 232,
+    "sha256": "2ae357a3a4ad08fb8d5d0ccc59851e5b8b789b0714ef60cd1c251abb67e00948"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q9_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      502.709,
+      561.24,
+      659.993
+    ],
+    "width": 1061,
+    "height": 315,
+    "sha256": "b5a728799f6ceea9f48f70e8fa775b2d8406c9a43db110f25c7df3127b349a61"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q10_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      254.309,
+      533.568,
+      356.393
+    ],
+    "width": 1006,
+    "height": 205,
+    "sha256": "468a6d5c72ab9615bd3cfaf6619459328d7eb031a3b92b9419c7dd79d93a229e"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q10_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      668.309,
+      533.568,
+      770.393
+    ],
+    "width": 1006,
+    "height": 205,
+    "sha256": "e553e4d13184a2db19b488289ff95f77e11fc69849012320ed8d219878ccfe0f"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q11_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      364.709,
+      557.844,
+      466.793
+    ],
+    "width": 1054,
+    "height": 205,
+    "sha256": "fc65992d09455784238187bde4f118a343035760fdcc2e1a1e351b0848bffc24"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q11_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      47.309,
+      557.844,
+      204.593
+    ],
+    "width": 1054,
+    "height": 316,
+    "sha256": "e0197d70e7c88dbc4b7afdf435bd719363a9a4c3825a9f73aba9f705759854b5"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q12_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      488.909,
+      560.996,
+      577.193
+    ],
+    "width": 1060,
+    "height": 178,
+    "sha256": "da274ba33aeffa0927808d91996fd9ee9b6c28eca9d0580384bc13fe41e7d68e"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q12_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      226.709,
+      560.996,
+      342.593
+    ],
+    "width": 1060,
+    "height": 233,
+    "sha256": "5ebcfee4156807d9c5c332e0453fc0d20eaa103361902ccd0ae82aeafff76e83"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q13_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      585.509,
+      561.6,
+      728.993
+    ],
+    "width": 1062,
+    "height": 287,
+    "sha256": "ae9865da21570e0b9c202d589dad8f7332e582d6add1867c011b06872d42d876"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 13,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q13_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      392.309,
+      561.6,
+      563.393
+    ],
+    "width": 1062,
+    "height": 343,
+    "sha256": "47451a54df0b7fc6e45ae570790b7b8a784891cec8f208afb57bbcb47d9a4393"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 14,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q14_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 2,
+    "rect": [
+      31.1,
+      751.109,
+      559.356,
+      797.993
+    ],
+    "width": 1057,
+    "height": 94,
+    "sha256": "951aa8b7af85e974e7588f25ec9b9d556e4bd844e45c95600c433d4d6340c8a3"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 14,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q14_subject_2.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      49.1,
+      33.509,
+      549.54,
+      121.793
+    ],
+    "width": 1002,
+    "height": 177,
+    "sha256": "846b2854fc9e219eb9565cf3bb30db7e3659ba8ab73c127025d4cbdc896c1f20"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 14,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q14_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      585.509,
+      565.45,
+      728.993
+    ],
+    "width": 1069,
+    "height": 287,
+    "sha256": "0932ebf1ee3e453fe164c93c004bb0fb12b60ffa7b741263e7881e39c74d7edd"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 15,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q15_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      130.109,
+      556.212,
+      232.193
+    ],
+    "width": 1051,
+    "height": 205,
+    "sha256": "88aea4942cefac48396ee736b3a55cbb6788eb3e61a5313a8aaa35db778937b4"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 15,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q15_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      737.309,
+      447.6,
+      797.993
+    ],
+    "width": 834,
+    "height": 122,
+    "sha256": "374727c290382ceac96d1c45b1ea79f6ae883ffc9e2c95c668aaacea57d46443"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 15,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q15_correction_2.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 4,
+    "rect": [
+      49.1,
+      33.509,
+      556.212,
+      94.193
+    ],
+    "width": 1015,
+    "height": 122,
+    "sha256": "e5edd608e6cbf73432b9e5de3dfe44a9b0a02433746202a0c993e2c31c59afcb"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 16,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q16_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      309.509,
+      469.996,
+      397.793
+    ],
+    "width": 878,
+    "height": 177,
+    "sha256": "3c8027a9fd2dd658560bd07e07cab3086f02304af06c5c98e3c813299093c683"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 16,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q16_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      116.309,
+      511.998,
+      218.393
+    ],
+    "width": 962,
+    "height": 205,
+    "sha256": "9c650439ceae60e34bdcd73be2b4af294a12b4fee46ffa3d6ba1824452b0d665"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 17,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q17_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      406.109,
+      560.928,
+      521.993
+    ],
+    "width": 1060,
+    "height": 232,
+    "sha256": "f9e7c92f8703e5505531555ba52f2b6b238e2757bf68c77e50a42f49974ad20e"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 17,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q17_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      240.509,
+      560.928,
+      383.993
+    ],
+    "width": 1060,
+    "height": 287,
+    "sha256": "bd7343b0ec55d8e1e19e82cf1a1881b9353f6cdc1f61b8b4677179909e75017c"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 18,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q18_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      530.309,
+      350.65,
+      618.593
+    ],
+    "width": 640,
+    "height": 178,
+    "sha256": "0225007ff184d4fd67d84e1804b8b0c8a6fdfcb5b7ba62054c6e090c628c526a"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 18,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q18_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      392.309,
+      560.916,
+      494.393
+    ],
+    "width": 1060,
+    "height": 205,
+    "sha256": "6d285a67b1bca363f45fb78ba9e7503ef99e8006179ad1ae8feca0b79b3d19a3"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 19,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q19_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      626.909,
+      464.65,
+      715.193
+    ],
+    "width": 868,
+    "height": 178,
+    "sha256": "bca36a83c902c5e0c988021ebb3ecca599f4703d961ff2df5c52ac30f19ad986"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 19,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q19_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      502.709,
+      560.372,
+      618.593
+    ],
+    "width": 1059,
+    "height": 233,
+    "sha256": "f8b53bdb3c570a6ee5631a7b746d7d0a27610aec7c692016f74def5d581453cd"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 20,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q20_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 3,
+    "rect": [
+      31.1,
+      723.509,
+      567.3,
+      797.993
+    ],
+    "width": 1073,
+    "height": 149,
+    "sha256": "34e75d8235f56434bb47b4c2feba17367e42b6a7738397a01ff7bdbca24240d2"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 20,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q20_subject_2.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 4,
+    "rect": [
+      49.1,
+      33.509,
+      555.948,
+      94.193
+    ],
+    "width": 1014,
+    "height": 122,
+    "sha256": "4cd56223cc05b6f359dbc309f1e53952d436f29ee5a3a6ec3408a615af93a642"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 20,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q20_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      626.909,
+      567.3,
+      797.993
+    ],
+    "width": 1073,
+    "height": 343,
+    "sha256": "0b6caa9cc6bb9f0aa6a2b9ef0065f0a1d4a9ca36d786aa21de1f48e6d59fb96a"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 20,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q20_correction_2.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 5,
+    "rect": [
+      49.1,
+      33.509,
+      469.25,
+      52.793
+    ],
+    "width": 841,
+    "height": 39,
+    "sha256": "8b66e5fdd25a754b1990a6d267d21da5a4c358dca32319f565f81b1093085a6e"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 21,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q21_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      116.309,
+      256.046,
+      201.909
+    ],
+    "width": 451,
+    "height": 172,
+    "sha256": "c23158101dcf58c1cf22e91acfc6bd0e4477226704a2e8d70a9bf8ed41d12c34"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 21,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q21_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 5,
+    "rect": [
+      31.1,
+      74.909,
+      395.414,
+      163.193
+    ],
+    "width": 729,
+    "height": 178,
+    "sha256": "48e6032701d34d3358f3d94f3e2b3108a124a9408283f5e20ccaf5d9c04f4b8d"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 22,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q22_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      199.109,
+      558.204,
+      301.193
+    ],
+    "width": 1055,
+    "height": 205,
+    "sha256": "00777c48fa07d7b8614645dcefbe8675cbaa7f132fe09ab9e98391d03d0d8f9b"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 22,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q22_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 5,
+    "rect": [
+      31.1,
+      171.509,
+      564.152,
+      342.593
+    ],
+    "width": 1067,
+    "height": 343,
+    "sha256": "d5d3070f04938ccb31e639035091b0f3a541084d75a6123111537143f789dbc6"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 23,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q23_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      309.509,
+      564.9,
+      425.393
+    ],
+    "width": 1068,
+    "height": 232,
+    "sha256": "bf9da1c8868cc27893457902b15df72f80b0debc70eef7df9827c2204e66e927"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 23,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q23_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 5,
+    "rect": [
+      31.1,
+      350.909,
+      564.9,
+      494.393
+    ],
+    "width": 1068,
+    "height": 288,
+    "sha256": "3d3e47e1d9caf59eef238864adcb38887fea4850dac5c27289ed9b07e1700fc6"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 24,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tc3_q24_subject_1.png",
+    "source": "sources/histo_v5/tc3_subject.pdf",
+    "page": 4,
+    "rect": [
+      31.1,
+      433.709,
+      382.65,
+      521.993
+    ],
+    "width": 704,
+    "height": 177,
+    "sha256": "fa0afdde8831e0f83abe0729ab80a1716827910c579d35f954487b5a98fd558d"
+  },
+  {
+    "bank": "histo.tc3",
+    "id": 24,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tc3_q24_correction_1.png",
+    "source": "sources/histo_v5/tc3_correction.pdf",
+    "page": 5,
+    "rect": [
+      31.1,
+      502.709,
+      558.24,
+      646.193
+    ],
+    "width": 1055,
+    "height": 288,
+    "sha256": "a416b0da7e10094eace361cf47ee7086bc8693f4f43694b2e1fbec3c91f7e636"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q1_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      97.75,
+      521.34,
+      171.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "d77429127f90d4871ba58af984d619fcc6fc5182165db35612468a10a79b4ff4"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q1_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      52.1,
+      567.2,
+      145.18
+    ],
+    "width": 1071,
+    "height": 187,
+    "sha256": "aa8ad7dd2daf8ec1876bc857e9c1b003a057674d7a175be159832eb4acb96a58"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q2_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      174.75,
+      521.34,
+      248.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "0a124d5bc7450dbeff3f9121643e1bdc5198b7f806f0f59149c7eaf2eafd377a"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q2_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      148.3,
+      567.2,
+      233.73
+    ],
+    "width": 1071,
+    "height": 172,
+    "sha256": "5aad0581080dc201ee81416af6b51be5f1fc34745c0f8ec84f196e0282afddf5"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q3_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      251.75,
+      521.34,
+      325.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "6f83de9c3d5d490388942701feaeda4d2d1c04f777691ba39cce5ca8a27788e5"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q3_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      236.85,
+      567.2,
+      334.93
+    ],
+    "width": 1071,
+    "height": 197,
+    "sha256": "20227cf962d4703b813a335b55af5f9123c0eb110c698432b5f0e4bc02c723f4"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q4_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      328.75,
+      521.34,
+      424.75
+    ],
+    "width": 909,
+    "height": 193,
+    "sha256": "2cae2c89506a083e1c53850aabe11069c81fa6c860cafff277f7cb9a8da3bf2d"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q4_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      338.05,
+      567.2,
+      461.43
+    ],
+    "width": 1071,
+    "height": 247,
+    "sha256": "beeb8fa3f5afc12b1f5064b750d79d990eb8cb7b74da0813965dbbe6e5670198"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q5_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      427.75,
+      521.34,
+      501.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "6ae55d9f2457437aff6832e8f8bf5310cb346f11f52db39bb33dce2ddcb6a2ed"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q5_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      464.55,
+      567.2,
+      549.98
+    ],
+    "width": 1071,
+    "height": 171,
+    "sha256": "fa54a0dcfa3cae7399be23ae780d6f33b2538f76cac0ead8f185efa1028f847a"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q6_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      504.75,
+      521.34,
+      578.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "0d98ed0f3b345de633f7d4304effc0393fb4f4dcc80eec72c1ff3ecfc1fb2c56"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q6_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      553.1,
+      567.2,
+      676.48
+    ],
+    "width": 1071,
+    "height": 247,
+    "sha256": "33edadc3c212651a60eb7e1e799c20796861a36dbc7b7fbfbdd132fccffb8f1e"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q7_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      581.75,
+      521.34,
+      655.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "a78c18cb5fbb84a09e82c17fc62f13bcaf2c999d2cf53e1971c1604f0e824148"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q7_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      679.6,
+      567.2,
+      777.68
+    ],
+    "width": 1071,
+    "height": 197,
+    "sha256": "603ef1f935855d54bf65bd03b3bffd80a34e5aaa6a0b2dae49c06904523d93b0"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q8_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 1,
+    "rect": [
+      67.25,
+      658.75,
+      521.34,
+      732.75
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "c598c257ff5439aa3c7cc9e4bc08cf406055616562a09fb442b7644ed49bcb0c"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q8_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 1,
+    "rect": [
+      32.4,
+      780.8,
+      567.2,
+      802.98
+    ],
+    "width": 1071,
+    "height": 45,
+    "sha256": "471795efd73e7dc33b7d1cacf8301dff204a4d84e605b26225b3620e8f835741"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q8_correction_2.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      31.45,
+      567.2,
+      104.23
+    ],
+    "width": 1071,
+    "height": 147,
+    "sha256": "13987b3d20a7affa7e6ed5805bedcdb38e8cce4894e4dbcf6e9bac5cf660ba75"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q9_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      78.85,
+      521.34,
+      152.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "48f1fed6a291209ff392ec2588e4eb91603b0ed2b48aa727218a3d3506364887"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q9_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      107.35,
+      567.2,
+      192.78
+    ],
+    "width": 1071,
+    "height": 172,
+    "sha256": "113841b9a2ab884ae090568c936d4cfa1f409028d472b0c5c8ec7b97dc494fc8"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q10_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      155.85,
+      521.34,
+      229.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "53cfee49e4bc0ddc829efd2d26f7785725ed524d3d76ede8d88b0aec18c04e13"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q10_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      195.9,
+      567.2,
+      293.98
+    ],
+    "width": 1071,
+    "height": 197,
+    "sha256": "ff5c4848d5cd174e1e1693495eae30218168856683fc4cef5ba024be5e492d0e"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 11,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q11_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      232.85,
+      521.34,
+      306.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "e5356daa4c7f969ef2b0c03ba179bc4296e9bdc64fef02444a5f9d9fa15cc983"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 11,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q11_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      297.1,
+      567.2,
+      382.53
+    ],
+    "width": 1071,
+    "height": 172,
+    "sha256": "54bea3de804902ac401426d3a3944b4482f1744d56603dbfc2cfe6e93c24494e"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 12,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q12_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      309.85,
+      521.34,
+      383.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "72cb5c4bc06667476851a2974b016bb4be684201a4e2bb58bbc8c1bbef09aa37"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 12,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q12_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      385.65,
+      567.2,
+      483.73
+    ],
+    "width": 1071,
+    "height": 197,
+    "sha256": "4483ac384f78620000ad809af8a215613cbab9631bf1470a1c758a95c1b50038"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 13,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q13_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      386.85,
+      521.34,
+      460.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "790fe608949935daa33887489d7aabf36b38a6a31f9a42dcbe03590a7ca7aa89"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 13,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q13_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      486.85,
+      567.2,
+      702.6
+    ],
+    "width": 1071,
+    "height": 433,
+    "sha256": "aa951fda34a9b97e7d6e6dd600973e4e27b9b04ccdfb18f6724be1dc78d353ea"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 14,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q14_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      463.85,
+      521.34,
+      537.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "3d25bbd9917a1eeadab748905f89e6780d083b41756874258e30152429a824d6"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 14,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q14_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 2,
+    "rect": [
+      32.4,
+      705.25,
+      567.2,
+      790.68
+    ],
+    "width": 1071,
+    "height": 172,
+    "sha256": "e14a0287f7bf471b594254e60862fae5b3d1b8e2288404862405b4406f0d44e5"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 15,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q15_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      540.85,
+      521.34,
+      614.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "e39d3914e29d73871f1f797501542ba9754fcf1d27cf3f02c26341900842a28d"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 15,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q15_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 3,
+    "rect": [
+      32.4,
+      31.45,
+      567.2,
+      116.88
+    ],
+    "width": 1071,
+    "height": 172,
+    "sha256": "9d843c2de0387eba349de5809142436825c2168f3855a683e65ceabb292213ec"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 16,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn1_q16_subject_1.png",
+    "source": "sources/histo_v5/tn1_subject.pdf",
+    "page": 2,
+    "rect": [
+      67.25,
+      617.85,
+      521.34,
+      691.85
+    ],
+    "width": 909,
+    "height": 149,
+    "sha256": "fd3469b0dea7bba82d0191741afae72207acefe0d47fdacb21a3ab55c84dbbd5"
+  },
+  {
+    "bank": "histo.tn1",
+    "id": 16,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn1_q16_correction_1.png",
+    "source": "sources/histo_v5/tn1_correction.pdf",
+    "page": 3,
+    "rect": [
+      32.4,
+      120.0,
+      567.2,
+      205.43
+    ],
+    "width": 1071,
+    "height": 171,
+    "sha256": "70a6f909f6c72f6f727332ccd1c75460cc994e2e48983081145340905c01dcf3"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q1_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      93.55,
+      534.86,
+      198.95
+    ],
+    "width": 943,
+    "height": 211,
+    "sha256": "aee1188dc5cfc9c311928e168afb694899805d14c0ab72da25bcb20be75d70c8"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q1_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      93.8,
+      539.26,
+      279.4
+    ],
+    "width": 952,
+    "height": 372,
+    "sha256": "48489059782d8c5e9d04881d233fa14796b0bd3bcbb78cdacdf23792e7ff9d42"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q2_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      203.35,
+      534.86,
+      296.55
+    ],
+    "width": 943,
+    "height": 188,
+    "sha256": "6cfa9d838b653f0b6ce9311f4e4d3492748567b2c80945d25a11b495befa0ace"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q2_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      281.0,
+      539.26,
+      482.4
+    ],
+    "width": 952,
+    "height": 403,
+    "sha256": "b527a28cf518e822c470e0cc218672f6f69ffa4394f1d93920fd0cc0a174efef"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q3_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      300.95,
+      534.86,
+      406.35
+    ],
+    "width": 943,
+    "height": 212,
+    "sha256": "700b9fc45ad9a2ce2d601470475b466309bf21ab429f3c721ec15cf8569d8295"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q3_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      484.0,
+      539.26,
+      653.8
+    ],
+    "width": 952,
+    "height": 340,
+    "sha256": "c4171cfba499252efd665d9232cda496351db26decc36cb877b831d736dec143"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q4_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      410.75,
+      534.86,
+      552.75
+    ],
+    "width": 943,
+    "height": 285,
+    "sha256": "4660dffa61d914e318570cb990504f38962722b8a656737353dedbf772948362"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q4_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      655.4,
+      539.26,
+      762.0
+    ],
+    "width": 952,
+    "height": 214,
+    "sha256": "c1a560843125b7430377928106db9784d7939d791d83872464e3318ad06632ff"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q4_correction_2.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      68.5,
+      539.26,
+      201.1
+    ],
+    "width": 952,
+    "height": 266,
+    "sha256": "03403980bef98220cbcd2d75c9e6905324be6c6b9d6dcfc0dc2d562a07b7c62f"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q5_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      557.15,
+      534.86,
+      686.95
+    ],
+    "width": 943,
+    "height": 260,
+    "sha256": "ace0c96db9743e7a92f0f3b18e2834a270378e588d136d6b673f265958c3e34e"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q5_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      225.2,
+      539.26,
+      410.8
+    ],
+    "width": 952,
+    "height": 372,
+    "sha256": "a691176037783ed78e541e6ff3ef60f6d4401b0fae1fbf1cbce92494401ab6f5"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q6_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 1,
+    "rect": [
+      63.95,
+      691.35,
+      534.86,
+      772.35
+    ],
+    "width": 943,
+    "height": 163,
+    "sha256": "09c605e8d4e604d265d8a953fee6183d25d5131b023537efd1d344cdbb983d6b"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q6_subject_2.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      68.05,
+      534.86,
+      124.65
+    ],
+    "width": 943,
+    "height": 114,
+    "sha256": "3cd253e209b7d7facb20f1de7dffe2806c706448a1852ceba08d1d14baa0e552"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q6_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      434.9,
+      539.26,
+      667.9
+    ],
+    "width": 952,
+    "height": 467,
+    "sha256": "498f6dcfa94a6fde003ee241b0418662a3cd5c81421fff50193ef3d1b468015c"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q7_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      129.05,
+      534.86,
+      283.25
+    ],
+    "width": 943,
+    "height": 309,
+    "sha256": "f6679955cb2179680052ba20bc1d1b5b68d36083dec1df5b5bb9321d66ad7513"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q7_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      669.5,
+      539.26,
+      760.3
+    ],
+    "width": 952,
+    "height": 182,
+    "sha256": "e7391cf0138ae33c2c40b4480c323eb8536505a1267e9129d538191b1e92b1a9"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q7_correction_2.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      68.5,
+      539.26,
+      185.3
+    ],
+    "width": 952,
+    "height": 234,
+    "sha256": "c53872c6b65b96fd671dd9a401f3126f3fc89b6cb9267e51c0018bbdc84c2b0b"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q8_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      287.65,
+      534.86,
+      380.85
+    ],
+    "width": 943,
+    "height": 187,
+    "sha256": "c4a2edff4ef1186bb6a4818e1f0b98b8303dec3b14b4aff611d379a1297fd57a"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q8_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      209.4,
+      539.26,
+      380.5
+    ],
+    "width": 952,
+    "height": 343,
+    "sha256": "4863445c65cda7e6d2735156b3082615c295dd64eef56864a88783bef60ed967"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 9,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q9_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      385.25,
+      534.86,
+      527.25
+    ],
+    "width": 943,
+    "height": 285,
+    "sha256": "0ae35cfa2df806873d6b92677b79de3535411aa9f1887ade039d7a1cbfe81695"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 9,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q9_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      404.6,
+      539.26,
+      669.2
+    ],
+    "width": 952,
+    "height": 530,
+    "sha256": "13b0c2769fedbd666ef7eae4632d5a7df938eaf23f5dc2ba9644d761cd724b00"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 10,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn2_q10_subject_1.png",
+    "source": "sources/histo_v5/tn2_subject.pdf",
+    "page": 2,
+    "rect": [
+      63.95,
+      531.65,
+      534.86,
+      685.85
+    ],
+    "width": 943,
+    "height": 309,
+    "sha256": "69899566527a0313555fc448e4d7b5324736b7fa5780edab7ca9d562c00552cb"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q10_correction_1.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 3,
+    "rect": [
+      63.95,
+      670.8,
+      539.26,
+      759.3
+    ],
+    "width": 952,
+    "height": 178,
+    "sha256": "1b59fcb2e03696c124e6ad8995ff72cd99891f939ea9e59e2032d46a0c4bd518"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 10,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn2_q10_correction_2.png",
+    "source": "sources/histo_v5/tn2_correction.pdf",
+    "page": 4,
+    "rect": [
+      63.95,
+      68.5,
+      539.26,
+      222.35
+    ],
+    "width": 952,
+    "height": 308,
+    "sha256": "621cb6f72b8bb3365ddd114a6c082a0d7cae8b055c6188233f8c73cff0afb165"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 1,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q1_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      57.41,
+      566.4,
+      149.69
+    ],
+    "width": 1086,
+    "height": 186,
+    "sha256": "9bd1f4408627d4c0a2c033338591f70a6304cd515e0d4f6003461d88281ce268"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 1,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q1_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      57.41,
+      568.55,
+      186.39
+    ],
+    "width": 1091,
+    "height": 259,
+    "sha256": "f094e4fd0f1d147400d85a319bccff117f594b0f997e3028f0303e2914dee39f"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 2,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q2_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      154.01,
+      566.4,
+      273.89
+    ],
+    "width": 1086,
+    "height": 240,
+    "sha256": "c5fc0b303a8a500a08d75e63945ba66f1ac578a0e92a0bcb53316e30006a1a1d"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 2,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q2_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      199.81,
+      568.55,
+      357.49
+    ],
+    "width": 1091,
+    "height": 316,
+    "sha256": "3b859fe961c5898bdf0c464757e2e879ee6ca792c87cef9b8a23be0b4f3a4250"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 3,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q3_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      278.21,
+      566.4,
+      384.29
+    ],
+    "width": 1086,
+    "height": 213,
+    "sha256": "72086d319c4a17bda6149154f0b44d824428b7a393d04ac4c91e4c193aaab790"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 3,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q3_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      370.91,
+      568.55,
+      500.99
+    ],
+    "width": 1091,
+    "height": 261,
+    "sha256": "38166e0c44a4e8848ddaef4d1d39d966da20bef001859f3ec7f2565ee1a9f43e"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 4,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q4_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      388.61,
+      566.4,
+      508.49
+    ],
+    "width": 1086,
+    "height": 240,
+    "sha256": "619c2ce6b9a872da6bcfa9acf25e7d4108bd7d8ac87dc6a1872659dd29261953"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 4,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q4_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      514.41,
+      568.55,
+      657.19
+    ],
+    "width": 1091,
+    "height": 287,
+    "sha256": "84def8346ddf913a416e3a48128b3bc9bd75d09c4baa3c9184647f14f268991a"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 5,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q5_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      512.81,
+      566.4,
+      618.89
+    ],
+    "width": 1086,
+    "height": 213,
+    "sha256": "8a1bbaee80141750e8413ac8f0a14c5af5be7ff356481bd68e5e6d8731476503"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 5,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q5_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      670.61,
+      568.55,
+      799.59
+    ],
+    "width": 1091,
+    "height": 259,
+    "sha256": "87e1e6433b7765408f927002eef87fc13d1d14546c5e26b99c0ffda51d9e1fd7"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q6_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      23.65,
+      623.21,
+      566.4,
+      802.29
+    ],
+    "width": 1086,
+    "height": 359,
+    "sha256": "b8e0848255c7a2052765e51df4aa8b22302dc6c1acf7202e044fae96b7982d5b"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 6,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q6_subject_2.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 2,
+    "rect": [
+      23.65,
+      31.51,
+      566.4,
+      82.39
+    ],
+    "width": 1086,
+    "height": 102,
+    "sha256": "08b368d9d4c73ec980b8ba3c2059b919ec8122bd5e8af9646acd5e4504c1fca0"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 6,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q6_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 2,
+    "rect": [
+      23.65,
+      54.41,
+      568.55,
+      343.54
+    ],
+    "width": 1091,
+    "height": 580,
+    "sha256": "10682e04782231ad1b314415a77e18bd1325e7abb25356ed95da35791e1cf91e"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 7,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q7_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 2,
+    "rect": [
+      23.65,
+      86.71,
+      566.4,
+      399.79
+    ],
+    "width": 1086,
+    "height": 627,
+    "sha256": "e1e92e87f9aec72bf12240f361962807c0c16f7338c4009b69b47e3640427c7a"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 7,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q7_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 2,
+    "rect": [
+      23.65,
+      356.96,
+      568.55,
+      710.54
+    ],
+    "width": 1091,
+    "height": 709,
+    "sha256": "75f7065faaca2831c7937b41bfeecf595d841b6b05902d2bd32c3bba2a88ccb0"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 8,
+    "role": "subject",
+    "src": "static/histo_v5/histo_tn3_q8_subject_1.png",
+    "source": "sources/histo_v5/tn3_subject.pdf",
+    "page": 2,
+    "rect": [
+      23.65,
+      404.11,
+      566.4,
+      551.59
+    ],
+    "width": 1086,
+    "height": 296,
+    "sha256": "a4f00403d1a35e00a83601b5debf982bb9e8b880c45ffa7da49c6e93a61a794f"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q8_correction_1.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 2,
+    "rect": [
+      23.65,
+      723.96,
+      568.55,
+      802.44
+    ],
+    "width": 1091,
+    "height": 158,
+    "sha256": "f3ce29c0c4ba056658b2a4b5f5be284f38a2ef7d45971e4158b6a0bf462228ca"
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 8,
+    "role": "correction",
+    "src": "static/histo_v5/histo_tn3_q8_correction_2.png",
+    "source": "sources/histo_v5/tn3_correction.pdf",
+    "page": 3,
+    "rect": [
+      23.65,
+      31.51,
+      568.55,
+      123.79
+    ],
+    "width": 1091,
+    "height": 185,
+    "sha256": "085000ed7a8c9d7cf621eaa2a5a3998a920a06348cda96e40a21eed012a7a636"
+  }
+]

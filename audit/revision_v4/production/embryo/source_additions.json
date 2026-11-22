@@ -1,0 +1,131 @@
+[
+  {
+    "bank": "embryo.col.s2",
+    "sourceNumber": 30,
+    "proposedId": 34,
+    "question": {
+      "id": 34,
+      "sourceNumber": 30,
+      "category": "Colle",
+      "question": "Vous pouvez affirmer :",
+      "context": "",
+      "options": [
+        {
+          "id": "A",
+          "text": "Au cours de l’éclosion peuvent se constituer des jumeaux monozygotes monochoriaux monoamniotiques."
+        },
+        {
+          "id": "B",
+          "text": "Au stade blastocyste une division du bouton embryonnaire aboutira à la formation de jumeaux monozygotes dichoriaux diamniotiques."
+        },
+        {
+          "id": "C",
+          "text": "Au cours de la S1 des jumeaux mono-amniotiques peuvent se former."
+        },
+        {
+          "id": "D",
+          "text": "Au stade 16 blastomères, peut se diviser en 2 : il sera alors à l’origine de jumeaux monochoriaux, diamniotiques."
+        },
+        {
+          "id": "E",
+          "text": "À 48 h après la fécondation, une division de l’œuf à ce stade aboutira à la constitution de jumeaux monozygotes et monochoriaux."
+        }
+      ],
+      "answer": "",
+      "explanations": {
+        "A": "Faux : ils seront diamniotiques.",
+        "B": "Faux : monochoriaux.",
+        "C": "Faux : avant J8, ils seront diamniotiques.",
+        "D": "Faux : dichoriaux.",
+        "E": "Faux : dichoriaux."
+      },
+      "warning": "Sujet non corrigé absent de l’archive : énoncé et verdicts transcrits depuis le corrigé. QCM source rétabli après perte lors de l’extraction.",
+      "images": [],
+      "sourceSubject": "7. Colle en chambre S2 LS correction.pdf",
+      "sourceCorrection": "7. Colle en chambre S2 LS correction.pdf",
+      "subjectPage": 7,
+      "sourceEndPage": 7,
+      "correctionPage": 7,
+      "ignoredOptions": [],
+      "tokenMode": false,
+      "weight": 1,
+      "course": "UE5 Embryologie · S2 · Deuxième semaine",
+      "rawAnswer": "AUCUNE"
+    },
+    "reason": "QCM complet visible dans le PDF p.7, absorbé par le QCM précédent lors de l’extraction. Nouvel ID en fin de banque pour préserver tous les anciens IDs.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S2 LS correction.pdf"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s2",
+    "sourceNumber": 33,
+    "proposedId": 35,
+    "question": {
+      "id": 35,
+      "sourceNumber": 33,
+      "category": "Colle",
+      "question": "Vous pouvez affirmer :",
+      "context": "",
+      "options": [
+        {
+          "id": "A",
+          "text": "Il peut y avoir formation de jumeaux monozygotes monoamniotiques et monochoriaux par dédoublement du disque didermique."
+        },
+        {
+          "id": "B",
+          "text": "Des jumeaux diamniotiques et dichoriaux peuvent être soit monozygotes soit dizygotes."
+        },
+        {
+          "id": "C",
+          "text": "La formation des jumeaux monozygotes monochoriaux diamniotiques est contemporaine de la phase d’éclosion du blastocyste."
+        },
+        {
+          "id": "D",
+          "text": "La formation des jumeaux monozygotes monochoriaux monoamniotiques est contemporaine de la phase d’éclosion du blastocyste."
+        },
+        {
+          "id": "E",
+          "text": "La séparation en 2 du bouton embryonnaire au cours de l’éclosion aboutira à la formation de jumeaux monoamniotiques et monochoriaux."
+        },
+        {
+          "id": "F",
+          "text": "La formation des jumeaux monozygotes monochoriaux diamniotiques a lieu après la formation de la cavité amniotique."
+        }
+      ],
+      "answer": "ABC",
+      "explanations": {
+        "A": "Vrai à condition que le disque se dédouble après J8.",
+        "B": "Vrai.",
+        "C": "Vrai : peut aussi être une division de la MCI à J5 ou J6, juste avant l’éclosion.",
+        "D": "Faux.",
+        "E": "Faux : diamniotiques.",
+        "F": "Faux : avant la formation de la cavité amniotique."
+      },
+      "warning": "Sujet non corrigé absent de l’archive : énoncé et verdicts transcrits depuis le corrigé. QCM source rétabli après perte lors de l’extraction.",
+      "images": [],
+      "sourceSubject": "7. Colle en chambre S2 LS correction.pdf",
+      "sourceCorrection": "7. Colle en chambre S2 LS correction.pdf",
+      "subjectPage": 7,
+      "sourceEndPage": 7,
+      "correctionPage": 7,
+      "ignoredOptions": [],
+      "tokenMode": false,
+      "weight": 1,
+      "course": "UE5 Embryologie · S2 · Deuxième semaine",
+      "rawAnswer": "ABC"
+    },
+    "reason": "QCM complet visible dans le PDF p.7, absorbé par le QCM précédent lors de l’extraction. Nouvel ID en fin de banque pour préserver tous les anciens IDs.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S2 LS correction.pdf"
+      }
+    ]
+  }
+]

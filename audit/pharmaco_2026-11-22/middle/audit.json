@@ -1,0 +1,2229 @@
+{
+  "status": "PASS — fidélité et appariements relus ; réserves de source documentées",
+  "questionCount": 112,
+  "itemCount": 560,
+  "gridsReviewed": [
+    810,
+    830,
+    848,
+    866,
+    884
+  ],
+  "checks": [
+    {
+      "sourceId": "ue4:2022-2023:S1:q01",
+      "subjectPage": 802,
+      "correctionPage": 811,
+      "gridPage": 810,
+      "correctionNumber": 1,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q02",
+      "subjectPage": 802,
+      "correctionPage": 811,
+      "gridPage": 810,
+      "correctionNumber": 2,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q03",
+      "subjectPage": 802,
+      "correctionPage": 812,
+      "gridPage": 810,
+      "correctionNumber": 3,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q04",
+      "subjectPage": 802,
+      "correctionPage": 812,
+      "gridPage": 810,
+      "correctionNumber": 4,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q05",
+      "subjectPage": 803,
+      "correctionPage": 813,
+      "gridPage": 810,
+      "correctionNumber": 5,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q13",
+      "subjectPage": 806,
+      "correctionPage": 817,
+      "gridPage": 810,
+      "correctionNumber": 13,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q06",
+      "subjectPage": 803,
+      "correctionPage": 813,
+      "gridPage": 810,
+      "correctionNumber": 6,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q07",
+      "subjectPage": 804,
+      "correctionPage": 814,
+      "gridPage": 810,
+      "correctionNumber": 7,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": null,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q10",
+      "subjectPage": 805,
+      "correctionPage": 815,
+      "gridPage": 810,
+      "correctionNumber": 10,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q11",
+      "subjectPage": 805,
+      "correctionPage": 816,
+      "gridPage": 810,
+      "correctionNumber": 11,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q08",
+      "subjectPage": 804,
+      "correctionPage": 815,
+      "gridPage": 810,
+      "correctionNumber": 8,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q09",
+      "subjectPage": 805,
+      "correctionPage": 815,
+      "gridPage": 810,
+      "correctionNumber": 9,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q24",
+      "subjectPage": 808,
+      "correctionPage": 821,
+      "gridPage": 810,
+      "correctionNumber": 24,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q12",
+      "subjectPage": 805,
+      "correctionPage": 816,
+      "gridPage": 810,
+      "correctionNumber": 12,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q14",
+      "subjectPage": 806,
+      "correctionPage": 817,
+      "gridPage": 810,
+      "correctionNumber": 14,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q15",
+      "subjectPage": 806,
+      "correctionPage": 817,
+      "gridPage": 810,
+      "correctionNumber": 15,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q16",
+      "subjectPage": 806,
+      "correctionPage": 818,
+      "gridPage": 810,
+      "correctionNumber": 16,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q17",
+      "subjectPage": 806,
+      "correctionPage": 818,
+      "gridPage": 810,
+      "correctionNumber": 17,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q18",
+      "subjectPage": 807,
+      "correctionPage": 818,
+      "gridPage": 810,
+      "correctionNumber": 18,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q19",
+      "subjectPage": 807,
+      "correctionPage": 819,
+      "gridPage": 810,
+      "correctionNumber": 19,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q20",
+      "subjectPage": 807,
+      "correctionPage": 819,
+      "gridPage": 810,
+      "correctionNumber": 20,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q25",
+      "subjectPage": 808,
+      "correctionPage": 821,
+      "gridPage": 810,
+      "correctionNumber": 25,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q21",
+      "subjectPage": 807,
+      "correctionPage": 820,
+      "gridPage": 810,
+      "correctionNumber": 21,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q22",
+      "subjectPage": 807,
+      "correctionPage": 820,
+      "gridPage": 810,
+      "correctionNumber": 22,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S1:q23",
+      "subjectPage": 808,
+      "correctionPage": 821,
+      "gridPage": 810,
+      "correctionNumber": 23,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q01",
+      "subjectPage": 824,
+      "correctionPage": 831,
+      "gridPage": 830,
+      "correctionNumber": 1,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q12",
+      "subjectPage": 826,
+      "correctionPage": 835,
+      "gridPage": 830,
+      "correctionNumber": 12,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q02",
+      "subjectPage": 824,
+      "correctionPage": 831,
+      "gridPage": 830,
+      "correctionNumber": 2,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q03",
+      "subjectPage": 824,
+      "correctionPage": 832,
+      "gridPage": 830,
+      "correctionNumber": 3,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q04",
+      "subjectPage": 824,
+      "correctionPage": 832,
+      "gridPage": 830,
+      "correctionNumber": 4,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q07",
+      "subjectPage": 825,
+      "correctionPage": 833,
+      "gridPage": 830,
+      "correctionNumber": 7,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q05",
+      "subjectPage": 825,
+      "correctionPage": 832,
+      "gridPage": 830,
+      "correctionNumber": 5,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q06",
+      "subjectPage": 825,
+      "correctionPage": 833,
+      "gridPage": 830,
+      "correctionNumber": 6,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q08",
+      "subjectPage": 825,
+      "correctionPage": 833,
+      "gridPage": 830,
+      "correctionNumber": 8,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q10",
+      "subjectPage": 826,
+      "correctionPage": 834,
+      "gridPage": 830,
+      "correctionNumber": 10,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q09",
+      "subjectPage": 825,
+      "correctionPage": 834,
+      "gridPage": 830,
+      "correctionNumber": 9,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q11",
+      "subjectPage": 826,
+      "correctionPage": 835,
+      "gridPage": 830,
+      "correctionNumber": 11,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q13",
+      "subjectPage": 826,
+      "correctionPage": 835,
+      "gridPage": 830,
+      "correctionNumber": 13,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q15",
+      "subjectPage": 827,
+      "correctionPage": 836,
+      "gridPage": 830,
+      "correctionNumber": 15,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q16",
+      "subjectPage": 827,
+      "correctionPage": 837,
+      "gridPage": 830,
+      "correctionNumber": 16,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q17",
+      "subjectPage": 827,
+      "correctionPage": 837,
+      "gridPage": 830,
+      "correctionNumber": 17,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q18",
+      "subjectPage": 827,
+      "correctionPage": 837,
+      "gridPage": 830,
+      "correctionNumber": 18,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "subjectPage": 826,
+      "correctionPage": 836,
+      "gridPage": 830,
+      "correctionNumber": 14,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": false,
+        "E": false
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q01",
+      "subjectPage": 840,
+      "correctionPage": 849,
+      "gridPage": 848,
+      "correctionNumber": 1,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q02",
+      "subjectPage": 840,
+      "correctionPage": 849,
+      "gridPage": 848,
+      "correctionNumber": 2,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q17",
+      "subjectPage": 844,
+      "correctionPage": 855,
+      "gridPage": 848,
+      "correctionNumber": 16,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q03",
+      "subjectPage": 840,
+      "correctionPage": 850,
+      "gridPage": 848,
+      "correctionNumber": 3,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q04",
+      "subjectPage": 840,
+      "correctionPage": 850,
+      "gridPage": 848,
+      "correctionNumber": 4,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q05",
+      "subjectPage": 841,
+      "correctionPage": 850,
+      "gridPage": 848,
+      "correctionNumber": 5,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q13",
+      "subjectPage": 843,
+      "correctionPage": 848,
+      "gridPage": 848,
+      "correctionNumber": null,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": null,
+      "detailedHeaderMatch": null,
+      "detailedVerdictsMatch": null,
+      "missingCorrection": true,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q06",
+      "subjectPage": 841,
+      "correctionPage": 851,
+      "gridPage": 848,
+      "correctionNumber": 6,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q07",
+      "subjectPage": 841,
+      "correctionPage": 851,
+      "gridPage": 848,
+      "correctionNumber": 7,
+      "subjectOptionMatches": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q10",
+      "subjectPage": 842,
+      "correctionPage": 852,
+      "gridPage": 848,
+      "correctionNumber": 10,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q11",
+      "subjectPage": 842,
+      "correctionPage": 853,
+      "gridPage": 848,
+      "correctionNumber": 11,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q08",
+      "subjectPage": 842,
+      "correctionPage": 852,
+      "gridPage": 848,
+      "correctionNumber": 8,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q09",
+      "subjectPage": 842,
+      "correctionPage": 852,
+      "gridPage": 848,
+      "correctionNumber": 9,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q12",
+      "subjectPage": 843,
+      "correctionPage": 853,
+      "gridPage": 848,
+      "correctionNumber": 12,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q14",
+      "subjectPage": 843,
+      "correctionPage": 854,
+      "gridPage": 848,
+      "correctionNumber": 13,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q15",
+      "subjectPage": 843,
+      "correctionPage": 854,
+      "gridPage": 848,
+      "correctionNumber": 14,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q16",
+      "subjectPage": 843,
+      "correctionPage": 854,
+      "gridPage": 848,
+      "correctionNumber": 15,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q20",
+      "subjectPage": 844,
+      "correctionPage": 856,
+      "gridPage": 848,
+      "correctionNumber": 19,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q22",
+      "subjectPage": 845,
+      "correctionPage": 857,
+      "gridPage": 848,
+      "correctionNumber": 21,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q23",
+      "subjectPage": 845,
+      "correctionPage": 857,
+      "gridPage": 848,
+      "correctionNumber": 22,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q18",
+      "subjectPage": 844,
+      "correctionPage": 855,
+      "gridPage": 848,
+      "correctionNumber": 17,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q19",
+      "subjectPage": 844,
+      "correctionPage": 856,
+      "gridPage": 848,
+      "correctionNumber": 18,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q25",
+      "subjectPage": 845,
+      "correctionPage": 858,
+      "gridPage": 848,
+      "correctionNumber": 24,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q21",
+      "subjectPage": 844,
+      "correctionPage": 856,
+      "gridPage": 848,
+      "correctionNumber": 20,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q24",
+      "subjectPage": 845,
+      "correctionPage": 858,
+      "gridPage": 848,
+      "correctionNumber": 23,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q01",
+      "subjectPage": 860,
+      "correctionPage": 867,
+      "gridPage": 866,
+      "correctionNumber": 1,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q13",
+      "subjectPage": 862,
+      "correctionPage": 871,
+      "gridPage": 866,
+      "correctionNumber": 13,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q02",
+      "subjectPage": 860,
+      "correctionPage": 867,
+      "gridPage": 866,
+      "correctionNumber": 2,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q03",
+      "subjectPage": 860,
+      "correctionPage": 868,
+      "gridPage": 866,
+      "correctionNumber": 3,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q04",
+      "subjectPage": 860,
+      "correctionPage": 868,
+      "gridPage": 866,
+      "correctionNumber": 4,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q07",
+      "subjectPage": 861,
+      "correctionPage": 869,
+      "gridPage": 866,
+      "correctionNumber": 7,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q08",
+      "subjectPage": 861,
+      "correctionPage": 870,
+      "gridPage": 866,
+      "correctionNumber": 8,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q05",
+      "subjectPage": 860,
+      "correctionPage": 868,
+      "gridPage": 866,
+      "correctionNumber": 5,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q06",
+      "subjectPage": 861,
+      "correctionPage": 869,
+      "gridPage": 866,
+      "correctionNumber": 6,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q09",
+      "subjectPage": 861,
+      "correctionPage": 870,
+      "gridPage": 866,
+      "correctionNumber": 9,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q10",
+      "subjectPage": 862,
+      "correctionPage": 870,
+      "gridPage": 866,
+      "correctionNumber": 10,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q11",
+      "subjectPage": 862,
+      "correctionPage": 871,
+      "gridPage": 866,
+      "correctionNumber": 11,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q12",
+      "subjectPage": 862,
+      "correctionPage": 871,
+      "gridPage": 866,
+      "correctionNumber": 12,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q15",
+      "subjectPage": 863,
+      "correctionPage": 872,
+      "gridPage": 866,
+      "correctionNumber": 15,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q16",
+      "subjectPage": 863,
+      "correctionPage": 873,
+      "gridPage": 866,
+      "correctionNumber": 16,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q17",
+      "subjectPage": 863,
+      "correctionPage": 873,
+      "gridPage": 866,
+      "correctionNumber": 17,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q18",
+      "subjectPage": 863,
+      "correctionPage": 873,
+      "gridPage": 866,
+      "correctionNumber": 18,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q14",
+      "subjectPage": 862,
+      "correctionPage": 872,
+      "gridPage": 866,
+      "correctionNumber": 14,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q19",
+      "subjectPage": 864,
+      "correctionPage": 874,
+      "gridPage": 866,
+      "correctionNumber": 19,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q01",
+      "subjectPage": 876,
+      "correctionPage": 885,
+      "gridPage": 884,
+      "correctionNumber": 1,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q02",
+      "subjectPage": 876,
+      "correctionPage": 885,
+      "gridPage": 884,
+      "correctionNumber": 2,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q06",
+      "subjectPage": 877,
+      "correctionPage": 887,
+      "gridPage": 884,
+      "correctionNumber": 6,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q07",
+      "subjectPage": 877,
+      "correctionPage": 887,
+      "gridPage": 884,
+      "correctionNumber": 7,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q03",
+      "subjectPage": 876,
+      "correctionPage": 886,
+      "gridPage": 884,
+      "correctionNumber": 3,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q04",
+      "subjectPage": 876,
+      "correctionPage": 886,
+      "gridPage": 884,
+      "correctionNumber": 4,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q05",
+      "subjectPage": 877,
+      "correctionPage": 887,
+      "gridPage": 884,
+      "correctionNumber": 5,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q08",
+      "subjectPage": 877,
+      "correctionPage": 888,
+      "gridPage": 884,
+      "correctionNumber": 8,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q09",
+      "subjectPage": 878,
+      "correctionPage": 889,
+      "gridPage": 884,
+      "correctionNumber": 9,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q10",
+      "subjectPage": 878,
+      "correctionPage": 889,
+      "gridPage": 884,
+      "correctionNumber": 10,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q11",
+      "subjectPage": 878,
+      "correctionPage": 890,
+      "gridPage": 884,
+      "correctionNumber": 11,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q12",
+      "subjectPage": 879,
+      "correctionPage": 890,
+      "gridPage": 884,
+      "correctionNumber": 12,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q13",
+      "subjectPage": 879,
+      "correctionPage": 890,
+      "gridPage": 884,
+      "correctionNumber": 13,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q14",
+      "subjectPage": 879,
+      "correctionPage": 891,
+      "gridPage": 884,
+      "correctionNumber": 14,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q15",
+      "subjectPage": 879,
+      "correctionPage": 891,
+      "gridPage": 884,
+      "correctionNumber": 15,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q16",
+      "subjectPage": 879,
+      "correctionPage": 892,
+      "gridPage": 884,
+      "correctionNumber": 16,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q17",
+      "subjectPage": 880,
+      "correctionPage": 892,
+      "gridPage": 884,
+      "correctionNumber": 17,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q18",
+      "subjectPage": 880,
+      "correctionPage": 892,
+      "gridPage": 884,
+      "correctionNumber": 18,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q19",
+      "subjectPage": 880,
+      "correctionPage": 893,
+      "gridPage": 884,
+      "correctionNumber": 19,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q23",
+      "subjectPage": 881,
+      "correctionPage": 895,
+      "gridPage": 884,
+      "correctionNumber": 23,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q20",
+      "subjectPage": 880,
+      "correctionPage": 893,
+      "gridPage": 884,
+      "correctionNumber": 20,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q21",
+      "subjectPage": 881,
+      "correctionPage": 894,
+      "gridPage": 884,
+      "correctionNumber": 21,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q22",
+      "subjectPage": 881,
+      "correctionPage": 894,
+      "gridPage": 884,
+      "correctionNumber": 22,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q24",
+      "subjectPage": 881,
+      "correctionPage": 895,
+      "gridPage": 884,
+      "correctionNumber": 24,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q25",
+      "subjectPage": 882,
+      "correctionPage": 895,
+      "gridPage": 884,
+      "correctionNumber": 25,
+      "subjectOptionMatches": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true,
+        "E": true
+      },
+      "gridKeyMatch": true,
+      "detailedHeaderMatch": true,
+      "detailedVerdictsMatch": true,
+      "missingCorrection": false,
+      "requestsFalseItems": false
+    }
+  ],
+  "exceptions": [
+    {
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "item": "D",
+      "kind": "subject_text_layer",
+      "text": "Ces paramètres pharmacodynamiques comportent la demi-vie de concentration et le volume de distribution",
+      "resolution": "Vérification visuelle du sujet p826 : la couche texte ajoute des caractères parasites autour de distribution / 50 %. Le texte importé concorde avec la page rendue."
+    },
+    {
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "item": "E",
+      "kind": "subject_text_layer",
+      "text": "L’efficacité d’un agoniste est définie par le CE50, c’est-à-dire la concentration permettant d’obtenir 50% de l’effet maximal",
+      "resolution": "Vérification visuelle du sujet p826 : la couche texte ajoute des caractères parasites autour de distribution / 50 %. Le texte importé concorde avec la page rendue."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q07",
+      "item": "A",
+      "kind": "subject_text_layer",
+      "text": "Molécule A (voir le schéma)",
+      "resolution": "Vérification visuelle : les cinq molécules A–E sont présentes dans la figure du sujet p841 ; les cases neutres renvoient à cette figure sans reconstruire les structures."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q07",
+      "item": "B",
+      "kind": "subject_text_layer",
+      "text": "Molécule B (voir le schéma)",
+      "resolution": "Vérification visuelle : les cinq molécules A–E sont présentes dans la figure du sujet p841 ; les cases neutres renvoient à cette figure sans reconstruire les structures."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q07",
+      "item": "C",
+      "kind": "subject_text_layer",
+      "text": "Molécule C (voir le schéma)",
+      "resolution": "Vérification visuelle : les cinq molécules A–E sont présentes dans la figure du sujet p841 ; les cases neutres renvoient à cette figure sans reconstruire les structures."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q07",
+      "item": "D",
+      "kind": "subject_text_layer",
+      "text": "Molécule D (voir le schéma)",
+      "resolution": "Vérification visuelle : les cinq molécules A–E sont présentes dans la figure du sujet p841 ; les cases neutres renvoient à cette figure sans reconstruire les structures."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q07",
+      "item": "E",
+      "kind": "subject_text_layer",
+      "text": "Molécule E (voir le schéma)",
+      "resolution": "Vérification visuelle : les cinq molécules A–E sont présentes dans la figure du sujet p841 ; les cases neutres renvoient à cette figure sans reconstruire les structures."
+    }
+  ],
+  "themeCounts": {
+    "droit": 13,
+    "sources-naturelles": 8,
+    "analyse-controles": 6,
+    "conception-rationnelle": 8,
+    "chimie-organique": 4,
+    "identification-pa": 10,
+    "biotechnologies": 11,
+    "galenique": 9,
+    "iatrogenie": 3,
+    "benefice-risque": 6,
+    "pk-pd": 6,
+    "developpement-clinique": 6,
+    "bum": 20,
+    "cibles": 2
+  },
+  "questionsWithNotes": 45,
+  "noteCount": 53,
+  "sourceOnlyPolicy": true,
+  "bankMutated": false,
+  "inputSha256": "494a270911225f1b6dfa6c97f04ce68c7c978478cff915d8f42a4e246d684857",
+  "resolvedVisualExceptions": 7,
+  "matchingAvailableGridKeys": 111,
+  "matchingAvailableDetailedHeaders": 111,
+  "matchingExplicitVerdictSets": 110,
+  "generalSolutionWithoutIndividualVerdicts": [
+    "ue4:2022-2023:S1:q07"
+  ],
+  "missingCorrectionSourceIds": [
+    "ue4:2021-2022:S1:q13"
+  ],
+  "trueEmptyAnswerSourceIds": [
+    "ue4:2022-2023:S2:q09"
+  ],
+  "patchCount": 2,
+  "newSiteAssets": 0
+}

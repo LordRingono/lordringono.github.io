@@ -1,0 +1,46 @@
+const fs=require('fs'),path=require('path'),assert=require('assert/strict');
+const {chromium}=require(path.join(process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES,'playwright'));
+const root=__dirname,site=path.resolve(root,'../../output/site/index.html');
+const out=path.join(root,'browser_checks');fs.mkdirSync(out,{recursive:true});
+(async()=>{
+ const report={status:'RUNNING',pageErrors:[],desktop:{},mobile:{}};
+ const browser=await chromium.launch({executablePath:'/usr/bin/chromium',headless:true,args:['--no-sandbox','--disable-dev-shm-usage']});
+ try{
+  const context=await browser.newContext({viewport:{width:1440,height:1100}});
+  const page=await context.newPage();page.on('pageerror',e=>report.pageErrors.push(e.message));
+  await page.goto('file://'+site,{waitUntil:'domcontentloaded'});
+  await page.evaluate(()=>switchExam('histo.te2'));
+  await page.locator('#only-filled-toggle').setChecked(true,{force:true});
+  assert.equal(await page.locator('[data-source-role="subject"]').count(),19);
+  assert.equal(await page.locator('[data-source-role="correction"]').count(),0);
+  await page.locator('#q11 [data-source-role="subject"]>summary').click();
+  await page.locator('#q11 [data-source-role="subject"] img').evaluateAll(async images=>{await Promise.all(images.map(im=>im.decode()));});
+  await page.locator('#q11').screenshot({path:path.join(out,'desktop_subject.png')});
+  for(const id of ['A','B','D'])await page.locator('#q11 input[value="'+id+'"]').check();
+  await page.locator('#submit-all').click();
+  assert.equal(await page.locator('[data-source-role="correction"]').count(),1);
+  assert.equal(await page.locator('#q11 .qfoot-result .result-grade').textContent(),'10 / 10');
+  await page.locator('#q11 details.correction>summary').evaluate(el=>{el.parentElement.open=true;});
+  await page.locator('#q11 [data-source-role="correction"]>summary').click();
+  assert.equal(await page.locator('#q11 [data-source-role="correction"] img').count(),2);
+  await page.locator('#q11 [data-source-role="correction"] img').evaluateAll(async images=>{await Promise.all(images.map(im=>im.decode()));});
+  await page.locator('#q11 [data-source-role="correction"]').screenshot({path:path.join(out,'desktop_correction.png')});
+  report.desktop={viewport:{width:1440,height:1100},subjectMenus:19,correctionMenusAfterOneGraded:1,splitCorrectionPanels:2,score:'10 / 10',overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)};
+  await page.setViewportSize({width:390,height:844});
+  await page.evaluate(()=>{switchExam('histo.autotech');});
+  await page.locator('#q13 [data-source-role="subject"]>summary').click();
+  await page.locator('#q13 [data-source-role="subject"] img').evaluateAll(async images=>{await Promise.all(images.map(im=>im.decode()));});
+  await page.locator('#q13').screenshot({path:path.join(out,'mobile_subject.png')});
+  for(const id of ['G','I','J'])await page.locator('#q13 input[value="'+id+'"]').check();
+  await page.locator('#submit-all').click();
+  assert.equal(await page.locator('#q13 .qfoot-result .result-grade').textContent(),'10 / 10');
+  await page.locator('#q13 details.correction>summary').evaluate(el=>{el.parentElement.open=true;});
+  await page.locator('#q13 [data-source-role="correction"]>summary').click();
+  await page.locator('#q13 [data-source-role="correction"] img').evaluateAll(async images=>{await Promise.all(images.map(im=>im.decode()));});
+  await page.locator('#q13 [data-source-role="correction"]').screenshot({path:path.join(out,'mobile_correction.png')});
+  report.mobile={viewport:{width:390,height:844},score:'10 / 10',overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)};
+  assert.equal(report.desktop.overflow,false);assert.equal(report.mobile.overflow,false);assert.deepEqual(report.pageErrors,[]);
+  report.status='PASS';
+ }finally{await browser.close();fs.writeFileSync(path.join(out,'report.json'),JSON.stringify(report,null,2));}
+ console.log(JSON.stringify(report,null,2));
+})().catch(err=>{console.error(err);process.exitCode=1;});

@@ -1,0 +1,131 @@
+{
+  "patches": [],
+  "additions": [
+    {
+      "bank": "histo.ann.tn",
+      "afterId": 53,
+      "question": {
+        "id": 65,
+        "sourceNumber": 16,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu nerveux (TN)",
+        "question": "Concernant les nerfs, quelle(s) sont la(les) affirmation(s) exacte(s) ?",
+        "options": [
+          {
+            "id": "A",
+            "text": "ils sont constitués d’axones groupés en fascicules"
+          },
+          {
+            "id": "B",
+            "text": "ils ne sont pas vascularisés"
+          },
+          {
+            "id": "C",
+            "text": "ils contiennent des fibroblastes, des cellules gliales et des cellules périneurales"
+          },
+          {
+            "id": "D",
+            "text": "ils ne contiennent que des axones myélinisés"
+          },
+          {
+            "id": "E",
+            "text": "ils sont encapsulés par du tissu conjonctif dense, l’épinèvre"
+          }
+        ],
+        "answer": "AC",
+        "explanations": {
+          "A": "Vrai.",
+          "B": "Faux.",
+          "C": "Vrai.",
+          "D": "Faux.",
+          "E": "Faux : le paranèvre."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 18,
+        "correctionPage": 19,
+        "sourceSubject": "annales TISSU NERVEUX 2018 2025.pdf",
+        "sourceCorrection": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+        "weight": 1
+      },
+      "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 18,
+          "label": "Question 16, juin 2024 session 2 : cinq propositions originales"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 19,
+          "label": "Question 16, juin 2024 session 2 : cinq verdicts explicites"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "afterId": 65,
+      "question": {
+        "id": 66,
+        "sourceNumber": 17,
+        "year": "2023-2024",
+        "session": "S2",
+        "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+        "course": "Tissu nerveux (TN)",
+        "question": "Concernant le liquide cérébro-spinal (LCS), quelle(s) est(sont) la (les) affirmation(s) exacte(s) ?",
+        "options": [
+          {
+            "id": "A",
+            "text": "il est produit par les plexus arachnoïdes des méninges."
+          },
+          {
+            "id": "B",
+            "text": "dans les ventricules, il est au contact des épendymocytes de l’épendyme"
+          },
+          {
+            "id": "C",
+            "text": "dans le canal épendymaire, il est au contact des épendymocytes de l’épendyme"
+          },
+          {
+            "id": "D",
+            "text": "au niveau péri-encéphalique, il circule dans les espaces sous-arachnoïdiens"
+          },
+          {
+            "id": "E",
+            "text": "au niveau péri-encéphalique, il est directement au contact des neurones du cortex cérébraL"
+          }
+        ],
+        "answer": "BCD",
+        "explanations": {
+          "A": "Faux : les plexus choroïdes.",
+          "B": "Vrai.",
+          "C": "Vrai.",
+          "D": "Vrai.",
+          "E": "Faux : il est limité par la glie limitante."
+        },
+        "warning": "",
+        "images": [],
+        "subjectPage": 18,
+        "correctionPage": 19,
+        "sourceSubject": "annales TISSU NERVEUX 2018 2025.pdf",
+        "sourceCorrection": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+        "weight": 1
+      },
+      "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 18,
+          "label": "Question 17, juin 2024 session 2 : cinq propositions originales"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 19,
+          "label": "Question 17, juin 2024 session 2 : cinq verdicts explicites"
+        }
+      ]
+    }
+  ]
+}

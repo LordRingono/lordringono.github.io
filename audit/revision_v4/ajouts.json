@@ -1,0 +1,1079 @@
+[
+  {
+    "bank": "histo.ann.tech",
+    "afterId": 22,
+    "question": {
+      "course": "Techniques histologiques",
+      "weight": 1,
+      "warning": "",
+      "images": [],
+      "subjectPage": 9,
+      "correctionPage": 11,
+      "sourceSubject": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+      "sourceCorrection": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+      "category": "Annales · juin2024 session2",
+      "id": 38,
+      "sourceNumber": 14,
+      "question": "Concernant la technique d’imagerie cellulaire basée sur l’immunohistologie, indiquez l’affirmation correcte parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "La technique est fondée sur l’utilisation de précurseurs de macromolécules marqués avec des isotopes radioactifs."
+        },
+        {
+          "id": "B",
+          "text": "La technique est fondée sur l’utilisation d’anticorps, qui permettent de détecter et de localiser très spécifiquement des protéines et peptides, molécules contre lesquelles ils sont dirigés, et qui se comportent alors comme des antigènes."
+        },
+        {
+          "id": "C",
+          "text": "Le complexe antigène-anticorps peut être révélé par un fluorochrome, comme par exemple la peroxydase."
+        },
+        {
+          "id": "D",
+          "text": "La technique permet la numération des chromosomes."
+        },
+        {
+          "id": "E",
+          "text": "La technique permet de mesurer la quantité d’ADN d’une cellule."
+        }
+      ],
+      "answer": "B",
+      "explanations": {
+        "A": "Cette technique est l’autoradiographie.",
+        "B": "",
+        "C": "La peroxydase est une enzyme.",
+        "D": "La technique utilisée pour les caryotypes est la FISH.",
+        "E": ""
+      }
+    },
+    "reason": "QCM entier absorbé dans l’énoncé de l’actuelID23 lors de l’import ; les cinq propositions et leur correction indépendante sont présentes dans la source. Identifiant neuf, sans renumérotation des questions existantes.",
+    "refs": [
+      {
+        "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+        "page": 9,
+        "label": "QUESTION14",
+        "href": "sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf#page=9"
+      },
+      {
+        "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "page": 11,
+        "label": "Correction de QUESTION14",
+        "href": "sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf#page=11"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tech",
+    "afterId": 38,
+    "question": {
+      "course": "Techniques histologiques",
+      "weight": 1,
+      "warning": "",
+      "images": [],
+      "subjectPage": 9,
+      "correctionPage": 11,
+      "sourceSubject": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+      "sourceCorrection": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+      "category": "Annales · juin2024 session2",
+      "id": 39,
+      "sourceNumber": 15,
+      "question": "Concernant la préparation histologique standard d’un fragment d’organe pour son observation en microscopie optique, indiquez la ou les affirmations correctes parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elle nécessite une fixation rapide du fragment d’organe dans un volume conséquent de fixateur."
+        },
+        {
+          "id": "B",
+          "text": "Elle nécessite par exemple, une fixation avec du formol, encore appelé paraformaldéhyde."
+        },
+        {
+          "id": "C",
+          "text": "Elle nécessite une fixation qui permet de préserver les activités biologiques."
+        },
+        {
+          "id": "D",
+          "text": "Elle nécessite une fixation qui permet de préserver les structures biologiques."
+        },
+        {
+          "id": "E",
+          "text": "Elle nécessite par exemple, une fixation avec de l’acide acétique associé à de l’éthanol."
+        }
+      ],
+      "answer": "ABD",
+      "explanations": {
+        "A": "",
+        "B": "Vrai, mais non dit cette année ; il a dit formaldéhyde ou glutaraldéhyde.",
+        "C": "La fixation ne préserve pas les fonctions biologiques.",
+        "D": "",
+        "E": "Associé au méthanol."
+      }
+    },
+    "reason": "QCM entier absorbé dans l’énoncé de l’actuelID23 lors de l’import ; les cinq propositions et leur correction indépendante sont présentes dans la source. Identifiant neuf, sans renumérotation des questions existantes.",
+    "refs": [
+      {
+        "file": "ANNALES Techniques 2019 2026 NON CORRIGEES.pdf",
+        "page": 9,
+        "label": "QUESTION15",
+        "href": "sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf#page=9"
+      },
+      {
+        "file": "ANNALES Techniques 2019 2026 CORRECTION.pdf",
+        "page": 11,
+        "label": "Correction de QUESTION15",
+        "href": "sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf#page=11"
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "afterId": 2,
+    "question": {
+      "id": 12,
+      "category": "Annales · 2023–2024 · Session1",
+      "course": "CM7 · Le noyau",
+      "question": "Choisissez la(les) réponse(s) correcte(s) concernant le noyau",
+      "options": [
+        {
+          "id": "F",
+          "text": "Au sein du nucléole sont accumulés des ARN et des protéines, impliqués dans la production des ribosomes."
+        },
+        {
+          "id": "G",
+          "text": "20% des séquences du génome humain correspondent à des séquences fortement répétitives."
+        },
+        {
+          "id": "H",
+          "text": "Les importines doivent être associées au RanGTP pour reconnaître les signaux de localisation nucléaires (NLS) des protéines qu’elles importent au travers du complexe du pore nucléaire."
+        },
+        {
+          "id": "I",
+          "text": "Les condensines sont une forme de complexe de protéines SMC (Structural Maintenance of Chromosomes) qui utilisent l’énergie de l’ATP pour former des boucles d’ADN."
+        },
+        {
+          "id": "J",
+          "text": "On trouve dans les zones hétérochromatiques des gènes très actifs transcriptionnellement."
+        }
+      ],
+      "answer": "FI",
+      "sourceAnswer": "AD",
+      "explanations": {
+        "F": "VRAI",
+        "G": "FAUX : Les séquences répétitives représentent plus de % du génome humain.",
+        "H": "FAUX : Une importine a une affinité pour son cargo en présence de RanGDP (présent surtout dans le cytosol). Lorsqu’elle se lie à une RanGTP dans le noyau, elle relâche son cargo.",
+        "I": "VRAI : Chaque condensine est un dimère de SMC.",
+        "J": "FAUX : Les zones hétérochromatiques sont plutôt inactives transcriptionnellement, les gènes actifs se trouvent surtout dans l’euchromatine."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 3,
+      "correctionPage": 4,
+      "sourceSubject": "ACC le noyau.pdf",
+      "sourceCorrection": "Correction ACC le noyau.pdf",
+      "weight": 1,
+      "sourceQuestion": "2023–2024 session 1, QCM 40",
+      "sourceItemMapping": {
+        "F": "A",
+        "G": "B",
+        "H": "C",
+        "I": "D",
+        "J": "E"
+      },
+      "sourceNumber": 40,
+      "year": "2023-2024",
+      "session": "S1"
+    },
+    "reason": "QCM entier omis lors de l’import, à cause du lettrage F–J. Les cinq items figurent entre les actuels Q2 et Q3. La correction p4 est explicitement AD avec cinq verdicts A–E correspondant aux mêmes propositions dans le même ordre ; réponse FI avec les lettres originales F–J.",
+    "refs": [
+      {
+        "file": "ACC le noyau.pdf",
+        "page": 3,
+        "label": "QCM 40, items F–J",
+        "href": "sources/revision_v4/ACC_le_noyau_cfd9506a6d.pdf#page=3"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 3,
+        "label": "Reprise identique des cinq items F–J",
+        "href": "sources/revision_v4/Correction_ACC_le_noyau_e68c1b3595.pdf#page=3"
+      },
+      {
+        "file": "Correction ACC le noyau.pdf",
+        "page": 4,
+        "label": "Clé AD et verdicts détaillés A–E",
+        "href": "sources/revision_v4/Correction_ACC_le_noyau_e68c1b3595.pdf#page=4"
+      }
+    ]
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "afterId": 17,
+    "question": {
+      "sourceNumber": "X",
+      "num": 0,
+      "prime": "",
+      "question": "Les ARN de transfert :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sont transférés du noyau au cytoplasme lors de la traduction."
+        },
+        {
+          "id": "B",
+          "text": "Contiennent de très nombreux ribonucléotides atypiques obtenus par modification enzymatique post-transcriptionnelle."
+        },
+        {
+          "id": "C",
+          "text": "Le ribonucléotide terminal de type cytosine fixe de façon covalente l’acide aminé spécifié par l’anti-codon."
+        },
+        {
+          "id": "D",
+          "text": "L’anticodon porté par le bras A s’associe de façon anti-parallèle et complémentaire au codon porté par l’ARNm."
+        },
+        {
+          "id": "E",
+          "text": "Un ARNt portant un anticodon donné est lié à un acide aminé spécifique."
+        }
+      ],
+      "subjectPage": 4,
+      "sourceEndPage": 4,
+      "category": "2020-2021 PACE",
+      "startY": null,
+      "startPage": 4,
+      "figureRefs": [],
+      "context": "",
+      "explanations": {
+        "A": "Faux, la traduction se fait TOUJOURS dans le cytoplasme, donc ils sont formés dans le cytoplasme",
+        "C": "Faux, c’est une adénine et non une cytosine (séquence terminale CCA 3’)"
+      },
+      "warning": "",
+      "answer": "BDE",
+      "correctionPage": 6,
+      "id": 28,
+      "sourceSubject": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+      "sourceCorrection": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+      "course": "UE2 · ARN et métabolisme",
+      "weight": 1,
+      "images": [],
+      "originalImages": []
+    },
+    "reason": "QCM intégral présent dans les PDF fournis, mais absorbé dans le dernier item de la question précédente lors du découpage. Nouvel identifiant en fin de numérotation ; aucun identifiant existant changé.",
+    "refs": [
+      {
+        "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 4,
+        "label": "Énoncé complet du QCM récupéré",
+        "href": "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_ENONCE_c6c7ec8f5d.pdf#page=4"
+      },
+      {
+        "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Clé et explications originales",
+        "href": "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_CORRECTION_34adbc3fff.pdf#page=6"
+      }
+    ]
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "afterId": 18,
+    "question": {
+      "sourceNumber": "X",
+      "num": 0,
+      "prime": "",
+      "question": "Les petits ARN non codants :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les snARN et les snoARN sont des ARN régulateurs."
+        },
+        {
+          "id": "B",
+          "text": "Les snARN représentent 10% des ARN totaux."
+        },
+        {
+          "id": "C",
+          "text": "Les snARN modifient les ribonucléotides des ARN ribosomiques en plaçant des enzymes au niveau de certaines séquences de leur ARN cible."
+        },
+        {
+          "id": "D",
+          "text": "Les snARN s’associent à des protéines spécifiques pour former des ribonucléoprotéines nucléaires."
+        },
+        {
+          "id": "E",
+          "text": "Les snoARN sont impliqués dans la modification post-transcriptionnelle d’ARN non codants."
+        }
+      ],
+      "subjectPage": 4,
+      "sourceEndPage": 4,
+      "category": "2020-2021 PASS Session 2",
+      "startY": null,
+      "startPage": 4,
+      "figureRefs": [],
+      "context": "",
+      "explanations": {
+        "A": "Vrai, ils régulent la maturation d’autres ARN",
+        "B": "Faux, tous les ARN régulateurs représentent <1% des ARN totaux",
+        "C": "Faux, ce sont les snoARN qui le font"
+      },
+      "warning": "",
+      "answer": "ADE",
+      "correctionPage": 6,
+      "id": 29,
+      "sourceSubject": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+      "sourceCorrection": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+      "course": "UE2 · ARN et métabolisme",
+      "weight": 1,
+      "images": [],
+      "originalImages": []
+    },
+    "reason": "QCM intégral présent dans les PDF fournis, mais absorbé dans le dernier item de la question précédente lors du découpage. Nouvel identifiant en fin de numérotation ; aucun identifiant existant changé.",
+    "refs": [
+      {
+        "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 4,
+        "label": "Énoncé complet du QCM récupéré",
+        "href": "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_ENONCE_c6c7ec8f5d.pdf#page=4"
+      },
+      {
+        "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Clé et explications originales",
+        "href": "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_CORRECTION_34adbc3fff.pdf#page=6"
+      }
+    ]
+  },
+  {
+    "bank": "ue2.anomalies.annales",
+    "afterId": 4,
+    "question": {
+      "sourceNumber": "15’",
+      "num": 15,
+      "prime": "’",
+      "question": "Une insertion de 3 nucléotides :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Induit un décalage du cadre de lecture."
+        },
+        {
+          "id": "B",
+          "text": "Peut conduire à la formation d’un codon stop."
+        },
+        {
+          "id": "C",
+          "text": "Induit une modification du site d’épissage en amont de l’exon."
+        },
+        {
+          "id": "D",
+          "text": "Est responsable de recombinaison chromosomique."
+        },
+        {
+          "id": "E",
+          "text": "Peut modifier la fonction de la protéine codée par le gène."
+        }
+      ],
+      "subjectPage": 1,
+      "sourceEndPage": 1,
+      "category": "2020-2021",
+      "startY": null,
+      "startPage": 1,
+      "figureRefs": [],
+      "context": "",
+      "explanations": {
+        "A": "Faux",
+        "B": "Vrai si les 3 nts sont un codon stop",
+        "C": "Faux pas d’action à distance",
+        "D": "Faux, aucune raison",
+        "E": "Vrai si l’AA ajouté affecte un domaine fonctionnel ou le repliement de la protéine"
+      },
+      "warning": "",
+      "answer": "BE",
+      "correctionPage": 2,
+      "id": 9,
+      "sourceSubject": "2. Annales Anomalies LS ENONCE.pdf",
+      "sourceCorrection": "2. Annales Anomalies LS CORRECTION.pdf",
+      "course": "UE2 · Anomalies du génome",
+      "weight": 1,
+      "images": [],
+      "originalImages": []
+    },
+    "reason": "QCM intégral présent dans les PDF fournis, mais absorbé dans le dernier item de la question précédente lors du découpage. Nouvel identifiant en fin de numérotation ; aucun identifiant existant changé.",
+    "refs": [
+      {
+        "file": "2. Annales Anomalies LS ENONCE.pdf",
+        "page": 1,
+        "label": "Énoncé complet du QCM récupéré",
+        "href": "sources/revision_v4/2_Annales_Anomalies_LS_ENONCE_f716f194aa.pdf#page=1"
+      },
+      {
+        "file": "2. Annales Anomalies LS CORRECTION.pdf",
+        "page": 2,
+        "label": "Clé et explications originales",
+        "href": "sources/revision_v4/2_Annales_Anomalies_LS_CORRECTION_fa09d9a0b4.pdf#page=2"
+      }
+    ]
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "afterId": 18,
+    "question": {
+      "sourceNumber": "sans numéro",
+      "num": 0,
+      "prime": "",
+      "question": "Concernant la traduction et le code génétique chez les eucaryotes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "La synthèse protéique s’effectue par la création de liaisons peptidiques successives entre une fonction carboxylique du dernier acide aminé et une fonction aminée de l’acide aminé suivant."
+        },
+        {
+          "id": "B",
+          "text": "Un codon sens est un triplet nucléotidique de l’ARNt qui code pour un acide aminé."
+        },
+        {
+          "id": "C",
+          "text": "La phase d’initiation de ce processus nécessite la présence d’un ARNt activé et de GTP."
+        },
+        {
+          "id": "D",
+          "text": "La séquence Kozak permet le recrutement et la liaison de la petite sous unité du ribosome à proximité du codon start AUG."
+        },
+        {
+          "id": "E",
+          "text": "L’ARNm mature ne peut pas être traduit par plusieurs complexes ribosomiques en même temps."
+        }
+      ],
+      "subjectPage": 4,
+      "sourceEndPage": 4,
+      "category": "2020-2021 PACE",
+      "startY": null,
+      "startPage": 4,
+      "figureRefs": [],
+      "context": "",
+      "explanations": {
+        "B": "Faux sur l’ARNm",
+        "D": "Faux c’est la coiffe qui recrute la petite sous-unité",
+        "E": "Faux, on a bien des polyribosomes chez les eucaryotes"
+      },
+      "warning": "",
+      "answer": "AC",
+      "correctionPage": 6,
+      "id": 30,
+      "sourceSubject": "2. Annales Traduction LS ENONCE.pdf",
+      "sourceCorrection": "2. Annales Traduction LS CORRECTION.pdf",
+      "course": "UE2 · Traduction",
+      "weight": 1,
+      "images": [],
+      "originalImages": []
+    },
+    "reason": "QCM PACE 2020–2021 intégral retrouvé dans les deux PDF, auparavant absorbé dans l’item E du QCM précédent. Nouvel identifiant 30, aucun ancien identifiant modifié.",
+    "refs": [
+      {
+        "file": "2. Annales Traduction LS ENONCE.pdf",
+        "page": 4,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v4/2_Annales_Traduction_LS_ENONCE_c9fa3b519a.pdf#page=4"
+      },
+      {
+        "file": "2. Annales Traduction LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/2_Annales_Traduction_LS_CORRECTION_ca89132824.pdf#page=6"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.te",
+    "afterId": 17,
+    "question": {
+      "id": 28,
+      "sourceNumber": 9,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu épithélial (TE)",
+      "question": "Concernant le tissu épithélial, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "les cellules sont jointives, étroitement juxtaposées"
+        },
+        {
+          "id": "B",
+          "text": "les cellules sont solidarisées par des systèmes de jonction"
+        },
+        {
+          "id": "C",
+          "text": "les filaments intermédiaires sont constitués de vimentine"
+        },
+        {
+          "id": "D",
+          "text": "les cellules reposent directement sur le tissu conjonctif"
+        },
+        {
+          "id": "E",
+          "text": "les cellules ne sont pas en contact des capillaires sanguins"
+        }
+      ],
+      "answer": "ABE",
+      "explanations": {
+        "A": "Vrai.",
+        "B": "Vrai.",
+        "C": "Faux : de cytokératine sauf pour les épithéliums apparentés comme l’endothélium ou les mésothéliums.",
+        "D": "Faux : sur la membrane basale.",
+        "E": "Vrai : le tissu épithélial est avasculaire."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 5,
+      "correctionPage": 5,
+      "correctionEndPage": 6,
+      "sourceSubject": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+      "sourceCorrection": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+      "weight": 1
+    },
+    "reason": "QRM complet présent dans les sujets et corrigés, mais absent de la banque : les QRM 9 et 10 n’avaient pas été individualisés et le second était absorbé dans la consigne du QCM 18. Nouvel identifiant libre, anciens identifiants préservés.",
+    "refs": [
+      {
+        "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+        "page": 5,
+        "label": "QRM 9, session 2 de juin 2024",
+        "href": "sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf#page=5"
+      },
+      {
+        "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "page": 5,
+        "label": "Correction du QRM 9",
+        "href": "sources/revision_v4/Annales_Tissu_Epithelial_2020_2026_CORRECTION_1e6bf3af86.pdf#page=5"
+      },
+      {
+        "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "page": 6,
+        "label": "Suite des verdicts C–E du QRM 9",
+        "href": "sources/revision_v4/Annales_Tissu_Epithelial_2020_2026_CORRECTION_1e6bf3af86.pdf#page=6"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.te",
+    "afterId": 28,
+    "question": {
+      "id": 29,
+      "sourceNumber": 10,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu épithélial (TE)",
+      "question": "Concernant le tissu épithélial, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "un épithélium unistratifié pavimenteux présente une faible épaisseur"
+        },
+        {
+          "id": "B",
+          "text": "les cellules épithéliales cylindriques peuvent présenter des cils vibratiles"
+        },
+        {
+          "id": "C",
+          "text": "l’épithélium pavimenteux stratifié est constitué de 2 couches de cellules"
+        },
+        {
+          "id": "D",
+          "text": "les microvillosités sont présentes sur les faces latérales des cellules"
+        },
+        {
+          "id": "E",
+          "text": "les jonctions serrées permettent la diffusion des molécules"
+        }
+      ],
+      "answer": "AB",
+      "explanations": {
+        "A": "Vrai : il facilite les échanges.",
+        "B": "Vrai : comme dans les voies respiratoires.",
+        "C": "Faux : il s’agit de l’épithélium malpighien → nombreuses couches cellulaires, seule la plus apicale est pavimenteuse.",
+        "D": "Faux : sur la face apicale.",
+        "E": "Faux : elles contrôlent la diffusion des petites molécules."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 5,
+      "correctionPage": 6,
+      "correctionEndPage": 6,
+      "sourceSubject": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+      "sourceCorrection": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+      "weight": 1
+    },
+    "reason": "QRM complet présent dans les sujets et corrigés, mais absent de la banque : les QRM 9 et 10 n’avaient pas été individualisés et le second était absorbé dans la consigne du QCM 18. Nouvel identifiant libre, anciens identifiants préservés.",
+    "refs": [
+      {
+        "file": "Annales Tissu épithélial NON corrigé 2020 2026.pdf",
+        "page": 5,
+        "label": "QRM 10, session 2 de juin 2024",
+        "href": "sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf#page=5"
+      },
+      {
+        "file": "Annales Tissu Epithélial 2020 2026 CORRECTION.pdf",
+        "page": 6,
+        "label": "Correction du QRM 10",
+        "href": "sources/revision_v4/Annales_Tissu_Epithelial_2020_2026_CORRECTION_1e6bf3af86.pdf#page=6"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tc",
+    "afterId": 39,
+    "question": {
+      "id": 57,
+      "sourceNumber": 11,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu conjonctif (TC)",
+      "question": "Concernant le tissu conjonctif, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "le collagène de type IV est majoritaire dans ce tissu"
+        },
+        {
+          "id": "B",
+          "text": "les fibres élastiques sont constituées à 90% d’élastine"
+        },
+        {
+          "id": "C",
+          "text": "le tissu adipeux est un tissu conjonctif dense"
+        },
+        {
+          "id": "D",
+          "text": "les fibroblastes sont dispersés dans la matrice extracellulaire"
+        },
+        {
+          "id": "E",
+          "text": "l’histiocyte est la forme tissulaire du macrophage"
+        }
+      ],
+      "answer": "BDE",
+      "explanations": {
+        "A": "Faux : il est dans la lamina densa de la membrane basale.",
+        "B": "Vrai.",
+        "C": "Faux : TC lâche.",
+        "D": "Vrai.",
+        "E": "Vrai."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 11,
+      "correctionPage": 13,
+      "sourceSubject": "annales TISSU CONJONCTIF 2020 2025.pdf",
+      "sourceCorrection": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+      "weight": 1
+    },
+    "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "page": 11,
+        "label": "Question 11, juin 2024 session 2 : cinq propositions originales",
+        "href": "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_1db02487eb.pdf#page=11"
+      },
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Question 11, juin 2024 session 2 : cinq verdicts explicites",
+        "href": "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_CORRECTION_2_15a22929d2.pdf#page=13"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tc",
+    "afterId": 57,
+    "question": {
+      "id": 58,
+      "sourceNumber": 12,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu conjonctif (TC)",
+      "question": "Concernant le tissu cartilagineux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "il comporte une vascularisation importante"
+        },
+        {
+          "id": "B",
+          "text": "il est utilisé comme matrice pour la croissance osseuse"
+        },
+        {
+          "id": "C",
+          "text": "sa matrice extracellulaire est solide et élastique"
+        },
+        {
+          "id": "D",
+          "text": "le cartilage hyalin est le plus rare dans l’organisme"
+        },
+        {
+          "id": "E",
+          "text": "les pondrocytes produisent la matrice extracellulaire"
+        }
+      ],
+      "answer": "B",
+      "explanations": {
+        "A": "Faux : il est avasculaire.",
+        "B": "Vrai.",
+        "C": "Faux : pas toujours élastique.",
+        "D": "Faux.",
+        "E": "Faux : ce sont les chondroblastes, les chondrocytes renouvellent juste la matrice dans les logettes = chondroplastes."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 12,
+      "correctionPage": 13,
+      "sourceSubject": "annales TISSU CONJONCTIF 2020 2025.pdf",
+      "sourceCorrection": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+      "weight": 1
+    },
+    "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "page": 12,
+        "label": "Question 12, juin 2024 session 2 : cinq propositions originales",
+        "href": "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_1db02487eb.pdf#page=12"
+      },
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Question 12, juin 2024 session 2 : cinq verdicts explicites",
+        "href": "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_CORRECTION_2_15a22929d2.pdf#page=13"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tc",
+    "afterId": 58,
+    "question": {
+      "id": 59,
+      "sourceNumber": 13,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu conjonctif (TC)",
+      "question": "Concernant le tissu osseux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes :",
+      "options": [
+        {
+          "id": "A",
+          "text": "il est un réservoir d’ions minéraux comme le calcium"
+        },
+        {
+          "id": "B",
+          "text": "il possède une matrice extracellulaire minéralisée, rigide"
+        },
+        {
+          "id": "C",
+          "text": "sa matrice extracellulaire est constituée majoritairement de collagène I"
+        },
+        {
+          "id": "D",
+          "text": "les ostéoclastes fabriquent le tissu osseux"
+        },
+        {
+          "id": "E",
+          "text": "les ostéocytes détruisent le tissu osseux"
+        }
+      ],
+      "answer": "ABC",
+      "explanations": {
+        "A": "Vrai.",
+        "B": "Vrai.",
+        "C": "Vrai.",
+        "D": "Faux : ils la détruisent.",
+        "E": "Faux : ce sont les ostéoclastes."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 12,
+      "correctionPage": 13,
+      "sourceSubject": "annales TISSU CONJONCTIF 2020 2025.pdf",
+      "sourceCorrection": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+      "weight": 1
+    },
+    "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+    "refs": [
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025.pdf",
+        "page": 12,
+        "label": "Question 13, juin 2024 session 2 : cinq propositions originales",
+        "href": "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_1db02487eb.pdf#page=12"
+      },
+      {
+        "file": "annales TISSU CONJONCTIF 2020 2025 CORRECTION-2.pdf",
+        "page": 13,
+        "label": "Question 13, juin 2024 session 2 : cinq verdicts explicites",
+        "href": "sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_CORRECTION_2_15a22929d2.pdf#page=13"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "afterId": 53,
+    "question": {
+      "id": 65,
+      "sourceNumber": 16,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu nerveux (TN)",
+      "question": "Concernant les nerfs, quelle(s) sont la(les) affirmation(s) exacte(s) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ils sont constitués d’axones groupés en fascicules"
+        },
+        {
+          "id": "B",
+          "text": "ils ne sont pas vascularisés"
+        },
+        {
+          "id": "C",
+          "text": "ils contiennent des fibroblastes, des cellules gliales et des cellules périneurales"
+        },
+        {
+          "id": "D",
+          "text": "ils ne contiennent que des axones myélinisés"
+        },
+        {
+          "id": "E",
+          "text": "ils sont encapsulés par du tissu conjonctif dense, l’épinèvre"
+        }
+      ],
+      "answer": "AC",
+      "explanations": {
+        "A": "Vrai.",
+        "B": "Faux.",
+        "C": "Vrai.",
+        "D": "Faux.",
+        "E": "Faux : le paranèvre."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 18,
+      "correctionPage": 19,
+      "sourceSubject": "annales TISSU NERVEUX 2018 2025.pdf",
+      "sourceCorrection": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+      "weight": 1
+    },
+    "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 18,
+        "label": "Question 16, juin 2024 session 2 : cinq propositions originales",
+        "href": "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf#page=18"
+      },
+      {
+        "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+        "page": 19,
+        "label": "Question 16, juin 2024 session 2 : cinq verdicts explicites",
+        "href": "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf#page=19"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "afterId": 65,
+    "question": {
+      "id": 66,
+      "sourceNumber": 17,
+      "year": "2023-2024",
+      "session": "S2",
+      "category": "Annales · 2023–2024 · Session 2 (juin 2024)",
+      "course": "Tissu nerveux (TN)",
+      "question": "Concernant le liquide cérébro-spinal (LCS), quelle(s) est(sont) la (les) affirmation(s) exacte(s) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "il est produit par les plexus arachnoïdes des méninges."
+        },
+        {
+          "id": "B",
+          "text": "dans les ventricules, il est au contact des épendymocytes de l’épendyme"
+        },
+        {
+          "id": "C",
+          "text": "dans le canal épendymaire, il est au contact des épendymocytes de l’épendyme"
+        },
+        {
+          "id": "D",
+          "text": "au niveau péri-encéphalique, il circule dans les espaces sous-arachnoïdiens"
+        },
+        {
+          "id": "E",
+          "text": "au niveau péri-encéphalique, il est directement au contact des neurones du cortex cérébraL"
+        }
+      ],
+      "answer": "BCD",
+      "explanations": {
+        "A": "Faux : les plexus choroïdes.",
+        "B": "Vrai.",
+        "C": "Vrai.",
+        "D": "Vrai.",
+        "E": "Faux : il est limité par la glie limitante."
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 18,
+      "correctionPage": 19,
+      "sourceSubject": "annales TISSU NERVEUX 2018 2025.pdf",
+      "sourceCorrection": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+      "weight": 1
+    },
+    "reason": "QCM complet de la session de juin 2024 absent de la banque, avec sujet et corrigé retrouvés. Nouvelle entrée de session et nouvel identifiant libre ; aucune ancienne question renumérotée ni fusionnée.",
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 18,
+        "label": "Question 17, juin 2024 session 2 : cinq propositions originales",
+        "href": "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf#page=18"
+      },
+      {
+        "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+        "page": 19,
+        "label": "Question 17, juin 2024 session 2 : cinq verdicts explicites",
+        "href": "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf#page=19"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s2",
+    "sourceNumber": 30,
+    "proposedId": 34,
+    "question": {
+      "id": 34,
+      "sourceNumber": 30,
+      "category": "Colle",
+      "question": "Vous pouvez affirmer :",
+      "context": "",
+      "options": [
+        {
+          "id": "A",
+          "text": "Au cours de l’éclosion peuvent se constituer des jumeaux monozygotes monochoriaux monoamniotiques."
+        },
+        {
+          "id": "B",
+          "text": "Au stade blastocyste une division du bouton embryonnaire aboutira à la formation de jumeaux monozygotes dichoriaux diamniotiques."
+        },
+        {
+          "id": "C",
+          "text": "Au cours de la S1 des jumeaux mono-amniotiques peuvent se former."
+        },
+        {
+          "id": "D",
+          "text": "Au stade 16 blastomères, peut se diviser en 2 : il sera alors à l’origine de jumeaux monochoriaux, diamniotiques."
+        },
+        {
+          "id": "E",
+          "text": "À 48 h après la fécondation, une division de l’œuf à ce stade aboutira à la constitution de jumeaux monozygotes et monochoriaux."
+        }
+      ],
+      "answer": "",
+      "explanations": {
+        "A": "Faux : ils seront diamniotiques.",
+        "B": "Faux : monochoriaux.",
+        "C": "Faux : avant J8, ils seront diamniotiques.",
+        "D": "Faux : dichoriaux.",
+        "E": "Faux : dichoriaux."
+      },
+      "warning": "Sujet non corrigé absent de l’archive : énoncé et verdicts transcrits depuis le corrigé. QCM source rétabli après perte lors de l’extraction.",
+      "images": [],
+      "sourceSubject": "7. Colle en chambre S2 LS correction.pdf",
+      "sourceCorrection": "7. Colle en chambre S2 LS correction.pdf",
+      "subjectPage": 7,
+      "sourceEndPage": 7,
+      "correctionPage": 7,
+      "ignoredOptions": [],
+      "tokenMode": false,
+      "weight": 1,
+      "course": "UE5 Embryologie · S2 · Deuxième semaine",
+      "rawAnswer": "AUCUNE"
+    },
+    "reason": "QCM complet visible dans le PDF p.7, absorbé par le QCM précédent lors de l’extraction. Nouvel ID en fin de banque pour préserver tous les anciens IDs.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S2 LS correction.pdf",
+        "href": "sources/revision_v4/7_Colle_en_chambre_S2_LS_correction_c6ccd4fca9.pdf#page=7"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s2",
+    "sourceNumber": 33,
+    "proposedId": 35,
+    "question": {
+      "id": 35,
+      "sourceNumber": 33,
+      "category": "Colle",
+      "question": "Vous pouvez affirmer :",
+      "context": "",
+      "options": [
+        {
+          "id": "A",
+          "text": "Il peut y avoir formation de jumeaux monozygotes monoamniotiques et monochoriaux par dédoublement du disque didermique."
+        },
+        {
+          "id": "B",
+          "text": "Des jumeaux diamniotiques et dichoriaux peuvent être soit monozygotes soit dizygotes."
+        },
+        {
+          "id": "C",
+          "text": "La formation des jumeaux monozygotes monochoriaux diamniotiques est contemporaine de la phase d’éclosion du blastocyste."
+        },
+        {
+          "id": "D",
+          "text": "La formation des jumeaux monozygotes monochoriaux monoamniotiques est contemporaine de la phase d’éclosion du blastocyste."
+        },
+        {
+          "id": "E",
+          "text": "La séparation en 2 du bouton embryonnaire au cours de l’éclosion aboutira à la formation de jumeaux monoamniotiques et monochoriaux."
+        },
+        {
+          "id": "F",
+          "text": "La formation des jumeaux monozygotes monochoriaux diamniotiques a lieu après la formation de la cavité amniotique."
+        }
+      ],
+      "answer": "ABC",
+      "explanations": {
+        "A": "Vrai à condition que le disque se dédouble après J8.",
+        "B": "Vrai.",
+        "C": "Vrai : peut aussi être une division de la MCI à J5 ou J6, juste avant l’éclosion.",
+        "D": "Faux.",
+        "E": "Faux : diamniotiques.",
+        "F": "Faux : avant la formation de la cavité amniotique."
+      },
+      "warning": "Sujet non corrigé absent de l’archive : énoncé et verdicts transcrits depuis le corrigé. QCM source rétabli après perte lors de l’extraction.",
+      "images": [],
+      "sourceSubject": "7. Colle en chambre S2 LS correction.pdf",
+      "sourceCorrection": "7. Colle en chambre S2 LS correction.pdf",
+      "subjectPage": 7,
+      "sourceEndPage": 7,
+      "correctionPage": 7,
+      "ignoredOptions": [],
+      "tokenMode": false,
+      "weight": 1,
+      "course": "UE5 Embryologie · S2 · Deuxième semaine",
+      "rawAnswer": "ABC"
+    },
+    "reason": "QCM complet visible dans le PDF p.7, absorbé par le QCM précédent lors de l’extraction. Nouvel ID en fin de banque pour préserver tous les anciens IDs.",
+    "refs": [
+      {
+        "file": "7. Colle en chambre S2 LS correction.pdf",
+        "page": 7,
+        "label": "7. Colle en chambre S2 LS correction.pdf",
+        "href": "sources/revision_v4/7_Colle_en_chambre_S2_LS_correction_c6ccd4fca9.pdf#page=7"
+      }
+    ]
+  }
+]

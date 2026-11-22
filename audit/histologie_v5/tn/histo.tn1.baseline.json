@@ -1,0 +1,718 @@
+{
+  "ue": "ue5h",
+  "courseId": "tn",
+  "kind": "autotest",
+  "seriesLabel": "Autotest TN1",
+  "label": "Autotest TN1",
+  "short": "HISTO",
+  "title": "Tissu nerveux (TN)<br>Autotest TN1",
+  "subtitle": "Autotest TN1 · Tissu nerveux (TN). Questions et corrections issues des documents fournis, avec schémas du sujet lorsqu’ils sont présents.",
+  "description": "UE5 · Histologie · Autotest TN1 · PASS Lyon-Sud",
+  "storage": "pass_ssh_site_ue5_histo_tn1_v1",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du SN",
+      "options": [
+        {
+          "id": "A",
+          "text": "Le système nerveux reçoit intègre et traite des informations nerveuses"
+        },
+        {
+          "id": "B",
+          "text": "Le SN ne traite que les informations issues de l’environnement"
+        },
+        {
+          "id": "C",
+          "text": "Les seules cellules présentes dans le Système Nerveux sont des neurones et des cellules sanguines"
+        },
+        {
+          "id": "D",
+          "text": "Les neurones sont les seules cellules excitables"
+        },
+        {
+          "id": "E",
+          "text": "Les neurones sont capables de générer un message et le transmettre à d’autres neurones"
+        }
+      ],
+      "answer": "AE",
+      "explanations": {
+        "A": "",
+        "B": "aussi des informations endogènes",
+        "C": "+ gliales",
+        "D": "aussi les cellules musculaires",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 2,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du SN",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les afférences représentent les informations entrant dans le SN"
+        },
+        {
+          "id": "B",
+          "text": "Les informations sensorielles sont afférentes"
+        },
+        {
+          "id": "C",
+          "text": "Les informations motrices sont afférentes"
+        },
+        {
+          "id": "D",
+          "text": "Les informations sensorielles sont traitées dans le névraxe"
+        },
+        {
+          "id": "E",
+          "text": "Le névraxe ne comprend que la moelle épinière"
+        }
+      ],
+      "answer": "ABD",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "efférentes",
+        "D": "c’est le SNC",
+        "E": "cerveau, tronc cerebral, cervelet et ME"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 3,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du SN",
+      "options": [
+        {
+          "id": "A",
+          "text": "Le tronc cérébral appartient à l’étage sus tentoriel"
+        },
+        {
+          "id": "B",
+          "text": "Le cervelet appartient à l’étage sous tentoriel"
+        },
+        {
+          "id": "C",
+          "text": "La moelle épinière appartient à l’étage sus tentoriel"
+        },
+        {
+          "id": "D",
+          "text": "L’encéphale dans la boite crânienne est le seul dans l’étage sus-tentoriel"
+        },
+        {
+          "id": "E",
+          "text": "Tous les nerfs crâniens appartiennent au SNC"
+        }
+      ],
+      "answer": "B",
+      "explanations": {
+        "A": "sous tentoriel avec cervelet",
+        "B": "",
+        "C": "étage vertébral",
+        "D": "le cerveau seul est à l’étage sus-tentoriel, le tronc cérébral est à l’étage sous tentoriel . Encephale : cerveau, cervelet, tronc cérébral",
+        "E": "seulement les nerfs optiques"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 4,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du SNP",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les nerfs crâniens sauf les nerfs optiques appartiennent au SNP"
+        },
+        {
+          "id": "B",
+          "text": "Les nerfs sensoriels afférents appartiennent au SNP"
+        },
+        {
+          "id": "C",
+          "text": "Les nerfs moteurs dont les corps cellulaires sont dans la substance grise de la moelle épinière appartiennent au SNC"
+        },
+        {
+          "id": "D",
+          "text": "Les ganglions rachidiens (ou spinaux) qui contiennent les corps cellulaires des neurones sensoriels sont dans le SNP"
+        },
+        {
+          "id": "E",
+          "text": "Les ganglions végétatifs n’appartiennent pas au système nerveux"
+        }
+      ],
+      "answer": "ABD",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "ils sont bien dans le SNP même si les corps cellulaires appartiennent à la substance grise de la moelle épinière",
+        "D": "",
+        "E": "au SNP"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 5,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos des cellules gliales présentes dans le SNC on note :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les astrocytes"
+        },
+        {
+          "id": "B",
+          "text": "Les cellules satellites"
+        },
+        {
+          "id": "C",
+          "text": "Les cellules de Schwann"
+        },
+        {
+          "id": "D",
+          "text": "Les oligodendrocytes"
+        },
+        {
+          "id": "E",
+          "text": "Les épendymocytes"
+        }
+      ],
+      "answer": "ADE",
+      "explanations": {
+        "A": "",
+        "B": "SNP",
+        "C": "SNP",
+        "D": "",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 6,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du LCS= liquide cérébrospinal= LCR liquide céphalo rachidien :",
+      "options": [
+        {
+          "id": "A",
+          "text": "On ne le trouve que dans le 3ème et le 4ème ventricule présent dans l’encéphale"
+        },
+        {
+          "id": "B",
+          "text": "Le LCS est en contact avec le tissu nerveux"
+        },
+        {
+          "id": "C",
+          "text": "Le LCS est en contact avec le sang"
+        },
+        {
+          "id": "D",
+          "text": "Le LCS circule au sein de la moelle épinière"
+        },
+        {
+          "id": "E",
+          "text": "L’épendyme est le tissu entre le LCS et le tissu nerveux"
+        }
+      ],
+      "answer": "BCDE",
+      "explanations": {
+        "A": "+ acqueduc de Sylvius + canal épendymaire + périencéphalique dans espace sous arachnoidien + citerne de la base+ autour des racines des nerfs crâniens et sacrés",
+        "B": "",
+        "C": "",
+        "D": "dans le canal épendymaire",
+        "E": "il recouvre les ventricules + canal de l’épendyme"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 7,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du LCR :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les épendymocytes sont des cellules à l’interface LCR/sang"
+        },
+        {
+          "id": "B",
+          "text": "Le LCR est synthétisé au niveau des plexus choroïdes présents au niveau du canal épendymaire"
+        },
+        {
+          "id": "C",
+          "text": "L’interface piogliale est l’interface entre le TN et le sang"
+        },
+        {
+          "id": "D",
+          "text": "Les méninges sont formées de la pie mère et de l’arachnoïde"
+        },
+        {
+          "id": "E",
+          "text": "Les leptoméninges sont formées de la dure mère et de la pie mère"
+        }
+      ],
+      "answer": "AD",
+      "explanations": {
+        "A": "",
+        "B": "au niveau des ventricules latéraux+3ème +4ème lieu de synthèse du LCR",
+        "C": "c’est l’interface entre le TN et le LCS",
+        "D": "+ la dure mère",
+        "E": "arachnoide et pie mère"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 8,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos des méninges :",
+      "options": [
+        {
+          "id": "A",
+          "text": "La dure mère est un TC résistant et dur"
+        },
+        {
+          "id": "B",
+          "text": "Des cellules mésothéliales sont décrites au niveau de la pie mère"
+        },
+        {
+          "id": "C",
+          "text": "L’arachnoïde est vascularisée"
+        },
+        {
+          "id": "D",
+          "text": "La glie limitante ou limitante gliale est un enchevêtrement d’astrocytes"
+        },
+        {
+          "id": "E",
+          "text": "Le LCR circule dans l’espace sous arachnoïdien"
+        }
+      ],
+      "answer": "ADE",
+      "explanations": {
+        "A": "",
+        "B": "arachnoïde",
+        "C": "avasculaire",
+        "D": "",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 1,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 9,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos de la substance blanche SB",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elle est située en position centrale dans la moelle épinière"
+        },
+        {
+          "id": "B",
+          "text": "Elle forme le cortex du cerveau"
+        },
+        {
+          "id": "C",
+          "text": "Elle contient des axones myélinisés"
+        },
+        {
+          "id": "D",
+          "text": "Elle présente de nombreuses synapses"
+        },
+        {
+          "id": "E",
+          "text": "Elle présente des astrocytes et des cellules microgliales"
+        }
+      ],
+      "answer": "CE",
+      "explanations": {
+        "A": ", externe",
+        "B": ", centrale",
+        "C": "",
+        "D": "",
+        "E": "+ oligodendrocytes comme SG"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 10,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos de la substance grise",
+      "options": [
+        {
+          "id": "A",
+          "text": "On trouve dans la SG de la moelle épinière des corps cellulaires de motoneurones"
+        },
+        {
+          "id": "B",
+          "text": "Elle est en position centrale dans l’encéphale"
+        },
+        {
+          "id": "C",
+          "text": "Elle est dépourvue de cellules gliales"
+        },
+        {
+          "id": "D",
+          "text": "Elle n’est pas vascularisée contrairement à la substance blanche"
+        },
+        {
+          "id": "E",
+          "text": "Elle est formée par le neuropile"
+        }
+      ],
+      "answer": "AE",
+      "explanations": {
+        "A": "",
+        "B": "périphérique le cortex",
+        "C": "astrocytes et cellules microgliales + oligodendrocytes",
+        "D": "les deux sont vascularisées",
+        "E": ", enchevêtrement de dendrites et d'émergence d’axones (= les neurites) + synapses et prolongements gliaux"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 11,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "Dans le neuropile on trouve :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Des prolongements d’astrocytes"
+        },
+        {
+          "id": "B",
+          "text": "Des émergences d’axone"
+        },
+        {
+          "id": "C",
+          "text": "Des enchevêtrements de dendrites"
+        },
+        {
+          "id": "D",
+          "text": "Des capillaires sanguins"
+        },
+        {
+          "id": "E",
+          "text": "Des synapses"
+        }
+      ],
+      "answer": "ABCE",
+      "explanations": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": "mais pas de corps cellulaires ni de cellules gliales ni de neurones !!!"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 12,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos des nerfs :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Un nerf = un axone"
+        },
+        {
+          "id": "B",
+          "text": "Un nerf = une fibre nerveuse"
+        },
+        {
+          "id": "C",
+          "text": "Une fibre nerveuse = un axone"
+        },
+        {
+          "id": "D",
+          "text": "Dans un nerf tous les axones sont myélinisés"
+        },
+        {
+          "id": "E",
+          "text": "Tous les nerfs appartiennent au SNP"
+        }
+      ],
+      "answer": "C",
+      "explanations": {
+        "A": ", ensemble de fibres nerveuses rassemblées en faisceaux",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": "pas le nerf optique , si on écrit « tous les nerfs rachidiens appartiennent au SNP » alors c’est Vrai"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 13,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos de la structure des nerfs",
+      "options": [
+        {
+          "id": "A",
+          "text": "Les faisceaux rassemblent de nombreux axones"
+        },
+        {
+          "id": "B",
+          "text": "Les nerfs sont vascularisés"
+        },
+        {
+          "id": "C",
+          "text": "L’enveloppe externe du nerf est le paranèvre"
+        },
+        {
+          "id": "D",
+          "text": "L’enveloppe autour de chaque faisceau est l’épinèvre"
+        },
+        {
+          "id": "E",
+          "text": "Chaque fibre nerveuse est entourée d’un endonèvre"
+        }
+      ],
+      "answer": "ABCE",
+      "explanations": {
+        "A": "",
+        "B": "on trouve les VS = vaisseaux sanguins dans l’épinèvre",
+        "C": "",
+        "D": "c’est le périnèvre",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 14,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "Histologie des nerfs :",
+      "options": [
+        {
+          "id": "A",
+          "text": "L’endonèvre est un TC lâche avec quelques fibrilles de collagène"
+        },
+        {
+          "id": "B",
+          "text": "Le périnèvre est un TC lâche avec quelques fibroblastes"
+        },
+        {
+          "id": "C",
+          "text": "L’épinèvre est un TC dense avec quelques adipocytes et des vasanervorum"
+        },
+        {
+          "id": "D",
+          "text": "Le paranèvre est un TC lâche"
+        },
+        {
+          "id": "E",
+          "text": "Le paranèvre forme une capsule protectrice"
+        }
+      ],
+      "answer": "ACE",
+      "explanations": {
+        "A": "",
+        "B": "ce n’est pas un TC",
+        "C": "vaisseaux nourriciers",
+        "D": "dense et capsulaire",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 15,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "On trouve dans les ganglions rachidiens présents dans le SNP :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Des corps cellulaires de neurones sensoriels"
+        },
+        {
+          "id": "B",
+          "text": "Des corps cellulaires de neurones moteurs"
+        },
+        {
+          "id": "C",
+          "text": "Des cellules satellites"
+        },
+        {
+          "id": "D",
+          "text": "Des synapses"
+        },
+        {
+          "id": "E",
+          "text": "Des cellules gliales"
+        }
+      ],
+      "answer": "ACE",
+      "explanations": {
+        "A": "",
+        "B": ", ME",
+        "C": "",
+        "D": "dans gg végétatifs seulement",
+        "E": "= c/ satellites"
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    },
+    {
+      "id": 16,
+      "category": "Autotest TN1",
+      "course": "Tissu nerveux (TN)",
+      "question": "A propos du SN Entérique",
+      "options": [
+        {
+          "id": "A",
+          "text": "Il appartient au SNC"
+        },
+        {
+          "id": "B",
+          "text": "Il est formé de trois plexus"
+        },
+        {
+          "id": "C",
+          "text": "Le plexus de Meisner est dans la sous muqueuse de la paroi du tube digestif (TD)"
+        },
+        {
+          "id": "D",
+          "text": "Le plexus d’Auerbach est dans la musculeuse de la paroi du TD"
+        },
+        {
+          "id": "E",
+          "text": "Il permet le contrôle de la motricité et de la sensibilité du TD"
+        }
+      ],
+      "answer": "CDE",
+      "explanations": {
+        "A": "",
+        "B": "deux",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "warning": "",
+      "images": [],
+      "subjectPage": 2,
+      "correctionPage": null,
+      "sourceSubject": "autotest TN1.docx",
+      "sourceCorrection": "CORRECTION autotest TN1(1).docx",
+      "weight": 1,
+      "approximateDocxPage": true
+    }
+  ]
+}

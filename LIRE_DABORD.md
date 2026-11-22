@@ -1,31 +1,32 @@
-# Site de révision PASS — annales ajoutées
+# Site de révision PASS — V5
+
+Version du 22 novembre 2026. **2 806 QCM/fiches, 217 banques.** Les neuf autotests d’histologie ont été vérifiés intégralement : **128 QCM / 649 items**, avec une relecture indépendante et les copies du sujet et du corrigé pour chaque QCM.
 
 ## Ouvrir le site
 
-1. Décompressez entièrement l’archive.
-2. Ouvrez `index.html` dans votre navigateur.
-3. Conservez `static/` et `sources/` à côté de ce fichier : ils contiennent les images et le PDF source.
+1. Décompresser toute l’archive.
+2. Ouvrir `index.html` dans le navigateur.
+3. Conserver `static/` et `sources/` à côté.
 
-Le site fonctionne localement. Aucun compte ni serveur n’est nécessaire.
+Le site fonctionne localement, sans compte ni serveur.
 
-## Révision des énoncés communs
+## Nouveautés histologie
 
-Les données partagées apparaissent dans un bloc avant les QCM concernés, y compris après recherche ou filtrage. Un lien dans chaque carte permet de revenir à l’énoncé commun. Les trois banques ED de biomol, les biostatistiques et la biochimie ont fait l’objet d’une nouvelle séparation des consignes, propositions et annexes. Les identifiants et sauvegardes sont conservés ; quatre clés mal rattachées dans les annales ED ont été rétablies depuis le corrigé (détails dans le rapport).
+Les menus **Voir le sujet original** et **Voir le corrigé original** sont repliés par défaut. Le corrigé original n’apparaît qu’après correction du QCM. Les captures incluent les reprises sur la page suivante, les figures et les items. Les liens donnent accès au PDF complet et au Word non modifié lorsque le sujet était fourni en Word.
 
-## Annales intégrées
+Deux QCM de techniques histologiques manquants sont rétablis. Les mentions V/F de TE2 Q11 et le cas tout-faux de TC3 Q17 sont reconnus correctement. Les explications sont reprises item par item et les ambiguïtés sont signalées dans la correction. Voir [VERIFICATION_HISTOLOGIE_V5.md](VERIFICATION_HISTOLOGIE_V5.md).
 
-838 QCM ajoutés : UE2 biochimie/chimie, UE3 biostatistiques et UE4 médicaments. Les 1 950 QCM existants sont conservés. Les nouvelles annales vont de 2018–2019 à 2025–2026 ; aucun QCM antérieur à 2015 n’a été ajouté. Les 19 QCM dont la correction est absente ou contradictoire restent consultables hors note.
+Les 208 banques hors de ces neuf autotests sont inchangées. Les annales d’histologie et la pharmacologie gardent leur organisation V4 ; les 336 QCM de pharmacologie restent regroupés en quinze thèmes. Aucun sujet absent des documents n’est inventé.
 
-## Profils et progression
+## Progression et profils
 
-L’interrupteur conserve son comportement : activé, seuls les QCM renseignés sont corrigés dans le profil 1 ; désactivé, le profil 2 conserve sa progression indépendante. Les QCM déjà corrigés restent mémorisés dans leur profil.
+- Interrupteur activé : profil 1, correction des seuls QCM renseignés.
+- Interrupteur désactivé : profil 2, progression indépendante et correction globale.
+- « Aucune proposition » constitue une réponse volontaire, différente d’un blanc.
+- Recommencer ne remet à zéro que la série et le profil courants.
 
-Les clés de sauvegarde des anciens QCM sont inchangées. Pour reprendre une progression locale, utilisez le même navigateur et remplacez le site à son emplacement habituel en gardant le nom `index.html`. Les réponses sont stockées dans le navigateur, pas dans le ZIP. Le bouton « Exporter mes résultats » permet de conserver un bilan.
+Les identifiants existants sont conservés. Pour retrouver sa progression, utiliser le même navigateur et remplacer le site au même emplacement, en gardant `index.html`. Les réponses sont dans le navigateur, pas dans le ZIP.
 
-Pour un nouveau QCM, cocher « Aucune proposition » exprime une réponse volontaire ; laisser tout vide conserve le QCM non renseigné en mode sélectif.
+## Sources et contrôles
 
-## Contrôles et sources
-
-Le fichier et les pages d’origine figurent sous chaque consigne. Les extraits de correction s’affichent après validation. Le PDF source complet se trouve dans `sources/Annales_compilation.pdf`.
-
-Consultez `CONTROLE_ANNALES.md` pour le bilan, les 19 questions hors note et les limites de la vérification. Le dossier `audit/` contient l’inventaire complet et la provenance des images. `MAINTENANCE.md` conserve la structure et les règles nécessaires pour poursuivre le travail.
+`audit/histologie_v5/` contient la comparaison exhaustive et les tests de cette révision. Son fichier `fichiers_sha256.json` est le manifeste actuel ; les manifestes précédents restent historiques. `audit/revision_v4/` et les rapports historiques conservent le contrôle antérieur de toutes les unités. Les clés du tutorat restent distinctes des remarques scientifiques : les désaccords ne changent pas silencieusement la note officielle. `MAINTENANCE.md` décrit la structure à conserver.

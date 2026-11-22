@@ -1,0 +1,174 @@
+{
+  "patches": [
+    {
+      "bank": "histo.ann.tn",
+      "id": 1,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Il circule dans les ventricules, les espaces sous-arachnoïdiens, les organes circumventriculaires et le canal épendymaire."
+          },
+          {
+            "id": "B",
+            "text": "Il est sécrété par les épendymocytes ciliées des plexus choroïdes."
+          },
+          {
+            "id": "C",
+            "text": "Il est sécrété par un type de cellules gliales spécialisées."
+          },
+          {
+            "id": "D",
+            "text": "Il est réabsorbé par les épendymocytes tapissant les cavités ventriculaires."
+          },
+          {
+            "id": "E",
+            "text": "Il ne diffuse pas dans le parenchyme cérébral grâce aux jonctions serrées liant les cellules gliales de l’épendyme."
+          }
+        ],
+        "explanations": {
+          "A": "",
+          "B": "Il est sécrété par les épendymocytes non ciliées des plexus choroïdes.",
+          "C": "les épendymocytes",
+          "D": "",
+          "E": "pas de jonctions serrées entre les cellules gliales de l’épendyme"
+        },
+        "context": ""
+      },
+      "reason": "Le paragraphe de biopsie/gliose appartient au contexte suivant, avant les Q39–40. Il est retiré de l’item E et de son explication, puis rendu comme bloc commun. Le cas initial est également déplacé en bloc commun ; clé AC inchangée.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 1,
+          "label": "Texte et limites des propositions/contextes dans le sujet"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 1,
+          "label": "Séparation de l’explication et du contexte clinique suivant"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 2,
+      "set": {
+        "context": ""
+      },
+      "reason": "Le cas initial déjà présent est déplacé en bloc commun ; le résultat de biopsie est ajouté avant Q39–40. Aucun item ni verdict modifié.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 1,
+          "label": "Texte et limites des propositions/contextes dans le sujet"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 3,
+      "set": {
+        "explanations": {
+          "A": "La glie de Bergman est constituée de cellules astrocytaires situées au contact des cellules de Purkinje.",
+          "B": "Elles dérivent toutes des cellules souches neurales sauf les cellules microgliales qui dérivent de cellules souches hématopoïétiques embryonnaires.",
+          "C": "Par exemple les cellules microgliales.",
+          "D": "Elles sont dix fois plus nombreuses que les neurones et régulent (entre autres) la transmission synaptique neuro-neuronale.",
+          "E": "Les prolongements astrocytaires reposant sur la lame basale des capillaires continus cérébraux contribuent à la barrière hémato-encéphalique."
+        },
+        "context": ""
+      },
+      "reason": "La leucopathie après radiothérapie est un nouveau paragraphe clinique, avant Q41, et non la suite de la justification de E. L’explication de E se termine après « barrière hémato-encéphalique ». Cas initial déplacé en bloc commun ; clé C inchangée.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 1,
+          "label": "Texte et limites des propositions/contextes dans le sujet"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 2,
+          "label": "Séparation de l’explication et du contexte clinique suivant"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 4,
+      "set": {
+        "context": ""
+      },
+      "reason": "Le contexte de leucopathie déjà présent est déplacé en bloc commun avant Q41, après le contexte initial du même patient. Aucun item ni verdict modifié.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 2,
+          "label": "Texte et limites des propositions/contextes dans le sujet"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 10,
+      "set": {
+        "options": [
+          {
+            "id": "A",
+            "text": "Il contient des structures somatiques et végétatives"
+          },
+          {
+            "id": "B",
+            "text": "Il est divisé en 3 composantes : SN entérique, sympathique et orthosympathique"
+          },
+          {
+            "id": "C",
+            "text": "Il est formé de nerfs et de ganglions"
+          },
+          {
+            "id": "D",
+            "text": "Il contient des neurones et des cellules gliales"
+          },
+          {
+            "id": "E",
+            "text": "Il ne contient aucune synapse"
+          }
+        ],
+        "explanations": {
+          "A": "",
+          "B": "SN entérique + paraS + orthoS + système nerveux somatique",
+          "C": "",
+          "D": "neurones moteur/sensoriels/cellules de Schwann + satellites",
+          "E": "dans les ganglions végétatifs"
+        }
+      },
+      "reason": "Le paragraphe sur les paresthésies/démyélinisation appartient au contexte des Q22–23. Il est retiré de l’item E et de son explication du Q21, puis rendu séparément. Introduction du SGB rétablie avant Q21–24 ; clé ACD inchangée.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 5,
+          "label": "Texte et limites des propositions/contextes dans le sujet"
+        },
+        {
+          "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+          "page": 6,
+          "label": "Séparation de l’explication et du contexte clinique suivant"
+        }
+      ]
+    },
+    {
+      "bank": "histo.ann.tn",
+      "id": 13,
+      "set": {
+        "context": ""
+      },
+      "reason": "Le contexte d’analyse du LCS déjà présent est déplacé avant Q24 en bloc associé à cette question, sous le cas SGB commun. Le texte source existant et la consigne sont conservés.",
+      "refs": [
+        {
+          "file": "annales TISSU NERVEUX 2018 2025.pdf",
+          "page": 5,
+          "label": "Texte et limites des propositions/contextes dans le sujet"
+        }
+      ]
+    }
+  ],
+  "additions": []
+}

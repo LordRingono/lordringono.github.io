@@ -1,0 +1,2488 @@
+[
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 9,
+    "sourceId": "9",
+    "items": [
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "D est donné vrai et E faux, mais le calcul du corrigé aboutit lui-même à une VPP de 2/3. RV+ = 0,60/(1−0,90) = 6 multiplie l’odds pré-test (1/3), donnant une odds post-test de 2 et une probabilité de 2/3. Il ne multiplie pas la probabilité par 6. Les verdicts scientifiquement cohérents sont donc D faux et E vrai. Clé du tutorat conservée ; ce désaccord est démontré par les données et le calcul figurant dans la source, sans prétendre à une validation par une ronéo UE3 indisponible.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 509,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 518,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "ABCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 8,
+    "sourceId": "8",
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "Le corrigé rejette B mais explique sous A que l’on compare deux proportions indépendantes. Les 200 lésions supplémentaires forment un groupe distinct des 200 premières : l’écart réduit pour deux proportions indépendantes proposé en B est approprié sous ses conditions usuelles. Avec 0,60 et 0,70, n1=n2=200 et la proportion commune 0,65, |z|≈2,10 ; il ne s’agit pas des données appariées du QCM 7. B devrait être vrai. Clé source conservée ; voir la ronéo UE3 sur les comparaisons de proportions pour confirmation pédagogique.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 508,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 517,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "DE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 2,
+    "sourceId": "2",
+    "items": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé CD est incohérente : C et D proposent deux bornes supérieures différentes, 0,19 et 0,20. Avec f=75/500=0,15, la demi-largeur vaut 1,96×√(0,15×0,85/500)≈0,03130. L’arrondi usuel des bornes donne [0,12 ; 0,18], donc E ; l’arrondi conservateur de la demi-largeur à 0,04 appliqué explicitement par le corrigé donne [0,11 ; 0,19], donc BC. Aucune de ces conventions ne donne CD. La ronéo UE3 « Estimation » doit préciser la convention d’arrondi ; la clé du tutorat est conservée.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 534,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 542,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "CD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 5,
+    "sourceId": "5",
+    "items": [
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Les verdicts D vrai et E faux suivent la statistique t=−2,000 imposée dans l’énoncé. Mais les données de l’exercice (8 patientes par groupe, moyennes −3 et −2,5, écarts types 0,3 et 0,4) et la variance commune 0,125 calculée en B donnent t=−0,5/√[0,125(1/8+1/8)]≈−2,828, pas −2. Avec 14 degrés de liberté, cela conduit à p≈0,0135 et au rejet à 5 %. C’est une incohérence de données de la source, pas une raison de changer les réponses attendues lorsque t=−2 est imposé. La ronéo « Comparaison de deux moyennes » est nécessaire pour la validation de cours.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 489,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 498,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "BD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 11,
+    "sourceId": "11",
+    "items": [
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le corrigé utilise r/t=0,64/2,79≈0,23 pour valider E, conformément à la statistique fournie. Cependant n=28 et r=0,64 donnent, pour le test usuel de Pearson, t=r√[(n−2)/(1−r²)]≈4,25 et √[(1−r²)/(n−2)]≈0,151. Les valeurs r, n et t de l’énoncé ne sont donc pas compatibles entre elles. Conserver la clé du tutorat si l’on utilise le t imposé ; ne pas apprendre 0,23 comme résultat cohérent des trois données. Ronéo requise : UE3 corrélation et régression.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 509,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 520,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "BCE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 2,
+    "sourceId": "2",
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "E est donné faux alors qu’il concerne la moyenne observée m, et non la vraie moyenne μ. L’intervalle calculé ici a la forme m ± u×s/√n : son centre m y appartient par construction. L’explication du corrigé (« aucune certitude absolue ») concerne la couverture de μ et ne réfute pas E. E devrait être vrai pour l’intervalle de l’exercice. À confirmer dans la ronéo UE3 « Estimation » ; clé du tutorat conservée.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 560,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 568,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "A",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "sourceId": "5",
+    "items": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La source est contradictoire : son en-tête annonce BCE, mais ses explications déclarent A vrai, B faux, C vrai, D faux et E vrai, soit ACE. H0 porte bien sur les espérances, pas sur les moyennes observées ; avec 26 degrés de liberté, 2,053<2,056, on ne rejette pas à 5 %. La clé vide du site ne signifie donc pas que toutes les propositions sont scientifiquement fausses. Aucun choix entre les clés contradictoires de la source ne doit être fait silencieusement. Ronéo requise : UE3 tests de comparaison de moyennes.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 561,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 570,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 3,
+    "sourceId": "3",
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "B est donné faux au motif que H0 serait m=3,00. C’est l’inverse : l’hypothèse nulle porte sur l’espérance inconnue μ de la population, H0: μ=3,00 ; m=2,70 est la moyenne déjà observée. B devrait donc être vrai. Le verdict de la source est conservé ; confirmation pédagogique à demander à la ronéo UE3 « Tests d’hypothèses / comparaison d’une moyenne à une référence ».",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 579,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 584,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "AD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 4,
+    "sourceId": "4",
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "E est donné faux avec une explication sur la prévalence, alors que l’item compare deux probabilités conditionnelles : détecter les malades (sensibilité 96 %) et classer les non-malades (spécificité 88 %). Puisque 96 % > 88 %, E est vrai dans les données de l’exercice. La prévalence n’intervient pas dans cette comparaison. Clé du tutorat conservée ; à confirmer dans la ronéo UE3 sur les performances diagnostiques.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 579,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 585,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "B",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 9,
+    "sourceId": "9",
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé rejette E parce que les proportions restent identiques. Pourtant l’écart réduit divise la différence de proportions par une erreur-type qui augmente lorsque les effectifs diminuent. À proportions et allocation relatives identiques, des effectifs plus faibles donnent un |z| plus faible (et un χ²=z² plus faible). E devrait être vrai dans cette comparaison. Clé source conservée ; ronéo requise : UE3 comparaison de deux proportions indépendantes.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 592,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 601,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 3,
+    "sourceId": "3",
+    "items": [
+      "B",
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "La variable individuelle codée 0/1 est bien une Bernoulli de paramètre π inconnu : B devrait être vrai. Le nombre de personnes atteintes suit une binomiale B(36,π), mais π n’est pas connu égal à 0,33 ; 12/36≈0,33 n’en est qu’une estimation. E confond le paramètre et son estimation et devrait être faux dans sa formulation. La clé ACDE du tutorat est conservée ; à confirmer dans les ronéos UE3 « Lois de probabilité » et « Estimation ».",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 652,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 657,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "ACDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 5,
+    "sourceId": "5",
+    "items": [
+      "A",
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé BCD classe cette étude comme cas-témoins. L’énoncé décrit pourtant des femmes sélectionnées selon leur appartenance au programme Valériane puis suivies pendant la grossesse, avec observation ultérieure des complications : c’est une cohorte (A), pas un recrutement selon la présence préalable de complications (B). Les groupes ne sont pas formés sur le critère de jugement. A devrait être vrai et B faux. Clé du tutorat conservée ; à confronter à la ronéo UE3 « Designs d’étude en épidémiologie ».",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 653,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 659,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 8,
+    "sourceId": "8",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le calcul 1/(0,091−0,090)=1000 concerne un événement cardiovasculaire évité à 8 ans, qui est le critère recueilli dans l’énoncé. D remplace ce critère par un décès ; les données ne donnent pas le nombre de décès et ne permettent pas d’en déduire ce nombre nécessaire à traiter. D n’est donc pas justifié tel qu’il est écrit, même si le calcul 1000 est correct pour les événements cardiovasculaires. Clé source conservée ; voir la ronéo UE3 sur le nombre nécessaire à traiter et la définition du critère de jugement.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 686,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 696,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 3,
+    "sourceId": "3",
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "Le verdict A faux est cohérent avec le test de Student à 10 degrés de liberté de l’exercice précédent. En revanche, l’explication recopie « la statistique du test suit une loi Normale », ce qui affirme précisément l’item déclaré faux. Il faut lire ici « suit une loi de Student sous H0 ». La lettre de réponse reste inchangée ; cette note corrige seulement la contradiction du commentaire source.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 522,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 528,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 6,
+    "sourceId": "6",
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "E est correctement vrai : l’odds ratio du handicap léger ou nul est supérieur à 1. Mais l’explication parle d’un « facteur aggravant ». L’événement est favorable : le handicap léger ou nul est plus fréquent sous thrombectomie (30/150 contre 3/150), ce qui est un bénéfice pour ce critère, pas une aggravation. Le verdict est conservé ; seule l’interprétation verbale du corrigé est contestée.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 551,
+        "label": "Énoncé fourni"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 558,
+        "label": "Correction du tutorat fournie"
+      }
+    ],
+    "sourceVerdict": "ABCDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 6,
+    "sourceId": "6",
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "D est donné faux, mais l’explication indique que la courbe HNC-LL est au-dessus de l’autre et que HNC-LL discrimine mieux. C’est précisément le sens pédagogique de distributions mieux séparées entre formes graves et non graves proposé en D. La figure confirme la meilleure discrimination de HNC-LL sur les seuils représentés. Verdict litigieux à revoir avec la ronéo UE3 sur courbes ROC et distributions des marqueurs ; la distance brute entre scores n’est pas comparable sans tenir compte de leur échelle. Clé du tutorat conservée.",
+    "sourceVerdict": "AC",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 616,
+        "label": "Énoncé et figure"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 628,
+        "label": "Corrigé fourni"
+      }
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 1,
+    "sourceId": "1",
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "Le verdict B faux est cohérent. En revanche, le commentaire attribue les 5 % à la probabilité conjointe « très insatisfait et groupe 1 ». Le diagramme donne P(très insatisfait | groupe 1)=5 %, soit 10 personnes parmi les 200 du groupe 1 ; sur les 400 personnes, la probabilité conjointe vaut 10/400=2,5 %. P(groupe 1 | très insatisfait)=10/(10+20)=1/3. Il faut corriger l’interprétation du commentaire, sans changer le verdict B.",
+    "sourceVerdict": "ACE",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 506,
+        "label": "Énoncé et figure"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 513,
+        "label": "Corrigé fourni"
+      }
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 6,
+    "sourceId": "6",
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le verdict E vrai concerne correctement la significativité à 5 %, mais l’item comporte aussi le fragment « 0,01 < p-valeur < 0,02 ». Avec t=1,7/0,45≈3,78 et 30 degrés de liberté, p bilatérale≈0,00070 : cet encadrement est faux. Le corrigé ne justifie que la significativité et laisse ce fragment inexpliqué. C’est une anomalie déjà présente dans l’énoncé source ; ne pas apprendre l’encadrement imprimé comme vrai. Clé source conservée.",
+    "sourceVerdict": "ADE",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 535,
+        "label": "Énoncé et figure"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 544,
+        "label": "Corrigé fourni"
+      }
+    ]
+  },
+  {
+    "bank": "annales.ue2c.lipides.2024s1",
+    "id": 3,
+    "sourceId": "30",
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "C est écarté sur une hypothèse explicite du corrigé (« protecteurs » donc peu oxydables). Ce raisonnement confond effet physiologique et sensibilité chimique : la ronéo décrit la peroxydation des acides gras polyinsaturés et leur protection par la vitamine E. Les multiples doubles liaisons des ω3 les rendent sensibles à cette peroxydation ; leur rôle protecteur cardiovasculaire ne permet pas de rejeter C.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 53,
+        "label": "Énoncé fourni, Q30"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 73,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 74,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Ronéo cours AG2 du vendredi 03.10.25.pdf",
+        "page": 8,
+        "label": "Peroxydation lipidique des AG polyinsaturés"
+      },
+      {
+        "file": "Ronéo cours AG2 du vendredi 03.10.25.pdf",
+        "page": 9,
+        "label": "Protection antioxydante des AGPI"
+      }
+    ],
+    "sourceVerdict": "ABD",
+    "courseVerdict": "C vrai"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2024s1",
+    "id": 4,
+    "sourceId": "31",
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "C est donné vrai alors qu’il affirme l’insolubilité des triglycérides dans l’acétone. La ronéo indique explicitement que les glycérides sont solubles dans l’acétone et insolubles dans l’eau. C devrait donc être faux.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 54,
+        "label": "Énoncé fourni, Q31"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 74,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo lipides simples du lundi 06.10.25.docx.pdf",
+        "page": 4,
+        "label": "Propriétés physiques : solubilité dans l’acétone"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": "C faux"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2024s1",
+    "id": 6,
+    "sourceId": "33",
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le 2-arachidonoylglycérol est un monoacylglycérol : son squelette est du glycérol estérifié par un acide gras. La classification de la ronéo distingue ces glycérides des sphingolipides construits sur une base sphingoïde. Le qualifier de lysosphingolipide (C donné vrai) est donc incompatible avec cette structure.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 54,
+        "label": "Énoncé fourni, Q33"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 75,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo lipides simples du lundi 06.10.25.docx.pdf",
+        "page": 2,
+        "label": "Définition des glycérides"
+      },
+      {
+        "file": "Ronéo lipides complexes des lundi 28.09 et 05.10.26.docx.pdf",
+        "page": 9,
+        "label": "Sphingosine et céramides"
+      }
+    ],
+    "sourceVerdict": "ACE",
+    "courseVerdict": "C faux"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2024s1",
+    "id": 6,
+    "sourceId": "33",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est rejeté au motif que le 2-arachidonoylglycérol provient de l’acide arachidonique. Cet argument n’exclut pas un précurseur phosphatidylinositol : un phosphoinositide portant de l’arachidonate peut fournir un diacylglycérol, puis du 2-AG par une DAG-lipase. D paraît donc recevable. Les ronéos lipidiques fournies ne détaillent pas cette voie : à contrôler dans le cours sur les endocannabinoïdes et la signalisation des phosphoinositides avant de conclure au verdict du cours.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 54,
+        "label": "Énoncé fourni, Q33"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 75,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ACE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.glucides.2024s1",
+    "id": 2,
+    "sourceId": "36",
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "B est donné vrai mais attribue aux formes cycliques du glucose et du fructose une fonction pseudo-aldéhydique commune. Le glucose est un aldose ; le fructose est un cétose et sa cyclisation crée une fonction pseudo-cétonique en C2. La ronéo distingue explicitement ces deux cas.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 55,
+        "label": "Énoncé fourni, Q36"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 76,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 1,
+        "label": "Cyclisation des aldoses : hémiacétal"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 2,
+        "label": "Cyclisation du cétohexose : fonction pseudo-cétonique"
+      }
+    ],
+    "sourceVerdict": "ABDE",
+    "courseVerdict": "B faux"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2023s1",
+    "id": 6,
+    "sourceId": "13",
+    "items": [
+      "C",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "C et E sont rejetés alors que les deux molécules conservent le même squelette de lactosylcéramide. Le céramide contient une sphingosine (C vrai) ; le glucose est relié au C1 du céramide par une liaison β(1→1), présente aussi dans GM3 (E vrai). La ronéo montre ce lien pour le lactosylcéramide puis décrit GM3 comme ce noyau portant un résidu d’acide sialique supplémentaire.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 115,
+        "label": "Énoncé fourni, Q13"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 134,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo lipides complexes des lundi 28.09 et 05.10.26.docx.pdf",
+        "page": 9,
+        "label": "Céramide = sphingosine et acide gras"
+      },
+      {
+        "file": "Ronéo lipides complexes des lundi 28.09 et 05.10.26.docx.pdf",
+        "page": 13,
+        "label": "Lactosylcéramide et liaison β(1→1)"
+      },
+      {
+        "file": "Ronéo lipides complexes des lundi 28.09 et 05.10.26.docx.pdf",
+        "page": 16,
+        "label": "GM3 = céramide, deux sucres et NANA"
+      }
+    ],
+    "sourceVerdict": "AD",
+    "courseVerdict": "C et E vrais"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2023s1",
+    "id": 7,
+    "sourceId": "14",
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "A est donné faux, mais le squalène C30 est bien un précurseur triterpénique du cholestérol. Le schéma de la ronéo place le squalène en amont du cholestérol. L’explication du corrigé inverse cette filiation et qualifie à tort la vitamine D de triterpène C30.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 115,
+        "label": "Énoncé fourni, Q14"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 134,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo cours dérivés isopréniques du vendredi 09.10.26.docx.pdf",
+        "page": 3,
+        "label": "Filiation isoprénique : squalène C30 puis cholestérol"
+      },
+      {
+        "file": "Ronéo cours dérivés isopréniques du vendredi 09.10.26.docx.pdf",
+        "page": 4,
+        "label": "Structure et origine du cholestérol"
+      }
+    ],
+    "sourceVerdict": "CE",
+    "courseVerdict": "A vrai"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2023s2",
+    "id": 4,
+    "sourceId": "21",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est rejeté uniquement parce qu’il écrit « phosphore » au lieu de « phosphate ». La ronéo indique bien une augmentation de l’absorption intestinale du calcium et du phosphate. Dans le vocabulaire nutritionnel et physiologique, l’absorption du phosphore désigne celle de ses formes phosphatées : cette différence de mot ne suffit donc pas à démontrer que l’effet énoncé est faux. Faire confirmer si l’enseignant exige ici cette convention terminologique stricte.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 156,
+        "label": "Énoncé fourni, Q21"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 169,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo cours dérivés isopréniques du vendredi 09.10.26.docx.pdf",
+        "page": 13,
+        "label": "Effets intestinaux de la vitamine D : calcium et phosphate"
+      }
+    ],
+    "sourceVerdict": "BC",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.lipides.2021s1",
+    "id": 3,
+    "sourceId": "27",
+    "items": [
+      "B",
+      "C",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "La structure est un 1-palmitoyl-2,3-dioléoyl-sn-glycérol. B devrait être faux : le carbone central du glycérol porte quatre substituants distincts, car les deux branches terminales sont estérifiées par des acides gras différents. C devrait être vrai : ce triglycéride est soluble dans l’acétone. E devrait être faux : remplacer les deux oléates par deux stéarates augmente le point de fusion ; le corrigé l’explique lui-même (« c’est l’inverse ») malgré son étiquette VRAI. Les règles de solubilité et de fusion, ainsi que la structure exacte de ce triglycéride, figurent dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 242,
+        "label": "Énoncé fourni, Q27"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 264,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 265,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Ronéo lipides simples du lundi 06.10.25.docx.pdf",
+        "page": 3,
+        "label": "Même exemple : 1-palmitoyl-2,3-dioléyl-sn-glycérol"
+      },
+      {
+        "file": "Ronéo lipides simples du lundi 06.10.25.docx.pdf",
+        "page": 4,
+        "label": "Solubilité et influence des insaturations sur la fusion"
+      }
+    ],
+    "sourceVerdict": "BE",
+    "courseVerdict": "B faux, C vrai, E faux"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2021s1",
+    "id": 6,
+    "sourceId": "30",
+    "items": [
+      "C",
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "C est donné vrai, mais l’ACAT est une acyltransférase qui estérifie le cholestérol ; l’hydrolyse des esters relève d’une hydrolase. La ronéo distingue les deux enzymes. Pour E, le verdict Faux reste justifié par le précurseur immédiat 7-déhydrocholestérol ; en revanche l’explication place à tort le foie et le rein avant la formation du cholécalciférol : les hydroxylations hépatique puis rénale viennent après sa formation cutanée.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 243,
+        "label": "Énoncé fourni, Q30"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 267,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo cours dérivés isopréniques du vendredi 09.10.26.docx.pdf",
+        "page": 5,
+        "label": "Estérification par ACAT et hydrolyse"
+      },
+      {
+        "file": "Ronéo cours dérivés isopréniques du vendredi 09.10.26.docx.pdf",
+        "page": 13,
+        "label": "Photolyse cutanée puis hydroxylations hépatique et rénale"
+      }
+    ],
+    "sourceVerdict": "CD",
+    "courseVerdict": "C faux ; E faux, explication à rectifier"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2020s1",
+    "id": 6,
+    "sourceId": "30",
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "A est donné vrai, mais les liaisons entre l’acide gras et la sphingosine des molécules III et IV sont des liaisons amide, pas ester. La ronéo montre la liaison –CO–NH– du céramide. Les quatre liaisons repérées ne peuvent donc pas être toutes des esters.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 305,
+        "label": "Énoncé fourni, Q30"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 322,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo lipides complexes des lundi 28.09 et 05.10.26.docx.pdf",
+        "page": 9,
+        "label": "Formation du céramide par une liaison amide"
+      },
+      {
+        "file": "Ronéo lipides complexes des lundi 28.09 et 05.10.26.docx.pdf",
+        "page": 13,
+        "label": "Glycosphingolipides à squelette céramide"
+      }
+    ],
+    "sourceVerdict": "AC",
+    "courseVerdict": "A faux"
+  },
+  {
+    "bank": "annales.ue2c.glucides.2022s1",
+    "id": 3,
+    "sourceId": "33",
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le caractère non réducteur du stachyose est correct, mais E l’appelle un « ose ». Or le stachyose est un tétraholoside, donc un oside hydrolysable constitué de quatre oses, et non un monosaccharide. La ronéo sépare ces deux catégories. Le VRAI du corrigé porte manifestement sur « non réducteur » ; l’item complet contient une impropriété de classification.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 184,
+        "label": "Énoncé fourni, Q33"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 206,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 207,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Ronéo glucides 1 du vendredi 09.10.26.pdf",
+        "page": 2,
+        "label": "Distinction oses / osides"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 11,
+        "label": "Oligosides, raffinose et stachyose"
+      }
+    ],
+    "sourceVerdict": "ABCE",
+    "courseVerdict": "Non réducteur correct ; terme ose incorrect"
+  },
+  {
+    "bank": "annales.ue2c.glucides.2022s2",
+    "id": 3,
+    "sourceId": "21",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est rejeté au motif que l’amylopectine ne réagirait pas avec l’iode. L’amylopectine peut pourtant former une coloration iodée, généralement rouge à violette, distincte du bleu de l’amylose ; le glycogène donne une coloration brun-rouge. La ronéo fournie décrit l’amidon et le glycogène, mais ne détaille pas séparément la couleur de l’amylopectine : faire confirmer D dans le passage du cours consacré aux réactions iodées des polyosides.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 218,
+        "label": "Énoncé fourni, Q21"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 230,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 13,
+        "label": "Amidon : amylose et amylopectine"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 15,
+        "label": "Glycogène et réaction iodée"
+      }
+    ],
+    "sourceVerdict": "AB",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.glucides.2021s1",
+    "id": 2,
+    "sourceId": "32",
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le polyoside représenté est une inuline : le C1 anomérique du glucose et les C2 anomériques des fructoses sont tous engagés dans des liaisons osidiques. Le CH2OH terminal libre n’est pas une fonction hémiacétalique ou hémicétalique réductrice. E, donné vrai sur le seul argument « CH2OH libre », devrait donc être faux. La ronéo montre l’inuline et définit le pouvoir réducteur par une fonction anomérique libre.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 244,
+        "label": "Énoncé fourni, Q32"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 268,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 243,
+        "label": "Figure commune des Q31–33"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 8,
+        "label": "Absence de pouvoir réducteur lorsque les fonctions anomériques sont engagées"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 9,
+        "label": "Fonction hémiacétalique libre et pouvoir réducteur"
+      },
+      {
+        "file": "Ronéo glucides 2 du vendredi 23.10.26.pdf",
+        "page": 17,
+        "label": "Structure de l’inuline"
+      }
+    ],
+    "sourceVerdict": "ABCDE",
+    "courseVerdict": "E faux"
+  },
+  {
+    "bank": "annales.ue2c.glucides.2021s1",
+    "id": 4,
+    "sourceId": "34",
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le QCM reste sans note car le tableau annonce ADE alors que la correction détaillée retient AD. Le désaccord porte sur E : le donneur activé pour la glycogène synthase est l’UDP-glucose, formé à partir de glucose-1-phosphate, et non directement de glucose-6-phosphate. La correction détaillée explique cette distinction. Conserver le signalement de discordance entre les deux clés.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 244,
+        "label": "Énoncé fourni, Q34"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 269,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2024s1",
+    "id": 3,
+    "sourceId": "41",
+    "items": [
+      "A",
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "A et C sont donnés vrais, mais la distinction acide gras / acyl-CoA est essentielle. Les acides gras courts et moyens peuvent entrer dans la matrice sans la navette carnitine et y être activés ; cela ne signifie pas que leurs esters acyl-CoA diffusent librement à travers la membrane interne. L’affirmation « tous activés avant l’entrée » et l’explication « acyl-CoA court par diffusion » paraissent donc excessives. La ronéo du transport mitochondrial et de la β-oxydation n’a pas été fournie : ces deux verdicts nécessitent ce chapitre précis.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 56,
+        "label": "Énoncé fourni, Q41"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 78,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABC",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2024s2",
+    "id": 2,
+    "sourceId": "24",
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "B décrit correctement le produit majoritaire libéré par la glycogène phosphorylase : le glucose-1-phosphate. Le corrigé le rejette en écrivant glucose-6-phosphate, qui est le produit de la conversion ultérieure par la phosphoglucomutase. La même compilation, dans le corrigé d’enzymologie Q24 de 2020–2021, décrit explicitement le clivage du glycogène en glucose-1-phosphate. Il s’agit d’une contradiction interne identifiable, même sans ronéo du métabolisme glucidique.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 89,
+        "label": "Énoncé fourni, Q24"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 106,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 107,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 319,
+        "label": "Q24 : la glycogène phosphorylase libère du glucose-1-phosphate"
+      }
+    ],
+    "sourceVerdict": "ACD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2024s2",
+    "id": 3,
+    "sourceId": "25",
+    "items": [
+      "C"
+    ],
+    "kind": "outdated_reference",
+    "text": "Le bilan de 5 ATP par tour de β-oxydation repose sur l’ancienne convention 3 ATP/NADH et 2 ATP/FADH2. Avec les rapports P/O usuels de 2,5 et 1,5, les deux coenzymes réduits représentent environ 4 ATP ; l’acétyl-CoA est compté séparément. Ce décalage de convention ne justifie pas de remplacer automatiquement la clé historique. Le chapitre actuel sur la chaîne respiratoire et les bilans énergétiques est nécessaire pour savoir quelle convention le concours attend.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 90,
+        "label": "Énoncé fourni, Q25"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 107,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BC",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2023s1",
+    "id": 1,
+    "sourceId": "18",
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "L’item est donné faux au motif que le muscle squelettique n’utiliserait pas le lactate qu’il produit. Cette exclusion est trop générale : les fibres oxydatives peuvent utiliser le lactate comme substrat, après conversion en pyruvate et oxydation mitochondriale ; production et utilisation peuvent coexister à l’échelle du muscle. Une lecture limitée au muscle très glycolytique ou au cycle de Cori peut expliquer la simplification. À vérifier dans la ronéo « spécificités tissulaires du métabolisme », partie lactate et échanges intertissulaires, qui n’a pas été fournie.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 116,
+        "label": "Énoncé fourni, Q18"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 136,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2023s2",
+    "id": 1,
+    "sourceId": "24",
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "L’item est donné faux au motif que le muscle squelettique n’utiliserait pas le lactate qu’il produit. Cette exclusion est trop générale : les fibres oxydatives peuvent utiliser le lactate comme substrat, après conversion en pyruvate et oxydation mitochondriale ; production et utilisation peuvent coexister à l’échelle du muscle. Une lecture limitée au muscle très glycolytique ou au cycle de Cori peut expliquer la simplification. À vérifier dans la ronéo « spécificités tissulaires du métabolisme », partie lactate et échanges intertissulaires, qui n’a pas été fournie.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 157,
+        "label": "Énoncé fourni, Q24"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 170,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "C",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2022s1",
+    "id": 1,
+    "sourceId": "35",
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "L’item est donné faux au motif que le muscle squelettique n’utiliserait pas le lactate qu’il produit. Cette exclusion est trop générale : les fibres oxydatives peuvent utiliser le lactate comme substrat, après conversion en pyruvate et oxydation mitochondriale ; production et utilisation peuvent coexister à l’échelle du muscle. Une lecture limitée au muscle très glycolytique ou au cycle de Cori peut expliquer la simplification. À vérifier dans la ronéo « spécificités tissulaires du métabolisme », partie lactate et échanges intertissulaires, qui n’a pas été fournie.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 184,
+        "label": "Énoncé fourni, Q35"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 207,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 208,
+        "label": "Suite de la correction de référence"
+      }
+    ],
+    "sourceVerdict": "BD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.proteines.2022s1",
+    "id": 1,
+    "sourceId": "18",
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "L’explication « non protéinogène » n’autorise pas « jamais retrouvée dans les protéines ». La citrulline peut être présente dans des protéines par citrullination post-traductionnelle de résidus arginine, même si aucun codon standard ne l’incorpore directement lors de la traduction. A paraît donc trop absolu. La ronéo sur les acides aminés et les modifications post-traductionnelles manque pour vérifier la convention attendue.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 179,
+        "label": "Énoncé fourni, Q18"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 198,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 199,
+        "label": "Suite de la correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2021s1",
+    "id": 4,
+    "sourceId": "38",
+    "items": [
+      "E"
+    ],
+    "kind": "outdated_reference",
+    "text": "Le nombre 130 ATP relève d’un ancien bilan énergétique du palmitate. Avec 2,5 ATP/NADH, 1,5 ATP/FADH2 et un coût d’activation de deux équivalents ATP, l’oxydation complète d’un palmitate libre donne environ 106 ATP nets : 8×10 + 7×4 − 2. Le résultat dépend donc des rapports P/O et de la convention d’activation ; la clé historique est conservée. La ronéo actuelle « β-oxydation, cycle de Krebs et chaîne respiratoire » est nécessaire pour confirmer les conventions du cours.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 245,
+        "label": "Énoncé fourni, Q38"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 271,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "CDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2021s2",
+    "id": 2,
+    "sourceId": "23",
+    "items": [
+      "D"
+    ],
+    "kind": "outdated_reference",
+    "text": "Le nombre 130 ATP relève d’un ancien bilan énergétique du palmitate. Avec 2,5 ATP/NADH, 1,5 ATP/FADH2 et un coût d’activation de deux équivalents ATP, l’oxydation complète d’un palmitate libre donne environ 106 ATP nets : 8×10 + 7×4 − 2. Le résultat dépend donc des rapports P/O et de la convention d’activation ; la clé historique est conservée. La ronéo actuelle « β-oxydation, cycle de Krebs et chaîne respiratoire » est nécessaire pour confirmer les conventions du cours.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 282,
+        "label": "Énoncé fourni, Q23"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 296,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2018",
+    "id": 5,
+    "sourceId": "40",
+    "items": [
+      "D"
+    ],
+    "kind": "outdated_reference",
+    "text": "Le nombre 130 ATP relève d’un ancien bilan énergétique du palmitate. Avec 2,5 ATP/NADH, 1,5 ATP/FADH2 et un coût d’activation de deux équivalents ATP, l’oxydation complète d’un palmitate libre donne environ 106 ATP nets : 8×10 + 7×4 − 2. Le résultat dépend donc des rapports P/O et de la convention d’activation ; la clé historique est conservée. La ronéo actuelle « β-oxydation, cycle de Krebs et chaîne respiratoire » est nécessaire pour confirmer les conventions du cours.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 456,
+        "label": "Énoncé fourni, Q40"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 479,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 480,
+        "label": "Suite de la correction de référence"
+      }
+    ],
+    "sourceVerdict": "CD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2023s1",
+    "id": 6,
+    "sourceId": "23",
+    "items": [
+      "A"
+    ],
+    "kind": "outdated_reference",
+    "text": "L’égalité 3 NADH + 1 FADH2 = 11 ATP utilise la convention historique 3 et 2 ATP par coenzyme. Avec les rapports P/O usuels 2,5 et 1,5, ces seuls coenzymes donnent environ 9 ATP ; le GTP du cycle porterait le total à 10. Ne pas confondre ce changement de convention avec une faute de calcul dans le corrigé, qui applique bien 3×3 + 2. Le cours actuel sur les bilans de la chaîne respiratoire manque.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 118,
+        "label": "Énoncé fourni, Q23"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 138,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.enzymes.2020s1",
+    "id": 2,
+    "sourceId": "24",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est donné vrai alors qu’il nie le caractère allostérique de la glycogène phosphorylase. Sa régulation par phosphorylation n’exclut pas une régulation allostérique ; l’isoforme musculaire répond notamment à AMP, ATP et glucose-6-phosphate. Le commentaire sur la réaction catalysée ne démontre pas l’absence d’allostérie. À vérifier dans la ronéo d’enzymologie, chapitre régulations covalente et allostérique, non fournie.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 304,
+        "label": "Énoncé fourni, Q24"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 319,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 320,
+        "label": "Suite de la correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.proteines.2020s2",
+    "id": 3,
+    "sourceId": "14",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D évoque les deux formes mésomères de la liaison peptidique et est rejeté au motif que la liaison possède un caractère partiellement double. Or ce caractère partiellement double est justement la conséquence de la délocalisation électronique entre les deux formes limites. Le motif du corrigé ne réfute donc pas l’item, à condition de lire « deux formes » comme des formes de résonance, et non deux molécules distinctes en équilibre. À vérifier dans le cours de structure des protéines, section liaison peptidique.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 334,
+        "label": "Énoncé fourni, Q14"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 347,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "AC",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2020s2",
+    "id": 1,
+    "sourceId": "22",
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "A est donné vrai mais présente le glucose-6-phosphate comme la forme directement incorporée au glycogène. Le substrat donneur de la glycogène synthase est l’UDP-glucose ; G6P puis G1P sont des intermédiaires en amont. Le corrigé de la même compilation, Q34 de 2021–2022, précise cette activation en UDP-glucose. Lire l’item au sens d’incorporation directe rend donc son VRAI incohérent avec cette autre correction.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 337,
+        "label": "Énoncé fourni, Q22"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 351,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 269,
+        "label": "Q34 : glucose-1-phosphate et UDP-glucose pour la glycogénogenèse"
+      }
+    ],
+    "sourceVerdict": "ACE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.proteines.2020paces",
+    "id": 6,
+    "sourceId": "33",
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "A décrit des plans peptidiques rigides successifs ; il ne dit pas que l’hélice entière est indéformable. La mobilité de l’hélice invoquée pour le rejeter n’invalide pas la planéité et la rigidité relatives de chaque liaison peptidique, ni leur orientation répétée dans une hélice α régulière. Le motif du corrigé confond deux niveaux de structure. À confronter à la ronéo « liaison peptidique et structures secondaires », absente.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 366,
+        "label": "Énoncé fourni, Q33"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 389,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "CD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2020paces",
+    "id": 1,
+    "sourceId": "36",
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "La réaction de l’hexokinase est irréversible, mais le glucose-6-phosphate peut encore entrer dans plusieurs voies (glycolyse, glycogénogenèse, voie des pentoses phosphates). L’étape d’engagement spécifique vers la glycolyse est classiquement celle de PFK-1. C, donné vrai, confond donc irréversibilité et engagement dans une voie. Vérifier ce vocabulaire dans la ronéo de glycolyse et de sa régulation, non fournie.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 367,
+        "label": "Énoncé fourni, Q36"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 391,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BCE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2019",
+    "id": 2,
+    "sourceId": "37",
+    "items": [
+      "A",
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est donné faux alors que la réaction réversible catalysée par l’aldolase intervient dans les deux voies : clivage du fructose-1,6-bisphosphate en glycolyse, condensation des trioses en néoglucogenèse. La néoglucogenèse contourne les étapes irréversibles, pas cette réaction réversible. Par ailleurs, A peut rester faux à cause de la néoglucogenèse, mais son explication situe à tort la fin de la glycolyse dans la mitochondrie : la conversion du pyruvate en acétyl-CoA et le cycle de Krebs sont distincts de la glycolyse cytosolique. La ronéo de métabolisme glucidique manque pour une validation conforme au cours.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 410,
+        "label": "Énoncé fourni, Q37"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 437,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "B",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.metabolisme.2019",
+    "id": 3,
+    "sourceId": "38",
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "E est donné vrai, mais l’allongement d’une chaîne d’acide gras s’effectue du côté carboxylique, tandis que l’extrémité méthyle initiale est conservée. La ronéo AG2 illustre cette extrémité invariable et le décalage de la numérotation depuis COOH lors de l’ajout de deux carbones. Le raccourcissement β-oxydatif est bien du côté carboxylique ; c’est la première moitié de E qui pose problème.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 410,
+        "label": "Énoncé fourni, Q38"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 437,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 438,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Ronéo cours AG2 du vendredi 03.10.25.pdf",
+        "page": 3,
+        "label": "Élongation : extrémité méthyle invariable et addition de deux carbones"
+      }
+    ],
+    "sourceVerdict": "BCDE",
+    "courseVerdict": "E faux"
+  },
+  {
+    "bank": "annales.ue2c.lipides.2022s1",
+    "id": 1,
+    "sourceId": "25",
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Le tableau indique BCD et la correction détaillée ADE : aucune clé unique n’est attribuée au QCM. La filiation représentée dans la ronéo AG2 permet de retrouver les séries et enzymes décrites par la correction détaillée. Ce contrôle étaye ADE pour le contenu scientifique, sans effacer la discordance documentaire ni rétablir arbitrairement une notation.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 181,
+        "label": "Énoncé fourni, Q25"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 202,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 203,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Ronéo cours AG2 du vendredi 03.10.25.pdf",
+        "page": 2,
+        "label": "Filiations ω6 et ω3 : désaturases et élongases"
+      }
+    ],
+    "sourceVerdict": "",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2024s1",
+    "id": 1,
+    "sourceId": "48",
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Le corrigé assimile le quatrième état excité de H à n=4. Or l’état fondamental est n=1 : le quatrième état excité est n=5. Son seuil d’ionisation vaut 13,6/25 = 0,544 eV, soit une longueur d’onde limite d’environ 2 279 nm, et non 1 458 nm (valeur de n=4). Il faut distinguer quatrième niveau et quatrième état excité.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 58,
+        "label": "Énoncé fourni, Q48"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 81,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Chap 1 et 2 chimie phy_260918_170147.pdf",
+        "page": 8,
+        "label": "Niveaux d’énergie de l’hydrogène"
+      },
+      {
+        "file": "Chap 1 et 2 chimie phy_260918_170147.pdf",
+        "page": 9,
+        "label": "Transitions énergétiques"
+      }
+    ],
+    "sourceVerdict": "ABC",
+    "courseVerdict": "A faux pour quatrième état excité"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2023s1",
+    "id": 1,
+    "sourceId": "1",
+    "items": [
+      "B",
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "Les items et le corrigé emploient Li+ tout en utilisant la formule des hydrogénoïdes Eₙ = −13,6 Z²/n². Li+ possède deux électrons ; l’ion hydrogénoïde de lithium est Li2+, cité explicitement dans la ronéo. Les résultats de B et C ne sont donc valables qu’en supposant une coquille de charge et en lisant Li2+. La figure et la clé originales sont conservées, avec cette hypothèse rendue explicite.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 112,
+        "label": "Énoncé fourni, Q1"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 127,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Chap 1 et 2 chimie phy_260918_170147.pdf",
+        "page": 8,
+        "label": "Hydrogénoïde = un seul électron ; exemple Li2+"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": "Calculs cohérents pour Li2+, pas pour Li+"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2022s2",
+    "id": 2,
+    "sourceId": "28",
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "E est donné vrai, avec l’argument que Mg et Si ont un nombre pair d’électrons. Avoir un nombre pair d’électrons ne signifie pas qu’ils sont tous appariés. Si fondamental a la configuration [Ne] 3s² 3p² ; la règle de Hund place les deux électrons 3p dans deux orbitales distinctes, donc non appariés. Mg a bien toutes ses sous-couches occupées complètes.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 219,
+        "label": "Énoncé fourni, Q28"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 233,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 234,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Chap 1 et 2 chimie phy_260918_170147.pdf",
+        "page": 13,
+        "label": "Configuration fondamentale, Pauli et règle de Hund"
+      }
+    ],
+    "sourceVerdict": "ABDE",
+    "courseVerdict": "E faux"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2021s2",
+    "id": 1,
+    "sourceId": "27",
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "E, qui compare le rayon de Se2− à celui de Kr, n’est pas retenu dans la clé A. Les deux espèces ont 36 électrons, mais Se2− possède 34 protons contre 36 pour Kr : à configuration identique, l’attraction nucléaire est plus faible pour Se2− et son rayon plus grand. Cette conclusion découle du modèle de rayon et de charge effective de la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 283,
+        "label": "Énoncé fourni, Q27"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 298,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Chap 3 chimie phy_260906_130652.pdf",
+        "page": 5,
+        "label": "Charge nucléaire effective"
+      },
+      {
+        "file": "Chap 3 chimie phy_260906_130652.pdf",
+        "page": 6,
+        "label": "Rayon de Slater et attraction nucléaire"
+      }
+    ],
+    "sourceVerdict": "A",
+    "courseVerdict": "E vrai"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2018",
+    "id": 1,
+    "sourceId": "46",
+    "items": [
+      "B"
+    ],
+    "kind": "roneo_conflict",
+    "text": "B est donné vrai en appliquant à un atome d’azote excité la configuration fondamentale 1s²2s²2p³ et en assimilant excitation à perte d’un électron. Une excitation redistribue les électrons sans nécessairement ioniser l’atome. La ronéo réserve explicitement les règles de remplissage utilisées ici à l’état fondamental ; l’argument donné ne permet pas de conclure que tout état excité garde trois électrons 2p parallèles. Une configuration excitée doit être précisée pour trancher B.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 458,
+        "label": "Énoncé fourni, Q46"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 482,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 483,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Chap 1 et 2 chimie phy_260918_170147.pdf",
+        "page": 7,
+        "label": "Excitation = passage à un niveau d’énergie supérieur"
+      },
+      {
+        "file": "Chap 1 et 2 chimie phy_260918_170147.pdf",
+        "page": 13,
+        "label": "Règles de remplissage pour l’état fondamental"
+      }
+    ],
+    "sourceVerdict": "AB",
+    "courseVerdict": "B non démontré pour un état excité non précisé"
+  },
+  {
+    "bank": "annales.ue2c.thermo.2025s1",
+    "id": 1,
+    "sourceId": "50",
+    "items": [
+      "A",
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La réaction imprimée C4H6 + C2H4 → C7H10 ne conserve pas le carbone : six atomes à gauche, sept à droite. Le calcul numérique +409 kJ·mol⁻¹ est bien la différence des valeurs données, mais il ne peut pas représenter l’enthalpie de cette réaction chimique telle qu’écrite. Il faut faire confirmer la formule du produit (ou un réactif manquant) dans le sujet original avant d’interpréter les verdicts thermodynamiques. La coquille est présente dans la source, pas créée par le site.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 18,
+        "label": "Énoncé fourni, Q50"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 44,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BCDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.thermo.2021s2",
+    "id": 1,
+    "sourceId": "28",
+    "items": [
+      "B",
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé suppose qu’ajouter l’espèce notée (l) déplace nécessairement l’équilibre. Cette conclusion dépend de son statut : l’activité d’un liquide pur formant une phase distincte reste approximativement égale à 1 ; en ajouter ne déplace alors pas l’équilibre tant que la phase subsiste. Pour un constituant dissous dans un mélange liquide, son activité peut au contraire changer. L’énoncé ne précise pas ce point. La ronéo introduit le quotient réactionnel et les activités, mais ne résout pas cette ambiguïté de phase ; faire confirmer l’hypothèse du QCM dans le cours d’équilibres hétérogènes. Pour B, le verdict Faux peut être conservé, mais à température et volume constants l’ajout d’un gaz inerte ne modifie pas les pressions partielles des espèces réactives : l’explication annonçant un déplacement par simple hausse de pression totale est également à revoir.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 283,
+        "label": "Énoncé fourni, Q28"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 298,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "cHAP 6 chimie phy_260918_180842.pdf",
+        "page": 6,
+        "label": "Quotient réactionnel et activités"
+      }
+    ],
+    "sourceVerdict": "AD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.thermo.2020s2",
+    "id": 1,
+    "sourceId": "28",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé suppose qu’ajouter l’espèce notée (l) déplace nécessairement l’équilibre. Cette conclusion dépend de son statut : l’activité d’un liquide pur formant une phase distincte reste approximativement égale à 1 ; en ajouter ne déplace alors pas l’équilibre tant que la phase subsiste. Pour un constituant dissous dans un mélange liquide, son activité peut au contraire changer. L’énoncé ne précise pas ce point. La ronéo introduit le quotient réactionnel et les activités, mais ne résout pas cette ambiguïté de phase ; faire confirmer l’hypothèse du QCM dans le cours d’équilibres hétérogènes.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 338,
+        "label": "Énoncé fourni, Q28"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 355,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 356,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "cHAP 6 chimie phy_260918_180842.pdf",
+        "page": 6,
+        "label": "Quotient réactionnel et activités"
+      }
+    ],
+    "sourceVerdict": "BD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.thermo.2020paces",
+    "id": 1,
+    "sourceId": "49",
+    "items": [
+      "C"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé suppose qu’ajouter l’espèce notée (l) déplace nécessairement l’équilibre. Cette conclusion dépend de son statut : l’activité d’un liquide pur formant une phase distincte reste approximativement égale à 1 ; en ajouter ne déplace alors pas l’équilibre tant que la phase subsiste. Pour un constituant dissous dans un mélange liquide, son activité peut au contraire changer. L’énoncé ne précise pas ce point. La ronéo introduit le quotient réactionnel et les activités, mais ne résout pas cette ambiguïté de phase ; faire confirmer l’hypothèse du QCM dans le cours d’équilibres hétérogènes.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 370,
+        "label": "Énoncé fourni, Q49"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 397,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "cHAP 6 chimie phy_260918_180842.pdf",
+        "page": 6,
+        "label": "Quotient réactionnel et activités"
+      }
+    ],
+    "sourceVerdict": "CD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.thermo.2019",
+    "id": 1,
+    "sourceId": "49",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé suppose qu’ajouter l’espèce notée (l) déplace nécessairement l’équilibre. Cette conclusion dépend de son statut : l’activité d’un liquide pur formant une phase distincte reste approximativement égale à 1 ; en ajouter ne déplace alors pas l’équilibre tant que la phase subsiste. Pour un constituant dissous dans un mélange liquide, son activité peut au contraire changer. L’énoncé ne précise pas ce point. La ronéo introduit le quotient réactionnel et les activités, mais ne résout pas cette ambiguïté de phase ; faire confirmer l’hypothèse du QCM dans le cours d’équilibres hétérogènes.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 413,
+        "label": "Énoncé fourni, Q49"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 443,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 444,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "cHAP 6 chimie phy_260918_180842.pdf",
+        "page": 6,
+        "label": "Quotient réactionnel et activités"
+      }
+    ],
+    "sourceVerdict": "ABDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.chimie_org.2022s2",
+    "id": 2,
+    "sourceId": "26",
+    "items": [
+      "A",
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La structure 1 représentée possède un CH2 immédiatement voisin du carbonyle : elle a donc des hydrogènes en α et est énolisable, contrairement au VRAI de A. Le critère écrit dans l’explication de A conduit lui-même à ce résultat. Pour B, la structure de départ possède un seul centre stéréogène ; l’addition de CN− au carbonyle en crée un second, pas un troisième. Les produits attendus dans cette lecture ont deux carbones asymétriques. La figure source a été relue ; une ronéo de réactivité des carbonyles permettrait de confirmer l’attendu de B.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 219,
+        "label": "Énoncé fourni, Q26"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 232,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 233,
+        "label": "Suite de la correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.chimie_org.2021s1",
+    "id": 2,
+    "sourceId": "41",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Les structures 2 et 3 ont la même connectivité CH3–CH(OH)–CH(CH3)2 : elles représentent toutes deux un 3-méthylbutan-2-ol. D ne peut donc pas être justifié comme une isomérie de constitution simplement parce que l’une est dessinée en Fischer et l’autre en perspective. À vérifier dans le chapitre de stéréochimie et de conversion des représentations, absent des cours fournis.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 246,
+        "label": "Énoncé fourni, Q41"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 272,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 273,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 246,
+        "label": "Figure commune des structures 1 à 6"
+      }
+    ],
+    "sourceVerdict": "BDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.chimie_org.2020paces",
+    "id": 3,
+    "sourceId": "43",
+    "items": [
+      "A"
+    ],
+    "kind": "source_conflict",
+    "text": "A est donné faux au motif que la structure 4 serait méso. Sa projection de Fischer porte pourtant les OH sur des côtés opposés et correspond au (2S,3S)-butane-2,3-diol, chiral ; la forme méso serait (2R,3S). La correction du Q42 précédent attribue elle-même la configuration (2S,3S) à la structure 4. Les deux corrections sont donc incompatibles.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 369,
+        "label": "Énoncé fourni, Q43"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 395,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 368,
+        "label": "Figure commune : structure 4"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 394,
+        "label": "Q42 E : configuration (2S,3S) de la structure 4"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 395,
+        "label": "Q42 : E explicitement vrai avant le corrigé Q43"
+      }
+    ],
+    "sourceVerdict": "BC",
+    "courseVerdict": null
+  },
+  {
+    "bank": "annales.ue2c.proteines.2019",
+    "id": 5,
+    "sourceId": "32",
+    "items": [
+      "B",
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Le fragment le plus long est HSQETF. Avec les pKa donnés, la forme de charge formelle nulle se situe entre le pKa du glutamate (4,2) et celui de l’histidine (6), donnant un pI approché de 5,1. Le commentaire « neutre entre 6 et 8,2 » utilise une borne qui ne convient pas à ce fragment. Dans le modèle de charges entières de l’exercice, B à pH 5 devrait être accepté ; la charge moyenne exacte n’est strictement nulle qu’au pI. C (pHi = 6) reste faux, mais sa justification doit être corrigée. Le Q33 suivant confirme un pI voisin de 5,1.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 408,
+        "label": "Énoncé fourni, Q32"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 432,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 433,
+        "label": "Suite de la correction de référence"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 408,
+        "label": "Séquence, pKa et questions sur le fragment"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 433,
+        "label": "Q33 : courbe et pI du fragment"
+      }
+    ],
+    "sourceVerdict": "ADE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.intro.autotest",
+    "id": 9,
+    "sourceId": "9",
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "E appelle l’AZT une « thymidine et un analogue de désoxyribose ». La thymidine contient déjà une thymine et un désoxyribose : ajouter un second sucre dans la définition est incorrect. L’AZT est la 3′-azido-3′-désoxythymidine, que l’on peut décrire comme une thymine liée à un sucre modifié en C3′. Vérifier la formulation dans la ronéo « bases, nucléosides et analogues », non fournie.",
+    "refs": [
+      {
+        "file": "4. Autotests Acides Nucléiques ENNONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q9"
+      },
+      {
+        "file": "4. Autotests Acides Nucléiques CORRECTION.pdf",
+        "page": 2,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BEFG",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.adn.autotest",
+    "id": 13,
+    "sourceId": "13",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D est rejeté en affirmant que l’ADN mitochondrial n’aurait ni promoteurs ni ADN intergénique. L’ADN mitochondrial humain possède pourtant une région de contrôle avec des promoteurs pour la transcription des brins lourd et léger, tout en étant dépourvu d’introns usuels. La présence de promoteurs ne contredit donc pas l’absence d’introns. Le cours sur l’ADN mitochondrial manque pour confirmer le périmètre et les termes exacts attendus.",
+    "refs": [
+      {
+        "file": "4. Autotests ADN ENONCE.pdf",
+        "page": 3,
+        "label": "Énoncé fourni, Q13"
+      },
+      {
+        "file": "4. Autotests ADN CORRECTION.pdf",
+        "page": 3,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 14,
+    "sourceId": "5",
+    "items": [
+      "B"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé imprimée ne retient que D, mais le commentaire du même corrigé dit explicitement « B. Vrai car les phosphates sont négatifs ». L’interaction des résidus basiques des histones avec les phosphates de l’ADN décrite en B est donc acceptée par l’explication et rejetée par la clé. Conserver cette contradiction visible ; elle ne provient pas du choix de l’étudiant.",
+    "refs": [
+      {
+        "file": "2. Annales ADN LS ENONCE.pdf",
+        "page": 4,
+        "label": "Énoncé fourni, Q5"
+      },
+      {
+        "file": "2. Annales ADN LS CORRECTION.pdf",
+        "page": 5,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "D",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.arn.autotest",
+    "id": 7,
+    "sourceId": "7",
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "A est rejeté parce que la grande sous-unité se lie à l’ARNt. Ce fait n’exclut pas son interaction avec les extrémités aminoacyl/peptidyl des ARNt et la chaîne naissante ; la petite sous-unité assure bien le décodage de l’ARNm. Le motif donné ne suffit donc pas à rendre A faux. La formulation « interagissant avec les AA » devrait être rapprochée de la ronéo sur la structure du ribosome et le centre peptidyl-transférase, non disponible.",
+    "refs": [
+      {
+        "file": "4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q7"
+      },
+      {
+        "file": "4. Autotests ARN et métabolisme CORRECTION.pdf",
+        "page": 2,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "C",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.arn.autotest",
+    "id": 8,
+    "sourceId": "8",
+    "items": [
+      "E"
+    ],
+    "kind": "possible_error",
+    "text": "E généralise des ribosomes mitochondriaux à 70S. Chez les mammifères, le mitoribosome est classiquement décrit comme 55S, composé des sous-unités 28S et 39S ; les valeurs varient entre groupes eucaryotes. Le 70S bactérien ne doit donc pas être transposé sans préciser l’organisme. À contrôler dans la ronéo ARN, section ribosomes mitochondriaux, absente ; la clé du document est conservée.",
+    "refs": [
+      {
+        "file": "4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q8"
+      },
+      {
+        "file": "4. Autotests ARN et métabolisme CORRECTION.pdf",
+        "page": 2,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "CE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "id": 11,
+    "sourceId": "7",
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "A est donné faux avec « uniquement dans le cytoplasme ». Les ARNt d’origine nucléaire sont transcrits dans le noyau avant leur export ; leur présence n’est donc pas exclusivement cytoplasmique. Le cours de transcription situe les ARN polymérases eucaryotes dans le noyau et attribue la synthèse des ARNt à l’ARN polymérase III.",
+    "refs": [
+      {
+        "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q7"
+      },
+      {
+        "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "page": 4,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 4,
+        "label": "ARN polymérase III et localisation nucléaire"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 10,
+        "label": "Transcription nucléaire et traduction cytoplasmique"
+      }
+    ],
+    "sourceVerdict": "B",
+    "courseVerdict": "A vrai"
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "id": 28,
+    "sourceId": "X",
+    "items": [
+      "A"
+    ],
+    "kind": "roneo_conflict",
+    "text": "L’item A reste faux si « lors de la traduction » signifie que l’export a lieu pendant celle-ci. En revanche, la justification officielle « ils sont formés dans le cytoplasme » est erronée pour les ARNt nucléaires : ils sont transcrits dans le noyau, puis exportés avant leur utilisation dans la traduction cytoplasmique. Le verdict et la justification doivent ici être distingués.",
+    "refs": [
+      {
+        "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 4,
+        "label": "Énoncé fourni, QX"
+      },
+      {
+        "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 4,
+        "label": "Synthèse des ARNt par l’ARN polymérase III nucléaire"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 10,
+        "label": "Localisation de la transcription eucaryote"
+      }
+    ],
+    "sourceVerdict": "BDE",
+    "courseVerdict": "A faux ; justification officielle incorrecte"
+  },
+  {
+    "bank": "ue2.organisation.autotest",
+    "id": 9,
+    "sourceId": "9",
+    "items": [
+      "E"
+    ],
+    "kind": "roneo_conflict",
+    "text": "E est donné vrai mais cite le facteur VII pour l’hémophilie A. Le gène concerné est celui du facteur VIII (F8). La fiche d’anomalies du génome confirme le facteur VIII dans son exemple d’hémophilie A. Le mécanisme d’insertion LINE cité par l’item n’autorise pas à remplacer VIII par VII.",
+    "refs": [
+      {
+        "file": "4. Autotests Organisation du génome ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q9"
+      },
+      {
+        "file": "4. Autotests Organisation du génome CORRECTION-1.pdf",
+        "page": 2,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "3. FS Anomalies du génome LS.pdf",
+        "page": 3,
+        "label": "Hémophilie A : gène du facteur VIII"
+      }
+    ],
+    "sourceVerdict": "BCE",
+    "courseVerdict": "E faux tel qu’écrit (VII au lieu de VIII)"
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "id": 10,
+    "sourceId": "10",
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Dans le système Dam d’E. coli, la méthylation de GATC porte sur l’adénine, pas sur la cytosine. B est pourtant donné vrai. La méthylation des cytosines existe dans d’autres contextes, mais ne doit pas être confondue avec le marquage Dam de ces sites. À vérifier dans la ronéo « terminaison de la réplication procaryote et méthylation », non fournie.",
+    "refs": [
+      {
+        "file": "4. Autotests Réplication ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q10"
+      },
+      {
+        "file": "4. Autotests Réplication CORRECTION.pdf",
+        "page": 2,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BC",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 21,
+    "sourceId": "10",
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "B est rejeté parce que l’ADN polymérase α interviendrait seulement sur le brin retardé. Le complexe primase–polymérase α intervient également dans l’amorçage initial du brin avancé, avant le relais par la polymérase réplicative. Son intervention répétée sur les fragments d’Okazaki n’exclut pas ce rôle initial. La ronéo de réplication eucaryote manque pour étayer le verdict attendu dans le cours.",
+    "refs": [
+      {
+        "file": "2. Annales Réplication LS ENONCE.pdf",
+        "page": 5,
+        "label": "Énoncé fourni, Q10"
+      },
+      {
+        "file": "2. Annales Réplication LS CORRECTION.pdf",
+        "page": 7,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "CDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.transcription.autotest",
+    "id": 14,
+    "sourceId": "14",
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "Le cours fourni place le clivage du pré-ARNm 10–15 nucléotides après AAUAAA. Cette distance est celle du site de coupure ; elle ne démontre pas que l’ARN polymérase II cesse elle-même de transcrire exactement à cet endroit. L’item et son explication fusionnent maturation de l’extrémité 3′ et terminaison de la polymérase. Le cours les présente de façon simplifiée : faire confirmer cette distinction dans la partie détaillée sur la terminaison de Pol II.",
+    "refs": [
+      {
+        "file": "4. Autotests Transcription LS ENONCE.pdf",
+        "page": 3,
+        "label": "Énoncé fourni, Q14"
+      },
+      {
+        "file": "4. Autotests Transcription LS CORRECTION.pdf",
+        "page": 3,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "downloadfile(1).PDF",
+        "page": 14,
+        "label": "Coupure du transcrit 10–15 nt après AAUAAA"
+      }
+    ],
+    "sourceVerdict": "BCE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.reparation.autotest",
+    "id": 8,
+    "sourceId": "8",
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Le fait que des lésions spontanées puissent apparaître en dehors de la réplication ne signifie pas qu’elles ne peuvent jamais survenir pendant celle-ci. L’item dit « peuvent » ; le motif du corrigé ne suffit donc pas à le rejeter. Il faut également distinguer une lésion chimique de l’ADN d’une mutation fixée dans la séquence. La ronéo « lésions spontanées, erreurs de réplication et mutations » est nécessaire pour trancher cette formulation.",
+    "refs": [
+      {
+        "file": "4. Autotests Réparation de l'ADN ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q8"
+      },
+      {
+        "file": "4. Autotests Réparation de l'ADN CORRECTION.pdf",
+        "page": 2,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.reparation.autotest",
+    "id": 11,
+    "sourceId": "11",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé associe le MMR humain ou les protéines MSH/MLH à un repérage du brin nouveau par retard de méthylation. Cette présentation semble transposer le système Dam/MutH d’E. coli au système humain. Chez l’Homme, MSH2–MSH6 reconnaît les mésappariements ; la discrimination du brin à réparer implique notamment des discontinuités du brin néosynthétisé et le contexte de réplication, sans le mécanisme bactérien MutH guidé par GATC méthylé. Il manque la ronéo de réparation comparant explicitement MMR bactérien et humain : maintenir ce point comme réserve scientifique, sans modifier la clé.",
+    "refs": [
+      {
+        "file": "4. Autotests Réparation de l'ADN ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q11"
+      },
+      {
+        "file": "4. Autotests Réparation de l'ADN CORRECTION.pdf",
+        "page": 3,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BCD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 25,
+    "sourceId": "9",
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé associe le MMR humain ou les protéines MSH/MLH à un repérage du brin nouveau par retard de méthylation. Cette présentation semble transposer le système Dam/MutH d’E. coli au système humain. Chez l’Homme, MSH2–MSH6 reconnaît les mésappariements ; la discrimination du brin à réparer implique notamment des discontinuités du brin néosynthétisé et le contexte de réplication, sans le mécanisme bactérien MutH guidé par GATC méthylé. Il manque la ronéo de réparation comparant explicitement MMR bactérien et humain : maintenir ce point comme réserve scientifique, sans modifier la clé.",
+    "refs": [
+      {
+        "file": "2. Annales Réparation LS ENONCE.pdf",
+        "page": 5,
+        "label": "Énoncé fourni, Q9"
+      },
+      {
+        "file": "2. Annales Réparation LS CORRECTION.pdf",
+        "page": 7,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 2,
+    "sourceId": "8",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "Le corrigé associe le MMR humain ou les protéines MSH/MLH à un repérage du brin nouveau par retard de méthylation. Cette présentation semble transposer le système Dam/MutH d’E. coli au système humain. Chez l’Homme, MSH2–MSH6 reconnaît les mésappariements ; la discrimination du brin à réparer implique notamment des discontinuités du brin néosynthétisé et le contexte de réplication, sans le mécanisme bactérien MutH guidé par GATC méthylé. Il manque la ronéo de réparation comparant explicitement MMR bactérien et humain : maintenir ce point comme réserve scientifique, sans modifier la clé.",
+    "refs": [
+      {
+        "file": "2. Annales Réparation LS ENONCE.pdf",
+        "page": 1,
+        "label": "Énoncé fourni, Q8"
+      },
+      {
+        "file": "2. Annales Réparation LS CORRECTION.pdf",
+        "page": 1,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ADE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 21,
+    "sourceId": "14",
+    "items": [
+      "A"
+    ],
+    "kind": "possible_error",
+    "text": "A est rejeté au motif que MMR agit « durant la réplication ». Le terme post-réplicatif désigne la correction d’une séquence déjà copiée, derrière la fourche, et ne signifie pas nécessairement après la fin de toute la phase S. Le MMR est classiquement une correction post-réplicative des erreurs échappées à l’édition ; les deux descriptions temporelles ne sont pas incompatibles. À faire confirmer dans la ronéo de réparation MMR, non disponible.",
+    "refs": [
+      {
+        "file": "2. Annales Réparation LS ENONCE.pdf",
+        "page": 4,
+        "label": "Énoncé fourni, Q14"
+      },
+      {
+        "file": "2. Annales Réparation LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 23,
+    "sourceId": "42’",
+    "items": [
+      "C"
+    ],
+    "kind": "roneo_conflict",
+    "text": "C est donné vrai sans condition sur la taille de la délétion. La fiche fournie précise qu’un décalage du cadre de lecture apparaît si le nombre de nucléotides supprimés n’est pas un multiple de trois. La délétion de trois nucléotides de CFTR supprimant Phe508 illustre justement une délétion en phase. Toutes les délétions ne décalent donc pas le cadre.",
+    "refs": [
+      {
+        "file": "2. Annales Réparation LS ENONCE.pdf",
+        "page": 5,
+        "label": "Énoncé fourni, Q42’"
+      },
+      {
+        "file": "2. Annales Réparation LS CORRECTION.pdf",
+        "page": 7,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "3. FS Anomalies du génome LS.pdf",
+        "page": 1,
+        "label": "Petites insertions/délétions et condition non multiple de trois"
+      },
+      {
+        "file": "3. FS Anomalies du génome LS.pdf",
+        "page": 2,
+        "label": "CFTR : suppression de trois nucléotides / Phe508"
+      }
+    ],
+    "sourceVerdict": "ACDE",
+    "courseVerdict": "C faux comme généralisation"
+  },
+  {
+    "bank": "ue2.anomalies.annales",
+    "id": 1,
+    "sourceId": "16",
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé AD exclut E, mais l’explication du même corrigé indique explicitement E Vrai et donne le cancer du poumon et le sarcome d’Ewing comme exemples. La fiche d’anomalies décrit elle aussi une translocation EML4–ALK dans certains cancers du poumon. La contradiction entre clé et commentaire doit rester signalée.",
+    "refs": [
+      {
+        "file": "2. Annales Anomalies LS ENONCE.pdf",
+        "page": 1,
+        "label": "Énoncé fourni, Q16"
+      },
+      {
+        "file": "2. Annales Anomalies LS CORRECTION.pdf",
+        "page": 1,
+        "label": "Correction de référence"
+      },
+      {
+        "file": "3. FS Anomalies du génome LS.pdf",
+        "page": 3,
+        "label": "Translocation EML4–ALK et cancer du poumon"
+      }
+    ],
+    "sourceVerdict": "AD",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.anomalies.annales",
+    "id": 2,
+    "sourceId": "14",
+    "items": [
+      "D"
+    ],
+    "kind": "possible_error",
+    "text": "D dit qu’une substitution synonyme peut être associée à une pathologie. Le fait de ne pas modifier directement l’acide aminé ne permet pas de l’exclure : une variation synonyme peut notamment perturber un élément d’épissage ou l’expression du transcrit. Le « Faux, pas de changement de la protéine » est donc un argument trop général. La fiche fournie ne traite pas ce cas ; il faut le cours détaillé des variants synonymes et des conséquences sur l’épissage.",
+    "refs": [
+      {
+        "file": "2. Annales Anomalies LS ENONCE.pdf",
+        "page": 1,
+        "label": "Énoncé fourni, Q14"
+      },
+      {
+        "file": "2. Annales Anomalies LS CORRECTION.pdf",
+        "page": 1,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "ABCE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "id": 10,
+    "sourceId": "5",
+    "items": [
+      "B"
+    ],
+    "kind": "possible_error",
+    "text": "La molécule 2 est bien la xanthine, mais sa formation à partir de guanine est une désamination hydrolytique catalysée par la guanine désaminase, et non la désamination oxydative annoncée en B. La xanthine oxydoréductase intervient ailleurs dans le catabolisme des purines ; il ne faut pas fusionner ces réactions. La ronéo du catabolisme des bases puriques est manquante : faire vérifier ce qualificatif avant de retenir B.",
+    "refs": [
+      {
+        "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 2,
+        "label": "Énoncé fourni, Q5"
+      },
+      {
+        "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "page": 4,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "BCDE",
+    "courseVerdict": null
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 17,
+    "sourceId": "6",
+    "items": [
+      "E"
+    ],
+    "kind": "missing_reference",
+    "text": "L’item E est incomplet dans le sujet fourni : il s’interrompt après « La liaison entre les différents ». Le titre de l’année suivante a ensuite été accolé à cet item lors de l’extraction. Le corrigé se limite à E Vrai ; ni le texte scientifique manquant ni son objet ne peuvent être reconstitués avec certitude. Il faut la version complète du sujet, Q6 (séquence de quatre désoxyribonucléotides), pour valider E. Aucune fin de phrase n’est inventée.",
+    "refs": [
+      {
+        "file": "2. Annales ADN LS ENONCE.pdf",
+        "page": 5,
+        "label": "Énoncé fourni, Q6"
+      },
+      {
+        "file": "2. Annales ADN LS CORRECTION.pdf",
+        "page": 6,
+        "label": "Correction de référence"
+      }
+    ],
+    "sourceVerdict": "CDE",
+    "courseVerdict": null
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "banksReviewed": 9,
+  "questionsReviewed": 128,
+  "itemsReviewed": 649,
+  "newQuestions": 2,
+  "sourcePanels": 283,
+  "sourceMenus": 256,
+  "allSiteQuestionsBefore": 2804,
+  "allSiteQuestionsAfter": 2806,
+  "unchangedBanks": 208,
+  "banks": [
+    {
+      "bank": "histo.te1",
+      "label": "Autotest TE1",
+      "questions": 13,
+      "items": 65
+    },
+    {
+      "bank": "histo.te2",
+      "label": "Autotest TE2",
+      "questions": 19,
+      "items": 95
+    },
+    {
+      "bank": "histo.autotech",
+      "label": "Autotest techniques histologiques",
+      "questions": 13,
+      "items": 65
+    },
+    {
+      "bank": "histo.tc1",
+      "label": "Autotest TC1",
+      "questions": 12,
+      "items": 60
+    },
+    {
+      "bank": "histo.tc2",
+      "label": "Autotest TC2",
+      "questions": 13,
+      "items": 65
+    },
+    {
+      "bank": "histo.tc3",
+      "label": "Autotest TC3",
+      "questions": 24,
+      "items": 118
+    },
+    {
+      "bank": "histo.tn1",
+      "label": "Autotest TN1",
+      "questions": 16,
+      "items": 80
+    },
+    {
+      "bank": "histo.tn2",
+      "label": "Autotest TN2",
+      "questions": 10,
+      "items": 61
+    },
+    {
+      "bank": "histo.tn3",
+      "label": "Autotest TN3",
+      "questions": 8,
+      "items": 40
+    }
+  ]
+}

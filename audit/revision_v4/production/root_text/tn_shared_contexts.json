@@ -1,0 +1,106 @@
+[
+  {
+    "bank": "histo.ann.tn",
+    "id": "v4-shared-histo.ann.tn-2018-case",
+    "questionIds": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text": "Un patient est suivi depuis 4 ans pour un carcinome bronchopulmonaire (cancer du poumon). Il contacte son médecin traitant car il a depuis plusieurs jours des céphalées importantes et des nausées et vomissements, surtout le matin au réveil. Adressé aux urgences, un scanner cérébral est réalisé et révèle une volumineuse lésion cérébelleuse d’allure tumorale comprimant le 4ème ventricule et responsable d’une dilatation des cavités ventriculaires en amont.",
+    "images": [],
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 1,
+        "label": "Mai 2018, cas initial commun aux Q38–41"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": "v4-shared-histo.ann.tn-2018-biopsie",
+    "questionIds": [
+      2,
+      3
+    ],
+    "text": "Une biopsie de la tumeur cérébelleuse est réalisée. Dans le compte rendu anatomo-pathologique, la présence de cellules tumorales d’origine bronchopulmonaire est confirmée. Ces cellules tumorales sont au contact d’un cortex cérébelleux anormal, siège d’une gliose importante, c’est-à-dire d’une activation et prolifération de cellules gliales, notamment de la glie de Bergman.",
+    "images": [],
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 1,
+        "label": "Mai 2018, résultat de biopsie avant Q39–40"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": "v4-shared-histo.ann.tn-2018-leucopathie",
+    "questionIds": [
+      4
+    ],
+    "text": "Le patient est traité par radiothérapie encéphalique. Plusieurs années après ce traitement, le patient présente des troubles de la marche, de l’attention et de la mémoire liés à une complication iatrogène de la radiothérapie appelée leucopathie post-radique. L’imagerie cérébrale révèle des lésions de la substance blanche.",
+    "images": [],
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 2,
+        "label": "Mai 2018, évolution après radiothérapie avant Q41"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": "v4-shared-histo.ann.tn-2020-sgb",
+    "questionIds": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "text": "Le syndrome de Guillain barré (SGB) est une maladie autoimmune inflammatoire du SNP. Elle se manifeste par l’apparition brutale de paresthésies (fourmillements) ascendantes dans les membres suivie d’une parésie (perte partielle des capacités motrices d’une partie du corps) qui prédomine sur la musculature proximale",
+    "images": [],
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 5,
+        "label": "Mai 2020, introduction du syndrome de Guillain-Barré avant Q21–24"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": "v4-shared-histo.ann.tn-2020-paresthesies",
+    "questionIds": [
+      11,
+      12
+    ],
+    "text": "Les paresthésies sont secondaires à une démyélinisation des axones des neurones sensitifs des membres",
+    "images": [],
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 5,
+        "label": "Mai 2020, contexte de démyélinisation avant Q22–23"
+      }
+    ]
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": "v4-shared-histo.ann.tn-2020-lcs",
+    "questionIds": [
+      13
+    ],
+    "text": "QRM 24, Au cours du SGB, l’analyse cutologique et biochimique du LCS prélevé par ponction lombaire montre une dissociation albumino-cytologique c’est-à-dire une augmentation de la concentration en protéines (par exemple albumine) du liquide alors que la cellularité (nombre et type de cellules immunitaires présentes dans le LCR) est normale",
+    "images": [],
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025.pdf",
+        "page": 5,
+        "label": "Mai 2020, analyse du LCS avant Q24"
+      }
+    ]
+  }
+]

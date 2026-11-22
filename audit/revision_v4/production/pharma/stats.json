@@ -1,0 +1,57 @@
+{
+  "questions": 336,
+  "items": 1680,
+  "notesV3Revisited": 160,
+  "notesV4": 179,
+  "annotatedQuestions": 152,
+  "notesByKind": {
+    "source_conflict": 64,
+    "possible_error": 91,
+    "roneo_conflict": 15,
+    "missing_reference": 7,
+    "outdated_reference": 2
+  },
+  "coverageByStatus": {
+    "reviewed_without_course": 250,
+    "reviewed_with_course": 79,
+    "needs_source": 7
+  },
+  "primaryReclassificationsProposed": 25,
+  "secondaryLinksProposed": 32,
+  "figureQuestionsInspected": 13,
+  "scientificScope": "Tous les items relus, deux cours UE4 disponibles ; vérification scientifique intégrale impossible pour les thèmes sans ronéo.",
+  "countsBefore": {
+    "ue4.annales.theme.sources-naturelles": 24,
+    "ue4.annales.theme.galenique": 30,
+    "ue4.annales.theme.droit": 46,
+    "ue4.annales.theme.cycle-vie": 2,
+    "ue4.annales.theme.benefice-risque": 23,
+    "ue4.annales.theme.conception-rationnelle": 24,
+    "ue4.annales.theme.identification-pa": 32,
+    "ue4.annales.theme.developpement-clinique": 20,
+    "ue4.annales.theme.biotechnologies": 31,
+    "ue4.annales.theme.chimie-organique": 9,
+    "ue4.annales.theme.pk-pd": 24,
+    "ue4.annales.theme.cibles": 7,
+    "ue4.annales.theme.analyse-controles": 18,
+    "ue4.annales.theme.iatrogenie": 10,
+    "ue4.annales.theme.bum": 36
+  },
+  "countsAfterProposals": {
+    "ue4.annales.theme.sources-naturelles": 24,
+    "ue4.annales.theme.galenique": 30,
+    "ue4.annales.theme.droit": 44,
+    "ue4.annales.theme.cycle-vie": 26,
+    "ue4.annales.theme.benefice-risque": 23,
+    "ue4.annales.theme.conception-rationnelle": 24,
+    "ue4.annales.theme.identification-pa": 17,
+    "ue4.annales.theme.developpement-clinique": 20,
+    "ue4.annales.theme.biotechnologies": 30,
+    "ue4.annales.theme.chimie-organique": 2,
+    "ue4.annales.theme.pk-pd": 24,
+    "ue4.annales.theme.cibles": 8,
+    "ue4.annales.theme.analyse-controles": 18,
+    "ue4.annales.theme.iatrogenie": 10,
+    "ue4.annales.theme.bum": 36
+  }
+}
