@@ -1,0 +1,79 @@
+annales.ue2c.chimie_org.2020s2 ID1 SourceQ25 / sujetp337,correctionp352 / keyBE -> BE
+Soit les composés suivants :
+A. 1 possède deux carbones asymétriques.
+B. 1 est optiquement actif
+C. L’énantiomère de 2 possède un carbone asymétrique de configuration S.
+D. 1 et 3 sont isomères de conformation.
+E. 1 et 3 sont énantiomères
+BE
+A. FAUX : 1 possède un seul carbone asymétrique de configuration R.
+B. VRAI : 1 possède un carbone asymétrique, il est par conséquent chiral et dévie le trajet de la lumière
+polarisée.
+C. FAUX : L’énantiomère de 2 possède un C* de configuration opposée donc R.
+D. FAUX : La configuration des C* est opposée (R et S), ils sont donc énantiomères.
+E. VRAI
+
+==========
+
+annales.ue2c.chimie_org.2020s2 ID2 SourceQ26 / sujetp338,correctionp353 / keyC -> C
+Soit la réaction suivante :
+A. Le composé F est un alcool tertiaire.
+B. Le composé G possède la structure suivante :
+C. Le composé G est un ester.
+D. Le composé G est chiral
+E. La 2eme étape du mécanisme réactionnel de la transformation F->G fait appel aux propriétés acides
+de l’alcool F.
+C
+A. FAUX : C’est un alcool primaire.
+B. FAUX : SCHEMA DE LA REACTION :
+C. VRAI : c’est une réaction d’estérification.
+D. FAUX : le composé G ne possède pas de carbone asymétrique. G n’est donc pas chiral.
+E. FAUX : La deuxième étape fait appel aux propriétés nucléophiles de l’alcool F. Il réagit avec un carbone
+pour former un intermédiaire instable.
+
+==========
+
+annales.ue2c.atomistique.2020s2 ID1 SourceQ27 / sujetp338,correctionp355 / keyBDE -> BDE
+Concernant l’atome 34Se :
+Aide aux calculs :
+0,35×2 = 0,7 ; 0,35×3 = 1,05 ; 0,35×4 = 1,4 ; 0,35×5 = 1,75 ; 0,35×6 = 2,1 ; 0,35×7 = 2,45 ;                    0,35×8 = 2,8
+; 0,85×2 = 1,7 ; 0,85×3 = 2,55 ; 0,85×4 = 3,4 ; 0,85×5 = 4,25 ; 0,85×6 = 5,1 ;                 0,85×7 = 5,95 ; 0,85×8 = 6,8
+A. Il possède 16 électrons de valence
+B. Il possède 28 électrons de cœur
+C. L’ion Se2+ présente une configuration de gaz rare
+D. Sa charge nucléaire effective, pour un électron 3p, est égale à 22,75
+E. Dans la classification périodique, il est situé dans la même colonne que 8O
+BDE
+A. FAUX : 34 Se : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4 ; atome du bloc p donc pour déterminer le nombre
+d’électrons de valences on prend les ns + np de la dernière couche. Sois 2 + 4 = 6 électrons de valences
+B. VRAI : Les électrons de cœurs étant tous les électrons qui ne sont pas de valences on a :       34 – 6 = 28
+C. FAUX : Un gaz rare a une configuration s2 p6 ; l’ion Se2+ est l’atome de Se à qui on a arraché 2 électrons
+; ça configuration étant 4s2 4p4 à l’état normal, si on lui arrache 2 électrons ça configuration sera 4s2
+4p2
+D. VRAI : On étudie un électron sur la couche 3p donc on prend en compte les électrons présents sur la
+couche 1s, 2s 2p et 3s 3p en oubliant pas les coefficients d’écrantage ; au final on a : 2 électrons sur la
+couche 1s, 8 électrons sur la couche 2s 2p et 7 électrons sur la couche 3s 3p car l’électrons que l’on
+étudie ne s’écrante pas lui-même ; 34 - 2*1 + 8*0,85 + 7*0,35 = 34 - 2 + 6,8 + 2,45 = 34 - 11,15 = 22,75
+E. VRAI : 8O : 1s2 2s2 2p4 ; 34 Se : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4 ; Ils possèdent le même nombre d’électrons
+sur leur dernière couche p, ils sont donc sur la même colonne.
+
+==========
+
+annales.ue2c.thermo.2020s2 ID1 SourceQ28 / sujetp338,correctionp355 / keyBD -> BD
+Dans un réacteur dont l’enceinte est indilatable, on effectue la réaction suivante :
+2 A(s) + 3 B(g) ↔C(l) + 4 D(g)                  ∆Hr = -100 kJ.mol-1
+A. La valeur de ∆Hr permet de savoir que la réaction est thermodynamiquement favorisée
+B. Si on diminue la température, la réaction est déplacée vers la droite
+C. Si on ajoute du N2(g), la réaction est déplacée vers la droite (N2(g) n’étant pas : A, B, C, D)
+D. Si on ajoute du C(l), la réaction est déplacée vers la gauche
+E. Si on ajoute du A(s) la réaction est déplacée vers la droite
+BD
+A. FAUX : Le ΔHr permet de savoir si la réaction est endothermique ou exothermique donc savoir si elle
+dégage ou consomme de la chaleur. Le caractère thermodynamiquement favorisé = savoir si la réaction
+est spontanée ou non correspond au ΔG
+B. VRAI : Le système s’oppose à notre action, il va donc chercher à augmenter sa chaleur donc déplacer
+l’équilibre dans le sens exothermique ce qui, dans ce cas, déplace l’équilibre vers la droite.
+C. FAUX : le système veut se déplacer dans le sens d’une diminution du nombre de mole de gaz or il y a
+plus de mole de gaz à droite que à gauche donc déplacement de l’équilibre vers la gauche
+D. VRAI : Déplace l’équilibre dans le sens de son élimination soit vers la gauche
+E. FAUX : L’ajout de solide ne déplace pas la réaction

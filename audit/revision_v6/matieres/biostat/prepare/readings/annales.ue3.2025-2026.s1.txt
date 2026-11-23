@@ -1,0 +1,681 @@
+annales.ue3.2025-2026.s1 Q1 · SITE=ABD · GRILLE=ABD · DÉTAIL=['ABD']
+CONTEXTE(S) PARTAGÉ(S)
+
+SUJET ORIGINAL
+Exercice 1 :
+1. En se référant aux notations utilisées dans le cours, parmi les propositions suivantes, cochez la(les)
+proposition(s) exacte(s) :
+A. Une variable quantitative est toujours numérique
+B. L’espérance de données normalement distribuées dans la population est égale au mode et à la
+médiane de leur distribution théorique
+C. Plus les données varient d’un individu à l’autre dans la population, plus la variance de ces données
+est faible
+D. L’intervalle interquartile permet d’apprécier la variabilité des données
+𝒔
+E. L’écart-type de la moyenne M (ou erreur-type de M) est estimé par
+𝒏
+CORRIGÉ ORIGINAL
+Correction détaillée
+Exercice 1 :
+1. En se référant aux notations utilisées dans le cours, parmi les propositions suivantes, cochez la(les)
+proposition(s) exacte(s) :
+A. Une variable quantitative est toujours numérique
+B. L’espérance de données normalement distribuées dans la population est égale au mode et à la médiane
+de leur distribution théorique
+C. Plus les données varient d’un individu à l’autre dans la population, plus la variance de ces données est
+faible
+D. L’intervalle interquartile permet d’apprécier la variabilité des données
+𝒔
+E. L’écart-type de la moyenne M (ou erreur-type de M) est estimé par
+𝒏
+ABD
+A. VRAI : Une donnée quantitative est, par définition, toujours numérique. Elle résulte soit d'une mesure
+(donnée continue), soit d'un comptage (donnée de comptage ou discrète).
+B. VRAI : Pour une distribution théorique suivant une loi Normale, la courbe est symétrique par rapport
+à la verticale passant par l'espérance 𝜇. Dans ce cas de symétrie parfaite, la moyenne 𝜇, la médiane et
+le mode sont confondus.
+C. FAUX : C'est l'inverse. La variance est un indicateur de dispersion qui reflète la variabilité des données.
+Plus les données sont dispersées autour de la moyenne, plus la variance est élevée.
+D. VRAI : L'intervalle interquartile (IQR) est un indicateur de dispersion. Il permet d'apprécier la variabilité
+puisqu'il contient les 50 % des valeurs centrales de la distribution.
+E. FAUX :  L'écart-type de la moyenne d'un échantillon de taille n, aussi appelé erreur-type est estimé par
+𝒔
+la formule 𝑠𝑒𝑚=
+√𝒏, où s représente l'écart-type de l'échantillon.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q2 · SITE=B · GRILLE=B · DÉTAIL=['B']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 2 : 
+On sait que la concentration plasmatique en sodium des sujets d’une population de référence est 
+Normalement distribuée avec une espérance 𝝁 de 130,00 mmol/L et un écart-type théorique 𝝈 de 2,00 
+mmol/L. 
+ 
+Dans quel intervalle centre (en probabilité) a-t-on 95 % de chances d’observer la moyenne de cette 
+concentration dans un groupe de 4 patients issus de cette population ? vous garderez tous les chiffres dans le 
+résultat final.  
+SUJET ORIGINAL
+Exercice 2 :
+On sait que la concentration plasmatique en sodium des sujets d’une population de référence est
+Normalement distribuée avec une espérance 𝝁 de 130,00 mmol/L et un écart-type théorique 𝝈 de 2,00
+mmol/L.
+Dans quel intervalle centre (en probabilité) a-t-on 95 % de chances d’observer la moyenne de cette
+concentration dans un groupe de 4 patients issus de cette population ? vous garderez tous les chiffres dans le
+résultat final.
+2. Parmi les propositions suivantes, cochez la proposition exacte :
+A. La borne supérieure de l’intervalle demandé est 133,92
+B. La borne supérieure de l’intervalle demandé est 131,96
+C. La borne supérieure de l’intervalle demandé est 131,00
+D. La borne supérieure de l’intervalle demandé est 130,98
+E. Les 4 propositions précédentes sont fausses
+CORRIGÉ ORIGINAL
+Exercice 2 :
+On sait que la concentration plasmatique en sodium des sujets d’une population de référence est Normalement
+distribuée avec une espérance 𝝁 de 130,00 mmol/L et un écart-type théorique 𝝈 de 2,00 mmol/L.
+Dans quel intervalle centre (en probabilité) a-t-on 95 % de chances d’observer la moyenne de cette
+concentration dans un groupe de 4 patients issus de cette population ? vous garderez tous les chiffres dans le
+résultat final.
+2. Parmi les propositions suivantes, cochez la proposition exacte :
+A. La borne supérieure de l’intervalle demandé est 133,92
+B. La borne supérieure de l’intervalle demandé est 131,96
+C. La borne supérieure de l’intervalle demandé est 131,00
+D. La borne supérieure de l’intervalle demandé est 130,98
+E. Les 4 propositions précédentes sont fausses
+B
+A. FAUX
+𝜎
+2
+B. VRAI : 𝐼𝐶95% = [𝜇± 1,96 ×
+√𝑛] = 130 ± 1,96 ×
+√4 = [128,04 ;131,96]
+C. FAUX
+D. FAUX
+E. FAUX
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q3 · SITE=CD · GRILLE=CD · DÉTAIL=['CD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 3 :  
+Un groupe de 35 patients d’une population P a été traite en utilisant un patch transdermique. Parmi ces 
+patients, 28 ont développé des irritations cutanées. Calculez l’intervalle de confiance (IC) a 95 % de la 
+probabilité 𝝅 pour un sujet de la population P de développer des irritations cutanées lors de l’utilisation de ce 
+patch. Vous laisserez 2 chiffres significatifs au résultat final. On appelle X la variable aléatoire qui représente 
+le statut d’un sujet de la population vis-à-vis du développement d’irritations cutanées.  
+SUJET ORIGINAL
+Exercice 3 :
+Un groupe de 35 patients d’une population P a été traite en utilisant un patch transdermique. Parmi ces
+patients, 28 ont développé des irritations cutanées. Calculez l’intervalle de confiance (IC) a 95 % de la
+probabilité 𝝅 pour un sujet de la population P de développer des irritations cutanées lors de l’utilisation de ce
+patch. Vous laisserez 2 chiffres significatifs au résultat final. On appelle X la variable aléatoire qui représente
+le statut d’un sujet de la population vis-à-vis du développement d’irritations cutanées.
+3. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+A. X suit une loi Binomiale de paramètre (35,𝝅)
+B. La borne supérieure de cet IC est 0,66
+C. La borne supérieure de cet IC est 0,94
+D. Cet IC est valide si le théorème centrale limite s’applique aux bornes de cet IC
+E. On confirme que cet IC est valide
+CORRIGÉ ORIGINAL
+Exercice 3 :
+Un groupe de 35 patients d’une population P a été traite en utilisant un patch transdermique. Parmi ces patients,
+28 ont développé des irritations cutanées. Calculez l’intervalle de confiance (IC) a 95 % de la probabilité 𝝅 pour
+un sujet de la population P de développer des irritations cutanées lors de l’utilisation de ce patch. Vous laisserez
+2 chiffres significatifs au résultat final. On appelle X la variable aléatoire qui représente le statut d’un sujet de la
+population vis-à-vis du développement d’irritations cutanées.
+3. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+A. X suit une loi Binomiale de paramètre (35,𝝅)
+B. La borne supérieure de cet IC est 0,66
+C. La borne supérieure de cet IC est 0,94
+D. Cet IC est valide si le théorème centrale limite s’applique aux bornes de cet IC
+E. On confirme que cet IC est valide
+CD
+A. FAUX : X est une variable aléatoire qualitative (statut d'un sujet : irritation ou non), elle suit donc une
+loi de Bernoulli de paramètre 𝜋. C'est le nombre total de patients irrités dans l'échantillon qui suivrait
+une loi Binomiale B(n, 𝜋).
+B. FAUX : 𝐼𝐶95% = 𝑓± 𝑢∝√𝑓(1−𝑓)
+= 0,8 ± 1,96 × √0,8(1−0,8)
+= [0,66 ;0,94]. 0,66 est la borne
+𝑛
+35
+inferieure
+C. VRAI
+D. VRAI : La formule utilisée repose sur l'approximation de la loi binomiale par la loi Normale, ce qui est
+permis par le Théorème Central Limite (TCL).
+E. FAUX : Comme n=35>30, nf = 28> 5 MAIS si 35 × (1 −0,94) = 35 × 0,06 = 2,1 < 5 donc IC non
+valide
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q4 · SITE=AD · GRILLE=AD · DÉTAIL=['AD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 4 : 
+Dans le cadre d’une étude, 16 patientes sont réparties aléatoirement en deux groupes de même effectif avant 
+leur accouchement. Leurs douleurs post-partum sont mesurées par une échelle visuelle analogique. Les 
+patientes du groupe 1 reçoivent comme antidouleur du paracétamol et celles du groupe 2 de l’ibuprofène. 
+Les groupes 1 et 2 sont représentatifs des populations respectives P1 et P2. 
+ 
+L’évolution 𝐷 du score de douleur (après-avant) traitement est en moyenne de -3 et de -2,5 avec un écart type 
+estimé de 0,3 et 0,4 respectivement dans le groupe 1 et le groupe 2. 
+ 
+SUJET ORIGINAL
+Exercice 4 :
+Dans le cadre d’une étude, 16 patientes sont réparties aléatoirement en deux groupes de même effectif avant
+leur accouchement. Leurs douleurs post-partum sont mesurées par une échelle visuelle analogique. Les
+patientes du groupe 1 reçoivent comme antidouleur du paracétamol et celles du groupe 2 de l’ibuprofène.
+Les groupes 1 et 2 sont représentatifs des populations respectives P1 et P2.
+L’évolution 𝐷 du score de douleur (après-avant) traitement est en moyenne de -3 et de -2,5 avec un écart type
+estimé de 0,3 et 0,4 respectivement dans le groupe 1 et le groupe 2.
+4. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+A. -3 est une estimation ponctuelle de la moyenne de l’évolution 𝐷 du score de douleur dans la
+population P1.
+B. L’hypothèse H0 du test signifie que l’évolution observée 𝐷 du score de douleur n’est pas
+significativement différente entre les deux groupes.
+C. L’hypothèse H1 signifie que l’évolution observée 𝐷 du score de douleur est significativement
+différente entre les deux groupes
+D. On suppose que l’évolution 𝐷 du score de douleur dans les populations P1 et P2 suit une loi Normale
+afin de pouvoir faire un test de comparaison
+E. Le test est applicable même si la variabilité de l’évolution 𝐷 du score dans P1 est différente de celle
+dans P2.
+CORRIGÉ ORIGINAL
+Exercice 4 :
+Dans le cadre d’une étude, 16 patientes sont réparties aléatoirement en deux groupes de même effectif avant
+leur accouchement. Leurs douleurs post-partum sont mesurées par une échelle visuelle analogique. Les
+patientes du groupe 1 reçoivent comme antidouleur du paracétamol et celles du groupe 2 de l’ibuprofène. Les
+groupes 1 et 2 sont représentatifs des populations respectives P1 et P2.
+L’évolution 𝐷 du score de douleur (après-avant) traitement est en moyenne de -3 et de -2,5 avec un écart type
+estimé de 0,3 et 0,4 respectivement dans le groupe 1 et le groupe 2
+4.  Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+A. -3 est une estimation ponctuelle de la moyenne de l’évolution 𝐷 du score de douleur dans la population
+P1.
+B. L’hypothèse H0 du test signifie que l’évolution observée 𝐷 du score de douleur n’est pas
+significativement différente entre les deux groupes.
+C. L’hypothèse H1 signifie que l’évolution observée 𝐷 du score de douleur est significativement différente
+entre les deux groupes
+D. On suppose que l’évolution 𝐷 du score de douleur dans les populations P1 et P2 suit une loi Normale
+afin de pouvoir faire un test de comparaison
+E. Le test est applicable même si la variabilité de l’évolution 𝐷 du score dans P1 est différente de celle
+dans P2.
+AD
+A. VRAI : - 3 est l’estimation de la moyenne théorique de P1
+B. FAUX : l’hypothèse H0 signifie que les VRAIES moyennes ne sont pas statistiquement différentes. On
+aurait pas besoin de faire un test pour comparer les moyennes observées.
+C. FAUX : Cf B
+D. VRAI : 𝒏𝟏= 𝒏𝟐= 𝟖 <  𝟑𝟎 —> on est dans dans le cas d’une loi du Student. On est obligé de supposer
+qu’elles suivent une loi Normale pour réaliser le test
+E. FAUX : On ne pourrait pas faire ce test avec des variances hétérogènes de D dans P1 et P2.
+La statistique du test prend la valeur -2,000
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q5 · SITE=BD · GRILLE=BD · DÉTAIL=['BD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 4 : 
+Dans le cadre d’une étude, 16 patientes sont réparties aléatoirement en deux groupes de même effectif avant 
+leur accouchement. Leurs douleurs post-partum sont mesurées par une échelle visuelle analogique. Les 
+patientes du groupe 1 reçoivent comme antidouleur du paracétamol et celles du groupe 2 de l’ibuprofène. 
+Les groupes 1 et 2 sont représentatifs des populations respectives P1 et P2. 
+ 
+L’évolution 𝐷 du score de douleur (après-avant) traitement est en moyenne de -3 et de -2,5 avec un écart type 
+estimé de 0,3 et 0,4 respectivement dans le groupe 1 et le groupe 2. 
+ 
+ 
+ 
+La statistique du test prend la valeur -2,000. 
+ 
+SUJET ORIGINAL
+La statistique du test prend la valeur -2,000.
+5. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+A. Les conditions d’application du test sont vérifiées parce que l’échantillon est de petite taille.
+B. La variance commune est estimée à 0,125.
+C. L’intervalle de non rejet de l’hypothèse H0 à 5% est ]-2,042 ; 2,042[.
+D. On ne peut pas rejeter H0 au risque 5%.
+E. La p-valeur est comprise entre 0,02 et 0,05.
+CORRIGÉ ORIGINAL
+5. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+A. Les conditions d’application du test sont vérifiées parce que l’échantillon est de petite taille.
+B. La variance commune est estimée à 0,125.
+C. L’intervalle de non rejet de l’hypothèse H0 à 5% est ]-2,042 ; 2,042[.
+D. On ne peut pas rejeter H0 au risque 5%.
+E. La p-valeur est comprise entre 0,02 et 0,05.
+BD
+A. FAUX : On est dans le cas d’une comparaison de deux petits échantillons donc les conditions sont :
+1) On suppose qu’ils suivent une loi Normale
+2) On suppose qu’ils ont la même variance
+B. VRAI  :     𝑛1 = 𝑛2 = 𝑛
+(𝑛−1)× 𝑆12+ (𝑛−1)× 𝑆22
+𝑆𝑐2 =
+(𝑛−1)+(𝑛−1)
+(𝑛−1)×( 𝑆12+𝑆22)
+𝑆𝑐2 =
+(𝑛−1)∗2
+𝑆12+𝑆22
+On peut simplifier les (n-1) : 𝑆𝑐2 =
+2
+(0,3)2+ (0,4)2
+𝑆𝑐2 =
+2
+0,09+0,16
+𝑆𝑐2 =
+= 0,125
+2
+C. FAUX : 𝑑𝑑𝑙 =  𝑛1 +  𝑛2 − 2 =  16 − 2 =  14
+Valeur lue dans la table à un ddl= 14 et au risque de 5% = 2,145
+]-2,145 ; 2,145[
+D. VRAI : la valeur du test statique = -2,000 or -2,145 < -2 < 2,145. On ne peut pas rejeter H0 au risque
+d’erreur de 5%
+E. FAUX : On regarde à un ddl=14 : 1,761 < 2 < 2,145 donc 0,05 < p-value < 0,10
+NOTES EXISTANTES
+Les verdicts D vrai et E faux suivent la statistique t=−2,000 imposée dans l’énoncé. Mais les données de l’exercice (8 patientes par groupe, moyennes −3 et −2,5, écarts types 0,3 et 0,4) et la variance commune 0,125 calculée en B donnent t=−0,5/√[0,125(1/8+1/8)]≈−2,828, pas −2. Avec 14 degrés de liberté, cela conduit à p≈0,0135 et au rejet à 5 %. C’est une incohérence de données de la source, pas une raison de changer les réponses attendues lorsque t=−2 est imposé. La ronéo « Comparaison de deux moyennes » est nécessaire pour la validation de cours.
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q6 · SITE=ACD · GRILLE=ACD · DÉTAIL=['ACD']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 5 : 
+Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s) 
+gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire 
+métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold 
+standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients 
+présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et 
+morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies 
+ont été évaluées. 
+ 
+ 
+ 
+ 
+ 
+ 
+SUJET ORIGINAL
+Exercice 5 :
+Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s)
+gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire
+métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold
+standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients
+présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et
+morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies
+ont été évaluées.
+6. Sans considérer la significativité statistique, parmi les propositions suivantes, cochez la(les)
+proposition(s) exacte(s):
+A. L'étude comportait 9 vrais positifs concernant le test reposant sur l'anomalie gastroentérologique
+B. Sur 100 personnes sans maladie héréditaire métabolique, on annoncerait à tort à 10 personnes la
+présence de maladie en se basant sur l'anomalie gastroentérologique
+C. L'anomalie gastroentérologique est un test qui conduit à plus de faux positifs que l'anomalie
+morphologique
+D. L'anomalie morphologique est le test qui permet le plus d'affirmer la présence de maladie héritée
+métabolique lorsqu'il est positif
+E. Au vu des performances diagnostiques, l'un des deux tests doit être privilégié (sans information
+supplémentaire)
+CORRIGÉ ORIGINAL
+Exercice 5 :
+Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s)
+gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire
+métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold
+standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients
+présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et
+morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies
+ont été évaluées.
+6. Sans considérer la significativité statistique, parmi les propositions suivantes, cochez la(les) proposition(s)
+exacte(s):
+A. L'étude comportait 9 vrais positifs concernant le test reposant sur l'anomalie gastroentérologique
+B. Sur 100 personnes sans maladie héréditaire métabolique, on annoncerait à tort à 10 personnes la
+présence de maladie en se basant sur l'anomalie gastroentérologique
+C. L'anomalie gastroentérologique est un test qui conduit à plus de faux positifs que l'anomalie
+morphologique
+D. L'anomalie morphologique est le test qui permet le plus d'affirmer la présence de maladie héritée
+métabolique lorsqu'il est positif
+E. Au vu des performances diagnostiques, l'un des deux tests doit être privilégié (sans information
+supplémentaire)
+ACD
+A. VRAI : VP = Se × nombre de malades = 0,90 × 10 = 9 vrais positifs.
+B. FAUX : Le taux de faux positifs = (1 − Sp) × 100 = 0,30 × 100 = 30 personnes, pas 10.
+C. VRAI : Taux FP(AG) = 1 − 0,70 = 30% > Taux FP(AM) = 1 − 0,80 = 20%. L'anomalie gastroentérologique
+génère donc plus de faux positifs.
+D. VRAI : VPP(AG) = 9/(9 + 270) = 9/279 ≈ 0,032 ; VPP(AM) = 8/(8 + 180) = 8/188 ≈ 0,043. VPP(AM) >
+VPP(AG), l'AM affirme mieux la maladie quand positif.
+E. FAUX : Les deux tests ont des profils complémentaires (AG : meilleure Se ; AM : meilleure Sp). Sans
+information supplémentaire sur l'objectif clinique, on ne peut pas en privilégier un. (Pour pouvoir
+l’affirmer il faut qu’il soit supérieur en Sp et en Se)
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q7 · SITE=A · GRILLE=A · DÉTAIL=['A']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 5 : 
+Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s) 
+gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire 
+métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold 
+standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients 
+présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et 
+morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies 
+ont été évaluées. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On souhaite comparer la sensibilité des deux tests diagnostiques. 
+SUJET ORIGINAL
+On souhaite comparer la sensibilité des deux tests diagnostiques.
+7. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. Il s'agit d'une situation avec données appariées
+B. Il s'agit d'une comparaison de données binaires sur des données non appariées
+C. Il s'agit d'une comparaison de données quantitatives sur des données non appariées
+D. Il faut utiliser un test statistique de comparaison de données ordinales
+E. Il faut utiliser un test de corrélation
+CORRIGÉ ORIGINAL
+On souhaite comparer la sensibilité des deux tests diagnostiques.
+7. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. Il s'agit d'une situation avec données appariées
+B. Il s'agit d'une comparaison de données binaires sur des données non appariées
+C. Il s'agit d'une comparaison de données quantitatives sur des données non appariées
+D. Il faut utiliser un test statistique de comparaison de données ordinales
+E. Il faut utiliser un test de corrélation
+A
+A. VRAI : Les deux tests sont appliqués aux mêmes 10 patients malades → données appariées, binaires.
+B. FAUX : Les données sont appariées, pas indépendantes.
+C. FAUX : Les données sont binaires (positif/négatif), pas quantitatives.
+D. FAUX : Les données sont binaires, pas ordinales.
+E. FAUX : Un test de corrélation évalue une association linéaire, ce n'est pas adapté ici.
+A l'hôpital Necker (centre de référence en France), en utilisant l'anomalie gastroentérologique, la spécificité est
+de 85% (valeur de référence). On souhaite comparer la spécificité estimée dans l'étude à l'HFME par rapport à
+la valeur de référence à Necker. On donne √0.8 ∗0.2 = 0.4 et √0.85 ∗0.15 = 0.3
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q8 · SITE=ABC · GRILLE=ABC · DÉTAIL=['ABC']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 5 : 
+Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s) 
+gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire 
+métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold 
+standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients 
+présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et 
+morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies 
+ont été évaluées. 
+ 
+ 
+ 
+ 
+ 
+ 
+A l'hôpital Necker (centre de référence en France), en utilisant l'anomalie gastroentérologique, la spécificité 
+est de 85% (valeur de référence). On souhaite comparer la spécificité estimée dans l'étude à l'HFME par 
+rapport à la valeur de référence à Necker. On donne √(0.8*0.2) = 0.4 et √(0.85*0.15) = 0.3 
+SUJET ORIGINAL
+A l'hôpital Necker (centre de référence en France), en utilisant l'anomalie gastroentérologique, la spécificité
+est de 85% (valeur de référence). On souhaite comparer la spécificité estimée dans l'étude à l'HFME par
+rapport à la valeur de référence à Necker. On donne √(0.8*0.2) = 0.4 et √(0.85*0.15) = 0.3
+8. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. L'effectif du test est de 900 (individus non malades)
+B. La valeur absolue de la statistique du test approprié est environ égale à 15 (12,6 si vous n'avez pas
+fait d'approximation)
+C. La spécificité du test diagnostique est statistiquement différente entre I'HFME et la valeur de
+référence à Necker, au risque d'erreur 5%
+D. La p-value du test statistique est supérieure à 0,05
+E. La valeur de la statistique du test permet d'évaluer la pertinence clinique de l'écart de spécificité
+entre les deux hôpitaux
+CORRIGÉ ORIGINAL
+8. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. L'effectif du test est de 900 (individus non malades)
+B. La valeur absolue de la statistique du test approprié est environ égale à 15 (12,6 si vous n'avez pas fait
+d'approximation)
+C. La spécificité du test diagnostique est statistiquement différente entre I'HFME et la valeur de référence
+à Necker, au risque d'erreur 5%
+D. La p-value du test statistique est supérieure à 0,05
+E. La valeur de la statistique du test permet d'évaluer la pertinence clinique de l'écart de spécificité entre
+les deux hôpitaux
+ABC
+A. VRAI : La spécificité se calcule sur les non-malades = 910 − 10 = 900.
+B. VRAI : z = (p̂ - p₀) / √(p₀(1-p₀)/n) = (0,70 - 0,85) / √(0,85 × 0,15 / 900) = -0,15 / (0,3/30) = -0,15 / 0,01 =
+-15
+Avec l'approximation donnée (√(0,85 × 0,15) ≈ 0,3) : |z| ≈ 15 Sans approximation : √(0,85 × 0,15 / 900) =
+√(0,000142) ≈ 0,0119 → |z| = 0,15 / 0,0119 ≈ 12,6
+C. VRAI : |z| = 15 >> 1,96 → on rejette H0 au risque 5% → différence statistiquement significative.
+D. FAUX : |z| = 15 >> 1,96, donc p << 0,05, pas supérieure à 0,05.
+E. FAUX : La statistique de test évalue la significativité statistique, pas la pertinence clinique.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q9 · SITE=BC · GRILLE=BC · DÉTAIL=['BC']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 5 : 
+Une étude a été menée à I'HFME afin de comparer les performances de la recherche d'anomalie(s) 
+gastroentérologique(s) ou d'anomalie(s) morphologique(s) pour le diagnostic d'une maladie héréditaire 
+métabolique. L'étude a porté sur 910 patients consécutifs venant en consultation, pour lesquels l'examen gold 
+standard a été réalisé (Chromatographie des acides organiques urinaires- CAOU). Parmi eux, 10 patients 
+présentaient une maladie héréditaire métabolique. La présence d'anomalie gastroentérologique et 
+morphologique a été également recueillie. Les performances diagnostiques intrinsèques des deux anomalies 
+ont été évaluées. 
+ 
+ 
+ 
+ 
+ 
+ 
+A l'hôpital Necker (centre de référence en France), en utilisant l'anomalie gastroentérologique, la spécificité 
+est de 85% (valeur de référence). On souhaite comparer la spécificité estimée dans l'étude à l'HFME par 
+rapport à la valeur de référence à Necker. On donne √(0.8*0.2) = 0.4 et √(0.85*0.15) = 0.3 
+SUJET ORIGINAL
+9. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. Dans le QCM précédent, si l'étude à l'HFME avait été réalisée sur 100 personnes sans maladie et avait
+conduit aux mêmes résultats, la puissance du test aurait été plus élevée
+B. Dans le QCM précédent, en prenant un risque d'erreur alpha de 1% au lieu de 5%, il aurait été plus
+difficile de démontrer une différence statistiquement significative
+C. L'étude qui a été présentée permet de calculer et d'interpréter les VPP et VPN des tests diagnostiques
+pour la population venant en consultation
+D. La VPP des tests diagnostiques aurait été identique dans une population plus à risque de maladie
+héréditaire métabolique en raison d'une mutation génétique
+E. La sensibilité et la spécificité des test dépendent directement de la prévalence dans l'échantillon
+d'étude
+CORRIGÉ ORIGINAL
+9. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. Dans le QCM précédent, si l'étude à l'HFME avait été réalisée sur 100 personnes sans maladie et avait
+conduit aux mêmes résultats, la puissance du test aurait été plus élevée
+B. Dans le QCM précédent, en prenant un risque d'erreur alpha de 1% au lieu de 5%, il aurait été plus
+difficile de démontrer une différence statistiquement significative
+C. L'étude qui a été présentée permet de calculer et d'interpréter les VPP et VPN des tests diagnostiques
+pour la population venant en consultation
+D. La VPP des tests diagnostiques aurait été identique dans une population plus à risque de maladie
+héréditaire métabolique en raison d'une mutation génétique
+E. La sensibilité et la spécificité des test dépendent directement de la prévalence dans l'échantillon
+d'étude
+BC
+A. FAUX : La puissance augmente avec n. Avec n = 100 < 900, la puissance serait plus faible, pas plus
+élevée.
+B. VRAI : Diminuer α de 5% à 1% rend le seuil de rejet plus strict → il est plus difficile de rejeter H0 → plus
+difficile de démontrer une différence significative.
+C. VRAI : L'étude porte sur des patients consécutifs venant en consultation → la prévalence observée est
+représentative de cette population → VPP et VPN sont calculables et interprétables dans ce contexte.
+D. FAUX : La VPP dépend de la prévalence. Si la prévalence augmente, la VPP augmente aussi.
+E. FAUX : La sensibilité et la spécificité sont des propriétés intrinsèques du test, indépendantes de la
+prévalence.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q10 · SITE=ABC · GRILLE=ABC · DÉTAIL=['ABC']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 6 : 
+Une étude cherche à évaluer l'association entre la pression artérielle systolique (PAS) et le taux de sodium 
+urinaire chez 25 sujets. Le coefficient de corrélation de Pearson est estimé à r=0,56, et la statistique de test 
+calculée est tobs=3,24. 
+SUJET ORIGINAL
+Exercice 6 :
+Une étude cherche à évaluer l'association entre la pression artérielle systolique (PAS) et le taux de sodium
+urinaire chez 25 sujets. Le coefficient de corrélation de Pearson est estimé à r=0,56, et la statistique de test
+calculée est tobs=3,24.
+10. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s):
+A. La statistique de test suit une loi de Student à 23 degrés de liberté sous l'hypothèse nulle
+B. La corrélation est statistiquement différente de 0 au risque d'erreur 5%
+C. L'augmentation du sodium urinaire est associée à une augmentation de la pression artérielle
+D. L'erreur-type utilisée pour ce test vaut 0,31
+E. L'erreur-type utilisée pour ce test vaut 0,28
+CORRIGÉ ORIGINAL
+Exercice 6 :
+Une étude cherche à évaluer l'association entre la pression artérielle systolique (PAS) et le taux de sodium
+urinaire chez 25 sujets. Le coefficient de corrélation de Pearson est estimé à r=0,56, et la statistique de test
+calculée est tobs=3,24.
+10. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s):
+A. La statistique de test suit une loi de Student à 23 degrés de liberté sous l'hypothèse nulle
+B. La corrélation est statistiquement différente de 0 au risque d'erreur 5%
+C. L'augmentation du sodium urinaire est associée à une augmentation de la pression artérielle
+D. L'erreur-type utilisée pour ce test vaut 0,31
+E. L'erreur-type utilisée pour ce test vaut 0,28
+ABC
+A. VRAI : Le test de corrélation de Pearson suit une loi de Student à n − 2 = 25 − 2 = 23 degrés de liberté
+sous H0.
+B. VRAI : t_obs = 3,24 > t₀.₀₂₅(23) ≈ 2,069 → on rejette H0 → la corrélation est statistiquement différente
+de 0 au risque 5%.
+C. VRAI : r = +0,56 > 0 → corrélation positive → augmentation du sodium urinaire associée à une
+augmentation de la PAS.
+D. FAUX : Erreur-type = r / t_obs = 0,56 / 3,24 ≈ 0,173 ≠ 0,31.
+E. FAUX : Erreur-type ≈ 0,173 ≠ 0,28.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q11 · SITE=AC · GRILLE=AC · DÉTAIL=['AC']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 7 : 
+On cherche à évaluer l'efficacité de l'ajout de spironolactone dans le cadre de la prise en charge de patients 
+souffrant d'insuffisance rénale sous hémodialyse chronique présentant également des maladies 
+cardiovasculaires. Une étude est menée dans 64 centres. Une randomisation par ordinateur a alloué la 
+spironolactone ou un placebo. Chaque centre avait sa propre liste de randomisation et les bras de traitement 
+étaient équilibrés tous les 6 patients. Ni les médecins ni les patients ne connaissaient le traitement reçu. Le 
+critère d'évaluation principal était le délai avant le premier événement cardiovasculaire majeur parmi le décès 
+d'origine cardiovasculaire, l'infarctus du myocarde non mortel, le syndrome coronarien aigu, l'accident 
+vasculaire cérébral ou l'hospitalisation pour insuffisance cardiaque. L'analyse a été réalisée en intention de 
+traiter. 
+SUJET ORIGINAL
+Exercice 7 :
+On cherche à évaluer l'efficacité de l'ajout de spironolactone dans le cadre de la prise en charge de patients
+souffrant d'insuffisance rénale sous hémodialyse chronique présentant également des maladies
+cardiovasculaires. Une étude est menée dans 64 centres. Une randomisation par ordinateur a alloué la
+spironolactone ou un placebo. Chaque centre avait sa propre liste de randomisation et les bras de traitement
+étaient équilibrés tous les 6 patients. Ni les médecins ni les patients ne connaissaient le traitement reçu. Le
+critère d'évaluation principal était le délai avant le premier événement cardiovasculaire majeur parmi le décès
+d'origine cardiovasculaire, l'infarctus du myocarde non mortel, le syndrome coronarien aigu, l'accident
+vasculaire cérébral ou l'hospitalisation pour insuffisance cardiaque. L'analyse a été réalisée en intention de
+traiter.
+11. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. L'étude est un essai multicentrique, contrôlé, randomisé, en double aveugle
+B. Les patients en succès étaient indemnes de décès d'origine cardiovasculaire, ou bien indemnes
+d'infarctus du myocarde non mortel, ou bien indemnes de syndrome couonarien aigu, ou bien
+indemnes d'accident vasculaire cérébral ou bien indemnes d'hospitalisation pour insuffisance
+cardiaque
+C. La randomisation était stratifiée et par bloc
+D. Un patient randomisé dans le groupe placebo qui avait reçu la spironolactone était analysé dans le
+groupe spironolactone
+E. Les résultats pourront s'appliquer à tous les patients insuffisants rénaux sous hémodialyse chronique
+CORRIGÉ ORIGINAL
+Exercice 7 :
+On cherche à évaluer l'efficacité de l'ajout de spironolactone dans le cadre de la prise en charge de patients
+souffrant d'insuffisance rénale sous hémodialyse chronique présentant également des maladies
+cardiovasculaires. Une étude est menée dans 64 centres. Une randomisation par ordinateur a alloué la
+spironolactone ou un placebo. Chaque centre avait sa propre liste de randomisation et les bras de traitement
+étaient équilibrés tous les 6 patients. Ni les médecins ni les patients ne connaissaient le traitement reçu. Le
+critère d'évaluation principal était le délai avant le premier événement cardiovasculaire majeur parmi le décès
+d'origine cardiovasculaire, l'infarctus du myocarde non mortel, le syndrome coronarien aigu, l'accident
+vasculaire cérébral ou l'hospitalisation pour insuffisance cardiaque. L'analyse a été réalisée en intention de
+traiter.
+11. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. L'étude est un essai multicentrique, contrôlé, randomisé, en double aveugle
+B. Les patients en succès étaient indemnes de décès d'origine cardiovasculaire, ou bien indemnes
+d'infarctus du myocarde non mortel, ou bien indemnes de syndrome couonarien aigu, ou bien
+indemnes d'accident vasculaire cérébral ou bien indemnes d'hospitalisation pour insuffisance
+cardiaque
+C. La randomisation était stratifiée et par bloc
+D. Un patient randomisé dans le groupe placebo qui avait reçu la spironolactone était analysé dans le
+groupe spironolactone
+E. Les résultats pourront s'appliquer à tous les patients insuffisants rénaux sous hémodialyse chronique
+AC
+A. VRAI : 64 centres (multicentrique), bras placebo (contrôlé), randomisation par ordinateur (randomisé),
+ni médecins ni patients ne connaissent le traitement reçu (double aveugle).
+B. FAUX : Le critère est le délai avant le premier événement parmi la liste. La formulation avec "ou bien
+indemnes de..." est incorrecte ; un patient en succès doit être indemne de tous ces événements (ET,
+pas OU).
+C. VRAI : Chaque centre a sa propre liste de randomisation (stratification par centre) et les bras sont
+équilibrés tous les 6 patients (blocs de taille 6).
+D. FAUX : L'analyse est en intention de traiter → le patient est analysé dans le groupe auquel il a été
+randomisé (placebo), quel que soit le traitement effectivement reçu.
+E. FAUX : La population incluse présentait également des maladies cardiovasculaires → les résultats ne
+sont généralisables qu'à cette population spécifique, pas à tous les insuffisants rénaux sous
+hémodialyse.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2025-2026.s1 Q12 · SITE=BE · GRILLE=BE · DÉTAIL=['BE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 8 : 
+Le virus syncitial respiratoire (VRS) est responsable de la bronchiolite du nourrisson. Le nirsevimab est un 
+anticorps monoclonal contre le VRS. Pour évaluer l'association entre le nirsevimab et l'hospitalisation pour 
+bronchiolite associée au VRS, une étude a inclus 690 nourrissons hospitalisés pour une bronchiolite associée 
+au VRS en 2023 (cas), et 345 nourrissons ayant consulté les mêmes hôpitaux pour des affections non liées à 
+une infection par le VRS sur la même période (témoins). L'effet du nirsevimab sur les hospitalisations à VRS 
+était de 0,83 (intervalle de confiance à 95%: [0,73; 0,89]). 
+SUJET ORIGINAL
+Exercice 8 :
+Le virus syncitial respiratoire (VRS) est responsable de la bronchiolite du nourrisson. Le nirsevimab est un
+anticorps monoclonal contre le VRS. Pour évaluer l'association entre le nirsevimab et l'hospitalisation pour
+bronchiolite associée au VRS, une étude a inclus 690 nourrissons hospitalisés pour une bronchiolite associée
+au VRS en 2023 (cas), et 345 nourrissons ayant consulté les mêmes hôpitaux pour des affections non liées à
+une infection par le VRS sur la même période (témoins). L'effet du nirsevimab sur les hospitalisations à VRS
+était de 0,83 (intervalle de confiance à 95%: [0,73; 0,89]).
+12. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. Il s'agit d'une étude transversale
+B. Les individus sont échantillonnés sur leur statut vis-à-vis de la maladie
+C. La mesure d'association adéquate est un risque relatif
+D. Le nirsevimab est un facteur de risque d'hospitalisations à VRS
+E. Au risque consenti de 5%, on conclut que l'effet du nirsevimab est statistiquement significatif
+CORRIGÉ ORIGINAL
+Exercice 8 :
+Le virus syncitial respiratoire (VRS) est responsable de la bronchiolite du nourrisson. Le nirsevimab est un
+anticorps monoclonal contre le VRS. Pour évaluer l'association entre le nirsevimab et l'hospitalisation pour
+bronchiolite associée au VRS, une étude a inclus 690 nourrissons hospitalisés pour une bronchiolite associée au
+VRS en 2023 (cas), et 345 nourrissons ayant consulté les mêmes hôpitaux pour des affections non liées à une
+infection par le VRS sur la même période (témoins). L'effet du nirsevimab sur les hospitalisations à VRS était de
+0,83 (intervalle de confiance à 95%: [0,73; 0,89]).
+12. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s):
+A. Il s'agit d'une étude transversale
+B. Les individus sont échantillonnés sur leur statut vis-à-vis de la maladie
+C. La mesure d'association adéquate est un risque relatif
+D. Le nirsevimab est un facteur de risque d'hospitalisations à VRS
+E. Au risque consenti de 5%, on conclut que l'effet du nirsevimab est statistiquement significatif
+BE
+A. FAUX : C'est une étude cas-témoins (690 cas + 345 témoins), pas une étude transversale.
+B. VRAI : Les individus sont sélectionnés selon leur statut malade/non-malade → définition même de
+l'étude cas-témoins.
+C. FAUX : Dans une étude cas-témoins, la mesure d'association adéquate est l'Odds Ratio (OR), pas le
+risque relatif (on ne connaît pas les proportions exposés/non-exposés dans la population).
+D. FAUX : OR = 0,83 < 1 → le nirsevimab est un facteur protecteur, pas un facteur de risque.
+E. VRAI : IC 95% = [0,73 ; 0,89] ne contient pas la valeur nulle (1 pour un OR) → l'effet est statistiquement
+significatif au risque 5%.
+NOTES EXISTANTES

@@ -1,0 +1,200 @@
+[
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 4,
+    "next": 5,
+    "cutLine": 8,
+    "page": 497,
+    "y": 524.1500244140625,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "La statistique du test prend la valeur -2,000",
+    "lastDetail": "D. VRAI : 𝒏𝟏= 𝒏𝟐= 𝟖 <  𝟑𝟎 —> on est dans dans le cas d’une loi du Student. On est obligé de supposer qu’elles suivent une loi Normale pour réaliser le test E. FAUX : On ne pourrait pas faire ce test avec des variances hétérogènes de D dans P1 et P2."
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 7,
+    "next": 8,
+    "cutLine": 6,
+    "page": 500,
+    "y": 356.6000061035156,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "A l'hôpital Necker (centre de référence en France), en utilisant l'anomalie gastroentérologique, la spécificité est de 85% (valeur de référence). On souhaite comparer la spécificité estimée dans l'étude à l'HFME par rapport à la valeur de référence à Necker. On donne √0.8 ∗0.2 = 0.4 et √0.85 ∗0.15 = 0.3",
+    "lastDetail": "C. FAUX : Les données sont binaires (positif/négatif), pas quantitatives. D. FAUX : Les données sont binaires, pas ordinales. E. FAUX : Un test de corrélation évalue une association linéaire, ce n'est pas adapté ici."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 3,
+    "next": 4,
+    "cutLine": 6,
+    "page": 528,
+    "y": 339.3500061035156,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Une étude s’intéresse aux facteurs de risque d’échec de résection hystéréoscopique de fibrome intra-cavitaire. Elle a porté sur toutes les patientes ayant eu ce type de résection à l’hôpital Lyon Sud entre janvier 2019 et janvier 2024 ; leurs facteurs de risque ont été recueillis, puis les patientes ont été suivies après la résection pour déterminer si elles étaient en succès ou échec de résection. Parmi les facteurs de risque, les chirurgiens se sont intéressés en particulier à la taille du fibrome : ≥ 30 mm vs < 30 mm. Les résultats de l’étude sont donnés ci- dessous : Succès de la résection Échec de la résection Fibrome < 30 mm 70 10 Fibrome ≥ 30 mm 20 10",
+    "lastDetail": "C. VRAI D. VRAI : L’hypothèse alternative stipule que les espérances (vraies moyennes) sont différentes E. FAUX : 2,345 > 2,228, on rejette donc l’hypothèse nulle au risque d’erreur 5%."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 4,
+    "next": 5,
+    "cutLine": 14,
+    "page": 529,
+    "y": 304.0999755859375,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "On souhaite tester si le risque d’échec de résection est statistiquement différent entre les deux catégories de taille de fibrome. On considère que les conditions de validité du test statistique sont remplies. Plusieurs résultats vous sont donnés :",
+    "lastDetail": "Pour les fibromes ≥ 30mm on a odds2 =10/20 =0,5 OR = odds2/odds1 = 0,5/0,142857 = 3.5 donc l’odds d’échec de résection est 3.5 plus élevé (!!! ce n’est pas le risque qui est 3.5 fois plus élevé !!!)"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 5,
+    "next": 6,
+    "cutLine": 15,
+    "page": 530,
+    "y": 68.32502746582031,
+    "reason": "titre_exercice",
+    "tail": "Question à réponse unique",
+    "lastDetail": "D. VRAI : Avec la formule appropriée soit la numéro 2 (sous l’hypothèse H0 avec une variance commune) p ≈ 0,0116 < 0,05. On rejette H0 : il y a une différence statistiquement significative. E. FAUX : p-value bilatérale associée (Z = 2,52) : ≈ 0,0116 ce qui est inférieur à 0.05."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 6,
+    "next": 7,
+    "cutLine": 16,
+    "page": 530,
+    "y": 479.69500732421875,
+    "reason": "titre_exercice",
+    "tail": "Question 7 : Les propriétés d’un nouveau test de dépistage d’hypercholestérolémie (HF) chez l’enfant sont étudiées (goutte de sang sur papier buvard). La sensibilité retrouvée est de 70 %, et la spécificité de 90 %.",
+    "lastDetail": "doit être faux (ceux qui ont cocher ça vous avez fait le QCM les yeux fermé c’est pas possible) D. FAUX : Voir item C E. FAUX : Voir item C"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 2,
+    "next": 3,
+    "cutLine": 9,
+    "page": 542,
+    "y": 285.07000732421875,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "La variable aléatoire sert à modéliser le problème. Elle prend la valeur 1 lorsque la variable collectée par le sujet est \"Présence d'au moins un événement cardiovasculaire\".",
+    "lastDetail": "C. VRAI D. VRAI E. FAUX"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 9,
+    "next": 10,
+    "cutLine": 19,
+    "page": 546,
+    "y": 707.7000122070312,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "L'étude a comparé les proportions de patients décédés à 90 jours entre le groupe thrombectomie et le groupe contrôle. La proportion estimée dans le groupe thrombectomie était de 0,3, contre 0,5 dans le groupe contrôle.",
+    "lastDetail": "|z|> 1,96 p-value < 0,05 E. VRAI : 75 < 100."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 1,
+    "next": 2,
+    "cutLine": 8,
+    "page": 568,
+    "y": 69.71102905273438,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "On calcule l’intervalle de confiance à 95% de l’espérance 𝜇 de la concentration en bicarbonate dans la population P sachant que la moyenne de la concentration en bicarbonate des 400 patients est de 21,0 mmol/L et l’écart type estimé est de 2,0 mmol/L",
+    "lastDetail": "Entre 20 et 22 mmol/L, l’effectif correspondant est égale à 160. La probabilité est alors égale à 160/400 = 0,40 E. FAUX."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 8,
+    "next": 9,
+    "cutLine": 17,
+    "page": 573,
+    "y": 70.030029296875,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "II est décidé, pour le groupe 2, de comparer la proportion de patients avec progression du cancer à la valeur de référence de 0,4 (valeur correspondant à l'efficacité de la chimiothérapie de référence pour cette population). On donne :",
+    "lastDetail": "D. VRAI : odds groupe 2 / odds groupe 1 = 1 / (2/3) = 3/2 = 1,5. Donc l’odds de progression de cancer du groupe 2 est 1,5 fois plus élevé que celui du groupe 1. E. VRAI : puisque la progression du cancer est, selon ces estimations, moins élevée dans ce groupe 1."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 6,
+    "next": 7,
+    "cutLine": 23,
+    "page": 599,
+    "y": 529.4000244140625,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Un seuil fixé pour binariser les résultats LPS et de PCR sérum, conduisant à une sensibilité de 60% et une spécifié de 90% pour le LPS, et à un ratio de vraisemblance positif de 2 et négatif de 4/7 pour la PCR sérum. La prévalence de sévérité pulmonaire est de 2/5 dans cette population.",
+    "lastDetail": "meilleure performance. D. FAUX : Cf C. E. FAUX : Avec une sensibilité de 80% la spécificité est de 40% (attention 1-spé)."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 8,
+    "next": 9,
+    "cutLine": 19,
+    "page": 601,
+    "y": 70.030029296875,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Parmi les 100 patients de l’étude, 60 ont eu une ventilation invasive, dont 20 avec un diagnostic d’anxiété à 1an, et 40 n’ont pas eu de ventilation invasive, dont 10 avec un diagnostic d’anxiété à 1an",
+    "lastDetail": "E. VRAI : => quand m augmente -> la statistique du test de l’écart-réduit va augmenter aussi. Lors d’une augmentation du numérateur, le t(obs) va augmenter aussi. Dans la même logique, pour une baisse, on obtiendra une baisse."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 9,
+    "next": 10,
+    "cutLine": 19,
+    "page": 601,
+    "y": 447.6199951171875,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Après la sortie de réanimation, les patients sont suivis pendant un an. Tous les 3mois, ils ont eu un examen pour détecter la survenue d’une dépression.",
+    "lastDetail": "12 (sans calculer la DR, on peut déduire qu’elle est positive car RR>1). D. VRAI : Car ici on a 2 échantillons indépendants. E. FAUX : Les proportions restent identiques."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 5,
+    "next": 6,
+    "cutLine": 9,
+    "page": 611,
+    "y": 585.9199829101562,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Une seconde étude en Chine a suivi 3500 personnes atteintes de silicose pour évaluer leur devenir, en particulier selon leur statut tabagique.",
+    "lastDetail": "D. VRAI : Quand on calcule le nombre de personne-années, on prend en compte tout le temps jusqu'à l'observation de l'évènement d'intérêt E. FAUX : C’est la prévalence qui dépend de la durée d’une maladie."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 6,
+    "next": 7,
+    "cutLine": 9,
+    "page": 612,
+    "y": 361.3500061035156,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Le risque de décès à 5 ans est comparé entre les deux groupes par un test de l’écart-réduit. La statistique de test obtenue est d’environ 12.",
+    "lastDetail": "D. VRAI : Il faut calculer le RR. RR = Risque du groupe fumeurs / Risque du groupe non-fumeurs = 0,75/0,5 = 1,5 E. VRAI : DR = Rique du groupe fumeurs – Risque du groupe non-fumeurs = 0,75 – 0,5 = 0,25."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 6,
+    "next": 7,
+    "cutLine": 7,
+    "page": 628,
+    "y": 703.9500122070312,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "On décide d’utiliser le score HNC-LL comme test pour classer les patients. Le seuil retenu est tel que le ratio de vraisemblance positif est de 8/3 ≈ 2,7, et le ratio de vraisemblance négatif est de 2/7 ≈ 0,28. La prévalence",
+    "lastDetail": "C. VRAI : cf B. D. FAUX : la courbe HNC-LL est au-dessus donc le score HNC-LL détecte mieux. E. FAUX : cf D."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 8,
+    "next": 9,
+    "cutLine": 22,
+    "page": 647,
+    "y": 503.1500244140625,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "On compare le risque d'hospitalisation en soins-intensifs/réanimation entre les deux groupes d'IMC. Le test de l'écart-réduit de comparaison des deux proportions conduit à une statistique de test de 2,7.",
+    "lastDetail": "premier dans la différence est dit aggravant. On aura une différence de risque positive. E. FAUX : à toute chose égale par ailleurs, il y a globalement moins de personnes en réanimation donc ne change pas l’odd ratio entre les deux catégories d’IMC."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 8,
+    "next": 9,
+    "cutLine": 27,
+    "page": 679,
+    "y": 414.6199951171875,
+    "reason": "correspondance_contexte_sujet_suivant",
+    "tail": "Dans cette pathologie, le succès de la résection dépend de la grosseur et de la localisation de la masse à retirer. On distingue les polypes hyperplasiques (PH), les adénocarcinomes superficiels (AS), et les adénocarcinomes profonds (AP) ; cette classification est déterminée lors de la résection, par analyse anatomopathologique. Le statut R0 de la résection (résection totale avec marge de sécurité saine) est évalué également au moment de la résection par analyse anatomopathologique. Une étude a montré que le risque de résection R0 est 1,2 fois plus élevé dans le groupe PH que dans le groupe AS, et que ce risque est également 1,2 fois plus élevé dans le groupe AS que dans le groupe AP.",
+    "lastDetail": "C. FAUX : cf B D. VRAI : le test est non significatif (au risque d’erreur de 5%) donc la p-value est supérieure à 5% E. FAUX : on fait un test sur des données appareillées, on utilise un test de McNemar."
+  }
+]

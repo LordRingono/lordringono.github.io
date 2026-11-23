@@ -1,0 +1,728 @@
+annales.ue3.2021-2022.s1 Q1 · SITE=ACE · GRILLE=ACE · DÉTAIL=['ACE']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 1  
+Les 4 distributions ci-dessous ont la même étendue. Chaque distribution représentée par un histogramme 
+correspond à une seule boite de dispersion (boîte à « moustache » ou boxplot). 
+ 
+ 
+ 
+SUJET ORIGINAL
+Exercice 1
+Les 4 distributions ci-dessous ont la même étendue. Chaque distribution représentée par un histogramme
+correspond à une seule boite de dispersion (boîte à « moustache » ou boxplot).
+1. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. L’histogramme H1 correspond à la boite de dispersion B
+B. L’histogramme H1 correspond à la boite de dispersion A
+C. L’histogramme H2 correspond à la boite de dispersion D
+D. L’histogramme H4 correspond à la boite de dispersion A
+E. La distribution la plus symétrique est celle représentée par la boite de dispersion D
+CORRIGÉ ORIGINAL
+Correction détaillée
+Exercice 1
+Les 4 distributions ci-dessous ont la même étendue. Chaque distribution représentée par un histogramme
+correspond à une seule boite de dispersion (boîte à « moustache » ou boxplot).
+1. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. L’histogramme H1 correspond à la boite de dispersion B
+B. L’histogramme H1 correspond à la boite de dispersion A
+C. L’histogramme H2 correspond à la boite de dispersion D
+D. L’histogramme H4 correspond à la boite de dispersion A
+E. La distribution la plus symétrique est celle représentée par la boite de dispersion D
+ACE
+A. VRAI
+B. FAUX
+C. VRAI
+D. FAUX
+E. VRAI
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q2 · SITE=BD · GRILLE=BD · DÉTAIL=['BD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 2 
+La sensibilité d’un signe clinique S vis-à-vis d’une infection par un virus V est de 60% dans une population 
+donnée. Ceci signifie que la probabilité pour un sujet infecté par ce virus V de présenter ce symptôme S est de 
+60%. En population générale, 9% des sujets présentent ce symptôme ubiquitaire quelle que soit la saison. 
+Sachant que l’hiver la prévalence de cette infection est de 6%, quelle est la probabilité pour qu’un sujet 
+présentant ce symptôme d’être infecté l’hiver par le virus V ? 
+SUJET ORIGINAL
+Exercice 2
+La sensibilité d’un signe clinique S vis-à-vis d’une infection par un virus V est de 60% dans une population
+donnée. Ceci signifie que la probabilité pour un sujet infecté par ce virus V de présenter ce symptôme S est de
+60%. En population générale, 9% des sujets présentent ce symptôme ubiquitaire quelle que soit la saison.
+Sachant que l’hiver la prévalence de cette infection est de 6%, quelle est la probabilité pour qu’un sujet
+présentant ce symptôme d’être infecté l’hiver par le virus V ?
+2. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La probabilité demandée est inférieure à 0,01
+B. La probabilité demandée est 0,4
+C. La probabilité demandée est 0,9
+D. Si les symptôme S est indépendant de l’infection par le virus V, alors P(V S) = P(V)
+E. Si le symptôme S dépend de l’infection par le virus V, alors P(VS) = P(V) x P(S)
+CORRIGÉ ORIGINAL
+Exercice 2 :
+La sensibilité d’un signe clinique S vis-à-vis d’une infection par un virus V est de 60% dans une population
+donnée. Ceci signifie que la probabilité pour un sujet infecté par ce virus V de présenter ce symptôme S est de
+60%. En population générale, 9% des sujets présentent ce symptôme ubiquitaire quelle que soit la saison.
+Sachant que l’hiver la prévalence de cette infection est de 6%, quelle est la probabilité pour qu’un sujet
+présentant ce symptôme d’être infecté l’hiver par le virus V ?
+2. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La probabilité demandée est inférieure à 0,01
+B. La probabilité demandée est 0,4
+C. La probabilité demandée est 0,9
+D. Si les symptôme S est indépendant de l’infection par le virus V, alors P(V S) = P(V)
+E. Si le symptôme S dépend de l’infection par le virus V, alors P(VS) = P(V) x P(S)
+BD
+P(S) = la probabilité de présenter le symptôme S
+P(V) = la probabilité d’être infecté par le virus V
+P(S/V) = 0,6
+P(S) = 0,09
+P(V) = 0,06
+A. FAUX :
+La
+probabilité
+demandée
+P(V/S)
+P(S/V) x P(V)
+0,6 ×0,06
+=
+= 0,4
+P(S∩V) = P(S/V) x P(V) = P(V/S) x P(S) => P(V/S) =
+𝑃(𝑆)
+0,09
+B. VRAI : Cf A.
+C. FAUX : Cf A.
+D. VRAI : Si S est indépendant de V => 𝑷(𝑨|𝑩) = 𝑷(𝑨) 𝒆𝒕 𝑷(𝑩|𝑨) = 𝑷(𝑩) 𝑨𝒍𝒐𝒓𝒔, 𝑷(𝑨∩𝑩) = 𝑷(𝑨) x 𝑷(𝑩)
+E. FAUX : Cf D.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q3 · SITE=CDE · GRILLE=CDE · DÉTAIL=['CDE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 3  
+Lors d’une étude réalisée chez 20 000 femmes diagnostiquées infertiles, 400 d’entre elles ont eu un cancer au 
+cours de la période de suivi de 5ans après le diagnostic d’infertilité. Vous calculerez l’intervalle de confiance 
+de la probabilité pour une femme diagnostiquée infertile d’avoir un cancer à 5ans. Vous regarderez ensuite si 
+l’intervalle de confiance calculée est valide.  
+Aide au calcul : √98 ≈10 
+SUJET ORIGINAL
+Exercice 3
+Lors d’une étude réalisée chez 20 000 femmes diagnostiquées infertiles, 400 d’entre elles ont eu un cancer au
+cours de la période de suivi de 5ans après le diagnostic d’infertilité. Vous calculerez l’intervalle de confiance
+de la probabilité pour une femme diagnostiquée infertile d’avoir un cancer à 5ans. Vous regarderez ensuite si
+l’intervalle de confiance calculée est valide.
+Aide au calcul : √98 ≈10
+3. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La demi-largeur de l’intervalle de confiance (IC) est 0,001
+B. La donnée collectée par sujet est une donnée ordinale
+C. La borne inférieure de l’IC est 0,018
+D. L’application du théorème central limite doit être vérifié aux bornes de l’IC
+E. L’IC est valide car 360>5
+CORRIGÉ ORIGINAL
+Exercice 3 :
+Lors d’une étude réalisée chez 20 000 femmes diagnostiquées infertiles, 400 d’entre elles ont eu un cancer au
+cours de la période de suivi de 5ans après le diagnostic d’infertilité. Vous calculerez l’intervalle de confiance de
+la probabilité pour une femme diagnostiquée infertile d’avoir un cancer à 5ans. Vous regarderez ensuite si
+l’intervalle de confiance calculée est valide.
+Aide au calcul : √98 ≈10
+3. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La demi-largeur de l’intervalle de confiance (IC) est 0,001
+B. La donnée collectée par sujet est une donnée ordinale
+C. La borne inférieure de l’IC est 0,018
+D. L’application du théorème central limite doit être vérifié aux bornes de l’IC
+E. L’IC est valide car 360>5
+CDE
+A. FAUX : L’intervalle de confiance : 𝑖𝑐95%(𝑝) = 𝑓 ± 𝑢∝√𝑓(1−𝑓)
+400
+avec n = 20 000 et 𝑓=
+20000 = 0,02
+𝑛
+la demi-largeur de l’intervalle de confiance : 𝑢∝√𝑓(1−𝑓)
+= 2 × √0,02 × 0,98
+= 2 × √0,01 × 0,98
+=
+𝑛
+20000
+10000
+0,1
+2 ×
+100 × √0,98 =  2 × 0,001 × 1 = 0,002
+B. FAUX : La donnée collectée est qualitative binaire (présence de cancer ou absence de cancer) la
+donnée ordinale présente un ordre.
+C. VRAI : 𝑖𝑐95%(𝑝) = 𝑓 ± 𝑢∝√𝑓(1−𝑓)
+= 0,02 ± 0,002 = [0,018 ;0,022]
+𝑛
+D. VRAI : Pour vérifier que les conditions d’approximation de la loi binomiale par la loi normale aux
+bornes de l’intervalle de confiance de p (conditions du théorème central limite), il faut que :
+-n
+≥
+30
+-n
+f1
+≥
+5
+n
+(1
+–
+f1)
+≥
+5
+-n f2 ≥ 5
+n (1 – f2) ≥ 5
+E.  VRAI : n × 0.018 = 20 000 × 0.018 = 360 > 5
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q4 · SITE=ACE · GRILLE=ACE · DÉTAIL=['ACE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 4 
+Lors de l’analyse des fiches patients d’une maternité, on a comparé l’âge moyen des femmes lors de leur 1e 
+accouchement en 1980 ou en 2020. Pour l’année 1980 (groupe1), 14 fiches ont pu être analysées, la moyenne 
+de l’âge à l’accouchement était de 25ans avec une variance estimée de 9ans2. Pour l’année 2020 (groupe 2), 
+16 fiches ont été analysées, la moyenne de l’âge à l’accouchement était de 31ans avec une variance estimée 
+de 16ans2. 
+On appelle respectivement P1 (pour 1980) et P2 (pour 2020) les deux populations d’où sont extraits les deux 
+échantillons représentatifs de ces populations. On suppose que l’âge à l’accouchement a la même variabilité 
+dans ces deux populations, l’estimation de la variance commune est de 12,75ans2. 
+Vous devez comparer l’âge moyen à l’accouchement entre les deux groupes. 
+Aide au calcul : 
+ 
+ 
+ 
+SUJET ORIGINAL
+Exercice 4
+Lors de l’analyse des fiches patients d’une maternité, on a comparé l’âge moyen des femmes lors de leur 1e
+accouchement en 1980 ou en 2020. Pour l’année 1980 (groupe1), 14 fiches ont pu être analysées, la moyenne
+de l’âge à l’accouchement était de 25ans avec une variance estimée de 9ans2. Pour l’année 2020 (groupe 2),
+16 fiches ont été analysées, la moyenne de l’âge à l’accouchement était de 31ans avec une variance estimée
+de 16ans2.
+On appelle respectivement P1 (pour 1980) et P2 (pour 2020) les deux populations d’où sont extraits les deux
+échantillons représentatifs de ces populations. On suppose que l’âge à l’accouchement a la même variabilité
+dans ces deux populations, l’estimation de la variance commune est de 12,75ans2.
+Vous devez comparer l’âge moyen à l’accouchement entre les deux groupes.
+Aide au calcul :
+4. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. On doit supposer que l’âge est normalement distribué dans les populations P1 et P2 pour que le test
+soit applicable
+B. L’âge est normalement distribué dans les populations P1 et P2 parce que les échantillons sont petits
+(effectifs<30)
+C. La valeur absolue calculée de la statistique du test est égale à 27/6 = 4,5
+D. La valeur seuil lue dans la table est 2,042 au risque d’erreur alpha de 5%
+E. Votre décision est de rejeter H0 au risque d’erreur alpha de 5%
+CORRIGÉ ORIGINAL
+Exercice 4 :
+Lors de l’analyse des fiches patients d’une maternité, on a comparé l’âge moyen des femmes lors de leur 1e
+accouchement en 1980 ou en 2020. Pour l’année 1980 (groupe1), 14 fiches ont pu être analysées, la moyenne
+de l’âge à l’accouchement était de 25ans avec une variance estimée de 9ans2. Pour l’année 2020 (groupe 2), 16
+fiches ont été analysées, la moyenne de l’âge à l’accouchement était de 31ans avec une variance estimée de
+16ans2.
+On appelle respectivement P1 (pour 1980) et P2 (pour 2020) les deux populations d’où sont extraits les deux
+échantillons représentatifs de ces populations. On suppose que l’âge à l’accouchement a la même variabilité
+dans ces deux populations, l’estimation de la variance commune est de 12,75ans2.
+Vous devez comparer l’âge moyen à l’accouchement entre les deux groupes.
+Aide au calcul :
+4. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. On doit supposer que l’âge est normalement distribué dans les populations P1 et P2 pour que le test
+soit applicable
+B. L’âge est normalement distribué dans les populations P1 et P2 parce que les échantillons sont petits
+(effectifs<30)
+C. La valeur absolue calculée de la statistique du test est égale à 27/6 = 4,5
+D. La valeur seuil lue dans la table est 2,042 au risque d’erreur alpha de 5%
+E. Votre décision est de rejeter H0 au risque d’erreur alpha de 5%
+ACE
+A. VRAI : En cas de petit échantillon (n<30) le théorème central limité ne s’applique pas, on ne peut pas
+utiliser la table à l’écart-réduit. Cependant, on SUPPOSE que X suit une loi Normale pour que M (la
+moyenne d’un échantillon de n variables) suive également une loi normale.
+B. FAUX : Cf A
+C. VRAI :
+On
+a
+2
+échantillons
+indépendants :
+2 = 9
+𝑔𝑟𝑜𝑢𝑝𝑒 1 ∶𝑛1 = 14, 𝑚1 = 25 𝑒𝑡 𝑠1
+2 = 16
+𝑔𝑟𝑜𝑢𝑝𝑒 2 ∶𝑛2 = 16, 𝑚2 = 31 𝑒𝑡 𝑠2
+𝑆𝑐2 = 12,75
+on
+a
+déjà
+la
+variance
+commune
+|𝑚1−𝑚2|
+|25−31|
+6
+6
+1
+6
+𝑡𝑜𝑏𝑠=
+=
+=
+=
+3,6 ×
+=
+3,6 × 2,7 =  4,5
+√12,75
+14 +12,75
+√12,75( 1
+14+ 1
+(√1
+14+ 1
+√𝑆𝑐2
+𝑛1+𝑆𝑐2
+16)
+16)
+16
+𝑛2
+D. FAUX : Avec un risque de 5% à 30-2 ddl, la valeur seuil est égale à 2,048.
+E. VRAI : 4,5 > 2,048 => on rejet l’hypothèse nulle au risque d’erreur de 5%.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q5 · SITE=ACE · GRILLE=ACE · DÉTAIL=['ACE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 5 
+Une étude a été conduite sur un échantillon de 25 sujets pour savoir su l’IMC influençait la pression artérielle 
+systolique (PAS). La pente estimée de la régression linéaire b1 = 0,81 tandis que l’écart-type estimé est  
+sb1 = 0,29 
+SUJET ORIGINAL
+Exercice 5
+Une étude a été conduite sur un échantillon de 25 sujets pour savoir su l’IMC influençait la pression artérielle
+systolique (PAS). La pente estimée de la régression linéaire b1 = 0,81 tandis que l’écart-type estimé est
+sb1 = 0,29
+5. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. L’IMC est la variable explicative
+B. La corrélation entre l’IMC et la PAS est négative
+C. L’intervalle de confiance à 95% de la pente est 0,81  2,069 x 0,29 = 0,20 ;1,42
+D. L’intervalle de confiance à 95% de la pente est 0,81  1,960 x 0,29 = 0,24 ;1,38
+E. L’effet linéaire de l’IMC sur la PAS est statistiquement significatif au risque d’erreur 5%
+CORRIGÉ ORIGINAL
+Exercice 5 :
+Une étude a été conduite sur un échantillon de 25 sujets pour savoir su l’IMC influençait la pression artérielle
+systolique (PAS). La pente estimée de la régression linéaire b1 = 0,81 tandis que l’écart-type estimé est
+sb1 = 0,29
+5. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. L’IMC est la variable explicative
+B. La corrélation entre l’IMC et la PAS est négative
+C. L’intervalle de confiance à 95% de la pente est 0,81  2,069 x 0,29 = 0,20 ;1,42
+D. L’intervalle de confiance à 95% de la pente est 0,81  1,960 x 0,29 = 0,24 ;1,38
+E. L’effet linéaire de l’IMC sur la PAS est statistiquement significatif au risque d’erreur 5%
+ACE
+A. VRAI :
+IMC
+=
+X
+=
+variable
+explicative
+=
+explicite
+PAS = Y = variable à expliquer = implicite
+B. FAUX :  𝑏1 = 𝑆𝑥𝑦 𝑆𝑥 2 = 0,81 => donc 𝑆𝑥𝑦 > 0 la covariance est positive => la corrélation est positive.
+C. VRAI : 𝐼𝐶95% = 𝑏1 ± 𝑡0,05,   23𝑑𝑑𝑙 × 𝑠𝑏1 = 0,81 ± 2,069 ×  0,29.
+D. FAUX
+E. VRAI : 0 n’appartient pas à l’intervalle de confiance => la pente est statistiquement significative au
+risque d’erreur de 5%.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q6 · SITE=BC · GRILLE=BC · DÉTAIL=['BC']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 6 
+Une étude s’intéresse à des marqueurs diagnostics de sévérité pulmonaire chez des patients atteints de 
+légionellose, pris en charge à l’hôpital. Deux marqueurs sont étudiés : le dosage de LPS (lipopolysaccharides) 
+et le résultat d’une PCR faite à partir du sérum. Une valeur élevée de marqueur est indicatrice de sévérité.  
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure 1. 
+ 
+ 
+La figure 2 représente les distributions des valeurs des deux marqueurs selon le groupe sévérité pulmonaire  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUJET ORIGINAL
+Exercice 6
+Une étude s’intéresse à des marqueurs diagnostics de sévérité pulmonaire chez des patients atteints de
+légionellose, pris en charge à l’hôpital. Deux marqueurs sont étudiés : le dosage de LPS (lipopolysaccharides)
+et le résultat d’une PCR faite à partir du sérum. Une valeur élevée de marqueur est indicatrice de sévérité.
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure 1.
+La figure 2 représente les distributions des valeurs des deux marqueurs selon le groupe sévérité pulmonaire
+6. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. Le marqueur LPS correspond au marqueur A
+B. Le marqueur LPS correspond au marqueur B
+C. Le marqueur LPS a globalement de meilleures performances diagnostiques que le marqueur PCR
+sérum
+D. L’aire sous la courbe ROC du marqueur LPS est plus faible que celle du marqueur PCR sérum
+E. Il existe un seuil de LPS avec une sensibilité d’au moins 80% et une spécificité d’au moins 60%
+CORRIGÉ ORIGINAL
+Exercice 6 :
+Une étude s’intéresse à des marqueurs diagnostics de sévérité pulmonaire chez des patients atteints de
+légionellose, pris en charge à l’hôpital. Deux marqueurs sont étudiés : le dosage de LPS (lipopolysaccharides) et
+le résultat d’une PCR faite à partir du sérum. Une valeur élevée de marqueur est indicatrice de sévérité.
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure 1.
+La figure 2 représente les distributions des valeurs des deux marqueurs selon le groupe sévérité pulmonaire
+6. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. Le marqueur LPS correspond au marqueur A
+B. Le marqueur LPS correspond au marqueur B
+C. Le marqueur LPS a globalement de meilleures performances diagnostiques que le marqueur PCR
+sérum
+D. L’aire sous la courbe ROC du marqueur LPS est plus faible que celle du marqueur PCR sérum
+E. Il existe un seuil de LPS avec une sensibilité d’au moins 80% et une spécificité d’au moins 60%
+BC
+A. FAUX
+B. VRAI : « L'aire sous la courbe mesure la capacité du test à séparer les malades des nonmalades. Ainsi,
+la courbe ayant la plus grande aire en dessous doit correspondre aux 2 boxplots où les malades sont
+les plus séparés des non malades (ou autrement dit, les 2 boxplots où les malades et non malades se
+chevauchent le moins). Ici, le dosage LPS a l'aire sous la courbe la plus grande. Instinctivement en
+regardant les 2 marqueurs, on aurait tendance à dire que c'est le marqueur B où les 2 boxplots sont
+les moins confondus, ou où ils sont le mieux "séparables" par un seuil. Etant donné que les 2 courbes
+ROC ne se croisent pas et que l'une a une aire sous la courbe supérieure à l'autre, ça veut dire que
+pour n'importe quelle sensibilité qu'on prendra, le dosage LPS aura une spécificité supérieure ou égale
+à celle du PCR. Et également pour n'importe quelle spécificité qu'on choisira, le dosage LPS aura une
+sensibilité supérieure ou égale à celle du PCR. On va donc choisir un seuil arbitraire avec une spécificité
+fixe pour les 2 marqueurs et comparer leur sensibilité. (on aurait pu faire le contraire et fixer une
+sensibilité et puis comparer les spécificités). J'ai décidé de fixer pour les 2 marqueurs une spécificité
+à 75%. On observe pour le marqueur A que pour cette spécificité on aura une sensibilité à 50%
+exactement alors que pour le marqueur B,on voit bien que la sensibilité sera supérieure à 50% parce
+que le seuil se trouve en dessous de la médiane des malades. On peut donc associer le dosage de LPS
+(le meilleur test) avec les boxplots marqueur B (ceux qui séparent le mieux les malades des non
+malades).
+C. VRAI : L’aire sous la courbe LPS est supérieure à celle de la courbe PCR => le marquer LPS a de
+meilleure performance.
+D. FAUX : Cf C.
+E. FAUX : Avec une sensibilité de 80% la spécificité est de 40% (attention 1-spé).
+Un seuil fixé pour binariser les résultats LPS et de PCR sérum, conduisant à une sensibilité de 60% et une spécifié
+de 90% pour le LPS, et à un ratio de vraisemblance positif de 2 et négatif de 4/7 pour la PCR sérum. La prévalence
+de sévérité pulmonaire est de 2/5 dans cette population.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q7 · SITE=BCD · GRILLE=BCD · DÉTAIL=['BCD']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 6 
+Une étude s’intéresse à des marqueurs diagnostics de sévérité pulmonaire chez des patients atteints de 
+légionellose, pris en charge à l’hôpital. Deux marqueurs sont étudiés : le dosage de LPS (lipopolysaccharides) 
+et le résultat d’une PCR faite à partir du sérum. Une valeur élevée de marqueur est indicatrice de sévérité.  
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure 1. 
+ 
+ 
+La figure 2 représente les distributions des valeurs des deux marqueurs selon le groupe sévérité pulmonaire  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Un seuil fixé pour binariser les résultats LPS et de PCR sérum, conduisant à une sensibilité de 60% et une 
+spécifié de 90% pour le LPS, et à un ratio de vraisemblance positif de 2 et négatif de 4/7 pour la PCR sérum. La 
+prévalence de sévérité pulmonaire est de 2/5 dans cette population.  
+SUJET ORIGINAL
+Un seuil fixé pour binariser les résultats LPS et de PCR sérum, conduisant à une sensibilité de 60% et une
+spécifié de 90% pour le LPS, et à un ratio de vraisemblance positif de 2 et négatif de 4/7 pour la PCR sérum. La
+prévalence de sévérité pulmonaire est de 2/5 dans cette population.
+7. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s).
+A. L’odds pré-test de sévérité pulmonaire est de 2/5
+B. En cas de test LPS positif, l’odds post-test de sévérité pulmonaire est de 4
+C. Un test LPS positif permet d’avantage d’affirmer la sévérité pulmonaire qu’un test PCR sérum positif
+D. La probabilité post-test de sévérité pulmonaire est plus élevée en cas de LPS positif que de PCR sérum
+positive
+E. Pour les patients immunodéprimés avec légionellose, pour lesquels la prévalence de sévérité
+pulmonaire est supérieure à 2/5, le ratio de vraisemblance positif de LPS serait forcément plus élevé
+que sur l’ensemble de la population avec légionellose
+CORRIGÉ ORIGINAL
+7. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s).
+A. L’odds pré-test de sévérité pulmonaire est de 2/5
+B. En cas de test LPS positif, l’odds post-test de sévérité pulmonaire est de 4
+C. Un test LPS positif permet d’avantage d’affirmer la sévérité pulmonaire qu’un test PCR sérum positif
+D. La probabilité post-test de sévérité pulmonaire est plus élevée en cas de LPS positif que de PCR sérum
+positive
+E. Pour les patients immunodéprimés avec légionellose, pour lesquels la prévalence de sévérité
+pulmonaire est supérieure à 2/5, le ratio de vraisemblance positif de LPS serait forcément plus élevé
+que sur l’ensemble de la population avec légionellose
+BCD
+A. FAUX : La prévalence = la probabilité pré-test = 2/5.
+B. VRAI : En cas de test
+LPS positif, 𝑜𝑑𝑑𝑠𝑝𝑜𝑠𝑡−𝑡𝑒𝑠𝑡 = 𝑜𝑑𝑑𝑠𝑝𝑟é−𝑡𝑒𝑠𝑡 ×
+2
+0,6
+2
+5
+𝑅𝑉𝑃=
+×
+1−0,9 =
+3 × 6 = 4.
+3
+5
+C. VRAI : Le RVP du test
+LPS est supérieure au RVP du test PCR => en cas
+de test positif le test LPS permet plus d’affirmer la présence d’une maladie.
+D. VRAI : Vu que le RVP du
+LPS > RVP du PCR => en cas de test positif
+la probabilité poste-test
+LPS > à la probabilité poste-test PCR.
+E. FAUX :
+Le
+ratio
+de
+vraisemblance positif et négatif ne dépend pas de la
+prévalence.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q8 · SITE=DE · GRILLE=DE · DÉTAIL=['DE']
+CONTEXTE(S) PARTAGÉ(S)
+
+SUJET ORIGINAL
+Exercice 7
+Une étude s’intéresse au niveau d’anxiété des patients admis en réanimation pour COVID-19. L’évaluation est
+faite par le questionnaire HADS, un an après le passage en réanimation. Sur les 100 patients de l’étude qui ont
+été suivis à 1an, 30 avaient un diagnostic d’anxiété à 1an d’après l’HADS. Hors COVID, on considère que la
+proportion de patients avec diagnostic d’anxiété à 1an serait de 0,2 (valeur de référence). Le test de l’écart-
+réduit de comparaison de ces proportions donne une statistique de test de 2,5.
+8. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La valeur de la
+statistique du test de l’écart-réduit est donnée par
+B. La
+valeur
+de
+la
+statistique du test de l’écart-réduit est donnée par
+C. La p-value du test est supérieure à 0,05
+D. La proportion de patients COVID en réanimation avec diagnostic d’anxiété à un an est
+statistiquement/significativement différente de celle des patients en réanimation au risque d’erreur
+5%
+E. En considérant que la proportion observée était de 0,4 et non 0,3, la statistique du test de l’écart-
+réduit serait plus élevée que celle de l’énoncé
+CORRIGÉ ORIGINAL
+Exercice 7 :
+Une étude s’intéresse au niveau d’anxiété des patients admis en réanimation pour COVID-19. L’évaluation est
+faite par le questionnaire HADS, un an après le passage en réanimation. Sur les 100 patients de l’étude qui ont
+été suivis à 1an, 30 avaient un diagnostic d’anxiété à 1an d’après l’HADS. Hors COVID, on considère que la
+proportion de patients avec diagnostic d’anxiété à 1an serait de 0,2 (valeur de référence). Le test de l’écart-
+réduit de comparaison de ces proportions donne une statistique de test de 2,5.
+8. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La valeur de la statistique du test de l’écart-réduit est donnée par
+B. La valeur de la statistique du test de l’écart-réduit est donnée par
+C. La p-value du test est supérieure à 0,05
+D. La proportion de patients COVID en réanimation avec diagnostic d’anxiété à un an est
+statistiquement/significativement différente de celle des patients en réanimation au risque d’erreur 5%
+E. En considérant que la proportion observée était de 0,4 et non 0,3, la statistique du test de l’écart-réduit
+serait plus élevée que celle de l’énoncé
+DE
+|𝑚−𝑢0|
+A. FAUX : ici on compare la moyenne d’un échantillon à une valeur de référence, 𝑡𝑜𝑏𝑠=
+√𝜋0(1−𝜋0)
+𝑛
+|𝑚−𝑢0|
+0,3−0,2
+B. FAUX :
+=
+= 2,5
+√0,2×0,8
+√𝜋0(1−𝜋0)
+100
+𝑛
+C. FAUX : 𝑡𝑜𝑏𝑠= 2,5 > 1,96 => 𝑃𝑣𝑎𝑙𝑢𝑒< 0,05
+D. VRAI : 𝑡𝑜𝑏𝑠= 2,5 > 1,96 => on rejet l’hypothèse nulle au risque d’erreur de 5%.
+E. VRAI : => quand m augmente -> la statistique du test de l’écart-réduit va augmenter aussi. Lors d’une
+augmentation du numérateur, le t(obs) va augmenter aussi. Dans la même logique, pour une baisse,
+on obtiendra une baisse.
+Parmi les 100 patients de l’étude, 60 ont eu une ventilation invasive, dont 20 avec un diagnostic d’anxiété à 1an,
+et 40 n’ont pas eu de ventilation invasive, dont 10 avec un diagnostic d’anxiété à 1an
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q9 · SITE=BCD · GRILLE=BCD · DÉTAIL=['BCD']
+CONTEXTE(S) PARTAGÉ(S)
+Parmi les 100 patients de l’étude, 60 ont eu une ventilation invasive, dont 20 avec un diagnostic d’anxiété à 
+1an, et 40 n’ont pas eu de ventilation invasive, dont 10 avec un diagnostic d’anxiété à 1an 
+SUJET ORIGINAL
+Parmi les 100 patients de l’étude, 60 ont eu une ventilation invasive, dont 20 avec un diagnostic d’anxiété à
+1an, et 40 n’ont pas eu de ventilation invasive, dont 10 avec un diagnostic d’anxiété à 1an
+9. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. Le risque relatif de diagnostic d’anxiété à 1an entre les individus avec ventilation invasive et ceux
+sans ventilation invasive n’est pas estimable à partir de cette étude
+B. Le risque relatif de diagnostic d’anxiété à 1an entre les individus avec ventilation invasive et ceux
+sans ventilation invasive est estimée à 4/3
+C. La différence de risque de diagnostic d’anxiété à 1an entre les individus avec ventilation invasive et
+ceux sans ventilation invasive est positive
+D. Un test possible pour comparer les résultats entre les deux groupes est le test du Chi2 (sans tenir
+compte des conditions d’application du test)
+E. Avec les proportions de diagnostic d’anxiété à 1an identiques mais avec des effectifs plus faibles, la
+statistique du test de comparaison des proportions serait plus faible que celle issue des données de
+l’étude
+CORRIGÉ ORIGINAL
+9. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. Le risque relatif de diagnostic d’anxiété à 1an entre les individus avec ventilation invasive et ceux sans
+ventilation invasive n’est pas estimable à partir de cette étude
+B. Le risque relatif de diagnostic d’anxiété à 1an entre les individus avec ventilation invasive et ceux sans
+ventilation invasive est estimée à 4/3
+C. La différence de risque de diagnostic d’anxiété à 1an entre les individus avec ventilation invasive et
+ceux sans ventilation invasive est positive
+D. Un test possible pour comparer les résultats entre les deux groupes est le test du Chi2 (sans tenir
+compte des conditions d’application du test)
+E. Avec les proportions de diagnostic d’anxiété à 1an identiques mais avec des effectifs plus faibles, la
+statistique du test de comparaison des proportions serait plus faible que celle issue des données de
+l’étude
+BCD
+A.  FAUX
+20
+4
+B. VRAI : 𝑅𝑅=
+60
+=
+3
+10
+40
+20
+10
+1
+C. VRAI : 𝐷𝑅=
+60 −
+40 =
+12 (sans calculer la DR, on peut déduire qu’elle est positive car RR>1).
+D. VRAI : Car ici on a 2 échantillons indépendants.
+E. FAUX : Les proportions restent identiques.
+Après la sortie de réanimation, les patients sont suivis pendant un an. Tous les 3mois, ils ont eu un examen pour
+détecter la survenue d’une dépression.
+NOTES EXISTANTES
+Le corrigé rejette E parce que les proportions restent identiques. Pourtant l’écart réduit divise la différence de proportions par une erreur-type qui augmente lorsque les effectifs diminuent. À proportions et allocation relatives identiques, des effectifs plus faibles donnent un |z| plus faible (et un χ²=z² plus faible). E devrait être vrai dans cette comparaison. Clé source conservée ; ronéo requise : UE3 comparaison de deux proportions indépendantes.
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q10 · SITE=D · GRILLE=D · DÉTAIL=['D']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Après la sortie de réanimation, les patients sont suivis pendant un an. Tous les 3mois, ils ont eu un examen 
+pour détecter la survenue d’une dépression.  
+SUJET ORIGINAL
+Après la sortie de réanimation, les patients sont suivis pendant un an. Tous les 3mois, ils ont eu un examen
+pour détecter la survenue d’une dépression.
+10. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. L’étude correspond à une étude cas-témoins
+B. L’étude correspond à une étude transversale
+C. Le nombre de nouveaux cas de dépression durant l’année de suivi est suffisant pour être capable
+d’évaluer l’incidence de dépression
+D. Les patients déjà en dépression à la sortie de réanimation ne sont pas comptabilisés dans l’incidence
+de dépression après sortie de réanimation
+E. L’incidence de dépression dépend de la durée de la dépression
+CORRIGÉ ORIGINAL
+10. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. L’étude correspond à une étude cas-témoins
+B. L’étude correspond à une étude transversale
+C. Le nombre de nouveaux cas de dépression durant l’année de suivi est suffisant pour être capable
+d’évaluer l’incidence de dépression
+D. Les patients déjà en dépression à la sortie de réanimation ne sont pas comptabilisés dans l’incidence
+de dépression après sortie de réanimation
+E. L’incidence de dépression dépend de la durée de la dépression
+D
+A. FAUX : Il s’agit d’une étude de cohorte, on suit les patients pendant 1 an.
+B. FAUX
+𝑛𝑜𝑚𝑏𝑟𝑒 𝑑𝑒 𝑛𝑜𝑢𝑣𝑒𝑎𝑢𝑥 𝑐𝑎𝑠
+C. FAUX :
+L’incidence
+=
+𝑝𝑒𝑟𝑠𝑜𝑛𝑛𝑒𝑠−𝑡𝑒𝑚𝑝𝑠
+pour calculer l’incidence il nous faut aussi le nombre de personnes-temps.
+D. VRAI : Il s’agit d’une étude de cohorte, au début de laquelle on a des sujets indemnes de l’évènement
+d’intérêt (ici la dépression).
+E.  FAUX : C’est la prévalence qui dépend de la durée d’une maladie, ainsi que la vitesse d’apparition.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2021-2022.s1 Q11 · SITE=AE · GRILLE=AE · DÉTAIL=['AE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 8 
+Des hyperglycémies (fort taux de glucose dans le sang) sont régulièrement observées chez les patients pris en 
+charge en réanimation. La gestion des hyperglycémies reste débattue de sorte qu’une étude randomisée 
+comparant deux stratégies de prise en charge, couramment utilisées, a été mise en place.  
+Le critère de jugement principal était la mortalité toute cause à 90jours. Le pourcentage de mortalité attendue 
+dans le bras contrôle est de 22%. Le recrutement de 2100 patients dans chaque groupe permettait d’identifier 
+une diminution de 4points du pourcentage de mortalité entre le bras expérimental et le bras contrôle, avec 
+une puissance de 90% et un risque alpha à 5%. 
+SUJET ORIGINAL
+Exercice 8
+Des hyperglycémies (fort taux de glucose dans le sang) sont régulièrement observées chez les patients pris en
+charge en réanimation. La gestion des hyperglycémies reste débattue de sorte qu’une étude randomisée
+comparant deux stratégies de prise en charge, couramment utilisées, a été mise en place.
+Le critère de jugement principal était la mortalité toute cause à 90jours. Le pourcentage de mortalité attendue
+dans le bras contrôle est de 22%. Le recrutement de 2100 patients dans chaque groupe permettait d’identifier
+une diminution de 4points du pourcentage de mortalité entre le bras expérimental et le bras contrôle, avec
+une puissance de 90% et un risque alpha à 5%.
+11. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. Il s’agit d’un essai contrôlé randomisé
+B. Toute chose égale par ailleurs, un risque alpha à 1% requiert moins de patients
+C. Toute chose égale par ailleurs, une diminution de 6points du pourcentage de mortalité au lieu de 4
+points requerrait plus de patients
+D. La randomisation est la seule façon de limiter le biais d’attrition
+E. L’analyse en intention de traiter porte sur tous les patients randomisés sans exception.
+CORRIGÉ ORIGINAL
+Exercice 8
+Des hyperglycémies (fort taux de glucose dans le sang) sont régulièrement observées chez les patients pris en
+charge en réanimation. La gestion des hyperglycémies reste débattue de sorte qu’une étude randomisée
+comparant deux stratégies de prise en charge, couramment utilisées, a été mise en place.
+Le critère de jugement principal était la mortalité toute cause à 90jours. Le pourcentage de mortalité attendue
+dans le bras contrôle est de 22%. Le recrutement de 2100 patients dans chaque groupe permettait d’identifier
+une diminution de 4points du pourcentage de mortalité entre le bras expérimental et le bras contrôle, avec une
+puissance de 90% et un risque alpha à 5%.
+11. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. Il s’agit d’un essai contrôlé randomisé
+B. Toute chose égale par ailleurs, un risque alpha à 1% requiert moins de patients
+C. Toute chose égale par ailleurs, une diminution de 6points du pourcentage de mortalité au lieu de 4
+points requerrait plus de patients
+D. La randomisation est la seule façon de limiter le biais d’attrition
+E. L’analyse en intention de traiter porte sur tous les patients randomisés sans exception.
+AE
+A. VRAI
+B. FAUX : Plus le risque alpha est faible plus le nombre de sujets à inclure est élevé.
+C. FAUX : une diminution du pourcentage de mortalité de 6 points au lieu de 4 représente une plus
+grande différence à mettre en évidence, on aura donc besoin de moins de patient à inclure.
+D. FAUX : La randomisation permet de limiter le biais de confusion.
+E. VRAI : L’analyse en Intention de Traiter : tous les participants à l’étude restent étudiés dans le groupe
+auquel ils ont été assignés. Aucune exclusion à posteriori.
+NOTES EXISTANTES

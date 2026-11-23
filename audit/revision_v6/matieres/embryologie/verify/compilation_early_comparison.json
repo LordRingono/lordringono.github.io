@@ -1,0 +1,617 @@
+[
+  {
+    "source": {
+      "page": 990,
+      "number": 1,
+      "items": {
+        "A": "La cellule 1 représente une spermatogonie Ap",
+        "B": "La cellule 1 est une cellule somatique qui se renouvelle constamment",
+        "C": "Les cellules 2 et 3 sont issues de la division par mitose de la cellule 1",
+        "D": "La cellule 4 représente une spermatogonie B",
+        "E": "La cellule 5 représente un spermatocyte II"
+      },
+      "text": "1. Sur le schéma, chaque chiffre représente la cellule située à proximité. A propos du schéma représentant la \nspermatogenèse, indiquez la ou les affirmations correctes parmi les propositions suivantes : \n \nA. La cellule 1 représente une spermatogonie Ap \nB. La cellule 1 est une cellule somatique qui se renouvelle constamment \nC. Les cellules 2 et 3 sont issues de la division par mitose de la cellule 1 \nD. La cellule 4 représente une spermatogonie B \nE. La cellule 5 représente un spermatocyte II \n \n \n \n \n"
+    },
+    "best": {
+      "bank": "embryo.col.s4",
+      "id": 55,
+      "similarity": 0.43596454381074307,
+      "options": [
+        {
+          "id": "A",
+          "text": "5 représente la somatopleure"
+        },
+        {
+          "id": "B",
+          "text": "6 représente le cæœlome extra-embryonnaire"
+        },
+        {
+          "id": "C",
+          "text": "7 représente la splanchnopleure"
+        },
+        {
+          "id": "D",
+          "text": "8 représente le myotome"
+        },
+        {
+          "id": "E",
+          "text": "9 représente le dermatome"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 991,
+      "number": 2,
+      "items": {
+        "A": "Lors d’une non disjonction des chromosomes au cours de la première division de méiose, la moitié des cellules filles sont aneuploïdes",
+        "B": "Lors d’une non disjonction des chromosomes au cours de la deuxième division de méiose, la moitié des cellules filles est disomique et l’autre moitié est nullosomique",
+        "C": "A partir du schéma présenté ci-dessus, une des cellules filles issues de la première division de méiose comporte deux gonosomes à une chromatide",
+        "D": "A partir du schéma présenté ci-dessus, la cellule notée 1 possède deux gonosomes à une chromatide",
+        "E": "A partir du schéma présenté ci-dessus, la cellule notée 3 ne possède pas de gonosome"
+      },
+      "text": "2. A propos des anomalies de non disjonction lors de la méiose représentées sur le schéma, indiquez la ou les \naffirmations correctes parmi les propositions suivantes : \n \nA. Lors d’une non disjonction des chromosomes au cours de la première division de méiose, la moitié des \ncellules filles sont aneuploïdes \nB. Lors d’une non disjonction des chromosomes au cours de la deuxième division de méiose, la moitié des \ncellules filles est disomique et l’autre moitié est nullosomique \nC. A partir du schéma présenté ci-dessus, une des cellules filles issues de la première division de méiose \ncomporte deux gonosomes à une chromatide  \nD. A partir du schéma présenté ci-dessus, la cellule notée 1 possède deux gonosomes à une chromatide \nE. A partir du schéma présenté ci-dessus, la cellule notée 3 ne possède pas de gonosome \n"
+    },
+    "best": {
+      "bank": "embryo.ann.gamet",
+      "id": 18,
+      "similarity": 0.41467464929898645,
+      "options": [
+        {
+          "id": "A",
+          "text": "La non-disjonction des chromosomes au cours de la 1ère division de méiose ou des chromatides sœurs remaniées au cours de la 2ème division de méiose aboutit à une aneuploïdie."
+        },
+        {
+          "id": "B",
+          "text": "Le syndrome de Turner (45, XO) peut être secondaire à une non-disjonction des gonosomes au cours de l’ovogenèse ou de la spermatogenèse."
+        },
+        {
+          "id": "C",
+          "text": "La non-disjonction des chromosomes 21 au cours de la 1ère division de méiose aboutit après fécondation soit à une trisomie 21, soit à une monosomie 21, soit à un caryotype normal."
+        },
+        {
+          "id": "D",
+          "text": "Une translocation équilibrée peut résulter d’une anomalie du brassage intrachromosomique entre chromatides non-sœurs de chromosomes non homologues."
+        },
+        {
+          "id": "E",
+          "text": "Une translocation équilibrée résulte toujours d’une anomalie du brassage intrachromosomique entre chromatides non-sœurs au sein d’un bivalent."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 992,
+      "number": 3,
+      "items": {
+        "A": "Le 1 représente un ovocyte bloqué en prophase I de la méiose II",
+        "B": "Le 2 représente la vésicule germinale",
+        "C": "Le 3 correspond au premier globule polaire qui contient la moitié des chromosomes à une chromatide",
+        "D": "Le 4 représente un pronoyau",
+        "E": "Le 5 représente un ovocyte en métaphase I"
+      },
+      "text": "3. A propos de la folliculogenèse, d’après les photographies ci-jointes indiquez la ou les affirmations correctes \nparmi les propositions suivantes : \n \nA. Le 1 représente un ovocyte bloqué en prophase I de la méiose II \nB. Le 2 représente la vésicule germinale \nC. Le 3 correspond au premier globule polaire qui contient la moitié des chromosomes à une chromatide  \nD. Le 4 représente un pronoyau \nE. Le 5 représente un ovocyte en métaphase I  \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s2",
+      "id": 14,
+      "similarity": 0.502285421488984,
+      "options": [
+        {
+          "id": "A",
+          "text": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11"
+        },
+        {
+          "id": "B",
+          "text": "Le 2 représente la lame choriale."
+        },
+        {
+          "id": "C",
+          "text": "Le 5 représente la vésicule vitelline"
+        },
+        {
+          "id": "D",
+          "text": "Le 6 représente le lécithocèle primaire"
+        },
+        {
+          "id": "E",
+          "text": "Le 7 représente le cytotrophoblaste"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 992,
+      "number": 4,
+      "items": {
+        "A": "La fixation primaire correspond à la fixation du spermatozoïde à ZP2",
+        "B": "Suite à la fixation du spermatozoïde à ZP3, une activation de voies de transmission intracellulaire entraîne un afflux de sodium",
+        "C": "Suite à la réaction acrosomique, la membrane externe de l’acrosome est visible",
+        "D": "La totalité du spermatozoïde fusionne avec l’ovocyte",
+        "E": "Une altération de la réaction corticale peut entraîner une polyspermie"
+      },
+      "text": "4. A propos de la fécondation et du développement embryonnaire, indiquez la ou les affirmations correctes \nparmi les propositions suivantes : \nA. La fixation primaire correspond à la fixation du spermatozoïde à ZP2 \nB. Suite à la fixation du spermatozoïde à ZP3, une activation de voies de transmission intracellulaire \nentraîne un afflux de sodium \nC. Suite à la réaction acrosomique, la membrane externe de l’acrosome est visible \nD. La totalité du spermatozoïde fusionne avec l’ovocyte \nE. Une altération de la réaction corticale peut entraîner une polyspermie \n"
+    },
+    "best": {
+      "bank": "embryo.ann.fec",
+      "id": 19,
+      "similarity": 0.4033918128654971,
+      "options": [
+        {
+          "id": "A",
+          "text": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est spécifique d’espèce."
+        },
+        {
+          "id": "B",
+          "text": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est réversible."
+        },
+        {
+          "id": "C",
+          "text": "La réaction acrosomique débute par la fusion de la membrane plasmique du spermatozoïde et de la membrane interne de l’acrosome."
+        },
+        {
+          "id": "D",
+          "text": "Après la réaction acrosomique, la membrane interne de l’acrosome est exposée et permet l’externalisation du récepteur ZP1."
+        },
+        {
+          "id": "E",
+          "text": "La liaison secondaire du spermatozoïde à la zone pellucide est irréversible."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 993,
+      "number": 5,
+      "items": {
+        "A": "L’ovocyte expulsé lors de l’ovulation est bloqué en métaphase II de la méiose II",
+        "B": "La migration du complexe cumulo-ovocytaire vers l’ampoule tubaire est principalement secondaire au flux péritonéal, aux battements ciliaires de la trompe et aux contractions musculaires de la trompe",
+        "C": "La fusion membranaire entre le spermatozoïde et l’ovocyte est permise par l’interaction entre l’intégrine et la fertiline spermatique",
+        "D": "Le blastocyste est formé à J5 et est composé d’un trophoblaste et d’une masse cellulaire interne",
+        "E": "L’implantation embryonnaire débute avant la formation du blastocyste"
+      },
+      "text": "5. A propos de la fécondation et du développement embryonnaire, indiquez la ou les affirmations correctes \nparmi les propositions suivantes : \nA. L’ovocyte expulsé lors de l’ovulation est bloqué en métaphase II de la méiose II \nB. La migration du complexe cumulo-ovocytaire vers l’ampoule tubaire est principalement secondaire au \nflux péritonéal, aux battements ciliaires de la trompe et aux contractions musculaires de la trompe \nC. La fusion membranaire entre le spermatozoïde et l’ovocyte est permise par l’interaction entre \nl’intégrine et la fertiline spermatique \nD. Le blastocyste est formé à J5 et est composé d’un trophoblaste et d’une masse cellulaire interne \nE. L’implantation embryonnaire débute avant la formation du blastocyste \n"
+    },
+    "best": {
+      "bank": "embryo.col.s2",
+      "id": 32,
+      "similarity": 0.3918402189418714,
+      "options": [
+        {
+          "id": "A",
+          "text": "La deuxième semaine de développement embryonnaire débute par l'implantation de l'embryon"
+        },
+        {
+          "id": "B",
+          "text": "L’endomètre en phase lutéale est épais et composé de nombreuses glandes utérines dilatées"
+        },
+        {
+          "id": "C",
+          "text": "Le trophoblaste se transforme en syncytiotrophoblaste en périphérie au contact de l'endomètre"
+        },
+        {
+          "id": "D",
+          "text": "Le trophoblaste se transforme en cytotrophoblaste entre le syncytiotrophoblaste et le cœlome extra embryonnaire"
+        },
+        {
+          "id": "E",
+          "text": "Le disque embryonnaire didermique est formé par l'épiblaste et l'hypoblaste"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 993,
+      "number": 6,
+      "items": {
+        "A": "Le 2 est un embryon en segmentation.",
+        "B": "Le 3 est un embryon dont les cellules se polarisent avec la mise en place de gap junctions entre les cellules internes et externes.",
+        "C": "Le 4 est un embryon au stade blastocyste.",
+        "D": "Les cellules de l’embryon, représenté par le chiffre 4, sont totipotentes.",
+        "E": "Au stade de blastocyste, les cellules en périphérie situées sous la zone pellucide sont les cellules du trophoblaste ou trophectoderme."
+      },
+      "text": "6. A propos des photographies ci-jointes, indiquez la ou les affirmations correctes parmi les propositions \nsuivantes : \n \n \nA. Le 2 est un embryon en segmentation. \nB. Le 3 est un embryon dont les cellules se polarisent avec la mise en place de gap junctions entre les \ncellules internes et externes. \nC. Le 4 est un embryon au stade blastocyste. \nD. Les cellules de l’embryon, représenté par le chiffre 4, sont totipotentes. \nE. Au stade de blastocyste, les cellules en périphérie situées sous la zone pellucide sont les cellules du \ntrophoblaste ou trophectoderme. \n \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s1",
+      "id": 2,
+      "similarity": 0.3926733446443547,
+      "options": [
+        {
+          "id": "A",
+          "text": "La segmentation est totale, synchrone, et asymétrique."
+        },
+        {
+          "id": "B",
+          "text": "La polarité cellulaire débute dès le phénomène de compaction de la morula"
+        },
+        {
+          "id": "C",
+          "text": "Les gènes CDX2 et TEAD4 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) HP"
+        },
+        {
+          "id": "D",
+          "text": "Les cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) sont totipotentes"
+        },
+        {
+          "id": "E",
+          "text": "Les gènes soumis à l’empreinte parentale ont une expression monoallélique"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 994,
+      "number": 7,
+      "items": {
+        "A": "La prégastrulation est la mise en place du disque didermique embryonnaire.",
+        "B": "A la fin de la deuxième semaine de développement embryonnaire, le diamètre du disque didermique est de 0,25 à 0,30 centimètres.",
+        "C": "Le lécithocèle primaire, en position ventrale, est fermé par la membrane de Heuser.",
+        "D": "Au 13Ème jour de développement embryonnaire, les lacunes syncitiotrophoblastiques sont remplies de sang maternel",
+        "E": "La lame amniotique est dérivée des cellules épiblastiques."
+      },
+      "text": "7. A propos de la deuxième semaine de développement embryonnaire, indiquez la ou les affirmations \ncorrectes parmi les propositions suivantes :  \nA. La prégastrulation est la mise en place du disque didermique embryonnaire. \nB. A la fin de la deuxième semaine de développement embryonnaire, le diamètre du disque didermique \nest de 0,25 à 0,30 centimètres. \nC. Le lécithocèle primaire, en position ventrale, est fermé par la membrane de Heuser. \nD. Au 13Ème jour de développement embryonnaire, les lacunes syncitiotrophoblastiques sont remplies de \nsang maternel \nE. La lame amniotique est dérivée des cellules épiblastiques. \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s2",
+      "id": 6,
+      "similarity": 0.41328205024651743,
+      "options": [
+        {
+          "id": "A",
+          "text": "Un disque didermique constitué par l’épiblaste et l’hypoblaste."
+        },
+        {
+          "id": "B",
+          "text": "La cavité amniotique, la blastocèle et le lécithocèle primaire."
+        },
+        {
+          "id": "C",
+          "text": "Le lécithocèle primaire et la membrane de Heuser."
+        },
+        {
+          "id": "D",
+          "text": "Des lacunes remplies de sang maternel dans le syncytiotrophoblaste"
+        },
+        {
+          "id": "E",
+          "text": "Du magma réticulé ou mésenchyme extra-embryonnaire."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 994,
+      "number": 8,
+      "items": {
+        "A": "Les villosités primaires, secondaires et tertiaire sont constituées, entre autres, de cytotrophoblaste et de syncitiotrophoblaste.",
+        "B": "Quand les villosités se mettent en place, les lacunes du syncytiotrophoblaste sont remplies de sang maternel",
+        "C": "La coque cytotrophoblastique délimite l’envahissement du syncytiotrophoblaste dans l’endomètre.",
+        "D": "La caduque se forme secondairement à la réaction déciduale de la couche superficielle de l’endomètre.",
+        "E": "L’angiogenèse embryonnaire précède la vasculogenèse embryonnaire"
+      },
+      "text": "8. A propos de la formation du chorion placentaire :  \nA. Les villosités primaires, secondaires et tertiaire sont constituées, entre autres, de cytotrophoblaste et \nde syncitiotrophoblaste. \nB. Quand les villosités se mettent en place, les lacunes du syncytiotrophoblaste sont remplies de sang \nmaternel \nC. La coque cytotrophoblastique délimite l’envahissement du syncytiotrophoblaste dans l’endomètre.  \nD. La caduque se forme secondairement à la réaction déciduale de la couche superficielle de l’endomètre.  \nE. L’angiogenèse embryonnaire précède la vasculogenèse embryonnaire \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s3",
+      "id": 34,
+      "similarity": 0.3955802850976139,
+      "options": [
+        {
+          "id": "A",
+          "text": "le chorion de l’œuf et les villosités secondaires sont constitués de syncytiotrophoblaste, de cytotrophoblaste et de mésenchyme extra-embryonnaire"
+        },
+        {
+          "id": "B",
+          "text": "la période villeuse du placenta diffus débute au milieu de la 3ème semaine du développement embryonnaire"
+        },
+        {
+          "id": "C",
+          "text": "les colonnes cytotrophoblastiques apparaissent dès le stade de villosité secondaire"
+        },
+        {
+          "id": "D",
+          "text": "la caduque placentaire (basilaire) et la caduque ovulaire (réfléchie) entourent l’œuf"
+        },
+        {
+          "id": "E",
+          "text": "les îlots de Wolff et Pander sont angio- et sanguino-formateurs"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 994,
+      "number": 9,
+      "items": {
+        "A": "Au cours de la gastrulation, les cellules épiblastiques migrent dans 2 territoires : dorsal et latero-ventral",
+        "B": "La migration des cellules épiblastiques à travers la ligne primitive suit un mouvement par ingression, controlé par le facteur de croissance FGF-8.",
+        "C": "Le mésoblaste colonise le disque embryonnaire à l’exception de la membrane pharyngienne et de la membrane cloacale.",
+        "D": "Le processus chordal est un phénomène post-gastrulaire.",
+        "E": "À la gastrulation, l’hypoblaste a une position intra-embryonnaire."
+      },
+      "text": "9. A propos de la gastrulation : \nA. Au cours de la gastrulation, les cellules épiblastiques migrent dans 2 territoires : dorsal et latero-ventral \nB. La migration des cellules épiblastiques à travers la ligne primitive suit un mouvement par ingression, \ncontrolé par le facteur de croissance FGF-8. \nC. Le mésoblaste colonise le disque embryonnaire à l’exception de la membrane pharyngienne et de la \nmembrane cloacale. \nD. Le processus chordal est un phénomène post-gastrulaire. \nE.  À la gastrulation, l’hypoblaste a une position intra-embryonnaire. \n"
+    },
+    "best": {
+      "bank": "embryo.col.s3",
+      "id": 36,
+      "similarity": 0.3832826082024712,
+      "options": [
+        {
+          "id": "A",
+          "text": "Les cellules épiblastiques qui vont se détacher et migrer à travers la ligne primitive subissent une transformation épithélio—mésenchymateuse."
+        },
+        {
+          "id": "B",
+          "text": "Le canal chordal est constitué par des cellules épiblastiques qui migrent à travers la ligne primitive."
+        },
+        {
+          "id": "C",
+          "text": "La longueur réelle de la ligne primitive diminue fortement au cours de la 3ème semaine"
+        },
+        {
+          "id": "D",
+          "text": "Le canal chordal constitue une évolution du canal neurentérique."
+        },
+        {
+          "id": "E",
+          "text": "Quand la plaque chordale se forme, le placenta diffus en est au stade « villosités secondaires »."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 994,
+      "number": 10,
+      "items": {
+        "A": "La légende 1 correspond à l’épiblaste",
+        "B": "La légende 2 correspond à la chorde",
+        "C": "La légende 3 correspond au mésoblaste para-axial",
+        "D": "La légende 4 correspond à la somatopleure",
+        "E": "La légende 5 correspond à un somite"
+      },
+      "text": "10. (Embryo. Dr Giscard d’Estaing) \nCette figure correspond à une coupe transversale passant en avant de la ligne primitive à J18 : \n \nA. La légende 1 correspond à l’épiblaste \nB. La légende 2 correspond à la chorde \nC. La légende 3 correspond au mésoblaste para-axial \nD. La légende 4 correspond à la somatopleure \nE. La légende 5 correspond à un somite \n \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s4",
+      "id": 12,
+      "similarity": 0.6645548429859487,
+      "options": [
+        {
+          "id": "A",
+          "text": "La légende 1 correspond au bourgeon céphalique"
+        },
+        {
+          "id": "B",
+          "text": "La légende 2 correspond aux arcs branchiaux"
+        },
+        {
+          "id": "C",
+          "text": "La légende 3 correspond aux vertèbres"
+        },
+        {
+          "id": "D",
+          "text": "La légende 4 correspond à la face ventrale au niveau du cordon ombilical"
+        },
+        {
+          "id": "E",
+          "text": "La légende 5 correspond à une anomalie digestive pathologique : un omphalocèle"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 995,
+      "number": 11,
+      "items": {
+        "A": "La condensation du mésoblaste est un phénomène post-gastrulaire",
+        "B": "Le mésoblaste intermédiaire se situe entre la chorde et le mésoblaste para-axial",
+        "C": "La segmentation du mésoblaste para-axial est totale en fin de 4ème semaine du développement embryonnaire",
+        "D": "L'extrémité proximale des tubules mésonéphrotiques s'abouche dans le canal de Wolff",
+        "E": "La splanchnopleure, issue de la scission de la lame latérale, est à l’origine des feuillets pariétaux des cavités pleurales, de la cavité péricardique et de la cavité péritonéale"
+      },
+      "text": "11. (Embryo. Dr Giscard d’Estaing)  \nA propos du mésoblaste : \nA. La condensation du mésoblaste est un phénomène post-gastrulaire \nB. Le mésoblaste intermédiaire se situe entre la chorde et le mésoblaste para-axial \nC. La segmentation du mésoblaste para-axial est totale en fin de 4ème semaine du développement \nembryonnaire \nD. L'extrémité proximale des tubules mésonéphrotiques s'abouche dans le canal de Wolff \nE. La splanchnopleure, issue de la scission de la lame latérale, est à l’origine des feuillets pariétaux des \ncavités pleurales, de la cavité péricardique et de la cavité péritonéale \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s3",
+      "id": 30,
+      "similarity": 0.42179761401808147,
+      "options": [
+        {
+          "id": "A",
+          "text": "La condensation du mésoblaste est un phénomène post-gastrulaire."
+        },
+        {
+          "id": "B",
+          "text": "Le mésoblaste para-axial se segmente partiellement en somites."
+        },
+        {
+          "id": "C",
+          "text": "Le corps vertébral résulte de l’accolement de la partie caudale d’un hémibloc sclérotomial avec la partie crâniale de l’hémibloc sclérotomial sous-jacent."
+        },
+        {
+          "id": "D",
+          "text": "Le corps de Wolff est constitué par le canal de Wolff et les tubules pronéphrotiques."
+        },
+        {
+          "id": "E",
+          "text": "La protéine BMP-4 (Bone Morphogenetic Protein-4) est sécrétée par les cellules de la partie caudale de la ligne primitive et est nécessaire pour mettre en place le mésoblaste latéral."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 995,
+      "number": 12,
+      "items": {
+        "A": "Le myocèle est une cavité au sein du sclérotome",
+        "B": "La zone externe du sclérotome est à l'origine du dermatome",
+        "C": "La partie caudale de chaque bloc sclérotomial s'accole à la partie crâniale du bloc sclérotomial sous- jacent",
+        "D": "Le dermatome est à l'origine du tissu cellulaire sous-cutané du segment métamérique correspondant",
+        "E": "La protéine Sonic hedgehog (Shh) est une protéine impliquée dans le développement du sclérotome"
+      },
+      "text": "12. (Embryo. Dr Giscard d'Estaing)  \nA propos des somites : \nA. Le myocèle est une cavité au sein du sclérotome \nB. La zone externe du sclérotome est à l'origine du dermatome \nC. La partie caudale de chaque bloc sclérotomial s'accole à la partie crâniale du bloc sclérotomial sous-\njacent \nD. Le dermatome est à l'origine du tissu cellulaire sous-cutané du segment métamérique correspondant \nE. La protéine Sonic hedgehog (Shh) est une protéine impliquée dans le développement du sclérotome \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s3",
+      "id": 30,
+      "similarity": 0.3663634523652616,
+      "options": [
+        {
+          "id": "A",
+          "text": "La condensation du mésoblaste est un phénomène post-gastrulaire."
+        },
+        {
+          "id": "B",
+          "text": "Le mésoblaste para-axial se segmente partiellement en somites."
+        },
+        {
+          "id": "C",
+          "text": "Le corps vertébral résulte de l’accolement de la partie caudale d’un hémibloc sclérotomial avec la partie crâniale de l’hémibloc sclérotomial sous-jacent."
+        },
+        {
+          "id": "D",
+          "text": "Le corps de Wolff est constitué par le canal de Wolff et les tubules pronéphrotiques."
+        },
+        {
+          "id": "E",
+          "text": "La protéine BMP-4 (Bone Morphogenetic Protein-4) est sécrétée par les cellules de la partie caudale de la ligne primitive et est nécessaire pour mettre en place le mésoblaste latéral."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 995,
+      "number": 13,
+      "items": {
+        "A": "Le tube neural commence à se fermer alors que la gouttière neurale persiste dans la portion céphalique et dans la portion caudale",
+        "B": "La vésicule mésencéphalique est en continuité directe avec la portion médullaire du tube neural",
+        "C": "Suite à la neurulation secondaire, la partie terminale de la moelle épinière est d'origine mésoblastique",
+        "D": "Les cellules des crêtes neurales donnent des dérivés n'appartenant pas au système nerveux périphérique : les odontoblastes et les mélanocytes; entre autres",
+        "E": "La dorsalisation du toit du tube neural est contrôlée, entre autres, par la protéine Sonic hedgehog (Shh)"
+      },
+      "text": "13. (Embryo. Dr Giscard d'Estaing)  \nA propos de la neurulation : \nA. Le tube neural commence à se fermer alors que la gouttière neurale persiste dans la portion céphalique \net dans la portion caudale \nB. La vésicule mésencéphalique est en continuité directe avec la portion médullaire du tube neural \nC. Suite à la neurulation secondaire, la partie terminale de la moelle épinière est d'origine mésoblastique \nD. Les cellules des crêtes neurales donnent des dérivés n'appartenant pas au système nerveux \npériphérique : les odontoblastes et les mélanocytes; entre autres \nE. La dorsalisation du toit du tube neural est contrôlée, entre autres, par la protéine Sonic hedgehog (Shh) \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s4",
+      "id": 31,
+      "similarity": 0.41793305131186465,
+      "options": [
+        {
+          "id": "A",
+          "text": "Avant sa fermeture, le tube neural communique avec la cavité amniotique."
+        },
+        {
+          "id": "B",
+          "text": "Le pro-encéphale est en communication directe avec la partie médullaire du tube neural."
+        },
+        {
+          "id": "C",
+          "text": "Les cellules des crêtes neurales sont à l'origine des structures du système nerveux périphérique exclusivement."
+        },
+        {
+          "id": "D",
+          "text": "L'axe dorso-ventral du tube neural est déterminé par la protéine BMP 4 (Bone Morphogenetic Protein 4) et la protéine Sonic hedgehog (SHH)."
+        },
+        {
+          "id": "E",
+          "text": "Le spina bifida est une anomalie de fermeture du tube neural."
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 995,
+      "number": 14,
+      "items": {
+        "A": "Suite à la plicature céphalique, l'ébauche cardiaque se positionne en arrière de la membrane pharyngienne",
+        "B": "La délimitation permet l'incorporation du toit de la vésicule vitelline secondaire (ou lécithocèle II) qui est à l'origine de l'intestin primitif",
+        "C": "L'anse vitelline est en communication avec le sac vitellin par le canal vitellin",
+        "D": "La gouttière respiratoire est une évagination sur la face postérieure de l'intestin antérieur primitif",
+        "E": "La paroi ventrale est fermée à la fin de la 4ème semaine du développement embryonnaire"
+      },
+      "text": "14. (Embryo. Dr Giscard d'Estaing) \nA propos de la 4ème semaine du développement embryonnaire : \nA. Suite à la plicature céphalique, l'ébauche cardiaque se positionne en arrière de la membrane \npharyngienne \nB. La délimitation permet l'incorporation du toit de la vésicule vitelline secondaire (ou lécithocèle II) qui \nest à l'origine de l'intestin primitif \nC. L'anse vitelline est en communication avec le sac vitellin par le canal vitellin \nD. La gouttière respiratoire est une évagination sur la face postérieure de l'intestin antérieur primitif \nE. La paroi ventrale est fermée à la fin de la 4ème semaine du développement embryonnaire \n \n"
+    },
+    "best": {
+      "bank": "embryo.ann.s4",
+      "id": 34,
+      "similarity": 0.41599849823828866,
+      "options": [
+        {
+          "id": "A",
+          "text": "La membrane anale se forme au cours de la délimitation"
+        },
+        {
+          "id": "B",
+          "text": "Le toit du lécithocèle II correspond à l’entoblaste"
+        },
+        {
+          "id": "C",
+          "text": "La paroi ventrale reste ouverte sur le canal vitellin et sur le pédicule embryonnaire"
+        },
+        {
+          "id": "D",
+          "text": "La gouttière respiratoire correspond à une invagination de la face ventrale de l’entoblaste"
+        },
+        {
+          "id": "E",
+          "text": "La plicature crâniale est à l’origine de la formation de l’intestin primitif antérieur"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "page": 998,
+      "number": 25,
+      "items": {
+        "A": "Les cordons angioblastiques correspondent à la condensation des précurseurs cardiaques de la zone cardiogène, issus du mésoblaste latéral",
+        "B": "Le myocarde et la gelée cardiaque ont pour origine le mésoblaste splanchnopleural",
+        "C": "Les circulations extra-embryonnaires (chorio-villositaire et vitelline) sont en place en fin de 3ème semaine du développement embryonnaire",
+        "D": "Les artères ombilicales et vitellines s'abouchent aux aortes dorsales primitives, dans leur portion caudale",
+        "E": "Le canal de Cuvier correspond à la veine cardinale antérieure"
+      },
+      "text": "25. A propos de la formation de l'appareil cardio-vasculaire : \nA. Les cordons angioblastiques correspondent à la condensation des précurseurs cardiaques de la zone \ncardiogène, issus du mésoblaste latéral \nB. Le myocarde et la gelée cardiaque ont pour origine le mésoblaste splanchnopleural \nC. Les circulations extra-embryonnaires (chorio-villositaire et vitelline) sont en place en fin de 3ème \nsemaine du développement embryonnaire \nD. Les artères ombilicales et vitellines s'abouchent aux aortes dorsales primitives, dans leur portion \ncaudale \nE. Le canal de Cuvier correspond à la veine cardinale antérieure \n"
+    },
+    "best": {
+      "bank": "embryo.ann.coeur",
+      "id": 15,
+      "similarity": 0.4105460355961689,
+      "options": [
+        {
+          "id": "A",
+          "text": "Les précurseurs cardiaques proviennent du mésoblaste latéral"
+        },
+        {
+          "id": "B",
+          "text": "Les îlots sanguino-formateurs apparaissent dans le mésoblaste splanchnopleural de la vésicule vitelline."
+        },
+        {
+          "id": "C",
+          "text": "Les deux artères ombilicales s’abouchent aux aortes dorsales primitives."
+        },
+        {
+          "id": "D",
+          "text": "La fusion des parties caudales des aortes dorsales primitives se réalise en dessous du dixième métamère pour donner naissance à l’aorte commune."
+        },
+        {
+          "id": "E",
+          "text": "Les veines intra-embryonnaires se mettent en place avant les artères intra-embryonnaires."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,429 @@
+Q1 · clé D
+SUJET
+Exercice 1 :
+Vous devez représenter graphiquement la distribution de la concentration plasmatique en bicarbonate (en
+mmol/L) d’un groupe de 400 patients ayant consulté pour des problèmes rénaux. Ces patients proviennent et
+sont représentatifs d’une population P.
+L’histogramme des effectifs de la concentration en bicarbonate de ces 400 patients est représenté ci-dessous :
+1. Au vu de cet histogramme vous cocherez la proposition correspondant à l’estimation de la probabilité
+pour un sujet de la population P de présenter une concentration en bicarbonate comprise entre 20 et 22
+mmol/L ?
+A. 0,16
+B. 0,08
+C. 0,20
+D. 0,40
+E. Les 4 propositions précédentes sont fausses
+CORRIGÉ
+D
+A. FAUX
+B. FAUX
+C. FAUX
+D. VRAI : Ni la moyenne ni l’écart-type n’est connue, on va donc devoir se servir du graphique.
+Entre 20 et 22 mmol/L, l’effectif correspondant est égale à 160. La probabilité est alors égale à 160/400
+= 0,40
+E. FAUX.
+On calcule l’intervalle de confiance à 95% de l’espérance 𝜇 de la concentration en bicarbonate dans la population
+P sachant que la moyenne de la concentration en bicarbonate des 400 patients est de 21,0 mmol/L et l’écart
+type estimé est de 2,0 mmol/L
+NOTES
+
+
+===
+
+Q2 · clé A
+SUJET
+On calcule l’intervalle de confiance à 95% de l’espérance 𝜇 de la concentration en bicarbonate dans la
+population P sachant que la moyenne de la concentration en bicarbonate des 400 patients est de 21,0 mmol/L
+et l’écart type estimé est de 2,0 mmol/L
+2. Parmi les propositions suivantes cochez la(les) proposition(s) exacte(s) ?
+A. La borne inférieure est 20,8 mmol/L
+B. La borne inférieure est 20,9 mmol/L
+C. La borne supérieure est 21,1 mmol/L
+D. Un intervalle de confiance à 90% de l’espérance μ aurait été plus large que l’intervalle de confiance à 95%.
+E. La moyenne m de l’échantillon observé est toujours dans l’intervalle de confiance de l’espérance μ quelles
+que soient la moyenne observée m et la confiance.
+CORRIGÉ
+A
+𝑠
+A. VRAI : Calculons l’intervalle de confiance à 95% : 𝑚± 𝑈∝.
+√𝑛
+2
+21 + 2 x
+√400 = 21,2 = Borne supérieure
+2
+21 - 2 x
+√400 = 20,8 = Borne inférieure
+B. FAUX
+C. FAUX
+D. FAUX : Plus la valeur de alpha est petite plus l’intervalle est large car lorsqu’on augmente le niveau de
+confiance, on élargisse l'intervalle de confiance. C’est la raison pour laquelle un intervalle à 95% (∝=
+5) capture une plus grande proportion de la distribution de probabilité qu’un intervalle à 90% (∝=
+10)
+E. FAUX : L'intervalle de confiance est basé sur la variabilité de l'échantillon et le niveau de confiance
+choisi. Il est conçu pour donner une estimation de la plage probable où se situe la vraie moyenne,
+mais il n'offre aucune certitude absolue.
+NOTES
+E est donné faux alors qu’il concerne la moyenne observée m, et non la vraie moyenne μ. L’intervalle calculé ici a la forme m ± u×s/√n : son centre m y appartient par construction. L’explication du corrigé (« aucune certitude absolue ») concerne la couverture de μ et ne réfute pas E. E devrait être vrai pour l’intervalle de l’exercice. À confirmer dans la ronéo UE3 « Estimation » ; clé du tutorat conservée.
+
+===
+
+Q3 · clé C
+SUJET
+3. Pour que l’intervalle précédent ait une demi-largeur 3 fois plus petite, indiquez la taille d’échantillon
+nécessaire.
+A. √3 x 400
+B. 3 x 400
+C. 32 x 400
+D. 3 x 2 x 400
+E. 33 x 400
+CORRIGÉ
+C
+A. FAUX
+B. FAUX
+C. VRAI :
+Soit n l’effectif de départ et n’ l’effectif nécessaire afin d’avoir une demie largeur 3 fois plus petite.
+𝜎
+On rappelle que la formule de la demi-largeur est 1,96 x
+√𝑛
+On cherche donc n’ tel que :
+𝜎
+𝜎
+1,96 x
+√𝑛 = 3 x 1,96 x
+√𝑛′
+1
+3
+
+√𝑛 =
+√𝑛′
+√𝑛 = √𝑛′
+3
+𝑛′
+n =
+3²
+n’ = n x 3² = 3² x 400
+D. FAUX
+E. FAUX
+NOTES
+
+
+===
+
+Q4 · clé C
+SUJET
+Exercice 2 :
+L'objectif d'une étude est d'évaluer les associations entre les capacités intellectuelles dans la gestion des
+troubles occasionnés par la narcolepsie chez les enfants à haut potentiel.
+Dans ce cadre, vous avez dû comparer l'indice de raisonnement perceptif (IRP) de Wechsler entre deux
+groupes de 14 enfants chacun. Le groupe des enfants narcoleptiques avait un IRP moyen égal à 128,04 avec
+un écart type estimé de 15,00 et le groupe des enfants contrôles un IRP moyen de 116,40 avec un écart type
+estimé de 15,00. Afin d'effectuer cette comparaison, vous effectuez un test statistique.
+La statistique de ce test a pris la valeur calculée de 2,053 dans ces données observées.
+4. Indiquez dans quelle table vous lisez la valeur seuil de la statistique de ce test.
+A. Table de la fonction de répartition de la loi normale centrée réduite (loi de U)
+B. Table de l’écart réduit
+C. Table de Student
+D. Table du chi deux
+E. Les 4 propositions précédentes sont fausses
+CORRIGÉ
+C
+A. FAUX
+B. FAUX
+C. VRAI : Il s’agit d’un test de comparaison de 2 moyennes indépendantes avec des PETITS ÉCHANTILLONS
+D. FAUX
+E. FAUX
+NOTES
+
+
+===
+
+Q5 · clé HORS NOTE
+SUJET
+5. Parmi les propositions suivantes vous cocherez la(les) proposition(s) exacte(s).
+A. L'hypothèse H0 est l’égalité des espérances de l'IRP dans les deux populations (P1 et P2) dont les groupes
+d'enfants sont représentatifs.
+B. L'hypothèse H0 est l’égalité des moyennes calculées de l'IRP dans les deux groupes d'enfants.
+C. Pour que ce test soit applicable, vous devez supposer que l'IRP est Normalement distribué dans les 2
+populations P1 et P2.
+D. Votre décision statistique est de rejeter l'hypothèse H0 au risque d'erreur 0,05.
+E. Vous concluez que vous n'êtes pas capable de montrer que les moyennes d'IRP diffèrent de façon
+significative entre les deux groupes au risque d'erreur 5 %.
+CORRIGÉ
+BCE
+A. VRAI : les hypothèses H0 et H1 concerne les VRAIES moyennes.
+B. FAUX : pas les moyennes estimées mais les VRAIES moyennes
+C. VRAI : n < 30 donc le TCL ne s’applique pas donc on doit supposer cela
+D. FAUX : On a un degré de liberté de 28-2, donc la valeur seuil dans la table = 2,056 > 2,053
+on ne peut pas rejeter l’hypothèse nulle au risque d’erreur 0,05
+E. VRAI : Car 2,056 > 2,053
+NOTES
+La source est contradictoire : son en-tête annonce BCE, mais ses explications déclarent A vrai, B faux, C vrai, D faux et E vrai, soit ACE. H0 porte bien sur les espérances, pas sur les moyennes observées ; avec 26 degrés de liberté, 2,053<2,056, on ne rejette pas à 5 %. La clé vide du site ne signifie donc pas que toutes les propositions sont scientifiquement fausses. Aucun choix entre les clés contradictoires de la source ne doit être fait silencieusement. Ronéo requise : UE3 tests de comparaison de moyennes.
+
+===
+
+Q6 · clé BD
+SUJET
+Exercice 3 :
+Pour étudier la relation entre le poids de naissance et I’exposition aux perturbateurs endocriniens, on a
+conduit une étude recueillant le poids de naissance (en kg) de 30 bébés et la durée d'exposition potentielle
+(en heures) de leurs mères à différents types de pesticides (domicile, lieu de travail).
+Le coefficient de corrélation de Pearson est estime à r = - 0,43. La statistique de test obtenue est ltobsl =
+2,52.
+0,42
+0,43
+2,52
+√2,52 ≈ 0,27               0,43/2,52 ≈ 0,17            √
+2,52 ≈ 0,41                      √
+Aide au calcul :
+0,43    ≈  2,42
+6. Parmi les propositions suivantes vous cocherez la(les) proposition(s) exactes(s) ?
+A. La statistique calculée est distribuée selon une loi de Student a 30 degrés de liberté sous l'hypothèse nulle
+B. Dans ces données, le poids de naissance est statistiquement corrélé au nombre d'heures d'exposition des
+mères aux pesticides, de façon significative, au risque d'erreur 5 %
+C. Dans ces données, le poids de naissance augmente avec le nombre d'heures d'exposition des mères aux
+pesticides
+D. L'erreur-type du coefficient de corrélation de Pearson est d'environ 0,17
+E. L'erreur-type du coefficient de corrélation de Pearson est d’environ 0,27
+CORRIGÉ
+BD
+A. FAUX : Car le degré de liberté est égal à 30 – 2 = 28
+B. VRAI : À 28 degrés de liberté la valeur seuil est égale à 2,048 <2,52 et on rejette H0
+C. FAUX : Une valeur négative de r signifie que la covariance est négative ce qui signifie à son tour que
+les 2 valeurs évoluent dans le sens opposé.
+1−𝑟2
+D. VRAI : Sr = √
+𝑛−2
+tobs= r/Sr
+un simple produit de croix et on trouve Sr= r/tobs = 0,43/2,52 = 0,17
+E. FAUX
+NOTES
+
+
+===
+
+Q7 · clé E
+SUJET
+Exercice 4 :
+Chez les hommes, on considère que le niveau moyen d'HDL cholestérol en France est de 1,15 mmol/L
+(moyenne théorique ou espérance) ; chez les femmes, on considère que ce niveau, en France, est de 1,45
+mmol/L.
+7. Pour comparer la moyenne théorique/espérance de l'HDL cholestérol entre les hommes et les femmes
+de cette population, que pouvez faire avec ces données ? Cochez la proposition exacte.
+A. Vous pouvez effectuer un test du χ2
+B. Vous pouvez effectuer un test de l’écart réduit pour comparaison de deux proportions observées
+C. Vous pouvez effectuer un test de l’écart réduit pour comparaison de deux moyennes observées
+D. Vous pouvez effectuer un test de Mac Nemar
+E. Vous ne pouvez pas réaliser de test statistique
+CORRIGÉ
+E
+A. FAUX
+B. FAUX
+C. FAUX
+D. FAUX
+E. VRAI : on ne peut pas réaliser ces tests pour comparer deux moyennes de référence.
+NOTES
+
+
+===
+
+Q8 · clé ABDE
+SUJET
+Exercice 5 :
+Un essai clinique a été réalisé pour évaluer l'intérêt de I' Atezolizumab (immunothérapie) chez des patients
+atteints d'un cancer du poumon non à petites cellules. L'étude a concerné deux groupes de patients : ceux
+recevant de I' Atezolizumab et du Bevacizumab (Groupe 1), et ceux recevant uniquement de I' Atezolizumab
+(Groupe 2), car contre-indication au Bevacizumab. Le critère de jugement principal était la progression
+(aggravation) du cancer évalué au bout de deux cycles de traitement. Les résultats de l'étude sont présentés
+dans le tableau ci-dessous :
+Atezolizumab
+Atezolizumab
+(Groupe 2)
++
+.
+Bevacizumab
+(Groupe 1)
+40
+Progression du cancer
+50
+Non progression du cancer
+50
+60
+8. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la(les) proposition(s)
+exacte(s).
+A. Le risque relatif de progression entre les deux groupes obtenus dans cette étude peut être interprété
+B. L'odds ratio de progression entre le groupe 1 et le groupe 2 est estime à 2/3
+C. L'odds ratio de progression entre les deux groupes évalue la significativité statistique
+D. L'odds de progression du groupe 2 est 1,5 fois plus élevé que celui du groupe 1
+E. Ces résultats sont en faveur d'un bénéfice plus élevé de I' Atezolizumab dans le groupe 1 que dans le
+groupe 2
+CORRIGÉ
+ABDE
+A. VRAI : le RR est interprétable car nous sommes dans une étude de cohorte puisque l’on suit des
+patients durant deux cycles de traitement
+B. VRAI :
+Odds du groupe 1 = progression du cancer 1 / non-progression du cancer 1
+= 40/60 = 4/6
+= 2/3
+Odds du groupe 2 = progression du cancer 2 / non-progression du cancer 2
+= 50/50 = 5/5
+= 1
+Odds Ratio = Odds 1/ Odds 2 = (2/3)/1 = 2/3
+C. FAUX : l’odds ratio est une mesure de bénéfice relatif, cependant pour évaluer la significativité
+statistique de ces résultats qui ne sont que des estimations, il faudrait faire un test de l’écart-réduit sur
+la différence de risque de progression du cancer entre les deux groupes par exemple
+D. VRAI : odds groupe 2 / odds groupe 1 = 1 / (2/3) = 3/2 = 1,5.
+Donc l’odds de progression de cancer du groupe 2 est 1,5 fois plus élevé que celui du groupe 1.
+E. VRAI : puisque la progression du cancer est, selon ces estimations, moins élevée dans ce groupe 1.
+II est décidé, pour le groupe 2, de comparer la proportion de patients avec progression du cancer à la valeur de
+référence de 0,4 (valeur correspondant à l'efficacité de la chimiothérapie de référence pour cette population).
+On donne :
+NOTES
+
+
+===
+
+Q9 · clé BCD
+SUJET
+II est décidé, pour le groupe 2, de comparer la proportion de patients avec progression du cancer à la valeur
+de référence de 0,4 (valeur correspondant à l'efficacité de la chimiothérapie de référence pour cette
+population). On donne :
+9. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s) :
+0,1
+A. La statistique du test de l'écart-réduit pour la comparaison des proportions est de
+√0,5 ×0,5
+100
+B.  L’écart observé entre les deux proportions n'est pas compatible avec de simples fluctuations aléatoires
+(au risque d'erreur 5 %)
+C. La p-value du test de comparaison des proportions est inferieure a 0,05
+D. Avec un effectif plus élevé (toutes choses étant égales par ailleurs), la puissance du test aurait été plus
+élevée
+E. Avec un effectif plus élevé (toutes choses étant égales par ailleurs), le risque α du test aurait été plus élevé
+CORRIGÉ
+BCD
+A. FAUX : On est ici dans un cas de comparaison d’une proportion observée à une référence. Donc :
+|𝑓−𝜋0|
+|0,5−0,4|
+𝟎,𝟏
+𝑧=
+=
+=
+≈2
+√0,4×0,6
+√𝜋0(1−𝜋0)
+√𝟎,𝟒×𝟎,𝟔
+100
+𝑛
+𝟏𝟎𝟎
+B. VRAI : Il ne s’agit pas de simples fluctuations mais d’une différence significative au risque d’erreur 5%
+car le résultat de test = 2 > 1,96 on rejette H0
+C. VRAI : Vu que la différence est significative, => P-value est inférieure à 0,05
+D. VRAI : Lorsque n augmente, 𝛽 diminue. Alors la puissance (1- 𝛽) augmente.
+E. FAUX : nous choisissons alpha qui ne varie pas avec les paramètres
+NOTES
+
+
+===
+
+Q10 · clé BE
+SUJET
+Exercice 6 :
+Une étude a été menée pour évaluer la sensibilité et la spécificité de deux examens pour le diagnostic du
+cancer du poumon, chez des patients avec une suspicion de cancer.
+La radiographie pulmonaire a une sensibilité de 80 %, et une spécificité de 95 %. Le scanner a une sensibilité
+de 90 %, et une spécificité de 90 %. Le résultat du scanner est à la base quantitatif (les valeurs élevées étant
+indicatrices de cancer) ; un seuil a été fixe pour binariser le résultat du scanner, conduisant à la sensibilité et
+à la spécificité indiquée.
+10. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la(les)
+proposition(s) exacte(s).
+A. En cas de radiographie positive, la probabilité de cancer du poumon est de 80 %
+B. La radiographie détecte 80 % des cancers du poumon
+C. La radiographie détecte 95 % des cancers du poumon
+D. Avec un seuil plus élevé pour binariser le résultat du scanner, la sensibilité aurait été plus élevée
+E. Le scanner conduit à plus de faux positifs que la radiographie
+CORRIGÉ
+BE
+A. FAUX : la sensibilité c’est la probabilité qu’un individu ait une radio positive sachant qu’il a un cancer =
+P (R+/C) = 80% ici. Cependant l’item A nous parle de P(C/R+) par conséquent il est faux.
+B. VRAI : la sensibilité de la radio est de 80% ce qui signifie qu’elle détecte 80% des malades
+C. FAUX : c’est la spécificité de la radio qui vaut 95%, or la spécificité est la capacité d’identifier les patients
+non-malades donc ici non atteint d’un cancer pulmonaire.
+D. FAUX : lorsque le seuil augmente, la spécificité augmente mais la sensibilité diminue (raisonnement
+inverse si le seuil diminue).
+E. VRAI : Pour le comprendre, il suffit de se dire que
+Plus un test / un examen est sensible et moins il aura de faux négatifs
+À l’inverse, plus un test / un examen est spécifique et moins il aura de faux positifs
+Ainsi, on peut donc grâce à ce raisonnement se demander quel est l’examen le moins spécifique entre
+la radio et le scanner car on cherche celui qui conduit à plus de faux positifs. Le scanner a une spécificité
+de 90% contre 95% pour la radio il est donc moins spécifique et par conséquent, il conduit à plus de
+faux positifs.
+NOTES
+
+
+===
+
+Q11 · clé AC
+SUJET
+Parmi les personnes aves suspicion de cancer du poumon, on peut considérer que la prévalence de cancer est
+de 30%
+11. Parmi les propositions suivantes cochez la(les) propositions exacte(s).
+A. L'odds de maladie pré-test dans cette situation est de 3/7
+B. En cas de scanner positif, la probabilité de cancer est multipliée par 9
+C. En cas de scanner positif, l'odds de cancer est multiplié par 9
+D. En cas de scanner positif, la probabilité de cancer post-test est de 27/7
+E. En situation de dépistage (prévalence de cancer plus faible), la probabilité de maladie post-scanner positif
+serait identique à celle des personnes avec suspicion préalable de cancer
+CORRIGÉ
+AC
+A. VRAI : Odds pré-test de cancer = cancer/ absence de cancer = 0,3/0,7 = 3/7
+B. FAUX : c’est l’odds pré-test que l’on multiplie par le RV+ pour obtenir l’odds post-test et pas la
+probabilité de cancer (cf C)
+C. VRAI : ici nous sommes dans la situation où on suppose que le scanner est positif, ainsi pour avoir notre
+odds post-test, on doit multiplier l’odds pré-test (= 3/7) par le RV+ du scanner.
+Rappel : RV+ = sensibilité/ 1-spécificité = 0,9/0,1 = 9.
+D. FAUX :  attention ici ce n’est pas la probabilité post-test mais bien l’odds post-test qui a été calculé par
+la formule suivante :
+Odds post-test = Odds pré-test x RV+ (car on suppose que le scanner est positif)
+= 3/7 x 9
+= 27/7
+E. FAUX : car la probabilité post-scanner positif = probabilité post-test (en cas de test positif) = VPP. Or la
+VPP dépend de la prévalence. Donc si la prévalence change, la VPP (= proba post-test) changera
+également donc elle ne peut pas être identique contrairement à ce que dit l’item.
+NOTES
+
+
+===
+
+Q12 · clé ADE
+SUJET
+Exercice 7 :
+Un essai clinique a été construit pour évaluer si l'ajout du cetuximab à un cocktail de chimiothérapie (appelé
+FOLFOX-4) est supérieur au FOLFOX-4 seul sur la réponse globale dans les cancers colorectaux métastatiques.
+Des patients de plusieurs pays ont été inclus et repartis aléatoirement dans les 2 bras de traitement (FOLFOX-
+4 + cetuximab versus FOLFOX-4 seul), en connaissant leur groupe de traitement.
+Le nombre de sujets à inclure a été estime à 146 patients par groupe pour pouvoir détecter un odds ratio de
+2,3 en faveur de l'ajout du cetuximab avec une puissance de 90 % pour un risque alpha de 5 %. Les analyses
+ont été réalisées en intention de traiter ; l'odds ratio est estimé à 1,52 [0,97-2,35] (p=0,064).
+12. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s).
+A. Il s’agit d’un essai clinique randomisé, multicentrique, en ouvert.
+B. Le risque de conclure à tort qu’il n’y a pas de différence significative est de 5%
+C. L'odds de réponse globale est statistiquement diffèrent entre le groupe FOLFOX-4 + cetuximab et le
+groupe FOLFOX-4, au risque d'erreur 5 %
+D. Tous les patients randomisés sont analysés dans leur bras d'allocation
+E. La randomisation est indispensable dans cette étude pour permettre de conclure à un lien de causalité du
+traitement sur l'effet
+CORRIGÉ
+ADE
+A. VRAI : c’est bien un essai clinique randomisé (car répartition aléatoire), multicentrique (car les patients
+viennent de différents pays) mais pas en aveugle car on nous dit qu’ils connaissent leur groupe de
+traitement.
+B. FAUX : le risque de conclure à tort à une absence de différence significative c’est le fait de ne pas rejeter
+H0 alors que celle-ci est fausse, cela correspond au risque de seconde espèce qui est le risque bêta (et
+non pas le risque alpha qui vaut ici 5%). Le risque bêta pourrait être aussi égal à 5%, cependant d’après
+les données de l’énoncé, la puissance est de 90% or la puissance = 1 – bêta donc bêta = 100% - 90% =
+10%. Ici bêta vaut donc 10% ! (Attention à ne pas confondre alpha et bêta)
+C. FAUX : car 1,52 est compris dans l’intervalle donné, cela signifie qu’il n’y a pas de différence
+statistiquement significative entre les 2 groupes au risque d’erreur 5%
+D. VRAI : pas de patients placebo ici, ils prennent tous un des deux traitements
+E. VRAI : sinon d’autres paramètres viendraient biaiser les résultats s’il y avait une sélection préalable
+pour la répartition des patients dans chacun des bras de traitement
+NOTES

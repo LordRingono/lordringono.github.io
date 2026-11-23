@@ -1,0 +1,168 @@
+{
+  "read_all_14_sets": true,
+  "pending_source_visual": [
+    [
+      "2024-2025.s1",
+      5,
+      "D",
+      "Inégalité impossible imprimée : 2,042 < t34 < 1,96. Ordre correct 1,96 < t34 < 2,042. Verdict inchangé."
+    ],
+    [
+      "2024-2025.s2",
+      1,
+      "C",
+      "0,0668 vaut environ 0,07 et non 0,7 dans le détail."
+    ],
+    [
+      "2023-2024.s1",
+      2,
+      "CD",
+      "Deux bornes supérieures différentes données vraies. V4 réserve conserve CD ; vérifier source et envisager hors note."
+    ],
+    [
+      "2023-2024.s2",
+      1,
+      "D",
+      "Définition médiane exacte à nuancer pour ex aequo : au moins moitié <= et moitié >=."
+    ],
+    [
+      "2023-2024.s2",
+      2,
+      "E",
+      "Niveau IC non précisé dans sujet ? Corrigé suppose 95 %. Vérifier page générale."
+    ],
+    [
+      "2023-2024.s2",
+      7,
+      "E",
+      "Alpha fixé avant étude, pas toujours 5 %."
+    ],
+    [
+      "2022-2023.s1",
+      12,
+      "CD",
+      "C : IC doit contenir 1 (valeur nulle OR), pas estimation 1,52. D : ITT n’est pas absence de placebo."
+    ],
+    [
+      "2021-2022.s2",
+      4,
+      "A",
+      "Justification inverse affirmer/exclure : sensibilité élevée aide négatif à exclure, spécificité élevée aide positif à affirmer."
+    ],
+    [
+      "2021-2022.s2",
+      3,
+      "E",
+      "TCL porte sur moyenne échantillonnage, pas normalité population."
+    ],
+    [
+      "2020-2021.paces",
+      3,
+      "AD",
+      "A moyenne=4 supposée sans données ; D M pas nécessairement normale sans hypothèse/suffisant n."
+    ],
+    [
+      "2020-2021.paces",
+      5,
+      "C",
+      "2,21 typo, quantile2,120 ; bornes .27,1.21 cohérentes2,12."
+    ],
+    [
+      "2020-2021.s1",
+      2,
+      "CE",
+      "Bernoulli est binomiale n=1 ; convention C exclue pour distinguer comptage. E pi(1-pi) variance et non écart type."
+    ],
+    [
+      "2020-2021.s1",
+      3,
+      "D",
+      "Détail 1/12 erroné n144 donne1/6 ; verdict vrai."
+    ],
+    [
+      "2020-2021.s1",
+      4,
+      "A",
+      "Pearson point-bisérial avec sexe0/1 équivalent t deux moyennes, méthode cours attend Student. Source primaire à consulter."
+    ],
+    [
+      "2020-2021.s2",
+      2,
+      "DE",
+      "TCL asymptotique et approximation ; Student utilisable aussi grands n."
+    ],
+    [
+      "2020-2021.s2",
+      6,
+      "E",
+      "Moins effectif p augmente mais seuil.05 pas garanti franchi."
+    ],
+    [
+      "2019-2020.paces",
+      1,
+      "E",
+      "Formule Var(F) avec racine et 1-.2 typo : variance.0016,écart-type.04."
+    ],
+    [
+      "2019-2020.paces",
+      2,
+      "all",
+      "Détail écrit F<=.82 au lieu F>=.82 pour seconde queue ; calcul.62 correctapprox."
+    ],
+    [
+      "2019-2020.paces",
+      7,
+      "D",
+      "3/10=.30 et non.33; verdict .25<.30 restevrai."
+    ],
+    [
+      "2019-2020.paces",
+      8,
+      "B",
+      "1.4<1.96 ne rejette PAS H0, détail dit rejette puis bonne conclusion."
+    ],
+    [
+      "2018-2019.paces",
+      3,
+      "B",
+      "Student pas uniquement petits n."
+    ],
+    [
+      "2018-2019.paces",
+      4,
+      "C",
+      "Test pente nulle/Pearson équivalents régression linéaire simple avec intercept; nuance conventioncours."
+    ],
+    [
+      "2018-2019.paces",
+      7,
+      "E",
+      "Dernier mot positif devrait être négatif, exclure avec test négatif."
+    ],
+    [
+      "2018-2019.paces",
+      8,
+      "CE",
+      "C 910/10000=.091 non9.1; E petitbénéfice direction protectrice ne prouvepasabsence/protection."
+    ],
+    [
+      "2018-2019.paces",
+      9,
+      "C",
+      "Non rejet H0 erreur seconde espèce beta nonfixée5%."
+    ],
+    [
+      "2018-2019.paces",
+      10,
+      "ACDE",
+      "Contrôlé=comparateurpasrandomisation ; beta risque paspuissance ; stratificationpasexclusiveblocs; E directional 2.5 sousbilatéralalpha5."
+    ]
+  ],
+  "preserve_existing_notes": true,
+  "boundary_candidates_confirmed_textually": 18,
+  "rejected_overclaims": [
+    "Pas de changement des règles pédagogiques n>=30 ou validité IC aux bornes sans distinguer convention de cours et erreur de raisonnement.",
+    "Ne pas conclure Se/Sp change nécessairement avec prévalence : exercice fixe propriétés conditionnelles.",
+    "Ne pas déclarer les ratios ajustés RCT incohérents sur la seule différence avec un ratio brut."
+  ]
+}

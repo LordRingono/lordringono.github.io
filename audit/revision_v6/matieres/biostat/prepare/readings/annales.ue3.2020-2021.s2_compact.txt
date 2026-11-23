@@ -1,0 +1,227 @@
+Q1 · clé ACD
+SUJET
+Exercice 1 :
+On dispose d’un échantillon de 100 valeurs numériques de cholestérolémie.
+Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. La variable d’étude « cholestérolémie » est une variable quantitative continue
+B. Elle peut être représentée, en l’état, par une variable aléatoire discrète
+C. 50 % des valeurs de l’échantillon sont inférieures à la médiane
+D. 50 % des valeurs de l’échantillon se trouvent dans l’intervalle interquartile
+E. 75 % des valeurs de l’échantillon sont inférieures au premier quartile
+CORRIGÉ
+ACD
+A. VRAI : La cholestérolémie est une variable quantitative car numérique et continue car elle est issue
+d’une mesure.
+B. FAUX : La cholestérolémie est une variable quantitative continue. Cependant, une variable aléatoire
+discrète doit d’être une variable qualitative/ semi-quantitative/ quantitative de dénombrement.
+C. VRAI : Médiane est la valeur à laquelle 50% de données sont inférieures.
+D. VRAI : L’intervalle interquartile contient 50% de valeurs.
+E. FAUX : 25% de valeurs de l’échantillon sont inférieures au premier quartile. 75% de valeurs de
+l’échantillon sont inférieurs au troisième quartile ou 75% de valeurs de l’échantillon sont supérieures
+au premier quartile.
+NOTES
+
+
+===
+
+Q2 · clé BD
+SUJET
+Exercice 2 :
+Un groupe de de 36 jeunes patients présentent une albuminémie de 36,0 g/L en moyenne avec un écart-type
+estimé de 1,8 g/L
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. La borne supérieure de l’intervalle de confiance à 95 % de l’albuminémie est de 36,3 g/L
+B. La borne supérieure de l’intervalle de confiance à 95 % de l’albuminémie est de 36,6 g/L
+C. La borne supérieure de l’intervalle de confiance à 95 % de l’albuminémie est de 35,4 g/L
+D. On considère ici que la variable aléatoire « moyenne de l’albuminémie » de l’échantillon suit une loi
+Normale quelle que soit la distribution de l’albuminémie dans la population car l’échantillon est
+grand (n≥30)
+E. Pour calculer l’intervalle de confiance, on doit utiliser la table de Student.
+CORRIGÉ
+BD
+A. FAUX : Cf B
+B. VRAI : On va calculer la borne supérieure d’un intervalle de confiance :
+𝑠
+𝑚+ 𝑢𝛼
+√𝑛
+1,8
+36,0 + 2 ×
+6 = 36,6
+C. FAUX : Cf B
+D. VRAI : C’est le théorème central limite : X suit une loi quelconque de moyenne μ et d’écart type σ M
+(la moyenne M d’un échantillon de n variables aléatoires) suit une loi normale de moyenne 𝝁 et d’écart
+type σ/√n. Si X est quantitative il faut que n soit supérieur à 30 pour pouvoir appliquer le théorème.
+E. FAUX : La table de Student est utilisable pour les petits échantillons où n<30.
+NOTES
+
+
+===
+
+Q3 · clé ACDE
+SUJET
+L'hypoalbuminémie est caractérisée par une albuminémie inférieure à 35 g/L. Douze patients du groupe
+précédent ont une albuminémie inférieure à 35 g/L.
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. Environ 33 % des patients du groupe présentent une hypoalbuminémie.
+B. La variable aléatoire représentant l’hypoalbuminémie codée 0 (Non) / 1 (Oui) est une variable
+aléatoire de Bernoulli de paramètre inconnu.
+C. Π est la probabilité qu’un patient appartenant à la population (dont l’échantillon observé est
+représentatif) souffre d’hypoalbuminémie.
+D. La valeur numérique f = 0,33 prise par l’estimateur F de π estime ponctuellement π inconnue.
+E. La variable aléatoire X représentant le nombre de patiente souffrant d’hypoalbuminémie dans un
+échantillon de 36 patientes est une variable aléatoire binomiale de paramètres (n = 36, π = 0,33).
+CORRIGÉ
+ACDE
+𝟏𝟐
+A. VRAI : Une simple division :
+𝟑𝟔≈𝟎, 𝟑𝟑 = 33%
+B. FAUX : C’est bien une variable aléatoire de Bernoulli (une expérience aléatoire, soumise au hasard,
+comportant deux issues, le succès (X=1) ou l'échec (X=0). SANS REPETITION.) mais on peut calculer ses
+paramètres à partir des données de l’énoncé.
+C. VRAI : Variable aléatoire de Bernoulli dont l’espérance : E(X) = μ = 𝝅 = 𝑷(𝑿 = 𝟏) = la probabilité qu’un
+patient souffre d’hypoalbuminémie.
+D. VRAI : Pour une variable aléatoire binaire la moyenne empirique F est un estimateur de 𝝅.
+𝟏𝟐
+f peut être calculé à partir d’un échantillon => 𝐟=
+𝟑𝟔= 𝟎, 𝟑𝟑
+E. VRAI : Cette situation est en fait une répétition d’une même épreuve élémentaire de Bernoulli n fois (36
+dans cet exercice) de façon indépendante.
+NOTES
+La variable individuelle codée 0/1 est bien une Bernoulli de paramètre π inconnu : B devrait être vrai. Le nombre de personnes atteintes suit une binomiale B(36,π), mais π n’est pas connu égal à 0,33 ; 12/36≈0,33 n’en est qu’une estimation. E confond le paramètre et son estimation et devrait être faux dans sa formulation. La clé ACDE du tutorat est conservée ; à confirmer dans les ronéos UE3 « Lois de probabilité » et « Estimation ».
+
+===
+
+Q4 · clé BCD
+SUJET
+Exercice 3 :
+La sensibilité d’un test PCR pour la détection du Sars-Cov-2 est considérée de 65 %, la spécificité de 100 %, la
+sensibilité d’un test salivaire est de 70 % et sa spécificité de 95 %.
+On considère que la prévalence de cas de COVID-19, parmi les individus testés, est de 5 %.
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. Le test PCR ne détecte pas 65 % des patients atteints de Sars-Cov-2
+B. Le test PCR classe 100 % des individus non atteints de Sars-Cov-2 comme non malades
+C. Un test PCR positif permet plus d’affirmer l’infection à Sars-Cov-2 qu’un test salivaire positif
+D. En cas de test salivaire positif la probabilité d’infection à Sars-Cov-2 est de 70/165 = 14/33 ≈ 0,42
+E. La probabilité d’infection à Sars-Cov-2 en cas de test salivaire positif ne dépend pas de la population
+(en particulier de la prévalence de l’infection de la population)
+CORRIGÉ
+BCD
+A. FAUX : 65% correspond à la sensibilité qui est la capacité d’un test à identifier les patients malades
+B. VRAI : La spécificité est la capacité d’un test à détecter des patients comme négatifs au test sachant
+qu’ils sont bien non malades en réalité.
+C. VRAI : ici on veut éviter les faux positifs pour permettre d’affirmer la présence de la maladie. Plus le
+test est spécifique, plus il identifiera mieux les non malades. La spécificité du test PCR (100%) est plus
+élevée que celle du test salivaire (95%)
+D. VRAI : on cherche ici la VPP,
+𝑃(𝐴)
+0,05
+0,05
+Odd pré test:
+1−𝑃(𝐴)=
+1−0,05=
+0,95
+0,70
+0,70
+RV+ =
+1−0,95=
+0,05
+E. FAUX : ici on parle de la VPP et elle dépend de la prévalence et donc elle dépend de la population
+NOTES
+
+
+===
+
+Q5 · clé BCD
+SUJET
+Exercice 4 :
+Une étude s’intéresse au risque de complications lors de l’accouchement ou post-accouchement chez les
+femmes intégrées dans le programme Valériane (femmes avec des critères de vulnérabilité et de précarité).
+L’étude a porté sur le suivi de grossesse de 200 femmes Valérianes ; les résultats ont été comparés à ceux de
+toutes les grossesses de femmes non-Valérianes ayant accouché durant la même période dans les maternités
+couvertes par l’étude.
+Le critère de jugement est la survenue de complications lors de l’accouchement ou post-accouchement ; le
+facteur étudié et le statut des femmes (Valérianes ou non).
+Les résultats de l’étude sont présents dans le tableau ci-
+contre :
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. L’étude correspond à une étude de cohorte
+B. L’étude correspond à une étude cas-témoins
+C. Le risque de complication chez les femmes Valérianes est deux fois plus élevé que chez les femmes
+non-Valérianes d’après cette étude
+D. L’odds ratio de complication entre les femmes Valérianes et non Valérianes doit être supérieur à 1
+dans cette étude
+E. La différence de risques de complication entre les femmes Valérianes et les femmes non-Valérianes
+doit être inférieur à 0 dans cette étude
+CORRIGÉ
+BCD
+A. FAUX : une étude de cohorte est une étude où l’on suit un groupe d’individus sur une certaine durée
+pour recueillir des informations
+B. VRAI
+C. VRAI : risque de complication chez les Valerianes : 60/200 soit 0,3 ; le risque de complication des les non
+Valerianes : 300/2000 soit 0,15. Ainsi le risque de complication chez les Valerianes est bien de deux fois
+plus élevé que celui des non Valerianes.
+D. VRAI : Si l’Odd ratio de complication entre les femmes Valerianes et non Valerianes est supérieur à 1
+alors être Valériane est un facteur aggravant.
+E. FAUX : On calcule 𝑅1= 0,3 et 𝑅0= 0,15. Soit la DR = 0,15, ainsi DR>0. (ce qui est logique comme le fait
+d’être Valeriane est un facteur aggravant).
+NOTES
+La clé BCD classe cette étude comme cas-témoins. L’énoncé décrit pourtant des femmes sélectionnées selon leur appartenance au programme Valériane puis suivies pendant la grossesse, avec observation ultérieure des complications : c’est une cohorte (A), pas un recrutement selon la présence préalable de complications (B). Les groupes ne sont pas formés sur le critère de jugement. A devrait être vrai et B faux. Clé du tutorat conservée ; à confronter à la ronéo UE3 « Designs d’étude en épidémiologie ».
+
+===
+
+Q6 · clé AD
+SUJET
+On souhaite comparer les risques de complication entre les deux groupes de patientes. La p-value du test est
+inférieure à 0,001.
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. Un test approprié est le test du chi2
+B. Un test approprié est le test de l’écart-réduit pour comparaison de moyennes
+C. Il faut utiliser un test pour données appariées
+D. Le risque de complication chez les femmes Valérianes est statistiquement différent du risque de
+complication chez les femmes non Valérianes, au risque d’erreur 5 %
+E. Dans une autre étude avec des effectifs, beaucoup plus faibles pour laquelle les risques de
+complication seraient égaux à ceux estimés dans l’étude présente ici, la p-value de comparaison des
+risques serait plus faible que celle de l’étude présentée ici
+CORRIGÉ
+AD
+A. VRAI
+B. FAUX
+C. FAUX : On compare deux groupes de patientes donc les données ne sont pas apparentées
+D. VRAI : Comme p<0,001 et on fait un test au risque d’erreur de 5%, le RH0 se fera à partir d’un p<0,05.
+0,001<0,05 donc on peut faire un RH0. Le risque de complication chez les femmes Valérianes est
+statistiquement différent du risque de complication chez les femmes non Valérianes, au risque d’erreur
+de 5%
+E. FAUX : n       1,96  p> 0,05
+NOTES
+
+
+===
+
+Q7 · clé AB
+SUJET
+Exercice 5 :
+L’étude SOPRAC s’est intéressée à la détection, par les médecins généralistes, de cas COVID-19 nécessitant
+une hospitalisation (étude en Auvergne Rhône Alpes). L’étude s’est déroulée sur plus de six mois, et l’évolution
+des résultats au cours du temps a été analysée. Le nombre de patients des médecins a été recueilli pour fixer
+le dénominateur dans les calculs de la prévalence et d’incidence.
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. L’incidence est l’indicateur le plus approprié pour mesurer l’évolution au cours des semaines du
+nombre de nouveaux cas à prendre en charge dans les hôpitaux
+B. La prévalence est l’indicateur le plus approprié pour mesurer l’évolution au cours des semaines du
+nombre de patients pris en charge par les hôpitaux (qu’ils soient en début d’hospitalisation ou en
+cours d’hospitalisation)
+C. Le dénominateur pour le calcul de l’incidence est constant d’une semaine à l’autre
+D. Les variations de prévalence d’une semaine à l’autre sont uniquement le reflet des variations du
+nombre de nouveaux cas par semaine
+E. Une modification de la prise en charge permettant de réduire la durée d’hospitalisation n’impacterait
+pas les valeurs de la prévalence
+CORRIGÉ
+AB
+A. VRAI : c’est la définition du cours
+B. VRAI : c’est la définition du cours
+C. Faux
+D. Faux
+E. Faux : c'est la prévalence de cas COVID-19 nécessitant une hospitalisation dont on parle. Ainsi, diminuer
+la durée d'hospitalisation baissera les chances d'observer un cas pour une même incidence à un instant
+donné.
+NOTES

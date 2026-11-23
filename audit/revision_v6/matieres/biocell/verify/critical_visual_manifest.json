@@ -1,0 +1,222 @@
+[
+  {
+    "number": 13,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 4,
+      "rect": [
+        36.0,
+        171.7,
+        559.3,
+        469.9
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_13_full.png",
+    "imageBoxes": [
+      [
+        36.0,
+        171.719970703125,
+        559.3200073242188,
+        469.91998291015625
+      ]
+    ]
+  },
+  {
+    "number": 17,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 7,
+      "rect": [
+        36.0,
+        76.7,
+        559.3,
+        379.2
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_17_full.png",
+    "imageBoxes": [
+      [
+        36.0,
+        76.67999267578125,
+        559.3200073242188,
+        379.1999816894531
+      ]
+    ]
+  },
+  {
+    "number": 30,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 6,
+      "rect": [
+        192.4,
+        143.9,
+        402.7,
+        304.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_30_full.png",
+    "imageBoxes": [
+      [
+        192.35000610351562,
+        143.85000610351562,
+        402.6500244140625,
+        304.75
+      ],
+      [
+        194.0,
+        367.0299987792969,
+        401.0,
+        484.42999267578125
+      ]
+    ]
+  },
+  {
+    "number": 40,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 1,
+      "rect": [
+        36.0,
+        179.4,
+        392.3,
+        321.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_40_full.png",
+    "imageBoxes": [
+      [
+        36.0,
+        179.40365600585938,
+        392.2669677734375,
+        321.1199951171875
+      ]
+    ]
+  },
+  {
+    "number": 44,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 6,
+      "rect": [
+        111.4,
+        107.0,
+        540.3,
+        478.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_44_full.png",
+    "imageBoxes": [
+      [
+        111.36000061035156,
+        106.989990234375,
+        540.3499755859375,
+        478.3899841308594
+      ]
+    ]
+  },
+  {
+    "number": 48,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 10,
+      "rect": [
+        54.0,
+        366.0,
+        445.2,
+        608.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_48_full.png",
+    "imageBoxes": [
+      [
+        54.0,
+        365.9699401855469,
+        445.17999267578125,
+        608.0699462890625
+      ]
+    ]
+  },
+  {
+    "number": 55,
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 5,
+      "rect": [
+        270.6,
+        404.1,
+        365.2,
+        530.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/critical_figure_55_full.png",
+    "imageBoxes": [
+      [
+        270.57000732421875,
+        404.1199951171875,
+        365.2200012207031,
+        530.1099853515625
+      ],
+      [
+        235.77000427246094,
+        562.969970703125,
+        399.989990234375,
+        682.219970703125
+      ],
+      [
+        252.14999389648438,
+        237.10997009277344,
+        326.3999938964844,
+        360.40997314453125
+      ]
+    ]
+  },
+  {
+    "bank": "bio.cm5",
+    "role": "subject",
+    "page": 3,
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/bio.cm5_subject_p3.png"
+  },
+  {
+    "bank": "bio.cm6",
+    "role": "subject",
+    "page": 1,
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/bio.cm6_subject_p1.png"
+  },
+  {
+    "bank": "bio.cm6",
+    "role": "subject",
+    "page": 2,
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/bio.cm6_subject_p2.png"
+  },
+  {
+    "bank": "bio.cm3",
+    "role": "subject",
+    "page": 1,
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/bio.cm3_subject_p1.png"
+  },
+  {
+    "bank": "bio.cm8",
+    "role": "subject",
+    "page": 2,
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/bio.cm8_subject_p2.png"
+  },
+  {
+    "bank": "bio.cm6",
+    "role": "correction",
+    "page": 2,
+    "fullPageRender": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/bio.cm6_correction_p2.png"
+  }
+]

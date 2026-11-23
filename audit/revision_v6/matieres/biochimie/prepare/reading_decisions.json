@@ -1,0 +1,115 @@
+{
+  "read_sets": [
+    "2025s1",
+    "2024s1",
+    "2024s2",
+    "2023s1",
+    "2023s2"
+  ],
+  "pending_scientific": [
+    {
+      "set": "2025s1",
+      "q": 20,
+      "item": "A",
+      "issue": "Citrulline non protéinogène mais possible résidu issu de citrullination dans protéines ; uniquement libre faux. Même 2024s1 Q20C."
+    },
+    {
+      "set": "2025s1",
+      "q": 40,
+      "item": "D",
+      "issue": "Détail 36 ATP glycolyse et 2 aérobie : distingue glycolyse2ATP/net et oxydationcomplète30/32 ; original typo aérobie/anaérobie."
+    },
+    {
+      "set": "2024s1",
+      "q": 38,
+      "item": "E",
+      "issue": "Hyaluronate non sulfaté ; justification seulement sodium n’explique pas défaut principal."
+    },
+    {
+      "set": "2024s1",
+      "q": 43,
+      "item": "C",
+      "issue": "Q ubiquinone noncytochrome ; O2réduitcomplexIV, notQetCseuls."
+    },
+    {
+      "set": "2024s2",
+      "q": 14,
+      "item": "C",
+      "issue": "Détail leucine copié Q13tyrosine/mélatonine ; clé Vrai mais détail hors sujet original."
+    },
+    {
+      "set": "2024s2",
+      "q": 15,
+      "item": "C",
+      "issue": "Orig détail caveat autres liaisonscovalentes ; invitation ronéo précise."
+    },
+    {
+      "set": "2024s2",
+      "q": 25,
+      "item": "B",
+      "issue": "Betaox dite ubiquitaire ; globules rouges sans mitochondrie contreexemple."
+    },
+    {
+      "set": "2023s1",
+      "q": 24,
+      "item": "B",
+      "issue": "Glycine protéinogène achirale ne possède série D/L."
+    },
+    {
+      "set": "2023s1",
+      "q": 27,
+      "item": "B",
+      "issue": "Toutesproteinesstructuretertiaireindispensable exceptionintrinsicallydisordered."
+    },
+    {
+      "set": "2023s1",
+      "q": 29,
+      "item": "C",
+      "issue": "Sitecatalytique partie siteactif, passeulementproche."
+    },
+    {
+      "set": "2023s1",
+      "q": 22,
+      "item": "E",
+      "issue": "130ATPpalmitate ancienbarèmepeut131gross129netactivationATP→AMP2équivalents ; original chiffres àconfrontercours."
+    },
+    {
+      "set": "2023s2",
+      "q": 16,
+      "item": "E",
+      "issue": "Zonebasique Lys/Arg ne provient pasleucine apolaire; originalditbasique car richeleucine."
+    },
+    {
+      "set": "2023s2",
+      "q": 20,
+      "item": "D",
+      "issue": "Sialyltransférase est glycosyltransférase EC2.4.3 ; verdict false catégorie tropétroite."
+    },
+    {
+      "set": "2023s2",
+      "q": 25,
+      "item": "B",
+      "issue": "Glycolyse elle-même cytosolique aussi aérobie ; suite oxydationmitochondriale."
+    },
+    {
+      "set": "2023s2",
+      "q": 26,
+      "item": "E",
+      "issue": "130ATPpalmitate et38glucose convention àvérifier comme2023s1Q22."
+    }
+  ],
+  "pending_visual": [
+    {
+      "set": "2025s1",
+      "q": 26
+    },
+    {
+      "set": "2024s1",
+      "q": 26
+    },
+    {
+      "set": "2024s1",
+      "q": 35
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+
+### bio.cm4 ID 1 | ANSWER CDE | COMPLETE True
+PREP STEM: A propos de l’adressage des protéines :
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p1 [0, 101.8, 595.303955078125, 248.3]
+QCM 1:
+A propos de l’adressage des protéines :
+    A.  Les protéines destinées aux mitochondries sont synthétisées par des ribosomes
+       associés au RE
+    B.  Les protéines nucléaires comme les histones sont directement synthétisées dans le
+       nucléole
+    C.  L’adressage correct des protéines est assurée par la présence d’un peptide signal
+   D. Le translocon SEC61 permet l’entrée des protéines dans le RE
+    E.  La séquence signal des protéines est clivé dans le RE par une peptidase membranaire
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p1 [0, 101.8, 595.303955078125, 292.25]
+QCM 1:
+A propos de l’adressage des protéines :
+    A.  Les protéines destinées aux mitochondries sont synthétisées par des ribosomes
+       associés au RE Faux par des ribosomes libres du cytosol elles ne passent pas par le
+      système endmembranaire
+    B.  Les protéines nucléaires comme les histones sont directement synthétisées dans le
+       nucléole Faux toutes les protéines sont synthétisées dans le cytosol
+    C.  L’adressage correct des protéines est assurée par la présence d’un peptide signal Vrai
+            il peut être soit en Nterm , soit en Cterm soit au milieu de la séquence protéique
+   D. Le translocon SEC61 permet l’entrée des protéines dans le RE Vrai
+    E.  La séquence signal des protéines est clivée dans le RE par une peptidase
+      membranaire Vrai , peptidase signal
+
+### bio.cm4 ID 2 | ANSWER ACE | COMPLETE True
+PREP STEM: Le système endomembranaire :
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p1 [0, 248.3, 595.303955078125, 350.85]
+QCM 2 : Le système endomembranaire :
+    A.  le REL est impliqué dans la synthèse des lipides de toutes les membranes de la cellule
+    B.   le lysosome dégrade les protéines polyubiquitinylées
+    C.  Le RE est impliqué dans le repliement des protéines
+   D. Dans RE il y a exclusivement une glycosylation de type O sur des serine thréonine
+    E.  Le RE est un réservoir de calcium
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p1 [0, 292.25, 595.303955078125, 424.1]
+QCM 2 : Le système endomembranaire :
+    A.  le REL est impliqué dans la synthèse des lipides de toutes les membranes de la cellule
+       Vrai puis ils sont transférés par différents mécanismes dans les autres membranes
+    B.   le lysosome dégrade les protéines polyubiquitinylées Faux c’est le protéasome
+    C.  Le RE est impliqué dans le repliement des protéines Vrai
+   D. Dans RE il y a exclusivement une glycosylation de type O sur des serine thréonine
+      Faux N glyco sur Asp
+    E.  Le REL est un réservoir de calcium Vrai
+
+### bio.cm4 ID 3 | ANSWER BC | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG :
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p1 [0, 350.85, 595.303955078125, 468.05]
+QCM 3 : A propos des protéines synthétisées au niveau du REG :
+    A.  La SRP est une protéine
+    B.  La liaison du peptide signal à la SRP ralentit la traduction de la protéine
+    C.  La séquence signal et le SRP dirige le ribosome vers le RER
+   D. La SRP se fixe sur le récepteur cytosolique de la SRP
+    E.  La peptidase du signal clive le peptide signal d’une protéine excrétée côté cytosolique
+    F.  Le translocon Sec 61 reste ouvert en dehors des périodes de traduction protéique
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p1 [0, 424.1, 595.303955078125, 585.25]
+QCM 3 : A propos des protéines synthétisées au niveau du REG :
+    A.  La SRP est une protéine Faux, ribonucléoprotéine
+    B.  La liaison du peptide signal à la SRP ralentit la traduction de la protéine Vrai
+    C.  La séquence signal et le SRP dirige le ribosome vers le RER Vrai
+   D. La SRP se fixe sur le récepteur cytosolique de la SRP Faux il est sur la membrane du
+      RE
+    E.  La peptidase du signal clive le peptide signal d’une protéine excrétée côté cytosolique
+       faux, enzyme luminale
+    F.  Le translocon Sec 61 reste ouvert en dehors des périodes de traduction protéique
+      Faux il est fermé
+
+### bio.cm4 ID 4 | ANSWER AD | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG :
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p1 [0, 468.05, 595.303955078125, 641.45]
+QCM 4 : A propos des protéines synthétisées au niveau du REG :
+   A. Des protéines peuvent entrer dans le RE après leur traduction complète dans le
+       cytosol
+   B. La translocation des protéines dans le RE est toujours cotraductionnelle
+   C. La conformation d’une protéine peut changer selon son sens d’insertion dans la
+     membrane
+   D. Un segment transmembranaire peut marquer l’arrêt du passage de la protéine dans
+        la membrane RE
+   E.  C’est l’ordre des AA qui permet le positionnement de la séquence signal dans la
+     membrane du RE
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p1 [0, 585.25, 595.303955078125, 764.0]
+QCM 4 : A propos des protéines synthétisées au niveau du REG :
+   A. Des protéines peuvent entrer dans le RE après leur traduction complète dans le
+       cytosol Vrai protéines SNARE et adressage post-trad
+   B. La translocation des protéines dans le RE est toujours cotraductionnelle Faux aussi
+       post-traductionnelle
+   C. La conformation d’une protéine peut changer selon son sens d’insertion dans la
+     membrane Faux, tjs le même sens d’insertion
+   D. Un segment transmembranaire peut marquer l’arrêt du passage de la protéine dans
+        la membrane RE Vrai , 1er cas avec peptide côté NTER
+   E.  C’est l’ordre des AA qui permet le positionnement de la séquence signal dans la
+     membrane du RE Faux c’est les charges + et – de part et d’autre du signal ancre
+
+### bio.cm4 ID 5 | ANSWER ABC | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG :
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p1 [0, 641.45, 595.303955078125, 749.35]
+QCM 5 : A propos des protéines synthétisées au niveau du REG :
+    A.  Les RCPG, protéines à 7 passages transmembranaires, ont leur coté NTER dans la
+       lumière du RE
+    B.  Les hématies possèdent des protéines ancrées sur ancre GPI à leur surface
+    C.  Les protéines ancrées sur un glycosylphosphatidylinositol le sont, par l’intermédiaire
+      d’une GPI transamidase
+   D.  L’ancre GPI se trouve toujours côté cytosolique
+AUTOTEST protéines vers le RE.pdf p2 [0, 70.5, 595.303955078125, 128.1]
+E.  Les protéines qui sont liées à une ancre GPI ont un rôle dans la signalisation
+    intracellulaire
+F.  Les liaisons des protéines sur les GPI sont clivées par des phosphatases
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p2 [0, 69.5, 595.303955078125, 259.95]
+QCM 5 : A propos des protéines synthétisées au niveau du REG :
+    A.  Les RCPG, protéines à 7 passages transmembranaires, ont leur coté NTER dans la
+       lumière du RE Vrai
+    B.  Les hématies possèdent des protéines ancrées sur ancre GPI à leur surface Vrai, les
+       protègent
+    C.  Les protéines ancrées sur un glycosylphosphatidylinositol le sont, par l’intermédiaire
+      d’une GPI transamidase Vrai, clive le peptide signal pour libérer la protéine
+   D.  L’ancre GPI se trouve toujours côté cytosolique Faux extracellulaire
+    E.  Les protéines qui sont liées à une ancre GPI ont un rôle dans la signalisation
+        intracellulaire Faux, extra
+    F.  Les liaisons des protéines sur les GPI sont clivées par des phosphatases Faux
+       phospholipases
+
+### bio.cm4 ID 6 | ANSWER E | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p2 [0, 128.1, 595.303955078125, 303.9]
+QCM 6 : A propos des protéines synthétisées au niveau du REG
+    A.  L’arbre glucidique de 12 éléments est transféré en un seul bloc sur une asparagine de
+        la protéine en cours de traduction
+    B.  L’oligosaccharide est transféré à partir d’une ancre dolichol sur la protéine par une
+       lipotransférase
+    C.  Lors d’un mauvais repliement, l’élagage de l’oligosaccharide ne commence que dans
+        le Golgi
+   D. On parle de O glycosylation pour le transfert des sucres à partir de l’ancre dolichol
+       sur la protéine
+    E.  Les glucosidases I et II retirent 2 glucoses terminaux du résidu de la N-glycosylation.
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p2 [0, 259.95, 595.303955078125, 435.75]
+QCM 6 : A propos des protéines synthétisées au niveau du REG
+    A.  L’arbre glucidique de 12 éléments est transféré en un seul bloc sur une asparagine de
+        la protéine en cours de traduction faux 14 sucres
+    B.  L’oligosaccharide est transféré à partir d’une ancre dolichol sur la protéine par une
+       lipotransférase faux par une oligosaccharyltransférase
+    C.  Lors d’un mauvais repliement, l’élagage de l’oligosaccharide ne commence que dans
+        le Golgi faux dans le RE
+   D. On parle de O glycosylation pour le transfert des sucres à partir de l’ancre dolichol
+       sur la protéine Faux N glycosylation
+    E.  Les glucosidases I et II retirent 2 glucoses terminaux du résidu de la N-glycosylation.
+      VRAI
+
+### bio.cm4 ID 7 | ANSWER ABCD | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p2 [0, 303.9, 595.303955078125, 406.45]
+QCM 7 A propos des protéines synthétisées au niveau du REG
+    A. L’enzyme DPI peut créer et détruire des ponts disulfures
+    B.  La mise en place des ponts disulfure a lieu dans la lumière du RE
+    C.  Les IGg ont des ponts disulfures
+   D. Les ponts disulfures peuvent aussi très faits dans le cytosol
+    E.  Les ponts disulfures ne peuvent pas se faire entre 2 protéines différentes
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p2 [0, 435.75, 595.303955078125, 567.6]
+QCM 7 A propos des protéines synthétisées au niveau du REG
+    A. L’enzyme DPI peut créer et détruire des ponts disulfures Vrai
+    B.  La mise en place des ponts disulfures a lieu dans la lumière du RE Vrai
+    C.  Les IGg ont des ponts disulfures Vrai, entre chaînes légères
+   D. Les ponts disulfures peuvent aussi très faits dans le cytosol Vrai mais rare car milieu
+       réducteur
+    E.  Les ponts disulfures ne peuvent pas se faire entre 2 protéines différentes Faux intra
+       et inter chaînes
+
+### bio.cm4 ID 8 | ANSWER BCD | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p2 [0, 406.45, 595.303955078125, 538.3]
+QCM 8 A propos des protéines synthétisées au niveau du REG
+    A.  La glucosidase II agit uniquement au début de l’ERAD en clivant les 2 glucoses
+      terminaux du résidu glucidique
+    B.  La N-Glycosylation joue un rôle dans le contrôle du repliement des protéines dans la
+       lumière du RE
+    C.  La calnexine agit avec une protéine chaperonne de la membrane du RE
+   D. La calréticuline agit avec une protéine chaperonne de la lumière du RE
+    E.  Les protéines mal repliées sont dégradées dans la lumière du RE
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p2 [0, 567.6, 595.303955078125, 704.8]
+QCM 8 A propos des protéines synthétisées au niveau du REG
+    A.  La glucosidase II agit uniquement au début de l’ERAD en clivant les 2 glucoses
+      terminaux du résidu glucidique Faux, il retire ensuite le 3ème glucose
+    B.  La N-Glycosylation joue un rôle dans le contrôle du repliement des protéines dans la
+       lumière du RE Vrai
+    C.  La calnexine agit avec une protéine chaperonne de la membrane du RE Vrai
+   D. La calréticuline agit avec une protéine chaperonne de la lumière du RE Vrai
+    E.  Les protéines mal repliées sont dégradées dans la lumière du RE Faux dans le cytosol
+       par le protéasome
+
+### bio.cm4 ID 9 | ANSWER AD | COMPLETE True
+PREP STEM: A propos des protéines synthétisées au niveau du REG
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p2 [0, 538.3, 595.303955078125, 655.5]
+QCM 9 A propos des protéines synthétisées au niveau du REG
+    A.  Les protéines solubles et mal repliées sortent du RE par un translocon
+    B.  Les protéines solubles mal repliées sont polyubiquitinées dans la lumière du RE
+    C.  Le protéasome est un organel
+   D. Le système UPR permet d’activer la dégradation des protéines mal repliées en
+      augmentant la transcription des gènes des protéines chaperonnes
+    E.  Le système UPR permet l’arrêt de la synthèse de nouvelles protéines
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p3 [0, 69.5, 595.303955078125, 216.0]
+QCM 9 A propos des protéines synthétisées au niveau du REG
+    A.  Les protéines solubles et mal repliées sortent du RE par un translocon Vrai
+    B.  Les protéines solubles mal repliées sont polyubiquitinées dans la lumière du RE Faux
+      dès leur sortie par le translocon , dans le cytosol
+    C.  Le protéasome est un organel Faux
+   D. Le système UPR permet d’activer la dégradation des protéines mal repliées en
+      augmentant la transcription des gènes des protéines chaperonnes Vrai
+    E.  Le système UPR permet l’arrêt de la synthèse de nouvelles protéines Faux sauf les
+      chaperonnes
+
+### bio.cm4 ID 10 | ANSWER  [EMPTY TRUE] | COMPLETE True
+PREP STEM: A propos de la synthèse des phospholipides membranaires
+SUBJECT
+AUTOTEST protéines vers le RE.pdf p2 [0, 655.5, 595.303955078125, 748.75]
+QCM10 A propos de la synthèse des phospholipides membranaires
+    A.  La scramblase assure l’asymétrie de la membrane
+    B.  La scramblase utilise de l’ATP
+    C.  Toutes les membranes de la cellule sont asymétriques
+   D. Les flippases sont des enzymes permettant la symétrie des membranes
+    E.  Les flippases sont sur la membrane du RE
+CORRECTION
+CORRECTION autotest protéines vers le RE.pdf p3 [0, 216.0, 595.303955078125, 323.9]
+QCM10 A propos de la synthèse des phospholipides membranaires
+    A.  La scramblase assure l’asymétrie de la membrane Faux, répartition lipide entre
+        feuillets
+    B.  La scramblase utilise de l’ATP Faux , CA2+dep
+    C.  Toutes les membranes de la cellule sont asymétriques Faux
+   D. Les flippases sont des enzymes permettant la symétrie des membranes Faux
+    E.  Les flippases sont sur la membrane du RE Faux, mp

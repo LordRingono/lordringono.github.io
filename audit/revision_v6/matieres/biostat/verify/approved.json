@@ -1,0 +1,28 @@
+{
+  "approved": true,
+  "status": "FEU_VERT_FINAL_AVEC_LIMITES_DOCUMENTAIRES_EXPLICITES",
+  "scope": "Biostatistiques UE3 V6 — 14 banques, 138 QCM, 675 propositions ordinaires et 15 lettres de code",
+  "message": "Intégrer les versions complètes approuvées et les 167 nouveaux assets. Les 136 QCM notables et deux QCM hors note conservent leurs clés et réserves documentées. Essais d’interface et de notation confiés au responsable.",
+  "reviewed": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biostat/verify/approved_reviewed.json",
+    "sha256": "d9b3321788c127b2a891fdec8c63f0d7ea3eb65946b5cf1e19caf73610f9daf2"
+  },
+  "crops": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biostat/verify/approved_crops.json",
+    "sha256": "cef03106ba8feae74d6c0eaf2041c80360f32d263cf6548e78af8464d086a083"
+  },
+  "assetManifest": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biostat/verify/asset_manifest.json",
+    "sha256": "391b680e3d3506e0e9cd6ef949f05a9b6e84270b0156101ed78478a713f247f8",
+    "count": 167
+  },
+  "files": {
+    "approved_reviewed.json": "d9b3321788c127b2a891fdec8c63f0d7ea3eb65946b5cf1e19caf73610f9daf2",
+    "approved_crops.json": "cef03106ba8feae74d6c0eaf2041c80360f32d263cf6548e78af8464d086a083",
+    "asset_manifest.json": "391b680e3d3506e0e9cd6ef949f05a9b6e84270b0156101ed78478a713f247f8",
+    "coverage.json": "7c7727f6c6dd7706945cbd78221c7d27c202a329f2dcc5311f21c0f303178db0",
+    "issues.json": "4f17993dcc29698dab936fe568f12f0a864846b653d1cfc0cbaee6dfed526d07",
+    "missing.json": "bf18697022a8a8a563271b1490f2f0bac799744407050f692a9e241a6d6f9a27",
+    "REPORT.md": "63f2c7773fea51647cd1af616bb7f8abd813334fd3485f5dd55dc4dccb93501d"
+  }
+}

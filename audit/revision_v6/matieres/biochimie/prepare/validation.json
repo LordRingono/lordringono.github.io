@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "scope": "invariants, source geometry, manifests, repaired calculations; not an independent verifier approval",
+  "questions": 278,
+  "items": 1390,
+  "oldNotesPreserved": 35,
+  "keyChanges": 0,
+  "calculations": {
+    "2022s1_Q24_Km": 1.002e-05,
+    "2022s1_Q24_Vmax": 3.6e-05,
+    "2021s1_Q24_Km": 2.5125e-06,
+    "2021s1_Q24_Vmax": 5e-05,
+    "2021s1_Q24_D_true_calculation": 4e-05,
+    "2020paces_Q35_Km": 1.01e-05,
+    "2020paces_Q35_Vmax": 1.1000000000000001e-05,
+    "2025s1_Q26_Ki": 4e-05
+  }
+}

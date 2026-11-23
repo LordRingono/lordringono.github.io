@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "letter": "A",
+    "source_subject": "L'hypothèse H0 est l’égalité des espérances de l'IRP dans les deux populations (P1 et P2) dont les groupes\n    d'enfants sont représentatifs.",
+    "corrected_subject": "L'hypothèse H0 est l’égalité des espérances de l'IRP dans les deux populations (P1 et P2) dont les\n      groupes d'enfants sont représentatifs.",
+    "subject_correction_identical": true,
+    "detail_verdict": "VRAI",
+    "key_verdict": "FAUX",
+    "rendered_detail": "VRAI : les hypothèses H0 et H1 concerne les VRAIES moyennes.",
+    "code_letter": false
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "letter": "B",
+    "source_subject": "L'hypothèse H0 est l’égalité des moyennes calculées de l'IRP dans les deux groupes d'enfants.",
+    "corrected_subject": "L'hypothèse H0 est l’égalité des moyennes calculées de l'IRP dans les deux groupes d'enfants.",
+    "subject_correction_identical": true,
+    "detail_verdict": "FAUX",
+    "key_verdict": "VRAI",
+    "rendered_detail": "FAUX : pas les moyennes estimées mais les VRAIES moyennes",
+    "code_letter": false
+  }
+]

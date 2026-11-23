@@ -1,0 +1,431 @@
+
+### bio.ann.cm8 ID 1 | ANSWER ACE | COMPLETE True
+PREP STEM: Concernant la mitochondrie :
+SUBJECT
+Annales CM8 2019-2025.pdf p1 [0, 62.95, 595.3200073242188, 180.61]
+43. Concernant la mitochondrie :
+A. La membrane bactérienne, tout comme la membrane interne mitochondriale comporte la cardiolipine
+B. L’ADN mitochondrial est organisé sous forme d’un chromosome avec un centromère et deux télomères
+C. Un influx faible de calcium dans la mitochondrie, en provenance du RE, stimule le fonctionnement
+d’enzymes mitochondriales
+D. Les protéines de la membrane externe mitochondriale sont traduites au niveau du RE puis importées par
+voie vésiculaire
+E. Les cellules contiennent en général des centaines, voire des milliers, de copie d’ADNmt
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p1 [0, 62.95, 595.3200073242188, 194.41]
+43. Concernant la mitochondrie :
+A. La membrane bactérienne, tout comme la membrane interne mitochondriale comporte la cardiolipine
+VRAI
+B. L’ADN mitochondrial est organisé sous forme d’un chromosome avec un centromère et deux télomères
+C. Un influx faible de calcium dans la mitochondrie, en provenance du RE, stimule le fonctionnement
+d’enzymes mitochondriales VRAI, production d’énergie
+D. Les protéines de la membrane externe mitochondriale sont traduites au niveau du RE puis importées par
+voie vésiculaire VRAI   Faux, les mitochondries ne font pas partie du système endomembranaire
+E. Les cellules contiennent en général des centaines, voire des milliers, de copie d’ADNmt VRAI
+Annales_compilation.pdf p1038 [0, 66.8499, 595.0, 302.6898]
+43. Concernant la mitochondrie :
+      A. La membrane bactérienne, tout comme la membrane interne mitochondriale comporte la cardiolipine
+      B. L’ADN mitochondrial est organisé sous forme d’un chromosome avec un centromère et deux télomères
+       C. Un influx faible de calcium dans la mitochondrie, en provenance du RE, stimule le fonctionnement
+        d’enzymes mitochondriales
+      D. Les protéines de la membrane externe mitochondriale sont traduites au niveau du RE puis importées
+        par voie vésiculaire
+       E. Les cellules contiennent en général des centaines, voire des milliers, de copie d’ADNmt
+
+     ACDE
+      A. VRAI
+      B. FAUX : pas de centromère et de télomères
+       C. VRAI : production d’énergie
+      D. VRAI
+       E. VRAI : plusieurs mitochondries par cellules et plusieurs copies par mitochondries
+DETAIL MISMATCH B: Pas de centromère et de télomères (verdict explicite de la compilation générale, p. 1038).
+
+### bio.ann.cm8 ID 2 | ANSWER BE | COMPLETE True
+PREP STEM: Concernant les lysosomes et mitochondries
+SUBJECT
+Annales CM8 2019-2025.pdf p3 [0, 113.47, 594.9600219726562, 238.14]
+1. QCM 39 : Concernant les lysosomes et mitochondries
+      A. Les lysosomes sont des organelles filiformes, de contenu basique
+      B. L’autophagie permet de recycler des composants intra-cellulaires
+       C. Les protéines de la matrice mitochondriale sont importées sous forme repliée
+      D. L’hétéroplasmie correspond à  la présence de deux  allèles  différents (hétérozygotie) par  la
+        mitochondrie
+       E. La cardiolipine, de la membrane interne mitochondriale, est essentielle au fonctionnement de la
+        chaîne respiratoire
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p3 [0, 159.19, 594.9600219726562, 393.09]
+1. QCM 39 : Concernant les lysosomes et mitochondries
+      A. Les lysosomes sont des organelles filiformes, de contenu basique
+      B. L’autophagie permet de recycler des composants intra-cellulaires
+       C. Les protéines de la matrice mitochondriale sont importées sous forme repliée
+      D. L’hétéroplasmie correspond à  la présence de deux  allèles  différents  (hétérozygotie)  par  la
+        mitochondrie
+       E. La cardiolipine, de la membrane interne mitochondriale, est essentielle au fonctionnement de la chaîne
+         respiratoire
+
+
+     BE
+      A. FAUX : Leur contenu est à pH acide
+      B. VRAI
+       C. FAUX : Elles sont sous forme dépliée
+      D. FAUX : Il s’agit de la présence de différents types d’ADN mitochondrial au sein de l’organisme
+       E. VRAI
+
+### bio.ann.cm8 ID 3 | ANSWER AE | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries :
+SUBJECT
+Annales CM8 2019-2025.pdf p3 [0, 295.3, 594.9600219726562, 420.09]
+45. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries :
+     A. La fusion mitochondriale permet de mettre en commun des ressources comme l’oxygène.
+     B. En général : les cellules contiennent dix mitochondries comportant chacune une copie d’ADNmt.
+     C. Le « chromosome » mitochondrial présente un centromère et des télomères.
+    D. La réplication de l’ADN mitochondrial se déroule lors de la phase S du cycle cellulaire et fait intervenir
+        les polymérases delta et epsilon.
+     E. Un influx faible de calcium en provenance du réticulum endoplasmique stimule le fonctionnement
+      de certaines enzymes mitochondriales.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p3 [0, 465.48, 594.9600219726562, 726.26]
+45. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries
+     F. La fusion mitochondriale permet de mettre en commun des ressources comme l’oxygène.
+    G. En général : les cellules contiennent dix mitochondries comportant chacune une copie d’ADNmt.
+    H. Le « chromosome » mitochondrial présente un centromère et des télomères.
+        I. La réplication de l’ADN mitochondrial se déroule lors de la phase S du cycle cellulaire et fait intervenir
+        les polymérases delta et epsilon.
+       J. Un influx faible de calcium en provenance du réticulum endoplasmique stimule le fonctionnement de
+       certaines enzymes mitochondriales.
+
+
+    AE
+     A. VRAI
+     B. FAUX : Une  cellule contient généralement plus d’une centaine de mitochondries, et chaque
+       mitochondrie possède entre 1 et 10 exemplaires de son génome.
+     C. FAUX : L’ADNmt est circulaire et non linéaire.
+    D. FAUX : Les mitochondries sont indépendantes du cycle cellulaire, elles peuvent répliquer leur ADN et
+       se diviser à n’importe quel moment.
+     E. VRAI : Tandis qu’un influx trop important risque d’activer le processus d’apoptose.
+
+### bio.ann.cm8 ID 4 | ANSWER BCE | COMPLETE True
+PREP STEM: Mort cellulaire :
+SUBJECT
+Annales CM8 2019-2025.pdf p3 [0, 477.12, 594.9600219726562, 601.94]
+42. Mort cellulaire :
+      A. Au cours de la mort cellulaire par apoptose, on observe fréquemment une augmentation du gradient
+         d’ions H+ de part et d’autre de la membrane mitochondriale interne.
+      B. Au cours de la mort cellulaire, le cytochrome C est relargué à l’extérieur de la mitochondrie.
+       C. Plusieurs molécules utilisées en chimiothérapie provoquent la mort des cellules cancéreuses par
+        apoptose.
+      D. La protéine Bax est un inhibiteur d’apoptose.
+       E. Les caspases sont des protéases qui sont activées lors de l’apoptose.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p4 [0, 112.27, 594.9600219726562, 373.05]
+42. Mort cellulaire :
+  A. Au cours de la mort cellulaire par apoptose, on observe fréquemment une augmentation du gradient
+     d’ions H+ de part et d’autre de la membrane mitochondriale interne.
+  B. Au cours de la mort cellulaire, le cytochrome C est relargué à l’extérieur de la mitochondrie.
+  C. Plusieurs molécules utilisées en chimiothérapie provoquent la mort des cellules cancéreuses par
+     apoptose.
+  D. La protéine Bax est un inhibiteur d’apoptose.
+   E. Les caspases sont des protéases qui sont activées lors de l’apoptose.
+
+
+  BCE
+  A. FAUX : Au cours de la mort cellulaire par apoptose il y a une chute du potentiel de la membrane interne,
+         il y a donc une diminution du gradient d’ions H+ de part et d’autre de la membrane mitochondriale
+     interne
+  B. VRAI : Il est relargué de l’espace intermembranaire vers le cytosol
+  C. VRAI
+  D. FAUX : Bax est pro-apoptotique
+   E. VRAI
+
+### bio.ann.cm8 ID 5 | ANSWER DE | COMPLETE True
+PREP STEM: Concernant le potentiel de membrane mitochondrial :
+SUBJECT
+Annales CM8 2019-2025.pdf p3 [0, 616.38, 594.9600219726562, 739.34]
+50. Concernant le potentiel de membrane mitochondrial :
+      A. Il est généré de part et d’autre de la membrane externe mitochondriale.
+      B. Il est généré par des antiports H+/Na+
+       C. La présence de phosphatidylcholine est responsable de l’imperméabilisation membranaire aux
+         protons.
+      D. Les mutations de l’ADNmt peuvent causer une dysfonction de la chaîne respiratoire et donc une
+         baisse du potentiel de membrane.
+       E. La perte d’électrons au niveau de la chaîne respiratoire est une source importante de stress oxydatif.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p4 [0, 389.89, 594.9600219726562, 622.1]
+50. Concernant le potentiel de membrane mitochondrial :
+      A. Il est généré de part et d’autre de la membrane externe mitochondriale.
+      B. Il est généré par des antiports H+/Na+
+       C. La présence de phosphatidylcholine est responsable de l’imperméabilisation membranaire aux
+         protons.
+      D. Les mutations de l’ADNmt peuvent causer une dysfonction de la chaîne respiratoire et donc une baisse
+       du potentiel de membrane.
+       E. La perte d’électrons au niveau de la chaîne respiratoire est une source importante de stress oxydatif.
+
+
+     DE
+      A. FAUX : Il est généré de part et d’autre de la membrane interne mitochondriale
+      B. FAUX : le potentiel de membrane mitochondrial est généré par la chaîne respiratoire
+       C. FAUX : C’est la cardiolipine qui permet cette imperméabilisation
+      D. VRAI
+       E. VRAI
+
+### bio.ann.cm8 ID 6 | ANSWER ACDE | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries (1.5 point)
+SUBJECT
+Annales CM8 2019-2025.pdf p5 [0, 113.47, 594.9600219726562, 278.49]
+49. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries (1.5 point)
+      A. La mitochondrie présente une membrane externe et une membrane interne, délimitant l’espace
+        inter-membranaire et la matrice.
+      B. La matrice mitochondriale présente un pH acide (environ 5) du fait de l’import de protons, qui permet
+          le fonctionnement d’hydrolases acides.
+       C. La membrane bactérienne, tout comme la membrane interne mitochondriale, comporte de la
+          cardiolipine.
+      D. La majeure partie de l’ATP cellulaire provenant de  la glycolyse aérobie est produit par les
+        mitochondries.
+       E. La mitochondrie  intervient dans  la régulation des  flux calciques en  lien avec  le réticulum
+        endoplasmique.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p4 [0, 699.03, 594.9600219726562, 748.7]
+49. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries (1.5 point)
+      A. La mitochondrie présente une membrane externe et une membrane interne, délimitant l’espace inter-
+       membranaire et la matrice.
+Annales corrigees CM8 2019-2025-1.pdf p5 [0, 68.39, 594.9600219726562, 314.01]
+B. La matrice mitochondriale présente un pH acide (environ 5) du fait de l’import de protons, qui permet
+   le fonctionnement d’hydrolases acides.
+C. La membrane bactérienne, tout comme la membrane interne mitochondriale, comporte de  la
+   cardiolipine.
+D. La majeure  partie de l’ATP  cellulaire provenant de  la glycolyse aérobie est produit par  les
+   mitochondries.
+E. La mitochondrie  intervient dans  la  régulation des  flux  calciques en  lien avec  le  réticulum
+  endoplasmique.
+
+
+ACDE
+A. VRAI
+B.  FAUX : La matrice mitochondriale présente un pH basique ! Du fait de l’export de protons vers l’espace
+    inter-membranaire. Cette définition correspond plutôt aux lysosomes qui contiennent bien des
+    hydrolases acides.
+C.  VRAI
+D. VRAI
+E.  VRAI
+
+### bio.ann.cm8 ID 7 | ANSWER CD | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries (1.5 point)
+SUBJECT
+Annales CM8 2019-2025.pdf p5 [0, 291.22, 594.9600219726562, 429.35]
+50. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries (1.5 point)
+      A. L’ADN mitochondrial est organisé sous forme d’un chromosome avec un centromère et deux
+        télomères.
+      B. L’ADN mitochondrial code pour la majorité des protéines mitochondriales.
+       C. Les maladies mitochondriales peuvent résulter de mutations de l’ADN nucléaire.
+      D. Chez un patient porteur d’une mutation de l’ADNmt, la sévérité des symptômes peut varier en
+         fonction des organes.
+       E. La réplication de l’ADNmt se produit en phase S, puis les mitochondries s’alignent sur le fuseau
+        mitotique en phase M et fissionnent lors de l’anaphase.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p5 [0, 329.26, 594.9600219726562, 620.3]
+50. Choisissez la(les) réponse(s) correcte(s) concernant les mitochondries (1.5 point)
+      A. L’ADN mitochondrial est organisé sous forme d’un chromosome avec un centromère et deux
+        télomères.
+      B. L’ADN mitochondrial code pour la majorité des protéines mitochondriales.
+       C. Les maladies mitochondriales peuvent résulter de mutations de l’ADN nucléaire.
+      D. Chez un patient porteur d’une mutation de l’ADNmt, la sévérité des symptômes peut varier en fonction
+        des organes.
+       E. La réplication de l’ADNmt se produit en phase S, puis les mitochondries s’alignent sur le fuseau
+        mitotique en phase M et fissionnent lors de l’anaphase.
+
+
+    CD
+      A. FAUX  : Un chromosome est sous forme linéaire alors que l’ADN mitochondrial est sous forme
+            circulaire. L’ADN mitochondrial se trouve dans les nucléoïdes.
+      B.  FAUX  : L’ADN mitochondrial code seulement pour 13 protéines mitochondriales (de la chaîne
+           respiratoire). La majorité est codée par l’ADN nucléaire.
+       C.  VRAI : La majorité des maladies mitochondriales résultent de mutations de l’ADN nucléaire étant
+        donné que la majorité des protéines mitochondriales sont codées par celui-ci.
+      D. VRAI : La variation de la localisation et de la sévérité des atteintes s’appelle l’hétéroplasmie.
+       E.  FAUX : La mitochondrie est indépendante des phases du cycle cellulaire ! Ses réplications et divisions
+         sont asynchrones aux phases du cycle (S, M...).
+
+### bio.ann.cm8 ID 8 | ANSWER B | COMPLETE True
+PREP STEM: Les mitochondries :
+SUBJECT
+Annales CM8 2019-2025.pdf p5 [0, 488.4, 594.9600219726562, 586.31]
+34. Les mitochondries :
+      A. Présentent un pH matriciel acide.
+      B. Contiennent dans leur membrane interne un lipide particulier présent chez les bactéries.
+       C. Comportent deux chromosomes comportant chacun deux télomères et un centromère.
+      D. Sont toujours organisées sous forme de longs filaments.
+       E. Ont un diamètre de l'ordre du nanomètre.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p6 [0, 112.27, 594.9600219726562, 319.41]
+34. Les mitochondries :
+      A. Présentent un pH matriciel acide.
+      B. Contiennent dans leur membrane interne un lipide particulier présent chez les bactéries.
+       C. Comportent deux chromosomes comportant chacun deux télomères et un centromère.
+      D. Sont toujours organisées sous forme de longs filaments.
+       E. Ont un diamètre de l'ordre du nanomètre.
+
+
+     B
+      A. FAUX : Un pH matriciel basique
+      B. VRAI : Il s’agit de la cardiolipine.
+       C. FAUX : Le génome de la mitochondrie est sous forme circulaire.
+      D. FAUX : Les mitochondries sont mobiles, elles peuvent être sous forme filamenteuses ou punctiformes.
+       E. FAUX : Le diamètre des mitochondries est d'1µm (micromètre) environ.
+
+### bio.ann.cm8 ID 9 | ANSWER AE | COMPLETE True
+PREP STEM: ADN mitochondrial (ADNmt) :
+SUBJECT
+Annales CM8 2019-2025.pdf p5 [0, 600.78, 594.9600219726562, 710.42]
+35. ADN mitochondrial (ADNmt) :
+      A. La quasi-totalité de l’ADN mitochondrial est codant.
+      B. L’ADNmt est exporté dans le cytosol pour être transcrit et répliqué.
+       C. L’ADNmt code pour la quasi-totalité des protéines mitochondriales.
+      D. Les mutations de l’ADNmt sont transmises par le père selon un mode dominant.
+       E. L’hétéroplasmie explique des degrés d’atteinte variables en fonction des tissus, chez un même
+          individu.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p6 [0, 336.25, 594.9600219726562, 541.55]
+35. ADN mitochondrial (ADNmt) :
+      A. La quasi-totalité de l’ADN mitochondrial est codant.
+      B. L’ADNmt est exporté dans le cytosol pour être transcrit et répliqué.
+       C. L’ADNmt code pour la quasi-totalité des protéines mitochondriales.
+      D. Les mutations de l’ADNmt sont transmises par le père selon un mode dominant.
+       E. L’hétéroplasmie explique des degrés d’atteinte variables en fonction des tissus, chez un même individu.
+
+
+     AE
+      A. VRAI
+      B. FAUX : L’ADNmt reste à l'intérieur de la matrice, il est transcrit et répliqué par la mitochondrie.
+       C. FAUX : La majorité des protéines mitochondriales sont codées par l’ADN nucléaire.
+      D. FAUX : Les mitochondries sont transmises par la mère.
+       E. VRAI
+
+### bio.ann.cm8 ID 10 | ANSWER BCDE | COMPLETE True
+PREP STEM: Fonctions mitochondriales :
+SUBJECT
+Annales CM8 2019-2025.pdf p6 [0, 70.18, 594.9600219726562, 166.38]
+36.Fonctions mitochondriales :
+      A. La glycosylation post-traductionnelle des protéines se fait dans les mitochondries.
+      B. Les mitochondries jouent un rôle important dans le métabolisme intermédiaire.
+       C. Les mitochondries jouent un rôle central dans le processus apoptotique.
+      D. Les mitochondries participent à la synthèse de groupements Fer/soufre.
+       E. Les mitochondries sont un site important de production d’espèces réactives de l’oxygène.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p6 [0, 558.39, 594.9600219726562, 763.72]
+36. Fonctions mitochondriales :
+      A. La glycosylation post-traductionnelle des protéines se fait dans les mitochondries.
+      B. Les mitochondries jouent un rôle important dans le métabolisme intermédiaire.
+       C. Les mitochondries jouent un rôle central dans le processus apoptotique.
+      D. Les mitochondries participent à la synthèse de groupements Fer/soufre.
+       E. Les mitochondries sont un site important de production d’espèces réactives de l’oxygène.
+
+
+     BCDE
+      A. FAUX : La glycosylation post-traductionnelle se fait dans le réticulum endoplasmique.
+      B. VRAI
+       C. VRAI
+      D. VRAI
+       E. VRAI
+
+### bio.ann.cm8 ID 11 | ANSWER BCD | COMPLETE True
+PREP STEM: Les lysosomes et peroxysomes :
+SUBJECT
+Annales CM8 2019-2025.pdf p6 [0, 178.99, 594.9600219726562, 276.93]
+37. Les lysosomes et peroxysomes :
+      A. Le contenu des peroxysomes est basique (pH=12)
+      B. Les lysosomes sont impliqués dans l’autophagie.
+       C. Les lysosomes peuvent dégrader des acides nucléiques.
+      D. Les peroxysomes produisent du peroxyde d’hydrogène.
+       E. Les peroxysomes sont délimités par deux membranes comme les mitochondries.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p7 [0, 67.39, 594.9600219726562, 287.85]
+37. Les lysosomes et peroxysomes :
+      A. Le contenu des peroxysomes est basique (pH=12)
+      B. Les lysosomes sont impliqués dans l’autophagie.
+       C. Les lysosomes peuvent dégrader des acides nucléiques.
+      D. Les peroxysomes produisent du peroxyde d’hydrogène.
+       E. Les peroxysomes sont délimités par deux membranes comme les mitochondries.
+
+
+    BCD
+      A. FAUX  : Les peroxysomes produisent du peroxyde d’hydrogène qui est acide. Le contenu des
+        peroxysomes ne peut pas être de 12 qui correspond à un pH très basique.
+      B. VRAI
+       C. VRAI
+      D. VRAI
+       E. FAUX : Ils n’ont qu’une seule membrane, contrairement aux mitochondries.
+
+### bio.ann.cm8 ID 12 | ANSWER D | COMPLETE True
+PREP STEM: Mitochondries
+SUBJECT
+Annales CM8 2019-2025.pdf p6 [0, 335.98, 594.9600219726562, 474.23]
+40. Mitochondries
+      A. Toutes les protéines mitochondriales sont codées par le génome mitochondrial.
+      B. Au cours de la mort cellulaire par apoptose, on observe une augmentation durable du potentiel de
+       membrane mitochondriale.
+       C. Au niveau de la membrane externe de la mitochondrie, on trouve essentiellement les cytochromes
+       de la chaîne respiratoire.
+      D. Chez les eucaryotes, en situation d’aérobiose, la respiration mitochondriale est activée et la chaîne
+         respiratoire exporte les protons depuis la matrice mitochondriale vers l’espace intermembranaire.
+       E. Dans ces conditions, le pH à l’extérieur de la mitochondrie est plus élevé qu’à l’intérieur.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p7 [0, 347.38, 594.9600219726562, 608.18]
+40. Mitochondries
+      A. Toutes les protéines mitochondriales sont codées par le génome mitochondrial.
+      B. Au cours de la mort cellulaire par apoptose, on observe une augmentation durable du potentiel de
+       membrane mitochondriale.
+       C. Au niveau de la membrane externe de la mitochondrie, on trouve essentiellement les cytochromes de
+          la chaîne respiratoire.
+      D. Chez les eucaryotes, en situation d’aérobiose, la respiration mitochondriale est activée et la chaîne
+         respiratoire exporte les protons depuis la matrice mitochondriale vers l’espace intermembranaire.
+       E. Dans ces conditions, le pH à l’extérieur de la mitochondrie est plus élevé qu’à l’intérieur.
+
+
+    D
+      A. FAUX : La majorité des protéines mitochondriales sont codées par le génome nucléaire. Seulement 13
+         protéines mitochondriales sont codées par le génome mitochondrial.
+      B. FAUX : Au cours de l’apoptose, il y a une chute du potentiel de membrane interne mitochondriale.
+       C. FAUX : On les retrouve au niveau de la membrane interne où se trouve la chaîne respiratoire.
+      D. VRAI : La pompe sort les protons vers l’espace intermembranaire qui sera plus acide.
+       E. FAUX : Il sera plus faible car plus acide.
+
+### bio.ann.cm8 ID 13 | ANSWER ACE | COMPLETE True
+PREP STEM: Mitochondries et apoptose :
+SUBJECT
+Annales CM8 2019-2025.pdf p6 [0, 534.99, 594.9600219726562, 698.42]
+42. Mitochondries et apoptose :
+      A. L’autophagie est un mécanisme de résistance permettant à la cellule de survivre dans des conditions
+       de déficit nutritionnel.
+      B. Au cours de l’apoptose, le cytochrome C passe de la matrice de la mitochondrie à l’espace
+       membranaire mitochondrial.
+       C. Au cours de l’apoptose, on observe une augmentation de l’activité de certaines enzymes appelées
+         caspases.  Ceci a pour  résultat  d’activer une scramblase  aboutissant à  l’exposition de  la
+         phosphatidylsérine sur le feuillet externe de la membrane plasmique.
+      D. Au cours de l’apoptose, la membrane interne de la mitochondrie est hyperpolarisée.
+       E. Le transport des protéines entre  les mitochondries et  le cytosol se  fait par translocation
+        membranaire.
+CORRECTION
+Annales corrigees CM8 2019-2025-1.pdf p8 [0, 113.98, 594.9600219726562, 440.27]
+42. Mitochondries et apoptose :
+      A. L’autophagie est un mécanisme de résistance permettant à la cellule de survivre dans des conditions
+       de déficit nutritionnel.
+      B. Au cours de l’apoptose, le cytochrome C passe de  la matrice de  la mitochondrie à l’espace
+       membranaire mitochondrial.
+       C. Au cours de l’apoptose, on observe une augmentation de l’activité de certaines enzymes appelées
+         caspases.  Ceci  a  pour  résultat  d’activer une  scramblase  aboutissant  à  l’exposition de  la
+         phoshatidylsérine sur le feuillet externe de la membrane plasmique.
+      D. Au cours de l’apoptose, la membrane interne de la mitochondrie est hyperpolarisée.
+       E. Le transport des protéines entre les mitochondries et le cytosol se fait par translocation membranaire.
+
+
+     ACE
+      A. VRAI : L’autophagie est un système de dégradation des composants cellulaires pour la synthèse de
+        macromolécules lors d’un manque de nutriments. On obtient les briques de base du vivant (acides
+        aminés, sucres, lipides…) après dégradation.
+      B. FAUX : Lors de l’apoptose, le cytochrome C passe de l’espace intermembranaire de la mitochondrie au
+         cytosol pour former l’apoptosome.
+       C. VRAI :  Il y a activation d’une scramblase (XRP8) par les caspases 3 et 7. En temps normal la
+         phosphatidylsérine n’est jamais exposée sur le feuillet externe de la membrane cellulaire.
+      D. FAUX : Il y a une chute du potentiel membranaire mitochondrial donc une dépolarisation (membrane
+         interne).
+       E. VRAI

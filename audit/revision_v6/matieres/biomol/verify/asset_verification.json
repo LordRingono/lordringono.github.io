@@ -1,0 +1,3562 @@
+[
+  {
+    "src": "static/ue2_intro_table_q10.webp",
+    "sha256": "788a1ef5b64ab9a9eedb083cd4610eb9bbaa6571352f9159cc65d0e913a18430",
+    "uses": [
+      [
+        "ue2.intro.autotest",
+        10,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_intro_annales_q003_page01_image1.webp",
+    "sha256": "827977b524b1a7151012ed7382c90264c257bb0258fd6a8416587b0cb2eb9146",
+    "uses": [
+      [
+        "ue2.intro.annales",
+        3,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_intro_annales_q005_page02_image2.webp",
+    "sha256": "f42154d64d48f6f28eb07b3303c3550210f919ea42b382e375a8fac68633cc75",
+    "uses": [
+      [
+        "ue2.intro.annales",
+        5,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_intro_annales_q008_page02_image1.webp",
+    "sha256": "4797b85563689582093c69159ae99ed68a9a9e5d0bab0aa6c4c78244381fe042",
+    "uses": [
+      [
+        "ue2.intro.annales",
+        8,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_intro_annales_q009_page03_image1.webp",
+    "sha256": "cb728561853780927dbb9b3c2c924884ab5f5b079f44ff4039de97d8b761b9bc",
+    "uses": [
+      [
+        "ue2.intro.annales",
+        9,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_intro_annales_q010_page03_image2.webp",
+    "sha256": "d7f2f7fee0a0d2680ff933747cc545558a5b4f87c892ecb1bfd90e4c414d7753",
+    "uses": [
+      [
+        "ue2.intro.annales",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.intro.annales",
+        11,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_adn_annales_q007_page02_image1.webp",
+    "sha256": "27400390d4c648960ad83cba1001f98898097ee274d581cb9e0117928ddf0752",
+    "uses": [
+      [
+        "ue2.adn.annales",
+        7,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_adn_annales_q017_page05_image1.webp",
+    "sha256": "5d5ff2c129667855d5851a3004db7421f426deb1526fe2a6b0c5d018bd5bbdfc",
+    "uses": [
+      [
+        "ue2.adn.annales",
+        17,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_arn_autotest_q009_page02_image1.webp",
+    "sha256": "b3b2b16241ea3d8610711d3fe4f3d68d30cc302a7809adcf175b2f3298292a56",
+    "uses": [
+      [
+        "ue2.arn.autotest",
+        9,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_arn_annales_q004_page01_image1.webp",
+    "sha256": "37c3d02e9fea288f5e552ebaa1e0c4ba8b5303180d720705138a426cb0a7ab5a",
+    "uses": [
+      [
+        "ue2.arn.annales",
+        4,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_arn_annales_q010_page02_image1.webp",
+    "sha256": "d646114d2cebfe87019a120560406d48838739e2267041ae896e90e8233093e2",
+    "uses": [
+      [
+        "ue2.arn.annales",
+        10,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_traduction_autotest_q007_page02_image1.webp",
+    "sha256": "aa28d04ad36b534a3d709a5ae4a444ed207c01ea839d7f34937f87815e03187d",
+    "uses": [
+      [
+        "ue2.traduction.autotest",
+        7,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_traduction_annales_q008_page02_image1.webp",
+    "sha256": "b0a3829bb931f8bf7366acb575748f0bcb2ce26cac6daa6bd8efc960732e6c80",
+    "uses": [
+      [
+        "ue2.traduction.annales",
+        8,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2011_sequence.webp",
+    "sha256": "5572f5e19f7606eb5f68a258b3c6ab58fd07edfab5f858ae5ac465ed2332333b",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        1,
+        ".stemImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_01.webp",
+    "sha256": "37de1979abaa2b13a75512586ba59a4af414ff8c979f85cc67d8d7372ba5c39b",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        1,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2013_q24_a.webp",
+    "sha256": "3a65b4d60f390d4a8d5e4c72f4dac60826cdebe4439f84f22ab13bbca96b01f5",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2013_q24_b.webp",
+    "sha256": "d28c134918b85ae37f528c0cee9085e2fe0d8e839725707a36fb96688b28a3fa",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2013_q24_c.webp",
+    "sha256": "a903228b9151411dba628f6b2edf57b857c285775711dbc408bd8ebf08c4fc88",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2013_q24_d.webp",
+    "sha256": "0eab8236602aaec5dc6103baeb72be92ebf3093dcbc0edc39170659e2d48b59e",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2013_q24_e.webp",
+    "sha256": "9e5a3d458e8af8b538721492d44f2e6704959dff43053fc71b7c145c563e7e06",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_annales_q001_page01_image1.webp",
+    "sha256": "14ccd04d14475f47446bbae654ed75fad0c8d4fe2ed73f65c9df6ec189c889df",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".originalImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2013_figure1.webp",
+    "sha256": "7d0c45a859b078fa0e17fe0dbce21356acb45ceb8783c6bc48c7d033cfe1e694",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        4,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_02.webp",
+    "sha256": "bb5b124cc1923e392c4953bc0703b6ec56d78fdbc38ccd4c04b29f26f71d11fd",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        2,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_03.webp",
+    "sha256": "bcb98f5d6d66abdabc52c858ebcb768f4b3ebbf9fedea0c90e0b50530ddcd325",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        3,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_04.webp",
+    "sha256": "822f10c87bdec709e0203560944c272e4abc189cc5003734f390b8f762d22982",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        4,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2014_exon40.webp",
+    "sha256": "a562d742a48b3b595916a723305570d03800fdf5d3f74bc999d72267c58e2fed",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        7,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_05.webp",
+    "sha256": "059925d75e1a5b56e1dc9e46309749590b63d89204b86dcf56fc1eaee9e4d419",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        5,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_06.webp",
+    "sha256": "2d020dfe0f4832ddbf081b062e726c4eafce656d77b71c03d5866196618281c8",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        6,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_07.webp",
+    "sha256": "8e65ba501cece3bfb9c436cc8967f762e34fae80c154802cb4f91913d0606889",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        7,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2015_snps.webp",
+    "sha256": "e3283f283d75ee1e27192eb0210ee5bab19fc782e1dead37e6f849541129c7df",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        9,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_08.webp",
+    "sha256": "f83f4d34cf8562ebd9226fc61d865acf463819459779861a1c79993487edc948",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        8,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2015_mir124.webp",
+    "sha256": "10cc99977514acaa215f5fdff5bfb3d8330146f0acceb2f26624387838fe9142",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        9,
+        ".stemImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_09.webp",
+    "sha256": "0a9a75d58603cf18d1b7cdfc8665c2bb20e792933f155ef682706557198a26da",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        9,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2016_tnni3.webp",
+    "sha256": "e1f851edcb912dc8464fcccd2a7dd9a49795f8e07098d3ce4ce691e4fa00ad49",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        13,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2016_code_genetique.webp",
+    "sha256": "fc9ee2d45219785de91b38749c111aa53c645250d5198dc7e5a0dd323b784546",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        10,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.annales",
+        11,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.annales",
+        12,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.annales",
+        13,
+        ".references.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_10.webp",
+    "sha256": "5a7fe8a0b0aee74ab18b8b2d3a1fb5abb212d7182795130710f6405898104671",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        10,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_11.webp",
+    "sha256": "331bd097f38382a9befcdc81fb37a9d824e6eef93b974ad92c3c0c81aca6c2cc",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        11,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_12.webp",
+    "sha256": "854c6f1bff83df0daf49a6fa9054c251d9e142cca3fc8c06db1fb98601c5cd24",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        12,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_13.webp",
+    "sha256": "781ef23ba84f9328b2205b84accbe34444f6fa83093b48a9fbbfcb0d9067319d",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        13,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2017_kcne1.webp",
+    "sha256": "0b99500fb2be6f5ec31ed1788b4fa7d340ce73252ef2e839100e09f569103319",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        16,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_14.webp",
+    "sha256": "54cab20d1c7236d9192ed833a562891c87e3b6dd7fa767953125ab1853e12257",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        14,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_15.webp",
+    "sha256": "225f48f342d4802f134127282a1eedce252bc021cb821f6ff1d8f8f4c5908a81",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        15,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_16.webp",
+    "sha256": "929547330260e5b25ab6e8218f88042a8984a7ac2da2f3297836d70c2e730e2a",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        16,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_annales_q016_page06_image1.webp",
+    "sha256": "83cc3e8e66aa8ea4a01bddfada6140de82b754e7a011249d30091c78445dcafe",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        19,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_17.webp",
+    "sha256": "6bd27cdd49bf17b4a351631620e500df73acbbb11c1a26dc2fa7fc32858cc43f",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        17,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_18.webp",
+    "sha256": "78078e076dcd907f51ca626b2debd66636c172e3911763f9f625909eba0329c3",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        18,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_19.webp",
+    "sha256": "accdc6eddcbf50cecf88f2f57883f5c1603acf27e1fa7cc45331d4d1022d14c7",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        19,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2019_source_myl3.webp",
+    "sha256": "576056327bd8af07867fbcadd281ae3b495aa415f44fd04fc6650bab40a3eb1c",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        21,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_20.webp",
+    "sha256": "e55f999bb565d9c5d0e22ba0090e435d7e2b4c05de75624d2ef5a88d7e03934b",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        20,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_21.webp",
+    "sha256": "53f9514e02849a77e375a7c16cea154d035da7fc206a8bef8d24ae86a72ac3b3",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        21,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_annales_q020_page08_image1.webp",
+    "sha256": "a57ff71ee20cf48a5989214bda7d8932f3472fec87b1fa3257d2478c1e02b64f",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        24,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_22.webp",
+    "sha256": "704b11df56b7ee3f0c2c0a7ee812148be0f30db61a02a30cb2c3e0f81bd55843",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        22,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_23.webp",
+    "sha256": "5622a965a1d4f552390e0029fe5b69295dd8be52cda5a8226bb9e7e700c68a8b",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        23,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2020_s1_q24_a_sequence.webp",
+    "sha256": "a2d6cd909a245cf95dd3f8d58744b42849bf84dfdd4bede9c8327cd11e47a9e5",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        24,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2020_s1_q24_b_sequence.webp",
+    "sha256": "d0a364e705f7a38a9549212f1ccc9cdf316797dd753004df94f3e6499d076649",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        24,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2020_s1_q24_c_sequence.webp",
+    "sha256": "83945e51351732be22474f0f0ecd660bcba723cd9b1b23f6aba5d43e0c901a69",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        24,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2020_s1_q24_d_sequence.webp",
+    "sha256": "efd130f3bd2f9b5225b9942381dbc841a17faeb4e13240a491d864a62005bb44",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        24,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2020_s1_q24_e_sequence.webp",
+    "sha256": "403238cda78492829a9c9547874b34c73e06a148a1613864a409b5c665856b6d",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        24,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_24.webp",
+    "sha256": "59a22ebe6183ea84415fb33c45a47dfa7ce0c7e500568258888f9b76b6599161",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        24,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2020_s2_exon34.webp",
+    "sha256": "64327e5ef728f75dcb0a6bc81b79713b9b693b01a34ed56dea42dd479207110e",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        26,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_25.webp",
+    "sha256": "1d5cc41e5fecc2323d639497c77a5daf51dc9b130d0bf852f20f84d8ab0ef4d0",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        25,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_26.webp",
+    "sha256": "c324fefbdbe58b42ecdc8e765d96a05cfd2978a70d79a68a6a1861a436a6532f",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        26,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2021_tnni3.webp",
+    "sha256": "dfd821fc594bc6d9e29801a4620f3ff21868f2dcaad64632bd05bc0a2ccd76da",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        29,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_27.webp",
+    "sha256": "792a67e46b87e7d1545ac2c3f545ad17306ec3bcc18eccaf8773910e96f9f18b",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        27,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_28.webp",
+    "sha256": "1030f054c421801f5e3f5702f7fabc990c023d969a385473ee87977ab7436ee4",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        28,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_29.webp",
+    "sha256": "c587bb8fbfd6b9c6aac52b8312eebf851bf7d2d2e810d9a03ce76757aa1ee0c4",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        29,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2022_tnnt2.webp",
+    "sha256": "3a2d9927a1f0ccb1efc540eb891268d01d4ee552a0432b1517e9d7e522e1c32e",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        32,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_30.webp",
+    "sha256": "0d795c40879ea6e0987ab599359434a0cc2ab674c94858c2e85724815ad91026",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        30,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_31.webp",
+    "sha256": "9f1e4b6328bb6028ff5f7e688c86d6e6da3a2e33164ab416ff83fcc99d79607a",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        31,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_32.webp",
+    "sha256": "f18abe63a3ec9e208abd78ef8cd7bfb03302b8445dfca7d314722f83b13a64ce",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        32,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2023_mybpc3.webp",
+    "sha256": "67814f2237b3bb5bfebc10d14ce41cce9980e8386a7fde8ea9fe1fcfadf33b84",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        36,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_33.webp",
+    "sha256": "d69aee054809b39dfc86bc8231c5ae8cea15479376cc9c5f7e7d968cdd0372c0",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        33,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_34.webp",
+    "sha256": "8994293e037e8dcdfc55b095c6634c2036c8562f437b45964c4c789ca93e051a",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        34,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_35.webp",
+    "sha256": "73ab712f190a2c1eb5a05ba3797d4bf1b4a1595b85e824385a1ea0bfe30f73f8",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        35,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_36.webp",
+    "sha256": "e0c879a0373eb6858ebdfe57a81862f9ca8f4f212575665636b664e6bcb01035",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        36,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2024_s1_pln.webp",
+    "sha256": "c3b20ed112b2c9ac065180ed38b92f90f53d67087b0759385157e6caf8b0aa5c",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        40,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_37.webp",
+    "sha256": "5915a2d2f77b2aef7d118e25ec93c11b108d874cd49fd1a7e1fdf4baa98b0ef4",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        37,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_38.webp",
+    "sha256": "bc4d72a67327a11ad67f404b7eca07dd2d657824fc48e0fa622ab0c28fae1ed5",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        38,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_39.webp",
+    "sha256": "3695269d04154a5dde89b5a853e4fd173653000393ecc00368b2dd2e0d24bcbc",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        39,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2024_s1_q4_pln.webp",
+    "sha256": "9a5154545979eb8c9f98ea27f43b1b82ad0009037d7b1890890a53d0f15d3e2c",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        40,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_40.webp",
+    "sha256": "2274afde164dde0d765d401877b31e49f973f29683eb952c71afd86fcfdcf2ea",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        40,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_2024_s2_tnnc1.webp",
+    "sha256": "584f5d9da3f02efffaa8d8f11b5e32a743e7a26d5a8579da628bd3d63ed96e20",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        41,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        42,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.annales",
+        43,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_41.webp",
+    "sha256": "55668180f33158b89114b3abf8351cf6c575e2503670a578d6e500f17adff3e9",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        41,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_42.webp",
+    "sha256": "f5336b2eca0994ac8211bee10dc58e94ad00009b136d6a1530d6459111ac8ba9",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        42,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_annales_solution_43.webp",
+    "sha256": "8006b41153910ea6a4c298407f0087c1fcb458774cb5b1891859ec339c24330c",
+    "uses": [
+      [
+        "ue2.ed.annales",
+        43,
+        ".correctionImages"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2025-2026_q001_page01_image1.webp",
+    "sha256": "65b289e209374f21b846cf66e3f22f8f4be8c0d8c1056f535b1d91182da8f4fb",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        1,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        4,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        7,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        9,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        13,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        36,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        40,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        41,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        42,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        43,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2025-2026_q001_page01_image2.webp",
+    "sha256": "4f7aee7ace182fdf6b8deb259785c231f7717199734b72c8eada8bbdfedbe8b3",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        1,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        4,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        7,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        9,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        13,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        36,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        40,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        41,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        42,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        43,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2025-2026_q001_page01_image3.webp",
+    "sha256": "17781e17f02b26e8cee466cda546c35c147f619dd9a99e3cf3a61d77731d2a5d",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        1,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        4,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        7,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        9,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        13,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        36,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        40,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        41,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        42,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        43,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2025-2026_q001_page01_image4.webp",
+    "sha256": "f71bc3d74b54055c29e3ffc8410b09899808a3369f6aef194a50da7f3a628b5c",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        1,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        4,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        7,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        9,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        13,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        36,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        40,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        41,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        42,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        43,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2025-2026_q003_page02_image1.webp",
+    "sha256": "dc36d55d2220804240c0d4b481078c13d09c85335640f6d989e20edb36b73447",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        3,
+        ".images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_sequence_debut.webp",
+    "sha256": "3c058f1ddfc78471e57a8b3db4fc00c7828ef5ccae827becbbebb8c0f158ffee",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        20,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_code_genetique.webp",
+    "sha256": "e79f3436f023417c2404a047550e4e1d6bf0c0a613d5e4e3e6f7e7c3ccb03b17",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        16,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        21,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        36,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        37,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        ".references.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_sequence_exon15.webp",
+    "sha256": "6d5fce710a02da7e41b29f70e613441464a76ba9d8e14d6510b076d070249bc9",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q28_a_sequence.webp",
+    "sha256": "1d20ed33e3de9b5c1d75cc97d975103cefca6b04b9f421c9740df1e0c60589b4",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q28_b_sequence.webp",
+    "sha256": "0123a6045f56870e559e274d80ddc7840bcc9b8bad55e981b825b16b68dc2625",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q28_c_sequence.webp",
+    "sha256": "0780f5edf4c3953b384ef4ba2d01b89e1fe2d64d39132f38aa92a23320027bc7",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q28_d_sequence.webp",
+    "sha256": "1aa19f48679628fa4866d33381fbff143e3129037136eeb1004b80a4e34376cc",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        28,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q29_a_sequence.webp",
+    "sha256": "1d20ed33e3de9b5c1d75cc97d975103cefca6b04b9f421c9740df1e0c60589b4",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q29_b_sequence.webp",
+    "sha256": "c372209325b2e9748a33b0e87cd3cfc5f5b8bd7669c7d5d20f05ea61774c3c23",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q29_c_sequence.webp",
+    "sha256": "e81d2f5d38ec5e727156b50dfd15621d575c2c9810e68fc3ee7f2094604901ea",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_q29_d_sequence.webp",
+    "sha256": "0f9d5189ef82661c3c8867ad77c0b5ed94785060284491f91a501aeaeaa8b624",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        29,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2025-2026_q032_page09_image1.webp",
+    "sha256": "2039f3365f25cf1831a5f4216f06ed80ee3a650b39605424f3ba188da38e7293",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        35,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2025_2026_sequence_exon2.webp",
+    "sha256": "ef010f41f8f028a9e635a4598c5bcb992867bc15e264bd67e198b784cbf00e09",
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        40,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        41,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        42,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        43,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2026-2027_q001_page01_image1.webp",
+    "sha256": "459b7c2254973661dfc11993c6cb41e0dd6338e609137625098d8a89021af77e",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        1,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        4,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        7,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        9,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        13,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        29,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        36,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        40,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2026-2027_q001_page01_image2.webp",
+    "sha256": "68aca219ff5aa611d4cbb42eeba6a75098a098368e005f54d1ad79a2228084aa",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        1,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        2,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        3,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        4,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        5,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        6,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        7,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        8,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        9,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        10,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        11,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        12,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        13,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        14,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        18,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        24,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        25,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        26,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        29,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        36,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        40,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_sequence_debut.webp",
+    "sha256": "0ab2b833e614e12046df973a96c7c1cf7fa3bdf453a9b258f61e3c1a5e295b33",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        18,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_sequence_exon1.webp",
+    "sha256": "f0a01b416c9696a36522afea51edee6affd33946287fe0475be8b0e84a213cc5",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        15,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        16,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        17,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        18,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_code_genetique.webp",
+    "sha256": "27c402665acb06237db2a5020c9f3c8094ec97e0ef89154ae5d1e16f54ff9a0c",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        16,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        23,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        24,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        35,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        37,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        38,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        39,
+        ".references.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        40,
+        ".references.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q19_a_sequence.webp",
+    "sha256": "1c8f47f2ad89fc6407bbf67a82a6899ce80970d31f158d3b75409eaa3b2eeb5c",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q19_b_sequence.webp",
+    "sha256": "982663ee01d319a382c2686a08861e49fa97086380bbe732386ec5defec3dd42",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q19_c_sequence.webp",
+    "sha256": "581f0ebf366dd5650a93c575d223bd32348d98a4ccf7610c4801ccb9fa8a536f",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q19_d_sequence.webp",
+    "sha256": "1a806760ad13def246b6a7d459b7975883134933a597b9d1310607df57fdbdb2",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_sequence_fin.webp",
+    "sha256": "d27a5aedd1a2480f24fcc000cf913b28e5c704e9d83a6da28d784349b4c83db9",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        19,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        21,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        22,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        24,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q20_a_sequence.webp",
+    "sha256": "1c8f47f2ad89fc6407bbf67a82a6899ce80970d31f158d3b75409eaa3b2eeb5c",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q20_b_sequence.webp",
+    "sha256": "d337f26370a2bebb768a89a84791f0dad603315b8e49f57e4ef92b49dae01fc5",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q20_c_sequence.webp",
+    "sha256": "40323591ab1eb19dbff4c1370a5c330b882374cf78c6d92b3c60ebde6f3f4f61",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_q20_d_sequence.webp",
+    "sha256": "f65da9d103208c87e9064aa679b52ddb37502b55be4ff5e39f707c797cf711d8",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        20,
+        ".options.image"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2026-2027_q023_page06_image1.webp",
+    "sha256": "44d5cd34b614ab20b54671fc271d490b4f8739f5c2b4957ea01c03c2bec21f2e",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        23,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        24,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2026-2027_q026_page07_image1.webp",
+    "sha256": "64729070bd1d2e98c333d0ab054af22dfcf039cfafe721717247f0f28f424b18",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        27,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        28,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        29,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_figure3.webp",
+    "sha256": "d861c3e72076e87977be2698719c5e37709edd92693363eac1ad182593bf1523",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        30,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        36,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_figures4_5.webp",
+    "sha256": "5e70eaf161d27a00179c27bcd85e5b1cf1fb8bfdbc57152d1f556aa5b6aa451e",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        31,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        32,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        33,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        34,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        35,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        36,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/biomol_ed_revision_2026_2027_sequence_exon2.webp",
+    "sha256": "eee1b693f5edc104e62d1c34420f8324049ac2a9d11eb6bf299213ba44d35184",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        38,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        39,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        40,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  },
+  {
+    "src": "static/ue2_ue2_ed_2026-2027_q037_page10_image1.webp",
+    "sha256": "28bebea36572df90285d8acfc81f615542c77ae69595c25ed7aebb9374eb70d9",
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        37,
+        ".sharedContexts.images"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        38,
+        ".sharedContexts.images"
+      ]
+    ],
+    "visuallyRead": true,
+    "sourceAssociationChecked": true,
+    "legendsLettersSequencesChecked": true,
+    "unresolvedLeak": false
+  }
+]

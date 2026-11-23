@@ -1,0 +1,72 @@
+{
+  "approved": true,
+  "status": "FEU_VERT_FINAL_AVEC_LIMITES_DOCUMENTAIRES_EXPLICITES",
+  "scope": "Biologie cellulaire V6 — 18 banques, 230 QCM, 1137 items",
+  "message": "Feu vert final pour intégrer approved_reviewed.json et approved_crops.json complets. Toutes les clés préparées sont confirmées : 226 QCM notés et 4 hors note. La copie annotée annales CM6 ID25 reste différée après validation. Les limitations documentaires sont explicites dans missing.json.",
+  "reviewed": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/approved_reviewed.json",
+    "sha256": "2ff58d8d92223734b3a6e3b5a74ccc223bde33c606e67f6c53f8e7eee34627cc"
+  },
+  "crops": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/approved_crops.json",
+    "sha256": "7b78db65424cdafb620d60710072edb5408f111621cca799cadf7cef4086e5cb"
+  },
+  "files": {
+    "approved_reviewed.json": "2ff58d8d92223734b3a6e3b5a74ccc223bde33c606e67f6c53f8e7eee34627cc",
+    "approved_crops.json": "7b78db65424cdafb620d60710072edb5408f111621cca799cadf7cef4086e5cb",
+    "coverage.json": "cda090640318ef8440e4c271e1171e9e22138567ff2d70036c57f2d144f56cf7",
+    "issues.json": "404771ed98063354d34beacff8e15a45e3f93aefbbe88d8ffd60a97010ae600a",
+    "missing.json": "cb7b9b62bfc3e2d27ec3915c57127163c75bdb86cfb2e8219713824913fc1f62",
+    "REPORT.md": "16c223e8a7579aafbe0513f50a7489c66c8df68ba60c5949a8d51afcbad90444"
+  },
+  "summary": {
+    "banks": 18,
+    "questionsCompared": 230,
+    "itemsComparedToSubjectAndCorrection": 1137,
+    "baselineIdsPreserved": 224,
+    "restoredOmittedQuestions": 6,
+    "graded": 226,
+    "ungraded": 4,
+    "allFalseGraded": 4,
+    "cleanSubjectCopies": 229,
+    "annotatedSubjectCopiesAfterValidation": 1,
+    "absentSubjectCopies": 0,
+    "correctionCopiesAvailable": 230,
+    "cleanSubjectsRecoveredFromCompilation": 48,
+    "graphicalErrataQuestionsVisuallyChecked": 12,
+    "graphicalVerdictsVisuallyChecked": 13,
+    "interactiveFigureOccurrences": 93,
+    "interactiveFiguresUniqueVisuallyChecked": 73,
+    "subjectPanels": 335,
+    "correctionPanels": 281,
+    "uniqueRectangles": 590,
+    "wordOriginalsChecked": 18,
+    "additionalPdfSubjectsCompared": 9,
+    "nativeDetailBlocksCompared": 1067,
+    "manualExceptionalDetailBlocksCompared": 70,
+    "nonemptyInteractiveDetails": 788,
+    "generalExplanations": 9,
+    "notesPreserved": 87,
+    "baselineNoteIdsPreserved": 68,
+    "retiredLegacyOriginalImagesFields": 69,
+    "retiredLegacyCorrectionImageFields": 3
+  },
+  "inputHashes": {
+    "prepare/reviewed.json": "aa9ca2b460649d671a06f04d89a3e558d9e3edd4811b3f5f7952bbe95490a8ce",
+    "prepare/crops.json": "c54611b6f0985cadc8442659da93326fd5b17ad906914d2e801f2ac90ed4c947",
+    "baseline_exams.json": "d195442f5c1ddf5a66b9fb7bc1780972aa2498091b2feaadac264863b774aae7"
+  },
+  "integrationRequirements": [
+    "Utiliser les deux fichiers complets approuvés ; toutes les figures interactives ont un identifiant de rectangle exact.",
+    "93 emplois de figures pour 73 figures uniques : la figure 1 déjà vérifiée est jointe à deux QCM utilisant la figure 2.",
+    "Conserver les quatre QCM hors note et les quatre clés réellement vides avec answerIsEmpty et allowNoAnswer.",
+    "Conserver subjectAfterCorrection pour annales CM6 ID25 ; toutes les remarques restent après validation.",
+    "Les 69 originalImages et trois correctionImage obsolètes ont été retirés au profit des sourceCopies authentifiées.",
+    "Ne modifier ni profils, ni stockage, ni coefficients des questions existantes, ni autres matières."
+  ],
+  "limitations": [
+    "La lecture visuelle individuelle ne couvre pas chacun des 616 panneaux : la couverture documentaire et géométrique est complète, la couverture visuelle ciblée est décrite dans REPORT.md.",
+    "Les réserves scientifiques historiques sont préservées ; les modifications de deux notes sont vérifiées sur les ronéos fournies.",
+    "L’approbation documentaire ne remplace pas la vérification finale de l’interface par le responsable."
+  ]
+}

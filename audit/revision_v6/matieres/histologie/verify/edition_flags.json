@@ -1,0 +1,41 @@
+[
+  {
+    "bank": "histo.ann.tn",
+    "id": 30,
+    "item": "A",
+    "error": "fresh_extraction_difference",
+    "data": {
+      "thematicLabel": "A",
+      "compilationLabel": "A",
+      "freshThematic": "A.",
+      "freshCompilation": "A. Ils ne possèdent pas de cytosquelette.",
+      "thematicPositions": [
+        {
+          "page": 10,
+          "rect": [
+            54.0,
+            515.0499877929688,
+            374.06201171875,
+            528.9099731445312
+          ],
+          "text": "A."
+        }
+      ],
+      "compilationPositions": [
+        {
+          "page": 1352,
+          "rect": [
+            70.83000183105469,
+            308.449951171875,
+            256.103271484375,
+            321.9297790527344
+          ],
+          "text": "A. Ils ne possèdent pas de cytosquelette."
+        }
+      ],
+      "sourceTextConfirmed": false,
+      "compilationTextConfirmed": true,
+      "ratio": 0.0588
+    }
+  }
+]

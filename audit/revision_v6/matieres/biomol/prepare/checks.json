@@ -1,0 +1,64 @@
+{
+  "banks": 23,
+  "questions": 550,
+  "items": 2752,
+  "sourceDocuments": 46,
+  "freshOriginalArchiveHashMatches": 46,
+  "freshOriginalArchiveHashMismatches": [],
+  "sourcePanels": 783,
+  "correctionPanels": 583,
+  "coverageEvidenceLines": {
+    "subjectEvidence": 3192,
+    "correctionEvidence": 3097,
+    "detailEvidence": 984
+  },
+  "evidenceOutsideCrop": [],
+  "invalidCropBounds": [],
+  "changedIds": [],
+  "changedGradingFields": [],
+  "changedOptionOrder": [],
+  "changedOptionText": [
+    {
+      "bank": "ue2.intro.annales",
+      "id": 9,
+      "item": "E"
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 2,
+      "item": "D"
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 14,
+      "item": "E"
+    }
+  ],
+  "keyComparisons": {
+    "matched": 546,
+    "non_qcm_matching_exercise": 1,
+    "source_ambiguous_preserved_ungraded": 3
+  },
+  "itemComparisons": {
+    "matched": 2746,
+    "source_annotation_removed": 1,
+    "visually_transcribed_image_question": 5
+  },
+  "changesByField": {
+    "explanations": 634,
+    "generalExplanation": 18,
+    "options": 3,
+    "sharedContexts": 1
+  },
+  "contextPanelsVisuallyRead": 39,
+  "contextMontagesVisuallyRead": [
+    "visual/contexts_1.jpg",
+    "visual/contexts_2.jpg",
+    "visual/contexts_3.jpg",
+    "visual/contexts_4.jpg",
+    "visual/contexts_5.jpg",
+    "visual/contexts_6.jpg",
+    "visual/contexts_7.jpg"
+  ],
+  "visualReviewLimit": "Positioned-text comparison covers all questions/items; visual review targets all 39 shared-context panels, image-only original question and source discrepancies, plus multi-column ED pages. Not every final raster of every question was viewed individually."
+}

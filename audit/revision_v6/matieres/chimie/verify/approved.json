@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "verifier": "/root/chimie_verifie",
+  "scope": "Chimie UE2c, 38 banques, 14 séries, 86 QCM, 430 propositions",
+  "preparedHashes": {
+    "reviewed.json": "f2027d139a34660c33b47600660ab9169d2c6efeaa4d75905fa3b0c60dc60a78",
+    "crops.json": "57624752bf5c6e07a00777b30baa779ef7101944d9abe818aed947f6962e626d"
+  },
+  "approvedReviewed": {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/chimie/verify/approved_reviewed.json",
+    "sha256": "511f535441e70ec7a99dcaca5e75ee8aaba9e0c6fb500b3a38ddcd338591b1f2"
+  },
+  "approvedCrops": {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/chimie/verify/approved_crops.json",
+    "sha256": "57624752bf5c6e07a00777b30baa779ef7101944d9abe818aed947f6962e626d"
+  },
+  "sourceCompilationSha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+  "keysAndIdsPreserved": true,
+  "preexistingNotesPreserved": true,
+  "missingSources": 0,
+  "sourceConflictRemainsUngraded": "2018, sujet Q50 / corrigé Q49, grille A contre détail C",
+  "integrationRequired": "Intégrer ces deux fichiers complets ; conserver le rendu après correction des reviewNotes et la protection des corrections dans le builder. La vérification fonctionnelle du site assemblé reste au responsable d’intégration."
+}

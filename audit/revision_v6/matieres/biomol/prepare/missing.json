@@ -1,0 +1,156 @@
+[
+  {
+    "kind": "unannotated_subject_version",
+    "bank": "ue2.transcription.autotest",
+    "questions": [
+      2
+    ],
+    "items": [
+      "D"
+    ],
+    "document": "4. Autotests Transcription LS ENONCE.pdf",
+    "page": 1,
+    "available": true,
+    "issue": "Le sujet original contient déjà le fragment Fau après D ; la capture authentique est réservée à l’après-correction.",
+    "requested": "Une version du sujet Q2 sans annotation donnant la réponse, si elle existe.",
+    "searches": "Archive Biomol UE2 initiale et exemplaire sources_biomol/extracted : fichiers identiques par SHA256."
+  },
+  {
+    "kind": "official_arbitration",
+    "bank": "ue2.adn.autotest",
+    "questions": [
+      13
+    ],
+    "items": [
+      "C"
+    ],
+    "documents": [
+      "4. Autotests ADN ENONCE.pdf",
+      "4. Autotests ADN CORRECTION.pdf"
+    ],
+    "pages": [
+      3,
+      3
+    ],
+    "available": true,
+    "issue": "n’est pas autonome dans le sujet ; est autonome puis Faux dans le corrigé.",
+    "requested": "Formulation officielle attendue ou erratum ; passage de la ronéo sur l’autonomie du génome mitochondrial.",
+    "searches": "Comparaison des deux PDF originaux de l’archive Biomol UE2 ; exemplaires de l’archive initiale fraîchement récupérée identiques par SHA256. Aucun sujet/corrigé de cette paire ne manque."
+  },
+  {
+    "kind": "official_arbitration",
+    "bank": "ue2.organisation.autotest",
+    "questions": [
+      9
+    ],
+    "items": [
+      "E"
+    ],
+    "documents": [
+      "4. Autotests Organisation du génome ENONCE.pdf",
+      "4. Autotests Organisation du génome CORRECTION-1.pdf"
+    ],
+    "pages": [
+      2,
+      2
+    ],
+    "available": true,
+    "issue": "Facteur VII dans le sujet ; facteur VIII dans le corrigé.",
+    "requested": "Erratum ou formulation officielle de E et passage de la ronéo sur le facteur concerné.",
+    "searches": "Comparaison des deux PDF originaux de l’archive Biomol UE2 ; exemplaires de l’archive initiale fraîchement récupérée identiques par SHA256. Aucun sujet/corrigé de cette paire ne manque."
+  },
+  {
+    "kind": "official_arbitration",
+    "bank": "ue2.reparation.autotest",
+    "questions": [
+      11
+    ],
+    "items": [
+      "D"
+    ],
+    "documents": [
+      "4. Autotests Réparation de l'ADN ENONCE.pdf",
+      "4. Autotests Réparation de l'ADN CORRECTION.pdf"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "available": true,
+    "issue": "La proposition D est entièrement réécrite dans le corrigé, avec un verdict Vrai.",
+    "requested": "Version officielle à retenir et passage de la ronéo sur la reconnaissance du brin dans le MMR.",
+    "searches": "Comparaison des deux PDF originaux de l’archive Biomol UE2 ; exemplaires de l’archive initiale fraîchement récupérée identiques par SHA256. Aucun sujet/corrigé de cette paire ne manque."
+  },
+  {
+    "kind": "official_arbitration",
+    "bank": "ue2.reparation.autotest",
+    "questions": [
+      15
+    ],
+    "items": [
+      "C"
+    ],
+    "documents": [
+      "4. Autotests Réparation de l'ADN ENONCE.pdf",
+      "4. Autotests Réparation de l'ADN CORRECTION.pdf"
+    ],
+    "pages": [
+      3,
+      3
+    ],
+    "available": true,
+    "issue": "Le sujet s’arrête à ADN pol. ; le corrigé ajoute α et déclare la proposition fausse.",
+    "requested": "Libellé complet officiel de C ou erratum et passage de la ronéo sur les polymérases du NER.",
+    "searches": "Comparaison des deux PDF originaux de l’archive Biomol UE2 ; exemplaires de l’archive initiale fraîchement récupérée identiques par SHA256. Aucun sujet/corrigé de cette paire ne manque."
+  },
+  {
+    "kind": "ambiguous_official_key",
+    "bank": "ue2.adn.annales",
+    "questions": [
+      25
+    ],
+    "sourceNumber": "6",
+    "items": [
+      "E"
+    ],
+    "document": "2. Annales ADN LS CORRECTION.pdf",
+    "page": 8,
+    "available": true,
+    "issue": "Clé AD (E) et commentaire E contradictoire / hésitant. Question hors note conservée.",
+    "requested": "Arbitrage officiel du tutorat pour la formulation de la liaison phosphodiester en E.",
+    "searches": "Comparaison des deux PDF originaux de l’archive Biomol UE2 ; exemplaires de l’archive initiale fraîchement récupérée identiques par SHA256. Aucun sujet/corrigé de cette paire ne manque."
+  },
+  {
+    "kind": "ambiguous_official_key",
+    "banks": [
+      "ue2.arn.annales",
+      "ue2.transcription.annales"
+    ],
+    "questionRefs": [
+      {
+        "bank": "ue2.arn.annales",
+        "id": 26
+      },
+      {
+        "bank": "ue2.transcription.annales",
+        "id": 33
+      }
+    ],
+    "sourceNumber": "12",
+    "items": [
+      "C"
+    ],
+    "documents": [
+      "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+      "2. Annales Transcription LS CORRECTION.pdf"
+    ],
+    "pages": [
+      9,
+      10
+    ],
+    "available": true,
+    "issue": "Même QCM classé dans deux banques, clé AB(C). Les deux occurrences restent hors note.",
+    "requested": "Arbitrage officiel de la réponse C entre parenthèses et formulation attendue.",
+    "searches": "Comparaison des deux PDF originaux de l’archive Biomol UE2 ; exemplaires de l’archive initiale fraîchement récupérée identiques par SHA256. Aucun sujet/corrigé de cette paire ne manque."
+  }
+]

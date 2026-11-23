@@ -1,0 +1,421 @@
+{
+  "method": "Actual site JavaScript with V4 DOM adapter; no browser pixel rendering claimed.",
+  "errors": [
+    "AssertionError [ERR_ASSERTION]: ue2.transcription.annales selective profile changed\n+ actual - expected\n... Skipped lines\n\n  {\n    bank: 'ue2.transcription.annales',\n    grade: 20,\n    mode: true,\n    questions: [\n...\n      {\n+       chosen: 'BCD',\n-       chosen: 'BDC',\n        corrected: true,\n        id: 9\n      },\n      {\n        chosen: 'ABCD',\n\n    at Object.<anonymous> (/workspace/scratch/f3cb3bb97377/work/site_v6/check_runtime.cjs:112:32)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47"
+  ],
+  "banks": [
+    {
+      "bank": "acc",
+      "questions": 38,
+      "graded": 38,
+      "passed": true
+    },
+    {
+      "bank": "colle2",
+      "questions": 79,
+      "graded": 77,
+      "passed": true
+    },
+    {
+      "bank": "colle1",
+      "questions": 78,
+      "graded": 78,
+      "passed": true
+    },
+    {
+      "bank": "eb",
+      "questions": 79,
+      "graded": 79,
+      "passed": true
+    },
+    {
+      "bank": "histo.te1",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "histo.te2",
+      "questions": 19,
+      "graded": 19,
+      "passed": true
+    },
+    {
+      "bank": "histo.tc1",
+      "questions": 12,
+      "graded": 12,
+      "passed": true
+    },
+    {
+      "bank": "histo.tc2",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "histo.tc3",
+      "questions": 24,
+      "graded": 24,
+      "passed": true
+    },
+    {
+      "bank": "histo.tn1",
+      "questions": 16,
+      "graded": 16,
+      "passed": true
+    },
+    {
+      "bank": "histo.tn2",
+      "questions": 10,
+      "graded": 10,
+      "passed": true
+    },
+    {
+      "bank": "histo.tn3",
+      "questions": 8,
+      "graded": 8,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm2oral",
+      "questions": 7,
+      "graded": 7,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm3",
+      "questions": 10,
+      "graded": 10,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm4",
+      "questions": 10,
+      "graded": 10,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm5",
+      "questions": 17,
+      "graded": 17,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm6",
+      "questions": 13,
+      "graded": 12,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm7",
+      "questions": 14,
+      "graded": 14,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm8",
+      "questions": 17,
+      "graded": 17,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm9",
+      "questions": 11,
+      "graded": 11,
+      "passed": true
+    },
+    {
+      "bank": "bio.cm10",
+      "questions": 5,
+      "graded": 4,
+      "passed": true
+    },
+    {
+      "bank": "histo.ann.te",
+      "questions": 29,
+      "graded": 29,
+      "passed": true
+    },
+    {
+      "bank": "histo.ann.tc",
+      "questions": 59,
+      "graded": 58,
+      "passed": true
+    },
+    {
+      "bank": "histo.ann.tn",
+      "questions": 66,
+      "graded": 65,
+      "passed": true
+    },
+    {
+      "bank": "histo.ann.tech",
+      "questions": 39,
+      "graded": 36,
+      "passed": true
+    },
+    {
+      "bank": "histo.autotech",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "questions": 15,
+      "graded": 15,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "questions": 9,
+      "graded": 9,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "questions": 16,
+      "graded": 14,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "questions": 25,
+      "graded": 25,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "questions": 12,
+      "graded": 12,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm8",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "questions": 10,
+      "graded": 10,
+      "passed": true
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "questions": 15,
+      "graded": 15,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "questions": 7,
+      "graded": 7,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "questions": 19,
+      "graded": 19,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "questions": 24,
+      "graded": 24,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "questions": 13,
+      "graded": 13,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "questions": 10,
+      "graded": 10,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.s3",
+      "questions": 37,
+      "graded": 37,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.s4",
+      "questions": 35,
+      "graded": 35,
+      "passed": true
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "questions": 9,
+      "graded": 9,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "questions": 36,
+      "graded": 36,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "questions": 21,
+      "graded": 20,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.s1",
+      "questions": 13,
+      "graded": 12,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.s2",
+      "questions": 14,
+      "graded": 14,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.s3",
+      "questions": 39,
+      "graded": 39,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.s4",
+      "questions": 41,
+      "graded": 41,
+      "passed": true
+    },
+    {
+      "bank": "embryo.ann.coeur",
+      "questions": 24,
+      "graded": 24,
+      "passed": true
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "questions": 36,
+      "graded": 36,
+      "passed": true
+    },
+    {
+      "bank": "embryo.col.fec",
+      "questions": 26,
+      "graded": 26,
+      "passed": true
+    },
+    {
+      "bank": "embryo.col.s1",
+      "questions": 18,
+      "graded": 18,
+      "passed": true
+    },
+    {
+      "bank": "embryo.col.s2",
+      "questions": 35,
+      "graded": 35,
+      "passed": true
+    },
+    {
+      "bank": "embryo.col.s3",
+      "questions": 53,
+      "graded": 52,
+      "passed": true
+    },
+    {
+      "bank": "embryo.col.s4",
+      "questions": 74,
+      "graded": 71,
+      "passed": true
+    },
+    {
+      "bank": "ue2.intro.autotest",
+      "questions": 11,
+      "graded": 10,
+      "passed": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "questions": 14,
+      "graded": 14,
+      "passed": true
+    },
+    {
+      "bank": "ue2.adn.autotest",
+      "questions": 14,
+      "graded": 14,
+      "passed": true
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "questions": 28,
+      "graded": 27,
+      "passed": true
+    },
+    {
+      "bank": "ue2.arn.autotest",
+      "questions": 19,
+      "graded": 19,
+      "passed": true
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "questions": 29,
+      "graded": 28,
+      "passed": true
+    },
+    {
+      "bank": "ue2.organisation.autotest",
+      "questions": 12,
+      "graded": 12,
+      "passed": true
+    },
+    {
+      "bank": "ue2.organisation.annales",
+      "questions": 12,
+      "graded": 12,
+      "passed": true
+    },
+    {
+      "bank": "ue2.replication.autotest",
+      "questions": 27,
+      "graded": 27,
+      "passed": true
+    },
+    {
+      "bank": "ue2.replication.annales",
+      "questions": 22,
+      "graded": 22,
+      "passed": true
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "questions": 35,
+      "graded": 35,
+      "passed": true
+    }
+  ],
+  "cardStates": 6725,
+  "keys": 1660,
+  "files": 3559,
+  "profiles": 0,
+  "result": "FAIL"
+}

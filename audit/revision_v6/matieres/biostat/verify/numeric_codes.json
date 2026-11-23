@@ -1,0 +1,26 @@
+[
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "tablePage": 662,
+    "value": "0,62",
+    "code": "ABCD",
+    "calculation": "2 × (1 − arrondi[Phi(0,5), 2 décimales]) = 2 × (1 − 0,69) = 0,62"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "tablePage": 663,
+    "value": "−1,67",
+    "code": "AE",
+    "calculation": "(133 − 135) / (sqrt(36) / sqrt(25)) = −1,6666… → −1,67"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "tablePage": 684,
+    "value": "21,4",
+    "code": "ABCD",
+    "calculation": "20 + 2 × 6 / sqrt(81) = 21,3333… ; arrondi extérieur au dixième → 21,4"
+  }
+]

@@ -1,0 +1,996 @@
+[
+  {
+    "bank": "ue4.annales.theme.sources-naturelles",
+    "id": 5,
+    "sourceId": "ue4:2024-2025:S2:q02",
+    "field": "reviewNotes[ue4-v4-005].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 759,
+        "label": "ue4:2024-2025:S2:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=759"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 718,
+        "label": "ue4:2025-2026:S1:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=718"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 759,
+        "label": "ue4:2024-2025:S2:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=759"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 718,
+        "label": "ue4:2025-2026:S1:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=718"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.cycle-vie",
+    "id": 9,
+    "sourceId": "ue4:2023-2024:S1:q08",
+    "field": "reviewNotes[ue4-v4-084].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 780,
+        "label": "ue4:2023-2024:S1:q08 — correction",
+        "href": "sources/Annales_compilation.pdf#page=780"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 746,
+        "label": "ue4:2024-2025:S1:q22 — correction",
+        "href": "sources/Annales_compilation.pdf#page=746"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 780,
+        "label": "ue4:2023-2024:S1:q08 — correction",
+        "href": "sources/Annales_compilation.pdf#page=780"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 746,
+        "label": "ue4:2024-2025:S1:q22 — correction",
+        "href": "sources/Annales_compilation.pdf#page=746"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.identification-pa",
+    "id": 23,
+    "sourceId": "ue4:2020-2021:S1:q12",
+    "field": "reviewNotes[ue4-v4-092].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 890,
+        "label": "ue4:2020-2021:S1:q12 — correction",
+        "href": "sources/Annales_compilation.pdf#page=890"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 800,
+        "label": "ue4:2023-2024:S2:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=800"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 953,
+        "label": "ue4:2019-2020:S1:q05 — correction",
+        "href": "sources/Annales_compilation.pdf#page=953"
+      },
+      {
+        "file": "cycle de vie du médicament _ M. Le Borgne.pdf",
+        "page": 3,
+        "label": "Me-too et activité thérapeutique",
+        "href": "sources/revision_v4/cycle_de_vie_du_medicament_M_Le_Borgne_e21aea198f.pdf#page=3"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 795,
+        "label": "ue4:2023-2024:S2:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=795"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 890,
+        "label": "ue4:2020-2021:S1:q12 — correction",
+        "href": "sources/Annales_compilation.pdf#page=890"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 800,
+        "label": "ue4:2023-2024:S2:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=800"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 953,
+        "label": "ue4:2019-2020:S1:q05 — correction",
+        "href": "sources/Annales_compilation.pdf#page=953"
+      },
+      {
+        "file": "cycle de vie du médicament _ M. Le Borgne.pdf",
+        "page": 3,
+        "label": "Me-too et activité thérapeutique",
+        "href": "sources/revision_v4/cycle_de_vie_du_medicament_M_Le_Borgne_e21aea198f.pdf#page=3"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 795,
+        "label": "ue4:2023-2024:S2:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=795"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.biotechnologies",
+    "id": 9,
+    "sourceId": "ue4:2023-2024:S1:q01",
+    "field": "reviewNotes[ue4-v4-116].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 719,
+        "label": "ue4:2025-2026:S1:q15 — correction",
+        "href": "sources/Annales_compilation.pdf#page=719"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 719,
+        "label": "ue4:2025-2026:S1:q15 — correction",
+        "href": "sources/Annales_compilation.pdf#page=719"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.pk-pd",
+    "id": 9,
+    "sourceId": "ue4:2022-2023:S1:q18",
+    "field": "reviewNotes[ue4-v4-132].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 818,
+        "label": "ue4:2022-2023:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=818"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 849,
+        "label": "ue4:2021-2022:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=849"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 855,
+        "label": "ue4:2021-2022:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=855"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 818,
+        "label": "ue4:2022-2023:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=818"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 855,
+        "label": "ue4:2021-2022:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=855"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 849,
+        "label": "ue4:2021-2022:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=849"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.pk-pd",
+    "id": 10,
+    "sourceId": "ue4:2022-2023:S2:q14",
+    "field": "reviewNotes[ue4-v4-134].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 836,
+        "label": "ue4:2022-2023:S2:q14 — correction",
+        "href": "sources/Annales_compilation.pdf#page=836"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 849,
+        "label": "ue4:2021-2022:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=849"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 856,
+        "label": "ue4:2021-2022:S1:q19 — correction",
+        "href": "sources/Annales_compilation.pdf#page=856"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 836,
+        "label": "ue4:2022-2023:S2:q14 — correction",
+        "href": "sources/Annales_compilation.pdf#page=836"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 856,
+        "label": "ue4:2021-2022:S1:q19 — correction",
+        "href": "sources/Annales_compilation.pdf#page=856"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 849,
+        "label": "ue4:2021-2022:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=849"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.pk-pd",
+    "id": 11,
+    "sourceId": "ue4:2021-2022:S1:q18",
+    "field": "reviewNotes[ue4-v4-136].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 855,
+        "label": "ue4:2021-2022:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=855"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 811,
+        "label": "ue4:2022-2023:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=811"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 818,
+        "label": "ue4:2022-2023:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=818"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 855,
+        "label": "ue4:2021-2022:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=855"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 818,
+        "label": "ue4:2022-2023:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=818"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 811,
+        "label": "ue4:2022-2023:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=811"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.pk-pd",
+    "id": 12,
+    "sourceId": "ue4:2021-2022:S1:q19",
+    "field": "reviewNotes[ue4-v4-138].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 856,
+        "label": "ue4:2021-2022:S1:q19 — correction",
+        "href": "sources/Annales_compilation.pdf#page=856"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 831,
+        "label": "ue4:2022-2023:S2:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=831"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 836,
+        "label": "ue4:2022-2023:S2:q14 — correction",
+        "href": "sources/Annales_compilation.pdf#page=836"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 856,
+        "label": "ue4:2021-2022:S1:q19 — correction",
+        "href": "sources/Annales_compilation.pdf#page=856"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 836,
+        "label": "ue4:2022-2023:S2:q14 — correction",
+        "href": "sources/Annales_compilation.pdf#page=836"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 831,
+        "label": "ue4:2022-2023:S2:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=831"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.pk-pd",
+    "id": 13,
+    "sourceId": "ue4:2021-2022:S2:q14",
+    "field": "reviewNotes[ue4-v4-141].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 872,
+        "label": "ue4:2021-2022:S2:q14 — correction",
+        "href": "sources/Annales_compilation.pdf#page=872"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 811,
+        "label": "ue4:2022-2023:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=811"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 818,
+        "label": "ue4:2022-2023:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=818"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 872,
+        "label": "ue4:2021-2022:S2:q14 — correction",
+        "href": "sources/Annales_compilation.pdf#page=872"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 818,
+        "label": "ue4:2022-2023:S1:q18 — correction",
+        "href": "sources/Annales_compilation.pdf#page=818"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 811,
+        "label": "ue4:2022-2023:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=811"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.analyse-controles",
+    "id": 2,
+    "sourceId": "ue4:2025-2026:S1:q26",
+    "field": "reviewNotes[ue4-v4-153].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 723,
+        "label": "ue4:2025-2026:S1:q26 — correction",
+        "href": "sources/Annales_compilation.pdf#page=723"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 723,
+        "label": "ue4:2025-2026:S1:q26 — correction",
+        "href": "sources/Annales_compilation.pdf#page=723"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.analyse-controles",
+    "id": 3,
+    "sourceId": "ue4:2024-2025:S1:q17",
+    "field": "reviewNotes[ue4-v4-154].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.analyse-controles",
+    "id": 3,
+    "sourceId": "ue4:2024-2025:S1:q17",
+    "field": "reviewNotes[ue4-v4-155].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.analyse-controles",
+    "id": 7,
+    "sourceId": "ue4:2023-2024:S1:q24",
+    "field": "reviewNotes[ue4-v4-160].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 723,
+        "label": "ue4:2025-2026:S1:q26 — correction",
+        "href": "sources/Annales_compilation.pdf#page=723"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 723,
+        "label": "ue4:2025-2026:S1:q26 — correction",
+        "href": "sources/Annales_compilation.pdf#page=723"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.analyse-controles",
+    "id": 7,
+    "sourceId": "ue4:2023-2024:S1:q24",
+    "field": "reviewNotes[ue4-v4-161].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 786,
+        "label": "ue4:2023-2024:S1:q24 — correction",
+        "href": "sources/Annales_compilation.pdf#page=786"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.analyse-controles",
+    "id": 11,
+    "sourceId": "ue4:2022-2023:S2:q03",
+    "field": "reviewNotes[ue4-v4-162].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 832,
+        "label": "ue4:2022-2023:S2:q03 — correction",
+        "href": "sources/Annales_compilation.pdf#page=832"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 832,
+        "label": "ue4:2022-2023:S2:q03 — correction",
+        "href": "sources/Annales_compilation.pdf#page=832"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 744,
+        "label": "ue4:2024-2025:S1:q17 — correction",
+        "href": "sources/Annales_compilation.pdf#page=744"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 737,
+        "label": "ue4:2024-2025:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=737"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.bum",
+    "id": 2,
+    "sourceId": "ue4:2025-2026:S1:q10",
+    "field": "reviewNotes[ue4-v4-170].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 717,
+        "label": "ue4:2025-2026:S1:q10 — correction",
+        "href": "sources/Annales_compilation.pdf#page=717"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 782,
+        "label": "ue4:2023-2024:S1:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=782"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 717,
+        "label": "ue4:2025-2026:S1:q10 — correction",
+        "href": "sources/Annales_compilation.pdf#page=717"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 782,
+        "label": "ue4:2023-2024:S1:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=782"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 777,
+        "label": "ue4:2023-2024:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=777"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.bum",
+    "id": 9,
+    "sourceId": "ue4:2023-2024:S1:q13",
+    "field": "reviewNotes[ue4-v4-174].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 782,
+        "label": "ue4:2023-2024:S1:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=782"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 717,
+        "label": "ue4:2025-2026:S1:q10 — correction",
+        "href": "sources/Annales_compilation.pdf#page=717"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 782,
+        "label": "ue4:2023-2024:S1:q13 — correction",
+        "href": "sources/Annales_compilation.pdf#page=782"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 717,
+        "label": "ue4:2025-2026:S1:q10 — correction",
+        "href": "sources/Annales_compilation.pdf#page=717"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 713,
+        "label": "ue4:2025-2026:S1:q01 — correction",
+        "href": "sources/Annales_compilation.pdf#page=713"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.bum",
+    "id": 14,
+    "sourceId": "ue4:2022-2023:S1:q23",
+    "field": "reviewNotes[ue4-v4-175].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 821,
+        "label": "ue4:2022-2023:S1:q23 — correction",
+        "href": "sources/Annales_compilation.pdf#page=821"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 849,
+        "label": "ue4:2021-2022:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=849"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 857,
+        "label": "ue4:2021-2022:S1:q22 — correction",
+        "href": "sources/Annales_compilation.pdf#page=857"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 821,
+        "label": "ue4:2022-2023:S1:q23 — correction",
+        "href": "sources/Annales_compilation.pdf#page=821"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 857,
+        "label": "ue4:2021-2022:S1:q22 — correction",
+        "href": "sources/Annales_compilation.pdf#page=857"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 849,
+        "label": "ue4:2021-2022:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=849"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.bum",
+    "id": 23,
+    "sourceId": "ue4:2021-2022:S1:q22",
+    "field": "reviewNotes[ue4-v4-177].refs",
+    "before": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 857,
+        "label": "ue4:2021-2022:S1:q22 — correction",
+        "href": "sources/Annales_compilation.pdf#page=857"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 811,
+        "label": "ue4:2022-2023:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=811"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 821,
+        "label": "ue4:2022-2023:S1:q23 — correction",
+        "href": "sources/Annales_compilation.pdf#page=821"
+      }
+    ],
+    "after": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 857,
+        "label": "ue4:2021-2022:S1:q22 — correction",
+        "href": "sources/Annales_compilation.pdf#page=857"
+      },
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 821,
+        "label": "ue4:2022-2023:S1:q23 — correction",
+        "href": "sources/Annales_compilation.pdf#page=821"
+      }
+    ],
+    "removedRefs": [
+      {
+        "file": "Sujets + corrections compilés(1).pdf",
+        "page": 811,
+        "label": "ue4:2022-2023:S1:q02 — correction",
+        "href": "sources/Annales_compilation.pdf#page=811"
+      }
+    ],
+    "reason": "Suppression de renvois obsolètes vers Q1/Q2, ajoutés par une correspondance de préfixe au lieu du numéro complet Q10–Q29 cité dans la note. Les passages originaux ont été rapprochés ; les bonnes références aux numéros complets sont déjà présentes et sont conservées. Texte de la note, identifiant et clé inchangés."
+  },
+  {
+    "bank": "ue4.annales.theme.droit",
+    "id": 26,
+    "sourceId": "ue4:2021-2022:S1:q13",
+    "field": "correctionPage/shortCorrectionPage",
+    "before": {
+      "correctionPage": 848,
+      "shortCorrectionPage": 848
+    },
+    "after": {
+      "correctionPage": null,
+      "shortCorrectionPage": null
+    },
+    "reason": "Ces anciens pointeurs vers p848 désignaient la grille numérotée selon le corrigé, sans clé pour le sujet Q13. Aucune association à un corrigé n’est possible ; la page reste citée seulement comme preuve de l’omission dans la note."
+  }
+]

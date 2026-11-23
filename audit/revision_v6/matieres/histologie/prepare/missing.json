@@ -1,0 +1,568 @@
+[
+  {
+    "kind": "official_arbitration_required",
+    "priority": "grading",
+    "bank": "histo.ann.tc",
+    "ids": [
+      10
+    ],
+    "needed": "Ronéo de la session ou erratum explicite identifiant les propositions concernées et l’édition complète du QCM.",
+    "reason": "Hors note : D n’a pas de verdict dans le corrigé thématique (« ??? non dit cette année »). La compilation donne D Faux et E Vrai, tandis que le corrigé thématique donne E Faux. Aucun erratum ne permet de choisir une clé unique.",
+    "sourcesAlreadyAvailable": [
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_1db02487eb.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_CORRECTION_2_15a22929d2.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "searchesPerformed": "Documents thématiques sujet/corrigé relus, originaux du premier envoi confrontés, compilation UE5 recherchée sur l’ensemble des propositions et la session, deux éditions conservées dans les copies.",
+    "session": {
+      "label": "Juillet 2021, PASS S2 2020–2021",
+      "compilationHeader": "Session 2 2020-2021"
+    },
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "kind": "official_arbitration_required",
+    "priority": "grading",
+    "bank": "histo.ann.tn",
+    "ids": [
+      22
+    ],
+    "needed": "Ronéo de la session ou erratum explicite identifiant les propositions concernées et l’édition complète du QCM.",
+    "reason": "Hors note : pour E, le corrigé thématique imprime à la fois « Faux » puis « on peut dire Vrai … ??? ». La compilation retient E et la clé ACE ; l’ancienne clé thématique AC est conservée dans les remarques, sans arbitrage.",
+    "sourcesAlreadyAvailable": [
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "searchesPerformed": "Documents thématiques sujet/corrigé relus, originaux du premier envoi confrontés, compilation UE5 recherchée sur l’ensemble des propositions et la session, deux éditions conservées dans les copies.",
+    "session": {
+      "label": "Mai 2021, PACES 2020–2021",
+      "compilationHeader": "PACES 2020-2021"
+    },
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "kind": "official_arbitration_required",
+    "priority": "grading",
+    "bank": "histo.ann.tech",
+    "ids": [
+      1
+    ],
+    "needed": "Ronéo de la session ou erratum explicite identifiant les propositions concernées et l’édition complète du QCM.",
+    "reason": "Hors note : la version complète contient cinq propositions. Le corrigé thématique à quatre propositions accepte son D (nouveau E), tandis que la compilation de la même session refuse E. Sans erratum, aucune clé commune ne peut être retenue.",
+    "sourcesAlreadyAvailable": [
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "searchesPerformed": "Documents thématiques sujet/corrigé relus, originaux du premier envoi confrontés, compilation UE5 recherchée sur l’ensemble des propositions et la session, deux éditions conservées dans les copies.",
+    "session": {
+      "label": "Mai 2019, PACES 2018–2019",
+      "compilationHeader": "2018-2019"
+    },
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "kind": "official_arbitration_required",
+    "priority": "grading",
+    "bank": "histo.ann.tech",
+    "ids": [
+      6
+    ],
+    "needed": "Ronéo de la session ou erratum explicite identifiant les propositions concernées et l’édition complète du QCM.",
+    "reason": "Hors note : E (montage) est rétabli depuis le sujet complet. Le corrigé thématique donne A Faux ; la compilation de la même session donne A Vrai et la clé A. Cette opposition ne permet ni une clé hybride ni une réponse « tous faux ». Un erratum ou la ronéo de cette session est nécessaire.",
+    "sourcesAlreadyAvailable": [
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "searchesPerformed": "Documents thématiques sujet/corrigé relus, originaux du premier envoi confrontés, compilation UE5 recherchée sur l’ensemble des propositions et la session, deux éditions conservées dans les copies.",
+    "session": {
+      "label": "Décembre 2020, PASS S1 2020–2021",
+      "compilationHeader": "Session 1 2020-2021"
+    },
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "kind": "official_arbitration_required",
+    "priority": "grading",
+    "bank": "histo.ann.tech",
+    "ids": [
+      7
+    ],
+    "needed": "Ronéo de la session ou erratum explicite identifiant les propositions concernées et l’édition complète du QCM.",
+    "reason": "Hors note : C (organes très fins) est rétabli, les anciens C et D deviennent D et E. Les deux corrigés de la même session s’opposent sur A et D, et la compilation classe E hors programme. Aucune clé fusionnée ne peut être retenue sans erratum.",
+    "sourcesAlreadyAvailable": [
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "searchesPerformed": "Documents thématiques sujet/corrigé relus, originaux du premier envoi confrontés, compilation UE5 recherchée sur l’ensemble des propositions et la session, deux éditions conservées dans les copies.",
+    "session": {
+      "label": "Décembre 2021, S1 2021–2022",
+      "compilationHeader": "Session 1 2021-2022"
+    },
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "kind": "source_figure_quality",
+    "priority": "optional",
+    "bank": "histo.tn1",
+    "ids": [
+      13
+    ],
+    "needed": "Version complète du schéma explicatif de myélinisation dans le corrigé TN1, si elle existe.",
+    "reason": "Les légendes à gauche sont déjà rognées dans le fichier EMF inclus dans le Word original. Le PDF et la capture reproduisent cette limite ; aucun texte graphique absent n’a été inventé.",
+    "searchesPerformed": "Word du premier envoi, Word conservé dans le site, extraction de son EMF, rendu de l’EMF et comparaison avec le PDF V5.",
+    "resolution": "Aucun impact sur les cinq propositions ou leur clé. La figure explicative authentique reste dans la copie du corrigé."
+  },
+  {
+    "kind": "edition_errata_optional",
+    "priority": "clarification",
+    "questions": [
+      {
+        "bank": "histo.ann.te",
+        "id": 5,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "BCD",
+        "compilationPage": 1346,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.te",
+        "id": 11,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "BCDE",
+        "compilationPage": 1245,
+        "status": "different_figure"
+      },
+      {
+        "bank": "histo.ann.te",
+        "id": 15,
+        "session": {
+          "label": "Décembre 2023, S1 2023–2024",
+          "compilationHeader": "Session 1 2023-2024"
+        },
+        "primaryKey": "BD",
+        "compilationPage": 1155,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 5,
+        "session": {
+          "label": "Décembre 2020, PASS S1 2020–2021",
+          "compilationHeader": "Session 1 2020-2021"
+        },
+        "primaryKey": "ACD",
+        "compilationPage": 1437,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 12,
+        "session": {
+          "label": "Juillet 2021, PASS S2 2020–2021",
+          "compilationHeader": "Session 2 2020-2021"
+        },
+        "primaryKey": "ABCE",
+        "compilationPage": 1485,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 17,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "BCE",
+        "compilationPage": 1349,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 20,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "DE",
+        "compilationPage": 1350,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 24,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "CD",
+        "compilationPage": 1247,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 28,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "BCD",
+        "compilationPage": 1251,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 30,
+        "session": {
+          "label": "Juin 2023, S2 2022–2023",
+          "compilationHeader": "Session 2 2022-2023"
+        },
+        "primaryKey": "ABE",
+        "compilationPage": 1292,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 31,
+        "session": {
+          "label": "Juin 2023, S2 2022–2023",
+          "compilationHeader": "Session 2 2022-2023"
+        },
+        "primaryKey": "BC",
+        "compilationPage": 1292,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 38,
+        "session": {
+          "label": "Décembre 2023, S1 2023–2024",
+          "compilationHeader": "Session 1 2023-2024"
+        },
+        "primaryKey": "A",
+        "compilationPage": 1159,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 58,
+        "session": {
+          "label": "Juin 2024, S2 2023–2024",
+          "compilationHeader": "Session 2 2023-2024"
+        },
+        "primaryKey": "B",
+        "compilationPage": 1200,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 43,
+        "session": {
+          "label": "Décembre 2024, S1 2024–2025",
+          "compilationHeader": "Session 1 2024-2025"
+        },
+        "primaryKey": "CD",
+        "compilationPage": 1079,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 47,
+        "session": {
+          "label": "Juin 2025, S2 2024–2025",
+          "compilationHeader": "Session 2 2024-2025"
+        },
+        "primaryKey": "BCE",
+        "compilationPage": 1116,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tc",
+        "id": 54,
+        "session": {
+          "label": "Décembre 2025, S1 2025–2026",
+          "compilationHeader": "Session 1 2025-2026"
+        },
+        "primaryKey": "D",
+        "compilationPage": 1021,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 11,
+        "session": {
+          "label": "Mai 2020, PACES 2019–2020",
+          "compilationHeader": "UE5 2019-2020"
+        },
+        "primaryKey": "AC",
+        "compilationPage": 1576,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 16,
+        "session": {
+          "label": "Décembre 2020, PASS S1 2020–2021",
+          "compilationHeader": "Session 1 2020-2021"
+        },
+        "primaryKey": "AB",
+        "compilationPage": 1440,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 21,
+        "session": {
+          "label": "Mai 2021, PACES 2020–2021",
+          "compilationHeader": "PACES 2020-2021"
+        },
+        "primaryKey": "AB",
+        "compilationPage": 1524,
+        "status": "parallel_wording_variant"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 24,
+        "session": {
+          "label": "Juillet 2021, PASS S2 2020–2021",
+          "compilationHeader": "Session 2 2020-2021"
+        },
+        "primaryKey": "BCDE",
+        "compilationPage": 1481,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 26,
+        "session": {
+          "label": "Juillet 2021, PASS S2 2020–2021",
+          "compilationHeader": "Session 2 2020-2021"
+        },
+        "primaryKey": "ABC",
+        "compilationPage": 1482,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 28,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "ACE",
+        "compilationPage": 1351,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 31,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "AB",
+        "compilationPage": 1352,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 34,
+        "session": {
+          "label": "Juin 2022, S2 2021–2022",
+          "compilationHeader": "Session 2 2021-2022"
+        },
+        "primaryKey": "ACDE",
+        "compilationPage": 1390,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 35,
+        "session": {
+          "label": "Juin 2022, S2 2021–2022",
+          "compilationHeader": "Session 2 2021-2022"
+        },
+        "primaryKey": "AC",
+        "compilationPage": 1391,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 38,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "C",
+        "compilationPage": 1252,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 39,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "ABE",
+        "compilationPage": 1253,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 40,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "BCD",
+        "compilationPage": 1253,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 44,
+        "session": {
+          "label": "Juin 2023, S2 2022–2023",
+          "compilationHeader": "Session 2 2022-2023"
+        },
+        "primaryKey": "ABCDE",
+        "compilationPage": 1289,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 45,
+        "session": {
+          "label": "Juin 2023, S2 2022–2023",
+          "compilationHeader": "Session 2 2022-2023"
+        },
+        "primaryKey": "ADE",
+        "compilationPage": 1289,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 46,
+        "session": {
+          "label": "Juin 2023, S2 2022–2023",
+          "compilationHeader": "Session 2 2022-2023"
+        },
+        "primaryKey": "ABD",
+        "compilationPage": 1290,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 54,
+        "session": {
+          "label": "Décembre 2024, S1 2024–2025",
+          "compilationHeader": "Session 1 2024-2025"
+        },
+        "primaryKey": "ACDE",
+        "compilationPage": 1081,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 62,
+        "session": {
+          "label": "Décembre 2025, S1 2025–2026",
+          "compilationHeader": "Session 1 2025-2026"
+        },
+        "primaryKey": "ABCD",
+        "compilationPage": 1025,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 8,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "AD",
+        "compilationPage": 1343,
+        "status": "parallel_wording_variant"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 9,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "ABD",
+        "compilationPage": 1344,
+        "status": "parallel_wording_variant"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 10,
+        "session": {
+          "label": "Décembre 2021, S1 2021–2022",
+          "compilationHeader": "Session 1 2021-2022"
+        },
+        "primaryKey": "AE",
+        "compilationPage": 1345,
+        "status": "different_experimental_context"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 12,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "ACD",
+        "compilationPage": 1242,
+        "status": "parallel_wording_variant"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 14,
+        "session": {
+          "label": "Décembre 2022, S1 2022–2023",
+          "compilationHeader": "Session 1 2022-2023"
+        },
+        "primaryKey": "ABE",
+        "compilationPage": 1243,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 19,
+        "session": {
+          "label": "Décembre 2023, S1 2023–2024",
+          "compilationHeader": "Session 1 2023-2024"
+        },
+        "primaryKey": "ABE",
+        "compilationPage": 1149,
+        "status": "same_session_all_items_compared"
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 20,
+        "session": {
+          "label": "Décembre 2023, S1 2023–2024",
+          "compilationHeader": "Session 1 2023-2024"
+        },
+        "primaryKey": "BD",
+        "compilationPage": 1150,
+        "status": "same_session_all_items_compared"
+      }
+    ],
+    "needed": "Pour les divergences indiquées dans les remarques après correction, une ronéo ou un erratum de la bonne session et de la bonne version serait utile.",
+    "reason": "Plusieurs corrigés thématiques complets divergent de la compilation. Certains textes, contextes et schémas ont aussi été adaptés ; les deux grilles ne sont pas interchangeables.",
+    "resolution": "La clé du corrigé thématique est conservée quand elle est complète ; aucune décision scientifique personnelle ne réécrit cette clé."
+  }
+]

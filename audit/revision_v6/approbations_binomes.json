@@ -1,0 +1,83 @@
+{
+  "embryologie": {
+    "preparer": "/root/embryologie_prepare",
+    "verifier": "/root/embryologie_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "embryologie/verify/approved_reviewed.json",
+    "crops": "embryologie/verify/approved_crops.json",
+    "reviewed_sha256": "5dfa3e2e1741c7cf2fc25f502f9995a8ca585f9fd198fa94295043cbf36d39c3",
+    "crops_sha256": "15db4a936cbf4086b9472a83214c9c268e32b5986516b8e9f72748d6199c1bc4"
+  },
+  "biomol": {
+    "preparer": "/root/biomol_prepare",
+    "verifier": "/root/biomol_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "biomol/verify/approved_reviewed.json",
+    "crops": "biomol/verify/approved_crops.json",
+    "reviewed_sha256": "15141b6a24da994041a69789f88bc7032859228ace30987919a0e87cb9542fd9",
+    "crops_sha256": "d00d29fefac631f93927db22ffdeceb6a324a71753ab86a1ac5f059b5563fead"
+  },
+  "pharmaco": {
+    "preparer": "/root/pharmaco_prepare",
+    "verifier": "/root/pharmaco_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "pharmaco/verify/approved_reviewed.json",
+    "crops": "pharmaco/verify/approved_crops.json",
+    "reviewed_sha256": "d603c3287fd1068bc7c2caa49ad5599ad25b677c2606889305a52b9b0e95323d",
+    "crops_sha256": "af9448c6fbd4a2542d986fee59f66bf1964de84cb45749ca06504b1637c6d9b6"
+  },
+  "biocell": {
+    "preparer": "/root/biocell_prepare",
+    "verifier": "/root/biocell_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "biocell/verify/approved_reviewed.json",
+    "crops": "biocell/verify/approved_crops.json",
+    "reviewed_sha256": "2ff58d8d92223734b3a6e3b5a74ccc223bde33c606e67f6c53f8e7eee34627cc",
+    "crops_sha256": "7b78db65424cdafb620d60710072edb5408f111621cca799cadf7cef4086e5cb"
+  },
+  "chimie": {
+    "preparer": "/root",
+    "verifier": "/root/chimie_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "chimie/verify/approved_reviewed.json",
+    "crops": "chimie/verify/approved_crops.json",
+    "reviewed_sha256": "511f535441e70ec7a99dcaca5e75ee8aaba9e0c6fb500b3a38ddcd338591b1f2",
+    "crops_sha256": "57624752bf5c6e07a00777b30baa779ef7101944d9abe818aed947f6962e626d"
+  },
+  "histologie": {
+    "preparer": "/root/histologie_prepare",
+    "verifier": "/root/histologie_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "histologie/verify/approved_reviewed.json",
+    "crops": "histologie/verify/approved_crops.json",
+    "reviewed_sha256": "9f08c421e53b4de17b2e3d812c6db3ca5635bc2b12a0c1ab5cdaf574a8b27f7f",
+    "crops_sha256": "3dcc020f087c8a6c41318c0c623288ead709c97eafb0778391991261f72d935e"
+  },
+  "biostat": {
+    "preparer": "/root",
+    "verifier": "/root/biostat_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "biostat/verify/approved_reviewed.json",
+    "crops": "biostat/verify/approved_crops.json",
+    "reviewed_sha256": "d9b3321788c127b2a891fdec8c63f0d7ea3eb65946b5cf1e19caf73610f9daf2",
+    "crops_sha256": "cef03106ba8feae74d6c0eaf2041c80360f32d263cf6548e78af8464d086a083"
+  },
+  "biochimie": {
+    "preparer": "/root/biochimie_prepare",
+    "verifier": "/root/biochimie_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "biochimie/verify/approved_reviewed.json",
+    "reviewed_sha256": "b581cfba8c6f4fc5f7ba9963e606ec9d9345f71b57776c7efb64111531efe840",
+    "crops": "biochimie/verify/approved_crops.json",
+    "crops_sha256": "3f54e5bae6065b72dec153eef1e7e0001bf27137aee2755385adb8cea4e5e693"
+  },
+  "ssh": {
+    "preparer": "/root",
+    "verifier": "/root/ssh_verifie",
+    "status": "approved_with_documentary_limits",
+    "reviewed": "ssh/verify/approved_reviewed.json",
+    "reviewed_sha256": "0e6beca7c5815b5e844801045ca2d7814e168c6c2014045cae54fb02bc17aeb9",
+    "crops": "ssh/verify/approved_crops.json",
+    "crops_sha256": "a439d5c05e0d2afe1bc3f2868e7a9e8c90ffef6dde5672f014d024e0fa277d23"
+  }
+}

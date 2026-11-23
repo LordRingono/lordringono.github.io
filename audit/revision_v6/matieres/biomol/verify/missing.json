@@ -1,0 +1,100 @@
+{
+  "missingSourceFiles": [],
+  "all46OriginalPDFsAvailable": true,
+  "originalContentToClarify": [
+    {
+      "bank": "ue2.adn.annales",
+      "id": 17,
+      "item": "E",
+      "detail": "Phrase interrompue après « La liaison entre les différents »."
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 35,
+      "item": "B",
+      "detail": "Phrase interrompue après « premier nucléotide qui sera »."
+    },
+    {
+      "bank": "ue2.reparation.autotest",
+      "id": 15,
+      "item": "C",
+      "detail": "La polymérase n’est pas précisée dans le sujet ; α ajouté dans le corrigé."
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 17,
+      "item": "B",
+      "detail": "Le caractère & ne désigne pas de manière certaine la polymérase."
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 8,
+      "item": "A",
+      "detail": "Mots ou groupes de mots tronqués dans les deux originaux."
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 8,
+      "item": "B",
+      "detail": "Mots ou groupes de mots tronqués dans les deux originaux."
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 8,
+      "item": "C",
+      "detail": "Mots ou groupes de mots tronqués dans les deux originaux."
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 8,
+      "item": "D",
+      "detail": "Mots ou groupes de mots tronqués dans les deux originaux."
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 27,
+      "item": "stem",
+      "detail": "Titre se terminant par « quels sont ceux qui ... » ; contexte identifiable par le doublon Q21 mais non réécrit."
+    }
+  ],
+  "ambiguousOfficialKeys": [
+    {
+      "bank": "ue2.adn.annales",
+      "id": 25,
+      "key": "AD(E)"
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "id": 26,
+      "key": "AB(C)"
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "id": 33,
+      "key": "AB(C)"
+    }
+  ],
+  "HPOnlyItems": [
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 3,
+      "item": "A"
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 9,
+      "item": "E"
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 17,
+      "item": "E"
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "id": 20,
+      "item": "E"
+    }
+  ],
+  "courseReservations": "Voir les notes après correction déjà présentes et le missing.json du préparateur ; ne pas demander à nouveau les 46 PDF disponibles."
+}

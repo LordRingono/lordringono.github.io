@@ -1,0 +1,5266 @@
+[
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "sourceNumber": 5,
+    "page": 2,
+    "item": "K",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "En méiose 1, il n’y a jamais condensation de l’ADN.",
+    "sourceText": "En méiose 1 il y a brassage intrachromosomique.",
+    "siteExplanation": "Faux, l’ADN est condensé en Pachytène et diacinèse",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": "BCEFMN"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 7,
+    "sourceNumber": 8,
+    "page": 2,
+    "item": "C",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Elle est la conséquence d’une diminution de calcium intracellulaire",
+    "sourceText": "Elle provoque la réaction corticale avant la reprise de la méiose.",
+    "siteExplanation": "Faux",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 7,
+    "sourceNumber": 8,
+    "page": 2,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Elle provoque la réaction corticale avant la reprise de la méiose.",
+    "sourceText": "",
+    "siteExplanation": "Vrai. Deuxième proposition étiquetée C dans le PDF ; affichée séparément pour conserver les autres identifiants.",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": null,
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 23,
+    "sourceNumber": 24,
+    "page": 7,
+    "item": "M",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Est localisée sur la cape post-acrosomique",
+    "sourceText": "correspond à la sous-unité alpha du dimère.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Faux Béta",
+    "colored": "Faux Béta",
+    "sourceKey": null,
+    "siteAnswer": "ILM"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 4,
+    "sourceNumber": 4,
+    "page": 1,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "des somites.",
+    "sourceText": "des somites.",
+    "siteExplanation": "Faux, la segmentation du mésoblaste para-axial débute à J19- Donc sur la CT en partie crâniale il y a les premières paires de somites",
+    "sourceDetail": "Faux, la segmentation du mésoblaste para-axial débute à J19- Donc sur la CT en partie crâniale il y a les premières paires de somites Plaque préchordale qui n’est pas figurée",
+    "colored": "Faux, la segmentation du mésoblaste para-axial débute à J19- Donc sur la CT en partie crâniale il y a les premières paires de somites",
+    "sourceKey": null,
+    "siteAnswer": "AD"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "sourceNumber": 8,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "une ligne primitive.",
+    "sourceText": "une ligne primitive.",
+    "siteExplanation": "Vrai, très réduite relativement (= 0,15 mm), avec une coupe transversale dans la partie caudale, entre la membrane cloacale et le nœud de Hensen.",
+    "sourceDetail": "Vrai, très réduite (relativement = 0.15mm) avec une CT dans la partie caudale, entre la membrane cloacale et le nœud de Hensen (pas comme sur votre schéma qui est une coupe en avant de la LP) E – l’allantoïde et les cellules germinales primordiales sur la même coupe, à l’extérieur de l’œuf. Faux, il est à l’extérieur du disque or une coupe se fait dans le disque",
+    "colored": "Vrai, très réduite (relativement = 0.15mm) avec une CT dans la partie caudale, entre la membrane cloacale et le nœud de Hensen (pas comme sur votre schéma qui est une coupe en avant de la LP) Faux, il est à l’extérieur du disque or une coupe se fait dans le disque",
+    "sourceKey": null,
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "sourceNumber": 8,
+    "page": 3,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’allantoïde et les cellules germinales primordiales sur la même coupe, à l’extérieur de l’œuf.",
+    "sourceText": "l’allantoïde et les cellules germinales primordiales sur la même coupe, à l’extérieur de l’œuf.",
+    "siteExplanation": "Faux, l’allantoïde et les cellules germinales primordiales sont à l’extérieur du disque ; la coupe considérée est dans le disque.",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": null,
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 13,
+    "sourceNumber": 13,
+    "page": 5,
+    "item": "H",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "C’est uniquement la première branche de l’anse vitelline qui formera l’intestin grêle",
+    "sourceText": "Le colon est issu de l’intestin moyen et de l’intestin postérieur.",
+    "siteExplanation": "FAUX Branche pré-vitelline + branche post-vitelline (en partie) + Intestin primitif antérieur (duodénum)",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": "AEFILM"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 13,
+    "sourceNumber": 13,
+    "page": 5,
+    "item": "M",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le colon est issu de l’intestin moyen et de l’intestin postérieur.",
+    "sourceText": "",
+    "siteExplanation": "Vrai",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": null,
+    "siteAnswer": "AEFILM"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 14,
+    "sourceNumber": 14,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les précurseurs cardiaques qui la constitue sont d’origine splanchnopleurale.",
+    "sourceText": "La plicature crâniale permet de faire passer la zone cardiogène en position ventrale.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai, sous le TD en formation et derrière la membrane pharyngienne",
+    "colored": "Vrai, sous le TD en formation et derrière la membrane pharyngienne",
+    "sourceKey": null,
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 14,
+    "sourceNumber": 14,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La plicature crâniale permet de faire passer la zone cardiogène en position ventrale.",
+    "sourceText": "",
+    "siteExplanation": "Vrai, sous le TD en formation et derrière la membrane pharyngienne",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": null,
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "sourceNumber": 23,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la paroi ventrale est en cours de fermeture.",
+    "sourceText": "(2) représente le tube digestif primitif (gouttière Là où se trouvent les IWP digestive) délimité par de l’entoblaste.",
+    "siteExplanation": "Vrai, la paroi ventrale est en cours de fermeture…. Fin S4, la paroi ventrale apparaitra totalement fermée en CT sauf au milieu de l’embryon, où elle restera ouverte sur le sac vitellin",
+    "sourceDetail": "Vrai, la paroi ventrale est en cours de fermeture…. Fin S4, la paroi ventrale apparaitra totalement fermée en CT sauf au milieu de l’embryon, où elle restera ouverte sur le sac vitellin Là où se trouvent les IWP",
+    "colored": "Vrai, la paroi ventrale est en cours de fermeture…. Fin S4, la paroi ventrale apparaitra totalement fermée en CT sauf au milieu de l’embryon, où elle restera ouverte sur le sac vitellin",
+    "sourceKey": null,
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "sourceNumber": 24,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "(2) représente le tube digestif primitif (gouttière digestive) délimité par de l’entoblaste.",
+    "sourceText": "(2) représente le tube digestif primitif (gouttière Là où se trouvent les IWP digestive) délimité par de l’entoblaste.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 1,
+    "sourceNumber": 1,
+    "page": 1,
+    "item": "A",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "L’ébauche des structures cardiaques apparait à la 4ème semaine.",
+    "sourceText": "L’ébauche des structures cardiaques apparait à la 4ème semaine.",
+    "siteExplanation": "Faux, début de la zone cardiogène à J18, 3ème semaine.",
+    "sourceDetail": "Faux, début de la zone cardiogène à J18, 3ème semaine.",
+    "colored": "Faux, début de la zone cardiogène à J18, 3 ème semaine.",
+    "sourceKey": null,
+    "siteAnswer": "C,E,I,L,M,N,P,R,U,W,Y,AA,CC"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "G",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "dans les artères embryonnaires circule du sang riche en oxygène.",
+    "sourceText": "dans les artères embryonnaires circule du sang riche en oxygène.",
+    "siteExplanation": "Faux, sang mêlé.",
+    "sourceDetail": "Faux, le canal de Cuvier = veine cardinale commune,  est la fusion de la veine cardinale antérieure et de la veine cardinale postérieure",
+    "colored": "Faux, le canal de Cuvier = veine cardinale commune,  est la fusion de la veine cardinale antérieure et de la veine cardinale postérieure",
+    "sourceKey": null,
+    "siteAnswer": "ACDJMNO"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "J",
+    "issues": [
+      "verdict_difference",
+      "shorter_explanation"
+    ],
+    "siteText": "Tous les vaisseaux extra-embryonnaires s’anastomosent et entrent en contact à la 4ème semaine.",
+    "sourceText": "",
+    "siteExplanation": "Vrai, formant la circulation extra-embryonnaire.",
+    "sourceDetail": "Faux, jamais dans la lame amniotique, par contre, dans les autres lames (choriales et vitelline)",
+    "colored": "Faux, jamais dans la lame amniotique, par contre, dans les autres lames (choriales et vitelline)",
+    "sourceKey": null,
+    "siteAnswer": "ACDJMNO"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "K",
+    "issues": [
+      "verdict_difference",
+      "shorter_explanation"
+    ],
+    "siteText": "Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine.",
+    "sourceText": "Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine.",
+    "siteExplanation": "Faux, elles sont toutes d’origine extra-embryonnaire jusqu’à la 6ème semaine. IWP de la lame vitelline",
+    "sourceDetail": "Vrai, formant la circulation extra-embryonnaire. Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine. Faux, elles sont",
+    "colored": "Vrai, formant la circulation extra-embryonnaire. . Faux, elles sont",
+    "sourceKey": null,
+    "siteAnswer": "ACDJMNO"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "M",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "En avant de l’embryon, on trouve 2 aortes dorsales, 2 aortes ventrales et 2 veines cardinales.",
+    "sourceText": "En avant de l’embryon, on trouve 2 aortes dorsales, 2 aortes ventrales et 2 veines cardinales.",
+    "siteExplanation": "Vrai – Veines cardinales antérieures",
+    "sourceDetail": "Faux, ce sont les artères puis les veines.",
+    "colored": "Faux, ce sont les artères puis les veines.",
+    "sourceKey": null,
+    "siteAnswer": "ACDJMNO"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "O",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le 1er arc aortique se forme à partir de la plicature des aortes dorsales.",
+    "sourceText": "Le 1er arc aortique se forme à partir de la plicature des aortes dorsales.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai – Veines cardinales postérieures",
+    "colored": "Vrai – Veines cardinales postérieures",
+    "sourceKey": null,
+    "siteAnswer": "ACDJMNO"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "P",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Les premiers ilôts sanguino-formateurs intra-embryonnaires sont dans la zone cardiogène.",
+    "sourceText": "Les premiers ilôts sanguino-formateurs intra-embryonnaires sont dans la zone cardiogène.",
+    "siteExplanation": "Faux, ils sont bien intraembryonnaires, dans la ZC J19… mais ils ne forment aucune cellule sanguine, ce sont des îlots angioformateurs. Les îlots intraembryonnaires ne sont qu’angioformateurs et jamais sanguino-formateurs.",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": "ACDJMNO"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 1,
+    "sourceNumber": 1,
+    "page": 1,
+    "item": "B",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Au cours de la prophase I de méiose, les centrioles se dupliquent et migrent pour former le fuseau de division cellulaire",
+    "sourceText": "Au cours de la prophase I de méiose, les centrioles se dupliquent et migrent pour former le fuseau de division cellulaire",
+    "siteExplanation": "Faux au cours de la phase S",
+    "sourceDetail": "Faux au cours de la phase S",
+    "colored": "Faux au cours de la phase S",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 2,
+    "sourceNumber": 2,
+    "page": 1,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les nodules de recombinaison unissent les chromatides sœurs entre elles",
+    "sourceText": "Les nodules de recombinaison unissent les chromatides non sœurs entre elles",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "non",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 3,
+    "sourceNumber": 3,
+    "page": 1,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Une spermatide et un spermatocyte II",
+    "sourceText": "Une spermatide NC et un spermatocyte II N2C",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "NC N2C",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 3,
+    "sourceNumber": 3,
+    "page": 1,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le 1er globule polaire , le 2ème globule polaire et un ovocyte II",
+    "sourceText": "Le 1er globule polaire 1N2C, le 2ème globule polaire 1N1C et un ovocyte II 1N2C",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "1N2C 1N1C 1N2C",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 5,
+    "sourceNumber": 5,
+    "page": 1,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La durée de l’ovogenèse est de 28 jours",
+    "sourceText": "La durée de l’ovogenèse du cycle ovarien est de 28 jours",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "l’ovogenèse du cycle ovarien",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 5,
+    "sourceNumber": 5,
+    "page": 1,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La reprise de la méiose de l’ovocyte I débute avant le pic de LH (Luteinizing Hormone) c’est-à-dire avant l’ovulation",
+    "sourceText": "La reprise de la méiose de l’ovocyte I débute avant après le pic de LH (Luteinizing Hormone) c’est-à-dire avant l’ovulation",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "avant après",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 6,
+    "sourceNumber": 1,
+    "page": 2,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Avant la réplication d’ADN qui précède la méiose, les cellules germinales sont toutes haploïdes.",
+    "sourceText": "Avant la réplication d’ADN qui précède la méiose, les cellules germinales sont toutes diploïdes haploïdes.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "diploïdes haploïdes",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 6,
+    "sourceNumber": 1,
+    "page": 2,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La méiose aboutit à la formation de 4 cellules filles haploïdes identiques à partir d’une cellule mère diploïde.",
+    "sourceText": "La méiose aboutit à la formation de 4 cellules filles haploïdes identiques génétiquement différentes à partir d’une cellule mère diploïde.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "identiques génétiquement différentes",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 7,
+    "sourceNumber": 2,
+    "page": 2,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "L’appariement du complexe synaptonémal se termine au cours de la prophase II, stade pachytène.",
+    "sourceText": "L’appariement du complexe synaptonémal se termine au cours de la prophase 1 2, stade pachytène.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "prophase 1 2",
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 10,
+    "sourceNumber": 5,
+    "page": 2,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "L’ovogénèse est un phénomène discontinu qui débute 8ème semaine du développement embryonnaire.",
+    "sourceText": "L’ovogénèse est un phénomène discontinu qui débute avec la différenciation de la crête génitale à la 8ème semaine à 21 J du développement embryonnaire. (HP)",
+    "siteExplanation": "HP)",
+    "sourceDetail": "",
+    "colored": "avec la différenciation de la crête génitale à la 8ème semaine à 21 J (HP)",
+    "sourceKey": "BDE",
+    "siteAnswer": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "sourceNumber": 2,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Au stade Zygotène de la prophase I, les échanges intrachromosomiques débutent.",
+    "sourceText": "Au stade Zygotène Pachytène de la prophase I, les échanges intrachromosomiques débutent.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "Zygotène Pachytène",
+    "sourceKey": "DE",
+    "siteAnswer": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "sourceNumber": 3,
+    "page": 3,
+    "item": "E",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "L’ovocyte II en métaphase II et le spermatozoïde.",
+    "sourceText": "L’ovocyte II en métaphase II et le spermatozoïde.",
+    "siteExplanation": "Faux",
+    "sourceDetail": "Faux",
+    "colored": "Faux",
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "sourceNumber": 4,
+    "page": 3,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les centrioles proximal et distal sont constitués de doublets de microtubules.",
+    "sourceText": "Les centrioles proximal et distal sont constitués de doublets triplets de microtubules.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "doublets triplets",
+    "sourceKey": null,
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "sourceNumber": 2,
+    "page": 4,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les centromères se dédoublent au cours de la prophase II.",
+    "sourceText": "Les centromères se dédoublent au cours de la prophase métaphase II.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "métaphase",
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "sourceNumber": 5,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le 1er et le 2ème globule polaire sont des cellules haploïdes contenant N chromosomes.",
+    "sourceText": "Le 1er (N2C) et le 2ème globule (NC) polaire sont des cellules haploïdes contenant N chromosomes.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "(N2C) (NC)",
+    "sourceKey": "ABCDE",
+    "siteAnswer": "ABCDE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "sourceNumber": 1,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Au cours de la prophase I, au stade diplotène, la chromatine est condensée, l’ADN se réplique en ARN.",
+    "sourceText": "Au cours de la prophase I, au stade diplotène, la chromatine est décondensée condensée, l’ADN se réplique en ARN.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "décondensée condensée",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "sourceNumber": 2,
+    "page": 6,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les spermatocytes II et les spermatides sont des cellules haploïdes, ce sont des gamètes.",
+    "sourceText": "Les spermatocytes II et les spermatides sont des cellules haploïdes, ce ne sont pas des gamètes.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "ne pas",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "sourceNumber": 2,
+    "page": 6,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le centriole proximal est constitué de 9 doublets périphériques et le centriole distal de 9 triplets périphériques et d’un triplet central.",
+    "sourceText": "Le centriole proximal est constitué de 9 doublets périphériques triplets et le centriole distal de 9 triplets doublets périphériques et d’un triplet doublet central.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "doublets périphériques triplets triplets doublets triplet doublet",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "sourceNumber": 3,
+    "page": 6,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La méiose débute à la 8ème semaine du développement embryonnaire.",
+    "sourceText": "La méiose débute au 3e mois  à la 8ème semaine du développement embryonnaire.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "au 3 e mois à la 8ème semaine",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "sourceNumber": 2,
+    "page": 7,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "A la fin de la première division de méiose, les gamètes obtenus possèdent un chromosome a une chromatide X et un chromosome à une chromatide Y",
+    "sourceText": "A la fin de la première division de méiose, les gamètes obtenus possèdent un chromosome a une 2 chromatides X et un chromosome à une 2 chromatides Y item entièrement",
+    "siteExplanation": "faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)",
+    "sourceDetail": "faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)",
+    "colored": "une 2 s une 2 s item entièrement faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "sourceNumber": 19,
+    "page": 7,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les deux cellules formées suite à la première division de méiose contiennent deux chromosomes X et deux chromosomes Y à une chromatide.",
+    "sourceText": "Les deux cellules formées suite à la première division de méiose contiennent deux chromosomes X et deux chromosomes Y à une chromatide.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Dans ce cas, une cellule contiendra un chromosome X et un chromosome Y à deux chromatides pendant que l’autre cellule ne contiendra pas de gonosome.",
+    "colored": "",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "sourceNumber": 19,
+    "page": 7,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "A la fin de la deuxième division de méiose, deux cellules contiennent un chromosome X et un chromosome Y avec une chromatide.",
+    "sourceText": "A la fin de la deuxième division de méiose, deux cellules contiennent un chromosome X et un chromosome Y avec une chromatide.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "sourceNumber": 19,
+    "page": 7,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "A la fin de la deuxième division de méiose, deux cellules ne contiennent pas de chromosome sexuel.",
+    "sourceText": "A la fin de la deuxième division de méiose, deux cellules ne contiennent pas de chromosome sexuel.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "sourceNumber": 19,
+    "page": 7,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le caryotype 45, X0 est à l’origine du syndrome de Klinefelter.",
+    "sourceText": "Le caryotype 45, X0 est à l’origine du syndrome de Klinefelter.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Le caryotype 45, XO correspond au syndrome de Turner. Le syndrome de Klinefelter correspond au caryotype 47, XXY",
+    "colored": "",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "sourceNumber": 20,
+    "page": 7,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le centriole proximal est formé de neuf triplets de microtubules et ne contient pas de tubules centraux.",
+    "sourceText": "Le centriole proximal est formé de neuf triplets de microtubules et ne contient pas de tubules centraux.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "sourceNumber": 20,
+    "page": 7,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le centriole distal est à l’origine de l’axonème qui est présent uniquement dans la pièce intermédiaire et dans la pièce principale du flagelle du spermatozoïde.",
+    "sourceText": "Le centriole distal est à l’origine de l’axonème qui est présent uniquement dans la pièce intermédiaire et dans la pièce principale du flagelle du spermatozoïde.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : L’axonème vient bien du centriole distal, mais il est présent dans la pièce principale, intermédiaire et terminale du flagelle.",
+    "colored": "",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "sourceNumber": 20,
+    "page": 7,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le syndrome de Kartagener est lié à une absence des bras de dynéine internes et externes.",
+    "sourceText": "Le syndrome de Kartagener est lié à une absence des bras de dynéine internes et externes.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Le syndrome de Kartagener est lié à l’absence des bras de dynéine externe.",
+    "colored": "",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "sourceNumber": 20,
+    "page": 7,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les mitochondries forment un manchon périphérique au niveau de la pièce intermédiaire du flagelle afin d’apporter l’énergie nécessaire à la mobilité du spermatozoïde.",
+    "sourceText": "Les mitochondries forment un manchon périphérique au niveau de la pièce intermédiaire du flagelle afin d’apporter l’énergie nécessaire à la mobilité du spermatozoïde.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "sourceNumber": 21,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les cellules germinales primordiales puis les ovogonies se multiplient par mitose durant toute la vie de l’individu.",
+    "sourceText": "Les cellules germinales primordiales puis les ovogonies se multiplient par mitose durant toute la vie de l’individu.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : les CGP et les ovogonies ne se multiplient que durant la vie in utéro.",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "sourceNumber": 21,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "A partir du troisième trimestre de la vie intra utérine, des follicules primordiaux composés d’une unique couche de cellules folliculaires aplaties et d’un ovocyte se forment.",
+    "sourceText": "A partir du troisième trimestre de la vie intra utérine, des follicules primordiaux composés d’une unique couche de cellules folliculaires aplaties et d’un ovocyte se forment.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : les ovogonies subissent une folliculogénèse à partir du troisième mois de la vie intra utérine.",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "sourceNumber": 21,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "L’ovocyte au sein du follicule primordial est bloqué en prophase de la deuxième division de méiose.",
+    "sourceText": "L’ovocyte au sein du follicule primordial est bloqué en prophase de la deuxième division de méiose.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : l’ovocyte au sein du follicule primordial est bloqué en prophase de la première division de méiose.",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "sourceNumber": 21,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Pendant la phase de maturation et de croissance de l’ovocyte, il y a une forte synthèse d’ARN maternels.",
+    "sourceText": "Pendant la phase de maturation et de croissance de l’ovocyte, il y a une forte synthèse d’ARN maternels.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "sourceNumber": 21,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le blocage de l’ovocyte en métaphase de la deuxième division de méiose est lié à la présence du facteur OMI sécrété par les cellules folliculaires.",
+    "sourceText": "Le blocage de l’ovocyte en métaphase de la deuxième division de méiose est lié à la présence du facteur OMI sécrété par les cellules folliculaires.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : ce sont des facteurs cytoplasmiques ovocytaires qui bloquent l’ovocyte en métaphase II. Le facteur OMI secrété par les cellules folliculeuses sert au blocage en prophase I.",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "sourceNumber": 1,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la division réductionnelle de la méiose permet la formation de deux cellules filles haploïdes",
+    "sourceText": "la division réductionnelle de la méiose permet la formation de deux cellules filles haploïdes",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "sourceNumber": 1,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la division équationnelle de la méiose est précédée d’une réplication de l’ADN",
+    "sourceText": "la division équationnelle de la méiose est précédée d’une réplication de l’ADN",
+    "siteExplanation": "",
+    "sourceDetail": "Faux pas de réplication avant M2",
+    "colored": "",
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "sourceNumber": 1,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "lors de la prophase I de la méiose I, la synthèse d’ARN a lieu lorsque l’ADN est décondensé",
+    "sourceText": "lors de la prophase I de la méiose I, la synthèse d’ARN a lieu lorsque l’ADN est décondensé",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "sourceNumber": 1,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la vésicule sexuelle est présente uniquement lors de la prophase I de la méiose I des garçons",
+    "sourceText": "la vésicule sexuelle est présente uniquement lors de la prophase I de la méiose I des garçons",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "sourceNumber": 1,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’attachement du bivalent XY se fait par les régions pseudo autosomales des deux extrémités des chromosomes (X et Y) PAR 1 et PAR2",
+    "sourceText": "l’attachement du bivalent XY se fait par les régions pseudo autosomales des deux extrémités des chromosomes (X et Y) PAR 1 et PAR2",
+    "siteExplanation": "",
+    "sourceDetail": "Faux uniquement par PAR 1",
+    "colored": "",
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "sourceNumber": 2,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "après la première division de méiose, les deux chromosomes à une chromatide sont présents dans une cellule fille et aucun chromosome n’est présent dans l’autre cellule fille",
+    "sourceText": "après la première division de méiose, les deux chromosomes à une chromatide sont présents dans une cellule fille et aucun chromosome n’est présent dans l’autre cellule fille",
+    "siteExplanation": "",
+    "sourceDetail": "Faux les chromosomes auront 2 chromatides",
+    "colored": "",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "sourceNumber": 2,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "après la première division de méiose, les deux cellules filles sont aneuploïdes",
+    "sourceText": "après la première division de méiose, les deux cellules filles sont aneuploïdes",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "sourceNumber": 2,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "après la deuxième division de méiose, les quatre cellules filles sont aneuploïdes",
+    "sourceText": "après la deuxième division de méiose, les quatre cellules filles sont aneuploïdes",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "sourceNumber": 2,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "après la deuxième division de méiose deux cellules filles sont disomiques et deux cellules filles sont nullisomiques pour la paire de chromosomes concernée",
+    "sourceText": "après la deuxième division de méiose deux cellules filles sont disomiques et deux cellules filles sont nullisomiques pour la paire de chromosomes concernée",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "sourceNumber": 2,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "après l’étape de fécondation, les caryotypes des zygotes sont normaux",
+    "sourceText": "après l’étape de fécondation, les caryotypes des zygotes sont normaux",
+    "siteExplanation": "",
+    "sourceDetail": "Faux ils seront monosémiques ou trisomiques",
+    "colored": "",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "sourceNumber": 3,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le noyau du spermatozoïde est situé dans la tête, coiffé par l’acrosome dont l’origine est l’appareil de Golgi",
+    "sourceText": "le noyau du spermatozoïde est situé dans la tête, coiffé par l’acrosome dont l’origine est l’appareil de Golgi",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "sourceNumber": 3,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le centriole proximal permet notamment la cohésion de la tête au flagelle",
+    "sourceText": "le centriole proximal permet notamment la cohésion de la tête au flagelle",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "sourceNumber": 3,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le centriole proximal est composé de 9 triplets de microtubules et d’un triplet central",
+    "sourceText": "le centriole proximal est composé de 9 triplets de microtubules et d’un triplet central",
+    "siteExplanation": "",
+    "sourceDetail": "Faux pas de centraux dans les centrioles",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "sourceNumber": 3,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’axonème a pour origine le centriole distal",
+    "sourceText": "l’axonème a pour origine le centriole distal",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "sourceNumber": 3,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’axonème a un rôle dans la première division embryonnaire après la fécondation",
+    "sourceText": "l’axonème a un rôle dans la première division embryonnaire après la fécondation",
+    "siteExplanation": "",
+    "sourceDetail": "Faux c’est le centriole proximal",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "sourceNumber": 4,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le follicule primaire est constitué d’un ovocyte bloqué en métaphase I de la méiose I et d’une couche de cellules folliculaires cubiques",
+    "sourceText": "le follicule primaire est constitué d’un ovocyte bloqué en métaphase I de la méiose I et d’une couche de cellules folliculaires cubiques",
+    "siteExplanation": "",
+    "sourceDetail": "Faux bloqué en diplotène prophase I",
+    "colored": "",
+    "sourceKey": "DE",
+    "siteAnswer": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "sourceNumber": 4,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’achèvement de la méiose a lieu lors de la fécondation de l’ovocyte par un spermatozoïde",
+    "sourceText": "l’achèvement de la méiose a lieu lors de la fécondation de l’ovocyte par un spermatozoïde",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "DE",
+    "siteAnswer": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "sourceNumber": 4,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la majorité des follicules contenus dans le cortex ovarien vont disparaitre par atrésie",
+    "sourceText": "la majorité des follicules contenus dans le cortex ovarien vont disparaitre par atrésie",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "DE",
+    "siteAnswer": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "sourceNumber": 1,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La division réductionnelle de la méiose permet la formation de 2 cellules filles haploïdes",
+    "sourceText": "La division réductionnelle de la méiose permet la formation de 2 cellules filles haploïdes",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "sourceNumber": 1,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Lors de la prophase I, l'appariement des chromosomes homologues se fait au niveau des centromères",
+    "sourceText": "Lors de la prophase I, l'appariement des chromosomes homologues se fait au niveau des centromères",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : l’appariement des chromosomes homologues lors de la prophase I se fait sur l’ensemble des chromosomes grâce au complexe synaptonémal et non uniquement sur les centromères",
+    "colored": "",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "sourceNumber": 1,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La division équationnelle est précédée par une réplication d'ADN",
+    "sourceText": "La division équationnelle est précédée par une réplication d'ADN",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : SEULE la division réductionnelle (la première division) est précédée d’une réplication",
+    "colored": "",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "sourceNumber": 1,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le crossing-over est un mécanisme qui se déroule pendant la métaphase I uniquement",
+    "sourceText": "Le crossing-over est un mécanisme qui se déroule pendant la métaphase I uniquement",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Les crossing-over se déroulent uniquement en prophase I",
+    "colored": "",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "sourceNumber": 1,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La vésicule sexuelle est un élément transitoire de la méiose chez les garçons.",
+    "sourceText": "La vésicule sexuelle est un élément transitoire de la méiose chez les garçons",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : La vésicule sexuelle est bien un élément temporaire de la méiose chez les garçons. Elle apparaît à la phase zygotène (prophase I) et disparaît lors de la diacinèse (prophase I)",
+    "colored": "",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 1,
+    "sourceNumber": 6,
+    "page": 1,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La capacitation a lieu au cours du transit épididymaire",
+    "sourceText": "La capacitation décapacitation a lieu au cours du transit épididymaire",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "capacitation décapacitation",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 2,
+    "sourceNumber": 7,
+    "page": 1,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La maturation de l’ovocyte se poursuit après le pic de LH qui déclenche l’ovulation",
+    "sourceText": "La maturation de l’ovocyte se poursuit débute après le pic de LH qui déclenche l’ovulation",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "se poursuit débute",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 2,
+    "sourceNumber": 7,
+    "page": 1,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "L’émission du 2ème globule polaire a lieu au cours de la réaction acrosomique des spermatozoïdes",
+    "sourceText": "L’émission du 2ème globule polaire a lieu au cours après de la réaction acrosomique des spermatozoïdes : après fusion des membranes plasmiques du spermatozoïde et de l’ovocyte, donc le spermatozoïde a déjà réalisé sa réaction acrosomique",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "au cours après après fusion des membranes plasmiques du spermatozoïde et de l’ovocyte, donc le spermatozoïde a déjà réalisé sa réaction acrosomique",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 3,
+    "sourceNumber": 8,
+    "page": 1,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La syngamie correspond à une disparition des enveloppes cytoplasmiques des pronoyaux",
+    "sourceText": "La syngamie correspond à une disparition des enveloppes cytoplasmiques nucléaires des pronoyaux",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "cytoplasmiques nucléaires",
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "sourceNumber": 6,
+    "page": 1,
+    "item": "A",
+    "issues": [
+      "statement_difference",
+      "header_key_difference"
+    ],
+    "siteText": "Les molécules membranaires du spermatozoïde sont acquises soit au cours de la spermiogenèse , soit au cours du transit épididymaire.",
+    "sourceText": "Le mouvement linéaire des spermatozoïdes est acquis au cours du transit épididymaire.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": null
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "sourceNumber": 6,
+    "page": 1,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le mouvement linéaire des spermatozoïdes est acquis au cours du transit épididymaire.",
+    "sourceText": "",
+    "siteExplanation": "Item absent de l’extraction puis rétabli depuis le PDF. La lettre A est dupliquée dans la source, dont la clé globale ABD reste ambiguë.",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABD",
+    "siteAnswer": null
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "sourceNumber": 6,
+    "page": 1,
+    "item": "B",
+    "issues": [
+      "statement_difference",
+      "header_key_difference"
+    ],
+    "siteText": "Au cours de la capacitation , la chromatine des spermatozoïdes se condense et des ponts disulfures s’établissent entre les histones.",
+    "sourceText": "Au cours de la capacitation décapacitation, la chromatine des spermatozoïdes se condense et des ponts disulfures s’établissent entre les histones.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "capacitation décapacitation",
+    "sourceKey": "ABD",
+    "siteAnswer": null
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "sourceNumber": 6,
+    "page": 1,
+    "item": "D",
+    "issues": [
+      "header_key_difference"
+    ],
+    "siteText": "Le mouvement hyperactif des spermatozoïdes est secondaire à un afflux de calcium et à une inversion des rapports stérols/phospholipides au niveau de la membrane acrosomique",
+    "sourceText": "Le mouvement hyperactif des spermatozoïdes est secondaire à un afflux de calcium et à une inversion des rapports stérols/phospholipides au niveau de la membrane acrosomique plasmique",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "acrosomique plasmique",
+    "sourceKey": "ABD",
+    "siteAnswer": null
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 5,
+    "sourceNumber": 7,
+    "page": 2,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La fixation primaire des spermatozoïdes à la zone pellucide est réversible et nécessite un afflux de calcium.",
+    "sourceText": "La fixation primaire des spermatozoïdes à la zone pellucide est réversible et nécessite provoque un afflux de calcium.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "nécessite provoque",
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 6,
+    "sourceNumber": 8,
+    "page": 2,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le centriole distal du spermatozoïde intervient au cours de l’amphimixie et est à l’origine du 1er fuseau de division cellulaire.",
+    "sourceText": "Le centriole distal proximal du spermatozoïde intervient au cours de l’amphimixie et est à l’origine du 1er fuseau de division cellulaire.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "distal proximal",
+    "sourceKey": "ABCE",
+    "siteAnswer": "ABCE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "sourceNumber": 6,
+    "page": 2,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Au cours du transit épididymaire , les antigènes de surface du spermatozoïde, impliqués dans la reconnaissance des gamètes sont démasqués.",
+    "sourceText": "Au cours du transit épididymaire de la capacitation, les antigènes de surface du spermatozoïde, impliqués dans la reconnaissance des gamètes sont démasqués.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "du transit épididymaire de la capacitation",
+    "sourceKey": "AE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "sourceNumber": 7,
+    "page": 2,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La liaison primaire des spermatozoïdes à la zone pellucide nécessite un afflux de calcium, elle est irréversible",
+    "sourceText": "La liaison primaire des spermatozoïdes à la zone pellucide nécessite provoque un afflux de calcium, elle est irréversible réversible",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "nécessite provoque irréversible réversible",
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "sourceNumber": 8,
+    "page": 3,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "L’exocytose des granules corticaux de l’ovocyte précède la réaction acrosomique des spermatozoïdes.",
+    "sourceText": "L’exocytose des granules corticaux de l’ovocyte précède suit la réaction acrosomique des spermatozoïdes.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "précède suit",
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "sourceNumber": 6,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les spermatozoïdes s’immobilisent dans le corps de l’épididyme.",
+    "sourceText": "Les spermatozoïdes s’immobilisent dans le corps queue de l’épididyme.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "corps queue",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "sourceNumber": 7,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "L’exocytose des granules corticaux précède la réaction acrosomique.",
+    "sourceText": "L’exocytose des granules corticaux précède suit la réaction acrosomique. (C’est l’inverse)",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "précède suit (C’est l’inverse)",
+    "sourceKey": "ACDE",
+    "siteAnswer": "ACDE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "sourceNumber": 8,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La fusion membranaire entre l’ovocyte et le spermatozoïde met en jeu une réaction type ligand récepteur entre la membrane interne de l’acrosome et la membrane plasmique de l’ovocyte.",
+    "sourceText": "La fusion membranaire entre l’ovocyte et le spermatozoïde met en jeu une réaction type ligand récepteur entre la membrane interne de l’acrosome plasmique de la cape et la membrane plasmique de l’ovocyte.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "interne de l’acrosome plasmique de la cape",
+    "sourceKey": "ABC",
+    "siteAnswer": "ABC"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "sourceNumber": 4,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Au cours du transit épididymaire , les histones sont remplacées par les protamines.",
+    "sourceText": "Au cours du transit épididymaire de la spermiogenèse, les histones sont remplacées par les protamines. Lors du transit épididymaire, ce sont les ponts disulfures qui se forment entre les cys des protamines",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "du transit épididymaire de la spermiogenèse Lors du transit épididymaire, ce sont les ponts disulfures qui se forment entre les cys des protamines",
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "sourceNumber": 5,
+    "page": 4,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La fusion des gamètes lève le blocage en prophase I de la méiose ovocytaire.",
+    "sourceText": "La fusion des gamètes lève le blocage en prophase I métaphase II de la méiose ovocytaire.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "prophase I métaphase II",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "sourceNumber": 4,
+    "page": 4,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La membrane plasmique d’un spermatozoïde capacité est riche en stérols : l’entrée de calcium en intra-cellulaire est ainsi facilitée.",
+    "sourceText": "La membrane plasmique d’un spermatozoïde capacité est riche pauvre en stérols : l’entrée de calcium en intra-cellulaire est ainsi facilitée.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "riche pauvre",
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "sourceNumber": 5,
+    "page": 4,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Au cours de la liaison primaire de la réaction acrosomique, la liaison des spermatozoïdes à la glycoprotéine ZP3 de la zone pellucide déclenche la réaction acrosomique.",
+    "sourceText": "Au cours de la liaison primaire de la réaction acrosomique, la liaison des spermatozoïdes à la glycoprotéine",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "sourceNumber": 4,
+    "page": 4,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La réaction acrosomique débute par une fusion des membranes plasmique et interne de l'acrosome du spermatozoïde",
+    "sourceText": "La réaction acrosomique débute par une fusion des membranes plasmique et interne externe de l'acrosome du spermatozoïde",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "interne externe",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "sourceNumber": 22,
+    "page": 5,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est spécifique d’espèce.",
+    "sourceText": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est spécifique d’espèce.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "sourceNumber": 22,
+    "page": 5,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est réversible.",
+    "sourceText": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est réversible.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "sourceNumber": 22,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La réaction acrosomique débute par la fusion de la membrane plasmique du spermatozoïde et de la membrane interne de l’acrosome.",
+    "sourceText": "La réaction acrosomique débute par la fusion de la membrane plasmique du spermatozoïde et de la membrane interne de l’acrosome.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la réaction acrosomique concerne la fusion de la membrane plasmique du spermatozoïde et la membrane externe de l’acrosome.",
+    "colored": "",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "sourceNumber": 22,
+    "page": 5,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Après la réaction acrosomique, la membrane interne de l’acrosome est exposée et permet l’externalisation du récepteur ZP1.",
+    "sourceText": "Après la réaction acrosomique, la membrane interne de l’acrosome est exposée et permet l’externalisation du récepteur ZP1.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : le ligand de la fixation secondaire étant ZP2, la réaction acrosomique permet l’externalisation de récepteurs à ZP2.",
+    "colored": "",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "sourceNumber": 22,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La liaison secondaire du spermatozoïde à la zone pellucide est irréversible.",
+    "sourceText": "La liaison secondaire du spermatozoïde à la zone pellucide est irréversible.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "sourceNumber": 1,
+    "page": 5,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’activation de l’œuf entraîne la réaction acrosomique et la reprise de la méiose",
+    "sourceText": "l’activation de l’œuf entraîne la réaction acrosomique et la reprise de la méiose",
+    "siteExplanation": "",
+    "sourceDetail": "Faux :  L’activation de l’œuf entraine la reprise de la méiose et la réaction corticale.",
+    "colored": "",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "sourceNumber": 1,
+    "page": 5,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la fusion membranaire du spermatozoïde et de l’ovocyte entraîne une augmentation du calcium intra cellulaire",
+    "sourceText": "la fusion membranaire du spermatozoïde et de l’ovocyte entraîne une augmentation du calcium intra cellulaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "sourceNumber": 1,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’exocytose des granules corticaux contenus dans l’ovocyte évite la polyspermie, c’est la réaction corticale",
+    "sourceText": "l’exocytose des granules corticaux contenus dans l’ovocyte évite la polyspermie, c’est la réaction corticale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "sourceNumber": 1,
+    "page": 5,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les aneuploïdies sont des anomalies de nombre de chromosome secondaire à une non disjonction des chromosomes à la première ou à la deuxième division de méiose",
+    "sourceText": "les aneuploïdies sont des anomalies de nombre de chromosome secondaire à une non disjonction des chromosomes à la première ou à la deuxième division de méiose",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "sourceNumber": 1,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "seuls les caryotypes ne contenant pas de X sont non viables",
+    "sourceText": "seuls les caryotypes ne contenant pas de X sont non viables",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : 1 seul chromosome 21 n’est pas viable, 4 chromosomes 1 non plus ect… (ambigu)",
+    "colored": "",
+    "sourceKey": "BCD",
+    "siteAnswer": "BCD"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "sourceNumber": 5,
+    "page": 6,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le complexe cumulo-ovocytaire est expulsé lors de l’ovulation et migre de manière passive dans l’ampoule tubaire",
+    "sourceText": "le complexe cumulo-ovocytaire est expulsé lors de l’ovulation et migre de manière passive dans l’ampoule tubaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 2,
+    "sourceNumber": 9,
+    "page": 1,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les gènes CDX2 et TEAD4 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) HP",
+    "sourceText": "Les gènes CDX2 et TEAD4 SOX2, OCT4 et NANOG sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) HP",
+    "siteExplanation": "HP",
+    "sourceDetail": "",
+    "colored": "CDX2 et TEAD4 SOX2, OCT4 et NANOG",
+    "sourceKey": "BE",
+    "siteAnswer": "BE"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "sourceNumber": 6,
+    "page": 2,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le phénomène de blastulation met en jeu un afflux de calcium, entre autres.",
+    "sourceText": "Le phénomène de blastulation met en jeu un afflux de sodium calcium, entre autres.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "sodium calcium",
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "sourceNumber": 6,
+    "page": 2,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La première division cellulaire a lieu moins de 20 heures après la fécondation.",
+    "sourceText": "La première division cellulaire a lieu moins de 20 heures dans les 30-36h après la fécondation.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "moins de 20 heures dans les 30-36h",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "sourceNumber": 5,
+    "page": 3,
+    "item": "A",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La première semaine de développement embryonnaire débute lors de l'implantation.",
+    "sourceText": "La première deuxième semaine de développement embryonnaire débute lors de l'implantation.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "première deuxième",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "sourceNumber": 6,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Un quart des zygotes n'atteint pas le stade de blastocyste",
+    "sourceText": "Un quart la moitié 50% des zygotes n'atteint pas le stade de blastocyste",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "Un quart la moitié 50%",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "sourceNumber": 23,
+    "page": 3,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "L’embryon est libre et se déplace de manière active de la trompe utérine jusqu’à la cavité utérine",
+    "sourceText": "L’embryon est libre et se déplace de manière active de la trompe utérine jusqu’à la cavité utérine",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la migration est passive",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "sourceNumber": 23,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les premiers stades de segmentation correspondent à des divisions cellulaires successives symétriques et synchrones",
+    "sourceText": "Les premiers stades de segmentation correspondent à des divisions cellulaires successives symétriques et synchrones",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : les premiers stades de segmentation sont asynchrones et asymétriques",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "sourceNumber": 23,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le blastocyste est formé de la masse cellulaire interne qui représente deux tiers des cellules et du trophoblaste qui représente un tiers des cellules",
+    "sourceText": "Le blastocyste est formé de la masse cellulaire interne qui représente deux tiers des cellules et du trophoblaste qui représente un tiers des cellules",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : c’est l’inverse : Trophoblaste = 2/3 des cellules et masse cellulaire interne = 1/3 des cellules",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "sourceNumber": 23,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les cellules trophoblastiques permettent l’accumulation de sodium dans le blastocèle afin d’entrainer une entrée d’eau et une augmentation du diamètre du blastocèle",
+    "sourceText": "Les cellules trophoblastiques permettent l’accumulation de sodium dans le blastocèle afin d’entrainer une entrée d’eau et une augmentation du diamètre du blastocèle",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "sourceNumber": 23,
+    "page": 3,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La membrane plasmique apicale des cellules trophoblastiques possède des pompes Na+/K+ ATPase.",
+    "sourceText": "La membrane plasmique apicale des cellules trophoblastiques possède des pompes Na+/K+ ATPase",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : sur la membrane apicale des cellules on trouve des échangeurs Na+/H+ (les pompes sont situées sur la membrane latéro-basale)",
+    "colored": "",
+    "sourceKey": "D",
+    "siteAnswer": "D"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "sourceNumber": 2,
+    "page": 4,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la grossesse extra utérine correspond à un défaut de migration de l’embryon au sein de la trompe utérine",
+    "sourceText": "la grossesse extra utérine correspond à un défaut de migration de l’embryon au sein de la trompe utérine",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : l’embryon qui n’a pas migré correctement lors de son trajet dans la trompe s’implante hors de la cavité utérine (trompes, ovaires).",
+    "colored": "",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "sourceNumber": 2,
+    "page": 4,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le génome embryonnaire est dit silencieux jusqu’au troisième jour de développement embryonnaire",
+    "sourceText": "le génome embryonnaire est dit silencieux jusqu’au troisième jour de développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : c’est bien à  3, lors de la TME, qu’on passe du génome maternel au génome embryonnaire.",
+    "colored": "",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "sourceNumber": 2,
+    "page": 4,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "lors de la transition materno-embryonnaire, les ARNm maternels sont consommés et les ARNm embryonnaires commencent à être synthétisés",
+    "sourceText": "lors de la transition materno-embryonnaire, les ARNm maternels sont consommés et les ARNm embryonnaires commencent à être synthétisés",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : voir correction item B.",
+    "colored": "",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "sourceNumber": 2,
+    "page": 4,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les cellules embryonnaires au troisième jour de développement embryonnaire sont totipotentes",
+    "sourceText": "les cellules embryonnaires au troisième jour de développement embryonnaire sont totipotentes",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : en effet les cellules sont totipotentes jusqu’à  4 (=morula), où elles deviennent alors pluripotentes.",
+    "colored": "",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "sourceNumber": 6,
+    "page": 4,
+    "item": "A",
+    "issues": [
+      "header_key_difference",
+      "no_letter_block"
+    ],
+    "siteText": "la photographie 2 est un embryon au stade de segmentation",
+    "sourceText": "la photographie 2 est un embryon au stade de segmentation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABC(D)E",
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "sourceNumber": 6,
+    "page": 4,
+    "item": "B",
+    "issues": [
+      "header_key_difference",
+      "no_letter_block"
+    ],
+    "siteText": "la photographie 3 est un embryon au stade de morula",
+    "sourceText": "la photographie 3 est un embryon au stade de morula",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABC(D)E",
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "sourceNumber": 6,
+    "page": 4,
+    "item": "C",
+    "issues": [
+      "header_key_difference",
+      "no_letter_block"
+    ],
+    "siteText": "la photographie 4 est un blastocyste composé d’une masse cellulaire interne et d’un trophoblaste",
+    "sourceText": "la photographie 4 est un blastocyste composé d’une masse cellulaire interne et d’un trophoblaste",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABC(D)E",
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "sourceNumber": 6,
+    "page": 4,
+    "item": "D",
+    "issues": [
+      "header_key_difference"
+    ],
+    "siteText": "le diamètre de l’embryon de la photographie 2 est inférieur au diamètre de l’embryon de la photographie 4",
+    "sourceText": "le diamètre de l’embryon de la photographie 2 est inférieur au diamètre de l’embryon de la photographie 4",
+    "siteExplanation": "Ambigu selon la source : le corrigé distingue la croissance de l’œuf et la formulation portant sur le diamètre de l’embryon.",
+    "sourceDetail": "",
+    "colored": "",
+    "sourceKey": "ABC(D)E",
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "sourceNumber": 6,
+    "page": 4,
+    "item": "E",
+    "issues": [
+      "header_key_difference",
+      "no_letter_block"
+    ],
+    "siteText": "le blastocyste se forme à partir du 5ème jour de développement embryonnaire",
+    "sourceText": "le blastocyste se forme à partir du 5ème jour de développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABC(D)E",
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 1,
+    "sourceNumber": 10,
+    "page": 1,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Au cours de la 2ème semaine du DE coexistent la cavité amniotique, le lécithocèle primaire et le cœlome extra embryonnaire",
+    "sourceText": "Au cours de la 2ème semaine du DE coexistent la cavité amniotique, le lécithocèle secondaire primaire et le cœlome extra embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "secondaire primaire",
+    "sourceKey": "A",
+    "siteAnswer": "A"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 3,
+    "sourceNumber": 10,
+    "page": 1,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le lécithocèle secondaire se forme en même temps que la cavité amniotique",
+    "sourceText": "Le lécithocèle secondaire J11 se forme en même temps que la cavité amniotique J8",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "J11 en même temps J8",
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 4,
+    "sourceNumber": 10,
+    "page": 1,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La formation du disque didermique précède la formation du lécithocèle primaire.",
+    "sourceText": "La formation du disque didermique J7 précède la formation du lécithocèle primaire. J9",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "J7 J9",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "sourceNumber": 10,
+    "page": 2,
+    "item": "B",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "A J8, la cavité amniotique et le lécithocèle primaire sont constitués, le mésenchyme extra embryonnaire prolifère",
+    "sourceText": "A J8, la cavité amniotique et le lécithocèle primaire à J9 sont constitués, le mésenchyme extra embryonnaire prolifère à J8-J9",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "et le lécithocèle primaire à J9 à J8-J9",
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "sourceNumber": 10,
+    "page": 2,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "A J11, les lames mésenchymateuses sont en place et les lacunes du syncytiotrophoblaste sont remplies de sang maternel",
+    "sourceText": "A J11, A J 13 les lames mésenchymateuses sont en place et les lacunes du syncytiotrophoblaste sont remplies de sang maternel à J10",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "A J11, A J 13 à J10",
+    "sourceKey": "ACD",
+    "siteAnswer": "ACD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "sourceNumber": 7,
+    "page": 2,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Les trois cavités suivantes : la cavité amniotique, le lécithocèle primaire, le cœlome externe.",
+    "sourceText": "Les trois cavités suivantes : la cavité amniotique, le lécithocèle secondaire primaire, le cœlome externe.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "secondaire primaire",
+    "sourceKey": "B",
+    "siteAnswer": "B"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "sourceNumber": 7,
+    "page": 2,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le disque didermique est constitué par l’ectoblaste et l’entoblaste.",
+    "sourceText": "Le disque didermique est constitué par l’ectoblaste et l’hypoblaste l’entoblaste.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "l’hypoblaste l’entoblaste",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "sourceNumber": 7,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "Le cytotrophoblaste est issu du trophoblaste et est composé de grandes cellules multi nucléées sécrétant des collagénases.",
+    "sourceText": "Le cytotrophoblaste syncytiotrophoblaste est issu du trophoblaste et est composé de grandes cellules multi nucléées sécrétant des collagénases.",
+    "siteExplanation": "",
+    "sourceDetail": "",
+    "colored": "cytotrophoblaste syncytiotrophoblaste",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "sourceNumber": 24,
+    "page": 3,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "L’implantation débute lors de la deuxième semaine du développement embryonnaire au cours de la phase lutéale du cycle menstruel",
+    "sourceText": "L’implantation débute lors de la deuxième semaine du développement embryonnaire au cours de la phase lutéale du cycle menstruel",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "sourceNumber": 24,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le blastocyste éclot et s’implante dans l’endomètre en regard de la masse cellulaire interne",
+    "sourceText": "Le blastocyste éclot et s’implante dans l’endomètre en regard de la masse cellulaire interne",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "sourceNumber": 24,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le trophoblaste se différencie notamment en cytotrophoblaste qui envahi l’endomètre",
+    "sourceText": "Le trophoblaste se différencie notamment en cytotrophoblaste qui envahi l’endomètre",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : c’est le syncytiotrophoblaste qui envahi l’endomètre",
+    "colored": "",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "sourceNumber": 24,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le disque didermique est formé de l’épiblaste dans la partie ventrale et l’hypoblaste dans la partie dorsale",
+    "sourceText": "Le disque didermique est formé de l’épiblaste dans la partie ventrale et l’hypoblaste dans la partie dorsale",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : c’est l’inverse : Épiblaste = dorsal et hypoblaste = ventral",
+    "colored": "",
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "sourceNumber": 24,
+    "page": 3,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le disque didermique, vu de dessus, a une forme de raquette à la fin de la deuxième semaine du développement embryonnaire",
+    "sourceText": "Le disque didermique, vu de dessus, a une forme de raquette à la fin de la deuxième semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABE",
+    "siteAnswer": "ABE"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "sourceNumber": 25,
+    "page": 3,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les cellules du mésenchyme extra embryonnaire prolifèrent jusqu’à remplir l’ensemble du blastocèle au sixième jour du développement embryonnaire",
+    "sourceText": "Les cellules du mésenchyme extra embryonnaire prolifèrent jusqu’à remplir l’ensemble du blastocèle au sixième jour du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la prolifération à lieu au 8e jour",
+    "colored": "",
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "sourceNumber": 25,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Au 11ème jour du développement embryonnaire, le magma réticulé se résorbe totalement",
+    "sourceText": "Au 11ème jour du développement embryonnaire, le magma réticulé se résorbe totalement",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : à J11, le magma réticulé commence à se résorber mais il est encore présent",
+    "colored": "",
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "sourceNumber": 25,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Trois lames mésenchymateuses persistent à la fin de la deuxième semaine du développement embryonnaire : la lame choriale, la lame amniotique et la lame vitelline",
+    "sourceText": "Trois lames mésenchymateuses persistent à la fin de la deuxième semaine du développement embryonnaire : la lame choriale, la lame amniotique et la lame vitelline",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "sourceNumber": 25,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Durant la deuxième semaine du développement embryonnaire, la règle du tout ou rien s’applique",
+    "sourceText": "Durant la deuxième semaine du développement embryonnaire, la règle du tout ou rien s’applique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "sourceNumber": 25,
+    "page": 3,
+    "item": "E",
+    "issues": [
+      "statement_difference",
+      "shorter_explanation"
+    ],
+    "siteText": "Les grossesses bichoriales biamniotiques sont toujours des grossesses gémellaires dizygotes.",
+    "sourceText": "Les grossesses bichoriales biamniotiques sont toujours des grosses géméllaires dizygote",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : grossesses bichoriales biamniotiques = 2 placentas et 2 poches amitotiques différents. On a deux cas de figure possibles : - Soit il y a eu double ovulation (70%), on a donc 2 cellules œuf, qui donneront chacun leur placenta et leurs poches amniotiques. Les jumeaux seront dizygotes. - Soit il y a eu une seule ovulation (30%), donc une cellule œuf, mais celle-ci va se diviser pendant la phase de segmentation, on aura alors 2 placentas et 2 poches amniotiques différents, et des jumeaux monozygotes.",
+    "colored": "",
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "sourceNumber": 7,
+    "page": 4,
+    "item": "A",
+    "issues": [
+      "statement_difference",
+      "no_letter_block"
+    ],
+    "siteText": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11.",
+    "sourceText": "",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "sourceNumber": 7,
+    "page": 4,
+    "item": "B",
+    "issues": [
+      "statement_difference",
+      "no_letter_block"
+    ],
+    "siteText": "La légende 2 représente la lame choriale.",
+    "sourceText": "",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "sourceNumber": 7,
+    "page": 4,
+    "item": "C",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La légende 3 représente la lame vitelline en position caudale.",
+    "sourceText": "",
+    "siteExplanation": "Faux position crâniale ou rostrale",
+    "sourceDetail": "Faux position crâniale ou rostrale",
+    "colored": "",
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "sourceNumber": 7,
+    "page": 4,
+    "item": "D",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La légende 5 représente le cytotrophoblaste.",
+    "sourceText": "",
+    "siteExplanation": "Faux syncytiotrophoblaste",
+    "sourceDetail": "Faux syncytiotrophoblaste",
+    "colored": "",
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "sourceNumber": 7,
+    "page": 4,
+    "item": "E",
+    "issues": [
+      "statement_difference"
+    ],
+    "siteText": "La légende 6 représente le syncytiotrophoblaste.",
+    "sourceText": "",
+    "siteExplanation": "Faux cytotrophoblaste",
+    "sourceDetail": "Faux cytotrophoblaste",
+    "colored": "",
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "sourceNumber": 3,
+    "page": 5,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11",
+    "sourceText": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11",
+    "siteExplanation": "Vrai : lacunes apparues à J9, remplies secondairement.",
+    "sourceDetail": "Vrai : les lacunes apparaissent à J9 (vides), commencent à se remplir à J11 et sont complètement remplies à J13",
+    "colored": "",
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "sourceNumber": 3,
+    "page": 5,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le 2 représente la lame chorale",
+    "sourceText": "Le 2 représente la lame chorale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "AB",
+    "siteAnswer": "AB"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 20,
+    "sourceNumber": 9,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Au cours de la gastrulation, la taille du disque embryonnaire a doublé.",
+    "sourceText": "Au cours de la gastrulation, la taille du disque embryonnaire a doublé.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": ". Vrai",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 27,
+    "sourceNumber": 26,
+    "page": 7,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La barrière placentaire se met en place avec la formation des villosités primaires.",
+    "sourceText": "La barrière placentaire se met en place avec la formation des villosités primaires.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la barrière placentaire se met en place à la fin de la 3ème SDE avec l’apparition des premiers vaisseaux dans les villosités du placentas diffus et pas avec l’apparition des villosités primaires.",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 27,
+    "sourceNumber": 26,
+    "page": 7,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La coque cytotrophoblastique limite l’expansion du syncytiotrophoblaste au sein de l’endomètre.",
+    "sourceText": "La coque cytotrophoblastique limite l’expansion du syncytiotrophoblaste au sein de l’endomètre.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 27,
+    "sourceNumber": 26,
+    "page": 7,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les hématies qui circulent dans les vaisseaux villositaires sont nucléées et contiennent une hémoglobine constituée de 2 sous-unités alpha et 2 sous-unités gamma.",
+    "sourceText": "Les hématies qui circulent dans les vaisseaux villositaires sont nucléées et contiennent une hémoglobine constituée de 2 sous-unités alpha et 2 sous-unités gamma.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 27,
+    "sourceNumber": 26,
+    "page": 7,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les îlots de Wolff et Pander sont uniquement angio-formateurs.",
+    "sourceText": "Les îlots de Wolff et Pander sont uniquement angio-formateurs.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux sanguino formateur aussi",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 27,
+    "sourceNumber": 26,
+    "page": 7,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La couche spongieuse de l’endomètre est le siège de la réaction déciduale.",
+    "sourceText": "La couche spongieuse de l’endomètre est le siège de la réaction déciduale.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : c’est la couche superficielle (ou compacte ou zone fonctionnelle) qui est modifiée par la réaction déciduale.",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 28,
+    "sourceNumber": 27,
+    "page": 7,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La ligne primitive a une taille constante et disparait au cours de la 5ème semaine du développement embryonnaire.",
+    "sourceText": "La ligne primitive a une taille constante et disparait au cours de la 5ème semaine du développement embryonnaire.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la ligne primitive va disparaitre durant la 4ème semaine du DE pour donner le bourgeon caudal.",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 28,
+    "sourceNumber": 27,
+    "page": 7,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La mise en place du chordo-mésoblaste débute au 16ème jour du développement embryonnaire.",
+    "sourceText": "La mise en place du chordo-mésoblaste débute au 16ème jour du développement embryonnaire.",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : la mise en place du chordo-mésoblaste a lieu durant la gastrulation, c’est-à-dire à partir de la 3 ème semaine du DE.",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 28,
+    "sourceNumber": 27,
+    "page": 7,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les membranes pharyngienne et cloacale conservent une structure didermique après la gastrulation.",
+    "sourceText": "Les membranes pharyngienne et cloacale conservent une structure didermique après la gastrulation.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 28,
+    "sourceNumber": 27,
+    "page": 7,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "L’entoblaste se forme en même temps que le mésoblaste.",
+    "sourceText": "L’entoblaste se forme en même temps que le mésoblaste.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la formation de l’entoblaste (première vague de migration cellulaire) précède celle du mésoblaste (deuxième vague de migration cellulaire).",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 28,
+    "sourceNumber": 27,
+    "page": 7,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le processus des mouvements morphogénétiques est un processus propre à la gastrulation.",
+    "sourceText": "Le processus des mouvements morphogénétiques est un processus propre à la gastrulation.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : ces mouvements morphogénétiques peuvent aussi avoir lieu pour assurer la cicatrisation, le renouvellement de la peau…",
+    "colored": "",
+    "sourceKey": "BC",
+    "siteAnswer": "BC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "sourceNumber": 28,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Ce schéma correspond à une coupe transversale de l’embryon à J18 du développement embryonnaire.",
+    "sourceText": "Ce schéma correspond à une coupe transversale de l’embryon à J18 du développement embryonnaire.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : ce schéma correspond à une coupe longitudinale de l’embryon à J18 du DE.",
+    "colored": "",
+    "sourceKey": "CE",
+    "siteAnswer": "CE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "sourceNumber": 28,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La légende 1 correspond à la plaque préchordale",
+    "sourceText": "La légende 1 correspond à la plaque préchordale",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la plaque préchordale n’est plus visible à partir de J21, elle se détache d’abord au pôle céphalique pour donner la chorde.",
+    "colored": "",
+    "sourceKey": "CE",
+    "siteAnswer": "CE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "sourceNumber": 28,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La légende 2 correspond à la plaque chordale.",
+    "sourceText": "La légende 2 correspond à la plaque chordale.",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : la chorde et la plaque chordale coexistent.",
+    "colored": "",
+    "sourceKey": "CE",
+    "siteAnswer": "CE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "sourceNumber": 28,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La légende 3 correspond au canal chordal.",
+    "sourceText": "La légende 3 correspond au canal chordal.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la légende numéro 3 correspond au canal neurentérique.",
+    "colored": "",
+    "sourceKey": "CE",
+    "siteAnswer": "CE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "sourceNumber": 29,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La condensation du mésoblaste est un phénomène post-gastrulaire.",
+    "sourceText": "La condensation du mésoblaste est un phénomène post-gastrulaire.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "sourceNumber": 29,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le mésoblaste para-axial se segmente partiellement en somites.",
+    "sourceText": "Le mésoblaste para-axial se segmente partiellement en somites.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : le mésoblaste para-axial se segmente complètement en somites",
+    "colored": "",
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "sourceNumber": 29,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le corps vertébral résulte de l’accolement de la partie caudale d’un hémibloc sclérotomial avec la partie crâniale de l’hémibloc sclérotomial sous-jacent.",
+    "sourceText": "Le corps vertébral résulte de l’accolement de la partie caudale d’un hémibloc sclérotomial avec la partie crâniale de l’hémibloc sclérotomial sous-jacent.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "sourceNumber": 29,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le corps de Wolff est constitué par le canal de Wolff et les tubules pronéphrotiques.",
+    "sourceText": "Le corps de Wolff est constitué par le canal de Wolff et les tubules pronéphrotiques.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux et du tissu mésoblastqiue même l’item n’est pas faux, on a l’impression qu’il est exclusif",
+    "colored": "",
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "sourceNumber": 29,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La protéine BMP-4 (Bone Morphogenetic Protein-4) est sécrétée par les cellules de la partie caudale de la ligne primitive et est nécessaire pour mettre en place le mésoblaste latéral.",
+    "sourceText": "La protéine BMP-4 (Bone Morphogenetic Protein-4) est sécrétée par les cellules de la partie caudale de la ligne primitive et est nécessaire pour mettre en place le mésoblaste latéral.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ACE",
+    "siteAnswer": "ACE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 31,
+    "sourceNumber": 4,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les villosités primaires sont constituées de colonnes cytotrophoblastiques et de syncytiotrophoblaste",
+    "sourceText": "les villosités primaires sont constituées de colonnes cytotrophoblastiques et de syncytiotrophoblaste",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 31,
+    "sourceNumber": 4,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le chorion a une structure identique au cours de la 3ème semaine du développement embryonnaire",
+    "sourceText": "le chorion a une structure identique au cours de la 3ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : il évolue : c’est la formation du placenta diffus",
+    "colored": "",
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 31,
+    "sourceNumber": 4,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la barrière placentaire permet une communication directe entre la circulation maternelle et la circulation villositaire",
+    "sourceText": "la barrière placentaire permet une communication directe entre la circulation maternelle et la circulation villositaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : jamais de contact entre le sang embryonnaire et maternel",
+    "colored": "",
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 31,
+    "sourceNumber": 4,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’endothélium des vaisseaux villositaires se forme à partir du mésenchyme extra-embryonnaire",
+    "sourceText": "l’endothélium des vaisseaux villositaires se forme à partir du mésenchyme extra-embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 31,
+    "sourceNumber": 4,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "a la fin de la 3 ème semaine du développement embryonnaire, le placenta diffus est constitué de villosités tertiaires.",
+    "sourceText": "a la fin de la 3 ème semaine du développement embryonnaire, le placenta diffus est constitué de villosités tertiaires.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 32,
+    "sourceNumber": 5,
+    "page": 8,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la gastrulation précède la neurulation",
+    "sourceText": "la gastrulation précède la neurulation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 32,
+    "sourceNumber": 5,
+    "page": 8,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la gastrulation correspond à la différenciation du 3ème feuillet embryonnaire : le chordo-mésoblaste",
+    "sourceText": "la gastrulation correspond à la différenciation du 3ème feuillet embryonnaire : le chordo-mésoblaste",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 32,
+    "sourceNumber": 5,
+    "page": 8,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la chorde est issue du soulèvement de la plaque chordale d’avant en arrière",
+    "sourceText": "la chorde est issue du soulèvement de la plaque chordale d’avant en arrière",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 32,
+    "sourceNumber": 5,
+    "page": 8,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "en fin de gastrulation, le disque embryonnaire est tridermique",
+    "sourceText": "en fin de gastrulation, le disque embryonnaire est tridermique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 32,
+    "sourceNumber": 5,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les cellules mésoblastiques sont totipotentes",
+    "sourceText": "les cellules mésoblastiques sont totipotentes",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : elles sont multipotentes (les cellules perdent leur totipotence au stade morula)",
+    "colored": "",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 33,
+    "sourceNumber": 6,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le tube neural commence à se fermer à J24 du développement embryonnaire.",
+    "sourceText": "le tube neural commence à se fermer à J24 du développement embryonnaire.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : le tube neural commence à se fermer à J21, c’est le neuropore antérieur qui persiste puis se ferme à J24 (J26 = neuropore postérieur).",
+    "colored": "",
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 33,
+    "sourceNumber": 6,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la destinée des crêtes neurales (CCN) dépend toujours de leur position sur l’axe céphalo-caudal",
+    "sourceText": "la destinée des crêtes neurales (CCN) dépend toujours de leur position sur l’axe céphalo-caudal",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : le devenir des cellules des CN est lié à leur position céphalo-caudal SAUF pour les mélanocytes.",
+    "colored": "",
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 33,
+    "sourceNumber": 6,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le système nerveux périphérique se forme à partir des cellules des crêtes neurales (CCN)",
+    "sourceText": "le système nerveux périphérique se forme à partir des cellules des crêtes neurales (CCN)",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 33,
+    "sourceNumber": 6,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la notochorde joue un rôle inducteur dans la neurulation",
+    "sourceText": "la notochorde joue un rôle inducteur dans la neurulation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 33,
+    "sourceNumber": 6,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le spina bifida occulta est majoritairement asymptomatique",
+    "sourceText": "le spina bifida occulta est majoritairement asymptomatique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CDE",
+    "siteAnswer": "CDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 34,
+    "sourceNumber": 8,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le chorion de l’œuf et les villosités secondaires sont constitués de syncytiotrophoblaste, de cytotrophoblaste et de mésenchyme extra-embryonnaire",
+    "sourceText": "le chorion de l’œuf et les villosités secondaires sont constitués de syncytiotrophoblaste, de cytotrophoblaste et de mésenchyme extra-embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 34,
+    "sourceNumber": 8,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les colonnes cytotrophoblastiques apparaissent dès le stade de villosité secondaire",
+    "sourceText": "les colonnes cytotrophoblastiques apparaissent dès le stade de villosité secondaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux dès les villosités primaires",
+    "colored": "",
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 34,
+    "sourceNumber": 8,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la caduque placentaire (basilaire) et la caduque ovulaire (réfléchie) entourent l’œuf",
+    "sourceText": "la caduque placentaire (basilaire) et la caduque ovulaire (réfléchie) entourent l’œuf",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 34,
+    "sourceNumber": 8,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les îlots de Wolff et Pander sont angio- et sanguino-formateurs",
+    "sourceText": "les îlots de Wolff et Pander sont angio- et sanguino-formateurs",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ADE",
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 35,
+    "sourceNumber": 9,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la ligne primitive se forme sous l’effet des antagonistes de BMP4",
+    "sourceText": "la ligne primitive se forme sous l’effet des antagonistes de BMP4",
+    "siteExplanation": "",
+    "sourceDetail": "Faux le nœud de Hensen produit les antagonistes mais la ligne est déjà formée indépendamment.",
+    "colored": "",
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 35,
+    "sourceNumber": 9,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la gastrulation correspond à la migration des cellules épiblastiques au travers de la ligne primitive et en avant du nœud de Hensen",
+    "sourceText": "la gastrulation correspond à la migration des cellules épiblastiques au travers de la ligne primitive et en avant du nœud de Hensen",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 35,
+    "sourceNumber": 9,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’entoblaste se forme à partir des cellules épiblastiques qui migrent en avant du nœud de Hensen",
+    "sourceText": "l’entoblaste se forme à partir des cellules épiblastiques qui migrent en avant du nœud de Hensen",
+    "siteExplanation": "",
+    "sourceDetail": "Faux en avant et en arrière en remplaçant l’hypoblaste",
+    "colored": "",
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 35,
+    "sourceNumber": 9,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le gène Nodal est à l’origine de la cascade génique qui spécifie le côté gauche",
+    "sourceText": "le gène Nodal est à l’origine de la cascade génique qui spécifie le côté gauche",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 35,
+    "sourceNumber": 9,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la gastrulation met en jeu des mouvements morphogénétiques d’ingression et d’évagination",
+    "sourceText": "la gastrulation met en jeu des mouvements morphogénétiques d’ingression et d’évagination",
+    "siteExplanation": "",
+    "sourceDetail": "Faux d’invagination et pas d’évagination",
+    "colored": "",
+    "sourceKey": "BD",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 36,
+    "sourceNumber": 10,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la fusion du plancher du canal chordal précède la formation de la plaque chordale",
+    "sourceText": "la fusion du plancher du canal chordal précède la formation de la plaque chordale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 36,
+    "sourceNumber": 10,
+    "page": 10,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la plaque préchordale et la plaque chordale coexistent au milieu de la 3ème semaine du développement embryonnaire",
+    "sourceText": "la plaque préchordale et la plaque chordale coexistent au milieu de la 3ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai J17 milieu de S3",
+    "colored": "",
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 36,
+    "sourceNumber": 10,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le canal neurentérique est une structure transitoire",
+    "sourceText": "le canal neurentérique est une structure transitoire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 36,
+    "sourceNumber": 10,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la chorde (chorde dorsale) résulte de la fusion des bords latéraux de la plaque chordale",
+    "sourceText": "la chorde (chorde dorsale) résulte de la fusion des bords latéraux de la plaque chordale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 37,
+    "sourceNumber": 11,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’appareil uro-génital a pour origine le mésoblaste intermédiaire",
+    "sourceText": "l’appareil uro-génital a pour origine le mésoblaste intermédiaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 37,
+    "sourceNumber": 11,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la somatopleure, issue de la scission des lames latérales, est en contact avec l’ectoblaste",
+    "sourceText": "la somatopleure, issue de la scission des lames latérales, est en contact avec l’ectoblaste",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 37,
+    "sourceNumber": 11,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’épimère est un contingent de myoblastes issu du mésoblaste para-axial",
+    "sourceText": "l’épimère est un contingent de myoblastes issu du mésoblaste para-axial",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 38,
+    "sourceNumber": 4,
+    "page": 10,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le mésenchyme extra-embryonnaire des villosités secondaires et tertiaires a pour origine la lame vitelline",
+    "sourceText": "Le mésenchyme extra-embryonnaire des villosités secondaires et tertiaires a pour origine la lame vitelline",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Il a comme origine la lame choriale",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 38,
+    "sourceNumber": 4,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "En fin de 3ème semaine du développement embryonnaire, l’œuf est entouré de villosités tertiaires",
+    "sourceText": "En fin de 3ème semaine du développement embryonnaire, l’œuf est entouré de villosités tertiaires",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 38,
+    "sourceNumber": 4,
+    "page": 10,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les hématies villositaires sont nucléées",
+    "sourceText": "Les hématies villositaires sont nucléées",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 38,
+    "sourceNumber": 4,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La vasculogenèse débute dans le pédicule embryonnaire",
+    "sourceText": "La vasculogenèse débute dans le pédicule embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : La vasculogenèse débute dans la lame vitelline (à J18)",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 38,
+    "sourceNumber": 4,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "L’endothélium des vaisseaux villositaires fait partie de la barrière placentaire",
+    "sourceText": "L’endothélium des vaisseaux villositaires fait partie de la barrière placentaire",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai : Barrière placentaire = endothélium vaisseau villositaires + mésenchyme intra-villositaire+ une couche de CT+ une couche de SCT",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 39,
+    "sourceNumber": 5,
+    "page": 10,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le nœud de Hensen correspond à un renflement épiblastique, centré par une dépression",
+    "sourceText": "Le nœud de Hensen correspond à un renflement épiblastique, centré par une dépression",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABC",
+    "siteAnswer": "ABC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 39,
+    "sourceNumber": 5,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La mise en place de l’entoblaste et du mésoblaste nécessite des mouvements morphogénétiques par ingression des cellules épiblastiques",
+    "sourceText": "La mise en place de l’entoblaste et du mésoblaste nécessite des mouvements morphogénétiques par ingression des cellules épiblastiques",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABC",
+    "siteAnswer": "ABC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 39,
+    "sourceNumber": 5,
+    "page": 10,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "L’axe longitudinal de l’embryon est défini par le processus chordal",
+    "sourceText": "L’axe longitudinal de l’embryon est défini par le processus chordal",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai  pour processus chordal, chorde ou cordo mésoblaste",
+    "colored": "",
+    "sourceKey": "ABC",
+    "siteAnswer": "ABC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 39,
+    "sourceNumber": 5,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La formation de la chorde précède la formation de la plaque chordale",
+    "sourceText": "La formation de la chorde précède la formation de la plaque chordale",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : La plaque chordale précède la formation de la chorde",
+    "colored": "",
+    "sourceKey": "ABC",
+    "siteAnswer": "ABC"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 39,
+    "sourceNumber": 5,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le dédoublement complet de la ligne primitive conduit à la formation de siamois",
+    "sourceText": "Le dédoublement complet de la ligne primitive conduit à la formation de siamois",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Les siamois se forme suite au dédoublement INCOMPLET de la LP. En cas de dédoublement complet, on aura une grossesse gémellaire monochoriale monoamniotique",
+    "colored": "",
+    "sourceKey": "ABC",
+    "siteAnswer": "ABC"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 6,
+    "sourceNumber": 16,
+    "page": 2,
+    "item": "D",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Le canal de Wolff s’est abouché dans la paroi postérieure de l’allantoïde.",
+    "sourceText": "Le canal de Wolff s’est abouché dans la paroi postérieure de l’allantoïde.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": "B",
+    "siteAnswer": "B"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 8,
+    "sourceNumber": 18,
+    "page": 2,
+    "item": "A",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Chez l’homme, 4 arcs sont visibles extérieurement, séparés par trois fentes ectobranchiales.",
+    "sourceText": "Chez l’homme, 4 arcs sont visibles extérieurement, séparés par trois fentes ectobranchiales.",
+    "siteExplanation": "Faux 4",
+    "sourceDetail": "Faux 4",
+    "colored": "Faux 4",
+    "sourceKey": "ADE",
+    "siteAnswer": "AE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 11,
+    "sourceNumber": 14,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Le cordon ombilical est situé dans la paroi ventrale de l’embryon à la fin de la 4ème semaine du développement embryonnaire",
+    "sourceText": "Le cordon ombilical est situé dans la paroi ventrale de l’embryon à la fin de la 4ème semaine du développement embryonnaire",
+    "siteExplanation": "Faux S6",
+    "sourceDetail": "Faux S6",
+    "colored": "Faux S6",
+    "sourceKey": "BDE",
+    "siteAnswer": "BD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 17,
+    "sourceNumber": 15,
+    "page": 4,
+    "item": "B",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Un cœur avec ses 4 cavités et un neuropore antérieur.",
+    "sourceText": "Un cœur avec ses 4 cavités et un neuropore antérieur.",
+    "siteExplanation": "Faux Le cœur a 5 cavités le reste est vrai : Le neuropore antérieur se ferme à J24 (milieu de S4) alors que les 4 cavités du cœur s’observent J22.",
+    "sourceDetail": "Faux Le cœur a 5 cavités le reste est vrai : Le neuropore antérieur se ferme à J24 (milieu de S4) alors que les 4 cavités du cœur s’observent J22.",
+    "colored": "Faux Le cœur a 5 cavités le reste est vrai : Le neuropore antérieur se ferme à J24 (milieu de S4) alors que les 4 cavités du cœur s’observent J22.",
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 33,
+    "sourceNumber": 30,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La ligne primitive joue un rôle central dans la symétrie bilatérale des organes du tronc.",
+    "sourceText": "La ligne primitive joue un rôle central dans la symétrie bilatérale des organes du tronc.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la ligne primitive joue un rôle central dans l’asymétrie bilatérale des organes du tronc par distribution asymétrique des morphogènes.",
+    "colored": "",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 33,
+    "sourceNumber": 30,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La protéine Sonic hedgehog (Shh) intervient dans la différenciation des somites.",
+    "sourceText": "La protéine Sonic hedgehog (Shh) intervient dans la différenciation des somites.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 33,
+    "sourceNumber": 30,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le dédoublement total de la ligne primitive est à l’origine de la formation des jumeaux monozygotes, mono-choriaux et di-amniotiques.",
+    "sourceText": "Le dédoublement total de la ligne primitive est à l’origine de la formation des jumeaux monozygotes, mono-choriaux et di-amniotiques.",
+    "siteExplanation": "",
+    "sourceDetail": "Faux monoC et monoA",
+    "colored": "",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 33,
+    "sourceNumber": 30,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "L’allantoïde est une évagination de l’hypoblaste dans le pédicule embryonnaire.",
+    "sourceText": "L’allantoïde est une évagination de l’hypoblaste dans le pédicule embryonnaire.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 33,
+    "sourceNumber": 30,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "L’identité d’un segment est confirmée par un gène homéotique.",
+    "sourceText": "L’identité d’un segment est confirmée par un gène homéotique.",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 34,
+    "sourceNumber": 31,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La membrane anale se forme au cours de la délimitation",
+    "sourceText": "La membrane anale se forme au cours de la délimitation",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : la membrane anale se forme au-delà de la 4e semaine après la formation du spetum uro-rectal, alors que la délimitation à lieu pendant la 4e semaine",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 34,
+    "sourceNumber": 31,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le toit du lécithocèle II correspond à l’entoblaste",
+    "sourceText": "Le toit du lécithocèle II correspond à l’entoblaste",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 34,
+    "sourceNumber": 31,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La paroi ventrale reste ouverte sur le canal vitellin et sur le pédicule embryonnaire",
+    "sourceText": "La paroi ventrale reste ouverte sur le canal vitellin et sur le pédicule embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 34,
+    "sourceNumber": 31,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La gouttière respiratoire correspond à une invagination de la face ventrale de l’entoblaste",
+    "sourceText": "La gouttière respiratoire correspond à une invagination de la face ventrale de l’entoblaste",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : il s’agit d’une évagination (le reste de l’item est vrai)",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 34,
+    "sourceNumber": 31,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La plicature crâniale est à l’origine de la formation de l’intestin primitif antérieur",
+    "sourceText": "La plicature crâniale est à l’origine de la formation de l’intestin primitif antérieur",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 35,
+    "sourceNumber": 32,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La différenciation de l’ectoblaste en neuroblaste est favorisée, entre autres, par la follistatine, antagoniste de BMP-4 (Bone Morphogenetic Protein-4)",
+    "sourceText": "La différenciation de l’ectoblaste en neuroblaste est favorisée, entre autres, par la follistatine, antagoniste de BMP-4 (Bone Morphogenetic Protein-4)",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 35,
+    "sourceNumber": 32,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La courbure céphalique de l’extrémité antérieure du tube neural est située au niveau du mésencéphale",
+    "sourceText": "La courbure céphalique de l’extrémité antérieure du tube neural est située au niveau du mésencéphale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 35,
+    "sourceNumber": 32,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les cellules des crêtes neurales sont des cellules multipotentes",
+    "sourceText": "Les cellules des crêtes neurales sont des cellules multipotentes",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 35,
+    "sourceNumber": 32,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Au décours de la neurulation secondaire, le tube neural a une double origine : neurectoblastique et mésoblastique",
+    "sourceText": "Au décours de la neurulation secondaire, le tube neural a une double origine : neurectoblastique et mésoblastique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 35,
+    "sourceNumber": 32,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les cellules pigmentaires ont pour origine les cellules des crêtes neurales ayant migré entre le tube neural et les dérivés somitiques",
+    "sourceText": "Les cellules pigmentaires ont pour origine les cellules des crêtes neurales ayant migré entre le tube neural et les dérivés somitiques",
+    "siteExplanation": "",
+    "sourceDetail": "FAUX : Les cellules pigmentaires ont pour origine les cellules des crêtes neurales ayant migré entre l’ectoblaste et le dermomyotome.",
+    "colored": "",
+    "sourceKey": "ABCD",
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 36,
+    "sourceNumber": 7,
+    "page": 9,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les arcs pharyngiens se développent",
+    "sourceText": "les arcs pharyngiens se développent",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCE",
+    "siteAnswer": "ABCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 36,
+    "sourceNumber": 7,
+    "page": 9,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le cœlome interne est délimité par la somatopleure et la splanchnopleure",
+    "sourceText": "le cœlome interne est délimité par la somatopleure et la splanchnopleure",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCE",
+    "siteAnswer": "ABCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 36,
+    "sourceNumber": 7,
+    "page": 9,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le nucleus pulposus dérive de la chorde",
+    "sourceText": "le nucleus pulposus dérive de la chorde",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCE",
+    "siteAnswer": "ABCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 36,
+    "sourceNumber": 7,
+    "page": 9,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le colon sigmoïde a pour origine l’intestin primitif moyen",
+    "sourceText": "le colon sigmoïde a pour origine l’intestin primitif moyen",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : le colon sigmoïde fait partie de l’intestin primitif postérieur.",
+    "colored": "",
+    "sourceKey": "ABCE",
+    "siteAnswer": "ABCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 36,
+    "sourceNumber": 7,
+    "page": 9,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le laparoschisis est une anomalie de la délimitation et correspond à la présence d’anses intestinales libres dans la cavité amniotique",
+    "sourceText": "le laparoschisis est une anomalie de la délimitation et correspond à la présence d’anses intestinales libres dans la cavité amniotique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABCE",
+    "siteAnswer": "ABCE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 37,
+    "sourceNumber": 12,
+    "page": 10,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le sclérotome correspond à la partie interne du somite",
+    "sourceText": "le sclérotome correspond à la partie interne du somite",
+    "siteExplanation": "",
+    "sourceDetail": "Faux médio ventrale",
+    "colored": "",
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 37,
+    "sourceNumber": 12,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "le corps vertébral est constitué de 4 hémi-somites issus du même bloc sclérotomial",
+    "sourceText": "le corps vertébral est constitué de 4 hémi-somites issus du même bloc sclérotomial",
+    "siteExplanation": "",
+    "sourceDetail": "Faux de deux bloc la partie crâniale du bloc caudale et la partie caudale du bloc crânial",
+    "colored": "",
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 37,
+    "sourceNumber": 12,
+    "page": 10,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les cellules inférieures de la partie crâniale du bloc sclérotomial constituent le disque intervertébral",
+    "sourceText": "les cellules inférieures de la partie crâniale du bloc sclérotomial constituent le disque intervertébral",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 37,
+    "sourceNumber": 12,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le nucleus pulposus a pour origine la chorde dorsale",
+    "sourceText": "le nucleus pulposus a pour origine la chorde dorsale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 37,
+    "sourceNumber": 12,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’axe dorso-ventral est uniquement déterminé par la protéine BMP4",
+    "sourceText": "l’axe dorso-ventral est uniquement déterminé par la protéine BMP4",
+    "siteExplanation": "",
+    "sourceDetail": "Faux shh , noggin, chrodin, wnt….",
+    "colored": "",
+    "sourceKey": "CD",
+    "siteAnswer": "CD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "sourceNumber": 13,
+    "page": 10,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "la fermeture du tube neural débute au milieu de la 4ème semaine du développement embryonnaire",
+    "sourceText": "la fermeture du tube neural débute au milieu de la 4ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux si on parle du début de la fermeture on est à J21 début S4 avec la fermeture de la gouttière de manière bidirectionnelle. Si on indique le TN se ferme ou est fermé à J24 en avant et J26 en arrière c’est vrai",
+    "colored": "",
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "sourceNumber": 13,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le spina bifida correspond à une ouverture du canal médullaire",
+    "sourceText": "le spina bifida correspond à une ouverture du canal médullaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "sourceNumber": 13,
+    "page": 10,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les cellules des crêtes neurales se forment par délamination",
+    "sourceText": "les cellules des crêtes neurales se forment par délamination",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "sourceNumber": 13,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le devenir des cellules des crêtes neurales dépend de leur position sauf pour les mélanocytes",
+    "sourceText": "le devenir des cellules des crêtes neurales dépend de leur position sauf pour les mélanocytes",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "sourceNumber": 13,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la sécrétion de la protéine Sonic hedgehog serait responsable de l'induction des neurones moteurs grâce à la répression de l'expression des gènes dorsalisants",
+    "sourceText": "la sécrétion de la protéine Sonic hedgehog serait responsable de l'induction des neurones moteurs grâce à la répression de l'expression des gènes dorsalisants",
+    "siteExplanation": "vrai",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 39,
+    "sourceNumber": 14,
+    "page": 10,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "en fin de délimitation, l’embryon est branchial et caudé",
+    "sourceText": "en fin de délimitation, l’embryon est branchial et caudé",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 39,
+    "sourceNumber": 14,
+    "page": 10,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’allantoïde se positionne en avant de la membrane cloacale après la plicature caudale",
+    "sourceText": "l’allantoïde se positionne en avant de la membrane cloacale après la plicature caudale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 39,
+    "sourceNumber": 14,
+    "page": 10,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’axe mésenchymateux des arcs branchiaux est constitué de mésoblaste exclusivement",
+    "sourceText": "l’axe mésenchymateux des arcs branchiaux est constitué de mésoblaste exclusivement",
+    "siteExplanation": "",
+    "sourceDetail": "Faux Crêtes neurales aussi",
+    "colored": "",
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 39,
+    "sourceNumber": 14,
+    "page": 10,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le plancher mésobranchial est d’origine entoblastique",
+    "sourceText": "le plancher mésobranchial est d’origine entoblastique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 39,
+    "sourceNumber": 14,
+    "page": 10,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’intestin primitif est en communication avec l’allantoïde",
+    "sourceText": "l’intestin primitif est en communication avec l’allantoïde",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 40,
+    "sourceNumber": 6,
+    "page": 11,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les néphrotomes sont issus de la segmentation du mésoblaste intermédiaire",
+    "sourceText": "Les néphrotomes sont issus de la segmentation du mésoblaste intermédiaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 40,
+    "sourceNumber": 6,
+    "page": 11,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La segmentation du mésoblaste para-axial est totale",
+    "sourceText": "La segmentation du mésoblaste para-axial est totale",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 40,
+    "sourceNumber": 6,
+    "page": 11,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le mésoblaste latéral se segmente en somatopleure et splanchnopleure",
+    "sourceText": "Le mésoblaste latéral se segmente en somatopleure et splanchnopleure",
+    "siteExplanation": "",
+    "sourceDetail": "Faux. Le mésoblaste latéral SE CLIVE il ne se segmente pas",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 40,
+    "sourceNumber": 6,
+    "page": 11,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La chorde joue un rôle inducteur dans la neurulation",
+    "sourceText": "La chorde joue un rôle inducteur dans la neurulation",
+    "siteExplanation": "",
+    "sourceDetail": "Vrai. La neurulation commence à J18 avec la plaque neurale qui est un épaississement d’une partie de l’ectoblaste sous l’effet inducteur de la chorde par Shh.",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 40,
+    "sourceNumber": 6,
+    "page": 11,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le devenir des métamères est contrôlé par les gènes de polarité",
+    "sourceText": "Le devenir des métamères est contrôlé par les gènes de polarité",
+    "siteExplanation": "",
+    "sourceDetail": "Faux. Le devenir des métamères est contrôlé par les gènes homéotiques !",
+    "colored": "",
+    "sourceKey": "ABD",
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 41,
+    "sourceNumber": 7,
+    "page": 11,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Elle débute avec la mise en place du chorion",
+    "sourceText": "Elle débute avec la mise en place du chorion",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : La mise en place du chorion a lieu pendant la 2ème semaine développement embryonnaire tandis que la délimitation a lieu lors de la 4ème semaine",
+    "colored": "",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 41,
+    "sourceNumber": 7,
+    "page": 11,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Suite à la plicature caudale, le diverticule allantoïdien est partiellement incorporé",
+    "sourceText": "Suite à la plicature caudale, le diverticule allantoïdien est partiellement incorporé",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 41,
+    "sourceNumber": 7,
+    "page": 11,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le sac vitellin se forme suite à la plicature crâniale",
+    "sourceText": "Le sac vitellin se forme suite à la plicature crâniale",
+    "siteExplanation": "",
+    "sourceDetail": "Faux. Le sac vitellin se forme suite aux plicatures TRANSVERSALES et non la plicature crâniale",
+    "colored": "",
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 41,
+    "sourceNumber": 7,
+    "page": 11,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La délimitation est secondaire à l’extension passive de la cavité amniotique",
+    "sourceText": "La délimitation est secondaire à l’extension passive de la cavité amniotique",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 41,
+    "sourceNumber": 7,
+    "page": 11,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les membranes pharyngienne et cloacale pivotent de 180 degrés au cours de la délimitation",
+    "sourceText": "Les membranes pharyngienne et cloacale pivotent de 180 degrés au cours de la délimitation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BDE",
+    "siteAnswer": "BDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 19,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les précurseurs cardiaques ont pour origine la somatopleure",
+    "sourceText": "Les précurseurs cardiaques ont pour origine la somatopleure",
+    "siteExplanation": "",
+    "sourceDetail": "FAUX : ils ont pour origine la splanchnopleure",
+    "colored": "",
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 19,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La zone cardiogène a une position extra-embryonnaire et intra-embryonnaire avant la délimitation",
+    "sourceText": "La zone cardiogène a une position extra-embryonnaire et intra-embryonnaire avant la délimitation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 19,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Parmi les 5 renflements du tube cardiaque, le sinus veineux est en continuité avec l’oreillette primitive",
+    "sourceText": "Parmi les 5 renflements du tube cardiaque, le sinus veineux est en continuité avec l’oreillette primitive",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 19,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les veines ombilicales transportent un sang riche en oxygène",
+    "sourceText": "Les veines ombilicales transportent un sang riche en oxygène",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 19,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les arcs aortiques constituent des anastomoses entre les aortes ventrales et les aortes dorsales",
+    "sourceText": "Les arcs aortiques constituent des anastomoses entre les aortes ventrales et les aortes dorsales",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 20,
+    "sourceNumber": 8,
+    "page": 5,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les îlots intra-embryonnaires sont sanguino et angio-formateurs dès la 4 ème semaine du développement embryonnaire",
+    "sourceText": "les îlots intra-embryonnaires sont sanguino et angio-formateurs dès la 4 ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : ce sont les îlots EXTRA-embryonnaires (=Wolff et Pander) qui sont angio ET sanguinoformateurs, les îlots INTRA-embryonnaires sont seulement angio-formateurs.",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 20,
+    "sourceNumber": 8,
+    "page": 5,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la formation du tube cardiaque est secondaire à la délimitation",
+    "sourceText": "la formation du tube cardiaque est secondaire à la délimitation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 20,
+    "sourceNumber": 8,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la gelée cardiaque est un épais manteau acellulaire qui sépare le myocarde de l’endocarde",
+    "sourceText": "la gelée cardiaque est un épais manteau acellulaire qui sépare le myocarde de l’endocarde",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 20,
+    "sourceNumber": 8,
+    "page": 5,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les circulations extra-embryonnaires vont se connecter à la circulation intra-embryonnaire à la fin de la 4 ème semaine du développement embryonnaire",
+    "sourceText": "les circulations extra-embryonnaires vont se connecter à la circulation intra-embryonnaire à la fin de la 4 ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux c’est dès le DEBUT de la 4ème SDE que les 2 circulations extraembryonnaires se connectent à la circulation intra-embryonnaire.",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 20,
+    "sourceNumber": 8,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le sinus veineux reçoit à la fois du sang riche en oxygène par les veines ombilicales et du sang pauvre en oxygène par les veines cardinales et vitellines",
+    "sourceText": "le sinus veineux reçoit à la fois du sang riche en oxygène par les veines ombilicales et du sang pauvre en oxygène par les veines cardinales et vitellines",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 21,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Les précurseurs cardiaques ont pour origine la somatopleure",
+    "sourceText": "Les précurseurs cardiaques ont pour origine la somatopleure",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : ils ont pour origine la splanchnopleure",
+    "colored": "",
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 21,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "La zone cardiogène a une position extra-embryonnaire et intra-embryonnaire avant la délimitation",
+    "sourceText": "La zone cardiogène a une position extra-embryonnaire et intra-embryonnaire avant la délimitation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 21,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Parmi les 5 renflements du tube cardiaque, le sinus veineux est en continuité avec l’oreillette primitive",
+    "sourceText": "Parmi les 5 renflements du tube cardiaque, le sinus veineux est en continuité avec l’oreillette primitive",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 21,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les veines ombilicales transportent un sang riche en oxygène",
+    "sourceText": "Les veines ombilicales transportent un sang riche en oxygène",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 21,
+    "sourceNumber": 33,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les arcs aortiques constituent des anastomoses entre les aortes ventrales et les aortes dorsales",
+    "sourceText": "Les arcs aortiques constituent des anastomoses entre les aortes ventrales et les aortes dorsales",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCDE",
+    "siteAnswer": "BCDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 22,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les îlots intra-embryonnaires sont sanguino et angio-formateurs dès la 4 ème semaine du développement embryonnaire",
+    "sourceText": "les îlots intra-embryonnaires sont sanguino et angio-formateurs dès la 4 ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : ce sont les îlots EXTRA-embryonnaires (=Wolff et Pander) qui sont angio ET sanguinoformateurs, les îlots INTRA-embryonnaires sont seulement angio-formateurs.",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 22,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la formation du tube cardiaque est secondaire à la délimitation",
+    "sourceText": "la formation du tube cardiaque est secondaire à la délimitation",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 22,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "C",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "la gelée cardiaque est un épais manteau acellulaire qui sépare le myocarde de l’endocarde",
+    "sourceText": "la gelée cardiaque est un épais manteau acellulaire qui sépare le myocarde de l’endocarde",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 22,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "les circulations extra-embryonnaires vont se connecter à la circulation intra-embryonnaire à la fin de la 4 ème semaine du développement embryonnaire",
+    "sourceText": "les circulations extra-embryonnaires vont se connecter à la circulation intra-embryonnaire à la fin de la 4 ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : c’est dès le DEBUT de la 4ème SDE que les 2 circulations extraembryonnaires se connectent à la circulation intra-embryonnaire.",
+    "colored": "",
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 22,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "le sinus veineux reçoit à la fois du sang riche en oxygène par les veines ombilicales et du sang pauvre en oxygène par les veines cardinales et vitellines",
+    "sourceText": "le sinus veineux reçoit à la fois du sang riche en oxygène par les veines ombilicales et du sang pauvre en oxygène par les veines cardinales et vitellines",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "BCE",
+    "siteAnswer": "BCE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 23,
+    "sourceNumber": 15,
+    "page": 6,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "au cours de la délimitation, les tubes cardiaques vont fusionner dans le sens crânio-caudal",
+    "sourceText": "au cours de la délimitation, les tubes cardiaques vont fusionner dans le sens crânio-caudal",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 23,
+    "sourceNumber": 15,
+    "page": 6,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "lors de la plicature crâniale, le tube cardiaque s’intègre au sein du cœlome interne",
+    "sourceText": "lors de la plicature crâniale, le tube cardiaque s’intègre au sein du cœlome interne",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 23,
+    "sourceNumber": 15,
+    "page": 6,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "l’oreillette primitive reçoit du sang veineux pauvre en oxygène des veines ombilicales et des veines vitellines",
+    "sourceText": "l’oreillette primitive reçoit du sang veineux pauvre en oxygène des veines ombilicales et des veines vitellines",
+    "siteExplanation": "",
+    "sourceDetail": "Faux les veines ombilicales ont un sang riche en O2",
+    "colored": "",
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 23,
+    "sourceNumber": 15,
+    "page": 6,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "les veines cardinales communes reçoivent du sang veineux pauvre en oxygène des veines cardinales antérieures et postérieures",
+    "sourceText": "les veines cardinales communes reçoivent du sang veineux pauvre en oxygène des veines cardinales antérieures et postérieures",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 23,
+    "sourceNumber": 15,
+    "page": 6,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "l’embryon est irrigué par du sang mêlé",
+    "sourceText": "l’embryon est irrigué par du sang mêlé",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 24,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "A",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Au cours de la gastrulation, le mésoblaste latéral migre en avant de la membrane pharyngienne pour former la partie extra-embryonnaire de la zone cardiogène",
+    "sourceText": "Au cours de la gastrulation, le mésoblaste latéral migre en avant de la membrane pharyngienne pour former la partie extra-embryonnaire de la zone cardiogène",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 24,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "B",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "A J24 du développement embryonnaire, les premiers battements cardiaques efficaces apparaissent",
+    "sourceText": "A J24 du développement embryonnaire, les premiers battements cardiaques efficaces apparaissent",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 24,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "L’épicarde, feuillet viscéral du péricarde, a pour origine la somatopleure",
+    "sourceText": "L’épicarde, feuillet viscéral du péricarde, a pour origine la somatopleure",
+    "siteExplanation": "",
+    "sourceDetail": "Faux : Il a pour origine la SPLANCHNOPLEURE et non pas la somatopleure",
+    "colored": "",
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 24,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "D",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Le 1er organe hématopoïétique intra-embryonnaire est le foie",
+    "sourceText": "Le 1er organe hématopoïétique intra-embryonnaire est le foie",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 24,
+    "sourceNumber": 8,
+    "page": 6,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les circulations extra- et intra-embryonnaires s’anastomosent au cours de la 4ème semaine du développement embryonnaire",
+    "sourceText": "Les circulations extra- et intra-embryonnaires s’anastomosent au cours de la 4ème semaine du développement embryonnaire",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": "ABDE",
+    "siteAnswer": "ABDE"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 34,
+    "sourceNumber": 34,
+    "page": 6,
+    "item": "A",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "a-2",
+    "sourceText": "a-2",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai b. 1er globule polaire  N2C 2. N,2C",
+    "colored": "Vrai N2C",
+    "sourceKey": null,
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 34,
+    "sourceNumber": 34,
+    "page": 6,
+    "item": "B",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "b-3",
+    "sourceText": "b-3",
+    "siteExplanation": "Faux",
+    "sourceDetail": "Faux c. Gamète féminin  N2C 3. 2N,2C",
+    "colored": "Faux N2C",
+    "sourceKey": null,
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 34,
+    "sourceNumber": 34,
+    "page": 6,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "c-1",
+    "sourceText": "c-1",
+    "siteExplanation": "Faux",
+    "sourceDetail": "Faux d. Ovocyte I 2N4C 4. 2N,4C",
+    "colored": "Faux 2N4C",
+    "sourceKey": null,
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.col.gamet",
+    "id": 34,
+    "sourceNumber": 34,
+    "page": 6,
+    "item": "D",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "d-4",
+    "sourceText": "d-4",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai e. 2ème globule polaire  NC",
+    "colored": "Vrai NC",
+    "sourceKey": null,
+    "siteAnswer": "ADE"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 34,
+    "sourceNumber": 30,
+    "page": 7,
+    "item": "C",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Au cours de la S1 des jumeaux mono-amniotiques peuvent se former.",
+    "sourceText": "au Cours de la S1 Des jumeaux mono-amniotiques peuvent se former.",
+    "siteExplanation": "Faux : avant J8, ils seront diamniotiques.",
+    "sourceDetail": "Faux, si coupure pendant la S1, on est avant J8 donc ils seront diamniotiques",
+    "colored": "Faux, si coupure pendant la S1, on est avant J8 donc ils seront diamniotiques",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 11,
+    "sourceNumber": 11,
+    "page": 3,
+    "item": "A",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Entrainent en général des malformations sévères.",
+    "sourceText": "Entrainent en général des malformations sévères.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 11,
+    "sourceNumber": 11,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Entrainent des dysplasies caudales.",
+    "sourceText": "Entrainent des dysplasies caudales.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 24,
+    "sourceNumber": 24,
+    "page": 5,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Elle entraine un remaniement de l’hypoblaste qui incorpore des cellules mésoblastiques.",
+    "sourceText": "Elle entraine un remaniement de l’hypoblaste qui incorpore des cellules mésoblastiques.",
+    "siteExplanation": "Faux.",
+    "sourceDetail": "Faux Les questions 25 et 26 se rapportent au schéma ci-contre :",
+    "colored": "Faux",
+    "sourceKey": null,
+    "siteAnswer": "B"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 30,
+    "sourceNumber": 30,
+    "page": 6,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le mésoblaste para-axial et le mésoblaste intermédiaire commencent à se segmenter en même temps.",
+    "sourceText": "Le mésoblaste para-axial et le mésoblaste intermédiaire commencent à se segmenter en même temps.",
+    "siteExplanation": "Faux : J19 pour le mésoblaste para-axial et J20 pour le mésoblaste intermédiaire.",
+    "sourceDetail": "Faux J19 pour le méso para axial et J20 pour le MI Les 2 questions suivantes se rapportent au schéma ci- dessous :",
+    "colored": "Faux J19 pour le méso para axial et J20 pour le MI",
+    "sourceKey": null,
+    "siteAnswer": "ABD"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 40,
+    "sourceNumber": 40,
+    "page": 8,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "Le canal chordal et le canal neurentérique.",
+    "sourceText": "Le canal chordal et le canal neurentérique.",
+    "siteExplanation": "Faux : le premier donne le second.",
+    "sourceDetail": "Faux le 1er donne le 2ème Questions 41 et 42 : les questions se rapportent au schéma suivent",
+    "colored": "Faux le 1 er donne le 2 ème",
+    "sourceKey": null,
+    "siteAnswer": "ABCD"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 13,
+    "sourceNumber": 13,
+    "page": 3,
+    "item": "D",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Le pronéphros a régressé.",
+    "sourceText": "Le pronéphros a régressé.",
+    "siteExplanation": "Vrai J25",
+    "sourceDetail": "Vrai J25",
+    "colored": "Vrai J25",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 16,
+    "sourceNumber": 16,
+    "page": 3,
+    "item": "B",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Le pronéphros vient de régresser.",
+    "sourceText": "Le pronéphros vient de régresser.",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 16,
+    "sourceNumber": 16,
+    "page": 3,
+    "item": "C",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Le neuropore antérieur vient de se fermer.",
+    "sourceText": "Le neuropore antérieur vient de se fermer.",
+    "siteExplanation": "Vrai à J24",
+    "sourceDetail": "Vrai à J24",
+    "colored": "Vrai à J24",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 67,
+    "sourceNumber": 67,
+    "page": 12,
+    "item": "E",
+    "issues": [
+      "shorter_explanation"
+    ],
+    "siteText": "La veine ombilicale transporte du sang riche en oxygène",
+    "sourceText": "La veine ombilicale transporte du sang riche en oxygène Q68 et 69 se rapportent au schéma suivant :",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai Q68 et 69 se rapportent au schéma suivant :",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": "CE"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 70,
+    "sourceNumber": 70,
+    "page": 13,
+    "item": "A",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "Le tube neural est fermé à ses 2 extrémités",
+    "sourceText": "Le tube neural est fermé à ses 2 extrémités",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 70,
+    "sourceNumber": 70,
+    "page": 13,
+    "item": "D",
+    "issues": [
+      "verdict_difference"
+    ],
+    "siteText": "La segmentation du mésoblaste para-axial est en voie d'achèvement",
+    "sourceText": "La segmentation du mésoblaste para-axial est en voie d'achèvement",
+    "siteExplanation": "Vrai",
+    "sourceDetail": "Vrai",
+    "colored": "Vrai",
+    "sourceKey": null,
+    "siteAnswer": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 70,
+    "sourceNumber": 70,
+    "page": 13,
+    "item": "E",
+    "issues": [
+      "no_letter_block"
+    ],
+    "siteText": "Les 2 canaux de Wolff débouchent au niveau de la face postérieure de l'allantoïde",
+    "sourceText": "Les 2 canaux de Wolff débouchent au niveau de la face postérieure de l'allantoïde",
+    "siteExplanation": "",
+    "sourceDetail": null,
+    "colored": null,
+    "sourceKey": null,
+    "siteAnswer": ""
+  }
+]

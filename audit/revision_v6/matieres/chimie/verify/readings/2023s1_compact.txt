@@ -1,0 +1,206 @@
+===== 2023s1 atomistique Q1 ID1 CLE BCD =====
+SUJET ORIGINAL
+p112
+1. L'hydrogène et les hydrogénoïdes
+On donne : h = 6,626.10-34 J.s; c = 2,997.108 m.s-1 ; e = 1,602.10-19J
+On arrondira les résultats à un chiffre après la virgule
+A. La longueur d'onde permettant l'ionisation de l'atome d'hydrogène (à l'état fondamental) est
+supérieure à celle permettant l'excitation de l'hydrogène de l'état fondamental au niveau n = 350.
+B. L'ionisation de 𝐿𝑖
++ initialement à l'état fondamental est égale à 122,4 eV.
+3
+C. La longueur d'onde d'émission de
+𝐿𝑖
++ permettant un retour à l'état fondamental à partir du
+3
+cinquième niveau excité est égale à 10,4 nm.
+D. L'énergie d'ionisation de 𝐹
+9 8+ pour n = 9 est égale à 13,6 eV.
+E. La désexcitation de H vers le niveau fondamental, à partir du troisième niveau d'excitation (n = 3),
+entraîne l'émission de 6 photons d'énergies différentes.
+DETAIL ORIGINAL
+BCD
+A. FAUX : l'énergie d'ionisation est la différence d'énergie entre les niveaux 0 et infini, ce qui
+est donc plus grand que la différence d'énergie entre les niveaux 0 et 350. Comme la longueur d'onde est
+inversement proportionnelle à l'énergie c'est celle de l'excitation qui sera la plus grande.
+B. VRAI : à l'état initial E( 𝐿𝑖
++ )=-13,6*32/12 = -122,4 eV donc pour l'ioniser il faudra fournir 122,4eV
+3
+(𝐸𝑖= 𝐸∞−𝐸𝑛=1 = 0 −(−122,4) = 122,4𝑒𝑉)
+C. VRAI : (attention : état fondamental: n=1; 1er état excité: n=2 donc 5e état excité: n=6)
+1
+1
+ΔE6→1=13,6*32 *(
+62)=119eV=119*1,602.10-19J
+12 −
+ℎ𝑐
+ℎ𝑐
+6,626.10−34∗2,997.108
+=1,0417* 10-8 m=10,4nm
+ΔE =
+𝜆 donc λ=
+ΔE=
+119∗1,602.10−19
+1
+D. VRAI : 𝐸𝑖= 𝐸∞−𝐸𝑛=9 = 0 −(−13.6 ∗92 ∗
+92) = 13.6𝑒𝑉
+(rappel: l'énergie d'un atome est toujours négative et une énergie d'ionisation/excitation est toujours
+positive)
+E. FAUX : attention 3e niveau excité: n=4
+DETAIL SITE (si différent)
+B. VRAI : À l’état initial, le corrigé écrit E(₃Li⁺) = −13,6 × 3²/1² = −122,4 eV. Pour l’ioniser : Eᵢ = E∞ − Eₙ₌₁ = 0 − (−122,4) = 122,4 eV. Voir la réserve ci-dessous sur la charge de Li⁺.
+C. VRAI : État fondamental n=1 ; premier état excité n=2 ; cinquième état excité n=6. Le calcul imprimé est ΔE₆→₁ = 13,6 × 3² × (1/1² − 1/6²) = 119 eV = 119 × 1,602 × 10⁻¹⁹ J. ΔE = hc/λ, donc λ = (6,626 × 10⁻³⁴ × 2,997 × 10⁸)/(119 × 1,602 × 10⁻¹⁹) = 1,0417 × 10⁻⁸ m = 10,4 nm. Voir la réserve sur Li⁺.
+D. VRAI : Eᵢ = E∞ − Eₙ₌₉ = 0 − (−13,6 × 9² × 1/9²) = 13,6 eV. Le corrigé rappelle que les énergies des états liés sont négatives et les énergies d’ionisation ou d’excitation positives.
+NOTES
+Les items et le corrigé emploient Li+ tout en utilisant la formule des hydrogénoïdes Eₙ = −13,6 Z²/n². Li+ possède deux électrons ; l’ion hydrogénoïde de lithium est Li2+, cité explicitement dans la ronéo. Les résultats de B et C ne sont donc valables qu’en supposant une coquille de charge et en lisant Li2+. La figure et la clé originales sont conservées, avec cette hypothèse rendue explicite.
+Le détail A parle de niveaux « 0 et infini ». Pour l’hydrogène dans ce modèle, le niveau fondamental est n=1 ; n=0 n’est pas un nombre quantique principal permis. Le raisonnement comparatif sur les énergies et les longueurs d’onde doit se lire entre n=1, n=350 et la limite d’ionisation. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.
+
+===== 2023s1 atomistique Q2 ID2 CLE BD =====
+SUJET ORIGINAL
+p112
+2. Les atomes :
+A. La configuration électronique de 17Cl s'écrit : 1s2 2s2 2p6 3s1 3p6.
+B. 42Mo possède 12 électrons dans des orbitales atomiques sans plan nodal.
+C. 42Mo possède au moins 19 électrons de spin + 0,5.
+D. Le rayon atomique de 42Mo est supérieur à celui de 35Br.
+E.  9F possède la plus grande énergie d'ionisation du tableau périodique.
+DETAIL ORIGINAL
+BD
+A. FAUX : 1s²2s²2p63s²3p5
+B. VRAI :
+42Mo: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5
+Sachant que les OA sans plan nodal sont celles de type s et dz2 et qu'il peut y avoir max 2 électrons par
+OA on trouve bien 12
+C. FAUX : 42Mo: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5
+Au moins 18 électrons
+(souligné: on ne peut pas savoir le spin)
+(Revoir les règles de remplissage et faire les carrés avec les flèches pour bien voir)
+D. VRAI : 42Mo: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5 -> 5e période, bloc d
+35Br: : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5 -> 4e période, bloc p
+rappel: évolution du rayon atomique dans le tableau périodique (du plus petit au plus grand)
+Méthode 1: Mo est plus bas que Br dans le tableau périodique donc il a le plus grand rayon atomique.
+Méthode 2: Mo est plus à gauche que Br dans le tableau périodique donc il a le plus grand rayon atomique.
+E. FAUX : c'est He
+DETAIL SITE (si différent)
+NOTES
+
+
+===== 2023s1 thermo Q3 ID1 CLE BE =====
+SUJET ORIGINAL
+p112
+3. On effectue dans une enceinte indilatable la réaction suivante :
+Fe203(s) + 3 CO (g) <=> 2 Fe(s) + 3 CO2(g)
+Données: ΔH°f Fe203(s) = - 800 kJ.mol-1; ΔH°f CO(g) = - 100 kJ.mol-1; ΔH°f CO2(g) = - 400 kJ.mof-1 ; l'état
+standard du fer est Fe(s)
+A. L'enthalpie de la réaction est égale à 500 kJ.
+B. L'enthalpie de la réaction est égale à -100 kJ.
+C. Si on augmente la température, la réaction est déplacée dans le sens direct.
+D. Si on augmente la pression, la réaction est déplacée dans le sens direct.
+E. Si on ajoute CO(g), la température augmente.
+DETAIL ORIGINAL
+BE
+A. FAUX : Comme Fe(s) est un corps pur solide à l'état standard on ne le prend pas en compte dans la
+réaction. On a donc : 3*-400+800+3*100 = -100 kJ
+B. VRAI
+C. FAUX : le système est exothermique donc en augmentant la température cela va dans le sens indirect
+D. FAUX : il y a autant de moles de gaz des deux côtés donc cela ne change rien.
+E. VRAI : ajout de CO -> évolution dans le sens direct. Réaction exothermique donc augmentation de la
+température
+DETAIL SITE (si différent)
+NOTES
+
+
+===== 2023s1 chimie_org Q4 ID1 CLE AD =====
+SUJET ORIGINAL
+p112
+4. Fonction amine et isomérie concernant les structures 1 à 4 suivantes :
+A. La structure 1 possède une fonction amine secondaire.
+B. La structure 1 est un diastéréoisomère de la structure 2.
+C. La structure 2 est l'énantiomère de la structure 3.
+D. La structure 3 est isomère de constitution de la structure 4.
+E. La structure 4 possède une fonction amine secondaire.
+DETAIL ORIGINAL
+AD
+A. VRAI : l’Azote est lié a deux groupe R-
+B. FAUX : 1 et 2 sont isomères de conformation (configurations sur le C* identiques)
+C. FAUX : 2 et 3 sont des isomères de conformation.
+D. VRAI : même formule brute (C6H14NBr), formule planes différentes
+E. FAUX : Amine primaire, car azote est lié a un seul groupe R
+DETAIL SITE (si différent)
+NOTES
+
+
+===== 2023s1 chimie_org Q5 ID2 CLE E =====
+SUJET ORIGINAL
+p113
+5. Chiralité et isomérie concernant les structures 1 à 4 suivantes :
+A. La structure 1 est l'énantiomère de la structure 2.
+B. La structure 2 est isomère de constitution de la structure 3.
+C. La structure 3 est un diastéréoisomère de la structure 4.
+D. Les structures 1 à 4 possèdent toutes deux carbones asymétriques.
+E. Les structures 1 à 4 sont toutes chirales.
+DETAIL ORIGINAL
+E
+A. FAUX : ce sont des diastéréomères, car configuration différente sur un seul des deux C*
+B. FAUX : formules brutes différentes (3 ne possède pas de Chlore), donc molécules non isomères
+C. FAUX : ce sont des isomères de conformation, car elles possèdent chacune 1 C* qui ont la même
+configuration. (Attention, le carbone lié à deux CH3 n'est pas asymétrique !!!)
+D. FAUX : la structure 3 possède un aldéhyde et non une cétone
+E. VRAI : 1 et 2 possèdent deux C* (mais ce ne sont pas des composés méso donc c'est ok), 3 et 4
+possèdent 1 C*. Donc toutes les structures sont chirales
+DETAIL SITE (si différent)
+NOTES
+La justification D parle d’un aldéhyde au lieu d’une cétone alors que l’item D porte sur le nombre de carbones asymétriques. Cette phrase figure déjà dans le corrigé original et ne justifie donc pas l’item. Le détail E du même corrigé précise que les structures 3 et 4 possèdent chacune un seul C*. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.
+
+===== 2023s1 chimie_org Q6 ID3 CLE ABE =====
+SUJET ORIGINAL
+p113
+6. Isomérie et réactivité concernant les structures 1 à 3 suivantes :
+A. La structure 1 ne possède pas d'énantiomère.
+B. La structure 1, traitée par H3COH et une quantité catalytique de H+, conduit, entre autres, à la
+formation d'un ester de formule brute C5H10O2.
+C. La structure 2, traitée par l'acide chlorhydrique (HCl), conduit à la formation d’une amine primaire.
+D. La structure 3 correspond à une cétone énolisable.
+E. La structure 3, traitée selon les conditions suivantes : 1) KCN, 2) H2O,HCl, conduit, entre autres, à la
+formation d'un mélange de deux diastéréoisomères.
+DETAIL ORIGINAL
+ABE
+A. VRAI : car pas de C*
+B. VRAI : formation d’ester par acide carboxylique + alcool avec une quantité catalytique pour une formule
+brute C5 H10 O2
+C. FAUX : Lorsqu'on traite un chlorhydrate (2) avec de l'acide chlorhydrique (HCl), il ne se passe
+généralement pas grand-chose de significatif en termes de réaction chimique, de plus si jamais il se
+passe une réaction il va donner une amine secondaire et non pas une amine primaire
+D. FAUX : La structure 3 possède un aldéhyde énolisable, non une cétone
+E. VRAI : traite selon ses conditions ont obtient la formation de carbone asymétrique, obtention de deux
+configurations opposée (R et S), obtention d’un mélange racémique. Sachant qu’on a un deuxième C*
+qui lui garde la même configuration > un seul des deux C* a une configuration différente est un
+diastéréoisomère
+DETAIL SITE (si différent)
+NOTES
+Le détail E emploie « mélange racémique » puis explique qu’un centre préexistant garde sa configuration et que les deux produits sont diastéréoisomères. Un racémate est un mélange équimolaire de deux énantiomères ; ce terme ne convient pas à cette paire de diastéréoisomères. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.
+
+===== 2023s1 chimie_org Q7 ID4 CLE BD =====
+SUJET ORIGINAL
+p113
+7. Réactivité concernant la structure suivante :
+A. Cette structure, traitée par HCl, conduit, entre autres, à un acide carboxylique.
+B. Cette structure correspond à celle d'une cétone énolisable.
+C. Cette structure, traitée selon les conditions suivantes : 1) KCN, 2) H2O,HCl, conduit, entre autres, à la
+formation d'un mélange de deux énantiomères.
+D. Cette structure, traitée par une quantité catalytique d'hydroxyde de sodium (NaOH cat.), conduit,
+entre autres, à un cétol de formule brute C6H12O2.
+E. Cette structure, traitée par une quantité importante d'hydroxyde de sodium à chaud (NaOH, Δ),
+conduit, entre autres, à une cétone insaturée de formule brute C6H12O.
+DETAIL ORIGINAL
+BD
+A. FAUX : une cétone traitée avec de l'acide chlorhydrique (HCl) ne se transforme pas en acide
+carboxylique par simple traitement.
+B. VRAI : Une cétone est dite énolisable si elle possède au moins un hydrogène sur un atome de carbone
+adjacent au groupe carbonyle (appelé carbone α)
+C. FAUX : car on obtient un carbone non asymetrique et donc sans énantiomères
+D. VRAI : aldéhyde ou cétone énolisable -> aldol ou cétol
+E. FAUX : cette réaction forme bien une cétone insaturée, mais de formule brute C6H10O
+DETAIL SITE (si différent)
+NOTES
+

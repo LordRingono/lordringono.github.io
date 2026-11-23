@@ -1,0 +1,105 @@
+[
+  {
+    "bank": "bio.cm6",
+    "id": 7,
+    "type": "missing_verdict",
+    "description": "Corrigé incomplet : le sujet comporte un item B (« Les PL ont des mouvements de flip flop spontanés ») absent du corrigé. La question reste hors note.",
+    "sourcesExamined": [
+      "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+      "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_correction/CORRECTION AUTOTEST CM6 LES MEMBRANES(1).pdf",
+      "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/biocell_individual/AUTOTEST CM6 LES MEMBRANES(1).pdf"
+    ],
+    "request": "Fournir une version harmonisée sujet/corrigé ou une confirmation officielle du tutorat.",
+    "independentVerification": "confirmed"
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "type": "source_discrepancy",
+    "description": "Le sujet fusionne deux propositions dans A et ne comporte que quatre items ; le corrigé comporte cinq items. La question reste hors note ; les correspondances détaillées sont indiquées après validation.",
+    "sourcesExamined": [
+      "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm10_subject/AUTOTEST CM10 MORT CELLULAIRE.pdf",
+      "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm10_correction/CORRECTION autotest CM10 MORT CELLULAIRE.pdf",
+      "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/biocell_individual/AUTOTEST CM10 MORT CELLULAIRE.pdf"
+    ],
+    "request": "Fournir une version harmonisée sujet/corrigé ou une confirmation officielle du tutorat.",
+    "independentVerification": "confirmed"
+  },
+  {
+    "bank": "bio.ann.cm6",
+    "ids": [
+      25
+    ],
+    "type": "clean_subject_missing",
+    "request": "Sujet non annoté UE5 2017–2018, Q42 « Membranes » (énoncés liposomes, Ras-GPI, sphingolipides, membrane mitochondriale externe, glycolipides golgiens).",
+    "available": {
+      "subject": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 15,
+      "correction": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC membranes biologiques.pdf"
+    },
+    "searched": [
+      "Documents originaux initiaux",
+      "Sources revision_v4",
+      "Compilation générale UE5, années présentes à partir de 2018–2019"
+    ],
+    "impact": "Texte interactif et clé conservés ; la copie annotée est consultable après validation uniquement.",
+    "independentVerification": "confirmed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 1,
+    "type": "ambiguous_official_key",
+    "description": "Ratures sans légende dans le corrigé thématique et désaccord avec la grille de la compilation ; aucune clé officielle unique ne peut être déterminée. Question hors note.",
+    "sourcesExamined": [
+      "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "evidencePages": {
+      "thematic": 1,
+      "compilation": 1041
+    },
+    "request": "Confirmation officielle de la clé finale applicable à cette édition du QCM.",
+    "independentVerification": "confirmed"
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 2,
+    "type": "ambiguous_official_key",
+    "description": "Ratures sans légende dans le corrigé thématique et désaccord avec la grille de la compilation ; aucune clé officielle unique ne peut être déterminée. Question hors note.",
+    "sourcesExamined": [
+      "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+      "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+    ],
+    "evidencePages": {
+      "thematic": 1,
+      "compilation": 1041
+    },
+    "request": "Confirmation officielle de la clé finale applicable à cette édition du QCM.",
+    "independentVerification": "confirmed"
+  },
+  {
+    "bank": "bio.ann.cm10",
+    "ids": [
+      7,
+      12
+    ],
+    "type": "course_for_scientific_arbitration_missing",
+    "request": "Ronéo complète CM10 mort cellulaire/sénescence 2026, en particulier le phénotype sécrétoire et les cytokines pro-inflammatoires.",
+    "sourcesExamined": [
+      "Annales CM10 2023-2025.pdf",
+      "Annales corrigées CM10 2023-2025.pdf",
+      "Autotest CM10 et corrigé",
+      "Inventaire complet sources/revision_v4 et archive initiale"
+    ],
+    "impact": "Les deux clés officielles divergentes restent notées selon leur corrigé ; les réserves existantes sont conservées après validation.",
+    "independentVerification": "confirmed",
+    "alsoNeededFor": [
+      {
+        "bank": "bio.cm10",
+        "id": 3,
+        "item": "A",
+        "reason": "p16, transcription de la cycline D : réserve existante non arbitrable sans ronéo CM10."
+      }
+    ]
+  }
+]

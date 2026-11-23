@@ -1,0 +1,48 @@
+
+## annales.ue3.2021-2022.s2 Q1 / clé site ADE
+
+SUBJECT: Exercice 1 : 1. Parmi les propositions suivantes cochez la(les) proposition(s) exacte(s). A. La moyenne est un indicateur de position B. La médiane est un indicateur de dispersion C. La variance est un indicateur de position D. L’intervalle interquartile est un indicateur de dispersion E. L’écart-type est un indicateur de dispersion
+
+CORRECTION: ADE A. VRAI B. FAUX : de position. C. FAUX : De Dispersion. D. VRAI E. VRAI
+
+
+## annales.ue3.2021-2022.s2 Q2 / clé site C
+
+SUBJECT: yp p Exercice 2 : Un groupe de 49 jeunes femmes présente une concentration moyenne en créatine kinase de 110 UI/L avec un écart type estimé à 14UI/L 2. Parmi les propositions suivantes, cochez la proposition qui donne la borne supérieure de l’intervalle de confiance à 95% de la moyenne en créatine kinase dans la population dont ce groupe de jeunes femmes est représentatif. A. 110 UI/L B. 112 UI/L C. 114 UI/L D. 116 UI/L E. Aucune réponse juste parmi les 4 propositions précédentes
+
+CORRECTION: C A. FAUX m= 110, s=14, n=49 Pour calculer la borne supérieure de l’intervalle de confiance on utilise la formule suivante : 𝑠 m+2 x 𝑛 Appliquons la formule : 14 110 + 2 = 110 + 4 = 114 √49 B. FAUX C. VRAI D. FAUX E. FAUX
+
+
+## annales.ue3.2021-2022.s2 Q3 / clé site BCD
+
+SUBJECT: p j p p p p Exercice 3 : Vous souhaitez comparer l’âge entre deux groupes de 20 patients chacun. 3. Parmi les propositions suivantes, cochez la(les) propositions exactes. A. Vous pensez faire un test de l’écart réduit B. Vous pensez faire un test de Student C. Vous devrez faire l’hypothèse que l’âge à la même variabilité dans les deux populations dont les 2 groupes sont représentatifs. D. Vous estimerez la variance commune aux deux populations E. Le résultat de votre test sera valable quelle que soit la distribution de l’âge dans les deux populations dont les 2 groupes sont représentatifs
+
+CORRECTION: BCD A. FAUX : n<30 le théorème central limité ne s’applique pas, on ne peut donc utiliser le test de l’écart réduit. B. VRAI : En cas de petit échantillon n<30 on utilise le test de Student. C. VRAI : notion d’homoscédasticité D. VRAI : Comparaison de 2 échantillons indépendants, il faut donc trouver la variance commune pour pouvoir faire le test de comparaison (possible grâce à l’hypothèse de l’item c) E. FAUX : on suppose que la distribution est normale car le TCL ne s’applique pas (puisque n < 30). Si on était dans le cas de grands échantillons, le TCL s’appliquerait donc la distribution suivrait une loi normale également.
+
+
+## annales.ue3.2021-2022.s2 Q4 / clé site BC
+
+SUBJECT: Exercice 4 : La silicose est une maladie pulmonaire causée par l’inhalation de silice cristalline à laquelle les employés du bâtiment sont, entre autres, exposés. Son diagnostic peut se faire par tomodensitométrie (TDM). Les premières études ont montré que la TDM a une sensibilité de 90% et une spécificité de 80%. 4. Parmi les propositions suivantes, cochez la(les) propositions exacte(s). A. La TDM détecte 80% des cas de silicose B. La TDM classe 20% des individus sans silicose comme atteints de silicose (à tort) C. L’odds pré-test de silicose est multiplié par 4,5 en cas de TDM positive D. Les éléments de l’énoncé permettent de calculer la VPP de la TDM pour le diagnostic de la silicose E. La VPP de la TDM pour la détection de silicose est la même pour les employés du bâtiment que pour des employés hors secteur du bâtiment
+
+CORRECTION: BC A. FAUX : La sensibilité permet de mieux affirmer la présence d’une maladie. Alors que la spécificité permet de mieux exclure la présence d’une maladie. B. VRAI : Comme la spécificité est de 80%, alors parmi les personnes non-atteinte de silicose, la TDM sera en moyenne positive (à tort) pour 20%. C. VRAI : En cas de test positif, l’odds prétest est multiplié par la RV+ RV+ = Sensibilité/1-Spécificité, RV+=0,9/1-0,8 = 4,5 D. FAUX : Il nous manque la prévalence. E. FAUX : La prévalence de cette maladie varie entre ces 2 population, et comme la VPP dépende de la prévalence, elle ne sera donc pas la même.
+
+
+## annales.ue3.2021-2022.s2 Q5 / clé site AD
+
+SUBJECT: p y Une étude a suivi 8000 travailleurs en Chine, indemnes de silicose lors de l’inclusion dans l’étude, afin de détecter la survenue de silicose. 298 cas de silicose sont apparus pour un suivi équivalent à 125 814 personnes années. 5. Parmi les propositions suivantes cochez la(les) proposition(s) suivante(s). A. Il s’agit d’une étude de cohorte B. L’étude permet d’estimer la prévalence de silicose en Chine C. L’incidence de silicose en Chine est estimée par le ratio 298/8000 D. Le suivi d’une personne qui développe la silicose s’arrête lors de la survenue de silicose pour le calcul du nombre de personnes années. E. L’incidence de silicose dépend de la durée de la maladie
+
+CORRECTION: AD A. VRAI : 8 000 travailleurs en Chine, indemnes de silicose lors de l'inclusion dans l'étude. C’est la définition d’une étude de cohorte. B. FAUX : La prévalence concerne les cas existants. Or, dans une étude de cohorte tout le monde est indemne de la maladie au début. Cette étude permet de calculer l’incidence. C. FAUX : L’incidence = nombre de nouveaux cas/nombre de personne-année = 298/125 814. D. VRAI : Quand on calcule le nombre de personne-années, on prend en compte tout le temps jusqu'à l'observation de l'évènement d'intérêt E. FAUX : C’est la prévalence qui dépend de la durée d’une maladie.
+
+
+## annales.ue3.2021-2022.s2 Q6 / clé site BCDE
+
+SUBJECT: p Une seconde étude en Chine a suivi 3500 personnes atteintes de silicose pour évaluer leur devenir, en particulier selon leur statut tabagique. Le tableau ci-dessous indique le devenir à 5 ans du diagnostic de silicose (vivant ou décédé) selon le statut tabagique. Aide au calcul : 525/700 = 0,75 525/175 = 3 6. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s). A. Seul l’odds ratio peut être interprété à l’issue de cette étude pour quantifier l’association entre le statut tabagique et le décès à 5 ans. B. Le risque de décès à 5 ans dans le groupe non-fumeur est estimé à 0,5. C. Dans le groupe fumeur il y a en moyenne 3 individus qui décèdent contre 1 qui ne décède pas D. Le risque de décès à 5 ans du groupe fumeur est 1,5 fois plus élevé que celui du groupe non-fumeur E. La différence de risque de décès à 5 ans entre le groupe fumeur et le groupe non-fumeur est positive
+
+CORRECTION: BCDE A. FAUX : Il s'agit encore d'une étude de cohorte, l'odds ratio n'est pas le seul outil à pouvoir être interprété, il y a également le RR par exemple. B. VRAI : Rgroupe non-fumeurs = 1400/2800 = 0,5 C. VRAI : Rgroupe fumeurs = 525/700 = 0,75 = 3/4 => ii y a en moyenne 3 individus qui décèdent contre 1 qui ne décède pas. D. VRAI : Il faut calculer le RR. RR = Risque du groupe fumeurs / Risque du groupe non-fumeurs = 0,75/0,5 = 1,5 E. VRAI : DR = Rique du groupe fumeurs – Risque du groupe non-fumeurs = 0,75 – 0,5 = 0,25.
+
+
+## annales.ue3.2021-2022.s2 Q7 / clé site ADE
+
+SUBJECT: Une seconde étude en Chine a suivi 3500 personnes atteintes de silicose pour évaluer leur devenir, en particulier selon leur statut tabagique. Le tableau ci-dessous indique le devenir à 5 ans du diagnostic de silicose (vivant ou décédé) selon le statut tabagique. Aide au calcul : 525/700 = 0,75 525/175 = 3 q g p g p p Le risque de décès à 5 ans est comparé entre les deux groupes par un test de l’écart-réduit. La statistique de test obtenue est d’environ 12. 7. Parmi les propositions suivantes, cochez la(les) proposition(s) exacte(s). A. Le risque de décès dans le groupe fumeur est statistiquement différent de celui du groupe non- fumeur au risque d’erreur 5%. B. La p-value du test de l’écart-réduit est supérieure à 0,05 C. L’écart de risque de décès observé dans cette étude entre les fumeurs et les non-fumeurs a de fortes chances d’être lié à des fluctuations d’échantillonnage. D. Dans une autre étude avec les mêmes risques de décès mais des effectifs plus faibles, la puissance du test statistique serait plus faible. E. Les résultats de cette étude sont en faveur d’un surrisque de décès des personnes qui fument par rapport à celles qui ne fument pas en cas de silicose.
+
+CORRECTION: ADE A. VRAI : Au risque d’erreur de 5%, on compare le résultat du test à 1,96. Or, 12>1,96 Alors : Le risque de décès dans le groupe fumeur est statistiquement diffèrent de celui du groupe non-fumeur, au risque d'erreur 5 %. B. FAUX : Le risque est statistiquement différant => on rejette l’hypothèse nulle => P-value < 0,05 C. FAUX : car on a rejeté l’hypothèse nulle. D. VRAI : Lorsque n diminue, 𝛽 augmente. Alors la puissance (1- 𝛽)diminue. E. VRAI

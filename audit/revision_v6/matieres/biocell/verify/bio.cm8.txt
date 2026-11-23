@@ -1,0 +1,451 @@
+
+### bio.cm8 ID 1 | ANSWER ABC | COMPLETE True
+PREP STEM: Le système endomembranaire comporte :
+SUBJECT
+autotest CM8.pdf p1 [0, 99.2, 595.303955078125, 207.35]
+1)  Le système endomembranaire comporte :
+A.  Le RER
+B.  L’ADG
+C.  Les lysosomes
+D.  Les peroxysomes
+E.  Les mitochondries
+CORRECTION
+correction autotest CM8.pdf p1 [0, 99.2, 595.303955078125, 207.35]
+1)  Le système endomembranaire comporte :
+A.  Le RER Vrai
+B.  L’ADG Vrai
+C.  Les lysosomes vrai
+D.  Les peroxysomes Faux
+E.  Les mitochondries Faux
+
+### bio.cm8 ID 2 | ANSWER BCEF | COMPLETE True
+PREP STEM: La membrane interne de la mitochondrie est :
+SUBJECT
+autotest CM8.pdf p1 [0, 207.35, 595.303955078125, 392.75]
+2)  La membrane interne de la mitochondrie est :
+A.  pauvre en cardiolipine
+B.  riche en protéines de la chaine respiratoire
+C.  comporte des protéines issues du génome mitochondrial
+D.  est perméable aux H+
+E.   la cardiolipine renforce l’imperméabilité de cette membrane interne mitochondriale, il est à
+    noter qu’est absente de la membrane plasmique
+F.  comporte forcément des transporteurs pour permettre aux molécules de traverser cette
+   membrane
+G.  l’espace intermembranaire a un pH = 7
+CORRECTION
+correction autotest CM8.pdf p1 [0, 207.35, 595.303955078125, 392.75]
+2)  La membrane interne de la mitochondrie est :
+A.  pauvre en cardiolipine Faux
+B.  riche en protéines de la chaine respiratoire Vrai
+C.  comporte des protéines issues du génome mitochondrial Vrai
+D.  est perméable aux H+ Faux imperméable du fait de la cardiolipine
+E.   la cardiolipine renforce l’imperméabilité de cette membrane interne mitochondriale, il est à
+    noter qu’est absente de la membrane plasmique Vrai et aussi de toutes les autres
+   membranes de la cellule eucaryote
+F.  comporte forcément des transporteurs pour permettre aux molécules de traverser cette
+   membrane Vrai
+G.  l’espace intermembranaire a un pH = 7 Faux il est acide du fait de la grande quantité de H+
+
+### bio.cm8 ID 3 | ANSWER ABE | COMPLETE True
+PREP STEM: A propos de l’ADN mitochondrial
+SUBJECT
+autotest CM8.pdf p1 [0, 392.75, 595.303955078125, 539.8]
+3) A propos de l’ADN mitochondrial
+A.    il est circulaire et double brin
+B.  chacun des deux brins de l’ADN est codant
+C.    il comporte 13 gènes
+D.  les ARNm mitochondriaux sont codés par 2 gènes
+E.  les ARN mitochondriaux sont polycistroniques
+F.  chaque gène de l’ADNmt présente un promoteur et un codon STOP
+G.  chaque mitochondrie comporte une seule copie d’ADNmt
+CORRECTION
+correction autotest CM8.pdf p1 [0, 392.75, 595.303955078125, 570.7]
+3) A propos de l’ADN mitochondrial
+A.    il est circulaire et double brin Vrai
+B.  chacun des deux brins de l’ADN est codant Vrai
+C.    il comporte 13 gènes Faux 37
+D.  les ARNm mitochondriaux sont codés par 2 gènes Faux les ARNr sont codés par deux gènes
+    et 22 gènes codent les ARNt
+E.  les ARN mitochondriaux sont polycistroniques Vrai
+F.  chaque gène de l’ADNmt présente un promoteur et un codon STOP faux ils sont
+    polycistroniques
+G.  chaque mitochondrie comporte une seule copie d’ADNmt faux 1 à 10
+
+### bio.cm8 ID 4 | ANSWER CI | COMPLETE True
+PREP STEM: A propos des mitochondries
+SUBJECT
+autotest CM8.pdf p1 [0, 539.8, 595.303955078125, 713.3]
+4) A propos des mitochondries
+A.  L’espace intermembranaire a une composition proche de celle du nucléoplasme
+B.  En MET on observe des mitochondries filamenteuses avec 1 diamètre de 1 nm
+C.  Les mitochondries peuvent se diviser par fission
+D.  La fission des mitochondries est médiée par l’ADG
+E.  La fission des mitochondries précède la réplication du matériel génétique mitochondrial
+F.  La plupart des protéines mitochondriales sont codées par l’ADNmt
+G.  La réplication de l’ADNmt a lieu en phase S du cycle cellulaire
+H. Au cours d’une mitose, toutes les mitochondries entrent en fission pour se séparer en
+    quantité égale dans chaque cellule fille
+I.   La fusion permet de mettre en commun du matériel matriciel mitochondrial
+CORRECTION
+correction autotest CM8.pdf p1 [0, 570.7, 595.303955078125, 744.2]
+4) A propos des mitochondries
+A.  L’espace intermembranaire a une composition proche de celle du nucléoplasme Faux de
+    celle du cytosol
+B.  En MET on observe des mitochondries filamenteuses avec 1 diamètre de 1 nm Faux 1 micron
+C.  Les mitochondries peuvent se diviser par fission Vrai
+D.  La fission des mitochondries est médiée par l’ADG Faux par le RE
+E.  La fission des mitochondries précède la réplication du matériel génétique mitochondrial faux
+    le doublement du chromosome mitochondrial précède la fission
+F.  La plupart des protéines mitochondriales sont codées par l’ADNmt Faux nucléaire
+G.  La réplication de l’ADNmt a lieu en phase S du cycle cellulaire Faux c’est indépendant du
+    cycle cellulaire
+correction autotest CM8.pdf p2 [0, 70.3, 595.303955078125, 154.55]
+H. Au cours d’une mitose, toutes les mitochondries entrent en fission pour se séparer en
+    quantité égale dans chaque cellule fille faux pas de fission systématique des
+    mitochondries ,mais on a bien une répartition aléatoire des mito au cours de la mitose
+I.   La fusion permet de mettre en commun du matériel matriciel mitochondrial Vrai
+
+### bio.cm8 ID 5 | ANSWER ABCEF | COMPLETE True
+PREP STEM: A propos des mitochondries
+SUBJECT
+autotest CM8.pdf p2 [0, 69.3, 595.303955078125, 227.35]
+5) A propos des mitochondries
+A.  La mitochondrie permet la synthèse d’ATP au niveau des crêtes
+B.  La mitochondrie présente une membrane externe riche en porine appelées TOM
+C.  La position des mitochondries dans la cellule est contrôlée en partie par les microtubules
+D.  La forme et la taille et la localisation des mitochondries sont indépendantes des besoins
+    énergétiques de la cellule
+E.  Les crêtes mitochondriales de la membrane interne augmentent considérablement la surface
+   de cette membrane permettant ainsi d’y insérer de nombreux complexes de la
+    phosphorylation oxydative
+F.    Il est possible que deux mitochondries fusionnent
+CORRECTION
+correction autotest CM8.pdf p2 [0, 154.55, 595.303955078125, 343.5]
+5) A propos des mitochondries
+A.  La mitochondrie permet la synthèse d’ATP au niveau des crêtes Vrai la phosphorylation
+    oxydative qui apporte la plus grande partie de l’ATP
+B.  La mitochondrie présente une membrane externe riche en porine appelées TOM Vrai
+C.  La position des mitochondries dans la cellule est contrôlée en partie par les microtubules
+    Vrai
+D.  La forme et la taille et la localisation des mitochondries sont indépendantes des besoins
+    énergétiques de la cellule Faux dépendantes
+E.  Les crêtes mitochondriales de la membrane interne augmentent considérablement la surface
+   de cette membrane permettant ainsi d’y insérer de nombreux complexes de la
+    phosphorylation oxydative Vrai
+F.    Il est possible que deux mitochondries fusionnent Vrai
+
+### bio.cm8 ID 6 | ANSWER ABCD | COMPLETE True
+PREP STEM: A propos de cette figure
+SUBJECT
+autotest CM8.pdf p2 [0, 239.25, 595.303955078125, 497.95]
+6) A propos de cette figure
+
+
+
+
+
+A.  la flèche indique une double membrane,  il y a une membrane interne et une externe
+B.  la barre d’échelle pourrait faire 0.5µm la matrice est riche en ARNr
+C.  la matrice est riche en ribosomes
+D.  les crêtes montrent des ATP synthases que sont des pompes de type F
+autotest CM8.pdf p2 [72.0, 260.0, 255.0, 435.0]
+
+CORRECTION
+correction autotest CM8.pdf p2 [0, 355.4, 595.303955078125, 629.55]
+6) A propos de cette figure
+
+
+
+
+
+A.  la flèche indique une double membrane,  il y a une membrane interne et une externe Vrai
+B.  la barre d’échelle pourrait faire 0.5µm Vrai une mitochondrie fait entre 0.5 et 2 µm
+C.  la matrice est riche en ARNr Vrai
+D.  la matrice est riche en ribosomes Vrai
+E.  les crêtes montrent des ATP synthases que sont des pompes de type F vrai cours gillet
+
+### bio.cm8 ID 7 | ANSWER CDE | COMPLETE True
+PREP STEM: Un peu de biochimie :
+SUBJECT
+autotest CM8.pdf p2 [0, 517.85, 595.303955078125, 675.9]
+7) Un peu de biochimie :
+A.  L’atome d’oxygène de la molécule d’H2O produite par la mitochondrie au cours de la
+    respiration provient du glucose
+B.  Les complexes de la phosphorylation oxydative, sur la membrane interne pompent des ions
+   H+ de l’espace inter membranaire vers la matrice grâce à l’énergie fournie par le passage des
+    électrons de haute énergie
+C.  Une partie de l’O2 cellulaire peut être transformée en ROS
+D.  Dans une mitochondrie qui fonctionne normalement, le pH est plus élevé dans la matrice que
+   dans l’espace inter membranaire
+E.  Le cycle de Krebs a lieu dans la matrice mitochondriale
+CORRECTION
+correction autotest CM8.pdf p2 [0, 649.45, 595.303955078125, 761.15]
+7) Un peu de biochimie :
+A.  L’atome d’oxygène de la molécule d’H2O produite par la mitochondrie au cours de la
+    respiration provient du glucose Faux de O2 que l’on respire
+B.  Les complexes de la phosphorylation oxydative, sur la membrane interne pompent des ions
+   H+ de l’espace inter membranaire vers la matrice grâce à l’énergie fournie par le passage des
+    électrons de haute énergie F de la matrice vers l’espace inter membranaire
+C.  Une partie de l’O2 cellulaire peut être transformée en ROS Vrai H2O2
+correction autotest CM8.pdf p3 [0, 70.3, 595.303955078125, 139.1]
+D.  Dans une mitochondrie qui fonctionne normalement, le pH est plus élevé dans la matrice que
+   dans l’espace inter membranaire Vrai car plus d’H+ dans EIM donc pH plus bas
+E.  Le cycle de Krebs a lieu dans la matrice mitochondriale Vrai
+
+### bio.cm8 ID 8 | ANSWER ABE | COMPLETE True
+PREP STEM: La mitochondrie et l’apoptose :
+SUBJECT
+autotest CM8.pdf p3 [0, 69.3, 595.303955078125, 231.8]
+8)  La mitochondrie et l’apoptose :
+A.  est impliquée dans le déclenchement de l’apoptose par libération du cytochrome C dans le
+    cytosol
+B.   si elle est altérée, elle peut être une source de radicaux libres qui peuvent altérer l’ADN
+   génomique
+C.  C’est un processus détectable par la présence inhabituelle de la phosphatidylcholine sur le
+     feuillet externe de la membrane plasmique
+D. On observe une rupture de la membrane plasmique chez la cellule apoptotique
+E.  L’apoptose peut se produire si la cellule est exposée à un stress oxydatif
+CORRECTION
+correction autotest CM8.pdf p3 [0, 139.1, 595.303955078125, 347.95]
+8)  La mitochondrie et l’apoptose :
+A.  est impliquée dans le déclenchement de l’apoptose par libération du cytochrome C dans le
+    cytosol Vrai
+B.   si elle est altérée, elle peut être une source de radicaux libres qui peuvent altérer l’ADN
+   génomique Vrai
+C.  C’est un processus détectable par la présence inhabituelle de la phosphatidylcholine sur le
+     feuillet externe de la membrane plasmique Faux il s’agit de la phosphatidylsérine qui est
+   reconnue par l’annexine V
+D. On observe une rupture de la membrane plasmique chez la cellule apoptotique Faux la
+    cellule apoptotique n’éclate pas, on observe des bourgeonnements et la formation de
+    corps apoptotiques qui seront phagocytés par les macrophages
+E.  L’apoptose peut se produire si la cellule est exposée à un stress oxydatif Vrai
+
+### bio.cm8 ID 9 | ANSWER ACEG | COMPLETE True
+PREP STEM: Concernant l’apoptose :
+SUBJECT
+autotest CM8.pdf p3 [0, 231.8, 595.303955078125, 456.1]
+9)  Concernant l’apoptose :
+A.  L’apoptose est un processus indispensable au cours du développement embryonnaire
+B.  Une cellule riche en mutations comma par exemple une cellule cancéreuse ne peut pas
+    déclencher l’apoptose
+C.  Une cellule en apoptose perd ses adhérences à la matrice et aux autres cellules
+D.  L’apoptose ne peut être déclenchée que par des facteurs externes qui se fixent sur des
+    récepteurs membranaires on parle de voie extrinsèque
+E.  Les procaspases initiatrices présentent un prodomaine
+F.  Les procaspases exécutrices inactives ne présentent pas de prodomaine
+G. Ce sont les facteurs BCL2 pro-apoptotiques qui déclenchent la sortie du cytochorme c dans le
+    cytosol
+H.  Le récepteur FAS se trimérise en surface de la cellule , il déclenche alors la voie intrinsèque
+I.   L’activation du récepteur FAS résulte de la voie intrinsèque de l’apoptose
+CORRECTION
+correction autotest CM8.pdf p3 [0, 347.95, 595.303955078125, 618.6]
+9)  Concernant l’apoptose :
+A.  L’apoptose est un processus indispensable au cours du développement embryonnaire Vrai,
+   on parle de mort cellulaire phylogénique
+B.  Une cellule riche en mutations comme par exemple une cellule cancéreuse ne peut pas
+    déclencher l’apoptose Faux au contraire
+C.  Une cellule en apoptose perd ses adhérences à la matrice et aux autres cellules Vrai
+D.  L’apoptose ne peut être déclenchée que par des facteurs externes qui se fixent sur des
+    récepteurs membranaires on parle de voie extrinsèque Faux aussi voie intrinsèque
+E.  Les procaspases initiatrices présentent un prodomaine Vrai
+F.  Les procaspases exécutrices inactives ne présentent pas de prodomaine faux les exécutrices
+   ont prodomaine très réduit et non régulable
+G. Ce sont les facteurs BCL2 pro-apoptotiques qui déclenchent la sortie du cytochrome c dans le
+    cytosol Vrai
+H.  Le récepteur FAS se trimérise en surface de la cellule , il déclenche alors la voie intrinsèque
+    faux extrinsèque
+I.   L’activation du récepteur FAS résulte de la voie intrinsèque de l’apoptose Faux
+
+### bio.cm8 ID 10 | ANSWER BDEF | COMPLETE True
+PREP STEM: D’après vos connaissances en biologie cellulaire et particulièrement sur la mort cellulaire programmée et les caspases, vous pouvez dire que :
+SUBJECT
+autotest CM8.pdf p3 [0, 456.1, 595.303955078125, 649.5]
+10) D’après vos connaissances en biologie cellulaire et particulièrement sur la mort cellulaire
+   programmée et les caspases, vous pouvez dire que :
+A.  Les caspases sont des arginine aspartate protéase
+B.  Les caspases initiatrices comme la caspase 9, sont activées par la voie intrinsèque et se
+    regroupent en apoptose sous l’effet du cytochrome C
+C.  L’apoptosome est formé du cytC, d’AFAP1 et de tBID
+D. Une cellule in vitro développe des corps apoptotiques
+E.  T-Bid peut activer indirectement la voie intrinsèque
+F.  Les caspases 8 et 10 permettent la formation du DISCosome par activation de FAS
+G.  Le récepteur FAS doit se dimériser
+H.  Les apoptosomes présentent in vitro une membrane perméable
+CORRECTION
+correction autotest CM8.pdf p3 [0, 618.6, 595.303955078125, 745.75]
+10) D’après vos connaissances en biologie cellulaire et particulièrement sur la mort cellulaire
+   programmée et les caspases, vous pouvez dire que :
+A.  Les caspases sont des arginine aspartate protéase Faux cystéinyl aspartate protéase
+B.  Les caspases initiatrices comme la caspase 9, sont activées par la voie intrinsèque et se
+    regroupent en apoptose sous l’effet du cytochrome C Vrai, elles forment alors des
+   apoptosomes avec la protéine Afap1
+C.  L’apoptosome est formé du cytC, d’AFAP1 et de tBID Faux de la pro-caspase 9
+D. Une cellule in vitro développe des corps apoptotiques Vrai
+correction autotest CM8.pdf p4 [0, 70.3, 595.303955078125, 185.45]
+E.  T-Bid peut activer indirectement la voie intrinsèque Vrai il est activé d’abord par la voie
+    extrinsèque
+F.  Les caspases 8 et 10 permettent la formation du DISCosome par activation de FAS Vrai
+G.  Le récepteur FAS doit se dimériser Faux se trimériser
+H.  Les apoptosomes présentent in vitro une membrane perméable Faux ce sont les corps
+    apoptotiques
+
+### bio.cm8 ID 11 | ANSWER ABCDE | COMPLETE True
+PREP STEM: Les groupements fe/S sont présents :
+SUBJECT
+autotest CM8.pdf p3 [0, 649.5, 595.303955078125, 745.75]
+11) Les groupements fe/S sont présents :
+A.  Sur l’hème de l’hémoglogine
+B.  Dans des protéines non héminiques
+C.  Sur des polymérases
+D.  Sur des hélicases
+E.  Sur les cytochromes
+CORRECTION
+correction autotest CM8.pdf p4 [0, 185.45, 595.303955078125, 301.6]
+11) Les groupements fe/S sont présents :
+A.  Sur l’hème de l’hémoglogine Vrai
+B.  Dans des protéines non héminiques Vrai certaines protéines mitochondriales
+C.  Sur des polymérases Vrai
+D.  Sur des hélicases Vrai
+E.  Sur les cytochromes Vrai
+
+### bio.cm8 ID 12 | ANSWER BCDE | COMPLETE True
+PREP STEM: Les flux calciques
+SUBJECT
+autotest CM8.pdf p4 [0, 69.3, 595.303955078125, 192.9]
+12) Les flux calciques
+A.  Les mitochondries captent le calcium excédentaire en provenance du REG
+B. Un faible influx de Ca++ entrant dans la matrice mitoch active le cycle de Krebs
+C.  La mitochondrie peut soulager le RE d’un influx massif de Ca++ dans la cellule
+D. Un trop grand influx de Ca++ dans la mitochondrie peut déclencher une mitophagie
+E.  Un trop grand influx de Ca++ dans la cellule malgré le rôles de stockage du RE et de la
+    mitochondrie peut conduire à l’apoptose
+CORRECTION
+correction autotest CM8.pdf p4 [0, 301.6, 595.303955078125, 425.2]
+12) Les flux calciques
+A.  Les mitochondries captent le calcium excédentaire en provenance du REG Faux du REL
+B. Un faible influx de Ca++ entrant dans la matrice mitoch active le cycle de Krebs Vrai
+C.  La mitochondrie peut soulager le RE d’un influx massif de Ca++ dans la cellule Vrai
+D. Un trop grand influx de Ca++ dans la mitochondrie peut déclencher une mitophagie Vrai
+E.  Un trop grand influx de Ca++ dans la cellule malgré le rôles de stockage du RE et de la
+    mitochondrie peut conduire à l’apoptose Vrai
+
+### bio.cm8 ID 13 | ANSWER ABD | COMPLETE True
+PREP STEM: L’importation des protéines dans la mitochondrie :
+SUBJECT
+autotest CM8.pdf p4 [0, 192.9, 595.303955078125, 324.5]
+13) L’importation des protéines dans la mitochondrie :
+A.  Les protéines matricielles perdent leur séquence signal
+B.  L’entrée d’une protéine jusque dans la matrice nécessite un passage par TOM et TIM23
+C.  Le PST1 est le signal d’adressage à la mitochondrie
+D.  En absence de DDP entre l’espace intermembranaire et la matrice, il n’y a plus d’importation
+   de protéines
+E.  Les protéines traversent la membrane externe par LC3
+CORRECTION
+correction autotest CM8.pdf p4 [0, 425.2, 595.303955078125, 572.25]
+13) L’importation des protéines dans la mitochondrie :
+A.  Les protéines matricielles perdent leur séquence signal vrai
+B.  L’entrée d’une protéine jusque dans la matrice nécessite un passage par TOM et TIM23 vrai
+C.  Le PST1 est le signal d’adressage à la mitochondrie faux au peroxysome
+D.  En absence de DDP entre l’espace intermembranaire et la matrice, il n’y a plus d’importation
+   de protéines Vrai
+E.  Les protéines traversent la membrane externe par LC3 faux LC3 est une prot périphérique
+   de la membrane externe de la moto qui recrute les membranes de l’autophagosome
+
+### bio.cm8 ID 17 | ANSWER DE | COMPLETE True
+PREP STEM: Mitophagie
+SUBJECT
+autotest CM8.pdf p4 [0, 324.5, 595.303955078125, 440.65]
+14) Mitophagie
+A.  Le phagophore émane du golgi
+B.  Le phagophore se forme par interaction entre LC2 et TOM
+C.  Le phagophore se forme par interaction entre LC2 et des ubiquitines
+D.  La perte de potentiel déclenche la formation du phogophore
+E.  Le phogophore est une double membrane
+CORRECTION
+correction autotest CM8.pdf p4 [0, 572.25, 595.303955078125, 719.3]
+14) Mitophagie
+A.  Le phagophore émane du golgi Faux du RE
+B.  Le phagophore se forme par interaction entre LC2 et TOM Faux LC3/cardiolipine par
+   exemple
+C.  Le phagophore se forme par interaction entre LC2 et des ubiquitines Faux par ubiquitination
+   des protéines présentes sur la membrane externe de la mitochondrie
+D.  La perte de potentiel déclenche la formation du phogophore Vrai
+E.  Le phagophore est une double membrane Vrai
+
+### bio.cm8 ID 14 | ANSWER ABCDE | COMPLETE True
+PREP STEM: Le lysosome :
+SUBJECT
+autotest CM8.pdf p4 [0, 440.65, 595.303955078125, 577.7]
+15) Le lysosome :
+A.  contient une pompe à protons qui assure la baisse du pH de cet organite
+B.  contient des protéases
+C.  assure la dégradation de protéines en provenance du cytosol
+D.  reçoit des vésicules qui proviennent du golgi ou des vésicules provenant de la membrane
+    plasmique
+E.   la face interne de la membrane du lysosome est glycosylée lui conférant ainsi une protection
+    contre ses propres enymes
+CORRECTION
+correction autotest CM8.pdf p4 [0, 719.3, 595.303955078125, 769.2]
+15) Le lysosome :
+A.  contient une pompe à protons qui assure la baisse du pH de cet organite Vrai
+B.  contient des protéases Vrai
+correction autotest CM8.pdf p5 [0, 70.3, 595.303955078125, 175.45]
+C.  assure la dégradation de protéines en provenance du cytosol Vrai grâce au motif KFERQ pris
+   en charge par des chaperonnes
+D.  reçoit des vésicules qui proviennent du golgi ou des vésicules provenant de la membrane
+    plasmique Vrai  endosomes
+E.   la face interne de la membrane du lysosome est glycosylée lui conférant ainsi une protection
+    contre ses propres enymes Vrai
+
+### bio.cm8 ID 15 | ANSWER ABDE | COMPLETE True
+PREP STEM: Le lysosome
+SUBJECT
+autotest CM8.pdf p4 [0, 577.7, 595.303955078125, 689.4]
+16) Le lysosome
+A.  Dégrade des A nucléiques importées depuis le cytosol
+B.  Peut fusionner avec un autophagosome à double membrane
+C. Ne digère pas les lipides
+D.  Est un organite du système endomembranaire
+E.  A la même topologie que la matrice extracellulaire
+F.  Le lysosome ne peut pas capter des éléments du cytosol par endocytose
+CORRECTION
+correction autotest CM8.pdf p5 [0, 175.45, 595.303955078125, 322.5]
+16) Le lysosome
+A.  Dégrade des A nucléiques importées depuis le cytosol Vrai
+B.  Peut fusionner avec un autophagosome à double membrane Vrai
+C. Ne digère pas les lipides Faux
+D.  Est un organite du système endomembranaire Vrai
+E.  A la même topologie que la matrice extracellulaire Vrai
+F.  Le lysosome ne peut pas capter des éléments du cytosol par endocytose Faux par
+    invagination de la membrane du lysosome
+
+### bio.cm8 ID 16 | ANSWER ABCFGI | COMPLETE True
+PREP STEM: Les peroxysomes
+SUBJECT
+autotest CM8.pdf p5 [0, 69.3, 595.303955078125, 258.25]
+17) Les peroxysomes
+A.  Sont entourés d’une membrane simple
+B.  Comportent des oxydases
+C.  Les peptides « signal » sont PTS1 et PTS2
+D.   Il ne peut pas se diviser
+E.    Il contient un ADN circulaire
+F.  Un nouveau peroxysome peut naitre à partir de la membrane du RE
+G. Un péroxysome se dégrade par autophagie, il est dirigé vers le lysosome, on parle de
+   pexophagie
+H.   Il produit la bile par congugaison de l’acide chlorhydrique
+I.   L’adrénoleucodystrophie est une pathologie impliquant les peroxysomes qui deviennent
+    incapables de dégrader les AG
+CORRECTION
+correction autotest CM8.pdf p5 [0, 322.5, 595.303955078125, 511.45]
+17) Les peroxysomes
+A.  Sont entourés d’une membrane simple vrai
+B.  Comportent des oxydases Vrai
+C.  Les peptides « signal » sont PTS1 et PTS2 Vrai
+D.   Il ne peut pas se diviser Faux il se divise par fission comme les mitochondries
+E.    Il contient un ADN circulaire Faux
+F.  Un nouveau peroxysome peut naitre à partir de la membrane du RE Vrai
+G. Un péroxysome se dégrade par autophagie, il est dirigé vers le lysosome, on parle de
+   pexophagie vrai
+H.   Il produit la bile par congugaison de l’acide chlorhydrique Faux acide cholique
+I.   L’adrénoleucodystrophie est une pathologie impliquant les peroxysomes qui deviennent
+    incapables de dégrader les AG Vrai

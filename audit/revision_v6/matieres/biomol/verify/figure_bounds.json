@@ -1,0 +1,431 @@
+{
+  "covered": [
+    {
+      "bank": "ue2.intro.annales",
+      "id": 3,
+      "role": "subject",
+      "image": {
+        "page": 1,
+        "rect": [
+          406.55999755859375,
+          446.6399841308594,
+          561.47998046875,
+          540.3599853515625
+        ],
+        "width": 474,
+        "height": 287
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 3,
+      "role": "correction",
+      "image": {
+        "page": 1,
+        "rect": [
+          406.55999755859375,
+          546.47998046875,
+          561.47998046875,
+          640.199951171875
+        ],
+        "width": 474,
+        "height": 287
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 5,
+      "role": "correction",
+      "image": {
+        "page": 2,
+        "rect": [
+          284.0400085449219,
+          275.6399841308594,
+          580.0800170898438,
+          457.0799865722656
+        ],
+        "width": 425,
+        "height": 260
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 8,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          35.400001525878906,
+          605.6399536132812,
+          168.83999633789062,
+          710.3999633789062
+        ],
+        "width": 168,
+        "height": 132
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 8,
+      "role": "correction",
+      "image": {
+        "page": 3,
+        "rect": [
+          289.9200134277344,
+          353.9999694824219,
+          513.47998046875,
+          470.9999694824219
+        ],
+        "width": 298,
+        "height": 156
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 8,
+      "role": "correction",
+      "image": {
+        "page": 3,
+        "rect": [
+          35.400001525878906,
+          352.0799865722656,
+          168.83999633789062,
+          456.8399963378906
+        ],
+        "width": 168,
+        "height": 132
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 9,
+      "role": "subject",
+      "image": {
+        "page": 3,
+        "rect": [
+          35.400001525878906,
+          83.8800048828125,
+          478.55999755859375,
+          166.44000244140625
+        ],
+        "width": 725,
+        "height": 135
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 9,
+      "role": "correction",
+      "image": {
+        "page": 4,
+        "rect": [
+          35.400001525878906,
+          83.8800048828125,
+          478.55999755859375,
+          166.44000244140625
+        ],
+        "width": 725,
+        "height": 135
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 10,
+      "role": "subject",
+      "image": {
+        "page": 3,
+        "rect": [
+          294.3599853515625,
+          302.5199890136719,
+          553.199951171875,
+          403.1999816894531
+        ],
+        "width": 345,
+        "height": 152
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "id": 7,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          309.7200012207031,
+          148.91998291015625,
+          547.5599975585938,
+          254.03997802734375
+        ],
+        "width": 389,
+        "height": 172
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "id": 7,
+      "role": "correction",
+      "image": {
+        "page": 2,
+        "rect": [
+          313.6000061035156,
+          663.7499389648438,
+          551.4500122070312,
+          768.8999633789062
+        ],
+        "width": 389,
+        "height": 172
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "id": 17,
+      "role": "subject",
+      "image": {
+        "page": 5,
+        "rect": [
+          235.55999755859375,
+          42.1199951171875,
+          566.280029296875,
+          330.9599914550781
+        ],
+        "width": 441,
+        "height": 385
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "id": 17,
+      "role": "correction",
+      "image": {
+        "page": 6,
+        "rect": [
+          30.399999618530273,
+          36.649993896484375,
+          361.1999816894531,
+          325.44000244140625
+        ],
+        "width": 441,
+        "height": 385
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.arn.autotest",
+      "id": 9,
+      "role": "correction",
+      "image": {
+        "page": 2,
+        "rect": [
+          439.32000732421875,
+          428.6399841308594,
+          557.0400390625,
+          577.7999877929688
+        ],
+        "width": 194,
+        "height": 246
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "id": 4,
+      "role": "correction",
+      "image": {
+        "page": 2,
+        "rect": [
+          437.5199890136719,
+          51.239959716796875,
+          567.9599609375,
+          237.9599609375
+        ],
+        "width": 174,
+        "height": 249
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "id": 10,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          277.32000732421875,
+          535.0799560546875,
+          567.0,
+          661.7999267578125
+        ],
+        "width": 480,
+        "height": 210
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "id": 10,
+      "role": "correction",
+      "image": {
+        "page": 3,
+        "rect": [
+          277.32000732421875,
+          576.5999755859375,
+          567.0,
+          703.3199462890625
+        ],
+        "width": 480,
+        "height": 210
+      },
+      "covered": true
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 7,
+      "role": "correction",
+      "image": {
+        "page": 2,
+        "rect": [
+          466.55999755859375,
+          152.15855407714844,
+          572.84130859375,
+          286.80755615234375
+        ],
+        "width": 194,
+        "height": 246
+      },
+      "covered": true
+    }
+  ],
+  "flags": [
+    {
+      "bank": "ue2.intro.annales",
+      "id": 5,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          290.1600036621094,
+          55.44000244140625,
+          586.2000122070312,
+          236.760009765625
+        ],
+        "width": 425,
+        "height": 260
+      },
+      "covered": false
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "id": 9,
+      "role": "correction",
+      "image": {
+        "page": 4,
+        "rect": [
+          35.400001525878906,
+          416.03997802734375,
+          294.239990234375,
+          530.1599731445312
+        ],
+        "width": 345,
+        "height": 152
+      },
+      "covered": false
+    },
+    {
+      "bank": "ue2.arn.autotest",
+      "id": 9,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          439.29998779296875,
+          254.04998779296875,
+          557.0499877929688,
+          403.29998779296875
+        ],
+        "width": 194,
+        "height": 246
+      },
+      "covered": false
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "id": 4,
+      "role": "subject",
+      "image": {
+        "page": 1,
+        "rect": [
+          436.55999755859375,
+          531.5999755859375,
+          567.0,
+          718.43994140625
+        ],
+        "width": 174,
+        "height": 249
+      },
+      "covered": false
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 7,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          466.55999755859375,
+          21.360977172851562,
+          572.84130859375,
+          155.8875732421875
+        ],
+        "width": 194,
+        "height": 246
+      },
+      "covered": false
+    },
+    {
+      "bank": "ue2.traduction.annales",
+      "id": 8,
+      "role": "subject",
+      "image": {
+        "page": 2,
+        "rect": [
+          436.79998779296875,
+          319.4399719238281,
+          560.2799682617188,
+          484.4399719238281
+        ],
+        "width": 165,
+        "height": 220
+      },
+      "covered": false
+    },
+    {
+      "bank": "ue2.traduction.annales",
+      "id": 8,
+      "role": "correction",
+      "image": {
+        "page": 3,
+        "rect": [
+          436.79998779296875,
+          220.55999755859375,
+          560.2799682617188,
+          385.67999267578125
+        ],
+        "width": 165,
+        "height": 220
+      },
+      "covered": false
+    }
+  ]
+}

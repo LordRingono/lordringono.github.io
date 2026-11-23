@@ -1,0 +1,1022 @@
+[
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      304.6000061035156,
+      21.199981689453125,
+      566.800048828125,
+      375.3499755859375
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      325.76
+    ],
+    "ratio": 0.8599746811380511,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "role": "subject",
+    "page": 2,
+    "imagebbox": [
+      344.1600036621094,
+      330.8399658203125,
+      566.760009765625,
+      528.5999755859375
+    ],
+    "croprect": [
+      24.0,
+      239.97,
+      575.32,
+      341.36
+    ],
+    "ratio": 0.05319588901577112,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS ENONCE.pdf"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      304.6000061035156,
+      21.199981689453125,
+      566.800048828125,
+      375.3499755859375
+    ],
+    "croprect": [
+      24.0,
+      351.12,
+      575.32,
+      611.38
+    ],
+    "ratio": 0.06841728331592815,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      344.1499938964844,
+      604.9500122070312,
+      566.7999877929688,
+      802.75
+    ],
+    "croprect": [
+      24.0,
+      351.12,
+      575.32,
+      611.38
+    ],
+    "ratio": 0.032507548395358486,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 10,
+    "role": "subject",
+    "page": 2,
+    "imagebbox": [
+      344.1600036621094,
+      330.8399658203125,
+      566.760009765625,
+      528.5999755859375
+    ],
+    "croprect": [
+      24.0,
+      351.12,
+      575.32,
+      532.6
+    ],
+    "ratio": 0.8974513132310731,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS ENONCE.pdf"
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 10,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      344.1499938964844,
+      604.9500122070312,
+      566.7999877929688,
+      802.75
+    ],
+    "croprect": [
+      24.0,
+      620.9,
+      575.32,
+      806.75
+    ],
+    "ratio": 0.919362926231696,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 21,
+    "role": "correction",
+    "page": 8,
+    "imagebbox": [
+      324.9599914550781,
+      18.359954833984375,
+      575.0399780273438,
+      311.63995361328125
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      277.88
+    ],
+    "ratio": 0.8848883358190606,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 22,
+    "role": "correction",
+    "page": 8,
+    "imagebbox": [
+      283.20001220703125,
+      501.239990234375,
+      555.47998046875,
+      723.47998046875
+    ],
+    "croprect": [
+      24.0,
+      287.64,
+      575.32,
+      514.0
+    ],
+    "ratio": 0.05741545323219396,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 22,
+    "role": "correction",
+    "page": 8,
+    "imagebbox": [
+      324.9599914550781,
+      18.359954833984375,
+      575.0399780273438,
+      311.63995361328125
+    ],
+    "croprect": [
+      24.0,
+      287.64,
+      575.32,
+      514.0
+    ],
+    "ratio": 0.08183285278483828,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 22,
+    "role": "correction",
+    "page": 8,
+    "imagebbox": [
+      327.9599914550781,
+      306.5999755859375,
+      586.7999877929688,
+      509.9999694824219
+    ],
+    "croprect": [
+      24.0,
+      287.64,
+      575.32,
+      514.0
+    ],
+    "ratio": 0.9556483517571837,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "role": "subject",
+    "page": 7,
+    "imagebbox": [
+      306.3500061035156,
+      17.0999755859375,
+      578.6500244140625,
+      239.3499755859375
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "ratio": 0.9845262494218884,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS ENONCE.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "role": "correction",
+    "page": 8,
+    "imagebbox": [
+      283.20001220703125,
+      501.239990234375,
+      555.47998046875,
+      723.47998046875
+    ],
+    "croprect": [
+      24.0,
+      509.78,
+      575.32,
+      811.92
+    ],
+    "ratio": 0.9615730340164452,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "role": "subject",
+    "page": 7,
+    "imagebbox": [
+      306.3500061035156,
+      17.0999755859375,
+      578.6500244140625,
+      239.3499755859375
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "ratio": 0.9845262494218884,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS ENONCE.pdf"
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "role": "correction",
+    "page": 8,
+    "imagebbox": [
+      283.20001220703125,
+      501.239990234375,
+      555.47998046875,
+      723.47998046875
+    ],
+    "croprect": [
+      24.0,
+      509.78,
+      575.32,
+      811.92
+    ],
+    "ratio": 0.9615730340164452,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "role": "subject",
+    "page": 2,
+    "imagebbox": [
+      319.55999755859375,
+      465.8472900390625,
+      570.328369140625,
+      679.9097290039062
+    ],
+    "croprect": [
+      24.0,
+      468.39,
+      575.32,
+      732.4
+    ],
+    "ratio": 0.9881215750802849,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest Coeur et Vx LS ENONCE.pdf"
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "role": "subject",
+    "page": 2,
+    "imagebbox": [
+      319.55999755859375,
+      465.8472900390625,
+      570.328369140625,
+      679.9097290039062
+    ],
+    "croprect": [
+      24.0,
+      468.39,
+      575.32,
+      732.4
+    ],
+    "ratio": 0.9881215750802849,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest Coeur et Vx LS ENONCE.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "role": "subject",
+    "page": 5,
+    "imagebbox": [
+      271.32000732421875,
+      117.59275817871094,
+      578.39306640625,
+      329.7533874511719
+    ],
+    "croprect": [
+      24.0,
+      52.51,
+      575.32,
+      333.75
+    ],
+    "ratio": 0.9899924171426243,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S2 LS Correction.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "role": "correction",
+    "page": 5,
+    "imagebbox": [
+      271.32000732421875,
+      117.59275817871094,
+      578.39306640625,
+      329.7533874511719
+    ],
+    "croprect": [
+      24.0,
+      52.51,
+      575.32,
+      333.75
+    ],
+    "ratio": 0.9899924171426243,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S2 LS Correction.pdf"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 17,
+    "role": "subject",
+    "page": 4,
+    "imagebbox": [
+      428.6400146484375,
+      581.4000244140625,
+      571.2000122070312,
+      747.1199951171875
+    ],
+    "croprect": [
+      24.0,
+      592.1,
+      575.32,
+      751.12
+    ],
+    "ratio": 0.9354335441499494,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 17,
+    "role": "correction",
+    "page": 4,
+    "imagebbox": [
+      434.1499938964844,
+      406.6551208496094,
+      583.5040893554688,
+      579.1514282226562
+    ],
+    "croprect": [
+      24.0,
+      417.48,
+      575.32,
+      550.66
+    ],
+    "ratio": 0.7297673090873207,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 18,
+    "role": "correction",
+    "page": 4,
+    "imagebbox": [
+      434.1499938964844,
+      406.6551208496094,
+      583.5040893554688,
+      579.1514282226562
+    ],
+    "croprect": [
+      24.0,
+      560.42,
+      575.32,
+      661.78
+    ],
+    "ratio": 0.1026400384825268,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 11,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      375.7200012207031,
+      474.5999755859375,
+      576.0,
+      675.5999755859375
+    ],
+    "croprect": [
+      24.0,
+      322.32,
+      575.32,
+      487.18
+    ],
+    "ratio": 0.06237465317757804,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS correction-1.pdf"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 12,
+    "role": "subject",
+    "page": 3,
+    "imagebbox": [
+      364.20001220703125,
+      197.63998413085938,
+      564.3599853515625,
+      398.7599792480469
+    ],
+    "croprect": [
+      24.0,
+      211.17,
+      575.32,
+      376.16
+    ],
+    "ratio": 0.8203560535939184,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 12,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      375.7200012207031,
+      474.5999755859375,
+      576.0,
+      675.5999755859375
+    ],
+    "croprect": [
+      24.0,
+      496.94,
+      575.32,
+      645.97
+    ],
+    "ratio": 0.7389252746639652,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS correction-1.pdf"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 13,
+    "role": "subject",
+    "page": 3,
+    "imagebbox": [
+      364.20001220703125,
+      197.63998413085938,
+      564.3599853515625,
+      398.7599792480469
+    ],
+    "croprect": [
+      24.0,
+      385.8,
+      575.32,
+      518.98
+    ],
+    "ratio": 0.06443909988923115,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 13,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      375.7200012207031,
+      474.5999755859375,
+      576.0,
+      675.5999755859375
+    ],
+    "croprect": [
+      24.0,
+      655.61,
+      575.32,
+      788.77
+    ],
+    "ratio": 0.09911502496279989,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS correction-1.pdf"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 29,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      431.6400146484375,
+      16.920013427734375,
+      576.8400268554688,
+      197.760009765625
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      119.21
+    ],
+    "ratio": 0.5547373889430882,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S2 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 34,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      431.6400146484375,
+      16.920013427734375,
+      576.8400268554688,
+      197.760009765625
+    ],
+    "croprect": [
+      24.0,
+      128.85,
+      575.32,
+      325.52
+    ],
+    "ratio": 0.377066046755017,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S2 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 14,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      373.0,
+      509.0499572753906,
+      572.1500244140625,
+      634.699951171875
+    ],
+    "croprect": [
+      24.0,
+      477.98,
+      575.32,
+      595.3
+    ],
+    "ratio": 0.6864308373037761,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 15,
+    "role": "correction",
+    "page": 3,
+    "imagebbox": [
+      373.0,
+      509.0499572753906,
+      572.1500244140625,
+      634.699951171875
+    ],
+    "croprect": [
+      24.0,
+      604.94,
+      575.32,
+      753.97
+    ],
+    "ratio": 0.2368479918509683,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 31,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      430.95001220703125,
+      224.74998474121094,
+      565.9000244140625,
+      343.04998779296875
+    ],
+    "croprect": [
+      24.0,
+      65.35,
+      575.32,
+      293.72
+    ],
+    "ratio": 0.5830094226567086,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 31,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      352.70001220703125,
+      33.15106201171875,
+      577.42578125,
+      231.5952606201172
+    ],
+    "croprect": [
+      24.0,
+      65.35,
+      575.32,
+      293.72
+    ],
+    "ratio": 0.8298931188133927,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 32,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      430.95001220703125,
+      224.74998474121094,
+      565.9000244140625,
+      343.04998779296875
+    ],
+    "croprect": [
+      24.0,
+      65.35,
+      575.32,
+      293.72
+    ],
+    "ratio": 0.5830094226567086,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 32,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      352.70001220703125,
+      33.15106201171875,
+      577.42578125,
+      231.5952606201172
+    ],
+    "croprect": [
+      24.0,
+      65.35,
+      575.32,
+      293.72
+    ],
+    "ratio": 0.8298931188133927,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 33,
+    "role": "correction",
+    "page": 7,
+    "imagebbox": [
+      430.95001220703125,
+      224.74998474121094,
+      565.9000244140625,
+      343.04998779296875
+    ],
+    "croprect": [
+      24.0,
+      335.16,
+      575.32,
+      436.52
+    ],
+    "ratio": 0.066694707754212,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 41,
+    "role": "correction",
+    "page": 9,
+    "imagebbox": [
+      320.79998779296875,
+      43.19996643066406,
+      588.3499755859375,
+      234.14996337890625
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      309.68
+    ],
+    "ratio": 0.9512989390535821,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 42,
+    "role": "correction",
+    "page": 9,
+    "imagebbox": [
+      320.79998779296875,
+      43.19996643066406,
+      588.3499755859375,
+      234.14996337890625
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      309.68
+    ],
+    "ratio": 0.9512989390535821,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 29,
+    "role": "subject",
+    "page": 5,
+    "imagebbox": [
+      327.04998779296875,
+      275.24993896484375,
+      578.9000244140625,
+      534.449951171875
+    ],
+    "croprect": [
+      24.0,
+      255.84,
+      575.32,
+      531.82
+    ],
+    "ratio": 0.9757829656301313,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 30,
+    "role": "subject",
+    "page": 5,
+    "imagebbox": [
+      327.04998779296875,
+      275.24993896484375,
+      578.9000244140625,
+      534.449951171875
+    ],
+    "croprect": [
+      24.0,
+      255.84,
+      575.32,
+      531.82
+    ],
+    "ratio": 0.9757829656301313,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 35,
+    "role": "subject",
+    "page": 6,
+    "imagebbox": [
+      338.95001220703125,
+      285.89996337890625,
+      579.8499755859375,
+      508.7499694824219
+    ],
+    "croprect": [
+      24.0,
+      255.84,
+      575.32,
+      547.66
+    ],
+    "ratio": 0.9811956457021388,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 35,
+    "role": "correction",
+    "page": 6,
+    "imagebbox": [
+      392.1499938964844,
+      635.4500122070312,
+      587.2000122070312,
+      815.75
+    ],
+    "croprect": [
+      24.0,
+      636.77,
+      575.32,
+      811.92
+    ],
+    "ratio": 0.9122686179083266,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "role": "subject",
+    "page": 6,
+    "imagebbox": [
+      338.95001220703125,
+      285.89996337890625,
+      579.8499755859375,
+      508.7499694824219
+    ],
+    "croprect": [
+      24.0,
+      255.84,
+      575.32,
+      547.66
+    ],
+    "ratio": 0.9811956457021388,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "role": "correction",
+    "page": 6,
+    "imagebbox": [
+      392.1499938964844,
+      635.4500122070312,
+      587.2000122070312,
+      815.75
+    ],
+    "croprect": [
+      24.0,
+      636.77,
+      575.32,
+      811.92
+    ],
+    "ratio": 0.9122686179083266,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 44,
+    "role": "subject",
+    "page": 7,
+    "imagebbox": [
+      379.6499938964844,
+      640.300048828125,
+      567.8499755859375,
+      841.9000244140625
+    ],
+    "croprect": [
+      24.0,
+      640.01,
+      575.32,
+      811.92
+    ],
+    "ratio": 0.851289458658062,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 45,
+    "role": "subject",
+    "page": 7,
+    "imagebbox": [
+      379.6499938964844,
+      640.300048828125,
+      567.8499755859375,
+      841.9000244140625
+    ],
+    "croprect": [
+      24.0,
+      640.01,
+      575.32,
+      811.92
+    ],
+    "ratio": 0.851289458658062,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "role": "subject",
+    "page": 9,
+    "imagebbox": [
+      266.95001220703125,
+      439.39996337890625,
+      581.5,
+      639.699951171875
+    ],
+    "croprect": [
+      24.0,
+      416.64,
+      575.32,
+      708.49
+    ],
+    "ratio": 0.9803529075962043,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "role": "correction",
+    "page": 10,
+    "imagebbox": [
+      303.25,
+      305.0999755859375,
+      569.0499877929688,
+      474.0999755859375
+    ],
+    "croprect": [
+      24.0,
+      319.32,
+      575.32,
+      611.88
+    ],
+    "ratio": 0.9158578003651997,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "role": "subject",
+    "page": 9,
+    "imagebbox": [
+      266.95001220703125,
+      439.39996337890625,
+      581.5,
+      639.699951171875
+    ],
+    "croprect": [
+      24.0,
+      416.64,
+      575.32,
+      708.49
+    ],
+    "ratio": 0.9803529075962043,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "role": "correction",
+    "page": 10,
+    "imagebbox": [
+      303.25,
+      305.0999755859375,
+      569.0499877929688,
+      474.0999755859375
+    ],
+    "croprect": [
+      24.0,
+      319.32,
+      575.32,
+      611.88
+    ],
+    "ratio": 0.9158578003651997,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "role": "subject",
+    "page": 12,
+    "imagebbox": [
+      378.3999938964844,
+      13.150009155273438,
+      579.75,
+      194.70001220703125
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "ratio": 0.9527877286196832,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 69,
+    "role": "subject",
+    "page": 12,
+    "imagebbox": [
+      378.3999938964844,
+      13.150009155273438,
+      579.75,
+      194.70001220703125
+    ],
+    "croprect": [
+      24.0,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "ratio": 0.9527877286196832,
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf"
+  }
+]

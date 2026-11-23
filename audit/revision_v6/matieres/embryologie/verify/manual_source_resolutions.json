@@ -1,0 +1,242 @@
+[
+  {
+    "bank": "embryo.aut.fec",
+    "id": 7,
+    "item": "D",
+    "sourceLabel": "C bis",
+    "text": "Elle provoque la réaction corticale avant la reprise de la méiose. Vrai",
+    "pages": [
+      2
+    ],
+    "marker": "Vrai",
+    "reason": "Deux C distincts dans le Q8 imprimé."
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "item": "E",
+    "sourceLabel": "E",
+    "text": "l’allantoïde et les cellules germinales primordiales sur la même coupe, à l’extérieur de l’œuf. Faux, il est à l’extérieur du disque or une coupe se fait dans le disque",
+    "pages": [
+      3
+    ],
+    "marker": "Faux",
+    "reason": "E isolé dans la mise en page, omis par la première segmentation ; vérifié sur la page et la capture."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 13,
+    "item": "M",
+    "sourceLabel": "H bis",
+    "text": "Le colon est issu de l’intestin moyen et de l’intestin postérieur. Vrai",
+    "pages": [
+      5
+    ],
+    "marker": "Vrai",
+    "reason": "Seconde occurrence H, conservée sous M dans le site."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 14,
+    "item": "E",
+    "sourceLabel": "C bis",
+    "text": "La plicature crâniale permet de faire passer la zone cardiogène en position ventrale. Vrai, sous le TD en formation et derrière la membrane pharyngienne",
+    "pages": [
+      5
+    ],
+    "marker": "Vrai",
+    "reason": "Seconde occurrence C, conservée sous E dans le site."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "item": "E",
+    "sourceLabel": "A bis",
+    "text": "Le mouvement linéaire des spermatozoïdes est acquis au cours du transit épididymaire.",
+    "pages": [
+      1
+    ],
+    "marker": null,
+    "reason": "Deux A distincts et grille ABD : affectation de la clé indéterminée, QCM hors note."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "item": "A",
+    "sourceLabel": "A",
+    "text": "Grille 7. AB ; aucun détail propre à A dans le corrigé.",
+    "pages": [
+      4
+    ],
+    "marker": "Vrai selon AB",
+    "reason": "Sujet non numéroté placé au-dessus de la grille 7. AB ; clé seule, pas d’explication inventée."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "item": "B",
+    "sourceLabel": "B",
+    "text": "Grille 7. AB ; aucun détail propre à B dans le corrigé.",
+    "pages": [
+      4
+    ],
+    "marker": "Vrai selon AB",
+    "reason": "Sujet non numéroté placé au-dessus de la grille 7. AB ; clé seule, pas d’explication inventée."
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "item": "O",
+    "sourceLabel": "K bis",
+    "text": "En méiose 1 il y a brassage intrachromosomique. Vrai",
+    "pages": [
+      2
+    ],
+    "marker": "Vrai",
+    "reason": "Second K distinct omis de V5, rétabli sous O après contrôle visuel."
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 23,
+    "item": "N",
+    "sourceLabel": "M bis",
+    "text": "correspond à la sous-unité alpha du dimère. Faux Béta",
+    "pages": [
+      7
+    ],
+    "marker": "Faux",
+    "reason": "Second M distinct omis de V5, rétabli sous N après contrôle visuel."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "F",
+    "sourceLabel": "f+g",
+    "text": "f. Les arcs aortiques sont reliés à la veine cardinale commune. Faux, liaison entre aortes dorsales et aortes ventrales. g. Les 2 veines cardinales antérieures fusionnent en 1 veine appelée canal de Cuvier. Faux, le canal de Cuvier = veine cardinale commune,  est la fusion de la veine cardinale antérieure et de la veine cardinale postérieure",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "G",
+    "sourceLabel": "h",
+    "text": "h. dans les artères embryonnaires circule du sang riche en oxygène. Faux, sang mêlé.",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "H",
+    "sourceLabel": "i",
+    "text": "i. L’embryon a besoin d’un sang très riche en oxygène pour se développer. Faux, du sang mêlé suffit à son développement et un sang trop riche en O2 peut entraîner des anomalies.",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "I",
+    "sourceLabel": "j",
+    "text": "j. Les ilots sanguino-formateurs apparaissent dans toutes les lames mésenchymateuses Faux, jamais dans la lame amniotique, par contre, dans les autres lames (choriales et vitelline)",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "J",
+    "sourceLabel": "k",
+    "text": "k. Tous les vaisseaux extra-embryonnaires s’anastomosent et entrent en contact à la 4ème semaine. Vrai, formant la circulation extra-embryonnaire.",
+    "pages": [
+      2
+    ],
+    "marker": "Vrai",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "K",
+    "sourceLabel": "l",
+    "text": "l. Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine. Faux, elles sont toutes d’origine extra-embryonnaire jusqu’à la 6ème semaine. IWP de la lame vitelline",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "L",
+    "sourceLabel": "m",
+    "text": "m. Les premiers vaisseaux embryonnaires formés sont les veines. Faux, ce sont les artères puis les veines.",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "M",
+    "sourceLabel": "n",
+    "text": "n. En avant de l’embryon, on trouve 2 aortes dorsales, 2 aortes ventrales et 2 veines cardinales. Vrai – Veine cardinales antérieures",
+    "pages": [
+      2
+    ],
+    "marker": "Vrai",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "N",
+    "sourceLabel": "o",
+    "text": "o. En arrière de l’embryon, on trouve 1 aorte commune et 2 veines cardinales. Vrai – Veines cardinales postérieures",
+    "pages": [
+      2
+    ],
+    "marker": "Vrai",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "O",
+    "sourceLabel": "p",
+    "text": "p. Le 1er arc aortique se forme à partir de la plicature des aortes dorsales. Vrai",
+    "pages": [
+      2
+    ],
+    "marker": "Vrai",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "item": "P",
+    "sourceLabel": "q",
+    "text": "q. Les premiers ilôts sanguino-formateurs intra-embryonnaires sont dans la zone cardiogène.  Faux, ils sont bien intraembryonnaire, dans la ZC J19…mais ils ne forment aucune cellule sanguine, ce sont des îlots angioformateurs, Les ilots Intraembryonnaire ne sont qu’Angioformateurs et jamais sanguino- formateurs",
+    "pages": [
+      2
+    ],
+    "marker": "Faux",
+    "reason": "Le sujet rassemble f/g dans un seul item F ; correspondance par contenu, puis décalage des lettres h–q vers G–P."
+  }
+]

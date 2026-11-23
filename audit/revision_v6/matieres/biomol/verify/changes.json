@@ -1,0 +1,6938 @@
+[
+  {
+    "bank": "ue2.intro.annales",
+    "id": 3,
+    "field": "explanations",
+    "before": {
+      "A": "Faux, les nucléotides de l'ADN sont sous forme monophosphate et surtout il y a un ribose",
+      "C": "Faux, c'est de l'ATP.",
+      "D": "Faux, c'est un A donc amine ici 20125-2016"
+    },
+    "after": {
+      "A": "Faux, les nucléotides de l'ADN sont sous forme monophosphate et surtout il y a un ribose",
+      "C": "Faux, c'est de l'ATP.",
+      "D": "Faux, c'est un A donc amine ici"
+    },
+    "reason": "Le bandeau séparé « 20125-2016 » n’appartient pas au détail D (corrigé p. 1)."
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 16,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 PACES",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 17,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 PACES",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 18,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 PASS",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 19,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 PASS",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.organisation.annales",
+    "id": 8,
+    "field": "category",
+    "before": "2020-2021",
+    "after": "2021-2022 Pr Wozny",
+    "reason": "Bandeau de session du sujet original, p. 2."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 12,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 PACES",
+    "reason": "Bandeau de session du sujet original, p. 3."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 13,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 PACES",
+    "reason": "Bandeau de session du sujet original, p. 3."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 14,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 PASS Session 2",
+    "reason": "Bandeau de session du sujet original, p. 3."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 16,
+    "field": "category",
+    "before": "2021-2022",
+    "after": "2022-2023 session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 17,
+    "field": "category",
+    "before": "2021-2022",
+    "after": "2022-2023 session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 18,
+    "field": "category",
+    "before": "2022-2023 sessions 1 et 2",
+    "after": "2022-2023 session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 20,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2 PACE et PASS",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 21,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2 PACE et PASS",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 22,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2 PACE et PASS",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 28,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2023-2024 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 6."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 29,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2023-2024 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 6."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 30,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2023-2024 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 6."
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 31,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2023-2024 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 6."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 19,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 20,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 24,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2022-2023 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 25,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2022-2023 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 26,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2022-2023 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 17,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 18,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 19,
+    "field": "category",
+    "before": "2019-2018",
+    "after": "2020-2021 Session 1 et 2",
+    "reason": "Bandeau de session du sujet original, p. 4."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 22,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2023-2024 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 23,
+    "field": "category",
+    "before": "2022-2023",
+    "after": "2023-2024 S1 et S2",
+    "reason": "Bandeau de session du sujet original, p. 5."
+  },
+  {
+    "bank": "ue2.transcription.autotest",
+    "id": 35,
+    "field": "reviewNotes",
+    "before": null,
+    "after": [
+      {
+        "bank": "ue2.transcription.autotest",
+        "id": 35,
+        "sourceId": "7",
+        "items": [
+          "B"
+        ],
+        "kind": "missing_reference",
+        "text": "L’item B s’arrête après « premier nucléotide qui sera » dans le sujet (Wooclap Q7, p. 6) et dans le corrigé (p. 7). La fin de phrase n’est pas fournie. La transcription conserve cette limite et la clé ADE ; une version complète de cet item permettrait de lever ce manque.",
+        "refs": [
+          {
+            "file": "4. Autotests Transcription LS ENONCE.pdf",
+            "page": 6,
+            "label": "Sujet original",
+            "href": "sources/revision_v4/4_Autotests_Transcription_LS_ENONCE_a4ddf9fba8.pdf#page=6"
+          },
+          {
+            "file": "4. Autotests Transcription LS CORRECTION.pdf",
+            "page": 7,
+            "label": "Corrigé original",
+            "href": "sources/revision_v4/4_Autotests_Transcription_LS_CORRECTION_9b5e57d4f3.pdf#page=7"
+          }
+        ],
+        "sourceVerdict": "Clé conservée : ADE",
+        "noteId": "biomol-v6-verify-transcription-35"
+      }
+    ],
+    "reason": "Limite confirmée dans les deux PDF originaux ; pas de fin de phrase ni de symbole inventé."
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 27,
+    "field": "reviewNotes",
+    "before": null,
+    "after": [
+      {
+        "bank": "ue2.traduction.autotest",
+        "id": 27,
+        "sourceId": "3",
+        "items": [],
+        "kind": "source_conflict",
+        "text": "Le titre du Wooclap Q3 se termine par « quels sont ceux qui ... » dans le sujet et le corrigé. Les cinq propositions reprennent celles de l’autotest Q21 du même document, dont le titre porte sur les éléments jouant un rôle lors de l’initiation de la traduction. Le titre abrégé original et la clé ADE sont conservés.",
+        "refs": [
+          {
+            "file": "4. Autotests Traduction ENONCE.pdf",
+            "page": 5,
+            "label": "Sujet original",
+            "href": "sources/revision_v4/4_Autotests_Traduction_ENONCE_1d12cc3be3.pdf#page=5"
+          },
+          {
+            "file": "4. Autotests Traduction CORRECTION.pdf",
+            "page": 6,
+            "label": "Corrigé original",
+            "href": "sources/revision_v4/4_Autotests_Traduction_CORRECTION_f7562c0594.pdf#page=6"
+          }
+        ],
+        "sourceVerdict": "Clé conservée : ADE",
+        "noteId": "biomol-v6-verify-traduction-27"
+      }
+    ],
+    "reason": "Limite confirmée dans les deux PDF originaux ; pas de fin de phrase ni de symbole inventé."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 8,
+    "field": "reviewNotes",
+    "before": null,
+    "after": [
+      {
+        "bank": "ue2.reparation.annales",
+        "id": 8,
+        "sourceId": "33",
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "kind": "missing_reference",
+        "text": "Plusieurs mots ou groupes de mots sont déjà tronqués dans les deux originaux (Q33, année 2013–2014) : « anome la réparation » en A, « recombi homologue » en B, « guidé par les groupes » sans groupement précisé en C et « mécanis de » en D. Les copies permettent de constater ces limites ; aucune complétion n’est inventée et la clé ABD est conservée.",
+        "refs": [
+          {
+            "file": "2. Annales Réparation LS ENONCE.pdf",
+            "page": 2,
+            "label": "Sujet original",
+            "href": "sources/revision_v4/2_Annales_Reparation_LS_ENONCE_4b9e5f490a.pdf#page=2"
+          },
+          {
+            "file": "2. Annales Réparation LS CORRECTION.pdf",
+            "page": 3,
+            "label": "Corrigé original",
+            "href": "sources/revision_v4/2_Annales_Reparation_LS_CORRECTION_b31ba7b317.pdf#page=3"
+          }
+        ],
+        "sourceVerdict": "Clé conservée : ABD",
+        "noteId": "biomol-v6-verify-reparation-8"
+      }
+    ],
+    "reason": "Limite confirmée dans les deux PDF originaux ; pas de fin de phrase ni de symbole inventé."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 17,
+    "field": "reviewNotes",
+    "before": null,
+    "after": [
+      {
+        "bank": "ue2.reparation.annales",
+        "id": 17,
+        "sourceId": "9",
+        "items": [
+          "B"
+        ],
+        "kind": "missing_reference",
+        "text": "Le sujet et le corrigé impriment tous deux « L’ADN polymérase & intervient dans la réparation NER ». Le caractère & ne permet pas d’identifier avec certitude la polymérase visée. Ce caractère original et la clé BC sont conservés ; une version lisible de l’item B reste nécessaire pour préciser son énoncé.",
+        "refs": [
+          {
+            "file": "2. Annales Réparation LS ENONCE.pdf",
+            "page": 4,
+            "label": "Sujet original",
+            "href": "sources/revision_v4/2_Annales_Reparation_LS_ENONCE_4b9e5f490a.pdf#page=4"
+          },
+          {
+            "file": "2. Annales Réparation LS CORRECTION.pdf",
+            "page": 5,
+            "label": "Corrigé original",
+            "href": "sources/revision_v4/2_Annales_Reparation_LS_CORRECTION_b31ba7b317.pdf#page=5"
+          }
+        ],
+        "sourceVerdict": "Clé conservée : BC",
+        "noteId": "biomol-v6-verify-reparation-17"
+      }
+    ],
+    "reason": "Limite confirmée dans les deux PDF originaux ; pas de fin de phrase ni de symbole inventé."
+  },
+  {
+    "bank": "ue2.intro.annales",
+    "id": 5,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          58.803,
+          583.32,
+          163.245
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          53.44,
+          588.2,
+          238.76
+        ]
+      }
+    ],
+    "reason": "Le panneau préparé coupait une partie de la figure originale ; contrôle visuel et géométrique indépendant."
+  },
+  {
+    "bank": "ue2.arn.autotest",
+    "id": 9,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          251.423,
+          583.32,
+          372.315
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          251.423,
+          437,
+          372.315
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          437.3,
+          252.05,
+          559.05,
+          405.3
+        ],
+        "purpose": "Figure latérale complète, avec toutes ses lettres"
+      }
+    ],
+    "reason": "Le panneau préparé coupait une partie de la figure originale ; contrôle visuel et géométrique indépendant."
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "id": 4,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          524.713,
+          583.32,
+          630.965
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          524.713,
+          433,
+          630.965
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 1,
+        "rect": [
+          434.56,
+          529.6,
+          569,
+          720.44
+        ],
+        "purpose": "Figure latérale complète, avec toutes ses lettres"
+      }
+    ],
+    "reason": "Le panneau préparé coupait une partie de la figure originale ; contrôle visuel et géométrique indépendant."
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 7,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          18.569,
+          583.32,
+          124.965
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          18.569,
+          463,
+          124.965
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          464.56,
+          19.361,
+          574.841,
+          157.888
+        ],
+        "purpose": "Figure latérale complète, avec toutes ses lettres"
+      }
+    ],
+    "reason": "Le panneau préparé coupait une partie de la figure originale ; contrôle visuel et géométrique indépendant."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 8,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          335.213,
+          583.32,
+          441.435
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          335.213,
+          433,
+          441.435
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          434.8,
+          317.44,
+          562.28,
+          486.44
+        ],
+        "purpose": "Figure latérale complète, avec toutes ses lettres"
+      }
+    ],
+    "reason": "Le panneau préparé coupait une partie de la figure originale ; contrôle visuel et géométrique indépendant."
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "id": 8,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          236.303,
+          583.32,
+          402.315
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          218.56,
+          583.32,
+          402.315
+        ]
+      }
+    ],
+    "reason": "Le panneau préparé coupait une partie de la figure originale ; contrôle visuel et géométrique indépendant."
+  },
+  {
+    "bank": "ue2.intro.annales",
+    "id": 10,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          558.553,
+          583.32,
+          723.605
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          398.9,
+          444.1,
+          548.7
+        ],
+        "purpose": "Contexte commun corrigé : trois bases pyrimidiques",
+        "contextId": "intro-pyrimidines-correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          558.553,
+          583.32,
+          723.605
+        ]
+      }
+    ],
+    "reason": "Restitution du schéma commun et de ses légendes dans le corrigé, accessibles après validation."
+  },
+  {
+    "bank": "ue2.intro.annales",
+    "id": 11,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          197.325
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          398.9,
+          444.1,
+          548.7
+        ],
+        "purpose": "Contexte commun corrigé : trois bases pyrimidiques",
+        "contextId": "intro-pyrimidines-correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          197.325
+        ]
+      }
+    ],
+    "reason": "Restitution du schéma commun et de ses légendes dans le corrigé, accessibles après validation."
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 3,
+    "field": "crops.subjectAfterCorrection",
+    "before": false,
+    "after": true,
+    "reason": "Le PDF du sujet comporte un point rouge en fin d’item C, résidu typographique coloré. La copie authentique est consultable après validation."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 3,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          329.693,
+          583.32,
+          466.655
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          44.5,
+          583.32,
+          142
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2013–2014 — Exon 1 et intron 1",
+        "contextId": "ue2.ed.annales.2013-2014-exon1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          329.693,
+          583.32,
+          466.655
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 4,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          478.273,
+          583.32,
+          600.575
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          44.5,
+          583.32,
+          142
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2013–2014 — Exon 1 et intron 1",
+        "contextId": "ue2.ed.annales.2013-2014-exon1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          478.273,
+          583.32,
+          600.575
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 5,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          725.023,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          18,
+          583.32,
+          53.665
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          612.663,
+          583.32,
+          725.023
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2014–2015 — Exon 40",
+        "contextId": "ue2.ed.annales.2014-2015-exon40.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          725.023,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          18,
+          583.32,
+          53.665
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 6,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          65.283,
+          583.32,
+          278.595
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          612.663,
+          583.32,
+          725.023
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2014–2015 — Exon 40",
+        "contextId": "ue2.ed.annales.2014-2015-exon40.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          65.283,
+          583.32,
+          278.595
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 7,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          290.333,
+          583.32,
+          529.055
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          612.663,
+          583.32,
+          725.023
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2014–2015 — Exon 40",
+        "contextId": "ue2.ed.annales.2014-2015-exon40.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          290.333,
+          583.32,
+          529.055
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 8,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          228.285
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          541.113,
+          583.32,
+          800
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2015–2016 — SNP du gène ITGB3",
+        "contextId": "ue2.ed.annales.2015-2016-itgb3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          228.285
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 9,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          239.903,
+          583.32,
+          493.175
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 3,
+        "rect": [
+          30,
+          541.113,
+          583.32,
+          800
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2015–2016 — SNP du gène ITGB3",
+        "contextId": "ue2.ed.annales.2015-2016-itgb3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          239.903,
+          583.32,
+          493.175
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 10,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          365.693,
+          583.32,
+          618.935
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          365.693,
+          583.32,
+          618.935
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 11,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          630.583,
+          583.32,
+          796.561
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          630.583,
+          583.32,
+          796.561
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 12,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          315.555
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          315.555
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 13,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          327.173,
+          583.32,
+          566.855
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          327.173,
+          583.32,
+          566.855
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 14,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          534.553,
+          583.32,
+          759.721
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          534.553
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2017–2018 — Gène KCNE1",
+        "contextId": "ue2.ed.annales.2017-2018-kcne1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          534.553,
+          583.32,
+          759.721
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 15,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          257.325
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          534.553
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2017–2018 — Gène KCNE1",
+        "contextId": "ue2.ed.annales.2017-2018-kcne1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          257.325
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 16,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          268.973,
+          583.32,
+          507.695
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          534.553
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2017–2018 — Gène KCNE1",
+        "contextId": "ue2.ed.annales.2017-2018-kcne1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          268.973,
+          583.32,
+          507.695
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 17,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          573.193,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          583.32,
+          228.405
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          573.193
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2018–2019 — Gène MYL3",
+        "contextId": "ue2.ed.annales.2018-2019-myl3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          573.193,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          583.32,
+          228.405
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 18,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          240.023,
+          583.32,
+          391.395
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          573.193
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2018–2019 — Gène MYL3",
+        "contextId": "ue2.ed.annales.2018-2019-myl3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          240.023,
+          583.32,
+          391.395
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 19,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          403.013,
+          583.32,
+          554.495
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          573.193
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2018–2019 — Gène MYL3",
+        "contextId": "ue2.ed.annales.2018-2019-myl3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          403.013,
+          583.32,
+          554.495
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 20,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          550.633,
+          583.32,
+          702.125
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          19.283,
+          583.32,
+          550.633
+        ],
+        "purpose": "Contexte commun dans le corrigé : Annale « 2019–2018 » — Gène à 7 exons",
+        "contextId": "ue2.ed.annales.2019-2018-source-gene7exons.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          550.633,
+          583.32,
+          702.125
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 21,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          713.743,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          18,
+          583.32,
+          39.265
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          19.283,
+          583.32,
+          550.633
+        ],
+        "purpose": "Contexte commun dans le corrigé : Annale « 2019–2018 » — Gène à 7 exons",
+        "contextId": "ue2.ed.annales.2019-2018-source-gene7exons.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          713.743,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          18,
+          583.32,
+          39.265
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 22,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          447.313,
+          583.32,
+          656.885
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          447.313
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          447.313,
+          583.32,
+          656.885
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 23,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          668.503,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          18,
+          583.32,
+          264.645
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          447.313
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          668.503,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          18,
+          583.32,
+          264.645
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 24,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          276.293,
+          583.32,
+          500.495
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          447.313
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          276.293,
+          583.32,
+          500.495
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 25,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          639.463,
+          583.32,
+          805.441
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          512.553,
+          583.32,
+          639.463
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 2 — Exon 34",
+        "contextId": "ue2.ed.annales.2020-2021-s2-exon34.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          639.463,
+          583.32,
+          805.441
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 26,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          213.765
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          512.553,
+          583.32,
+          639.463
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 2 — Exon 34",
+        "contextId": "ue2.ed.annales.2020-2021-s2-exon34.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          213.765
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 27,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          323.693,
+          583.32,
+          562.535
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          225.823,
+          583.32,
+          323.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2021–2022 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2021-2022-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          323.693,
+          583.32,
+          562.535
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 28,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          573.913,
+          583.32,
+          812.665
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          225.823,
+          583.32,
+          323.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2021–2022 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2021-2022-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          573.913,
+          583.32,
+          812.665
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 29,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          278.32
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          225.823,
+          583.32,
+          323.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2021–2022 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2021-2022-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          278.32
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 30,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          367.253,
+          583.32,
+          562.295
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          283.933,
+          583.32,
+          367.253
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2022–2023 — Gène TNNT2",
+        "contextId": "ue2.ed.annales.2022-2023-tnnt2.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          367.253,
+          583.32,
+          562.295
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 31,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          573.913,
+          583.32,
+          768.961
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          283.933,
+          583.32,
+          367.253
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2022–2023 — Gène TNNT2",
+        "contextId": "ue2.ed.annales.2022-2023-tnnt2.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          573.913,
+          583.32,
+          768.961
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 32,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          228.285
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          283.933,
+          583.32,
+          367.253
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2022–2023 — Gène TNNT2",
+        "contextId": "ue2.ed.annales.2022-2023-tnnt2.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          228.285
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 33,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          359.333,
+          583.32,
+          554.375
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          240.463,
+          583.32,
+          359.333
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2023–2024 — Exon 34 du gène MYBPC3",
+        "contextId": "ue2.ed.annales.2023-2024-mybpc3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          359.333,
+          583.32,
+          554.375
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 34,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          565.993,
+          583.32,
+          702.845
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          240.463,
+          583.32,
+          359.333
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2023–2024 — Exon 34 du gène MYBPC3",
+        "contextId": "ue2.ed.annales.2023-2024-mybpc3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          565.993,
+          583.32,
+          702.845
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 35,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          170.085
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          240.463,
+          583.32,
+          359.333
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2023–2024 — Exon 34 du gène MYBPC3",
+        "contextId": "ue2.ed.annales.2023-2024-mybpc3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          170.085
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 36,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          181.703,
+          583.32,
+          318.555
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 16,
+        "rect": [
+          30,
+          240.463,
+          583.32,
+          359.333
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2023–2024 — Exon 34 du gène MYBPC3",
+        "contextId": "ue2.ed.annales.2023-2024-mybpc3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          181.703,
+          583.32,
+          318.555
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 37,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          562.633,
+          583.32,
+          757.681
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          330.733,
+          583.32,
+          562.633
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 1 — Gène PLN",
+        "contextId": "ue2.ed.annales.2024-2025-s1-pln.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          562.633,
+          583.32,
+          757.681
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 38,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          769.299,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "rect": [
+          30,
+          18,
+          583.32,
+          199.125
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          330.733,
+          583.32,
+          562.633
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 1 — Gène PLN",
+        "contextId": "ue2.ed.annales.2024-2025-s1-pln.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          769.299,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "rect": [
+          30,
+          18,
+          583.32,
+          199.125
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 39,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "rect": [
+          30,
+          210.743,
+          583.32,
+          405.795
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          330.733,
+          583.32,
+          562.633
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 1 — Gène PLN",
+        "contextId": "ue2.ed.annales.2024-2025-s1-pln.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "rect": [
+          30,
+          210.743,
+          583.32,
+          405.795
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 40,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "rect": [
+          30,
+          417.413,
+          583.32,
+          717.965
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 17,
+        "rect": [
+          30,
+          330.733,
+          583.32,
+          562.633
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 1 — Gène PLN",
+        "contextId": "ue2.ed.annales.2024-2025-s1-pln.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 18,
+        "rect": [
+          30,
+          417.413,
+          583.32,
+          717.965
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 41,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          167.183,
+          583.32,
+          405.795
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          19.283,
+          583.32,
+          167.183
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 2 — Gène TNNC1",
+        "contextId": "ue2.ed.annales.2024-2025-s2-tnnc1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          167.183,
+          583.32,
+          405.795
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 42,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          417.413,
+          583.32,
+          656.165
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          19.283,
+          583.32,
+          167.183
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 2 — Gène TNNC1",
+        "contextId": "ue2.ed.annales.2024-2025-s2-tnnc1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          417.413,
+          583.32,
+          656.165
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 43,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          667.783,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 20,
+        "rect": [
+          30,
+          18,
+          583.32,
+          141.045
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          19.283,
+          583.32,
+          167.183
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2024–2025, session 2 — Gène TNNC1",
+        "contextId": "ue2.ed.annales.2024-2025-s2-tnnc1.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 19,
+        "rect": [
+          30,
+          667.783,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 20,
+        "rect": [
+          30,
+          18,
+          583.32,
+          141.045
+        ]
+      }
+    ],
+    "reason": "Contexte et figures communs présents dans le corrigé original, absents de la copie préparée."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 29,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          225.823,
+          583.32,
+          323.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2021–2022 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2021-2022-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          278.32
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          225.823,
+          583.32,
+          323.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2021–2022 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2021-2022-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 14,
+        "rect": [
+          30,
+          573.9,
+          583.32,
+          607
+        ],
+        "purpose": "Fragment d’ADN commun aux QCM 2 et 3",
+        "contextId": "ue2.ed.annales.2021-2022-oligonucleotide.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          278.32
+        ]
+      }
+    ],
+    "reason": "Le fragment auquel se réfère cette question figure dans le titre de la précédente."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 16,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18,
+          582,
+          587.953
+        ],
+        "purpose": "Énoncé commun : Début du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-debut"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          690.343,
+          583.32,
+          785.401
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18,
+          582,
+          587.953
+        ],
+        "purpose": "Énoncé commun : Début du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-debut"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          690.343,
+          583.32,
+          785.401
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 21,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          237.623
+        ],
+        "purpose": "Énoncé commun : Fin du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon15"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          237.623,
+          583.32,
+          332.835
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          237.623
+        ],
+        "purpose": "Énoncé commun : Fin du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon15"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          237.623,
+          583.32,
+          332.835
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 22,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          237.623
+        ],
+        "purpose": "Énoncé commun : Fin du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon15"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          338.933,
+          583.32,
+          421.395
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          237.623
+        ],
+        "purpose": "Énoncé commun : Fin du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon15"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          338.933,
+          583.32,
+          421.395
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 23,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          237.623
+        ],
+        "purpose": "Énoncé commun : Fin du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon15"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          427.493,
+          583.32,
+          522.575
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          237.623
+        ],
+        "purpose": "Énoncé commun : Fin du gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon15"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          427.493,
+          583.32,
+          522.575
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 36,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          131.303,
+          583.32,
+          213.765
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          131.303,
+          583.32,
+          213.765
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 37,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          215.765,
+          582,
+          316.733
+        ],
+        "purpose": "Énoncé commun : La mutation dans l’exon 2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon2"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          316.733,
+          583.32,
+          399.195
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          215.765,
+          582,
+          316.733
+        ],
+        "purpose": "Énoncé commun : La mutation dans l’exon 2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon2"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          316.733,
+          583.32,
+          399.195
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 38,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          215.765,
+          582,
+          316.733
+        ],
+        "purpose": "Énoncé commun : La mutation dans l’exon 2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon2"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          405.293,
+          583.32,
+          500.495
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          215.765,
+          582,
+          316.733
+        ],
+        "purpose": "Énoncé commun : La mutation dans l’exon 2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon2"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          405.293,
+          583.32,
+          500.495
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 39,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          215.765,
+          582,
+          316.733
+        ],
+        "purpose": "Énoncé commun : La mutation dans l’exon 2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon2"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          506.473,
+          583.32,
+          639.575
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : Le syndrome du QT long et le gène KCNH2",
+        "contextId": "ue2.ed.2025-2026.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          18,
+          582,
+          64.803
+        ],
+        "purpose": "Énoncé commun : Étude d’une patiente",
+        "contextId": "ue2.ed.2025-2026.patiente"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          617.335,
+          582,
+          672.103
+        ],
+        "purpose": "Énoncé commun : La variation c.164C>T",
+        "contextId": "ue2.ed.2025-2026.nom-mutation"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          215.765,
+          582,
+          316.733
+        ],
+        "purpose": "Énoncé commun : La mutation dans l’exon 2",
+        "contextId": "ue2.ed.2025-2026.sequence-exon2"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          506.473,
+          583.32,
+          639.575
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          507,
+          570,
+          785
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 16,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          406.853
+        ],
+        "purpose": "Énoncé commun : Séquence de l’exon 1",
+        "contextId": "ue2.ed.2026-2027.sequence-exon1"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          496.513,
+          583.32,
+          591.695
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          406.853
+        ],
+        "purpose": "Énoncé commun : Séquence de l’exon 1",
+        "contextId": "ue2.ed.2026-2027.sequence-exon1"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          496.513,
+          583.32,
+          591.695
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 23,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18,
+          582,
+          218.303
+        ],
+        "purpose": "Énoncé commun : Fin du gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.sequence-fin"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18,
+          582,
+          321.053
+        ],
+        "purpose": "Énoncé commun : L’ARNt",
+        "contextId": "ue2.ed.2026-2027.arnt"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          321.053,
+          583.32,
+          428.835
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18,
+          582,
+          218.303
+        ],
+        "purpose": "Énoncé commun : Fin du gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.sequence-fin"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18,
+          582,
+          321.053
+        ],
+        "purpose": "Énoncé commun : L’ARNt",
+        "contextId": "ue2.ed.2026-2027.arnt"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          321.053,
+          583.32,
+          428.835
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 24,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18,
+          582,
+          218.303
+        ],
+        "purpose": "Énoncé commun : Fin du gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.sequence-fin"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18,
+          582,
+          321.053
+        ],
+        "purpose": "Énoncé commun : L’ARNt",
+        "contextId": "ue2.ed.2026-2027.arnt"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          434.933,
+          583.32,
+          530.015
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          18,
+          582,
+          218.303
+        ],
+        "purpose": "Énoncé commun : Fin du gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.sequence-fin"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18,
+          582,
+          321.053
+        ],
+        "purpose": "Énoncé commun : L’ARNt",
+        "contextId": "ue2.ed.2026-2027.arnt"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          434.933,
+          583.32,
+          530.015
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 35,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          97.583
+        ],
+        "purpose": "Énoncé commun : Patiente A",
+        "contextId": "ue2.ed.2026-2027.patiente-a"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          18,
+          582,
+          232.703
+        ],
+        "purpose": "Énoncé commun : Séquençage de la patiente A — figure 3",
+        "contextId": "ue2.ed.2026-2027.figure3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          317.195,
+          582,
+          649.303
+        ],
+        "purpose": "Énoncé commun : Localisation de la variation — figures 4 et 5",
+        "contextId": "ue2.ed.2026-2027.figures4-5"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          346.373,
+          583.32,
+          428.835
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          582,
+          97.583
+        ],
+        "purpose": "Énoncé commun : Patiente A",
+        "contextId": "ue2.ed.2026-2027.patiente-a"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          18,
+          582,
+          232.703
+        ],
+        "purpose": "Énoncé commun : Séquençage de la patiente A — figure 3",
+        "contextId": "ue2.ed.2026-2027.figure3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          317.195,
+          582,
+          649.303
+        ],
+        "purpose": "Énoncé commun : Localisation de la variation — figures 4 et 5",
+        "contextId": "ue2.ed.2026-2027.figures4-5"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 9,
+        "rect": [
+          30,
+          346.373,
+          583.32,
+          428.835
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 37,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Séquençage du patient B",
+        "contextId": "ue2.ed.2026-2027.patient-b"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          452.813,
+          583.32,
+          547.895
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Séquençage du patient B",
+        "contextId": "ue2.ed.2026-2027.patient-b"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          452.813,
+          583.32,
+          547.895
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 38,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Séquençage du patient B",
+        "contextId": "ue2.ed.2026-2027.patient-b"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          553.993,
+          583.32,
+          649.175
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Séquençage du patient B",
+        "contextId": "ue2.ed.2026-2027.patient-b"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          553.993,
+          583.32,
+          649.175
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 39,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Patients B et C — l’exon 2",
+        "contextId": "ue2.ed.2026-2027.patients-bc"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          668.623,
+          583.32,
+          776.401
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Patients B et C — l’exon 2",
+        "contextId": "ue2.ed.2026-2027.patients-bc"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          668.623,
+          583.32,
+          776.401
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 40,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Patients B et C — l’exon 2",
+        "contextId": "ue2.ed.2026-2027.patients-bc"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          668.623,
+          582,
+          707.339
+        ],
+        "purpose": "Énoncé commun : Variation du patient C",
+        "contextId": "ue2.ed.2026-2027.patient-c"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          42.723,
+          583.32,
+          125.205
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          25,
+          582,
+          800
+        ],
+        "purpose": "Énoncé commun : La cardiomyopathie hypertrophique et le gène MYBPC3",
+        "contextId": "ue2.ed.2026-2027.introduction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18,
+          582,
+          452.813
+        ],
+        "purpose": "Énoncé commun : Patients B et C — l’exon 2",
+        "contextId": "ue2.ed.2026-2027.patients-bc"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          668.623,
+          582,
+          707.339
+        ],
+        "purpose": "Énoncé commun : Variation du patient C",
+        "contextId": "ue2.ed.2026-2027.patient-c"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          42.723,
+          583.32,
+          125.205
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+        "page": 11,
+        "rect": [
+          45,
+          155,
+          570,
+          680
+        ],
+        "purpose": "Annexe originale : code génétique et liste des acides aminés",
+        "contextId": "code-genetique"
+      }
+    ],
+    "reason": "L’annexe existait déjà dans references ; la copie originale comprend désormais le même tableau fourni."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 19,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          572.655,
+          583.32,
+          600.655
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          572.655,
+          115,
+          600.655
+        ],
+        "purpose": "Clé de la question"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 6,
+        "rect": [
+          116.5,
+          569.8,
+          570.5,
+          796.2
+        ],
+        "purpose": "Séquence : sites donneur et accepteur d’épissage"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          583.32,
+          296.493
+        ],
+        "purpose": "Rappel d’épissage fourni en suite de page"
+      }
+    ],
+    "reason": "La figure commune commence avant Q19 et descend sous Q20 ; restitution complète sans couper les étiquettes."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 20,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          602.655,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          583.32,
+          296.493
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          602.655,
+          115,
+          622
+        ],
+        "purpose": "Clé de la question"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 6,
+        "rect": [
+          116.5,
+          569.8,
+          570.5,
+          796.2
+        ],
+        "purpose": "Séquence : sites donneur et accepteur d’épissage"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18,
+          583.32,
+          296.493
+        ],
+        "purpose": "Rappel d’épissage fourni en suite de page"
+      }
+    ],
+    "reason": "La figure commune commence avant Q19 et descend sous Q20 ; restitution complète sans couper les étiquettes."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 26,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          31.243
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          34.8
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          35,
+          49.3,
+          454.6,
+          292.9
+        ],
+        "purpose": "Séquence corrigée : signal de polyadénylation"
+      }
+    ],
+    "reason": "Clé Q26 complète et séquence annotée commune Q26/Q27, auparavant absente de cette copie."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 27,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          33.243,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          35,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "reason": "Début du panneau situé entre les clés Q26 et Q27, sans fragment de la ligne précédente."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 32,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          293.453,
+          583.32,
+          320.493
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          293.5,
+          300,
+          322.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          306.5,
+          286.6,
+          583.4,
+          438.7
+        ],
+        "purpose": "Tableau des substitutions par transition/transversion"
+      }
+    ],
+    "reason": "Tableau latéral dépassant la hauteur du titre Q32, auparavant tronqué."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 33,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          322.493,
+          583.32,
+          563.033
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          322.493,
+          300,
+          563.033
+        ]
+      }
+    ],
+    "reason": "Séparation de la colonne Q33 et du tableau latéral propre à Q32 ; molécules Q33 complètes."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 42,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          577.273,
+          583.32,
+          589.793
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          577.273,
+          583.32,
+          593.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 15,
+        "rect": [
+          35,
+          607.8,
+          448.8,
+          811.0
+        ],
+        "purpose": "Amorce, brin matrice et allongement de l’ADN"
+      }
+    ],
+    "reason": "Clé Q42 complète ; le schéma commun d’allongement était rattaché au seul titre Q43, alors qu’il explique Q42."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 43,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          591.793,
+          583.32,
+          813.04
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 15,
+        "rect": [
+          30,
+          593.8,
+          583.32,
+          813.04
+        ]
+      }
+    ],
+    "reason": "Début du panneau situé entre les clés Q42 et Q43, sans fragment de la ligne précédente."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 8,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          194.903,
+          593.36,
+          399.573
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          194.903,
+          594,
+          403.3
+        ]
+      }
+    ],
+    "reason": "Le bord droit de la figure dépassait x=583.32 ; la légende « Région promoteur » sous le schéma gauche est également rétablie."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 9,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          401.573,
+          583.32,
+          575.993
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          403.6,
+          328,
+          580
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          328.8,
+          474,
+          575.4,
+          645.2
+        ],
+        "purpose": "Acétylation et décompaction de la chromatine"
+      }
+    ],
+    "reason": "Figure latérale commune Q9/Q10, auparavant coupée par les hauteurs de titres."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 10,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          577.993,
+          583.32,
+          653.183
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          580.1,
+          328,
+          639
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          328.8,
+          474,
+          575.4,
+          645.2
+        ],
+        "purpose": "Acétylation et décompaction de la chromatine"
+      }
+    ],
+    "reason": "Figure latérale commune Q9/Q10, auparavant coupée par les hauteurs de titres."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 11,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          655.183,
+          583.32,
+          740.419
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          641.7,
+          383,
+          810.2
+        ],
+        "purpose": "Code histone complet"
+      }
+    ],
+    "reason": "Le code histone commence avant Q11 et finit plus bas que Q12."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 12,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          742.419,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          388,
+          742.4,
+          583.32,
+          803.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          35,
+          416.7,
+          325.8,
+          580.6
+        ],
+        "purpose": "Illustration QCM 9 explicitement citée dans ce corrigé"
+      }
+    ],
+    "reason": "La correction renvoie à l’illustration QCM9 ; paragraphe complet en colonne droite et retrait d’un fragment tronqué du code histone voisin."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 24,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          293.813,
+          583.32,
+          364.533
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          293.8,
+          350,
+          366.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          354.6,
+          302.3,
+          565.2,
+          496.4
+        ],
+        "purpose": "ARNt porteur de proline et codon correspondant"
+      }
+    ],
+    "reason": "ARNt latéral complet, auparavant coupé au début de Q25."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 25,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          366.533,
+          583.32,
+          626.423
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          18.5,
+          366.5,
+          350,
+          591
+        ],
+        "purpose": "Q25 et partie supérieure du chromosome"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          18.5,
+          589,
+          210,
+          632.2
+        ],
+        "purpose": "Suite du chromosome, sans la diapositive voisine"
+      }
+    ],
+    "reason": "Rétablissement du bord gauche et de la partie basse du caryotype ; séparation de la diapositive Q26."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 26,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          628.423,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          628.4,
+          211,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          211.7,
+          590.9,
+          565.3,
+          795.2
+        ],
+        "purpose": "Dénaturation, fusion et renaturation"
+      }
+    ],
+    "reason": "La diapositive de fusion commence au-dessus du titre Q26 ; copie originale complète."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 38,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          265.973,
+          583.32,
+          453.113
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          243.8,
+          595.32,
+          453.113
+        ]
+      }
+    ],
+    "reason": "Rétablissement du haut de la séquence et du bord droit de l’explication de la mutation."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 40,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          622.303,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          597.8,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "reason": "Rétablissement de la numérotation et du haut de la séquence, au-dessus du titre Q40."
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "id": 5,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          641.023,
+          583.32,
+          747.365
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 1,
+        "rect": [
+          30,
+          641.023,
+          433,
+          747.365
+        ]
+      }
+    ],
+    "reason": "Le schéma ARNt appartient à la question précédente ; les cinq propositions tiennent dans la colonne gauche."
+  },
+  {
+    "bank": "ue2.arn.autotest",
+    "id": 10,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          382.373,
+          583.32,
+          517.775
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          382.373,
+          437,
+          427.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          427.5,
+          583.32,
+          517.775
+        ]
+      }
+    ],
+    "reason": "Découpage entre les lignes A et B pour exclure la fin du schéma de Q9 sans couper une proposition."
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "id": 8,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          134.869,
+          583.32,
+          241.365
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          134.869,
+          463,
+          165.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          165.5,
+          583.32,
+          241.365
+        ]
+      }
+    ],
+    "reason": "Découpage entre les lignes A et B pour exclure la fin du schéma de Q7 sans couper une proposition."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 6,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          349.013,
+          583.32,
+          614.543
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          349.013,
+          583.32,
+          618
+        ]
+      }
+    ],
+    "reason": "Le schéma du gène descend sous la limite automatique du titre suivant."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 7,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          616.543,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          618.5,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "reason": "Début après le schéma de Q6, avant le titre Q7."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 31,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          291.453
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          281.6
+        ]
+      }
+    ],
+    "reason": "Fin après le schéma Q31, avant le tableau de Q32."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 6,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          149.343
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          152.7
+        ]
+      }
+    ],
+    "reason": "Rétablissement du bas de la séquence et de ses repères exon/intron."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 7,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          151.343,
+          583.32,
+          192.903
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          153.1,
+          583.32,
+          192.903
+        ]
+      }
+    ],
+    "reason": "Début après la figure Q6, avant le titre Q7."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 9,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          403.6,
+          328,
+          580
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          328.8,
+          474,
+          575.4,
+          645.2
+        ],
+        "purpose": "Acétylation et décompaction de la chromatine"
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          403.6,
+          328,
+          580
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          328.8,
+          474,
+          575.4,
+          643.45
+        ],
+        "purpose": "Acétylation et décompaction de la chromatine"
+      }
+    ],
+    "reason": "Fin de la figure d’acétylation avant le schéma du code histone."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 10,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          580.1,
+          328,
+          639
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          328.8,
+          474,
+          575.4,
+          645.2
+        ],
+        "purpose": "Acétylation et décompaction de la chromatine"
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          580.1,
+          328,
+          639
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          328.8,
+          474,
+          575.4,
+          643.45
+        ],
+        "purpose": "Acétylation et décompaction de la chromatine"
+      }
+    ],
+    "reason": "Fin de la figure d’acétylation avant le schéma du code histone."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 11,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          641.7,
+          383,
+          810.2
+        ],
+        "purpose": "Code histone complet"
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 2,
+        "rect": [
+          30,
+          643.4,
+          383,
+          810.2
+        ],
+        "purpose": "Code histone complet"
+      }
+    ],
+    "reason": "Début du code histone après le bas de l’illustration précédente."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 26,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          628.4,
+          211,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          211.7,
+          590.9,
+          565.3,
+          795.2
+        ],
+        "purpose": "Dénaturation, fusion et renaturation"
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          630.5,
+          211,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 5,
+        "rect": [
+          211.7,
+          590.9,
+          565.3,
+          795.2
+        ],
+        "purpose": "Dénaturation, fusion et renaturation"
+      }
+    ],
+    "reason": "Début de la colonne de texte après le chromosome voisin, avant la clé Q26."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 33,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          270.933
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          274.3
+        ]
+      }
+    ],
+    "reason": "Fin de la séquence entière, sous son bord raster inférieur."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 34,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          272.933,
+          583.32,
+          510.473
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 7,
+        "rect": [
+          30,
+          274.8,
+          583.32,
+          510.473
+        ]
+      }
+    ],
+    "reason": "Début après la figure Q33, avant la clé Q34."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 37,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          263.973
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          212.5
+        ]
+      }
+    ],
+    "reason": "Fin après la figure Q37, avant le haut de celle de Q38."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 39,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          455.113,
+          583.32,
+          620.303
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 8,
+        "rect": [
+          30,
+          455.113,
+          583.32,
+          581.4
+        ]
+      }
+    ],
+    "reason": "Fin après la figure Q39, avant le haut de celle de Q40."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 10,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          365.693
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          365.693,
+          583.32,
+          457.415
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          367.5
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          365.693,
+          583.32,
+          457.415
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 10,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          365.693,
+          583.32,
+          618.935
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          367.5
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          365.693,
+          583.32,
+          618.935
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 11,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          365.693
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          467.593,
+          583.32,
+          559.295
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          367.5
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          467.593,
+          583.32,
+          559.295
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 11,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          630.583,
+          583.32,
+          796.561
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          367.5
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          630.583,
+          583.32,
+          796.561
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 12,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          365.693
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          569.353,
+          583.32,
+          675.725
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          367.5
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          569.353,
+          583.32,
+          675.725
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 12,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          315.555
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          367.5
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          315.555
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 13,
+    "field": "crops.subject",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          365.693
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          685.783,
+          583.32,
+          792.121
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          18,
+          582,
+          367.5
+        ],
+        "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          685.783,
+          583.32,
+          792.121
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 13,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          365.693
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          327.173,
+          583.32,
+          566.855
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 5,
+        "rect": [
+          30,
+          19.163,
+          583.32,
+          367.5
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+        "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          327.173,
+          583.32,
+          566.855
+        ]
+      }
+    ],
+    "reason": "Tableau du code génétique et sa dernière ligne d’abréviations entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 22,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          447.313
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          447.313,
+          583.32,
+          656.885
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          448.8
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          447.313,
+          583.32,
+          656.885
+        ]
+      }
+    ],
+    "reason": "Bord inférieur de la séquence commune entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 23,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          447.313
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          668.503,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          18,
+          583.32,
+          264.645
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          448.8
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          668.503,
+          583.32,
+          816
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          18,
+          583.32,
+          264.645
+        ]
+      }
+    ],
+    "reason": "Bord inférieur de la séquence commune entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "id": 24,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          447.313
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          276.293,
+          583.32,
+          500.495
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          51.203,
+          583.32,
+          448.8
+        ],
+        "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+        "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+        "page": 13,
+        "rect": [
+          30,
+          276.293,
+          583.32,
+          500.495
+        ]
+      }
+    ],
+    "reason": "Bord inférieur de la séquence commune entièrement inclus."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 27,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          35,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          30,
+          35,
+          583.32,
+          292.9
+        ]
+      }
+    ],
+    "reason": "Fin après le schéma de polyadénylation ; le schéma de biogenèse des microARN est rattaché aux Q28/Q29."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 28,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          45.763
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          18.723,
+          583.32,
+          45.763
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          35,
+          305.3,
+          570.5,
+          716.8
+        ],
+        "purpose": "Biogenèse des microARN : contexte commun aux Q28 et Q29"
+      }
+    ],
+    "reason": "Schéma original commun rattaché aux questions qui exploitent directement ses bases ou ses mécanismes."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 29,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          47.763,
+          583.32,
+          500.513
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 11,
+        "rect": [
+          30,
+          47.763,
+          583.32,
+          500.513
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 10,
+        "rect": [
+          35,
+          305.3,
+          570.5,
+          716.8
+        ],
+        "purpose": "Biogenèse des microARN : contexte commun aux Q28 et Q29"
+      }
+    ],
+    "reason": "Schéma original commun rattaché aux questions qui exploitent directement ses bases ou ses mécanismes."
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "id": 32,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          293.5,
+          300,
+          322.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          306.5,
+          286.6,
+          583.4,
+          438.7
+        ],
+        "purpose": "Tableau des substitutions par transition/transversion"
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          30,
+          293.5,
+          300,
+          322.5
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          306.5,
+          286.6,
+          583.4,
+          438.7
+        ],
+        "purpose": "Tableau des substitutions par transition/transversion"
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+        "page": 12,
+        "rect": [
+          35,
+          338.3,
+          277.8,
+          551.5
+        ],
+        "purpose": "Bases normale et mutée : contexte chimique commun aux Q32 et Q33"
+      }
+    ],
+    "reason": "Schéma original commun rattaché aux questions qui exploitent directement ses bases ou ses mécanismes."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 22,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          707.383,
+          583.32,
+          813
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 4,
+        "rect": [
+          30,
+          707.383,
+          583.32,
+          813
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 4,
+        "rect": [
+          35,
+          580.8,
+          570.5,
+          695.1
+        ],
+        "purpose": "Séquence de fin du gène : signal de polyadénylation commun aux Q21 et Q22"
+      }
+    ],
+    "reason": "Schéma original commun rattaché aux questions qui exploitent directement ses bases ou ses mécanismes."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 28,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          240.863,
+          583.32,
+          268.053
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          240.863,
+          583.32,
+          268.053
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "rect": [
+          35,
+          33.8,
+          570.5,
+          229.1
+        ],
+        "purpose": "Structure et nomenclature des bases : figure commune aux Q27 à Q29"
+      }
+    ],
+    "reason": "Schéma original commun rattaché aux questions qui exploitent directement ses bases ou ses mécanismes."
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "id": 29,
+    "field": "crops.correction",
+    "before": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          270.053,
+          583.32,
+          311.613
+        ]
+      }
+    ],
+    "after": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "rect": [
+          30,
+          270.053,
+          583.32,
+          311.613
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+        "page": 6,
+        "rect": [
+          35,
+          33.8,
+          570.5,
+          229.1
+        ],
+        "purpose": "Structure et nomenclature des bases : figure commune aux Q27 à Q29"
+      }
+    ],
+    "reason": "Schéma original commun rattaché aux questions qui exploitent directement ses bases ou ses mécanismes."
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "id": 1,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "La cellule a besoin de répliquer fidèlement son ADN pour assurer sa survie."
+      },
+      {
+        "id": "B",
+        "text": "Statistiquement on trouve environ 109 erreurs par réplication."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est dite semi-conservative, chaque brin fils est synthétisée de manière parallèle est complémentaire au brin parental."
+      },
+      {
+        "id": "D",
+        "text": "Les ADN polymérases ont besoin de Mg2+ pour assurer leur activité."
+      },
+      {
+        "id": "E",
+        "text": "Les ADN polymérases pour synthétiser de l’ADN ont besoin de nucléosides triphosphates."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "La cellule a besoin de répliquer fidèlement son ADN pour assurer sa survie."
+      },
+      {
+        "id": "B",
+        "text": "Statistiquement on trouve environ 10⁹ erreurs par réplication."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est dite semi-conservative, chaque brin fils est synthétisée de manière parallèle est complémentaire au brin parental."
+      },
+      {
+        "id": "D",
+        "text": "Les ADN polymérases ont besoin de Mg2+ pour assurer leur activité."
+      },
+      {
+        "id": "E",
+        "text": "Les ADN polymérases pour synthétiser de l’ADN ont besoin de nucléosides triphosphates."
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "id": 1,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "La cellule a besoin de répliquer fidèlement son ADN pour assurer sa survie."
+      },
+      {
+        "id": "B",
+        "text": "Statistiquement on trouve environ 10⁹ erreurs par réplication."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est dite semi-conservative, chaque brin fils est synthétisée de manière parallèle est complémentaire au brin parental."
+      },
+      {
+        "id": "D",
+        "text": "Les ADN polymérases ont besoin de Mg2+ pour assurer leur activité."
+      },
+      {
+        "id": "E",
+        "text": "Les ADN polymérases pour synthétiser de l’ADN ont besoin de nucléosides triphosphates."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "La cellule a besoin de répliquer fidèlement son ADN pour assurer sa survie."
+      },
+      {
+        "id": "B",
+        "text": "Statistiquement on trouve environ 10⁹ erreurs par réplication."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est dite semi-conservative, chaque brin fils est synthétisée de manière parallèle est complémentaire au brin parental."
+      },
+      {
+        "id": "D",
+        "text": "Les ADN polymérases ont besoin de Mg²⁺ pour assurer leur activité."
+      },
+      {
+        "id": "E",
+        "text": "Les ADN polymérases pour synthétiser de l’ADN ont besoin de nucléosides triphosphates."
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "id": 7,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "La primase est associée à l’hélicase et forment ainsi le primosome."
+      },
+      {
+        "id": "B",
+        "text": "La primase ne nécessite pas d’extrémité 3’OH libre."
+      },
+      {
+        "id": "C",
+        "text": "Le génome d’E.coli comprend 109 pb."
+      },
+      {
+        "id": "D",
+        "text": "Chez les procaryotes il n’y a qu’une seule origine de réplication nommée oriC."
+      },
+      {
+        "id": "E",
+        "text": "Chez les procaryotes il n’y a qu’un sens de progression de l’oeil de réplication."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "La primase est associée à l’hélicase et forment ainsi le primosome."
+      },
+      {
+        "id": "B",
+        "text": "La primase ne nécessite pas d’extrémité 3’OH libre."
+      },
+      {
+        "id": "C",
+        "text": "Le génome d’E.coli comprend 10⁹ pb."
+      },
+      {
+        "id": "D",
+        "text": "Chez les procaryotes il n’y a qu’une seule origine de réplication nommée oriC."
+      },
+      {
+        "id": "E",
+        "text": "Chez les procaryotes il n’y a qu’un sens de progression de l’oeil de réplication."
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 4,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "En général, le taux de mutations des génomes est extrêmement bas (~1 seul nucléotide modifié pour 109 nucléotides à chaque cycle de réplication)."
+      },
+      {
+        "id": "B",
+        "text": "La fidélité de la réplication et la réparation de l'ADN participent à la survie à court terme d'une cellule / d'un individu."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est conservative et discontinue sur un des deux brins."
+      },
+      {
+        "id": "D",
+        "text": "Avant addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de bases qui serait ainsi créée."
+      },
+      {
+        "id": "E",
+        "text": "Après addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'activité exonucléasique 5'→3' de l'ADN polymérase permet de corriger une erreur éventuelle."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "En général, le taux de mutations des génomes est extrêmement bas (~1 seul nucléotide modifié pour 10⁹ nucléotides à chaque cycle de réplication)."
+      },
+      {
+        "id": "B",
+        "text": "La fidélité de la réplication et la réparation de l'ADN participent à la survie à court terme d'une cellule / d'un individu."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est conservative et discontinue sur un des deux brins."
+      },
+      {
+        "id": "D",
+        "text": "Avant addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de bases qui serait ainsi créée."
+      },
+      {
+        "id": "E",
+        "text": "Après addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'activité exonucléasique 5'→3' de l'ADN polymérase permet de corriger une erreur éventuelle."
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 11,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "Un polysome permet la synthèse par polymérisation de l’ADN"
+      },
+      {
+        "id": "B",
+        "text": "La fidélité de l’ADN polymérase permet un taux d’erreur d’environ une erreur toutes les 107 paires de bases."
+      },
+      {
+        "id": "C",
+        "text": "La primase synthétise les amorces d’ADN nécessaires a l’initiation de la réplication"
+      },
+      {
+        "id": "D",
+        "text": "L’ADN polymérase α initie la réplication sur le brin tardif chez les Eucaryotes"
+      },
+      {
+        "id": "E",
+        "text": "Chez les Eucaryotes, tous les nucléosomes présents sur les deux génomes fils sont des nucléosomes parentaux."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "Un polysome permet la synthèse par polymérisation de l’ADN"
+      },
+      {
+        "id": "B",
+        "text": "La fidélité de l’ADN polymérase permet un taux d’erreur d’environ une erreur toutes les 10⁷ paires de bases."
+      },
+      {
+        "id": "C",
+        "text": "La primase synthétise les amorces d’ADN nécessaires a l’initiation de la réplication"
+      },
+      {
+        "id": "D",
+        "text": "L’ADN polymérase α initie la réplication sur le brin tardif chez les Eucaryotes"
+      },
+      {
+        "id": "E",
+        "text": "Chez les Eucaryotes, tous les nucléosomes présents sur les deux génomes fils sont des nucléosomes parentaux."
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 13,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "La réplication est semi-conservative et discontinue sur un des deux brins d’ADN"
+      },
+      {
+        "id": "B",
+        "text": "Le taux de mutation des génomes est d’environ 1 seul nucléotide modifié pour 109 nucléotides à chaque cycle de réplication"
+      },
+      {
+        "id": "C",
+        "text": "La mise en place d’une amorce d’ADN nécessaire à la réplication est assurée par une primase"
+      },
+      {
+        "id": "D",
+        "text": "Avant addition non covalente d’un nucléotide sur le brin d’ADN fils en cours de synthèse, l’ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de base qui va être créée"
+      },
+      {
+        "id": "E",
+        "text": "L’ADN polymérase δ possède une fonction d’édition, qui est une fonction exonucléasique 3’→ 5’"
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "La réplication est semi-conservative et discontinue sur un des deux brins d’ADN"
+      },
+      {
+        "id": "B",
+        "text": "Le taux de mutation des génomes est d’environ 1 seul nucléotide modifié pour 10⁹ nucléotides à chaque cycle de réplication"
+      },
+      {
+        "id": "C",
+        "text": "La mise en place d’une amorce d’ADN nécessaire à la réplication est assurée par une primase"
+      },
+      {
+        "id": "D",
+        "text": "Avant addition non covalente d’un nucléotide sur le brin d’ADN fils en cours de synthèse, l’ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de base qui va être créée"
+      },
+      {
+        "id": "E",
+        "text": "L’ADN polymérase δ possède une fonction d’édition, qui est une fonction exonucléasique 3’→ 5’"
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "id": 18,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "Le taux de mutations des génomes est extrêmement bas (~1 seul nucléotide modifie pour 109 nucléotides à chaque cycle de réplication)."
+      },
+      {
+        "id": "B",
+        "text": "La fidélité de la réplication et la réparation de l'ADN participent à la survie à court terme d'une cellule ou d'un individu."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est semi-conservative."
+      },
+      {
+        "id": "D",
+        "text": "Avant addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de base qui serait ainsi créée."
+      },
+      {
+        "id": "E",
+        "text": "Apres addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'activité exonucléasique 5'→3’ de l'ADN polymérase permet de corriger une éventuelle erreur."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "Le taux de mutations des génomes est extrêmement bas (~1 seul nucléotide modifie pour 10⁹ nucléotides à chaque cycle de réplication)."
+      },
+      {
+        "id": "B",
+        "text": "La fidélité de la réplication et la réparation de l'ADN participent à la survie à court terme d'une cellule ou d'un individu."
+      },
+      {
+        "id": "C",
+        "text": "La réplication est semi-conservative."
+      },
+      {
+        "id": "D",
+        "text": "Avant addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'ADN polymérase subit une transconformation pour vérifier la géométrie de la paire de base qui serait ainsi créée."
+      },
+      {
+        "id": "E",
+        "text": "Apres addition covalente d'un nucléotide sur le brin fils en cours de synthèse, l'activité exonucléasique 5'→3’ de l'ADN polymérase permet de corriger une éventuelle erreur."
+      }
+    ],
+    "reason": "Exposant visible dans le PDF original et dans ses spans ; la forme aplatie changeait la valeur scientifique."
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "id": 1,
+    "field": "explanations",
+    "before": {
+      "A": "",
+      "B": "1 erreur tous les 109 nts",
+      "C": "antiparallèle",
+      "D": "",
+      "E": ""
+    },
+    "after": {
+      "A": "",
+      "B": "1 erreur tous les 10⁹ nts",
+      "C": "antiparallèle",
+      "D": "",
+      "E": ""
+    },
+    "reason": "Rétablissement des puissances de dix du détail original."
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "id": 7,
+    "field": "explanations",
+    "before": {
+      "A": "",
+      "B": "",
+      "C": "4,6.106 pb",
+      "D": "",
+      "E": "réplication bidirectionnelle"
+    },
+    "after": {
+      "A": "",
+      "B": "",
+      "C": "4,6.10⁶ pb",
+      "D": "",
+      "E": "réplication bidirectionnelle"
+    },
+    "reason": "Rétablissement des puissances de dix du détail original."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 11,
+    "field": "explanations",
+    "before": {
+      "A": "Faux. Un polysome ou polyribosome correspond à l'association entre un ARNm et plusieurs ribosomes qui traduisent simultanément la même protéine. (Ne pas confondre polysome et polymérase)",
+      "B": "Vrai. L'ADN polymérase seule permet un taux d'erreur d'environ une erreur toutes les 107 paires de bases. Cependant, grâce a des mécanismes de réparation, on aboutit à un taux d'erreur d'une erreur toutes les 109 paires de bases",
+      "C": "Faux. La primase synthétise les amorces d'ARN nécessaires à l'initiation de la réplication. (Attention à bien lire car ce genre de piège est très fréquent)",
+      "D": "Vrai. L'ADN polymérase α initie la réplication du brin tardif chez les Eucaryotes en synthétisant les 1ers nucléotides des fragments d'Okazaki. Ensuite c'est l'ADN polymérase δ qui prend le relai",
+      "E": "Faux. Lors de la réplication, 50% des nucléosomes des génomes fils sont d'origine parentale tandis que les 50 autres % sont neo-synthetises"
+    },
+    "after": {
+      "A": "Faux. Un polysome ou polyribosome correspond à l'association entre un ARNm et plusieurs ribosomes qui traduisent simultanément la même protéine. (Ne pas confondre polysome et polymérase)",
+      "B": "Vrai. L'ADN polymérase seule permet un taux d'erreur d'environ une erreur toutes les 10⁷ paires de bases. Cependant, grâce a des mécanismes de réparation, on aboutit à un taux d'erreur d'une erreur toutes les 10⁹ paires de bases",
+      "C": "Faux. La primase synthétise les amorces d'ARN nécessaires à l'initiation de la réplication. (Attention à bien lire car ce genre de piège est très fréquent)",
+      "D": "Vrai. L'ADN polymérase α initie la réplication du brin tardif chez les Eucaryotes en synthétisant les 1ers nucléotides des fragments d'Okazaki. Ensuite c'est l'ADN polymérase δ qui prend le relai",
+      "E": "Faux. Lors de la réplication, 50% des nucléosomes des génomes fils sont d'origine parentale tandis que les 50 autres % sont neo-synthetises"
+    },
+    "reason": "Rétablissement des puissances de dix du détail original."
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "id": 13,
+    "field": "explanations",
+    "before": {
+      "B": "Vrai. On parle du cycle de réplication donc c'est bien 109",
+      "C": "Faux. Amorce d'ARN",
+      "D": "Faux. On parle d'addition covalente"
+    },
+    "after": {
+      "B": "Vrai. On parle du cycle de réplication donc c'est bien 10⁹",
+      "C": "Faux. Amorce d'ARN",
+      "D": "Faux. On parle d'addition covalente"
+    },
+    "reason": "Rétablissement des puissances de dix du détail original."
+  }
+]

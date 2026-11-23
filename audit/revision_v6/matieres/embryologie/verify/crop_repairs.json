@@ -1,0 +1,646 @@
+[
+  {
+    "bank": "embryo.aut.s3",
+    "id": 5,
+    "role": "correction",
+    "page": 2,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      198.53
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      325.76
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "role": "subject",
+    "page": 2,
+    "originalRect": [
+      24,
+      239.97,
+      575.32,
+      341.36
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 9,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      351.12,
+      575.32,
+      611.38
+    ],
+    "textPanels": 3,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 10,
+    "role": "subject",
+    "page": 2,
+    "originalRect": [
+      24,
+      351.12,
+      575.32,
+      532.6
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 10,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      620.9,
+      575.32,
+      806.75
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 21,
+    "role": "correction",
+    "page": 8,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      277.88
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 22,
+    "role": "correction",
+    "page": 8,
+    "originalRect": [
+      24,
+      287.64,
+      575.32,
+      514.0
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "role": "subject",
+    "page": 7,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "role": "correction",
+    "page": 8,
+    "originalRect": [
+      24,
+      509.78,
+      575.32,
+      811.92
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "role": "subject",
+    "page": 7,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "role": "correction",
+    "page": 8,
+    "originalRect": [
+      24,
+      509.78,
+      575.32,
+      811.92
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "role": "subject",
+    "page": 2,
+    "originalRect": [
+      24,
+      468.39,
+      575.32,
+      732.4
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "role": "subject",
+    "page": 2,
+    "originalRect": [
+      24,
+      468.39,
+      575.32,
+      732.4
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "role": "correction",
+    "page": 5,
+    "originalRect": [
+      24,
+      52.51,
+      575.32,
+      333.75
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 17,
+    "role": "subject",
+    "page": 4,
+    "originalRect": [
+      24,
+      592.1,
+      575.32,
+      751.12
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 17,
+    "role": "correction",
+    "page": 4,
+    "originalRect": [
+      24,
+      417.48,
+      575.32,
+      550.66
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 18,
+    "role": "correction",
+    "page": 4,
+    "originalRect": [
+      24,
+      560.42,
+      575.32,
+      661.78
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 11,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      322.32,
+      575.32,
+      487.18
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 12,
+    "role": "subject",
+    "page": 3,
+    "originalRect": [
+      24,
+      211.17,
+      575.32,
+      376.16
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 12,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      496.94,
+      575.32,
+      645.97
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 13,
+    "role": "subject",
+    "page": 3,
+    "originalRect": [
+      24,
+      385.8,
+      575.32,
+      518.98
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 13,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      655.61,
+      575.32,
+      788.77
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 29,
+    "role": "correction",
+    "page": 7,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      119.21
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 34,
+    "role": "correction",
+    "page": 7,
+    "originalRect": [
+      24,
+      128.85,
+      575.32,
+      325.52
+    ],
+    "textPanels": 6,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 14,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      477.98,
+      575.32,
+      595.3
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 15,
+    "role": "correction",
+    "page": 3,
+    "originalRect": [
+      24,
+      604.94,
+      575.32,
+      753.97
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 31,
+    "role": "correction",
+    "page": 7,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      293.72
+    ],
+    "textPanels": 2,
+    "completeFigures": 2
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 32,
+    "role": "correction",
+    "page": 7,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      293.72
+    ],
+    "textPanels": 2,
+    "completeFigures": 2
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 33,
+    "role": "correction",
+    "page": 7,
+    "originalRect": [
+      24,
+      335.16,
+      575.32,
+      436.52
+    ],
+    "textPanels": 2,
+    "completeFigures": 0
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 41,
+    "role": "correction",
+    "page": 9,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      309.68
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 42,
+    "role": "correction",
+    "page": 9,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      309.68
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 29,
+    "role": "subject",
+    "page": 5,
+    "originalRect": [
+      24,
+      255.84,
+      575.32,
+      531.82
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 30,
+    "role": "subject",
+    "page": 5,
+    "originalRect": [
+      24,
+      255.84,
+      575.32,
+      531.82
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 35,
+    "role": "subject",
+    "page": 6,
+    "originalRect": [
+      24,
+      255.84,
+      575.32,
+      547.66
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 35,
+    "role": "correction",
+    "page": 6,
+    "originalRect": [
+      24,
+      636.77,
+      575.32,
+      811.92
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "role": "subject",
+    "page": 6,
+    "originalRect": [
+      24,
+      255.84,
+      575.32,
+      547.66
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "role": "correction",
+    "page": 6,
+    "originalRect": [
+      24,
+      636.77,
+      575.32,
+      811.92
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 44,
+    "role": "subject",
+    "page": 7,
+    "originalRect": [
+      24,
+      640.01,
+      575.32,
+      811.92
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 45,
+    "role": "subject",
+    "page": 7,
+    "originalRect": [
+      24,
+      640.01,
+      575.32,
+      811.92
+    ],
+    "textPanels": 1,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "role": "subject",
+    "page": 9,
+    "originalRect": [
+      24,
+      416.64,
+      575.32,
+      708.49
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "role": "correction",
+    "page": 10,
+    "originalRect": [
+      24,
+      319.32,
+      575.32,
+      611.88
+    ],
+    "textPanels": 3,
+    "completeFigures": 2
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "role": "subject",
+    "page": 9,
+    "originalRect": [
+      24,
+      416.64,
+      575.32,
+      708.49
+    ],
+    "textPanels": 3,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "role": "correction",
+    "page": 10,
+    "originalRect": [
+      24,
+      319.32,
+      575.32,
+      611.88
+    ],
+    "textPanels": 3,
+    "completeFigures": 2
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "role": "subject",
+    "page": 12,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 69,
+    "role": "subject",
+    "page": 12,
+    "originalRect": [
+      24,
+      17.83,
+      575.32,
+      262.01
+    ],
+    "textPanels": 2,
+    "completeFigures": 1
+  }
+]

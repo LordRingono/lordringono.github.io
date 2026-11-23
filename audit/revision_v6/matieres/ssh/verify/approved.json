@@ -1,0 +1,53 @@
+{
+  "status": "approved_with_documented_source_limits",
+  "explicitApproval": "Feu vert pour intégration ; 272 QCM notables et 2 hors notation, avec les sept notes ajoutées et les limites affichées.",
+  "files": {
+    "approved_reviewed.json": {
+      "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/ssh/verify/approved_reviewed.json",
+      "sha256": "0e6beca7c5815b5e844801045ca2d7814e168c6c2014045cae54fb02bc17aeb9"
+    },
+    "approved_crops.json": {
+      "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/ssh/verify/approved_crops.json",
+      "sha256": "a439d5c05e0d2afe1bc3f2868e7a9e8c90ffef6dde5672f014d024e0fa277d23"
+    },
+    "coverage.json": {
+      "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/ssh/verify/coverage.json",
+      "sha256": "8e8b4d14032fbb2432bb71ead9f783a2b325b48db674357df4dd64ca0665c6ef"
+    },
+    "issues.json": {
+      "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/ssh/verify/issues.json",
+      "sha256": "b8045c1ca376d33e7afe2cbb9346bdda91ea4e628578335a18f9e600e9e35e9a"
+    },
+    "missing.json": {
+      "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/ssh/verify/missing.json",
+      "sha256": "7cec78d4eeb618a642941b8140e0089c8f36c9be959b2353b9bfe85d429aec20"
+    },
+    "REPORT.md": {
+      "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/ssh/verify/REPORT.md",
+      "sha256": "47b58c9869cc645abe59d2210a49cf2e753b0e0a59a4bfc6af64b2a6cf491f59"
+    }
+  },
+  "summary": {
+    "questions": 274,
+    "items": 1370,
+    "sourceDocuments": 8,
+    "sourcePages": 184,
+    "gradedQuestions": 272,
+    "excludedQuestions": 2,
+    "independentTextReadQuestions": 274,
+    "independentComparedItems": 1370,
+    "renderedCropPanels": 559,
+    "visualContactSheetsRead": 23,
+    "originalNotesPreserved": 39,
+    "preparerNewNotesPreserved": 58,
+    "verifierNewNotes": 7,
+    "totalNotes": 104,
+    "referenceRepairs": 1,
+    "keysChangedByVerifier": 0,
+    "itemTextsChangedByVerifier": 0,
+    "cropChangesByVerifier": 0,
+    "externalPreparerSourcesReconsulted": 34,
+    "sourceDetailsAbsent": 752,
+    "siteDetailsBlank": 756
+  }
+}

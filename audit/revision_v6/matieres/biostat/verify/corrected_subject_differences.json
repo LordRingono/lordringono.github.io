@@ -1,0 +1,28 @@
+[
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 6,
+    "letter": "E",
+    "source_subject": "L’effet de l’âge sur la PAS et statistiquement significatif au risque d’erreur 5 % 0,01 < p-valeur < 0,02",
+    "corrected_subject": "L’effet de l’âge sur la PAS est statistiquement significatif au risque d’erreur 5 %",
+    "subject_correction_identical": false,
+    "detail_verdict": "VRAI",
+    "key_verdict": "VRAI",
+    "rendered_detail": "VRAI : Nous avons précédemment calculé l'intervalle de confiance de la pente à ]0,78 ; 2,62[. 0 est exclu de cet intervalle de confiance alors on peut rejeter H0 et donc dire que l'effet de l'âge sur la PAS est statistiquement significatif au risque d'erreur 5%. Une autre façon de le faire serait de calculer la statistique du test. b1/sb1 = 1,7/0,45 = 3,78. Puisque 3,78 > 2,042, l’effet de l’âge sur la PAS est statistiquement significatif au risque d’erreur 5%.",
+    "code_letter": false,
+    "ratio": 0.879
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "letter": "C",
+    "source_subject": "En cas de test Alpha synucléique positif, l’odds de la maladie est multiplié par 8.",
+    "corrected_subject": "En cas de test Alpha synucléine positif, l’odds de la maladie est multiplié par 8.",
+    "subject_correction_identical": false,
+    "detail_verdict": "VRAI",
+    "key_verdict": "VRAI",
+    "rendered_detail": "VRAI : RV+ = 96/12 = 8. C’est l’odds de la maladie qui est multiplié par 8 en cas de test positif.",
+    "code_letter": false,
+    "ratio": 0.9778
+  }
+]

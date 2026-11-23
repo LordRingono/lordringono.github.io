@@ -1,0 +1,8266 @@
+[
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 495,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      470.1759948730469
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      472.1759948730469
+    ],
+    "restored_spans": [
+      "√𝒏"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 488,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      257.60601806640625,
+      570,
+      522.1500244140625
+    ],
+    "after": [
+      30,
+      260.60601806640625,
+      570,
+      522.1500244140625
+    ],
+    "removed_text_spans": [
+      "𝒏"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 495,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      469.1759948730469,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      472.1759948730469,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "√𝒏"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 496,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      169.54998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      171.54998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 488,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      519.1500244140625,
+      570,
+      752.2249755859375
+    ],
+    "after": [
+      30,
+      522.1500244140625,
+      570,
+      752.2249755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 496,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      168.54998779296875,
+      570,
+      583.9200439453125
+    ],
+    "after": [
+      30,
+      171.54998779296875,
+      570,
+      583.9200439453125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 496,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      171.54998779296875,
+      570,
+      583.9200439453125
+    ],
+    "after": [
+      30,
+      171.54998779296875,
+      570,
+      585.9200439453125
+    ],
+    "restored_spans": [
+      "valide "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 496,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      582.9200439453125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      585.9200439453125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "valide "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 1,
+    "page": 489,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      361.8500061035156,
+      570,
+      513.1500244140625
+    ],
+    "after": [
+      30,
+      364.8500061035156,
+      570,
+      513.1500244140625
+    ],
+    "removed_text_spans": [
+      "dans P2. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 498,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      429.1199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      431.1199951171875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : On regarde à un ddl=14 : 1,761 < 2 < 2,145 donc 0,05 < p-value < 0,10 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 498,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      428.1199951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      431.1199951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : On regarde à un ddl=14 : 1,761 < 2 < 2,145 donc 0,05 < p-value < 0,10 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 499,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      631.6799926757812
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      633.6799926757812
+    ],
+    "restored_spans": [
+      "l’affirmer il faut qu’il soit supérieur en Sp et en Se) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 490,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      468.8699951171875,
+      570,
+      644.4500122070312
+    ],
+    "after": [
+      30,
+      471.8699951171875,
+      570,
+      644.4500122070312
+    ],
+    "removed_text_spans": [
+      "supplémentaire) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 499,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      630.6799926757812,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      633.6799926757812,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "l’affirmer il faut qu’il soit supérieur en Sp et en Se) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 500,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      354.6000061035156,
+      570,
+      717.9500122070312
+    ],
+    "after": [
+      30,
+      354.6000061035156,
+      570,
+      719.9500122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : La statistique de test évalue la significativité ",
+      "statistique",
+      ", pas la pertinence ",
+      "clinique",
+      ". "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 9,
+    "role": "subject",
+    "panel": 2,
+    "page": 491,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      278.33001708984375,
+      570,
+      476.6499938964844
+    ],
+    "after": [
+      30,
+      281.33001708984375,
+      570,
+      476.6499938964844
+    ],
+    "removed_text_spans": [
+      "entre les deux hôpitaux "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 500,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      716.9500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      719.9500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : La statistique de test évalue la significativité ",
+      "statistique",
+      ", pas la pertinence ",
+      "clinique",
+      ". "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 1,
+    "page": 501,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      407.8699951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      409.8699951171875
+    ],
+    "restored_spans": [
+      "prévalence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 491,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      473.6499938964844,
+      570,
+      656.4500122070312
+    ],
+    "after": [
+      30,
+      476.6499938964844,
+      570,
+      656.4500122070312
+    ],
+    "removed_text_spans": [
+      "d'étude "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 501,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      406.8699951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      409.8699951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "prévalence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 1,
+    "page": 502,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      203.04998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      205.04998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : Erreur-type ≈ 0,173 ≠ 0,28. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 502,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      202.04998779296875,
+      570,
+      758.2249755859375
+    ],
+    "after": [
+      30,
+      205.04998779296875,
+      570,
+      758.2249755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : Erreur-type ≈ 0,173 ≠ 0,28. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 502,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      205.04998779296875,
+      570,
+      758.2249755859375
+    ],
+    "after": [
+      30,
+      205.04998779296875,
+      570,
+      760.2249755859375
+    ],
+    "restored_spans": [
+      "hémodialyse. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 12,
+    "role": "subject",
+    "panel": 0,
+    "page": 492,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      385.8699951171875,
+      570,
+      637.6699829101562
+    ],
+    "after": [
+      30,
+      388.8699951171875,
+      570,
+      637.6699829101562
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les résultats pourront s'appliquer à tous les patients insuffisants rénaux sous hémodialyse chronique "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 0,
+    "page": 502,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      757.2249755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      760.2249755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "hémodialyse. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 1,
+    "page": 503,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      454.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      456.6199951171875
+    ],
+    "restored_spans": [
+      "significatif au risque 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 513,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      600.1799926757812
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      602.1799926757812
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 506,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      449.3699951171875,
+      570,
+      649.4500122070312
+    ],
+    "after": [
+      30,
+      452.3699951171875,
+      570,
+      649.4500122070312
+    ],
+    "removed_text_spans": [
+      "\" entre les deux groupes "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 513,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      599.1799926757812,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      602.1799926757812,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 514,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      340.6000061035156
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      342.1600036621094
+    ],
+    "restored_spans": [
+      "π)"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 514,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      339.6000061035156,
+      570,
+      665.2000122070312
+    ],
+    "after": [
+      30,
+      342.1600036621094,
+      570,
+      665.2000122070312
+    ],
+    "removed_text_spans": [
+      "π)"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 514,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      342.1600036621094,
+      570,
+      665.2000122070312
+    ],
+    "after": [
+      30,
+      342.1600036621094,
+      570,
+      667.2000122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 507,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      262.33001708984375,
+      570,
+      508.8999938964844
+    ],
+    "after": [
+      30,
+      265.33001708984375,
+      570,
+      508.8999938964844
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 514,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      664.2000122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      667.2000122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 515,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      452.39599609375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      455.81298828125
+    ],
+    "restored_spans": [
+      "𝒏",
+      "𝟏",
+      "+𝒏",
+      "𝟐",
+      "−𝟐",
+      "𝟑𝟒"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 1,
+    "page": 507,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      505.8999938964844,
+      570,
+      619.4199829101562
+    ],
+    "after": [
+      30,
+      508.8999938964844,
+      570,
+      619.4199829101562
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La variance commune à X1 et X2 est estimée à 9,0(mg/L)"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 515,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      451.39599609375,
+      570,
+      763.2509765625
+    ],
+    "after": [
+      30,
+      455.81298828125,
+      570,
+      763.2509765625
+    ],
+    "removed_text_spans": [
+      "𝒏",
+      "𝟏",
+      "+𝒏",
+      "𝟐",
+      "−𝟐",
+      "𝟑𝟒"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 515,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      455.81298828125,
+      570,
+      763.2509765625
+    ],
+    "after": [
+      30,
+      455.81298828125,
+      570,
+      765.2509765625
+    ],
+    "restored_spans": [
+      "𝑜𝑏𝑠"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 515,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      762.2509765625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      765.2509765625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : ",
+      "𝑡",
+      "𝑜𝑏𝑠",
+      "> 2,042 ",
+      "donc on rejtte H0 au risque 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 516,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      558.1700439453125
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      560.1700439453125
+    ],
+    "restored_spans": [
+      "statistiquement différents.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 508,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      329.5999755859375,
+      570,
+      488.1499938964844
+    ],
+    "after": [
+      30,
+      332.5999755859375,
+      570,
+      488.1499938964844
+    ],
+    "removed_text_spans": [
+      "élevée (en valeur absolue) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 516,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      557.1700439453125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      560.1700439453125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "statistiquement différents.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 517,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      176.29998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      178.29998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : on ne peut pas remplir le tableau de Mac Nemar avec les données que nous disposons.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 508,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      485.1499938964844,
+      570,
+      737.219970703125
+    ],
+    "after": [
+      30,
+      488.1499938964844,
+      570,
+      737.219970703125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Vous disposez des résultats nécessaires pour effectuer le test (au risque d’erreur de 5 %) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 517,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      175.29998779296875,
+      570,
+      523.4000244140625
+    ],
+    "after": [
+      30,
+      178.29998779296875,
+      570,
+      523.4000244140625
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : on ne peut pas remplir le tableau de Mac Nemar avec les données que nous disposons.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 517,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      178.29998779296875,
+      570,
+      523.4000244140625
+    ],
+    "after": [
+      30,
+      178.29998779296875,
+      570,
+      525.4000244140625
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 517,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      522.4000244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      525.4000244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 1,
+    "page": 518,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      525.6500244140625
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      527.6500244140625
+    ],
+    "restored_spans": [
+      "2/3 ",
+      "≠",
+      " 6 * 1/4 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 1,
+    "page": 509,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      338.6000061035156,
+      570,
+      536.9000244140625
+    ],
+    "after": [
+      30,
+      341.6000061035156,
+      570,
+      536.9000244140625
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La VPP de l’IRM est de 2/3 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 518,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      524.6500244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      527.6500244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "2/3 ",
+      "≠",
+      " 6 * 1/4 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 1,
+    "page": 519,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      434.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      436.6199951171875
+    ],
+    "restored_spans": [
+      "E.",
+      " VRAI :",
+      " Toujours en respectant l’ordre de la phrase, DR = Risque homme – Risque femme. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 11,
+    "role": "subject",
+    "panel": 0,
+    "page": 509,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      533.9000244140625,
+      570,
+      745.9749755859375
+    ],
+    "after": [
+      30,
+      536.9000244140625,
+      570,
+      745.9749755859375
+    ],
+    "removed_text_spans": [
+      "supérieure à 0 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 519,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      433.6199951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      436.6199951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      " VRAI :",
+      " Toujours en respectant l’ordre de la phrase, DR = Risque homme – Risque femme. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 1,
+    "page": 520,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      245.33001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      247.33001708984375
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI :",
+      " Cf. D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 0,
+    "page": 520,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      244.33001708984375,
+      570,
+      755.7249755859375
+    ],
+    "after": [
+      30,
+      247.33001708984375,
+      570,
+      755.7249755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI :",
+      " Cf. D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 0,
+    "page": 520,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      247.33001708984375,
+      570,
+      755.7249755859375
+    ],
+    "after": [
+      30,
+      247.33001708984375,
+      570,
+      757.7249755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI :",
+      " Cf. C et D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 527,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      417.1199951171875
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      419.1199951171875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 522,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      247.58001708984375,
+      570,
+      434.3699951171875
+    ],
+    "after": [
+      30,
+      250.58001708984375,
+      570,
+      434.3699951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 527,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      416.1199951171875,
+      570,
+      706.4500122070312
+    ],
+    "after": [
+      30,
+      419.1199951171875,
+      570,
+      706.4500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 527,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      419.1199951171875,
+      570,
+      706.4500122070312
+    ],
+    "after": [
+      30,
+      419.1199951171875,
+      570,
+      708.4500122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 1,
+    "page": 522,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      431.3699951171875,
+      570,
+      571.6700439453125
+    ],
+    "after": [
+      30,
+      434.3699951171875,
+      570,
+      571.6700439453125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes n’encadrent pas la p-valeur "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 527,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      705.4500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      708.4500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 522,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      568.6700439453125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      571.6700439453125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Dans ce test, on n’est pas capable de rejeter l’hypothèse nulle au risque de 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 5,
+    "role": "subject",
+    "panel": 1,
+    "page": 523,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      202.29998779296875,
+      570,
+      385.6000061035156
+    ],
+    "after": [
+      30,
+      205.29998779296875,
+      570,
+      385.6000061035156
+    ],
+    "removed_text_spans": [
+      "rapport à celles avec un fibrome < 30 mm "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 523,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      382.6000061035156,
+      570,
+      569.4200439453125
+    ],
+    "after": [
+      30,
+      385.6000061035156,
+      570,
+      569.4200439453125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La p-value du test est supérieure à 0,05  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 523,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      566.4200439453125,
+      570,
+      734.469970703125
+    ],
+    "after": [
+      30,
+      569.4200439453125,
+      570,
+      734.469970703125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Le complément du ratio de vraisemblance positif (1-RV+) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 531,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      220.58001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      222.58001708984375
+    ],
+    "restored_spans": [
+      "intrinsèque au test. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 541,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      496.3999938964844
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      498.3999938964844
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 534,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      261.07000732421875,
+      570,
+      514.9000244140625
+    ],
+    "after": [
+      30,
+      264.07000732421875,
+      570,
+      514.9000244140625
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 541,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      495.3999938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      498.3999938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 3,
+    "role": "subject",
+    "panel": 1,
+    "page": 534,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      511.9000244140625,
+      570,
+      705.9500122070312
+    ],
+    "after": [
+      30,
+      514.9000244140625,
+      570,
+      705.9500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 542,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      283.07000732421875,
+      570,
+      571.6700439453125
+    ],
+    "after": [
+      30,
+      283.07000732421875,
+      570,
+      573.6700439453125
+    ],
+    "restored_spans": [
+      "d’erreur, il faut « augmenter la surface » et donc augmenter l’intervalle de confiance. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 542,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      570.6700439453125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      573.6700439453125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "d’erreur, il faut « augmenter la surface » et donc augmenter l’intervalle de confiance. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 543,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      396.8699951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      398.8699951171875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : cf D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 535,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      274.33001708984375,
+      570,
+      474.6499938964844
+    ],
+    "after": [
+      30,
+      277.33001708984375,
+      570,
+      474.6499938964844
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’hypothèse H0 est m = 40 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 543,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      395.8699951171875,
+      570,
+      719.2000122070312
+    ],
+    "after": [
+      30,
+      398.8699951171875,
+      570,
+      719.2000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : cf D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 543,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      398.8699951171875,
+      570,
+      719.2000122070312
+    ],
+    "after": [
+      30,
+      398.8699951171875,
+      570,
+      721.2000122070312
+    ],
+    "restored_spans": [
+      "1,236. On remarque que 1,074 < 1,236 < 1,341. Donc 0,20 < p-valeur < 0,30. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 535,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      471.6499938964844,
+      570,
+      687.2000122070312
+    ],
+    "after": [
+      30,
+      474.6499938964844,
+      570,
+      687.2000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "0,20 < p-valeur < 0,30 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 543,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      718.2000122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      721.2000122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "1,236. On remarque que 1,074 < 1,236 < 1,341. Donc 0,20 < p-valeur < 0,30. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 544,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      437.1199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      439.1199951171875
+    ],
+    "restored_spans": [
+      "statistiquement significatif au risque d’erreur 5%."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 544,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      436.1199951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      439.1199951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "statistiquement significatif au risque d’erreur 5%."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 545,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      313.0999755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      315.0999755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI",
+      ": ",
+      "effectivement il a des valeurs plus intéressantes au niveau de la spécificité. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 1,
+    "page": 536,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      506.6499938964844,
+      570,
+      739.219970703125
+    ],
+    "after": [
+      30,
+      509.6499938964844,
+      570,
+      739.219970703125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Si l'objectif est de privilégier la spécificité du test, il vaut mieux utiliser le marqueur SDF-1 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 545,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      312.0999755859375,
+      570,
+      634.6699829101562
+    ],
+    "after": [
+      30,
+      315.0999755859375,
+      570,
+      634.6699829101562
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI",
+      ": ",
+      "effectivement il a des valeurs plus intéressantes au niveau de la spécificité. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 545,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      315.0999755859375,
+      570,
+      634.6699829101562
+    ],
+    "after": [
+      30,
+      315.0999755859375,
+      570,
+      636.6699829101562
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : La probabilité post-test est la VPP et celle-ci dépend de la prévalence.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 545,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      633.6699829101562,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      636.6699829101562,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : La probabilité post-test est la VPP et celle-ci dépend de la prévalence.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 1,
+    "page": 537,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      450.1199951171875,
+      570,
+      669.4500122070312
+    ],
+    "after": [
+      30,
+      453.1199951171875,
+      570,
+      669.4500122070312
+    ],
+    "removed_text_spans": [
+      "par rapport à l’évaluation centralisée, sans tenir compte de la significativité statistique "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 1,
+    "page": 547,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      322.3499755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      324.3499755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : avec un effectif plus faible, on diminue la puissance du test. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 547,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      321.3499755859375,
+      570,
+      747.9749755859375
+    ],
+    "after": [
+      30,
+      324.3499755859375,
+      570,
+      747.9749755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : avec un effectif plus faible, on diminue la puissance du test. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 547,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      324.3499755859375,
+      570,
+      747.9749755859375
+    ],
+    "after": [
+      30,
+      324.3499755859375,
+      570,
+      749.9749755859375
+    ],
+    "restored_spans": [
+      "d'incertitude."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 12,
+    "role": "subject",
+    "panel": 0,
+    "page": 538,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      284.33001708984375,
+      570,
+      646.9500122070312
+    ],
+    "after": [
+      30,
+      287.33001708984375,
+      570,
+      646.9500122070312
+    ],
+    "removed_text_spans": [
+      "théorique avant vaccin tient compte d'un seul terme d'incertitude "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 0,
+    "page": 547,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      746.9749755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      749.9749755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "d'incertitude."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 1,
+    "page": 548,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      591.6799926757812
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      593.6799926757812
+    ],
+    "restored_spans": [
+      "dans l’énoncé. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 555,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      327.5999755859375
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      329.5999755859375
+    ],
+    "restored_spans": [
+      "FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 550,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      159.29998779296875,
+      570,
+      299.82000732421875
+    ],
+    "after": [
+      30,
+      162.29998779296875,
+      570,
+      299.82000732421875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 555,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      326.5999755859375,
+      570,
+      658.9500122070312
+    ],
+    "after": [
+      30,
+      329.5999755859375,
+      570,
+      658.9500122070312
+    ],
+    "removed_text_spans": [
+      "FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 555,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      329.5999755859375,
+      570,
+      658.9500122070312
+    ],
+    "after": [
+      30,
+      329.5999755859375,
+      570,
+      660.9500122070312
+    ],
+    "restored_spans": [
+      "il faut ",
+      "arrondir la ",
+      "borne supérieure en excès",
+      ") "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 550,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      296.82000732421875,
+      570,
+      437.1199951171875
+    ],
+    "after": [
+      30,
+      299.82000732421875,
+      570,
+      437.1199951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "20,8 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 555,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      657.9500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      660.9500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "il faut ",
+      "arrondir la ",
+      "borne supérieure en excès",
+      ") "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 1,
+    "page": 556,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      325.0999755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      327.0999755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 550,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      434.1199951171875,
+      570,
+      592.1699829101562
+    ],
+    "after": [
+      30,
+      437.1199951171875,
+      570,
+      592.1699829101562
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Un test d’indépendance du Khi-Deux "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 556,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      324.0999755859375,
+      570,
+      620.4299926757812
+    ],
+    "after": [
+      30,
+      327.0999755859375,
+      570,
+      620.4299926757812
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 556,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      327.0999755859375,
+      570,
+      620.4299926757812
+    ],
+    "after": [
+      30,
+      327.0999755859375,
+      570,
+      622.4299926757812
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 550,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      589.1699829101562,
+      570,
+      760.4749755859375
+    ],
+    "after": [
+      30,
+      592.1699829101562,
+      570,
+      760.4749755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Le ratio de vraisemblance positif $ "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 556,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      619.4299926757812,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      622.4299926757812,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 557,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      407.8699951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      409.8699951171875
+    ],
+    "restored_spans": [
+      "propriété intrinsèque au test (propre à lui). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 557,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      406.8699951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      409.8699951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "propriété intrinsèque au test (propre à lui). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 558,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      207.04998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      209.04998779296875
+    ],
+    "restored_spans": [
+      "Le groupe thrombectomie a un facteur aggravant, l’OR sera donc > 1 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 551,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      284.08001708984375,
+      570,
+      511.1499938964844
+    ],
+    "after": [
+      30,
+      287.08001708984375,
+      570,
+      511.1499938964844
+    ],
+    "removed_text_spans": [
+      "supérieur à 1  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 558,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      206.04998779296875,
+      570,
+      581.1700439453125
+    ],
+    "after": [
+      30,
+      209.04998779296875,
+      570,
+      581.1700439453125
+    ],
+    "removed_text_spans": [
+      "Le groupe thrombectomie a un facteur aggravant, l’OR sera donc > 1 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 558,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      209.04998779296875,
+      570,
+      581.1700439453125
+    ],
+    "after": [
+      30,
+      209.04998779296875,
+      570,
+      583.1700439453125
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : le risque alpha est fixé par l’expérimentateur, nous choisissons toujours 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 1,
+    "page": 560,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      540.6500244140625,
+      570,
+      740.969970703125
+    ],
+    "after": [
+      30,
+      543.6500244140625,
+      570,
+      740.969970703125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 568,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      67.71102905273438,
+      570,
+      488.6499938964844
+    ],
+    "after": [
+      30,
+      67.71102905273438,
+      570,
+      490.6499938964844
+    ],
+    "restored_spans": [
+      "mais il n'offre aucune certitude absolue. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 568,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      487.6499938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      490.6499938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "mais il n'offre aucune certitude absolue. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 1,
+    "page": 569,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      314.3499755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      316.3499755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 561,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      173.79998779296875,
+      570,
+      436.1199951171875
+    ],
+    "after": [
+      30,
+      176.79998779296875,
+      570,
+      436.1199951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "33 x 400 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 569,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      313.3499755859375,
+      570,
+      700.2000122070312
+    ],
+    "after": [
+      30,
+      316.3499755859375,
+      570,
+      700.2000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 569,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      316.3499755859375,
+      570,
+      700.2000122070312
+    ],
+    "after": [
+      30,
+      316.3499755859375,
+      570,
+      702.2000122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 1,
+    "page": 561,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      433.1199951171875,
+      570,
+      604.4299926757812
+    ],
+    "after": [
+      30,
+      436.1199951171875,
+      570,
+      604.4299926757812
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Les 4 propositions précédentes sont fausses "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 569,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      699.2000122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      702.2000122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 570,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      342.1000061035156
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      344.1000061035156
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI",
+      ": ",
+      "Car 2,056 > 2,053 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 561,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      601.4299926757812,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      604.4299926757812,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "significative entre les deux groupes au risque d'erreur 5 %. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 570,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      341.1000061035156,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      344.1000061035156,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI",
+      ": ",
+      "Car 2,056 > 2,053 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 571,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      210.29998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      212.29998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 562,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      204.54998779296875,
+      570,
+      435.8699951171875
+    ],
+    "after": [
+      30,
+      207.54998779296875,
+      570,
+      435.8699951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L'erreur-type du coefficient de corrélation de Pearson est d’environ 0,27 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 571,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      209.29998779296875,
+      570,
+      554.6500244140625
+    ],
+    "after": [
+      30,
+      212.29998779296875,
+      570,
+      554.6500244140625
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 571,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      212.29998779296875,
+      570,
+      554.6500244140625
+    ],
+    "after": [
+      30,
+      212.29998779296875,
+      570,
+      556.6500244140625
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI",
+      ": ",
+      "on ne peut pas réaliser ces tests pour comparer deux moyennes de référence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 562,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      432.8699951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      435.8699951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Vous ne pouvez pas réaliser de test statistique "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 571,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      553.6500244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      556.6500244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI",
+      ": ",
+      "on ne peut pas réaliser ces tests pour comparer deux moyennes de référence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 9,
+    "role": "subject",
+    "panel": 1,
+    "page": 563,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      204.54998779296875,
+      570,
+      474.1499938964844
+    ],
+    "after": [
+      30,
+      207.54998779296875,
+      570,
+      474.1499938964844
+    ],
+    "removed_text_spans": [
+      "groupe 2 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 573,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      68.030029296875,
+      570,
+      490.1499938964844
+    ],
+    "after": [
+      30,
+      68.030029296875,
+      570,
+      492.1499938964844
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : nous choisissons alpha qui ne varie pas avec les paramètres  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 563,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      471.1499938964844,
+      570,
+      730.469970703125
+    ],
+    "after": [
+      30,
+      474.1499938964844,
+      570,
+      730.469970703125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Avec un effectif plus élevé (toutes choses étant égales par ailleurs), le risque α du test aurait été plus élevé "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 573,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      489.1499938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      492.1499938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : nous choisissons alpha qui ne varie pas avec les paramètres  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 1,
+    "page": 574,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      305.0999755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      307.0999755859375
+    ],
+    "restored_spans": [
+      "faux positifs. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 574,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      304.0999755859375,
+      570,
+      732.719970703125
+    ],
+    "after": [
+      30,
+      307.0999755859375,
+      570,
+      732.719970703125
+    ],
+    "removed_text_spans": [
+      "faux positifs. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 574,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      307.0999755859375,
+      570,
+      732.719970703125
+    ],
+    "after": [
+      30,
+      307.0999755859375,
+      570,
+      734.719970703125
+    ],
+    "restored_spans": [
+      "également donc elle ne peut pas être identique contrairement à ce que dit l’item. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 12,
+    "role": "subject",
+    "panel": 0,
+    "page": 564,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      238.08001708984375,
+      570,
+      542.9000244140625
+    ],
+    "after": [
+      30,
+      241.08001708984375,
+      570,
+      542.9000244140625
+    ],
+    "removed_text_spans": [
+      "serait identique à celle des personnes avec suspicion préalable de cancer "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 0,
+    "page": 574,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      731.719970703125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      734.719970703125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "également donc elle ne peut pas être identique contrairement à ce que dit l’item. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 12,
+    "role": "correction",
+    "panel": 1,
+    "page": 575,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      573.1700439453125
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      575.1700439453125
+    ],
+    "restored_spans": [
+      "pour la répartition des patients dans chacun des bras de traitement "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 583,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      471.1499938964844
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      473.1499938964844
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 2,
+    "role": "subject",
+    "panel": 1,
+    "page": 578,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      473.6499938964844,
+      570,
+      681.9500122070312
+    ],
+    "after": [
+      30,
+      476.6499938964844,
+      570,
+      681.9500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "4,5 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 583,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      470.1499938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      473.1499938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 584,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      203.04998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      205.04998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 584,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      202.04998779296875,
+      570,
+      489.8999938964844
+    ],
+    "after": [
+      30,
+      205.04998779296875,
+      570,
+      489.8999938964844
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 584,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      205.04998779296875,
+      570,
+      489.8999938964844
+    ],
+    "after": [
+      30,
+      205.04998779296875,
+      570,
+      491.8999938964844
+    ],
+    "restored_spans": [
+      "E. FAUX : voir item D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 579,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      246.33001708984375,
+      570,
+      480.8999938964844
+    ],
+    "after": [
+      30,
+      249.33001708984375,
+      570,
+      480.8999938964844
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Vous êtes obligé de faire le test évoqué à I'item A pour répondre à la question posée "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 584,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      488.8999938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      491.8999938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E. FAUX : voir item D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 585,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      168.29998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      170.29998779296875
+    ],
+    "restored_spans": [
+      "E. FAUX : L’issu du test ne dépend pas de la prévalence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "role": "subject",
+    "panel": 1,
+    "page": 579,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      477.8999938964844,
+      570,
+      677.2000122070312
+    ],
+    "after": [
+      30,
+      480.8999938964844,
+      570,
+      677.2000122070312
+    ],
+    "removed_text_spans": [
+      "classe correctement les individus dans une population exempte de cette maladie "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 585,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      167.29998779296875,
+      570,
+      435.1199951171875
+    ],
+    "after": [
+      30,
+      170.29998779296875,
+      570,
+      435.1199951171875
+    ],
+    "removed_text_spans": [
+      "E. FAUX : L’issu du test ne dépend pas de la prévalence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 585,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      170.29998779296875,
+      570,
+      435.1199951171875
+    ],
+    "after": [
+      30,
+      170.29998779296875,
+      570,
+      437.1199951171875
+    ],
+    "restored_spans": [
+      "E. FAUX : la probabilité post test (VPP) augmente avec la prévalence, elle ne serait donc pas identique.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 585,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      434.1199951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      437.1199951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E. FAUX : la probabilité post test (VPP) augmente avec la prévalence, elle ne serait donc pas identique.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 586,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      162.79998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      164.79998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : un risque relatif ne peut jamais être négatif.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 580,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      353.8500061035156,
+      570,
+      554.1500244140625
+    ],
+    "after": [
+      30,
+      356.8500061035156,
+      570,
+      554.1500244140625
+    ],
+    "removed_text_spans": [
+      "chimiothérapie seule est négatif. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 586,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      161.79998779296875,
+      570,
+      457.6199951171875
+    ],
+    "after": [
+      30,
+      164.79998779296875,
+      570,
+      457.6199951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : un risque relatif ne peut jamais être négatif.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 586,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      164.79998779296875,
+      570,
+      457.6199951171875
+    ],
+    "after": [
+      30,
+      164.79998779296875,
+      570,
+      459.6199951171875
+    ],
+    "restored_spans": [
+      "la variabilité entre les individus) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 595,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      530.4000244140625
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      532.4000244140625
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 588,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      414.6199951171875,
+      570,
+      629.4299926757812
+    ],
+    "after": [
+      30,
+      417.6199951171875,
+      570,
+      629.4299926757812
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La distribution la plus symétrique est celle représentée par la boite de dispersion D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 595,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      529.4000244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      532.4000244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 596,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      261.08001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      263.08001708984375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : Cf D. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 588,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      626.4299926757812,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      629.4299926757812,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Si le symptôme S dépend de l’infection par le virus V, alors P(V",
+      "",
+      "S) = P(V) x P(S) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 596,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      260.08001708984375,
+      570,
+      722.9500122070312
+    ],
+    "after": [
+      30,
+      263.08001708984375,
+      570,
+      722.9500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : Cf D. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 596,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      263.08001708984375,
+      570,
+      722.9500122070312
+    ],
+    "after": [
+      30,
+      263.08001708984375,
+      570,
+      724.9500122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI",
+      " : n × 0.018 = 20 000 × 0.018 = 360 > 5 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 589,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      160.29998779296875,
+      570,
+      550.9000244140625
+    ],
+    "after": [
+      30,
+      163.29998779296875,
+      570,
+      550.9000244140625
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’IC est valide car 360>5 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 596,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      721.9500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      724.9500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI",
+      " : n × 0.018 = 20 000 × 0.018 = 360 > 5 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 597,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      645.4500122070312
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      647.4500122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI : ",
+      "4,5 > 2,048 => on rejet l’hypothèse nulle au risque d’erreur de 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 589,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      547.9000244140625,
+      570,
+      729.7000122070312
+    ],
+    "after": [
+      30,
+      550.9000244140625,
+      570,
+      729.7000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Votre décision est de rejeter H0 au risque d’erreur alpha de 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 597,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      644.4500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      647.4500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI : ",
+      "4,5 > 2,048 => on rejet l’hypothèse nulle au risque d’erreur de 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 598,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      297.82000732421875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      299.82000732421875
+    ],
+    "restored_spans": [
+      "risque d’erreur de 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 598,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      296.82000732421875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      299.82000732421875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "risque d’erreur de 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 600,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      233.08001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      235.08001708984375
+    ],
+    "restored_spans": [
+      "prévalence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 591,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      274.33001708984375,
+      570,
+      670.4500122070312
+    ],
+    "after": [
+      30,
+      277.33001708984375,
+      570,
+      670.4500122070312
+    ],
+    "removed_text_spans": [
+      "que sur l’ensemble de la population avec légionellose  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 600,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      232.08001708984375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      235.08001708984375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "prévalence. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 592,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      287.83001708984375,
+      570,
+      488.6499938964844
+    ],
+    "after": [
+      30,
+      290.83001708984375,
+      570,
+      488.6499938964844
+    ],
+    "removed_text_spans": [
+      "l’étude  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 601,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      445.6199951171875,
+      570,
+      754.7249755859375
+    ],
+    "after": [
+      30,
+      445.6199951171875,
+      570,
+      756.7249755859375
+    ],
+    "restored_spans": [
+      "E.",
+      " FAUX : C’est la prévalence qui dépend de la durée d’une maladie, ainsi que la vitesse d’apparition. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 11,
+    "role": "subject",
+    "panel": 0,
+    "page": 592,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      485.6499938964844,
+      570,
+      761.4749755859375
+    ],
+    "after": [
+      30,
+      488.6499938964844,
+      570,
+      761.4749755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’incidence de dépression dépend de la durée de la dépression  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 601,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      753.7249755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      756.7249755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      " FAUX : C’est la prévalence qui dépend de la durée d’une maladie, ainsi que la vitesse d’apparition. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 1,
+    "page": 602,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      460.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      462.6199951171875
+    ],
+    "restored_spans": [
+      "auquel ils ont été assignés. Aucune exclusion à posteriori. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 609,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      329.0999755859375
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      331.0999755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 604,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      209.29998779296875,
+      570,
+      455.6199951171875
+    ],
+    "after": [
+      30,
+      212.29998779296875,
+      570,
+      455.6199951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’écart-type est un indicateur de dispersion "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 609,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      328.0999755859375,
+      570,
+      739.97998046875
+    ],
+    "after": [
+      30,
+      331.0999755859375,
+      570,
+      739.97998046875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 609,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      331.0999755859375,
+      570,
+      739.97998046875
+    ],
+    "after": [
+      30,
+      331.0999755859375,
+      570,
+      741.97998046875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 604,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      452.6199951171875,
+      570,
+      681.7000122070312
+    ],
+    "after": [
+      30,
+      455.6199951171875,
+      570,
+      681.7000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Aucune réponse juste parmi les 4 propositions précédentes  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 609,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      738.97998046875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      741.97998046875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 1,
+    "page": 610,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      419.8699951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      421.8699951171875
+    ],
+    "restored_spans": [
+      "normale également.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 610,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      418.8699951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      421.8699951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "normale également.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 611,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      218.58001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      220.58001708984375
+    ],
+    "restored_spans": [
+      "prévalence, elle ne sera donc pas la même. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 605,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      247.58001708984375,
+      570,
+      463.1199951171875
+    ],
+    "after": [
+      30,
+      250.58001708984375,
+      570,
+      463.1199951171875
+    ],
+    "removed_text_spans": [
+      "des employés hors secteur du bâtiment "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 611,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      217.58001708984375,
+      570,
+      584.9199829101562
+    ],
+    "after": [
+      30,
+      220.58001708984375,
+      570,
+      584.9199829101562
+    ],
+    "removed_text_spans": [
+      "prévalence, elle ne sera donc pas la même. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 605,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      460.1199951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      463.1199951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’incidence de silicose dépend de la durée de la maladie "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 606,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      191.29998779296875,
+      570,
+      441.8699951171875
+    ],
+    "after": [
+      30,
+      194.29998779296875,
+      570,
+      441.8699951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La différence de risque de décès à 5 ans entre le groupe fumeur et le groupe non-fumeur est positive "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 612,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      359.3500061035156,
+      570,
+      711.2000122070312
+    ],
+    "after": [
+      30,
+      359.3500061035156,
+      570,
+      713.2000122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 625,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      768.2509765625
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      770.2509765625
+    ],
+    "restored_spans": [
+      "8",
+      "8"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 614,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      286.83001708984375,
+      570,
+      480.8999938964844
+    ],
+    "after": [
+      30,
+      289.83001708984375,
+      570,
+      480.8999938964844
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La probabilité pour une femme de cette population de présenter une anémie est de 1 %. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 625,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      767.2509765625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      770.2509765625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "8",
+      "8"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 625,
+    "action": "remove_empty_panel",
+    "rect": [
+      30,
+      770.2509765625,
+      570,
+      782
+    ],
+    "dark_pixels": 0
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 626,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      386.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      388.6199951171875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : Cf. item C "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 614,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      477.8999938964844,
+      570,
+      712.4500122070312
+    ],
+    "after": [
+      30,
+      480.8999938964844,
+      570,
+      712.4500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 2,5 % "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 626,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      385.6199951171875,
+      570,
+      759.4749755859375
+    ],
+    "after": [
+      30,
+      388.6199951171875,
+      570,
+      759.4749755859375
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : Cf. item C "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 626,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      388.6199951171875,
+      570,
+      759.4749755859375
+    ],
+    "after": [
+      30,
+      388.6199951171875,
+      570,
+      761.4749755859375
+    ],
+    "restored_spans": [
+      "ponctuelle de ",
+      "𝜇",
+      " qui n’a pas de paramètres."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 626,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      758.4749755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      761.4749755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "ponctuelle de ",
+      "𝜇",
+      " qui n’a pas de paramètres."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 627,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      356.1000061035156
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      358.1000061035156
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI :",
+      " car 100 × (1-0.96) = 100 × 0.04 = 4 < 5 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 615,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      259.83001708984375,
+      570,
+      480.8999938964844
+    ],
+    "after": [
+      30,
+      262.83001708984375,
+      570,
+      480.8999938964844
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Après vérification, vous trouvez que cet intervalle de confiance n’est pas valide "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 627,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      355.1000061035156,
+      570,
+      712.4500122070312
+    ],
+    "after": [
+      30,
+      358.1000061035156,
+      570,
+      712.4500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI :",
+      " car 100 × (1-0.96) = 100 × 0.04 = 4 < 5 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 627,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      358.1000061035156,
+      570,
+      712.4500122070312
+    ],
+    "after": [
+      30,
+      358.1000061035156,
+      570,
+      714.4500122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI : ",
+      "cf item B et C "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 615,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      477.8999938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      480.8999938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’effet linéaire de l’âge sur la PAS est statistiquement significatif au risque d’erreur 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 627,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      711.4500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      714.4500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI : ",
+      "cf item B et C "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 616,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      226.33001708984375,
+      570,
+      460.8699951171875
+    ],
+    "after": [
+      30,
+      229.33001708984375,
+      570,
+      460.8699951171875
+    ],
+    "removed_text_spans": [
+      "évoluer vers une forme grave que le score HNC-LL "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 629,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      754.4749755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      756.4749755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : cf D. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 616,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      457.8699951171875,
+      570,
+      767.4749755859375
+    ],
+    "after": [
+      30,
+      460.8699951171875,
+      570,
+      767.4749755859375
+    ],
+    "removed_text_spans": [
+      "qu’à l’hôpital "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 629,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      753.4749755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      756.4749755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : cf D. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 8,
+    "role": "correction",
+    "panel": 1,
+    "page": 630,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      514.1500244140625
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      516.1500244140625
+    ],
+    "restored_spans": [
+      "n’est pas importante sur le plan clinique. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 630,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      513.1500244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      516.1500244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "n’est pas importante sur le plan clinique. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 9,
+    "role": "correction",
+    "panel": 1,
+    "page": 631,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      274.83001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      276.83001708984375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : cf D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 617,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      393.8699951171875,
+      570,
+      674.7000122070312
+    ],
+    "after": [
+      30,
+      396.8699951171875,
+      570,
+      674.7000122070312
+    ],
+    "removed_text_spans": [
+      "urgences "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 631,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      273.83001708984375,
+      570,
+      657.4500122070312
+    ],
+    "after": [
+      30,
+      276.83001708984375,
+      570,
+      657.4500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : cf D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 631,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      276.83001708984375,
+      570,
+      657.4500122070312
+    ],
+    "after": [
+      30,
+      276.83001708984375,
+      570,
+      659.4500122070312
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : les données ne sont pas appariées. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 631,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      656.4500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      659.4500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : les données ne sont pas appariées. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 11,
+    "role": "correction",
+    "panel": 1,
+    "page": 632,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      534.6500244140625
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      536.6500244140625
+    ],
+    "restored_spans": [
+      "conclusion se fait en faveur des 22% estimés. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 641,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      682.9500122070312
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      684.9500122070312
+    ],
+    "restored_spans": [
+      "= 320 donc la surface sous l’histogramme est égale à 320. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 634,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      444.1199951171875,
+      570,
+      624.1699829101562
+    ],
+    "after": [
+      30,
+      447.1199951171875,
+      570,
+      624.1699829101562
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La surface sous l'histogramme est égale à 320 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 641,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      681.9500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      684.9500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "= 320 donc la surface sous l’histogramme est égale à 320. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 642,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      397.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      399.6199951171875
+    ],
+    "restored_spans": [
+      "donnée ici correspond à l’écart type. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 642,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      396.6199951171875,
+      570,
+      762.2249755859375
+    ],
+    "after": [
+      30,
+      399.6199951171875,
+      570,
+      762.2249755859375
+    ],
+    "removed_text_spans": [
+      "donnée ici correspond à l’écart type. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 642,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      399.6199951171875,
+      570,
+      762.2249755859375
+    ],
+    "after": [
+      30,
+      399.6199951171875,
+      570,
+      764.2249755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI : ",
+      "5min n’appartient pas à l’IC, donc on rejette l’hypothèse au risque d’erreur alpha 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 635,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      287.33001708984375,
+      570,
+      528.6500244140625
+    ],
+    "after": [
+      30,
+      290.33001708984375,
+      570,
+      528.6500244140625
+    ],
+    "removed_text_spans": [
+      "d'erreur alpha de 5 % "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 642,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      761.2249755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      764.2249755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI : ",
+      "5min n’appartient pas à l’IC, donc on rejette l’hypothèse au risque d’erreur alpha 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 643,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      639.1699829101562
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      641.1699829101562
+    ],
+    "restored_spans": [
+      "différence significative au risque d’erreur 5% entre les moyennes d’hématocrite dans les deux groupes. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 635,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      525.6500244140625,
+      570,
+      759.9749755859375
+    ],
+    "after": [
+      30,
+      528.6500244140625,
+      570,
+      759.9749755859375
+    ],
+    "removed_text_spans": [
+      "différente de 0 au risque d'erreur alpha de 5 % "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 643,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      638.1699829101562,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      641.1699829101562,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "différence significative au risque d’erreur 5% entre les moyennes d’hématocrite dans les deux groupes. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 644,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      485.8999938964844
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      487.8999938964844
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : cf item D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 644,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      484.8999938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      487.8999938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : cf item D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 645,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      256.83001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      258.83001708984375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : la sensibilité d’un test est une caractéristique intrinsèque, elle ne dépend pas de la prévalence "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 636,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      254.33001708984375,
+      570,
+      401.6199951171875
+    ],
+    "after": [
+      30,
+      257.33001708984375,
+      570,
+      401.6199951171875
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La sensibilité d'un test PCR doit être plus élevée dans le Rhône qu'en Bourgogne "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 645,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      255.83001708984375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      258.83001708984375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : la sensibilité d’un test est une caractéristique intrinsèque, elle ne dépend pas de la prévalence "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 646,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      615.4199829101562
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      617.4199829101562
+    ],
+    "restored_spans": [
+      "population du personnel HCL, dans laquelle la prévalence de COVID-19 est de 10 % (à la place de 5 %). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 636,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      398.6199951171875,
+      570,
+      653.4500122070312
+    ],
+    "after": [
+      30,
+      401.6199951171875,
+      570,
+      653.4500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La VPP du test serait plus élevée pour la population du personnel COVID-19 est de 10 % "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 646,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      614.4199829101562,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      617.4199829101562,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "population du personnel HCL, dans laquelle la prévalence de COVID-19 est de 10 % (à la place de 5 %). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 9,
+    "role": "correction",
+    "panel": 1,
+    "page": 648,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      256.83001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      258.83001708984375
+    ],
+    "restored_spans": [
+      "plus à risque donc ils nécessitent une prise en charge renforcée. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 637,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      267.82000732421875,
+      570,
+      522.6500244140625
+    ],
+    "after": [
+      30,
+      270.82000732421875,
+      570,
+      522.6500244140625
+    ],
+    "removed_text_spans": [
+      "supérieur à 30 dès leur arrivée aux HCL (sans considérer la significativité statistique) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 648,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      255.83001708984375,
+      570,
+      714.4500122070312
+    ],
+    "after": [
+      30,
+      258.83001708984375,
+      570,
+      714.4500122070312
+    ],
+    "removed_text_spans": [
+      "plus à risque donc ils nécessitent une prise en charge renforcée. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 648,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      258.83001708984375,
+      570,
+      714.4500122070312
+    ],
+    "after": [
+      30,
+      258.83001708984375,
+      570,
+      716.4500122070312
+    ],
+    "restored_spans": [
+      "malade lors de la semaine 15 dans la région. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 11,
+    "role": "subject",
+    "panel": 0,
+    "page": 637,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      519.6500244140625,
+      570,
+      767.4749755859375
+    ],
+    "after": [
+      30,
+      522.6500244140625,
+      570,
+      767.4749755859375
+    ],
+    "removed_text_spans": [
+      "patients suspects de COVID-19 à soigner la semaine 15 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 648,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      713.4500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      716.4500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "malade lors de la semaine 15 dans la région. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 11,
+    "role": "correction",
+    "panel": 1,
+    "page": 649,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      450.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      452.6199951171875
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI ",
+      ": plus on inclut de patients, plus la puissance sera grande (= l’étude sera fiable) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 1,
+    "role": "correction",
+    "action": "restore_missing_original_correction",
+    "page": 656,
+    "rect": [
+      30,
+      278,
+      570,
+      592
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 652,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      199.29998779296875,
+      570,
+      383.1000061035156
+    ],
+    "after": [
+      30,
+      202.29998779296875,
+      570,
+      383.1000061035156
+    ],
+    "removed_text_spans": [
+      "E.",
+      "75 % des valeurs de l’échantillon sont inférieures au premier quartile "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 656,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      583.9299926757812,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      586.9299926757812,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "au premier quartile. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 657,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      228.83001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      230.83001708984375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : La table de Student est utilisable pour les petits échantillons où n<30. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 1,
+    "page": 652,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      380.1000061035156,
+      570,
+      566.9200439453125
+    ],
+    "after": [
+      30,
+      383.1000061035156,
+      570,
+      566.9200439453125
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Pour calculer l’intervalle de confiance, on doit utiliser la table de Student. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 657,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      227.83001708984375,
+      570,
+      624.1699829101562
+    ],
+    "after": [
+      30,
+      230.83001708984375,
+      570,
+      624.1699829101562
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : La table de Student est utilisable pour les petits échantillons où n<30. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 657,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      230.83001708984375,
+      570,
+      624.1699829101562
+    ],
+    "after": [
+      30,
+      230.83001708984375,
+      570,
+      626.1699829101562
+    ],
+    "restored_spans": [
+      "dans cet exercice) de façon indépendante."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 652,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      563.9200439453125,
+      570,
+      762.2249755859375
+    ],
+    "after": [
+      30,
+      566.9200439453125,
+      570,
+      762.2249755859375
+    ],
+    "removed_text_spans": [
+      "échantillon de 36 patientes est une variable aléatoire binomiale de paramètres (n = 36, π = 0,33). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 657,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      623.1699829101562,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      626.1699829101562,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "dans cet exercice) de façon indépendante."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 658,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      572.9200439453125
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      574.9200439453125
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : ici on parle de la VPP et elle dépend de la prévalence et donc elle dépend de la population "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 658,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      571.9200439453125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      574.9200439453125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : ici on parle de la VPP et elle dépend de la prévalence et donc elle dépend de la population "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 659,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      376.3500061035156
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      378.3500061035156
+    ],
+    "restored_spans": [
+      "d’être Valeriane est un facteur aggravant)."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 6,
+    "role": "subject",
+    "panel": 1,
+    "page": 653,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      392.3699951171875,
+      570,
+      593.1799926757812
+    ],
+    "after": [
+      30,
+      395.3699951171875,
+      570,
+      593.1799926757812
+    ],
+    "removed_text_spans": [
+      "doit être inférieur à 0 dans cette étude "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 659,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      375.3500061035156,
+      570,
+      739.97998046875
+    ],
+    "after": [
+      30,
+      378.3500061035156,
+      570,
+      739.97998046875
+    ],
+    "removed_text_spans": [
+      "d’être Valeriane est un facteur aggravant)."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 659,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      378.3500061035156,
+      570,
+      739.97998046875
+    ],
+    "after": [
+      30,
+      378.3500061035156,
+      570,
+      741.97998046875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : n ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      " 1,96 ",
+      "",
+      " p> 0,05 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 659,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      738.97998046875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      741.97998046875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : n ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      " 1,96 ",
+      "",
+      " p> 0,05 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 660,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      464.1199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      466.1199951171875
+    ],
+    "restored_spans": [
+      "donné.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 673,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      495.9259948730469
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      497.9259948730469
+    ],
+    "restored_spans": [
+      "𝑛",
+      "100",
+      "100",
+      "10"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "role": "subject",
+    "panel": 1,
+    "page": 662,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      277.58001708984375,
+      570,
+      457
+    ],
+    "after": [
+      30,
+      280.58001708984375,
+      570,
+      457
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’écart type théorique de la variable aléatoire F est égal à 0,4 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 673,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      494.9259948730469,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      497.9259948730469,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "𝑛",
+      "100",
+      "100",
+      "10"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 674,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      293.83001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      295.83001708984375
+    ],
+    "restored_spans": [
+      "(centième) près. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 674,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      292.83001708984375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      295.83001708984375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "(centième) près. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 3,
+    "role": "correction",
+    "panel": 1,
+    "page": 675,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      289.07000732421875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      291.07000732421875
+    ],
+    "restored_spans": [
+      "risque ",
+      "𝛼",
+      " 5%, on ne connait pas le risque ",
+      "𝛽",
+      " de conclure à tort en faveur de H0. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 675,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      288.07000732421875,
+      570,
+      505.8429870605469
+    ],
+    "after": [
+      30,
+      291.07000732421875,
+      570,
+      505.8429870605469
+    ],
+    "removed_text_spans": [
+      "risque ",
+      "𝛼",
+      " 5%, on ne connait pas le risque ",
+      "𝛽",
+      " de conclure à tort en faveur de H0. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 675,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      291.07000732421875,
+      570,
+      505.8429870605469
+    ],
+    "after": [
+      30,
+      291.07000732421875,
+      570,
+      508.0929870605469
+    ],
+    "restored_spans": [
+      "𝒏",
+      "𝟐𝟓"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 675,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      504.8429870605469,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      508.0929870605469,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "𝒏",
+      "𝟐𝟓"
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 5,
+    "role": "correction",
+    "panel": 1,
+    "page": 676,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      201.29998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      203.29998779296875
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI ",
+      ": |",
+      "𝑡",
+      "obs",
+      "| = 13 > 2,228 donc on rejet H0 au risque d’erreur de 5%  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 663,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      479.3999938964844,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      482.3999938964844,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La régression linéaire est statistiquement significative au risque d’erreur de 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 676,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      200.29998779296875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      203.29998779296875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI ",
+      ": |",
+      "𝑡",
+      "obs",
+      "| = 13 > 2,228 donc on rejet H0 au risque d’erreur de 5%  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 677,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      540.9000244140625
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      542.9000244140625
+    ],
+    "restored_spans": [
+      "prédictives positives et négatives sont dépendantes de la prévalence) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 664,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      230.33001708984375,
+      570,
+      415.1199951171875
+    ],
+    "after": [
+      30,
+      233.33001708984375,
+      570,
+      415.1199951171875
+    ],
+    "removed_text_spans": [
+      "population de l’étude "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 677,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      539.9000244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      542.9000244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "prédictives positives et négatives sont dépendantes de la prévalence) "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 678,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      326.3499755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      328.3499755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : cf D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 664,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      412.1199951171875,
+      570,
+      716.2000122070312
+    ],
+    "after": [
+      30,
+      415.1199951171875,
+      570,
+      716.2000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Dans cette population, une IRM positive est suffisante pour faire une biopsie "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 678,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      325.3499755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      328.3499755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : cf D "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 9,
+    "role": "correction",
+    "panel": 1,
+    "page": 680,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      210.04998779296875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      212.04998779296875
+    ],
+    "restored_spans": [
+      "exister une association positive (resterait ensuite à la tester). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 665,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      300.0999755859375,
+      570,
+      577.6700439453125
+    ],
+    "after": [
+      30,
+      303.0999755859375,
+      570,
+      577.6700439453125
+    ],
+    "removed_text_spans": [
+      "résection "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 680,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      209.04998779296875,
+      570,
+      649.9500122070312
+    ],
+    "after": [
+      30,
+      212.04998779296875,
+      570,
+      649.9500122070312
+    ],
+    "removed_text_spans": [
+      "exister une association positive (resterait ensuite à la tester). "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 680,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      212.04998779296875,
+      570,
+      649.9500122070312
+    ],
+    "after": [
+      30,
+      212.04998779296875,
+      570,
+      651.9500122070312
+    ],
+    "restored_spans": [
+      "étude moins puissante, elle nécessitera donc moins de sujet. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 680,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      648.9500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      651.9500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "étude moins puissante, elle nécessitera donc moins de sujet. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 11,
+    "role": "correction",
+    "panel": 2,
+    "page": 682,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      437.6199951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      439.6199951171875
+    ],
+    "restored_spans": [
+      " attention: les individus censurés au temps t comptent dans l’effectif à risque au temps t. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 1,
+    "role": "correction",
+    "panel": 0,
+    "page": 691,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      60,
+      570,
+      573.4200439453125
+    ],
+    "after": [
+      30,
+      60,
+      570,
+      575.4200439453125
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI ",
+      ": cf D. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 684,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      365.1000061035156,
+      570,
+      682
+    ],
+    "after": [
+      30,
+      368.1000061035156,
+      570,
+      682
+    ],
+    "removed_text_spans": [
+      "E.",
+      "L’absence d’infection pulmonaire au cours du séjour dépend du fait d’être ventilé à l’admission "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 0,
+    "page": 691,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      572.4200439453125,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      575.4200439453125,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI ",
+      ": cf D. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "role": "correction",
+    "panel": 1,
+    "page": 692,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      429.3699951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      431.3699951171875
+    ],
+    "restored_spans": [
+      "borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 692,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      428.3699951171875,
+      570,
+      753.7249755859375
+    ],
+    "after": [
+      30,
+      431.3699951171875,
+      570,
+      753.7249755859375
+    ],
+    "removed_text_spans": [
+      "borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 3,
+    "role": "correction",
+    "panel": 0,
+    "page": 692,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      431.3699951171875,
+      570,
+      753.7249755859375
+    ],
+    "after": [
+      30,
+      431.3699951171875,
+      570,
+      755.7249755859375
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : Quand |z| est supérieur à 1,96 alors la p-value est inférieure à 0,05. ci |z|=7,5 ",
+      " p-value < 0,05 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 685,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      173.79998779296875,
+      570,
+      383.3500061035156
+    ],
+    "after": [
+      30,
+      176.79998779296875,
+      570,
+      383.3500061035156
+    ],
+    "removed_text_spans": [
+      "E.",
+      "La p-value du test pour répondre à la proposition C est supérieure à 0,05 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 4,
+    "role": "correction",
+    "panel": 0,
+    "page": 692,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      752.7249755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      755.7249755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : Quand |z| est supérieur à 1,96 alors la p-value est inférieure à 0,05. ci |z|=7,5 ",
+      "→",
+      " p-value < 0,05 "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 4,
+    "role": "correction",
+    "panel": 1,
+    "page": 693,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      370.1000061035156
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      372.1000061035156
+    ],
+    "restored_spans": [
+      "E.",
+      "VRAI :",
+      " Cf item A. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 5,
+    "role": "subject",
+    "panel": 1,
+    "page": 685,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      380.3500061035156,
+      570,
+      538.4000244140625
+    ],
+    "after": [
+      30,
+      383.3500061035156,
+      570,
+      538.4000244140625
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Un test de pente nulle "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 693,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      369.1000061035156,
+      570,
+      674.9500122070312
+    ],
+    "after": [
+      30,
+      372.1000061035156,
+      570,
+      674.9500122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "VRAI :",
+      " Cf item A. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 5,
+    "role": "correction",
+    "panel": 0,
+    "page": 693,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      372.1000061035156,
+      570,
+      674.9500122070312
+    ],
+    "after": [
+      30,
+      372.1000061035156,
+      570,
+      676.9500122070312
+    ],
+    "restored_spans": [
+      "1.5 < 2.101",
+      " on ne peut donc pas rejeter H0 au risque d’erreur 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 685,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      535.4000244140625,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      538.4000244140625,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "significativement différente de 0, pour un test au risque d’erreur 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 6,
+    "role": "correction",
+    "panel": 0,
+    "page": 693,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      673.9500122070312,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      676.9500122070312,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "1.5 < 2.101",
+      " on ne peut donc pas rejeter H0 au risque d’erreur 5%. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 6,
+    "role": "correction",
+    "panel": 1,
+    "page": 694,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      630.1699829101562
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      632.1699829101562
+    ],
+    "restored_spans": [
+      "malades donc il y aura une spécificité moins importante. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 7,
+    "role": "subject",
+    "panel": 1,
+    "page": 686,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      187.29998779296875,
+      570,
+      345.1000061035156
+    ],
+    "after": [
+      30,
+      190.29998779296875,
+      570,
+      345.1000061035156
+    ],
+    "removed_text_spans": [
+      "spécificité au moins aussi élevée que celle de chacun des deux tests "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 7,
+    "role": "correction",
+    "panel": 0,
+    "page": 694,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      629.1699829101562,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      632.1699829101562,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "malades donc il y aura une spécificité moins importante. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 7,
+    "role": "correction",
+    "panel": 1,
+    "page": 695,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      405.8699951171875
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      407.8699951171875
+    ],
+    "restored_spans": [
+      "en cas de test ELISA positif. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 686,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      342.1000061035156,
+      570,
+      663.2000122070312
+    ],
+    "after": [
+      30,
+      345.1000061035156,
+      570,
+      663.2000122070312
+    ],
+    "removed_text_spans": [
+      "E.",
+      "Le test à utiliser en premier pour exclure le diagnostic d’infection au virus Ebola est le test ELISA "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 8,
+    "role": "correction",
+    "panel": 0,
+    "page": 695,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      404.8699951171875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      407.8699951171875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "en cas de test ELISA positif. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 8,
+    "role": "correction",
+    "panel": 1,
+    "page": 696,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      276.83001708984375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      278.83001708984375
+    ],
+    "restored_spans": [
+      "n’est donc pas un facteur protecteur diminuant le risque d’événement cardiovasculaire.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 696,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      275.83001708984375,
+      570,
+      740.47998046875
+    ],
+    "after": [
+      30,
+      278.83001708984375,
+      570,
+      740.47998046875
+    ],
+    "removed_text_spans": [
+      "n’est donc pas un facteur protecteur diminuant le risque d’événement cardiovasculaire.  "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 9,
+    "role": "correction",
+    "panel": 0,
+    "page": 696,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      278.83001708984375,
+      570,
+      740.47998046875
+    ],
+    "after": [
+      30,
+      278.83001708984375,
+      570,
+      742.47998046875
+    ],
+    "restored_spans": [
+      "E.",
+      "FAUX : Le risque α est fixé, que l’effectif augmente ou diminue, il ne changera pas."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 687,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      261.07000732421875,
+      570,
+      557.1500244140625
+    ],
+    "after": [
+      30,
+      264.07000732421875,
+      570,
+      557.1500244140625
+    ],
+    "removed_text_spans": [
+      "des effectifs plus élevés aurait un risque α plus élevé "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 10,
+    "role": "correction",
+    "panel": 0,
+    "page": 696,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      739.47998046875,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      742.47998046875,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "E.",
+      "FAUX : Le risque α est fixé, que l’effectif augmente ou diminue, il ne changera pas."
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 10,
+    "role": "correction",
+    "panel": 1,
+    "page": 697,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      762.2249755859375
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      764.2249755859375
+    ],
+    "restored_spans": [
+      "= 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 11,
+    "role": "correction",
+    "panel": 0,
+    "page": 697,
+    "action": "remove_previous_line_fragment",
+    "before": [
+      30,
+      761.2249755859375,
+      570,
+      782
+    ],
+    "after": [
+      30,
+      764.2249755859375,
+      570,
+      782
+    ],
+    "removed_text_spans": [
+      "= 5% "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 11,
+    "role": "correction",
+    "panel": 1,
+    "page": 698,
+    "action": "restore_last_line_descenders_or_formula",
+    "before": [
+      30,
+      62,
+      570,
+      670.9500122070312
+    ],
+    "after": [
+      30,
+      62,
+      570,
+      672.9500122070312
+    ],
+    "restored_spans": [
+      "lymphocytes. "
+    ]
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 489,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      205.875
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      205.875
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 490,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      295.645
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      295.645
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 490,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      295.645
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      295.645
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 9,
+    "role": "subject",
+    "panel": 0,
+    "page": 490,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      295.645
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      295.645
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 9,
+    "role": "subject",
+    "panel": 1,
+    "page": 491,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      131.845
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      131.845
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 507,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      267.33,
+      550,
+      414.87
+    ],
+    "after": [
+      30,
+      267.33,
+      570,
+      414.87
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 509,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      224.58
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      224.58
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 522,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      252.58,
+      550,
+      342.395
+    ],
+    "after": [
+      30,
+      252.58,
+      570,
+      342.395
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 522,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      573.67,
+      550,
+      778
+    ],
+    "after": [
+      30,
+      573.67,
+      570,
+      778
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 534,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      266.07,
+      550,
+      409.665
+    ],
+    "after": [
+      30,
+      266.07,
+      570,
+      409.665
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 8,
+    "role": "subject",
+    "panel": 0,
+    "page": 536,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      340.645
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      340.645
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 10,
+    "role": "subject",
+    "panel": 0,
+    "page": 537,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      72,
+      550,
+      276
+    ],
+    "after": [
+      30,
+      72,
+      570,
+      276
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 551,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      139.3
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      139.3
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 560,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      68,
+      550,
+      407.665
+    ],
+    "after": [
+      30,
+      68,
+      570,
+      407.665
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 560,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      68,
+      550,
+      407.665
+    ],
+    "after": [
+      30,
+      68,
+      570,
+      407.665
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 3,
+    "role": "subject",
+    "panel": 1,
+    "page": 560,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      545.65,
+      550,
+      618.215
+    ],
+    "after": [
+      30,
+      545.65,
+      570,
+      618.215
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 561,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      178.8,
+      550,
+      326.895
+    ],
+    "after": [
+      30,
+      178.8,
+      570,
+      326.895
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 9,
+    "role": "subject",
+    "panel": 0,
+    "page": 562,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      437.87,
+      550,
+      778
+    ],
+    "after": [
+      30,
+      437.87,
+      570,
+      778
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 11,
+    "role": "subject",
+    "panel": 0,
+    "page": 563,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      476.15,
+      550,
+      625.215
+    ],
+    "after": [
+      30,
+      476.15,
+      570,
+      625.215
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 578,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      68,
+      550,
+      371.145
+    ],
+    "after": [
+      30,
+      68,
+      570,
+      371.145
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 578,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      68,
+      550,
+      371.145
+    ],
+    "after": [
+      30,
+      68,
+      570,
+      371.145
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 579,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      251.33,
+      550,
+      335.395
+    ],
+    "after": [
+      30,
+      251.33,
+      570,
+      335.395
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 580,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      224.625
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      224.625
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 590,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      634.995
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      634.995
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 605,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      465.12,
+      550,
+      778
+    ],
+    "after": [
+      30,
+      465.12,
+      570,
+      778
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 615,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      482.9,
+      550,
+      778
+    ],
+    "after": [
+      30,
+      482.9,
+      570,
+      778
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 636,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      152.095
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      152.095
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 9,
+    "role": "subject",
+    "panel": 0,
+    "page": 636,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      403.62,
+      550,
+      507.945
+    ],
+    "after": [
+      30,
+      403.62,
+      570,
+      507.945
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 652,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      204.3,
+      550,
+      264.375
+    ],
+    "after": [
+      30,
+      204.3,
+      570,
+      264.375
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 6,
+    "role": "subject",
+    "panel": 0,
+    "page": 653,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      65,
+      550,
+      263.375
+    ],
+    "after": [
+      30,
+      65,
+      570,
+      263.375
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "role": "subject",
+    "panel": 0,
+    "page": 662,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      68,
+      550,
+      161.845
+    ],
+    "after": [
+      30,
+      68,
+      570,
+      161.845
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "role": "subject",
+    "panel": 0,
+    "page": 662,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      458,
+      550,
+      624.965
+    ],
+    "after": [
+      30,
+      458,
+      570,
+      624.965
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 663,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      484.4,
+      550,
+      778
+    ],
+    "after": [
+      30,
+      484.4,
+      570,
+      778
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 3,
+    "role": "subject",
+    "panel": 0,
+    "page": 684,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      383,
+      550,
+      523.7
+    ],
+    "after": [
+      30,
+      383,
+      570,
+      523.7
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 5,
+    "role": "subject",
+    "panel": 0,
+    "page": 685,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      178.8,
+      550,
+      278.125
+    ],
+    "after": [
+      30,
+      178.8,
+      570,
+      278.125
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 7,
+    "role": "subject",
+    "panel": 0,
+    "page": 685,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      540.4,
+      550,
+      778
+    ],
+    "after": [
+      30,
+      540.4,
+      570,
+      778
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 9,
+    "role": "subject",
+    "panel": 0,
+    "page": 686,
+    "action": "restore_full_context_panel_width",
+    "before": [
+      37,
+      347.1,
+      550,
+      490.695
+    ],
+    "after": [
+      30,
+      347.1,
+      570,
+      490.695
+    ],
+    "reason": "Full source width; two old context panels demonstrably clipped printed text."
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "banks": 23,
+  "questions": 550,
+  "items": 2752,
+  "originalPDFs": 46,
+  "originalPages": 274,
+  "nativeImagesChecked": 131,
+  "interactiveImagesChecked": 123,
+  "originalPanels": 1450,
+  "subjectPanels": 805,
+  "correctionPanels": 645,
+  "repairRecords": 163,
+  "changedQuestionObjects": 36,
+  "changedCropObjects": 95,
+  "keyChanges": 0,
+  "idOrOrderChanges": 0,
+  "gatedOriginals": 2,
+  "referenceBindings": 20,
+  "unresolvedImportProblems": 0,
+  "partialOriginalItems": 8,
+  "partialOriginalStems": 1,
+  "HPOnlyItems": 4,
+  "ambiguousOfficialKeys": 3,
+  "bankCoverage": [
+    {
+      "bank": "ue2.intro.autotest",
+      "questions": 11,
+      "items": 54,
+      "approved": true
+    },
+    {
+      "bank": "ue2.intro.annales",
+      "questions": 14,
+      "items": 70,
+      "approved": true
+    },
+    {
+      "bank": "ue2.adn.autotest",
+      "questions": 14,
+      "items": 73,
+      "approved": true
+    },
+    {
+      "bank": "ue2.adn.annales",
+      "questions": 28,
+      "items": 140,
+      "approved": true
+    },
+    {
+      "bank": "ue2.arn.autotest",
+      "questions": 19,
+      "items": 95,
+      "approved": true
+    },
+    {
+      "bank": "ue2.arn.annales",
+      "questions": 29,
+      "items": 145,
+      "approved": true
+    },
+    {
+      "bank": "ue2.organisation.autotest",
+      "questions": 12,
+      "items": 60,
+      "approved": true
+    },
+    {
+      "bank": "ue2.organisation.annales",
+      "questions": 12,
+      "items": 60,
+      "approved": true
+    },
+    {
+      "bank": "ue2.replication.autotest",
+      "questions": 27,
+      "items": 135,
+      "approved": true
+    },
+    {
+      "bank": "ue2.replication.annales",
+      "questions": 22,
+      "items": 110,
+      "approved": true
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "questions": 35,
+      "items": 175,
+      "approved": true
+    },
+    {
+      "bank": "ue2.transcription.annales",
+      "questions": 34,
+      "items": 170,
+      "approved": true
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "questions": 29,
+      "items": 148,
+      "approved": true
+    },
+    {
+      "bank": "ue2.traduction.annales",
+      "questions": 30,
+      "items": 150,
+      "approved": true
+    },
+    {
+      "bank": "ue2.regulation.autotest",
+      "questions": 24,
+      "items": 122,
+      "approved": true
+    },
+    {
+      "bank": "ue2.regulation.annales",
+      "questions": 23,
+      "items": 115,
+      "approved": true
+    },
+    {
+      "bank": "ue2.reparation.autotest",
+      "questions": 20,
+      "items": 100,
+      "approved": true
+    },
+    {
+      "bank": "ue2.reparation.annales",
+      "questions": 25,
+      "items": 120,
+      "approved": true
+    },
+    {
+      "bank": "ue2.anomalies.autotest",
+      "questions": 7,
+      "items": 35,
+      "approved": true
+    },
+    {
+      "bank": "ue2.anomalies.annales",
+      "questions": 9,
+      "items": 45,
+      "approved": true
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "questions": 43,
+      "items": 215,
+      "approved": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "questions": 43,
+      "items": 215,
+      "approved": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "questions": 40,
+      "items": 200,
+      "approved": true
+    }
+  ]
+}

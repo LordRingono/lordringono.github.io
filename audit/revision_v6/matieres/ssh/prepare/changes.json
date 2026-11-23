@@ -1,0 +1,2409 @@
+[
+  {
+    "bank": "acc",
+    "id": 2,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Fin de vie : éloge de la complexité (Dr Chvetzoff)"
+  },
+  {
+    "bank": "acc",
+    "id": 4,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Médicalisation de la sexualité (Dr Paul Neuville)"
+  },
+  {
+    "bank": "acc",
+    "id": 6,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Enjeux médicaux de l’IA moderne (Pr Rasigade)"
+  },
+  {
+    "bank": "acc",
+    "id": 7,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Hésitations vaccinales et controverses (Dr Christelle Elias)"
+  },
+  {
+    "bank": "acc",
+    "id": 9,
+    "type": "crop_remove_next_course_heading",
+    "removed": "La clinique du désir (Dr Chvetzoff)"
+  },
+  {
+    "bank": "acc",
+    "id": 10,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Médecine Pangénomique (Pr Sanlaville)"
+  },
+  {
+    "bank": "acc",
+    "id": 13,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Fin de vie (Dr Elise Perceau-Chambard)"
+  },
+  {
+    "bank": "acc",
+    "id": 16,
+    "type": "crop_remove_next_course_heading",
+    "removed": "HPI et TDAH : ressemblances, différences, coexistences (Dr Olivier Revol)"
+  },
+  {
+    "bank": "acc",
+    "id": 17,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Info ou intox – esprit critique (Dr Cédric Dananché)"
+  },
+  {
+    "bank": "acc",
+    "id": 21,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Le don d’organes (équipe CHPOT)"
+  },
+  {
+    "bank": "acc",
+    "id": 26,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Raisonnement et décisions médicales (Pr Lega, Pr Friggeri et Dr Reverdy)"
+  },
+  {
+    "bank": "acc",
+    "id": 29,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Les particularités de la maladie chronique (Dr André Basch)"
+  },
+  {
+    "bank": "acc",
+    "id": 32,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Antibiotiques, résistance, écologie (Pr Rasigade)"
+  },
+  {
+    "bank": "acc",
+    "id": 34,
+    "type": "crop_remove_next_course_heading",
+    "removed": "La communication en médecine (Dr André Basch)"
+  },
+  {
+    "bank": "acc",
+    "id": 36,
+    "type": "crop_remove_next_course_heading",
+    "removed": "Striatum (Pr Maxime Fieux)"
+  },
+  {
+    "bank": "acc",
+    "ids": [
+      25,
+      26
+    ],
+    "type": "restore_shared_context_block"
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-11-all-1",
+      "kind": "source_mismatch",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "ÉNONCÉ/CORRIGÉ NON CORRESPONDANTS. Le sujet fourni porte sur les statistiques de greffe, le consentement et l’Agence de biomédecine ; le corrigé détaillé et sa grille (ABC) portent sur les religions et la mort encéphalique. Aucune correction officielle utilisable pour cette question : exclue de la note. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 4,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=4"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 8,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=8"
+        }
+      ],
+      "sourceVerdict": "ABC",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-12-all-1",
+      "kind": "source_mismatch",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "ÉNONCÉ/CORRIGÉ NON CORRESPONDANTS. Le sujet fourni porte sur le prélèvement et les critères de mort encéphalique ; la grille BCE porte sur les temporalités et l’accueil des proches. Aucune correction officielle utilisable pour cette question : exclue de la note. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 4,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=4"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 8,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=8"
+        }
+      ],
+      "sourceVerdict": "BCE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 4,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-4-B-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "B"
+      ],
+      "text": "Le détail réfute un comportement agressif envers le patient alors que l’item porte sur les émotions éprouvées. L’interdiction d’agir agressivement ne démontre pas l’absence possible d’une émotion agressive. La clé CDE est conservée ; distinguer ressenti et conduite professionnelle. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 3,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=3"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 3,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=3"
+        }
+      ],
+      "sourceVerdict": "CDE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 14,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-14-E-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "E"
+      ],
+      "text": "Le 27 mai 2025 correspond à l’adoption en première lecture à l’Assemblée nationale de la proposition sur l’aide à mourir, pas à une loi déjà promulguée. Le détail mentionne d’ailleurs un projet. E reste la réponse attendue dans le document, avec cette imprécision chronologique. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 7,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=7"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 9,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=9"
+        },
+        {
+          "label": "Assemblée nationale — dossier législatif fin de vie",
+          "href": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "CDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 15,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-15-D-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "D"
+      ],
+      "text": "D est bien faux dans la clé : la personne de confiance ne décide pas des traitements. Le détail disant qu’elle donne seulement son avis est réducteur : sa mission est de témoigner de la volonté du patient, et non d’exprimer sa préférence personnelle. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 7,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=7"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 9,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=9"
+        },
+        {
+          "label": "Code de la santé publique — L1111-6",
+          "href": "https://www.legifrance.gouv.fr/affichCodeArticle.do?categorieLien=id&cidTexte=LEGITEXT000006072665&dateTexte=&idArticle=LEGIARTI000049391677",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "E",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 25,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-25-D-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "D"
+      ],
+      "text": "Le prélèvement repose sur l’absence de refus exprimé par le défunt. Les proches témoignent d’un éventuel refus du défunt ; leurs propres souhaits ne remplacent pas sa volonté. La formulation « leurs volontés » est donc ambiguë. La clé ACDE est conservée. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 10,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=10"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 14,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=14"
+        },
+        {
+          "label": "Code de la santé publique — L1232-1",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031931933/2026-09-11",
+          "referenceType": "external_primary"
+        },
+        {
+          "label": "Code de la santé publique — R1232-4-4",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033038931/2026-01-01",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ACDE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 13,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-13-DE-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "D",
+        "E"
+      ],
+      "text": "L’accès ouvert n’impose pas toujours des frais aux auteurs : le modèle diamant est gratuit pour auteurs et lecteurs. D, coché vrai, est trop général. Pour E, le Centre Léon Bérard est un établissement privé d’intérêt collectif ; ce statut ne découle pas simplement de sa spécialisation. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 5,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=5"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 8,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=8"
+        },
+        {
+          "label": "UNESCO — Diamond Open Access",
+          "href": "https://www.unesco.org/en/diamond-open-access",
+          "referenceType": "external_primary"
+        },
+        {
+          "label": "Centre Léon Bérard — mentions légales",
+          "href": "https://www.centreleonberard.fr/mentions-legales",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "AD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 15,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-15-B-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "Le seuil de 50 % de réussite n’est pas un critère universel fixé par le texte de Turing. Son article de 1950 expose un jeu d’imitation et une prévision à cinq minutes, sans poser cette règle générale. La clé du tutorat est conservée ; retrouver la convention présentée dans le cours. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 5,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=5"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 9,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=9"
+        },
+        {
+          "label": "Turing, 1950 — Computing machinery and intelligence",
+          "href": "https://www2.cs.sfu.ca/~vaughan/teaching/415/papers/turing1950.html",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ACE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 21,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-21-BD-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B",
+        "D"
+      ],
+      "text": "Le détail résume excessivement le circuit cortex–striatum : des projections corticales glutamatergiques peuvent moduler la libération de dopamine striatale. Le striatum est une structure impliquée dans le renforcement ; le qualifier de renforceur primaire peut confondre la structure et le stimulus renforçateur. La clé A est conservée. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 6,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=6"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 12,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=12"
+        },
+        {
+          "label": "Expérience sur le contrôle cortical de la libération de dopamine, 2020",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/32859717/",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "A",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 48,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-48-B-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "Claude Bernard a développé la notion de milieu intérieur, précurseur de l’homéostasie ; Walter Cannon a formulé le concept sous ce nom. L’attribution abrégée du détail demande cette distinction historique. Le rejet de Louis Pasteur reste cohérent. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=13"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 23,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=23"
+        },
+        {
+          "label": "Cannon, 1929 — Organization for physiological homeostasis",
+          "href": "https://journals.physiology.org/doi/abs/10.1152/physrev.1929.9.3.399",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "CDE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 48,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-48-E-2",
+      "kind": "scientific_reserve",
+      "items": [
+        "E"
+      ],
+      "text": "L’expression « dans les 48 h » inverse le repère usuel : si le statut initial est inconnu, un délai d’au moins 48 h est généralement retenu, en tenant compte de l’incubation et de l’infection concernée. Le principe est une infection absente et non incubante à l’admission. E reste vrai dans la clé fournie, malgré cette réserve. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=13"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 23,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=23"
+        },
+        {
+          "label": "Ministère de la santé — infections nosocomiales, questions-réponses",
+          "href": "https://sante.gouv.fr/IMG/pdf/Questions_-_reponses_sur_les_infections_nosocomiales.pdf",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "CDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 50,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-50-AC-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A",
+        "C"
+      ],
+      "text": "La justesse concerne l’écart entre la moyenne des mesures et la référence ; le caractère groupé décrit la fidélité. Des tirs groupés au centre associent ces deux propriétés. Le détail de C contient aussi un renvoi circulaire à C. La clé ADE est conservée. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=13"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 24,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=24"
+        },
+        {
+          "label": "BIPM — vocabulaire international de métrologie, justesse",
+          "href": "https://jcgm.bipm.org/vim/fr/2.14.html",
+          "referenceType": "external_primary"
+        },
+        {
+          "label": "BIPM — fidélité de mesure",
+          "href": "https://jcgm.bipm.org/vim/fr/2.15.html",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ADE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 63,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-63-C-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "C"
+      ],
+      "text": "Le don d’ovocytes n’est pas rémunéré. La prise en charge des frais médicaux et le remboursement justifié de certains frais ne sont pas une rétribution de la pénibilité. Le verdict C Faux est conservé avec cette distinction. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 16,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=16"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 29,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=29"
+        },
+        {
+          "label": "Service public — don d’ovocytes et prise en charge des frais",
+          "href": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24586",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 64,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-64-ACE-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A",
+        "C",
+        "E"
+      ],
+      "text": "Il n’existe pas une interdiction uniforme de la GPA dans toute l’Europe : elle est juridiquement possible, notamment au Royaume-Uni. Selon le dispositif, les gamètes peuvent provenir des parents d’intention ou de donneurs. La clé ABC correspond à une définition restrictive de cours ; ses formulations générales et le détail de E doivent être nuancés. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 16,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=16"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 30,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=30"
+        },
+        {
+          "label": "Gouvernement britannique — cadre juridique de la gestation pour autrui",
+          "href": "https://www.gov.uk/government/publications/having-a-child-through-surrogacy/the-surrogacy-pathway-surrogacy-and-the-legal-process-for-intended-parents-and-surrogates-in-england-and-wales",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABC",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 68,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-68-A-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A"
+      ],
+      "text": "L’OMS attribue à Jenner le premier vaccin efficace contre la variole humaine, à partir de matériel de vaccine. L’item confond la maladie ciblée et le matériel utilisé ; l’argument du détail selon lequel ce n’était pas encore un vaccin est contestable. Le verdict Faux est conservé. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 17,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=17"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 31,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=31"
+        },
+        {
+          "label": "OMS — histoire de la vaccination contre la variole",
+          "href": "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination/",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 69,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-69-B-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "L’Evidence-Based Medicine désigne une démarche de décision intégrant les meilleures données disponibles et l’expertise clinique, pas une base de données. B est néanmoins coché vrai dans le document ; la clé BE est conservée avec cette réserve explicite. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 18,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=18"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 32,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=32"
+        },
+        {
+          "label": "Sackett et al., BMJ, 1996 — Evidence based medicine",
+          "href": "https://www.bmj.com/content/312/7023/71",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 74,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-74-B-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "Le régime d’autorisation de la recherche sur l’embryon existe depuis la loi du 6 août 2013. Le situer pour la première fois en 2021, comme le fait le détail, est inexact. L’item décrivant la situation en 2021 peut rester vrai. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 19,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=19"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 34,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=34"
+        },
+        {
+          "label": "Loi du 6 août 2013 — recherche sur l’embryon",
+          "href": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027811435",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 12,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-12-A-2",
+      "kind": "scientific_reserve",
+      "items": [
+        "A"
+      ],
+      "text": "Le détail ne doit pas faire retenir que tous les vaccins protègent seulement des formes graves. Le type et l’ampleur de protection dépendent du vaccin et de la maladie ; par exemple la vaccination antitétanique prévient le tétanos. La formulation absolue de A et la clé D du document sont conservées. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 3,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=3"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 6,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=6"
+        },
+        {
+          "label": "OMS — protection contre le tétanos, absence d’immunité collective",
+          "href": "https://www.who.int/docs/default-source/tetanus/9789241509237-eng.pdf",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "D",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 13,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-13-CE-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "C",
+        "E"
+      ],
+      "text": "Le mot « systématiquement » du détail de E est trop général. Pour le tétanos, il n’existe pas de transmission interhumaine ni d’immunité collective : chacun doit être protégé. Les effets sur la circulation d’un agent et sur l’ensemble de la population dépendent donc de la maladie et du vaccin. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 4,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=4"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 6,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=6"
+        },
+        {
+          "label": "OMS — protection contre le tétanos, absence d’immunité collective",
+          "href": "https://www.who.int/docs/default-source/tetanus/9789241509237-eng.pdf",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABC",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 26,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-26-all-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Les pourcentages de rétention associés au cône de Dale ne constituent pas des mesures scientifiques établies. Les travaux documentaires sur cette attribution mettent en évidence un assemblage trompeur entre le cône et des taux de mémorisation. La clé ABCDE reste celle de l’épreuve ; distinguer réponse de cours et preuve expérimentale. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 6,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=6"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 10,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=10"
+        },
+        {
+          "label": "Subramony et al., 2014 — étude documentaire du cône de Dale",
+          "href": "https://eric.ed.gov/?id=EJ1057220",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABCDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 32,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-32-E-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "E"
+      ],
+      "text": "Le verdict Faux est justifié par le caractère incomplet de l’item. Toutefois, le détail réduit lui aussi la biodiversité aux interactions : la définition de la Convention comprend la diversité au sein des espèces, entre espèces et des écosystèmes. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 8,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=8"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 12,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=12"
+        },
+        {
+          "label": "Convention sur la diversité biologique, article 2",
+          "href": "https://www.cbd.int/doc/legal/cbd-en.pdf",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "AC",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 39,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-39-D-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "D"
+      ],
+      "text": "Un désaccord personnel du médecin ne suffit pas à écarter des directives anticipées. Elles s’imposent en principe, avec les exceptions légales, notamment l’urgence pendant l’évaluation ou leur caractère manifestement inapproprié, encadré par une procédure collégiale. Le détail ne doit pas faire oublier ces exceptions. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 9,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=9"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 14,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=14"
+        },
+        {
+          "label": "Code de la santé publique — L1111-11",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054137791/2026-06-18",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "A",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 49,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-49-AB-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A",
+        "B"
+      ],
+      "text": "La campagne française des années 2000 correspond à une sensibilisation du public ; elle n’est pas la découverte scientifique de l’antibiorésistance. Des observations expérimentales de résistance à la pénicilline existaient dès 1940. La clé BE est conservée selon le repère de cours. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 11,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=11"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 18,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=18"
+        },
+        {
+          "label": "Abraham et Chain, Nature, 1940 — enzyme détruisant la pénicilline",
+          "href": "https://www.nature.com/articles/146837a0",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 60,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-60-C-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "C"
+      ],
+      "text": "Le verdict Faux est conservé. La justification affirmant que les lois relatives à la fin de vie ne couvrent que les personnes dont le pronostic vital est engagé est trop générale : les dispositions sur le consentement et le refus de traitement ont une portée plus large. Certaines mesures particulières ont des critères propres. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 14,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=14"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 22,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=22"
+        },
+        {
+          "label": "Code de la santé publique — L1111-4",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721056/2024-02-17",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BD",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 62,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-62-A-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A"
+      ],
+      "text": "L’hypotension est fréquente dans le choc, mais elle n’est pas indispensable à sa définition : une hypoperfusion peut exister malgré une pression encore maintenue. Le consensus ESICM décrit une défaillance circulatoire aiguë avec utilisation inadéquate de l’oxygène. A reste coché vrai dans la clé fournie. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 14,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=14"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 23,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=23"
+        },
+        {
+          "label": "Consensus ESICM, 2014 — définition du choc circulatoire",
+          "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4239778/",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABCE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 66,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-66-E-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "E"
+      ],
+      "text": "La demande familiale ne suffit pas à imposer un traitement, mais l’arrêt d’un traitement ne repose pas sur le seul désaccord de l’équipe avec la famille. Il faut rechercher la volonté du patient et respecter les conditions légales, dont la procédure collégiale quand elle est requise. Le verdict E Faux est conservé. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 16,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=16"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 24,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=24"
+        },
+        {
+          "label": "Code de la santé publique — L1111-4",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721056/2024-02-17",
+          "referenceType": "external_primary"
+        },
+        {
+          "label": "Code de la santé publique — L1111-11",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054137791/2026-06-18",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BCD",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 68,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-68-CD-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "C",
+        "D"
+      ],
+      "text": "La question demande une seule définition exactement donnée dans le cours : B reste attendue. C et D évoquent aussi des mécanismes d’ancrage au sens général, en particulier l’ajustement insuffisant depuis une estimation initiale décrit par Tversky et Kahneman. Leur exclusion ne doit pas faire croire que ces mécanismes sont étrangers à l’ancrage. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 16,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=16"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 25,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=25"
+        },
+        {
+          "label": "Tversky et Kahneman, Science, 1974 — ancrage et ajustement",
+          "href": "https://pages.ucsd.edu/~mckenzie/TverskyKahneman1974Science.pdf",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "B",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 4,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-4-B-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "Le nombre de scores dépend de l’échelle et de sa version. Le WISC-V comporte notamment cinq indices principaux et un quotient intellectuel total ; « trois QI » n’est donc pas une description universelle du test. La clé BE est conservée ; identifier l’échelle visée dans la ronéo. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 1,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=1"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 3,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=3"
+        },
+        {
+          "label": "Pearson — présentation du WISC-V",
+          "href": "https://www.pearsonclinical.fr/mwdownloads/download/link/id/709",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 19,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-19-B-2",
+      "kind": "source_ambiguity",
+      "items": [
+        "B"
+      ],
+      "text": "Le classement d’un pays comme le plus hésitant dépend de l’année, de l’enquête et de la question posée. Aucune étude ni période n’est précisée ici. Le verdict du document ne doit pas être interprété comme un classement universel et permanent. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 5,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=5"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 7,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=7"
+        }
+      ],
+      "sourceVerdict": "BCD",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 24,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-24-E-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "E"
+      ],
+      "text": "Une transaction peut terminer une contestation déjà née : une solution amiable reste donc possible après l’engagement d’une voie contentieuse. Le rejet général de E est litigieux. La clé AD est conservée, en attendant de préciser le cadre particulier éventuellement visé par le cours. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 6,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=6"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 8,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=8"
+        },
+        {
+          "label": "Code civil — article 2044",
+          "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033458766/2026-11-11",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "AD",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 25,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-25-A-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A"
+      ],
+      "text": "Le code de déontologie était déjà porté par un décret avant sa codification dans le Code de la santé publique, notamment en 1995. Si « valeur juridique interne » entend exclure toute valeur réglementaire avant 2004, cette interprétation est inexacte. La clé fournie est conservée. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 7,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=7"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 8,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=8"
+        },
+        {
+          "label": "Décret du 6 septembre 1995 portant code de déontologie médicale",
+          "href": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000555170",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABDE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 50,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-50-C-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "C"
+      ],
+      "text": "Les deux exemples relèvent du XVIIe siècle : création de l’Hôpital général intégrant la Salpêtrière en 1656 et fondation des Invalides en 1670. Les situer à la Renaissance est chronologiquement discutable. Le verdict C Vrai est conservé avec les dates des institutions. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=13"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 15,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=15"
+        },
+        {
+          "label": "Archives AP-HP — histoire de la Salpêtrière",
+          "href": "https://pitiesalpetriere.aphp.fr/wp-content/blogs.dir/58/files/2016/12/Une-page-dhistoire.pdf",
+          "referenceType": "external_primary"
+        },
+        {
+          "label": "Musée de l’Armée — fondation des Invalides en 1670",
+          "href": "https://www.musee-armee.fr/au-programme/350-ans-du-musee-de-larmee/1670-2020-les-invalides-dhier-a-aujourdhui.html",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "CE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 51,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-51-B-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "L’obligation d’emploi à hauteur de 6 % concerne les employeurs atteignant le seuil légal de 20 salariés, selon les règles applicables ; elle ne s’applique pas indistinctement à toute entreprise. Le verdict B Vrai est conservé avec cette condition. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=13"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 15,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=15"
+        },
+        {
+          "label": "Service public — obligation d’emploi des travailleurs handicapés",
+          "href": "https://entreprendre.service-public.gouv.fr/vosdroits/F22523",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "BDE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 52,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-52-A-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A"
+      ],
+      "text": "La Déclaration de Madrid sur le handicap est issue du congrès des 20–23 mars 2002. Le mois de mai écrit dans A est une erreur de date, même si son contenu général reprend l’évolution vers l’inclusion. La clé ABD est conservée. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=13"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 15,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=15"
+        },
+        {
+          "label": "Fondation ONCE — Déclaration de Madrid, 20–23 mars 2002",
+          "href": "https://www.fundaciononce.es/sites/default/files/docs/Educaci%C3%B3n%2520y%2520Personas%2520con%2520Discapacidad_Presente%2520y%2520Futuro_1.pdf",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABD",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 52,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-52-B-2",
+      "kind": "scientific_reserve",
+      "items": [
+        "B"
+      ],
+      "text": "Le modèle de Saad Nagi distingue pathologie, déficience, limitation fonctionnelle et handicap dans les rôles sociaux. La liste faisant de la subjectivité un quatrième niveau ne correspond pas à cette présentation originale. Vérifier l’auteur et le schéma réellement exposés dans le cours ; B reste vrai dans la clé fournie. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 13,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=13"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 15,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=15"
+        },
+        {
+          "label": "Saad Z. Nagi, 1991 — Disability concepts revisited",
+          "href": "https://www.nationalacademies.org/read/1579/chapter/13",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ABD",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 65,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-65-A-1",
+      "kind": "scientific_reserve",
+      "items": [
+        "A"
+      ],
+      "text": "Assimiler les neurones miroirs aux seuls neurones de l’empathie est une simplification. L’empathie implique plusieurs réseaux ; une étude expérimentale sur la douleur d’autrui met notamment en jeu l’insula antérieure et le cortex cingulaire antérieur. La réponse attendue A est conservée, sans en faire une définition exclusive. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 16,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=16"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 19,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=19"
+        },
+        {
+          "label": "Singer et al., Science, 2004 — réseaux de l’empathie pour la douleur",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/14976305/",
+          "referenceType": "external_primary"
+        }
+      ],
+      "sourceVerdict": "ACE",
+      "courseVerdict": null,
+      "coversWarning": false
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 5,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-5-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat signale explicitement que l’item D est ambigu ; la clé B reste appliquée. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 4,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=4"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 4,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=4"
+        }
+      ],
+      "sourceVerdict": "B",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 5,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat signale explicitement que l’item D est ambigu ; la clé B reste appliquée."
+  },
+  {
+    "bank": "acc",
+    "id": 12,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-12-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat coche E mais précise dans son commentaire que cette caractérisation de la mort n’est pas explicitement donnée dans le cours. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 6,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=6"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 8,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=8"
+        }
+      ],
+      "sourceVerdict": "BDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 12,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat coche E mais précise dans son commentaire que cette caractérisation de la mort n’est pas explicitement donnée dans le cours."
+  },
+  {
+    "bank": "acc",
+    "id": 14,
+    "type": "move_warning_after_grading",
+    "before": "Le corrigé coche E pour une « révision » en mai 2025 mais sa justification parle d’un projet de loi. L’énoncé peut donc être trompeur."
+  },
+  {
+    "bank": "acc",
+    "id": 25,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-25-all-2",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat indique que la justification de B n’est « pas dite explicitement dans le cours ». Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 10,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=10"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 14,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=14"
+        }
+      ],
+      "sourceVerdict": "ACDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 25,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat indique que la justification de B n’est « pas dite explicitement dans le cours »."
+  },
+  {
+    "bank": "acc",
+    "id": 28,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-28-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat qualifie explicitement l’item D de litigieux, mais le coche dans sa clé. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 11,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=11"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 16,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=16"
+        }
+      ],
+      "sourceVerdict": "BCD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 28,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat qualifie explicitement l’item D de litigieux, mais le coche dans sa clé."
+  },
+  {
+    "bank": "acc",
+    "id": 29,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-29-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat nuance A (« plutôt vrai ») et exprime un doute sur la justification de B (« je pense »). Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 11,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=11"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 17,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=17"
+        }
+      ],
+      "sourceVerdict": "AD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 29,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat nuance A (« plutôt vrai ») et exprime un doute sur la justification de B (« je pense »)."
+  },
+  {
+    "bank": "acc",
+    "id": 30,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-30-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat qualifie B d’ambigu : attendre la personne de confiance dépend de la volonté du patient. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 12,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=12"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 17,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=17"
+        }
+      ],
+      "sourceVerdict": "BDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 30,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat qualifie B d’ambigu : attendre la personne de confiance dépend de la volonté du patient."
+  },
+  {
+    "bank": "acc",
+    "id": 32,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-acc-32-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le tutorat qualifie A d’ambigu : « clair, loyal et approprié » qualifie l’information, pas l’objectif. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet ACC SSH (2026-2027) PDF .pdf",
+          "page": 12,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf#page=12"
+        },
+        {
+          "file": "Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+          "page": 18,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf#page=18"
+        }
+      ],
+      "sourceVerdict": "BCD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "acc",
+    "id": 32,
+    "type": "move_warning_after_grading",
+    "before": "Le tutorat qualifie A d’ambigu : « clair, loyal et approprié » qualifie l’information, pas l’objectif."
+  },
+  {
+    "bank": "acc",
+    "id": 34,
+    "type": "move_warning_after_grading",
+    "before": "Contradiction interne : l’item D affirme « deuxième cause », tandis que sa justification le dit vrai en parlant de « première cause ». Le barème suit malgré tout la clé BCD."
+  },
+  {
+    "bank": "colle2",
+    "id": 3,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-3-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "La déduction présentée affirme le conséquent : une inflammation du parenchyme ne démontre pas à elle seule une pneumonie bactérienne. Le corrigé la qualifie de raisonnement déductif, tout en reconnaissant que le diagnostic n’est pas certain. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 2,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=2"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 4,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=4"
+        }
+      ],
+      "sourceVerdict": "ABDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 3,
+    "type": "move_warning_after_grading",
+    "before": "La déduction présentée affirme le conséquent : une inflammation du parenchyme ne démontre pas à elle seule une pneumonie bactérienne. Le corrigé la qualifie de raisonnement déductif, tout en reconnaissant que le diagnostic n’est pas certain."
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "type": "move_warning_after_grading",
+    "before": "ÉNONCÉ/CORRIGÉ NON CORRESPONDANTS. Le sujet fourni porte sur les statistiques de greffe, le consentement et l’Agence de biomédecine ; le corrigé détaillé et sa grille (ABC) portent sur les religions et la mort encéphalique. Aucune correction officielle utilisable pour cette question : exclue de la note."
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "type": "move_warning_after_grading",
+    "before": "ÉNONCÉ/CORRIGÉ NON CORRESPONDANTS. Le sujet fourni porte sur le prélèvement et les critères de mort encéphalique ; la grille BCE porte sur les temporalités et l’accueil des proches. Aucune correction officielle utilisable pour cette question : exclue de la note."
+  },
+  {
+    "bank": "colle2",
+    "id": 13,
+    "type": "move_warning_after_grading",
+    "before": "Item D : la formule « les chercheurs doivent payer » pour publier en accès ouvert est trop générale ; le tutorat le classe vrai. Notation selon la clé officielle AD."
+  },
+  {
+    "bank": "colle2",
+    "id": 16,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-16-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le corrigé classe 16A vrai (« IA générative plus opaque ») et 16D faux (« opacité dépend de la méthode »), sans expliquer leur articulation ; formulation potentiellement contradictoire. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 5,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=5"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 10,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=10"
+        }
+      ],
+      "sourceVerdict": "ACE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 16,
+    "type": "move_warning_after_grading",
+    "before": "Le corrigé classe 16A vrai (« IA générative plus opaque ») et 16D faux (« opacité dépend de la méthode »), sans expliquer leur articulation ; formulation potentiellement contradictoire."
+  },
+  {
+    "bank": "colle2",
+    "id": 18,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-18-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item E : le corrigé présente le fait de s’asseoir sur le lit du patient comme une pratique généralement favorable ; ce choix dépend du contexte et du consentement. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 6,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=6"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 10,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=10"
+        }
+      ],
+      "sourceVerdict": "ACE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 18,
+    "type": "move_warning_after_grading",
+    "before": "Item E : le corrigé présente le fait de s’asseoir sur le lit du patient comme une pratique généralement favorable ; ce choix dépend du contexte et du consentement."
+  },
+  {
+    "bank": "colle2",
+    "id": 19,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-19-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item E : l’expression « il ne faut jamais réduire l’interrogatoire » est absolue. À interpréter selon le cours et le corrigé fourni. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 6,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=6"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 11,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=11"
+        }
+      ],
+      "sourceVerdict": "ABE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 19,
+    "type": "move_warning_after_grading",
+    "before": "Item E : l’expression « il ne faut jamais réduire l’interrogatoire » est absolue. À interpréter selon le cours et le corrigé fourni."
+  },
+  {
+    "bank": "colle2",
+    "id": 30,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-30-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le corrigé utilise une définition restrictive du sport centrée sur compétition et performance. Garder la réponse BDE pour cette épreuve. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 9,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=9"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 15,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=15"
+        }
+      ],
+      "sourceVerdict": "BDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 30,
+    "type": "move_warning_after_grading",
+    "before": "Le corrigé utilise une définition restrictive du sport centrée sur compétition et performance. Garder la réponse BDE pour cette épreuve."
+  },
+  {
+    "bank": "colle2",
+    "id": 38,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-38-all-2",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "La « règle des 15 » est la règle retenue par le tutorat ; ses modalités doivent être distinguées de recommandations de premiers secours récentes. L’affirmation de l’absence de cicatrice en moins de 10 jours est très générale. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 10,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=10"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 18,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=18"
+        }
+      ],
+      "sourceVerdict": "ABDE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 38,
+    "type": "move_warning_after_grading",
+    "before": "La « règle des 15 » est la règle retenue par le tutorat ; ses modalités doivent être distinguées de recommandations de premiers secours récentes. L’affirmation de l’absence de cicatrice en moins de 10 jours est très générale."
+  },
+  {
+    "bank": "colle2",
+    "id": 43,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-43-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item E : le tutorat écrit qu’il est « vrai », mais le refuse parce que la consigne porte sur les distances relationnelles. De plus, sa formulation mêle communication verbale et non verbale. Clé officielle AB. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 11,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=11"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 20,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=20"
+        }
+      ],
+      "sourceVerdict": "AB",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 43,
+    "type": "move_warning_after_grading",
+    "before": "Item E : le tutorat écrit qu’il est « vrai », mais le refuse parce que la consigne porte sur les distances relationnelles. De plus, sa formulation mêle communication verbale et non verbale. Clé officielle AB."
+  },
+  {
+    "bank": "colle2",
+    "id": 46,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-46-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item E sur le « care » : le tutorat reconnaît que l’affirmation est vraie, mais l’écarte car sans rapport avec la Golden Hour. Clé AC. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 12,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=12"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 22,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=22"
+        }
+      ],
+      "sourceVerdict": "AC",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 46,
+    "type": "move_warning_after_grading",
+    "before": "Item E sur le « care » : le tutorat reconnaît que l’affirmation est vraie, mais l’écarte car sans rapport avec la Golden Hour. Clé AC."
+  },
+  {
+    "bank": "colle2",
+    "id": 48,
+    "type": "move_warning_after_grading",
+    "before": "Item E : infection nosocomiale définie comme une infection qui « se déclare dans les 48 h » après hospitalisation, alors que la règle usuelle faute d’autre information est une apparition au moins 48 h après l’admission. Le corrigé CDE semble erroné sur E."
+  },
+  {
+    "bank": "colle2",
+    "id": 50,
+    "type": "move_warning_after_grading",
+    "before": "Le corrigé des notions de justesse, biais et bruit mélange précision et exactitude ; il comporte également une référence à « l’item C » au moment de commenter C."
+  },
+  {
+    "bank": "colle2",
+    "id": 54,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-54-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le document affirme une baisse de mortalité dans les deux groupes après l’usage de chlorure de chaux, sans fournir le tableau ni la période. Le contraste historique entre les deux cliniques demande à être vérifié ; aucune nouvelle clé n’est déduite de cette réserve. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 14,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=14"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 26,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=26"
+        }
+      ],
+      "sourceVerdict": "ABCD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 54,
+    "type": "move_warning_after_grading",
+    "before": "Le document affirme une baisse de mortalité dans les deux groupes après l’usage de chlorure de chaux, sans fournir le tableau ni la période. Le contraste historique entre les deux cliniques demande à être vérifié ; aucune nouvelle clé n’est déduite de cette réserve."
+  },
+  {
+    "bank": "colle2",
+    "id": 63,
+    "type": "move_warning_after_grading",
+    "before": "Item C : en France le don d’ovocytes n’est pas rémunéré mais les frais peuvent être remboursés. Ne pas confondre remboursement de frais et rétribution de pénibilité."
+  },
+  {
+    "bank": "colle2",
+    "id": 64,
+    "type": "move_warning_after_grading",
+    "before": "Item E : « la GPA est autorisée en Europe » est imprécis, et la justification du tutorat « elle reste interdite » ne vaut pas pour tous les pays européens. A et C sont formulées de façon très générale. Clé officielle ABC conservée."
+  },
+  {
+    "bank": "colle2",
+    "id": 66,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-66-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item A : compté faux en raison du choix « famille normale » plutôt que « famille ordinaire », sans contester directement la fonction de tiers séparateur. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 17,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=17"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 30,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=30"
+        }
+      ],
+      "sourceVerdict": "BCE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 66,
+    "type": "move_warning_after_grading",
+    "before": "Item A : compté faux en raison du choix « famille normale » plutôt que « famille ordinaire », sans contester directement la fonction de tiers séparateur."
+  },
+  {
+    "bank": "colle2",
+    "id": 68,
+    "type": "move_warning_after_grading",
+    "before": "Item A : le corrigé conteste à Jenner la mise au point du premier vaccin au motif de son caractère expérimental, alors qu’il est couramment reconnu comme pionnier du premier vaccin efficace contre la variole. L’énoncé dit « contre la variole de vache », ce qui ajoute une ambiguïté. Clé BD conservée."
+  },
+  {
+    "bank": "colle2",
+    "id": 69,
+    "type": "move_warning_after_grading",
+    "before": "Item B : le corrigé décrit l’Evidence-Based Medicine comme une base de données. L’EBM désigne une démarche de décision clinique et non une base de données."
+  },
+  {
+    "bank": "colle2",
+    "id": 75,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-75-all-2",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item E : la correction le classe faux tout en confirmant explicitement que le quotient émotionnel peut être amélioré, sans réfuter l’autre partie de la phrase. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 19,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=19"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 35,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=35"
+        }
+      ],
+      "sourceVerdict": "AC",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 75,
+    "type": "move_warning_after_grading",
+    "before": "Item E : la correction le classe faux tout en confirmant explicitement que le quotient émotionnel peut être amélioré, sans réfuter l’autre partie de la phrase."
+  },
+  {
+    "bank": "colle2",
+    "id": 76,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle2-76-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Item B : le corrigé conteste « quand on veut, on peut » déresponsabilise les politiques à l’aide d’une justification qui ne répond pas à la proposition. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Sujet Colle 2 SSH PDF (1).pdf",
+          "page": 19,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=19"
+        },
+        {
+          "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+          "page": 35,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=35"
+        }
+      ],
+      "sourceVerdict": "ACE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle2",
+    "id": 76,
+    "type": "move_warning_after_grading",
+    "before": "Item B : le corrigé conteste « quand on veut, on peut » déresponsabilise les politiques à l’aide d’une justification qui ne répond pas à la proposition."
+  },
+  {
+    "bank": "colle1",
+    "id": 12,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Probablement périmé : Item E (« 12 vaccins obligatoires », compté FAUX, « il y en a 11 ») : depuis le 1er janvier 2025, le méningocoque B est obligatoire et les méningocoques ACWY remplacent le C. Des sources officielles ou grand public parlent désormais de 12 (parfois 13) vaccins obligatoires pour les nourrissons. La correction semble datée ; tu avais bien répondu selon elle. Vérifie quel chiffre ton cours 2026 retient."
+  },
+  {
+    "bank": "colle1",
+    "id": 23,
+    "type": "move_warning_after_grading",
+    "before": "⚠ À vérifier : Item E (« dans 50 % des cas, le diagnostic est posé à la fin de l’interrogatoire ») : dans la littérature classique, on cite plutôt environ 70 à 80 %. La correction suit le chiffre du cours."
+  },
+  {
+    "bank": "colle1",
+    "id": 26,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Info : Les pourcentages du « cône d’apprentissage d’Edgar Dale » (10/20/30/…/90 %) sont très répandus mais non validés par des études ; ils sont attribués à tort à Dale. À connaître pour l’épreuve, mais ne pas les prendre pour des faits établis."
+  },
+  {
+    "bank": "colle1",
+    "id": 43,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-43-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "⚠ Formulation douteuse : Item D : « un patient ne peut être mis en cause… que s’il a commis une faute » : il s’agit sans doute de l’établissement ou du professionnel, pas du patient. Compté VRAI. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 10,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=10"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 16,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=16"
+        }
+      ],
+      "sourceVerdict": "AD",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 43,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Formulation douteuse : Item D : « un patient ne peut être mis en cause… que s’il a commis une faute » : il s’agit sans doute de l’établissement ou du professionnel, pas du patient. Compté VRAI."
+  },
+  {
+    "bank": "colle1",
+    "id": 64,
+    "type": "move_warning_after_grading",
+    "before": "⚠ À vérifier : Item A : Peter Safar est généralement présenté comme un médecin autrichien (né à Vienne) naturalisé américain, pas hongrois. Compté VRAI (tu l’avais coché)."
+  },
+  {
+    "bank": "colle1",
+    "id": 69,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-colle1-69-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "Le détail oppose ici « inductif » à « probabiliste/bayésien » sans définir ces termes. La clé AC est conservée comme convention de cette épreuve ; vérifier la portée terminologique de cette distinction dans le cours. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "Colle1_1_QCM_entrainement.pdf",
+          "page": 17,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=17"
+        },
+        {
+          "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+          "page": 26,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=26"
+        }
+      ],
+      "sourceVerdict": "AC",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "colle1",
+    "id": 69,
+    "type": "move_warning_after_grading",
+    "before": "Le détail oppose ici « inductif » à « probabiliste/bayésien » sans définir ces termes. La clé AC est conservée comme convention de cette épreuve ; vérifier la portée terminologique de cette distinction dans le cours."
+  },
+  {
+    "bank": "colle1",
+    "id": 70,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Discutable : Item C (« les souhaits antérieurs du patient constituent un élément pertinent pour orienter la décision ») est compté FAUX car ici ses volontés sont inconnues. Pris tel quel, l’énoncé est vrai en général (directives anticipées, personne de confiance) ; la correction l’interprète comme « ici, on n’a rien »."
+  },
+  {
+    "bank": "eb",
+    "id": 2,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Discutable : Item D « Un enfant HPI peut être dyslexique même si en proportion on retrouve plus de dyslexiques sans HPI » est compté FAUX. L’énoncé me paraît vrai (double exceptionnalité, et plus de dyslexiques non HPI par simple effet de nombre). À faire confirmer avec le cours du Dr Revol."
+  },
+  {
+    "bank": "eb",
+    "id": 3,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Probable erreur : Item E « Les enfants TDAH ont forcément un parent TDAH » est compté VRAI. Scientifiquement c’est faux : le TDAH est très héritable mais pas systématiquement transmis (mutations de novo, facteurs environnementaux). Le « forcément » rend l’énoncé faux. Tu as coché E et obtenu le point, mais retiens que c’est inexact."
+  },
+  {
+    "bank": "eb",
+    "id": 5,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Probable erreur : Item B « L’ocytocine est l’hormone du stress » est compté VRAI. C’est faux : l’ocytocine est l’hormone du lien et de l’attachement, libérée par le toucher, ce qui réduit le stress (l’hormone du stress est le cortisol). L’item C renvoie à « l’item C » (lui-même), énoncé mal construit. L’item E (le toucher impacte communication et sentiment de sécurité) est compté faux alors qu’il semble juste. L’item C renvoie à lui-même (« le mécanisme de l’item C »), ce qui le rend incomplet. Le document de correction signale aussi que l’item B sur l’ocytocine est vraisemblablement faux."
+  },
+  {
+    "bank": "eb",
+    "id": 6,
+    "type": "note_after_correction",
+    "note": {
+      "noteId": "ssh-v6-eb-6-all-1",
+      "kind": "source_ambiguity",
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "text": "L’item B est tronqué dans l’énoncé (« qui a l’appareil affectif pour »). Il est reproduit tel que fourni. Vérifier ce point dans la ronéo du cours correspondant.",
+      "refs": [
+        {
+          "file": "EB blanc SSH sujet .pdf",
+          "page": 2,
+          "label": "Sujet fourni",
+          "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=2"
+        },
+        {
+          "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+          "page": 3,
+          "label": "Corrigé fourni",
+          "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=3"
+        }
+      ],
+      "sourceVerdict": "DE",
+      "courseVerdict": null,
+      "coversWarning": true
+    }
+  },
+  {
+    "bank": "eb",
+    "id": 6,
+    "type": "move_warning_after_grading",
+    "before": "L’item B est tronqué dans l’énoncé (« qui a l’appareil affectif pour »). Il est reproduit tel que fourni."
+  },
+  {
+    "bank": "eb",
+    "id": 12,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Discutable : Item B (antibiorésistance corrélée à la consommation d’antibiotiques à l’échelle mondiale) est compté faux. Dans la littérature, la corrélation existe globalement mais n’est pas linéaire (hygiène, accès, transition antibiotique). Dépend de la nuance du cours."
+  },
+  {
+    "bank": "eb",
+    "id": 17,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Formulation ambiguë : Item A : « rappel à 3 mois » alors que 3 mois correspond à une injection de primo-vaccination du méningocoque B. Compté vrai."
+  },
+  {
+    "bank": "eb",
+    "id": 28,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Discutable : Item D « Cette loi a été votée en mai 2026 » est compté VRAI. D’après les sources officielles, la loi du 18 août 2026 sur l’aide à mourir a été adoptée définitivement le 15 juillet 2026 ; la loi votée et promulguée en mai 2026 (26 mai) est celle sur les soins palliatifs. Les items B et C sont confirmés (B vrai, C faux)."
+  },
+  {
+    "bank": "eb",
+    "id": 32,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Discutable : Item E (le protocole ne diminue pas significativement la mortalité) est compté FAUX. C’est vrai pour l’étude initiale de Rivers (2001), mais les grands essais suivants (ProCESS, ARISE, ProMISe) n’ont pas montré de bénéfice sur la mortalité. Dépend de ce que le cours a présenté."
+  },
+  {
+    "bank": "eb",
+    "id": 69,
+    "type": "move_warning_after_grading",
+    "before": "⚠ Probable erreur : Item A (circulation interrompue, plus d’oxygène, ischémie) est compté FAUX alors que l’énoncé est exact. Tu l’avais coché : c’est probablement une erreur de correction, tu aurais dû avoir 0,5 au lieu de 0,2."
+  }
+]

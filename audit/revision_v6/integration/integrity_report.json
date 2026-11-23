@@ -1,0 +1,251 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "baselineFilesChecked": 3625,
+  "localLinksChecked": 9522,
+  "capturesDecoded": 6383,
+  "pixelSamples": [
+    {
+      "bank": "acc",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/revision_v6/ssh/Sujet_ACC_SSH__2026-2027__PDF_.pdf",
+      "page": 3,
+      "src": "static/revision_v6/2e8baad6461dd83178791d6b.webp"
+    },
+    {
+      "bank": "acc",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/revision_v4/Correction_ACC_SSH_2026_2027_PDF_5289830c46.pdf",
+      "page": 2,
+      "src": "static/revision_v6/808e658c117dd8e6c3a6bcb4.webp"
+    },
+    {
+      "bank": "bio.cm2oral",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/revision_v6/Colles_orales_non_corrigees_60ae32e57c9a.pdf",
+      "page": 1,
+      "src": "static/revision_v6/8749829c3cff4e66d6effbc6.webp"
+    },
+    {
+      "bank": "bio.cm2oral",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/revision_v6/Colles_orales_corrigees_9d9b7f97e265.pdf",
+      "page": 1,
+      "src": "static/revision_v6/6dbb409951d1b5eb24979164.webp"
+    },
+    {
+      "bank": "histo.ann.te",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf",
+      "page": 1,
+      "src": "static/revision_v6/609e06ebb99f4bd26806f611.webp"
+    },
+    {
+      "bank": "histo.ann.te",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/revision_v4/Annales_Tissu_Epithelial_2020_2026_CORRECTION_1e6bf3af86.pdf",
+      "page": 1,
+      "src": "static/revision_v6/80994aff3bdfc63b6200b05c.webp"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/revision_v4/4_Autotest_Meiose_LS_CORRECTION_ab4f31738f.pdf",
+      "page": 1,
+      "src": "static/revision_v6/8e0a8925c4dbace94755148c.webp"
+    },
+    {
+      "bank": "embryo.aut.s3",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/revision_v6/4_Autotest_S3_DE_LS_ENONCE_9a8de53e4db1.pdf",
+      "page": 1,
+      "src": "static/revision_v6/4ef7c93e6286b250d5090869.webp"
+    },
+    {
+      "bank": "ue2.intro.autotest",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotests_Acides_Nucleiques_ENNONCE_fde6fd3107.pdf",
+      "page": 1,
+      "src": "static/revision_v6/faf9b8748bfc17fe9b3b9fe1.webp"
+    },
+    {
+      "bank": "ue2.intro.autotest",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/revision_v4/4_Autotests_Acides_Nucleiques_CORRECTION_5065962702.pdf",
+      "page": 1,
+      "src": "static/revision_v6/2800b40ceb6f75f29dfe7cb6.webp"
+    },
+    {
+      "bank": "annales.ue2c.proteines.2025s1",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 10,
+      "src": "static/revision_v6/55508a336c63acd5da757a3a.webp"
+    },
+    {
+      "bank": "annales.ue2c.proteines.2025s1",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 30,
+      "src": "static/revision_v6/f8470606ec7ef0aab860c661.webp"
+    },
+    {
+      "bank": "annales.ue2c.chimie_org.2025s1",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 16,
+      "src": "static/revision_v6/e8563cc2a2ce35870b891863.webp"
+    },
+    {
+      "bank": "annales.ue2c.chimie_org.2025s1",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 41,
+      "src": "static/revision_v6/44b298bc1f05b6ab52d08618.webp"
+    },
+    {
+      "bank": "annales.ue3.2025-2026.s1",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 488,
+      "src": "static/revision_v6/23cacf88ed0f44ddbcf68f80.webp"
+    },
+    {
+      "bank": "annales.ue3.2025-2026.s1",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 495,
+      "src": "static/revision_v6/fbeb7b132408bd034046b13e.webp"
+    },
+    {
+      "bank": "ue4.annales.theme.sources-naturelles",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 705,
+      "src": "static/revision_v6/fadbf15d62e0c0f2b120ce82.webp"
+    },
+    {
+      "bank": "ue4.annales.theme.sources-naturelles",
+      "id": 1,
+      "role": "correction",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 718,
+      "src": "static/revision_v6/7768b1fb197db7bf3d5e5851.webp"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 25,
+      "role": "subject",
+      "source": "sources/revision_v4/ACC_membranes_biologiques_387bc17507.pdf",
+      "page": 15,
+      "src": "static/revision_v6/ce505f8c322d172b023ad815.webp"
+    },
+    {
+      "bank": "embryo.aut.s4",
+      "id": 23,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotest_S4_DE_LS_ENONCE_a3f1a6910c.pdf",
+      "page": 7,
+      "src": "static/revision_v6/cd7ee0662dac7bed2e1ad7a0.webp"
+    },
+    {
+      "bank": "embryo.aut.s4",
+      "id": 24,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotest_S4_DE_LS_ENONCE_a3f1a6910c.pdf",
+      "page": 7,
+      "src": "static/revision_v6/cd7ee0662dac7bed2e1ad7a0.webp"
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": 5,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_ENONCE_5ddcdafe1b.pdf",
+      "page": 2,
+      "src": "static/revision_v6/c227800048b405125d4ccf1f.webp"
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": 6,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_ENONCE_5ddcdafe1b.pdf",
+      "page": 2,
+      "src": "static/revision_v6/c227800048b405125d4ccf1f.webp"
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 2,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotests_Transcription_LS_ENONCE_a4ddf9fba8.pdf",
+      "page": 1,
+      "src": "static/revision_v6/94ad68d1e1d5b34ec17a292e.webp"
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 3,
+      "role": "subject",
+      "source": "sources/revision_v4/4_Autotests_Traduction_ENONCE_1d12cc3be3.pdf",
+      "page": 1,
+      "src": "static/revision_v6/db694120c9358cc2a1636dbe.webp"
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": 3,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 362,
+      "src": "static/revision_v6/064c6243edc16679d6b68b05.webp"
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": 5,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 363,
+      "src": "static/revision_v6/29278666dcf403da2d56fd51.webp"
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": 6,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 363,
+      "src": "static/revision_v6/7e39e94b632974e2af583971.webp"
+    },
+    {
+      "bank": "annales.ue2c.glucides.2020paces",
+      "id": 1,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 364,
+      "src": "static/revision_v6/7d5c733aecc4d3b85795e1ed.webp"
+    },
+    {
+      "bank": "ue4.annales.theme.conception-rationnelle",
+      "id": 22,
+      "role": "subject",
+      "source": "sources/Annales_compilation.pdf",
+      "page": 941,
+      "src": "static/revision_v6/9d8339333c994875be3f6afc.webp"
+    }
+  ],
+  "extraAssetsChecked": 191,
+  "questionFilenameTitles": 0
+}

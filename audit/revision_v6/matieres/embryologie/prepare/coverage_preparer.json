@@ -1,0 +1,201 @@
+{
+  "questions": 599,
+  "items": 3389,
+  "banks": 22,
+  "subjectCopies": 279,
+  "correctionCopies": 599,
+  "panels": 917,
+  "annotatedSubjectsAfterCorrection": 4,
+  "pendingFlags": 0,
+  "fieldChanges": 365,
+  "changesByField": {
+    "options": 12,
+    "answer": 1,
+    "sharedContexts": 10,
+    "images": 6,
+    "explanations": 328,
+    "sourceSubject": 1,
+    "subjectPage": 1,
+    "sourceEndPage": 1,
+    "warning": 1,
+    "imagesAfterCorrection": 4
+  },
+  "banksCoverage": [
+    {
+      "bank": "embryo.aut.meiose",
+      "questions": 15,
+      "items": 135,
+      "subjects": 0,
+      "corrections": 15,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "questions": 7,
+      "items": 106,
+      "subjects": 0,
+      "corrections": 7,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "questions": 19,
+      "items": 209,
+      "subjects": 0,
+      "corrections": 19,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "questions": 24,
+      "items": 163,
+      "subjects": 0,
+      "corrections": 24,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "questions": 13,
+      "items": 121,
+      "subjects": 0,
+      "corrections": 13,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "questions": 10,
+      "items": 50,
+      "subjects": 0,
+      "corrections": 10,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.s3",
+      "questions": 37,
+      "items": 205,
+      "subjects": 37,
+      "corrections": 37,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.s4",
+      "questions": 35,
+      "items": 256,
+      "subjects": 35,
+      "corrections": 35,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "questions": 9,
+      "items": 92,
+      "subjects": 9,
+      "corrections": 9,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "questions": 36,
+      "items": 180,
+      "subjects": 9,
+      "corrections": 36,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "questions": 21,
+      "items": 105,
+      "subjects": 3,
+      "corrections": 21,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.s1",
+      "questions": 13,
+      "items": 65,
+      "subjects": 3,
+      "corrections": 13,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.s2",
+      "questions": 14,
+      "items": 70,
+      "subjects": 5,
+      "corrections": 14,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.s3",
+      "questions": 39,
+      "items": 195,
+      "subjects": 39,
+      "corrections": 39,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.s4",
+      "questions": 41,
+      "items": 205,
+      "subjects": 41,
+      "corrections": 41,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.ann.coeur",
+      "questions": 24,
+      "items": 120,
+      "subjects": 24,
+      "corrections": 24,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "questions": 36,
+      "items": 124,
+      "subjects": 0,
+      "corrections": 36,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.col.fec",
+      "questions": 26,
+      "items": 129,
+      "subjects": 0,
+      "corrections": 26,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.col.s1",
+      "questions": 18,
+      "items": 86,
+      "subjects": 0,
+      "corrections": 18,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.col.s2",
+      "questions": 35,
+      "items": 164,
+      "subjects": 0,
+      "corrections": 35,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.col.s3",
+      "questions": 53,
+      "items": 258,
+      "subjects": 0,
+      "corrections": 53,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    },
+    {
+      "bank": "embryo.col.s4",
+      "questions": 74,
+      "items": 351,
+      "subjects": 74,
+      "corrections": 74,
+      "preparerCheckpoint": "complete_pending_independent_verification"
+    }
+  ]
+}

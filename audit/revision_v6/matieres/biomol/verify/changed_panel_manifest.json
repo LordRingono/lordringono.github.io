@@ -1,0 +1,1882 @@
+[
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        53.44,
+        588.2,
+        238.76
+      ]
+    },
+    "uses": [
+      [
+        "ue2.intro.annales",
+        5,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_001.png",
+    "index": 1
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Acide nucléiques LS CORRECTION.pdf",
+      "page": 4,
+      "rect": [
+        30,
+        398.9,
+        444.1,
+        548.7
+      ],
+      "purpose": "Contexte commun corrigé : trois bases pyrimidiques",
+      "contextId": "intro-pyrimidines-correction"
+    },
+    "uses": [
+      [
+        "ue2.intro.annales",
+        10,
+        "correction"
+      ],
+      [
+        "ue2.intro.annales",
+        11,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_002.png",
+    "index": 2
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        251.423,
+        437,
+        372.315
+      ]
+    },
+    "uses": [
+      [
+        "ue2.arn.autotest",
+        9,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_003.png",
+    "index": 3
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        437.3,
+        252.05,
+        559.05,
+        405.3
+      ],
+      "purpose": "Figure latérale complète, avec toutes ses lettres"
+    },
+    "uses": [
+      [
+        "ue2.arn.autotest",
+        9,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_004.png",
+    "index": 4
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        382.373,
+        437,
+        427.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.arn.autotest",
+        10,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_005.png",
+    "index": 5
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests ARN et métabolisme ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        427.5,
+        583.32,
+        517.775
+      ]
+    },
+    "uses": [
+      [
+        "ue2.arn.autotest",
+        10,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_006.png",
+    "index": 6
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+      "page": 1,
+      "rect": [
+        30,
+        524.713,
+        433,
+        630.965
+      ]
+    },
+    "uses": [
+      [
+        "ue2.arn.annales",
+        4,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_007.png",
+    "index": 7
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+      "page": 1,
+      "rect": [
+        434.56,
+        529.6,
+        569,
+        720.44
+      ],
+      "purpose": "Figure latérale complète, avec toutes ses lettres"
+    },
+    "uses": [
+      [
+        "ue2.arn.annales",
+        4,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_008.png",
+    "index": 8
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales ARN et métabolisme LS ENONCE.pdf",
+      "page": 1,
+      "rect": [
+        30,
+        641.023,
+        433,
+        747.365
+      ]
+    },
+    "uses": [
+      [
+        "ue2.arn.annales",
+        5,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_009.png",
+    "index": 9
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        18.569,
+        463,
+        124.965
+      ]
+    },
+    "uses": [
+      [
+        "ue2.traduction.autotest",
+        7,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_010.png",
+    "index": 10
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        464.56,
+        19.361,
+        574.841,
+        157.888
+      ],
+      "purpose": "Figure latérale complète, avec toutes ses lettres"
+    },
+    "uses": [
+      [
+        "ue2.traduction.autotest",
+        7,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_011.png",
+    "index": 11
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        134.869,
+        463,
+        165.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.traduction.autotest",
+        8,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_012.png",
+    "index": 12
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/4. Autotests Traduction ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        165.5,
+        583.32,
+        241.365
+      ]
+    },
+    "uses": [
+      [
+        "ue2.traduction.autotest",
+        8,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_013.png",
+    "index": 13
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        335.213,
+        433,
+        441.435
+      ]
+    },
+    "uses": [
+      [
+        "ue2.traduction.annales",
+        8,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_014.png",
+    "index": 14
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS ENONCE.pdf",
+      "page": 2,
+      "rect": [
+        434.8,
+        317.44,
+        562.28,
+        486.44
+      ],
+      "purpose": "Figure latérale complète, avec toutes ses lettres"
+    },
+    "uses": [
+      [
+        "ue2.traduction.annales",
+        8,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_015.png",
+    "index": 15
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Annales Traduction LS CORRECTION.pdf",
+      "page": 3,
+      "rect": [
+        30,
+        218.56,
+        583.32,
+        402.315
+      ]
+    },
+    "uses": [
+      [
+        "ue2.traduction.annales",
+        8,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_016.png",
+    "index": 16
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        44.5,
+        583.32,
+        142
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2013–2014 — Exon 1 et intron 1",
+      "contextId": "ue2.ed.annales.2013-2014-exon1.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        3,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        4,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_017.png",
+    "index": 17
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        612.663,
+        583.32,
+        725.023
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2014–2015 — Exon 40",
+      "contextId": "ue2.ed.annales.2014-2015-exon40.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        5,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        6,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        7,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_018.png",
+    "index": 18
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 3,
+      "rect": [
+        30,
+        541.113,
+        583.32,
+        800
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2015–2016 — SNP du gène ITGB3",
+      "contextId": "ue2.ed.annales.2015-2016-itgb3.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        8,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        9,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_019.png",
+    "index": 19
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS ENONCE-1.pdf",
+      "page": 4,
+      "rect": [
+        30,
+        18,
+        582,
+        367.5
+      ],
+      "purpose": "Énoncé commun : 2016–2017 — Exon 4 du gène TNNI3",
+      "contextId": "ue2.ed.annales.2016-2017-tnni3"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        10,
+        "subject"
+      ],
+      [
+        "ue2.ed.annales",
+        11,
+        "subject"
+      ],
+      [
+        "ue2.ed.annales",
+        12,
+        "subject"
+      ],
+      [
+        "ue2.ed.annales",
+        13,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_020.png",
+    "index": 20
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 5,
+      "rect": [
+        30,
+        19.163,
+        583.32,
+        367.5
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2016–2017 — Exon 4 du gène TNNI3",
+      "contextId": "ue2.ed.annales.2016-2017-tnni3.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        10,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        11,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        12,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        13,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_021.png",
+    "index": 21
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 7,
+      "rect": [
+        30,
+        19.163,
+        583.32,
+        534.553
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2017–2018 — Gène KCNE1",
+      "contextId": "ue2.ed.annales.2017-2018-kcne1.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        14,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        15,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        16,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_022.png",
+    "index": 22
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 9,
+      "rect": [
+        30,
+        19.163,
+        583.32,
+        573.193
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2018–2019 — Gène MYL3",
+      "contextId": "ue2.ed.annales.2018-2019-myl3.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        17,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        18,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        19,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_023.png",
+    "index": 23
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 11,
+      "rect": [
+        30,
+        19.283,
+        583.32,
+        550.633
+      ],
+      "purpose": "Contexte commun dans le corrigé : Annale « 2019–2018 » — Gène à 7 exons",
+      "contextId": "ue2.ed.annales.2019-2018-source-gene7exons.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        20,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        21,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_024.png",
+    "index": 24
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 12,
+      "rect": [
+        30,
+        51.203,
+        583.32,
+        448.8
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2020–2021, session 1 — Canal potassique",
+      "contextId": "ue2.ed.annales.2020-2021-s1-canal-potassique.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        22,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        23,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        24,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_025.png",
+    "index": 25
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 13,
+      "rect": [
+        30,
+        512.553,
+        583.32,
+        639.463
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2020–2021, session 2 — Exon 34",
+      "contextId": "ue2.ed.annales.2020-2021-s2-exon34.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        25,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        26,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_026.png",
+    "index": 26
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 14,
+      "rect": [
+        30,
+        225.823,
+        583.32,
+        323.693
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2021–2022 — Exon 4 du gène TNNI3",
+      "contextId": "ue2.ed.annales.2021-2022-tnni3.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        27,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        28,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        29,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_027.png",
+    "index": 27
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 14,
+      "rect": [
+        30,
+        573.9,
+        583.32,
+        607
+      ],
+      "purpose": "Fragment d’ADN commun aux QCM 2 et 3",
+      "contextId": "ue2.ed.annales.2021-2022-oligonucleotide.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        29,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_028.png",
+    "index": 28
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 15,
+      "rect": [
+        30,
+        283.933,
+        583.32,
+        367.253
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2022–2023 — Gène TNNT2",
+      "contextId": "ue2.ed.annales.2022-2023-tnnt2.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        30,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        31,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        32,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_029.png",
+    "index": 29
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 16,
+      "rect": [
+        30,
+        240.463,
+        583.32,
+        359.333
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2023–2024 — Exon 34 du gène MYBPC3",
+      "contextId": "ue2.ed.annales.2023-2024-mybpc3.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        33,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        34,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        35,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        36,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_030.png",
+    "index": 30
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 17,
+      "rect": [
+        30,
+        330.733,
+        583.32,
+        562.633
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2024–2025, session 1 — Gène PLN",
+      "contextId": "ue2.ed.annales.2024-2025-s1-pln.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        37,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        38,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        39,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        40,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_031.png",
+    "index": 31
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/3. Annales ED LS CORRECTION.pdf",
+      "page": 19,
+      "rect": [
+        30,
+        19.283,
+        583.32,
+        167.183
+      ],
+      "purpose": "Contexte commun dans le corrigé : 2024–2025, session 2 — Gène TNNC1",
+      "contextId": "ue2.ed.annales.2024-2025-s2-tnnc1.correction"
+    },
+    "uses": [
+      [
+        "ue2.ed.annales",
+        41,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        42,
+        "correction"
+      ],
+      [
+        "ue2.ed.annales",
+        43,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_032.png",
+    "index": 32
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        349.013,
+        583.32,
+        618
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        6,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_033.png",
+    "index": 33
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        618.5,
+        583.32,
+        813
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        7,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_034.png",
+    "index": 34
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/ED 2025-2026 PASS.pdf",
+      "page": 11,
+      "rect": [
+        45,
+        507,
+        570,
+        785
+      ],
+      "purpose": "Annexe originale : code génétique et liste des acides aminés",
+      "contextId": "code-genetique"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        16,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        21,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        22,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        23,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        36,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        37,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        38,
+        "subject"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        39,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_035.png",
+    "index": 35
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 6,
+      "rect": [
+        30,
+        572.655,
+        115,
+        600.655
+      ],
+      "purpose": "Clé de la question"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        19,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_036.png",
+    "index": 36
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 6,
+      "rect": [
+        116.5,
+        569.8,
+        570.5,
+        796.2
+      ],
+      "purpose": "Séquence : sites donneur et accepteur d’épissage"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        19,
+        "correction"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        20,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_037.png",
+    "index": 37
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 7,
+      "rect": [
+        30,
+        18,
+        583.32,
+        296.493
+      ],
+      "purpose": "Rappel d’épissage fourni en suite de page"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        19,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_038.png",
+    "index": 38
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 6,
+      "rect": [
+        30,
+        602.655,
+        115,
+        622
+      ],
+      "purpose": "Clé de la question"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        20,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_039.png",
+    "index": 39
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 10,
+      "rect": [
+        30,
+        18.723,
+        583.32,
+        34.8
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        26,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_040.png",
+    "index": 40
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 10,
+      "rect": [
+        35,
+        49.3,
+        454.6,
+        292.9
+      ],
+      "purpose": "Séquence corrigée : signal de polyadénylation"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        26,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_041.png",
+    "index": 41
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 10,
+      "rect": [
+        30,
+        35,
+        583.32,
+        292.9
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        27,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_042.png",
+    "index": 42
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 10,
+      "rect": [
+        35,
+        305.3,
+        570.5,
+        716.8
+      ],
+      "purpose": "Biogenèse des microARN : contexte commun aux Q28 et Q29"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        28,
+        "correction"
+      ],
+      [
+        "ue2.ed.2025-2026",
+        29,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_043.png",
+    "index": 43
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 12,
+      "rect": [
+        30,
+        18.723,
+        583.32,
+        281.6
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        31,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_044.png",
+    "index": 44
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 12,
+      "rect": [
+        30,
+        293.5,
+        300,
+        322.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        32,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_045.png",
+    "index": 45
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 12,
+      "rect": [
+        306.5,
+        286.6,
+        583.4,
+        438.7
+      ],
+      "purpose": "Tableau des substitutions par transition/transversion"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        32,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_046.png",
+    "index": 46
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 12,
+      "rect": [
+        35,
+        338.3,
+        277.8,
+        551.5
+      ],
+      "purpose": "Bases normale et mutée : contexte chimique commun aux Q32 et Q33"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        32,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_047.png",
+    "index": 47
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 12,
+      "rect": [
+        30,
+        322.493,
+        300,
+        563.033
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        33,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_048.png",
+    "index": 48
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 15,
+      "rect": [
+        30,
+        577.273,
+        583.32,
+        593.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        42,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_049.png",
+    "index": 49
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 15,
+      "rect": [
+        35,
+        607.8,
+        448.8,
+        811.0
+      ],
+      "purpose": "Amorce, brin matrice et allongement de l’ADN"
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        42,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_050.png",
+    "index": 50
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2025-2026.pdf",
+      "page": 15,
+      "rect": [
+        30,
+        593.8,
+        583.32,
+        813.04
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2025-2026",
+        43,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_051.png",
+    "index": 51
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        18.723,
+        583.32,
+        152.7
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        6,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_052.png",
+    "index": 52
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        153.1,
+        583.32,
+        192.903
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        7,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_053.png",
+    "index": 53
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        194.903,
+        594,
+        403.3
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        8,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_054.png",
+    "index": 54
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        403.6,
+        328,
+        580
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        9,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_055.png",
+    "index": 55
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        328.8,
+        474,
+        575.4,
+        643.45
+      ],
+      "purpose": "Acétylation et décompaction de la chromatine"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        9,
+        "correction"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        10,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_056.png",
+    "index": 56
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        580.1,
+        328,
+        639
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        10,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_057.png",
+    "index": 57
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        30,
+        643.4,
+        383,
+        810.2
+      ],
+      "purpose": "Code histone complet"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        11,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_058.png",
+    "index": 58
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        388,
+        742.4,
+        583.32,
+        803.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        12,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_059.png",
+    "index": 59
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 2,
+      "rect": [
+        35,
+        416.7,
+        325.8,
+        580.6
+      ],
+      "purpose": "Illustration QCM 9 explicitement citée dans ce corrigé"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        12,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_060.png",
+    "index": 60
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/UE2_ED 2026.pdf",
+      "page": 11,
+      "rect": [
+        45,
+        155,
+        570,
+        680
+      ],
+      "purpose": "Annexe originale : code génétique et liste des acides aminés",
+      "contextId": "code-genetique"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        16,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        23,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        24,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        35,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        37,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        38,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        39,
+        "subject"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        40,
+        "subject"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_061.png",
+    "index": 61
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 4,
+      "rect": [
+        35,
+        580.8,
+        570.5,
+        695.1
+      ],
+      "purpose": "Séquence de fin du gène : signal de polyadénylation commun aux Q21 et Q22"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        22,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_062.png",
+    "index": 62
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 5,
+      "rect": [
+        30,
+        293.8,
+        350,
+        366.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        24,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_063.png",
+    "index": 63
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 5,
+      "rect": [
+        354.6,
+        302.3,
+        565.2,
+        496.4
+      ],
+      "purpose": "ARNt porteur de proline et codon correspondant"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        24,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_064.png",
+    "index": 64
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 5,
+      "rect": [
+        18.5,
+        366.5,
+        350,
+        591
+      ],
+      "purpose": "Q25 et partie supérieure du chromosome"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        25,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_065.png",
+    "index": 65
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 5,
+      "rect": [
+        18.5,
+        589,
+        210,
+        632.2
+      ],
+      "purpose": "Suite du chromosome, sans la diapositive voisine"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        25,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_066.png",
+    "index": 66
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 5,
+      "rect": [
+        30,
+        630.5,
+        211,
+        816
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        26,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_067.png",
+    "index": 67
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 5,
+      "rect": [
+        211.7,
+        590.9,
+        565.3,
+        795.2
+      ],
+      "purpose": "Dénaturation, fusion et renaturation"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        26,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_068.png",
+    "index": 68
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 6,
+      "rect": [
+        35,
+        33.8,
+        570.5,
+        229.1
+      ],
+      "purpose": "Structure et nomenclature des bases : figure commune aux Q27 à Q29"
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        28,
+        "correction"
+      ],
+      [
+        "ue2.ed.2026-2027",
+        29,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_069.png",
+    "index": 69
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 7,
+      "rect": [
+        30,
+        18.723,
+        583.32,
+        274.3
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        33,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_070.png",
+    "index": 70
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 7,
+      "rect": [
+        30,
+        274.8,
+        583.32,
+        510.473
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        34,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_071.png",
+    "index": 71
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 8,
+      "rect": [
+        30,
+        18.723,
+        583.32,
+        212.5
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        37,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_072.png",
+    "index": 72
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 8,
+      "rect": [
+        30,
+        243.8,
+        595.32,
+        453.113
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        38,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_073.png",
+    "index": 73
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 8,
+      "rect": [
+        30,
+        455.113,
+        583.32,
+        581.4
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        39,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_074.png",
+    "index": 74
+  },
+  {
+    "panel": {
+      "file": "/workspace/scratch/f3cb3bb97377/sources_biomol/extracted/2. Correction ED 2026-2027.pdf",
+      "page": 8,
+      "rect": [
+        30,
+        597.8,
+        583.32,
+        813
+      ]
+    },
+    "uses": [
+      [
+        "ue2.ed.2026-2027",
+        40,
+        "correction"
+      ]
+    ],
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/biomol/verify/visual/approved_panel_075.png",
+    "index": 75
+  }
+]

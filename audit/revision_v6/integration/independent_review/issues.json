@@ -1,0 +1,109 @@
+{
+  "scope": "Independent V6 integration audit",
+  "status": "approved_after_fixes",
+  "issues": [
+    {
+      "id": "INT-001",
+      "severity": "high",
+      "title": "Annotated original PDF links bypassed the deferred source menu",
+      "status": "fixed_and_verified_on_release",
+      "affected": [
+        "annales.ue2c.lipides.2020paces/3",
+        "annales.ue2c.lipides.2020paces/5",
+        "annales.ue2c.lipides.2020paces/6",
+        "annales.ue2c.glucides.2020paces/1"
+      ],
+      "sourceEvidence": "Original qsource and sharedStatement sourceReference remained unconditional while sourceCopies.subject.afterCorrection and image gates were active.",
+      "fix": "Root gated individual links with subjectOriginalReady and shared-context links with sharedOriginalReady.",
+      "verifiedTests": [
+        "test_release.cjs"
+      ],
+      "results": [
+        "release_test_result.json",
+        "secondary/source_review.json"
+      ]
+    },
+    {
+      "id": "INT-002",
+      "severity": "high",
+      "title": "A shared annotated image unlocked after validating only its first rendered question",
+      "status": "fixed_and_verified_on_release",
+      "affected": [
+        "embryo.aut.s4/23-24",
+        "embryo.aut.coeur/5-6",
+        "annales.ue2c.lipides.2020paces/5-6"
+      ],
+      "sourceEvidence": "The original sharedStatement gate depended only on isCorrected(q), while its context belonged to multiple questions.",
+      "fix": "sharedOriginalReady now checks every member in QUESTIONS independently of the visible filtered list; subject copies use the same group condition.",
+      "verifiedTests": [
+        "test_release.cjs"
+      ],
+      "results": [
+        "release_test_result.json",
+        "secondary/source_review.json"
+      ]
+    },
+    {
+      "id": "INT-003",
+      "severity": "high",
+      "title": "A failed backup could be followed by overwriting the original progress key",
+      "status": "fixed_and_verified_on_release",
+      "affected": [
+        "Both profiles in all ten migrated banks when the browser storage quota prevents the backup key"
+      ],
+      "sourceEvidence": "The original migration assigned fallbackSessions before creating the backup and returned the migrated object after catching a storage error; save subsequently wrote it directly.",
+      "initialReproduction": "initial_backup_failure_result.json",
+      "fix": "v6PendingBackups plus persistV6Progress gate all later save writes until the original backup is created and verified.",
+      "verifiedTests": [
+        "test_backup_failure.cjs",
+        "test_backup_guard.cjs",
+        "test_release_storage.cjs"
+      ],
+      "results": [
+        "backup_failure_result.json",
+        "backup_guard_result.json",
+        "release_storage_result.json"
+      ]
+    },
+    {
+      "id": "INT-004",
+      "severity": "low",
+      "category": "test_oracle",
+      "title": "Synthetic unsorted selections caused a false runtime persistence failure",
+      "status": "fixed_and_verified",
+      "sourceEvidence": "The suite injected the approved key BDC directly as a selection; actual loadExam normalized the equivalent selection to BCD. Exact string comparison reported a false change.",
+      "initialReproduction": "initial_runtime_report.json",
+      "fix": "Root normalized all three synthetic selection injections as the UI does; the approved key and release file remained unchanged.",
+      "results": [
+        "../runtime_report.json"
+      ],
+      "verifiedResult": {
+        "result": "PASS",
+        "banks": 217,
+        "cardStates": 11249,
+        "keys": 2771,
+        "profiles": 434,
+        "migrationProfiles": 20
+      }
+    }
+  ],
+  "residualLimits": [
+    "No graphical browser verification is claimed; JavaScript tests use Node VM and the DOM adapter.",
+    "Semantic detection of unflagged image annotations depends on the nine independent documentary reviews.",
+    "Pixel equality was checked for 30 specified samples by the main integrity suite; all 6383 capture files were decoded and all 6762 crop-reference geometries checked, but no exhaustive individual visual review is claimed by this integration audit."
+  ],
+  "releaseSha256": "3b5438e47c8241431025e368f1a57628f390cfa6be394d057e415b8dd782f7c6",
+  "openBlockingIssues": 0,
+  "additionalVerifiedChanges": [
+    {
+      "origin": "Final report review by root",
+      "change": "Real compilation filename displayed; panel descriptions preserved in sourceLabel; pages grouped by source document.",
+      "result": "PASS",
+      "documentPageLabelsChecked": 5158,
+      "multiDocumentCopies": 67,
+      "semanticQuestionChanges": 0,
+      "cropChanges": 0,
+      "evidence": "release_comparison_result.json"
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+[
+  {
+    "status": "repaired",
+    "kind": "item_transcription",
+    "bank": "annales.ue2c.lipides.2019",
+    "id": 9,
+    "sourceNumber": 25,
+    "item": "B",
+    "before": "Les glycérophospholipides peuvent passer d’un feuillet à l’autre grâce à l’action d’une phospholipase",
+    "after": "Les glycérophospholipides peuvent passer d’un feuillet à l’autre grâce à l’action d’une phospholipase C.",
+    "evidence": {
+      "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+      "subjectPage": 406,
+      "correctionPage": 429
+    },
+    "reason": "La lettre C. continue la ligne précédente du même item B, elle ne commence pas un nouvel item. PDF non corrigé et répétition corrigée concordent. Clé inchangée."
+  },
+  {
+    "status": "repaired",
+    "kind": "capture_boundary",
+    "bank": "annales.ue2c.glucides.2022s2",
+    "id": 2,
+    "sourceNumber": 20,
+    "before": [
+      205.0500030517578,
+      434.2699890136719,
+      274.3500061035156,
+      449.30999755859375
+    ],
+    "after": [
+      205.0500030517578,
+      434.2699890136719,
+      280.0,
+      449.30999755859375
+    ],
+    "sourcePage": 222,
+    "reason": "La capture de la grille coupait le bord droit du E dans AE. Rectification après lecture visuelle de la page entière ; clé inchangée."
+  },
+  {
+    "status": "documented_source_conflict",
+    "kind": "official_key_conflict",
+    "bank": "annales.ue2c.lipides.2022s1",
+    "id": 1,
+    "sourceNumber": 25,
+    "grid": "N°25 BCD",
+    "detailedKey": "ADE",
+    "action": "Hors note inchangé ; divergences explicites dans les notes après correction."
+  },
+  {
+    "status": "documented_source_conflict",
+    "kind": "official_key_conflict",
+    "bank": "annales.ue2c.metabolisme.2022s1",
+    "id": 4,
+    "sourceNumber": 38,
+    "grid": "N°38 AB",
+    "detailedKey": "BC",
+    "action": "Hors note inchangé ; divergences explicites dans les notes après correction."
+  },
+  {
+    "status": "documented_source_conflict",
+    "kind": "official_key_conflict",
+    "bank": "annales.ue2c.glucides.2021s1",
+    "id": 4,
+    "sourceNumber": 34,
+    "grid": "N°34 ADE",
+    "detailedKey": "AD",
+    "action": "Hors note inchangé ; divergences explicites dans les notes après correction."
+  },
+  {
+    "status": "documented_source_conflict",
+    "kind": "official_key_conflict",
+    "bank": "annales.ue2c.metabolisme.2021s1",
+    "id": 2,
+    "sourceNumber": 36,
+    "grid": "N°36 ACD",
+    "detailedKey": "AC",
+    "action": "Hors note inchangé ; divergences explicites dans les notes après correction."
+  },
+  {
+    "status": "documented_source_conflict",
+    "kind": "official_key_conflict",
+    "bank": "annales.ue2c.proteines.2020s1",
+    "id": 1,
+    "sourceNumber": 18,
+    "grid": "N°18 ABD",
+    "detailedKey": "ABCD",
+    "action": "Hors note inchangé ; divergences explicites dans les notes après correction."
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "convention",
+    "bank": "annales.ue2c.glucides.2020paces",
+    "id": 1,
+    "sourceNumber": 24,
+    "items": [
+      "E"
+    ],
+    "noteId": "verify-v6-biochimie-2020paces-24-E",
+    "text": "Le cours distingue les termes anomère et épimère. Au sens général de l’IUPAC, des anomères cycliques sont aussi des épimères au carbone anomérique : ce ne sont pas des molécules identiques. La notation officielle est conservée selon la convention du cours ; vérifie dans la ronéo le vocabulaire attendu.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 384,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=384"
+      },
+      {
+        "file": "Roneo_glucides_2_du_vendredi_23_10_26_89b0203066.pdf",
+        "page": 1,
+        "label": "Ronéo glucides 2 — épimérie et anomérie",
+        "href": "sources/revision_v4/Roneo_glucides_2_du_vendredi_23_10_26_89b0203066.pdf#page=1"
+      },
+      {
+        "file": "IUPAC Gold Book — anomers",
+        "label": "IUPAC Gold Book — anomers",
+        "href": "https://goldbook.iupac.org/terms/view/A00373"
+      },
+      {
+        "file": "IUPAC Gold Book — epimers",
+        "label": "IUPAC Gold Book — epimers",
+        "href": "https://goldbook.iupac.org/terms/view/E02167"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.glucides.2020s2",
+    "id": 1,
+    "sourceNumber": 19,
+    "items": [
+      "E"
+    ],
+    "noteId": "verify-v6-biochimie-2020s2-19-E",
+    "text": "L’explication « tous les cétoses sont en cycle furanose » est trop générale. Pour le fructose libre en solution aqueuse, les mesures par RMN trouvent majoritairement une forme pyranose ; les formes liées peuvent être furanosiques. Cela ne justifie donc pas à lui seul « majoritaire chez l’Homme ». La clé officielle est conservée ; vérifie le contexte exact dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 349,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=349"
+      },
+      {
+        "file": "Roneo_glucides_2_du_vendredi_23_10_26_89b0203066.pdf",
+        "page": 2,
+        "label": "Ronéo glucides 2 — cyclisation du fructose",
+        "href": "sources/revision_v4/Roneo_glucides_2_du_vendredi_23_10_26_89b0203066.pdf#page=2"
+      },
+      {
+        "file": "Barclay et al., 2011 — tautomères du D-fructose mesurés par RMN",
+        "label": "Barclay et al., 2011 — tautomères du D-fructose mesurés par RMN",
+        "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3254704/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.enzymes.2023s1",
+    "id": 1,
+    "sourceNumber": 29,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2023s1-29-C",
+    "text": "Le mot « proche » dans le détail est imprécis : le site catalytique fait partie du site actif. Le corrigé 2021–2022 S1 Q23 C le formule explicitement. Le verdict Faux est conservé ; vérifie cette distinction dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 140,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=140"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 261,
+        "label": "Corrigé 2021–2022 S1 Q23 C — site catalytique dans le site actif",
+        "href": "sources/Annales_compilation.pdf#page=261"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.enzymes.2024s2",
+    "id": 1,
+    "sourceNumber": 17,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2024s2-17-C",
+    "text": "Cette formulation correspond au modèle oligomérique enseigné, mais ne vaut pas pour toutes les enzymes allostériques : la glucokinase humaine fonctionne comme un monomère et présente une coopérativité cinétique. La clé officielle est conservée ; vérifie dans la ronéo le modèle retenu.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 103,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=103"
+      },
+      {
+        "file": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "label": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3525530/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.enzymes.2023s2",
+    "id": 1,
+    "sourceNumber": 17,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2023s2-17-C",
+    "text": "Cette formulation correspond au modèle oligomérique enseigné, mais ne vaut pas pour toutes les enzymes allostériques : la glucokinase humaine fonctionne comme un monomère et présente une coopérativité cinétique. La clé officielle est conservée ; vérifie dans la ronéo le modèle retenu.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 167,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=167"
+      },
+      {
+        "file": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "label": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3525530/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.enzymes.2022s2",
+    "id": 1,
+    "sourceNumber": 15,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2022s2-15-C",
+    "text": "Cette formulation correspond au modèle oligomérique enseigné, mais ne vaut pas pour toutes les enzymes allostériques : la glucokinase humaine fonctionne comme un monomère et présente une coopérativité cinétique. La clé officielle est conservée ; vérifie dans la ronéo le modèle retenu.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 227,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=227"
+      },
+      {
+        "file": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "label": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3525530/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.enzymes.2018",
+    "id": 1,
+    "sourceNumber": 34,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2018-34-C",
+    "text": "Une cinétique sigmoïde ne prouve pas à elle seule une structure oligomérique : la glucokinase humaine monomérique fournit un contre-exemple. La réponse officielle est conservée pour le modèle du cours ; vérifie cette hypothèse dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 476,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=476"
+      },
+      {
+        "file": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "label": "Larion et al., 2012 — allostérie de la glucokinase monomérique, étude RMN",
+        "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3525530/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.lipides.2021s1",
+    "id": 6,
+    "sourceNumber": 30,
+    "items": [
+      "B"
+    ],
+    "noteId": "verify-v6-biochimie-2021s1-30-B",
+    "text": "Le rôle du cholestérol sur la fluidité dépend des conditions et de la composition de la membrane ; « rigidifie » n’est pas une règle universelle. La ronéo emploie ici cette simplification. La clé officielle est conservée ; vérifie le contexte de température et de composition retenu dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 267,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=267"
+      },
+      {
+        "file": "Roneo_cours_derives_isopreniques_du_vendredi_09_10_26_docx_b75de48b67.pdf",
+        "page": 5,
+        "label": "Ronéo dérivés isopréniques — cholestérol membranaire",
+        "href": "sources/revision_v4/Roneo_cours_derives_isopreniques_du_vendredi_09_10_26_docx_b75de48b67.pdf#page=5"
+      },
+      {
+        "file": "Étude expérimentale POPC/cholestérol, 2003 — fluidité selon la teneur en cholestérol",
+        "label": "Étude expérimentale POPC/cholestérol, 2003 — fluidité selon la teneur en cholestérol",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/12582817/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.lipides.2019",
+    "id": 9,
+    "sourceNumber": 25,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2019-25-C",
+    "text": "Le rôle du cholestérol sur la fluidité dépend des conditions et de la composition de la membrane ; « rigidifie » n’est pas une règle universelle. La ronéo emploie ici cette simplification. La clé officielle est conservée ; vérifie le contexte de température et de composition retenu dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 429,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=429"
+      },
+      {
+        "file": "Roneo_cours_derives_isopreniques_du_vendredi_09_10_26_docx_b75de48b67.pdf",
+        "page": 5,
+        "label": "Ronéo dérivés isopréniques — cholestérol membranaire",
+        "href": "sources/revision_v4/Roneo_cours_derives_isopreniques_du_vendredi_09_10_26_docx_b75de48b67.pdf#page=5"
+      },
+      {
+        "file": "Étude expérimentale POPC/cholestérol, 2003 — fluidité selon la teneur en cholestérol",
+        "label": "Étude expérimentale POPC/cholestérol, 2003 — fluidité selon la teneur en cholestérol",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/12582817/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.metabolisme.2018",
+    "id": 1,
+    "sourceNumber": 36,
+    "items": [
+      "A"
+    ],
+    "noteId": "verify-v6-biochimie-2018-36-A",
+    "text": "Le verdict Faux sur le principal combustible cérébral est conservé. En revanche, l’imperméabilité absolue aux acides gras est inexacte : du DHA entre dans le cerveau sous forme de lysophosphatidylcholine via MFSD2A. Cela ne signifie pas qu’il constitue le combustible principal du jeûne. Vérifie cette nuance dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 477,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=477"
+      },
+      {
+        "file": "Nguyen et al., Nature 2014 — transport du DHA sous forme de lysophosphatidylcholine par MFSD2A",
+        "label": "Nguyen et al., Nature 2014 — transport du DHA sous forme de lysophosphatidylcholine par MFSD2A",
+        "href": "https://www.nature.com/articles/nature13241"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "scientific_dispute",
+    "bank": "annales.ue2c.metabolisme.2020s1",
+    "id": 1,
+    "sourceNumber": 35,
+    "items": [
+      "C"
+    ],
+    "noteId": "verify-v6-biochimie-2020s1-35-C",
+    "text": "Le verdict Faux sur le principal combustible cérébral est conservé. En revanche, l’imperméabilité absolue aux acides gras est inexacte : du DHA entre dans le cerveau sous forme de lysophosphatidylcholine via MFSD2A. Cela ne signifie pas qu’il constitue le combustible principal du jeûne. Vérifie cette nuance dans la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 324,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=324"
+      },
+      {
+        "file": "Nguyen et al., Nature 2014 — transport du DHA sous forme de lysophosphatidylcholine par MFSD2A",
+        "label": "Nguyen et al., Nature 2014 — transport du DHA sous forme de lysophosphatidylcholine par MFSD2A",
+        "href": "https://www.nature.com/articles/nature13241"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "convention",
+    "bank": "annales.ue2c.metabolisme.2023s2",
+    "id": 3,
+    "sourceNumber": 26,
+    "items": [
+      "E"
+    ],
+    "noteId": "verify-v6-biochimie-2023s2-26-E",
+    "text": "Le bilan annoncé dépend des conventions ATP/coenzyme et du coût d’activation. Avec 2,5 ATP/NADH, 1,5 ATP/FADH₂ et 2 équivalents ATP d’activation, l’oxydation complète du palmitate donne 106 ATP. La clé officielle est conservée ; vérifie le barème énergétique de la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 171,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=171"
+      },
+      {
+        "file": "Lee et al., 1996 — mesure et conventions des rapports P/O mitochondriaux",
+        "label": "Lee et al., 1996 — mesure et conventions des rapports P/O mitochondriaux",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/8641569/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "convention",
+    "bank": "annales.ue2c.metabolisme.2022s1",
+    "id": 4,
+    "sourceNumber": 38,
+    "items": [
+      "E"
+    ],
+    "noteId": "verify-v6-biochimie-2022s1-38-E",
+    "text": "Le bilan annoncé dépend des conventions ATP/coenzyme et du coût d’activation. Avec 2,5 ATP/NADH, 1,5 ATP/FADH₂ et 2 équivalents ATP d’activation, l’oxydation complète du palmitate donne 106 ATP. La clé officielle est conservée ; vérifie le barème énergétique de la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 208,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=208"
+      },
+      {
+        "file": "Lee et al., 1996 — mesure et conventions des rapports P/O mitochondriaux",
+        "label": "Lee et al., 1996 — mesure et conventions des rapports P/O mitochondriaux",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/8641569/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "convention",
+    "bank": "annales.ue2c.metabolisme.2020s1",
+    "id": 5,
+    "sourceNumber": 39,
+    "items": [
+      "E"
+    ],
+    "noteId": "verify-v6-biochimie-2020s1-39-E",
+    "text": "Le bilan annoncé dépend des conventions ATP/coenzyme et du coût d’activation. Avec 2,5 ATP/NADH, 1,5 ATP/FADH₂ et 2 équivalents ATP d’activation, l’oxydation complète du palmitate donne 106 ATP. La clé officielle est conservée ; vérifie le barème énergétique de la ronéo.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 326,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=326"
+      },
+      {
+        "file": "Lee et al., 1996 — mesure et conventions des rapports P/O mitochondriaux",
+        "label": "Lee et al., 1996 — mesure et conventions des rapports P/O mitochondriaux",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/8641569/"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "source_incomplete",
+    "bank": "annales.ue2c.lipides.2025s1",
+    "id": 6,
+    "sourceNumber": 33,
+    "items": [
+      "D"
+    ],
+    "noteId": "verify-v6-biochimie-2025s1-33-D",
+    "text": "L’explication originale s’arrête réellement après « La sphingomyélinase hydrolyse ». La page suivante ne fournit pas de suite : ce n’est pas une coupure de la capture du site. Le verdict Faux du document est conservé ; consulte la ronéo pour le détail manquant.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 36,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=36"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 37,
+        "label": "Page suivant le détail incomplet",
+        "href": "sources/Annales_compilation.pdf#page=37"
+      }
+    ]
+  },
+  {
+    "status": "documented_after_grading",
+    "kind": "source_ambiguity",
+    "bank": "annales.ue2c.proteines.2020s1",
+    "id": 3,
+    "sourceNumber": 20,
+    "items": [
+      "B",
+      "C",
+      "D"
+    ],
+    "noteId": "verify-v6-biochimie-2020s1-20-BCD",
+    "text": "Le sujet et sa répétition corrigée impriment « pKa2 = ç ». Les valeurs employées dans B et le calcul du pI dans C suggèrent 9, sans erratum explicite. Pour D, le détail dit seulement « Plus au programme », sans Vrai/Faux ni justification ; la grille reste AE. Vérifie ces points dans la ronéo ou auprès du tutorat.",
+    "refs": [
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 318,
+        "label": "Corrigé original",
+        "href": "sources/Annales_compilation.pdf#page=318"
+      },
+      {
+        "file": "Sujets + corrections compilés.pdf",
+        "page": 303,
+        "label": "Sujet original avec pKa2 = ç",
+        "href": "sources/Annales_compilation.pdf#page=303"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "approved": true,
+  "status": "FEU_VERT_FINAL_AVEC_LIMITES_DOCUMENTAIRES_EXPLICITES",
+  "scope": "Pharmacologie UE4 V6 — 15 banques, 336 QCM, 1680 items",
+  "message": "Feu vert final pour intégrer les objets complets approved_reviewed.json et approved_crops.json. Les douze QCM sans notation fiable restent hors note ; les clés et réserves historiques sont conservées. La copie annotée 2019–2020 Q4 doit rester accessible seulement après validation.",
+  "reviewed": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/pharmaco/verify/approved_reviewed.json",
+    "sha256": "d603c3287fd1068bc7c2caa49ad5599ad25b677c2606889305a52b9b0e95323d"
+  },
+  "crops": {
+    "path": "/workspace/scratch/f3cb3bb97377/work/site_v6/pharmaco/verify/approved_crops.json",
+    "sha256": "af9448c6fbd4a2542d986fee59f66bf1964de84cb45749ca06504b1637c6d9b6"
+  },
+  "files": {
+    "approved_reviewed.json": "d603c3287fd1068bc7c2caa49ad5599ad25b677c2606889305a52b9b0e95323d",
+    "approved_crops.json": "af9448c6fbd4a2542d986fee59f66bf1964de84cb45749ca06504b1637c6d9b6",
+    "coverage.json": "243abaddc6e2aad1fce9032e5e65a56a71014179fcc3cbbc43f294dee4e390d7",
+    "issues.json": "5d46e130d1a9cead93258f652aae8a81d9e330a943ebb8d9df06bc5b5fbf918f",
+    "missing.json": "079515d2a78cd8ef3700d925b689e714a274284904d2bacaa11b21ed9885bff4",
+    "asset_manifest.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "summary": {
+    "banks": 15,
+    "series": 14,
+    "questionsCompared": 336,
+    "itemsComparedToSubject": 1680,
+    "correctionBlocksAvailable": 335,
+    "individualDetailsPrintedCompared": 1625,
+    "individualDetailsNotPrintedOrUnavailable": 55,
+    "graded": 324,
+    "ungraded": 12,
+    "allFalseGraded": 1,
+    "literalUnambiguousKeys": 329,
+    "ambiguousKeys": 1,
+    "subjectPanels": 338,
+    "correctionPanels": 731,
+    "cleanSubjectCopies": 335,
+    "annotatedSubjectCopiesAfterValidation": 1,
+    "absentSubjectCopies": 0,
+    "missingCorrectionCopies": 1,
+    "completeSubjectsVisuallyRead": 30,
+    "completeCorrectionsVisuallyRead": 29,
+    "interactiveFiguresVisuallyRead": 13,
+    "gridPagesVisuallyRead": 14,
+    "coursePagesVisuallyRead": 11,
+    "notesPreserved": 179,
+    "noteReferencesChecked": 282,
+    "removedIncorrectReferencesVerified": 20,
+    "itemStatusCounts": {
+      "verified_text_against_source": 1663,
+      "printed_individual_detail_verified": 1620,
+      "printed_detail_preserved_in_copy_with_documented_reservation_in_ui": 5,
+      "unavailable_no_correction": 5,
+      "not_printed_individually_key_only": 5,
+      "unavailable_hors_programme_no_key": 25,
+      "verified_visually_graphical_option": 15,
+      "not_printed_individually_general_reasoning_verified": 20,
+      "verified_visually_text_layer_artifact": 2
+    },
+    "sourceYears": [
+      "2018-2019",
+      "2025-2026"
+    ],
+    "omittedQuestionsInRepresentedSeries": 0,
+    "independentKeyDetailContradictions": [
+      {
+        "sourceId": "ue4:2020-2021:S2:q10",
+        "item": "B",
+        "key": "BDE",
+        "detailVerdict": "FAUX"
+      }
+    ]
+  },
+  "inputHashes": {
+    "prepare/reviewed.json": "b5b8b16db16e90a1ef6dbddcec67aeb991d03d93821213d50f3a21b502b4c6f3",
+    "prepare/crops.json": "af9448c6fbd4a2542d986fee59f66bf1964de84cb45749ca06504b1637c6d9b6",
+    "baseline_exams.json": "d195442f5c1ddf5a66b9fb7bc1780972aa2498091b2feaadac264863b774aae7",
+    "Annales_compilation.pdf": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec"
+  },
+  "integrationRequirements": [
+    "Utiliser les versions approuvées complètes.",
+    "Toutes les copies de corrigé et les 179 remarques restent après validation.",
+    "Propager subjectAfterCorrection de 2019–2020 Q4 à toutes les voies des copies originales ; la figure interactive propre reste visible.",
+    "Conserver les deux profils, clés de stockage, IDs et classement thématique ; aucun changement de ces données n’est demandé."
+  ],
+  "limitations": [
+    "Aucun corrigé n’existe dans les documents fournis pour 2021–2022 S1 Q13.",
+    "55 items ne disposent pas de détail individuel imprimé : ils ne sont pas qualifiés de justifiés par un texte absent.",
+    "Les réserves scientifiques non tranchées conservent les clés officielles ; aucune validation clinique ou réglementaire actuelle n’est revendiquée.",
+    "La présente approbation documentaire ne remplace pas les contrôles d’intégration de l’interface par l’agent principal."
+  ]
+}

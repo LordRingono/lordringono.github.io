@@ -1,0 +1,194 @@
+[
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 4,
+    "letter": "E",
+    "site": "VRAI — Voir le corrigé original détaillé ci-dessous (formules conservées).",
+    "source": null,
+    "correction_text": "\nExercice 4 :\n4. Une étude a pour objectif d'étudier l'effet de deux prises en charges sur la fonction rénale. Un total de 36\npatients est recruté́. Les patients sont repartis aléatoirement en deux groupes d'effectifs égaux. Le premier\ngroupe a comme traitement standard un inhibiteur de l'enzyme de conversion et le deuxième groupe un\nprogramme nutritionnel avec un régime pauvre en protéines et un suivi diététique. Le taux de créatinine\nplasmatique moyen est de 10,0 mg/L dans le groupe 1 avec une variance estimée de 8,0 (mg/L)2 et de 13,0\nmg/L dans le groupe 2 avec une variance estimée de 10,0 (mg/L)2.\nX1 et X2 sont les variables aléatoires qui représentent les données dans les populations respectives 1 et 2 dont\nles groupes 1 et 2 sont respectivement représentatifs.\nParmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :\n\n      A. La taille de chaque groupe est de 36 sujets\n      B. On doit supposer que X1 et X2 suivent des lois de Student\n      C. On doit supposer que X1 et X2 suivent des lois Normales\n      D. X1 et X2 peuvent avoir des variances théoriques σ12 et σ22 différentes (et le test reste applicable)\n       E. La variance commune à X1 et X2 est estimée à 9,0(mg/L)2\n\n\n     CE\n      A. FAUX : on nous dit que l’effectif total est de 36 sujets et a été équitablement réparti entre les 2 groupes.\n       Donc n1 = 18 et n2 = 18\n      B. FAUX : c’est le test qui suit une loi de Student\n      C. VRAI : pour pouvoir effecteur un test de Student, on doit supposer que les variables suivent une loi\n        Normale.\n      D. FAUX : les deux variables doivent être homoscédastiques, c’est-à-dire que les populations doivent avoir\n          la même variance.\n                      (𝒏𝟏−𝟏)𝒔𝟏𝟐+(𝒏𝟐−𝟏)𝒔𝟐𝟐   𝟏𝟕×𝟖+𝟏𝟕×𝟏𝟎       E. VRAI : 𝒔𝒄𝟐=          =       = 𝟗 (𝒎𝒈/𝑳)𝟐                       𝒏𝟏+𝒏𝟐−𝟐           𝟑𝟒"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "letter": "A",
+    "site": "",
+    "source": null,
+    "correction_text": "\n10. Les 100 patients sans métastases lors du diagnostic ont été suivis dans le temps pour détecter l’apparition\nde métastases. Tous les patients ont été suivis durant 10 ans, sauf ceux avec un diagnostic de métastases\ndurant le suivi (le suivi s’arrête lors du diagnostic). On a pu montrer à partir de cette étude que l’incidence de\nmétastases est plus élevée chez les hommes que chez les femmes.\nParmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :\n\n      A. Le nombre de personnes-années pour le calcul de l’incidence des métastases est de 10 × 100\n      B. Il est possible à partir de cette étude d’estimer le risque de survenue de métastases durant les 10\n        années\n      C. Il est possible à partir de cette étude d’estimer la prévalence de métastases à 10 ans\n      D. Le risque relatif de métastases à 10 ans entre les hommes et les femmes devrait être supérieur à 1\n       E. La différence de risque de métastases à 10 ans entre les hommes et les femmes devrait être supérieure\n        à 0\n\n\n     BDE\n       FAUX : Comme le suivi s’arrête lors du diagnostic de métastases, certains patients parmi les 100 ont\n        été suivi sur une période inférieure à 10 ans. Le nombre de personne-année est inférieur à 10 x 100.\n      B. VRAI : Le risque de survenue de métastases durant les 10 ans correspond à l’incidence, ce qu’une étude\n       de cohorte (suivi de patients indemnes dans le temps) permet d’obtenir.\n      C. FAUX : L’étude se base sur 100 patients sélectionnés indemnes, ils ne sont pas représentatifs de la\n        population générale. De plus, l’étude de cohorte ne permet pas de calculer une prévalence, c’est une\n        étude transversale qui nous aurait fallu.\n      D. VRAI : L’incidence de métastase est plus élevée chez les hommes que chez les femmes (l’ordre des\n       mots dans la phrase est important, on parle du RR homme sur femme donc le risque des homme sur\n          le risque des femmes). Donc RR > 1.\n       E. VRAI : Toujours en respectant l’ordre de la phrase, DR = Risque homme – Risque femme."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 9,
+    "letter": "D",
+    "site": "VRAI — Voir le corrigé original détaillé ci-dessous (formules conservées).",
+    "source": null,
+    "correction_text": "\nExercice 7\nUn essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle (groupe\ncontrôle) chez des patients avec un AVC dont le niveau d'ischémie est élevé (score ASPECT ≤ 5).\nPour les 250 patients de l’étude, le niveau d’ischémie (score ASPECT) a été évalué par les cliniciens des hôpitaux\n(score local), puis par deux experts (score centralisé). Les résultats des deux évaluations sont présentés dans le\ntableau ci-dessous :\n\n\n                  Score centralisé    Score centralisé\n              ≤ 3                3-5\n   Score local          45               30          75\n    ≤ 3\n   Score local          55              120         175\n       3-5\n                     100              150         250\n\n\nOn souhaite comparer la proportion de patients avec un score ASPECT ≤ 3 entre l'évaluation locale ou\ncentralisée. La statistique du test appropriée est 2,7.\n\n\n  Parmi les propositions suivantes, vous cocherez la (ou les) propositions(s) exacte(s).\n      A. On réalise un test du χ2 pour données indépendantes\n      B. Le nombre de paires discordantes est de 85\n      C. Le test peut être effectué en comparant, par exemple, la proportion 30/85 à la proportion théorique\n         0,5\n      D. La p-value du test de comparaison est inférieure à 5%\n       E. L’évaluation locale a tendance à sous-estimer la proportion de patients ayant un score ASPECT ≤ 3 par\n        rapport à l’évaluation centralisée, sans tenir compte de la significativité statistique\n\n\n     BCDE\n      A. FAUX : les données sont appariées. On effectue ici un test de Mc Nemar.\n      B. VRAI : les paires discordantes sont 30 + 55 = 85.\n      C. VRAI : le test de Mc Nemar consiste à tester si b/(b+c) est statistiquement différent de 0.5.\n       Si on prend b=30 et c=55, on compare ici la proportion 30/85 à 0,5.\n\n                         𝑏              30\n                            −0,5                        𝑏+𝑐           30+55−0,5      D. VRAI : |𝑧| = |          | = |          | ≈ 2,71\n                            √0,5(1−0,5)      √0,25\n                           𝑏+𝑐           30+55\n\n      |z|> 1,96\n      p-value < 0,05\n       E. VRAI : 75 < 100."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "letter": "A",
+    "site": "",
+    "source": null,
+    "correction_text": "                        Correction détaillée\n\n\n1. Parmi les propositions suivantes, cochez la proposition exacte.\n\n\n      A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile\n      B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile\n      C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne\n      D. 50% des valeurs d’un échantillon sont supérieurs à la médiane\n       E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile\n\n\n    D\n     FAUX : 75% des valeurs d’un échantillon sont supérieurs au 1° quartile (=25% sont donc inférieurs)\n     FAUX : 25% des valeurs d’un échantillon sont supérieur au 3° quartile (=75% sont donc inférieures)\n     FAUX : 50% des valeurs d’un échantillon sont supérieures à la médiane et non à la moyenne\n     VRAI : l’item reste vrai même en remplaçant “supérieures“ par “inférieures dans la question“\n     FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "letter": "B",
+    "site": "",
+    "source": null,
+    "correction_text": "                        Correction détaillée\n\n\n1. Parmi les propositions suivantes, cochez la proposition exacte.\n\n\n      A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile\n      B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile\n      C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne\n      D. 50% des valeurs d’un échantillon sont supérieurs à la médiane\n       E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile\n\n\n    D\n     FAUX : 75% des valeurs d’un échantillon sont supérieurs au 1° quartile (=25% sont donc inférieurs)\n     FAUX : 25% des valeurs d’un échantillon sont supérieur au 3° quartile (=75% sont donc inférieures)\n     FAUX : 50% des valeurs d’un échantillon sont supérieures à la médiane et non à la moyenne\n     VRAI : l’item reste vrai même en remplaçant “supérieures“ par “inférieures dans la question“\n     FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "letter": "C",
+    "site": "",
+    "source": null,
+    "correction_text": "                        Correction détaillée\n\n\n1. Parmi les propositions suivantes, cochez la proposition exacte.\n\n\n      A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile\n      B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile\n      C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne\n      D. 50% des valeurs d’un échantillon sont supérieurs à la médiane\n       E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile\n\n\n    D\n     FAUX : 75% des valeurs d’un échantillon sont supérieurs au 1° quartile (=25% sont donc inférieurs)\n     FAUX : 25% des valeurs d’un échantillon sont supérieur au 3° quartile (=75% sont donc inférieures)\n     FAUX : 50% des valeurs d’un échantillon sont supérieures à la médiane et non à la moyenne\n     VRAI : l’item reste vrai même en remplaçant “supérieures“ par “inférieures dans la question“\n     FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "letter": "D",
+    "site": "",
+    "source": null,
+    "correction_text": "                        Correction détaillée\n\n\n1. Parmi les propositions suivantes, cochez la proposition exacte.\n\n\n      A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile\n      B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile\n      C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne\n      D. 50% des valeurs d’un échantillon sont supérieurs à la médiane\n       E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile\n\n\n    D\n     FAUX : 75% des valeurs d’un échantillon sont supérieurs au 1° quartile (=25% sont donc inférieurs)\n     FAUX : 25% des valeurs d’un échantillon sont supérieur au 3° quartile (=75% sont donc inférieures)\n     FAUX : 50% des valeurs d’un échantillon sont supérieures à la médiane et non à la moyenne\n     VRAI : l’item reste vrai même en remplaçant “supérieures“ par “inférieures dans la question“\n     FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "letter": "E",
+    "site": "",
+    "source": null,
+    "correction_text": "                        Correction détaillée\n\n\n1. Parmi les propositions suivantes, cochez la proposition exacte.\n\n\n      A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile\n      B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile\n      C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne\n      D. 50% des valeurs d’un échantillon sont supérieurs à la médiane\n       E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile\n\n\n    D\n     FAUX : 75% des valeurs d’un échantillon sont supérieurs au 1° quartile (=25% sont donc inférieurs)\n     FAUX : 25% des valeurs d’un échantillon sont supérieur au 3° quartile (=75% sont donc inférieures)\n     FAUX : 50% des valeurs d’un échantillon sont supérieures à la médiane et non à la moyenne\n     VRAI : l’item reste vrai même en remplaçant “supérieures“ par “inférieures dans la question“\n     FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 8,
+    "letter": "B",
+    "site": "VRAI — Voir le corrigé original détaillé ci-dessous (formules conservées).",
+    "source": null,
+    "correction_text": "\nExercice 7 :\n\nL’étude LockUWell s’est intéressée au bien-être mental des français durant le confinement. Le bien-être mental\na été évalué par l’échelle WEMWBS (qui va de 0 à 100, O  : très mauvais, 100  : très bon) au moyen de\nquestionnaires remplis en ligne. Parmi les 4000 répondants en télétravail, la moyenne WEMWBS a été estimée\nà 50,2 ; parmi les 2000 répondants travaillant en présentiel, la moyenne a été estimée à 50,7. L’écart-type\ncommun a été estimé à 8. On souhaite comparer le bien-être mental entre les individus en télétravail et ceux\ntravaillant en présentiel\nOn donne √4000 ≈ 36\n             3\n\n\n8. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :\n      A. Le test statistique à réaliser est un test de comparaison de moyennes estimées sur données appariées\n      B. La statistique du test de l’écart réduit est supérieure à 1,96\n      C. Les moyennes de bien-être des deux groupes sont significativement différentes, au risque d’erreur 5%\n      D. En utilisant un outil de mesure du bien-être moins fluctuant (écart-type plus faible), la statistique de\n          l’écart réduit aurait été plus élevée (toute chose égale par ailleurs)\n       E. La différence de moyenne de WEMWBS est importante sur le plan clinique\n\n\n    BCD\n      A. FAUX : les données ne sont pas appariées.\n\n                      50,7− 50,2                                             0,5          0,5                                                                       0,5                                                                                  0,5\n                 =                              =                                  =                                        = 0,5 × √4000 × 1      B. VRAI : on a\n                √82    82   √64    64 √64   128    √3× 64  √  3                 3    8                       4000+2000     4000+2000  4000+4000      4000     4000×8\n\n          1\n    =       × √4000 × 1 = 36 ×  1 = 9×4 = 2,25\n          2      3    8           16    4×4\n      C. VRAI : cf B\n      D. VRAI\n       E. FAUX : les valeurs 50,7 et 50,2 témoignent toutes les deux d’un bien-être mental moyen sur l’échelle\n       de WEMWBS. Donc même si elles sont différentes sur le plan statistique, la différence de moyenne\n         n’est pas importante sur le plan clinique."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "letter": "A",
+    "site": "",
+    "source": null,
+    "correction_text": "2.  Calculez et indiquez la probabilité d’observer la variable aléatoire F inférieure à 0,78 ou supérieure à\n    0,82 parmi les valeurs du tableau 1. Vous arrondirez la valeur lue dans la table de la fonction de\n    répartition de la loi normale centrée réduite sur la 2e décimale.\nABCD\nRappel : Pour ce genre d’exercice et les biostatistiques en général, faire des schémas est vital pour ne pas\n   se tromper ou bien voir des liens entre les valeurs de l’énoncé (quand il y en a) !\nOn cherche P(F≤ 0.78) + P(F ≤ 0.82). Avec F suivant une loi normale N telle que N(µ=0.8;σ=0.04)\n(approximation possible Cf. QCM1 item C)\nVous pouvez remarquer que 0.78 et 0.82 sont disposés symétriquement par rapport à la moyenne\nthéorique µ de F grâce à votre schéma. On a donc P(F≤ 0.78) = P(F ≤ 0.82).\nP (F≤0.78) = P (U≤(0.78-0.8)/0.04)\n = P (U≤ -0.02/0.04)\n = P (U≤ -0,5)\n = 1-P(U≤0,5)\n =1-0,6915 (par lecture du tableau de la fonction de répartition de la variable NCR notée U)\n = 0,3085\n Ainsi P(F≤ 0.78) + P(F ≤ 0.82) = 2P(F≤0,78)= 2x0,3085 = 2x0,31 =0,62 car arrondi à la deuxième décimale\n   (centième) près."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "letter": "B",
+    "site": "",
+    "source": null,
+    "correction_text": "2.  Calculez et indiquez la probabilité d’observer la variable aléatoire F inférieure à 0,78 ou supérieure à\n    0,82 parmi les valeurs du tableau 1. Vous arrondirez la valeur lue dans la table de la fonction de\n    répartition de la loi normale centrée réduite sur la 2e décimale.\nABCD\nRappel : Pour ce genre d’exercice et les biostatistiques en général, faire des schémas est vital pour ne pas\n   se tromper ou bien voir des liens entre les valeurs de l’énoncé (quand il y en a) !\nOn cherche P(F≤ 0.78) + P(F ≤ 0.82). Avec F suivant une loi normale N telle que N(µ=0.8;σ=0.04)\n(approximation possible Cf. QCM1 item C)\nVous pouvez remarquer que 0.78 et 0.82 sont disposés symétriquement par rapport à la moyenne\nthéorique µ de F grâce à votre schéma. On a donc P(F≤ 0.78) = P(F ≤ 0.82).\nP (F≤0.78) = P (U≤(0.78-0.8)/0.04)\n = P (U≤ -0.02/0.04)\n = P (U≤ -0,5)\n = 1-P(U≤0,5)\n =1-0,6915 (par lecture du tableau de la fonction de répartition de la variable NCR notée U)\n = 0,3085\n Ainsi P(F≤ 0.78) + P(F ≤ 0.82) = 2P(F≤0,78)= 2x0,3085 = 2x0,31 =0,62 car arrondi à la deuxième décimale\n   (centième) près."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "letter": "C",
+    "site": "",
+    "source": null,
+    "correction_text": "2.  Calculez et indiquez la probabilité d’observer la variable aléatoire F inférieure à 0,78 ou supérieure à\n    0,82 parmi les valeurs du tableau 1. Vous arrondirez la valeur lue dans la table de la fonction de\n    répartition de la loi normale centrée réduite sur la 2e décimale.\nABCD\nRappel : Pour ce genre d’exercice et les biostatistiques en général, faire des schémas est vital pour ne pas\n   se tromper ou bien voir des liens entre les valeurs de l’énoncé (quand il y en a) !\nOn cherche P(F≤ 0.78) + P(F ≤ 0.82). Avec F suivant une loi normale N telle que N(µ=0.8;σ=0.04)\n(approximation possible Cf. QCM1 item C)\nVous pouvez remarquer que 0.78 et 0.82 sont disposés symétriquement par rapport à la moyenne\nthéorique µ de F grâce à votre schéma. On a donc P(F≤ 0.78) = P(F ≤ 0.82).\nP (F≤0.78) = P (U≤(0.78-0.8)/0.04)\n = P (U≤ -0.02/0.04)\n = P (U≤ -0,5)\n = 1-P(U≤0,5)\n =1-0,6915 (par lecture du tableau de la fonction de répartition de la variable NCR notée U)\n = 0,3085\n Ainsi P(F≤ 0.78) + P(F ≤ 0.82) = 2P(F≤0,78)= 2x0,3085 = 2x0,31 =0,62 car arrondi à la deuxième décimale\n   (centième) près."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "letter": "D",
+    "site": "",
+    "source": null,
+    "correction_text": "2.  Calculez et indiquez la probabilité d’observer la variable aléatoire F inférieure à 0,78 ou supérieure à\n    0,82 parmi les valeurs du tableau 1. Vous arrondirez la valeur lue dans la table de la fonction de\n    répartition de la loi normale centrée réduite sur la 2e décimale.\nABCD\nRappel : Pour ce genre d’exercice et les biostatistiques en général, faire des schémas est vital pour ne pas\n   se tromper ou bien voir des liens entre les valeurs de l’énoncé (quand il y en a) !\nOn cherche P(F≤ 0.78) + P(F ≤ 0.82). Avec F suivant une loi normale N telle que N(µ=0.8;σ=0.04)\n(approximation possible Cf. QCM1 item C)\nVous pouvez remarquer que 0.78 et 0.82 sont disposés symétriquement par rapport à la moyenne\nthéorique µ de F grâce à votre schéma. On a donc P(F≤ 0.78) = P(F ≤ 0.82).\nP (F≤0.78) = P (U≤(0.78-0.8)/0.04)\n = P (U≤ -0.02/0.04)\n = P (U≤ -0,5)\n = 1-P(U≤0,5)\n =1-0,6915 (par lecture du tableau de la fonction de répartition de la variable NCR notée U)\n = 0,3085\n Ainsi P(F≤ 0.78) + P(F ≤ 0.82) = 2P(F≤0,78)= 2x0,3085 = 2x0,31 =0,62 car arrondi à la deuxième décimale\n   (centième) près."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "letter": "E",
+    "site": "",
+    "source": null,
+    "correction_text": "2.  Calculez et indiquez la probabilité d’observer la variable aléatoire F inférieure à 0,78 ou supérieure à\n    0,82 parmi les valeurs du tableau 1. Vous arrondirez la valeur lue dans la table de la fonction de\n    répartition de la loi normale centrée réduite sur la 2e décimale.\nABCD\nRappel : Pour ce genre d’exercice et les biostatistiques en général, faire des schémas est vital pour ne pas\n   se tromper ou bien voir des liens entre les valeurs de l’énoncé (quand il y en a) !\nOn cherche P(F≤ 0.78) + P(F ≤ 0.82). Avec F suivant une loi normale N telle que N(µ=0.8;σ=0.04)\n(approximation possible Cf. QCM1 item C)\nVous pouvez remarquer que 0.78 et 0.82 sont disposés symétriquement par rapport à la moyenne\nthéorique µ de F grâce à votre schéma. On a donc P(F≤ 0.78) = P(F ≤ 0.82).\nP (F≤0.78) = P (U≤(0.78-0.8)/0.04)\n = P (U≤ -0.02/0.04)\n = P (U≤ -0,5)\n = 1-P(U≤0,5)\n =1-0,6915 (par lecture du tableau de la fonction de répartition de la variable NCR notée U)\n = 0,3085\n Ainsi P(F≤ 0.78) + P(F ≤ 0.82) = 2P(F≤0,78)= 2x0,3085 = 2x0,31 =0,62 car arrondi à la deuxième décimale\n   (centième) près."
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "letter": "A",
+    "site": "",
+    "source": null,
+    "correction_text": "4.  Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les\n    valeurs numériques du tableau 2. Vous arrondirez le résultat final sur la 2e décimale.\n\n\n\n\n\n  AE\n       𝒎− 𝝁𝟎    (𝟏𝟑𝟑−𝟏𝟑𝟓)     𝟓× 𝟐      𝟏𝟎      𝟓     𝟑   𝟐\n  𝒕𝒐𝒃𝒔=    =      = −   = −   −   −         𝟏, 𝟔𝟔𝟔𝟔… . ≈ −𝟏, 𝟔𝟕                                  𝟔    𝟔=  𝟑=  𝟑− 𝟑=           √(𝒔𝟐        √𝟑𝟔            𝒏)          𝟐𝟓"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "letter": "B",
+    "site": "",
+    "source": null,
+    "correction_text": "4.  Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les\n    valeurs numériques du tableau 2. Vous arrondirez le résultat final sur la 2e décimale.\n\n\n\n\n\n  AE\n       𝒎− 𝝁𝟎    (𝟏𝟑𝟑−𝟏𝟑𝟓)     𝟓× 𝟐      𝟏𝟎      𝟓     𝟑   𝟐\n  𝒕𝒐𝒃𝒔=    =      = −   = −   −   −         𝟏, 𝟔𝟔𝟔𝟔… . ≈ −𝟏, 𝟔𝟕                                  𝟔    𝟔=  𝟑=  𝟑− 𝟑=           √(𝒔𝟐        √𝟑𝟔            𝒏)          𝟐𝟓"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "letter": "C",
+    "site": "",
+    "source": null,
+    "correction_text": "4.  Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les\n    valeurs numériques du tableau 2. Vous arrondirez le résultat final sur la 2e décimale.\n\n\n\n\n\n  AE\n       𝒎− 𝝁𝟎    (𝟏𝟑𝟑−𝟏𝟑𝟓)     𝟓× 𝟐      𝟏𝟎      𝟓     𝟑   𝟐\n  𝒕𝒐𝒃𝒔=    =      = −   = −   −   −         𝟏, 𝟔𝟔𝟔𝟔… . ≈ −𝟏, 𝟔𝟕                                  𝟔    𝟔=  𝟑=  𝟑− 𝟑=           √(𝒔𝟐        √𝟑𝟔            𝒏)          𝟐𝟓"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "letter": "D",
+    "site": "",
+    "source": null,
+    "correction_text": "4.  Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les\n    valeurs numériques du tableau 2. Vous arrondirez le résultat final sur la 2e décimale.\n\n\n\n\n\n  AE\n       𝒎− 𝝁𝟎    (𝟏𝟑𝟑−𝟏𝟑𝟓)     𝟓× 𝟐      𝟏𝟎      𝟓     𝟑   𝟐\n  𝒕𝒐𝒃𝒔=    =      = −   = −   −   −         𝟏, 𝟔𝟔𝟔𝟔… . ≈ −𝟏, 𝟔𝟕                                  𝟔    𝟔=  𝟑=  𝟑− 𝟑=           √(𝒔𝟐        √𝟑𝟔            𝒏)          𝟐𝟓"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "letter": "E",
+    "site": "",
+    "source": null,
+    "correction_text": "4.  Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les\n    valeurs numériques du tableau 2. Vous arrondirez le résultat final sur la 2e décimale.\n\n\n\n\n\n  AE\n       𝒎− 𝝁𝟎    (𝟏𝟑𝟑−𝟏𝟑𝟓)     𝟓× 𝟐      𝟏𝟎      𝟓     𝟑   𝟐\n  𝒕𝒐𝒃𝒔=    =      = −   = −   −   −         𝟏, 𝟔𝟔𝟔𝟔… . ≈ −𝟏, 𝟔𝟕                                  𝟔    𝟔=  𝟑=  𝟑− 𝟑=           √(𝒔𝟐        √𝟑𝟔            𝒏)          𝟐𝟓"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "letter": "A",
+    "site": "",
+    "source": null,
+    "correction_text": "\n2. A l’aide du tableau 1, donnez la borne supérieure de l’intervalle de confiance à 95% du score Apache II dans\nle service « S ». Vous arrondirez la valeur lue dans la table à la demi-unité, en ne gardant qu’un chiffre après\nla virgule. Dans le résultat final, vous ne garderez qu’un chiffre après la virgule tout en garantissant la\nconfiance à 0,95.\n\n\n\n\n\n    ABCD\n    On cherche l’intervalle de confiance à 95% du score Apache II dans le service « S ». On a moyenne=20 et\n      écart-type=6 pour un effectif de 81 patients. Comme n≥30 on a U(α)=1,96=2 On a donc :\n      IC(95%)= m ± U(α) × σ/√n\n   IC(95%)= 20 ± 2 × 6/√81\n   IC(95%)= 20 ± 2 × 6/9\n   IC(95%)= 20 ± 12/9\n   IC(95%)= 20 ± 4/3\n   IC(95%)= 20 ± 1,33\n     Donc IC(95%)= ]18,66 ; 21,33[\n    Comme on majore toujours la borne supérieure pour garantir les 95% de l’intervalle on arrondit donc la\n     borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "letter": "B",
+    "site": "",
+    "source": null,
+    "correction_text": "\n2. A l’aide du tableau 1, donnez la borne supérieure de l’intervalle de confiance à 95% du score Apache II dans\nle service « S ». Vous arrondirez la valeur lue dans la table à la demi-unité, en ne gardant qu’un chiffre après\nla virgule. Dans le résultat final, vous ne garderez qu’un chiffre après la virgule tout en garantissant la\nconfiance à 0,95.\n\n\n\n\n\n    ABCD\n    On cherche l’intervalle de confiance à 95% du score Apache II dans le service « S ». On a moyenne=20 et\n      écart-type=6 pour un effectif de 81 patients. Comme n≥30 on a U(α)=1,96=2 On a donc :\n      IC(95%)= m ± U(α) × σ/√n\n   IC(95%)= 20 ± 2 × 6/√81\n   IC(95%)= 20 ± 2 × 6/9\n   IC(95%)= 20 ± 12/9\n   IC(95%)= 20 ± 4/3\n   IC(95%)= 20 ± 1,33\n     Donc IC(95%)= ]18,66 ; 21,33[\n    Comme on majore toujours la borne supérieure pour garantir les 95% de l’intervalle on arrondit donc la\n     borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "letter": "C",
+    "site": "",
+    "source": null,
+    "correction_text": "\n2. A l’aide du tableau 1, donnez la borne supérieure de l’intervalle de confiance à 95% du score Apache II dans\nle service « S ». Vous arrondirez la valeur lue dans la table à la demi-unité, en ne gardant qu’un chiffre après\nla virgule. Dans le résultat final, vous ne garderez qu’un chiffre après la virgule tout en garantissant la\nconfiance à 0,95.\n\n\n\n\n\n    ABCD\n    On cherche l’intervalle de confiance à 95% du score Apache II dans le service « S ». On a moyenne=20 et\n      écart-type=6 pour un effectif de 81 patients. Comme n≥30 on a U(α)=1,96=2 On a donc :\n      IC(95%)= m ± U(α) × σ/√n\n   IC(95%)= 20 ± 2 × 6/√81\n   IC(95%)= 20 ± 2 × 6/9\n   IC(95%)= 20 ± 12/9\n   IC(95%)= 20 ± 4/3\n   IC(95%)= 20 ± 1,33\n     Donc IC(95%)= ]18,66 ; 21,33[\n    Comme on majore toujours la borne supérieure pour garantir les 95% de l’intervalle on arrondit donc la\n     borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "letter": "D",
+    "site": "",
+    "source": null,
+    "correction_text": "\n2. A l’aide du tableau 1, donnez la borne supérieure de l’intervalle de confiance à 95% du score Apache II dans\nle service « S ». Vous arrondirez la valeur lue dans la table à la demi-unité, en ne gardant qu’un chiffre après\nla virgule. Dans le résultat final, vous ne garderez qu’un chiffre après la virgule tout en garantissant la\nconfiance à 0,95.\n\n\n\n\n\n    ABCD\n    On cherche l’intervalle de confiance à 95% du score Apache II dans le service « S ». On a moyenne=20 et\n      écart-type=6 pour un effectif de 81 patients. Comme n≥30 on a U(α)=1,96=2 On a donc :\n      IC(95%)= m ± U(α) × σ/√n\n   IC(95%)= 20 ± 2 × 6/√81\n   IC(95%)= 20 ± 2 × 6/9\n   IC(95%)= 20 ± 12/9\n   IC(95%)= 20 ± 4/3\n   IC(95%)= 20 ± 1,33\n     Donc IC(95%)= ]18,66 ; 21,33[\n    Comme on majore toujours la borne supérieure pour garantir les 95% de l’intervalle on arrondit donc la\n     borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1."
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "letter": "E",
+    "site": "",
+    "source": null,
+    "correction_text": "\n2. A l’aide du tableau 1, donnez la borne supérieure de l’intervalle de confiance à 95% du score Apache II dans\nle service « S ». Vous arrondirez la valeur lue dans la table à la demi-unité, en ne gardant qu’un chiffre après\nla virgule. Dans le résultat final, vous ne garderez qu’un chiffre après la virgule tout en garantissant la\nconfiance à 0,95.\n\n\n\n\n\n    ABCD\n    On cherche l’intervalle de confiance à 95% du score Apache II dans le service « S ». On a moyenne=20 et\n      écart-type=6 pour un effectif de 81 patients. Comme n≥30 on a U(α)=1,96=2 On a donc :\n      IC(95%)= m ± U(α) × σ/√n\n   IC(95%)= 20 ± 2 × 6/√81\n   IC(95%)= 20 ± 2 × 6/9\n   IC(95%)= 20 ± 12/9\n   IC(95%)= 20 ± 4/3\n   IC(95%)= 20 ± 1,33\n     Donc IC(95%)= ]18,66 ; 21,33[\n    Comme on majore toujours la borne supérieure pour garantir les 95% de l’intervalle on arrondit donc la\n     borne supérieure à 21,4 et donc on coche les réponses ABCD en se référant au tableau 1."
+  }
+]

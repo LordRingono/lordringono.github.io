@@ -1,0 +1,600 @@
+
+### bio.ann.cm2 ID 1 | ANSWER BDE | COMPLETE True
+PREP STEM: D’après la figure 1 et vos connaissances (cette question compte double) :
+SUBJECT
+Annales CM2 non corrigées.pdf p1 [0, 85.0, 595.3200073242188, 615.0]
+
+Annales CM2 non corrigées.pdf p1 [42.0, 320.0, 300.0, 460.0]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p1 [0, 86.0, 595.3200073242188, 810.0]
+
+SUBJECT MISMATCH A: Les cellules restent bloquées en phase G1 quel que soit le lysat analysé.
+DETAIL MISMATCH A: Les cellules ne restent pas en G1, elles repartent dans le cycle après retrait de l’inhibiteur.
+SUBJECT MISMATCH B: La quantité de cycline B est variable, avec un pic entre 8 et 10h après la remise en culture sans inhibiteur.
+DETAIL MISMATCH B: La cycline B varie et présente un pic vers 8–10 h, signe d’entrée en mitose (la cycline B est associée à l’entrée en phase G2/M, surtout la mitose).
+SUBJECT MISMATCH C: Cette PCR montre une variation d’expression des lamines A et C.
+DETAIL MISMATCH C: Ce n’est pas une PCR, c’est un Western blot, donc on analyse des protéines, pas l’expression d’ARN.
+SUBJECT MISMATCH D: À 9h, on note la présence de lamines A et C phosphorylées sur les sites Thr19 et Ser22.
+DETAIL MISMATCH D: À 9 h, on observe des lamines A/C phosphorylées sur Thr19 et Ser22.
+SUBJECT MISMATCH E: La phosphorylation des lamines A/C est maximale lors de la phase de mitose.
+DETAIL MISMATCH E: La phosphorylation des lamines A/C est maximale en mitose, où elle permet la désorganisation de l’enveloppe nucléaire.
+
+### bio.ann.cm2 ID 2 | ANSWER CDE | COMPLETE True
+PREP STEM: D’après la Figure 2 et vos connaissances générales (cette question compte double) :
+SUBJECT
+Annales CM2 non corrigées.pdf p2 [0, 32.0, 595.3200073242188, 465.0]
+
+Annales CM2 non corrigées.pdf p2 [50.0, 60.0, 278.0, 185.0]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p2 [0, 45.0, 595.3200073242188, 770.0]
+
+SUBJECT MISMATCH A: Cette observation est réalisée en microscopie électronique.
+DETAIL MISMATCH A: c’est de la microscopie à fluorescence (présence de fluorochrome: DAPI, marquage vert).
+SUBJECT MISMATCH B: La chromatine est condensée sous forme de chromosomes, les cellules sont probablement en phase G1.
+DETAIL MISMATCH B: la chromatine n’est pas condensée. On voit clairement l’aspect diffus du DAPI, donc les cellules sont en interphase et pas en mitose, donc certainement pas en G1 (chromosomes condensés).
+SUBJECT MISMATCH C: En condition WT, la lamine A présente la localisation sous-membranaire, qui est attendue en interphase (G1/S/G2).
+DETAIL MISMATCH C: en condition WT la lamine A forme un réseau sous la membrane nucléaire (typique des phases G1/S/G2).
+SUBJECT MISMATCH D: Le mutant T19D induit une relocalisation significative de la lamine A dans le nucléoplasme.
+DETAIL MISMATCH D: L’image montre une lamine moins périphérique et le graphique confirme une augmentation du ratio nucléoplasme/membrane, donc relocalisation significative (****) de la lamine vers le nucléoplasme.
+SUBJECT MISMATCH E: La phosphorylation en T19 et S22 de la lamine A est probablement en cause lors de la dépolymérisation de la lamine
+DETAIL MISMATCH E: la phosphorylation casse les interactions entre lamines, entraîne leur dépolymérisation et permet la désorganisation de l’enveloppe nucléaire. Les mutants T19D et S22D miment cela d’où la dispersion de la lamina nucléaire vers le nucléoplasme.
+
+### bio.ann.cm2 ID 3 | ANSWER BCE | COMPLETE True
+PREP STEM: D'après la figure 3 et vos connaissances (cette question compte double) :
+SUBJECT
+Annales CM2 non corrigées.pdf p3 [0, 32.0, 595.3200073242188, 445.0]
+
+Annales CM2 non corrigées.pdf p3 [40.0, 55.0, 193.0, 223.0]
+
+Annales CM2 non corrigées.pdf p1 [0, 201.0, 595.3200073242188, 306.0]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p3 [0, 45.0, 595.3200073242188, 683.0]
+
+SUBJECT MISMATCH A: La lamine A n'est présente qu'en mitose, son expression étant induite par le couple CDK1/cycline B.
+DETAIL MISMATCH A: La lamine A n’est pas présente uniquement en mitose. Elle est une protéine constitutive de la lamina nucléaire, présente aussi en interphase. Ce qui change en mitose, c’est son état de phosphorylation, pas son expression.
+SUBJECT MISMATCH B: Le couple CDK1/cycline B induit la phosphorylation des lamines A et C en position Ser 22 et Thr19, lors de la mitose.
+DETAIL MISMATCH B: Le couple CDK1/cycline B phosphoryle les lamines A et C en mitose, notamment sur Ser22 et Thr19. La figure le montre : en condition mitotique Noc, la phosphorylation est forte, puis elle diminue avec l’inhibiteur de CDK1.
+SUBJECT MISMATCH C: L'inhibiteur Ro3306 bloque probablement la dépolymérisation de la lamina nucléaire lors de la mitose.
+DETAIL MISMATCH C: Ro3306 inhibe CDK1. Or CDK1 permet la phosphorylation des lamines, nécessaire à la dépolymérisation de la lamina nucléaire en mitose.
+SUBJECT MISMATCH D: La dépolymérisation des microtubules participe à la séparation des chromatides pendant la mitose.
+DETAIL MISMATCH D: Attention au piège : le nocodazole dépolymérise les microtubules, mais les microtubules du fuseau mitotique sont nécessaires à la séparation des chromatides. Donc leur dépolymérisation empêche la séparation correcte des chromatides, elle n’y participe pas.
+SUBJECT MISMATCH E: Les trois composants du cytosquelette : microfilament d'actine, microtubules et filaments intermédiaires, participent à la mitose.
+DETAIL MISMATCH E: Les trois grands composants du cytosquelette participent à la mitose : les microtubules pour le fuseau mitotique (séparation des chromosomes), les microfilaments d’actine dans la cytokinèse (anneau contractile), et les filaments intermédiaires (=lamina nucléaire) dans la désorganisation/réorganisation de l’enveloppe nucléaire.
+
+### bio.ann.cm2 ID 4 | ANSWER BDE | COMPLETE True
+PREP STEM: Selon vos connaissances et la figure 1 (pondération triple)
+SUBJECT
+Annales CM2 non corrigées.pdf p4 [0, 60.0, 595.3200073242188, 475.0]
+QCM 40 Selon vos connaissances et la figure 1 (pondération triple)
+A. Les cellules apoptotiques sont majoritairement en phase G2-M du cycle cellulaire
+B. p21 est un CDKI (CDK inhibitor) dont l’expression bloque le cycle cellulaire
+C. Les cellules apoptotiques ont un volume supérieur aux cellules sénescentes
+D. Les cellules sénescentes sont métaboliquement actives
+E. D’après la figure 1, le traitement à l’étoposide induit la sénescence des cellules END-MSC
+Annales CM2 non corrigées.pdf p4 [36.0, 171.7, 559.3, 469.9]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p4 [0, 70.0, 595.3200073242188, 582.0]
+
+DETAIL MISMATCH A: Les cellules apoptotiques ne sont pas forcément en mitose.
+DETAIL MISMATCH C: Ce sont les cellules sénescentes qui sont plus volumineuses.
+DETAIL MISMATCH D: Mais leur métabolisme reste faible et basal.
+DETAIL MISMATCH E: Plusieurs indices permettent de le constater : sur la figure A : le nombre de cellules n’augmente pas lorsqu’elles sont traitées par étoposide, elles semblent ne plus se multiplier. En B, on voit que les cellules traitées expriment fortement la bêta-galactosidase acide, qui est un marqueur des cellules sénescentes. En D, les cellules traitées semblent exprimer p21, qui est aussi une protéine marquant les cellules en sénescence.
+
+### bio.ann.cm2 ID 5 | ANSWER ABCDE | COMPLETE True
+PREP STEM: Selon vos connaissances et la figure 2 (pondération triple)
+SUBJECT
+Annales CM2 non corrigées.pdf p5 [0, 32.0, 595.3200073242188, 625.0]
+QCM41 Selon vos connaissances et la figure 2 (pondération triple)
+
+
+
+
+
+QCM41 Selon vos connaissances et la figure 2 (pondération triple)
+A. Les cellules apoptotiques exposent les phosphatidylsérines sur le feuillet externe de la membrane cellulaire
+B. In vivo les cellules apoptotiques sont éliminées par la phagocytose
+C. In vitro les cellules apoptotiques forment des corps apoptotiques
+D. Les cellules sénescentes surexpriment la protéine BCL-2
+E. Les cellules sénescentes résistent à l’apoptose
+Annales CM2 non corrigées.pdf p5 [35.8, 57.5, 559.1, 519.0]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p5 [0, 30.0, 595.3200073242188, 586.0]
+
+DETAIL MISMATCH D: Car Bcl2 est anti-apoptotique.
+
+### bio.ann.cm2 ID 6 | ANSWER A | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques (pondération *2)
+SUBJECT
+Annales CM2 non corrigées.pdf p6 [0, 60.0, 595.3200073242188, 500.0]
+Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques
+(pondération *2)
+
+
+
+
+
+A. Le nombre de mélanocytes primaires (Mock) double en environ 5 à 6 jours.
+B. Les mélanocytes BRAFm se divisent plus rapidement que les mélanocytes Mock.
+
+C. A ce stade, on peut affirmer que les mélanocytes BRAFm meurent de nécrose.
+
+D. A ce stade, on peut affirmer que les mélanocytes BRAFm meurent par apoptose.
+
+E. A ce stade, on peut affirmer que les mélanocytes BRAFm entrent en sénescence.
+Annales CM2 non corrigées.pdf p6 [37.3, 98.3, 560.6, 402.8]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p6 [0, 55.0, 595.3200073242188, 427.0]
+
+DETAIL MISMATCH C: On observe juste que la multiplication des cellules mutées est plus lente ou qu’elles meurent plus rapidement, on ne peut rien affirmer de plus.
+DETAIL MISMATCH D: Si elle avait écrit « on peut supposer », alors on pouvait cocher VRAI.
+DETAIL MISMATCH E: Idem que D.
+
+### bio.ann.cm2 ID 7 | ANSWER AB | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques (pondération *2)
+SUBJECT
+Annales CM2 non corrigées.pdf p6 [0, 511.0, 595.3200073242188, 747.0]
+47. Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques
+(pondération *2)
+
+
+
+
+
+A. L’apoptose se caractérise par l’exposition de molécule de phosphatidylsérine (PS) sur le feuillet externe de la
+membrane cellulaire.
+B. La nécrose correspond à une lyse de la cellule et à la libération de son contenu dans le milieu extracellulaire.
+
+C. Les cellules en sénescence lysent leur membrane cellulaire et exposent les PS.
+
+D. Selon la figure, les cellules BRAFm sont en apoptose massive.
+
+E. Selon la figure, les cellules Mock sont majoritairement nécrotiques.
+Annales CM2 non corrigées.pdf p6 [36.0, 545.4, 559.3, 634.7]
+
+Annales CM2 non corrigées.pdf p6 [37.3, 98.3, 560.6, 402.8]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p6 [0, 440.0, 595.3200073242188, 792.0]
+
+DETAIL MISMATCH A: Les PS sont ensuite reconnues par l’annexine V portée par les macrophages.
+DETAIL MISMATCH C: Les cellules en sénescence sont des cellules qui ne se répliquent plus mais elles ne sont pas dégradées.
+DETAIL MISMATCH D: La plupart des cellules BRAFm ne sont marquées ni à l’annexine V ni à l’IP : elles sont donc en bonne santé.
+DETAIL MISMATCH E: Même remarque pour les cellules Mock, elles sont majoritairement en bonne santé.
+
+### bio.ann.cm2 ID 8 | ANSWER DE | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques (pondération *2)
+SUBJECT
+Annales CM2 non corrigées.pdf p7 [0, 32.0, 595.3200073242188, 529.0]
+48. Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques
+(pondération *2)
+
+
+
+
+
+48. Choisissez la(les) réponse(s) correcte(s) concernant la figure ci-dessous et vos connaissances théoriques
+(pondération *2)
+
+A. L’image A a été obtenue en microscopie électronique à balayage.
+B. L’image B a été obtenue en microscopie électronique à fluorescence.
+C. Les cellules sénescentes se condensent et se fragmentent en corps sénescents.
+D. Les cellules bleues observées sont métaboliquement actives.
+E. D’après toutes les données, l’image B montre des SAHF : Senescence Associated Heterochromatic Foci.
+Annales CM2 non corrigées.pdf p7 [36.0, 76.7, 559.3, 379.2]
+
+Annales CM2 non corrigées.pdf p6 [37.3, 98.3, 560.6, 402.8]
+
+Annales CM2 non corrigées.pdf p6 [36.0, 545.4, 559.3, 634.7]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p7 [0, 45.0, 595.3200073242188, 664.0]
+
+DETAIL MISMATCH A: Ce sont des cultures cellulaires, MO inversée.
+DETAIL MISMATCH B: La microscopie à fluorescence est optique.
+DETAIL MISMATCH D: Le métabolisme glucidique est actif.
+DETAIL MISMATCH E: D’après la figure A et le marquage à la β-galactosidase acide, on déduit que les cellules BRAFm sont vraisemblablement en sénescence. La figure B montre une densification de la chromatine dans ces cellules, ce qui est une autre caractéristique des cellules sénescentes. Ces densifications sont bien appelées des SAHF.
+
+### bio.ann.cm2 ID 9 | ANSWER CD | COMPLETE True
+PREP STEM: Concernant la figure 8 :
+SUBJECT
+Annales CM2 non corrigées.pdf p9 [0, 105.0, 594.9600219726562, 618.0]
+49. Concernant la figure 8 :
+      A. Il s’agit d’observation en microscopie à fluorescence.
+      B. Il s’agit d’observation en microscopie électronique à balayage.
+       C. Il s’agit d’observation en microscopie électronique à transmission.
+      D. Les crêtes mitochondriales (cristae) sont moins nombreuses dans les fibroblastes iFB-l’-2 que dans
+          les fibroblastes contrôle.
+       E. Les mitochondries des patients ont totalement perdu leurs membranes
+Annales CM2 non corrigées.pdf p9 [54.0, 117.0, 541.0, 476.5]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p9 [0, 160.0, 594.9600219726562, 670.0]
+49. Concernant la figure 8 :
+      A. Il s’agit d’observation en microscopie à fluorescence.
+      B. Il s’agit d’observation en microscopie électronique à balayage.
+       C. Il s’agit d’observation en microscopie électronique à transmission.
+      D. Les crêtes mitochondriales (cristae) sont moins nombreuses dans les fibroblastes iFB-l’-2 que dans les
+         fibroblastes contrôle.
+       E. Les mitochondries des patients ont totalement perdu leurs membranes
+
+
+    CD
+      A. FAUX
+      B. FAUX
+       C. VRAI : On reconnaît l’aspect 2D et le contraste entre les différents éléments.
+      D. VRAI
+       E. FAUX : Elles possèdent encore leur membrane, même si celles-ci paraissent endommagées.
+
+### bio.ann.cm2 ID 10 | ANSWER AE | COMPLETE True
+PREP STEM: Choisissez-la(les) réponse(s) exacte(s) concernant la figure 9 :
+SUBJECT
+Annales CM2 non corrigées.pdf p9 [0, 117.0, 594.9600219726562, 213.0]
+
+Annales CM2 non corrigées.pdf p10 [0, 66.0, 594.9600219726562, 463.0]
+51. Choisissez-la(les) réponse(s) exacte(s) concernant la figure 9 :
+      A. Il s’agit d’observation en microscopie à fluorescence.
+      B. Il s’agit d’observation en microscopie électronique à transmission.
+       C. Chaque forme blanche observée correspond à une mitochondrie.
+      D. La lignée iFB-III-4 présente une augmentation significative du potentiel de membrane mitochondrial.
+       E. La lignée iFB-III-l’-2 présente une diminution significative du potentiel de membrane mitochondrial.
+Annales CM2 non corrigées.pdf p10 [54.0, 72.0, 589.0, 336.7]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p10 [0, 65.0, 594.9600219726562, 623.0]
+51. Choisissez-la(les) réponse(s) exacte(s) concernant la figure 9 :
+      A. Il s’agit d’observation en microscopie à fluorescence.
+      B. Il s’agit d’observation en microscopie électronique à transmission.
+       C. Chaque forme blanche observée correspond à une mitochondrie.
+      D. La lignée iFB-III-4 présente une augmentation significative du potentiel de membrane mitochondrial.
+       E. La lignée iFB-III-l’-2 présente une diminution significative du potentiel de membrane mitochondrial.
+
+
+     AE
+      A. VRAI : On observe du noir avec des éléments qui ressortent, donc fluorescent (et c’est une expérience
+        dans laquelle on mesure une fluorescence).
+      B. FAUX
+       C. FAUX : Attention aux échelles : chaque forme correspond à un fibroblaste, la fluorescence est bien
+        créée par les mitochondries mais cela ne veut pas dire que c’est elles que l’on voit.
+      D. FAUX : La lignée iFB-III-4 présente une fluorescence plus faible que celle de la lignée iFB-I’-2, ce qui
+          signifie que son potentiel de membrane est supérieur. Cependant, sa fluorescence est supérieure à
+          celle de la lignée contrôle, elle présente donc bien une diminution du potentiel membranaire (mais
+         cette diminution n’est ici pas considérée comme significative).
+       E. VRAI : La lignée IFB-III-I’-2 présente une très forte fluorescence, or la fluorescence augmente quand le
+         potentiel de membrane diminue. Et ici le potentiel est bien diminué à un taux significatif.
+
+### bio.ann.cm2 ID 11 | ANSWER ACDE | COMPLETE True
+PREP STEM: Concernant la figure 10 et d’après vos connaissances :
+SUBJECT
+Annales CM2 non corrigées.pdf p11 [0, 66.0, 594.9600219726562, 514.0]
+52. Concernant la figure 10 et d’après vos connaissances :
+      A. Les cellules en apoptose exposent leurs phosphatidylsérines sur le feuillet externe de la membrane
+          cellulaire.
+      B. Les cellules vivantes sont représentées dans le quart Q2 du graphique.
+       C. Les fibroblastes de patients sont plus sensibles aux stress mitochondriaux que les fibroblastes
+        normaux.
+      D. Les cellules en Q4 présentent très probablement une activation de la caspase 3.
+       E. En tenant compte de l’ensemble des résultats : l’atteinte des fibroblastes iFB-l’-2 semble être plus
+        sévère que celle des fibroblastes iFB-III-4.
+Annales CM2 non corrigées.pdf p11 [54.0, 72.0, 576.3, 361.5]
+
+Annales CM2 non corrigées.pdf p9 [54.0, 117.0, 541.0, 476.5]
+
+Annales CM2 non corrigées.pdf p10 [54.0, 72.0, 589.0, 336.7]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p11 [0, 65.0, 594.9600219726562, 774.0]
+52. Concernant la figure 10 et d’après vos connaissances :
+      A. Les cellules en apoptose exposent leurs phosphatidylsérines sur le feuillet externe de la membrane
+          cellulaire.
+      B. Les cellules vivantes sont représentées dans le quart Q2 du graphique.
+       C. Les fibroblastes de patients sont plus sensibles aux stress mitochondriaux que les fibroblastes normaux.
+      D. Les cellules en Q4 présentent très probablement une activation de la caspase 3.
+       E. En tenant compte de l’ensemble des résultats : l’atteinte des fibroblastes iFB-l’-2 semble être plus
+        sévère que celle des fibroblastes iFB-III-4.
+
+Pour comprendre le graphique : L’annexine V est un marqueur de la phosphatidylsérine. Comme vu dans l’item
+A, ce sont les cellules en apoptose qui présentent de la phosphatidylsérine à l’extérieur de leur membrane.
+L’IP marque quant à lui les cellules ayant perméabilisé leur membrane cellulaire, or une cellule en bonne santé
+a toujours une membrane imperméable. L’IP est donc un marqueur de la mort des cellules.
+Les cellules avec un fort marquage à l’annexine V (à droite) et à l’IP (en haut) sont donc des cellules entrées en
+apoptose, tandis que celles en bas à gauche sont en bonne santé.
+
+
+     ACDE
+      A. VRAI : Ce signal déclenche leur phagocytose par des macrophages.
+      B. FAUX : Au contraire, le quart Q2 représente les cellules mortes par apoptose. On peut déjà le supposer
+         car aucune cellule contrôle (normalement vivante) ne s’y trouve. De plus, les cellules en Q2 présentent
+       un marquage maximal à l’annexine V et à l’IP, ce sont donc des cellules en apoptose.
+       C. VRAI : Après le traitement altérant les mitochondries, on observe un taux plus fort de cellules en
+        apoptose chez les lignées de cellules malades.
+      D. VRAI : Les cellules en Q4 présentent une forte fluorescence à l’annexine V, elles sont donc en apoptose.
+         Cela signifie que la caspase 3 a sûrement été activée dans ces cellules (étape obligée dans le
+        déclenchement de l’apoptose, voir schéma page 13 du cours).
+       E. VRAI : Les 3 documents tendent à montrer que les mitochondries de la lignée iFB-I’-2 sont plus sensibles
+         et que ces cellules rentrent plus facilement en apoptose que celles de la lignée iFB-III-4.
+
+### bio.ann.cm2 ID 12 | ANSWER CE | COMPLETE True
+PREP STEM: Choisissez la(les) réponse(s) correcte(s) concernant la figure 12 :
+SUBJECT
+Annales CM2 non corrigées.pdf p12 [0, 110.0, 594.9600219726562, 767.0]
+51. Choisissez la(les) réponse(s) correcte(s) concernant la figure 12 :
+
+
+
+
+
+Figure 12 : Les cellules de la lignée HeLa (lignée tumorale humaine) ont été traitées avec un agent oxydant : la
+médianone à 80 ou 640 µM pendant 20 min ou non traitées (Control). Une analyse en cytométrie est réalisée
+après marquage des cellules par deux combinaisons de fluorochromes :
+     -   Soit la Calcéine-AM et l’hydroxyéthidine (HE)
+     -   Soit la Calcéine-AM et le TMRM.
+
+La calcéine-AM émet une fluorescence verte (lue en abscisse) et se concentre dans la matrice mitochondriale.
+Sa fluorescence chute en cas de perméabilisation (même transitoire de la membrane interne).
+
+Le TMRM émet une fluorescence émet une fluorescence rouge (lue en ordonnée) et se concentre dans la
+matrice mitochondriale grâce à la différence de potentiel de membrane. Sa fluorescence chute en même
+temps que la différence de potentiel de membrane.
+
+L’hydroxyéthine (HE) s’accumule dans la mitochondrie où il est converti par oxydation en en Ethidium (Eth)
+qui émet une fluorescence rouge (lue en ordonnée).
+
+Le pourcentage de cellules dans chaque encart est noté (ex : condition contrôle, 86% des de cellules avec un
+marquage négatif en Eth et positif en calcéine).
+
+
+      A. Les cellules présentent majoritairement des mitochondries dysfonctionnelles (absence de potentiel,
+         perméabilisation…) en condition contrôle ; cette expérience ne peut pas être interprétée.
+      B. Le traitement à la médianone 80µM altère le potentiel de membrane mitochondrial dans la majorité
+        des cellules.
+       C. Le traitement à la médianone 80µM induit un stress oxydant mitochondrial dans la majorité des
+          cellules.
+      D. En augmentant la dose de médianone, on observe dans l’ordre : une diminution du potentiel de la
+       membrane mitochondriale interne, un stress oxydant, et enfin la perméabilisation de la membrane
+         interne.
+       E. En augmentant la dose de médianone, on observe dans l’ordre : un stress oxydant, puis la
+         perméabilisation de la membrane interne, puis la perte du potentiel.
+Annales CM2 non corrigées.pdf p12 [153.5, 143.8, 441.5, 328.6]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p12 [0, 110.0, 594.9600219726562, 767.0]
+51. Choisissez la(les) réponse(s) correcte(s) concernant la figure 12 :
+
+
+
+
+
+Figure 12 : Les cellules de la lignée HeLa (lignée tumorale humaine) ont été traitées avec un agent oxydant : la
+médianone à 80 ou 640 µM pendant 20 min ou non traitées (Control). Une analyse en cytométrie est réalisée
+après marquage des cellules par deux combinaisons de fluorochromes :
+     -   Soit la Calcéine-AM et l’hydroxyéthidine (HE)
+     -   Soit la Calcéine-AM et le TMRM.
+
+La calcéine-AM émet une fluorescence verte (lue en abscisse) et se concentre dans la matrice mitochondriale.
+Sa fluorescence chute en cas de perméabilisation (même transitoire de la membrane interne).
+
+Le TMRM émet une fluorescence émet une fluorescence rouge (lue en ordonnée) et se concentre dans la matrice
+mitochondriale grâce à la différence de potentiel de membrane. Sa fluorescence chute en même temps que la
+différence de potentiel de membrane.
+
+L’hydroxyéthine (HE) s’accumule dans la mitochondrie où il est converti par oxydation en en Ethidium (Eth) qui
+émet une fluorescence rouge (lue en ordonnée).
+
+Le pourcentage de cellules dans chaque encart est noté (ex : condition contrôle, 86% des de cellules avec un
+marquage négatif en Eth et positif en calcéine).
+
+
+      A. Les cellules présentent majoritairement des mitochondries dysfonctionnelles (absence de potentiel,
+         perméabilisation…) en condition contrôle ; cette expérience ne peut pas être interprétée.
+      B. Le traitement à la médianone 80µM altère le potentiel de membrane mitochondrial dans la majorité
+        des cellules.
+       C. Le traitement à la médianone 80µM induit un stress oxydant mitochondrial dans la majorité des
+          cellules.
+      D. En augmentant la dose de médianone, on observe dans l’ordre : une diminution du potentiel de la
+       membrane mitochondriale interne, un stress oxydant, et enfin la perméabilisation de la membrane
+         interne.
+       E. En augmentant  la dose de médianone, on observe dans l’ordre : un stress oxydant, puis  la
+         perméabilisation de la membrane interne, puis la perte du potentiel.
+Annales CM2 corrigées-1.pdf p13 [0, 66.0, 594.9600219726562, 318.0]
+CE
+A. FAUX : En conditions contrôles : la majorité des cellules (92% et 90%) expriment une fluorescence verte
+   élevée, donc ont une membrane interne non perméabilisée. 92% ont une faible fluorescence à
+   l’ethidium, donc subissent un faible stress oxydatif. 94% ont une forte fluorescence au TMRM donc ont
+  un potentiel de membrane préservé.
+B. FAUX : Avec un traitement à la médianone à 80µM, il y a toujours 91% de cellules avec une fluorescence
+  au TMRM élevée, donc avec un potentiel de membrane préservé.
+C. VRAI. Avec un traitement à la médianone à 80µM,  il y a 66% de cellules avec une fluorescence à
+   l’Ethidium élevée, donc avec un stress oxydatif.
+D. FAUX : Voir E
+E. VRAI : Pour une faible dose de ménadione (80µM), on a pour la plupart des cellules une fluorescence
+  à la calcéine élevée et une fluorescence au TMRM élevée. Le potentiel de membrane et son
+   imperméabilité son préservés. Cependant pour cette même dose, on a déjà une fluorescence à
+   l’éthidium élevée, donc un stress oxydant. Pour une forte dose de ménadione, on a également une
+   perte de la perméabilité et du potentiel de membrane, marquée par la baisse de fluorescence à la
+   calcéine et au TMRM. De plus, c’est généralement la perméabilisation de la membrane qui entraîne la
+   perte du potentiel membranaire et non l’inverse.
+
+### bio.ann.cm2 ID 13 | ANSWER CE | COMPLETE True
+PREP STEM: Choisissez-la(les) bonne(s) réponse(s) concernant la figure 1 :
+SUBJECT
+Annales CM2 non corrigées.pdf p13 [0, 104.0, 594.9600219726562, 579.0]
+La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de
+Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule.
+Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire
+exprimer deux protéines de fusion à la cellule.
+La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et
+possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour
+l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10).
+La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11).
+Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront
+en contact (complémentation de la GFP1-10 par son domaine S11ß).
+
+
+
+
+
+48. Choisissez-la(les) bonne(s) réponse(s) concernant la figure 1 :
+      A. Il s’agit d’une observation en microscopie électronique.
+      B. Il s’agit d’une observation en microscopie visible (à lumière transmise).
+       C. Il s’agit d’une observation en microscopie à fluorescence.
+      D. Il s’agit d’une observation en immunohistochimie.
+       E.  Il s’agit d’une observation en immunofluorescence.
+Annales CM2 non corrigées.pdf p13 [103.1, 241.3, 491.9, 465.5]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p13 [0, 380.0, 594.9600219726562, 750.0]
+La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de
+Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule.
+Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire exprimer
+deux protéines de fusion à la cellule.
+La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et
+possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour
+l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10).
+La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11).
+Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront
+en contact (complémentation de la GFP1-10 par son domaine S11ß).
+Annales CM2 corrigées-1.pdf p14 [0, 68.0, 594.9600219726562, 293.0]
+48. Choisissez-la(les) bonne(s) réponse(s) concernant la figure 1 :
+      A. Il s’agit d’une observation en microscopie électronique.
+      B. Il s’agit d’une observation en microscopie visible (à lumière transmise).
+       C. Il s’agit d’une observation en microscopie à fluorescence.
+      D. Il s’agit d’une observation en immunohistochimie.
+       E.  Il s’agit d’une observation en immunofluorescence.
+
+
+     CE
+      A. FAUX : Il s’agit de microscopie à fluorescence, qui est une technique de microscopie optique.
+      B. FAUX : C’est de la microscopie à fluorescence.
+       C. VRAI
+      D. FAUX : L’immunohistochimie utilise des réactions enzymatiques et non des fluorochromes comme
+       méthode de révélation.
+       E. VRAI : On a bien utilisation d’un anticorps couplé à un fluorochrome.
+
+### bio.ann.cm2 ID 14 | ANSWER D | COMPLETE True
+PREP STEM: Choisissez-la(les) bonne(s) réponse(s) concernant la figure 1 :
+SUBJECT
+Annales CM2 non corrigées.pdf p13 [0, 104.0, 594.9600219726562, 470.0]
+La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de
+Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule.
+Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire
+exprimer deux protéines de fusion à la cellule.
+La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et
+possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour
+l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10).
+La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11).
+Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront
+en contact (complémentation de la GFP1-10 par son domaine S11ß).
+Annales CM2 non corrigées.pdf p13 [0, 599.0, 594.9600219726562, 716.0]
+49. Choisissez-la(les) bonne(s) réponse(s) concernant la figure 1 :
+      A.  Le marquage à 633 nm est négatif, la transfection par le plasmide codant WT α-sin S11 n’a pas
+          fonctionné.
+      B.  La GFP émet une fluorescence quelles que soient les conditions expérimentales. Ces données sont
+           ininterprétables.
+       C.  L’α-synucléine (WT α-syn S11) est clairement située dans le réticulum endoplasmique.
+      D.  L’α-synucléine (WT α-syn S11) présente une localisation dans la membrane externe mitochondriale.
+       E.  L’α-synucléine (WT α-syn S11 est principalement localisée dans la matrice mitochondriale.
+Annales CM2 non corrigées.pdf p13 [103.1, 241.3, 491.9, 465.5]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p13 [0, 380.0, 594.9600219726562, 750.0]
+La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de
+Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule.
+Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire exprimer
+deux protéines de fusion à la cellule.
+La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et
+possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour
+l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10).
+La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11).
+Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront
+en contact (complémentation de la GFP1-10 par son domaine S11ß).
+Annales CM2 corrigées-1.pdf p14 [0, 307.0, 594.9600219726562, 623.0]
+49. Choisissez-la(les) bonne(s) réponse(s) concernant la figure 1 :
+      A.  Le marquage à 633 nm est négatif, la transfection par le plasmide codant WT α-sin S11 n’a pas
+          fonctionné.
+      B.  La GFP émet une fluorescence quelles que soient les conditions expérimentales. Ces données sont
+           ininterprétables.
+       C.  L’α-synucléine (WT α-syn S11) est clairement située dans le réticulum endoplasmique.
+      D.  L’α-synucléine (WT α-syn S11) présente une localisation dans la membrane externe mitochondriale.
+       E.  L’α-synucléine (WT α-syn S11 est principalement localisée dans la matrice mitochondriale.
+
+
+    D
+      A. FAUX : On observe bien une fluorescence à 633 nm, preuve que l’Ac anti-α-syn a bien reconnu sa
+            cible.
+      B.  FAUX : On sait que la GFP n’exprime sa fluorescence que si elle est en présence de protéine α-sin.
+        Donc l’expression de la fluorescence à 488 nm témoigne bien de la présence d’α-sin.
+       C.  FAUX : Il n’y a dans cette expérience aucune protéine dirigée spécifiquement vers le RE, on ne peut
+        donc pas affirmer que c’est une localisation de l’α-sin.
+      D. VRAI : On observe bien une fluorescence due à la combinaison de l’OMM GFP1-10 (forme de la GFP
+           dirigée vers la membrane mitochondriale externe) et de l’α-sinS11.
+       E.  FAUX : Il n’y a aucune fluorescence détectée lorsque l’on exprime la mtGFP1-10 et l’α’sinS11. Cela
+            signifie que les deux protéines de fusion ne sont pas entrées en contact, donc que l’α-sin n’est pas
+         présente dans la matrice.
+
+### bio.ann.cm2 ID 15 | ANSWER D | COMPLETE True
+PREP STEM: Choisissez-la(les) bonne(s) réponse(s) concernant les figures 1 et 2 :
+SUBJECT
+Annales CM2 non corrigées.pdf p13 [0, 104.0, 594.9600219726562, 470.0]
+La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de
+Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule.
+Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire
+exprimer deux protéines de fusion à la cellule.
+La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et
+possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour
+l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10).
+La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11).
+Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront
+en contact (complémentation de la GFP1-10 par son domaine S11ß).
+Annales CM2 non corrigées.pdf p14 [0, 66.0, 594.9600219726562, 522.0]
+50. Choisissez-la(les) bonne(s) réponse(s) concernant les figures 1 et :
+      A.  Le marquage en 633nm est négatif, l’alpha-synucléine mutée (A53T α-synS11) n’est pas exprimée
+         par les cellules.
+      B.  La détection de l’alpha-synucléine endogène rend ininterprétable l’analyse.
+       C.  La mutation A53T n’a aucun effet sur la localisation de l’alpha-synucléine.
+      D.  La forme mutée présente une localisation dans l’espace intermembranaire plus importante que la
+        forme sauvage.
+       E.  La forme mutée présente une localisation dans la membrane externe plus importante que la forme
+         sauvage.
+Annales CM2 non corrigées.pdf p14 [77.8, 72.0, 516.7, 367.5]
+
+Annales CM2 non corrigées.pdf p13 [103.1, 241.3, 491.9, 465.5]
+
+CORRECTION
+Annales CM2 corrigées-1.pdf p13 [0, 380.0, 594.9600219726562, 750.0]
+La mutation A53T de la protéine α-synucléine (α-syn) est responsable de formes familiales de la maladie de
+Parkinson. Les chercheurs s’interrogent sur la localisation de la protéine dans la cellule.
+Ils utilisent une méthode nommée « bimolecular fluorescence complementation » qui consiste à faire exprimer
+deux protéines de fusion à la cellule.
+La première correspond à la protéine GFP (Green fluorescent protein) dépourvue de son hélice S11ß et
+possédant un domaine d’adressage soit pour la membrane externe mitochondriale (OMM GFP1-10) soit pour
+l’espace intermembranaire (IMS GFP1-10), soit pour la matrice mitochondriale (mt GFP1-10).
+La seconde correspond à la protéine d’intérêt α-sin fusionnée au domaine S11ß (WTα-sinS11).
+Ainsi, l’émission naturelle de la GFP à 488nm ne sera possible que lorsque les deux protéines de fusion seront
+en contact (complémentation de la GFP1-10 par son domaine S11ß).
+Annales CM2 corrigées-1.pdf p15 [0, 65.0, 594.9600219726562, 626.0]
+50. Choisissez-la(les) bonne(s) réponse(s) concernant les figures 1 et :
+      A.  Le marquage en 633nm est négatif, l’alpha-synucléine mutée (A53T α-synS11) n’est pas exprimée par
+           les cellules.
+      B.  La détection de l’alpha-synucléine endogène rend ininterprétable l’analyse.
+       C.  La mutation A53T n’a aucun effet sur la localisation de l’alpha-synucléine.
+      D.  La forme mutée présente une localisation dans l’espace intermembranaire plus importante que la
+        forme sauvage.
+       E.  La forme mutée présente une localisation dans la membrane externe plus importante que la forme
+         sauvage.
+
+
+    D
+      A. FAUX : On a bien une fluorescence à 633 nm.
+      B.  FAUX : Cette population cellulaire n’exprime pas l’α-sin endogène, donc aucun risque.
+       C.  FAUX : En proportion, on voit que la fluorescence à 488 nm est plus forte avec expression de l’IMS-
+        GFP qu’avec expression de l’OMM-GFP. C’était l’inverse dans la figure 1 (α-sin sauvage). Donc la
+         mutation augmente l’expression de l’α-sin dans l’espace intermembranaire et la diminue dans la
+        membrane externe.
+      D. VRAI
+       E.  FAUX

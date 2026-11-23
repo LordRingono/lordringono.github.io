@@ -1,0 +1,1581 @@
+{
+  "questionsBefore": 2806,
+  "questionsAfter": 2812,
+  "banks": 217,
+  "items": 14452,
+  "newCaptureFiles": 6383,
+  "captureReferences": 6762,
+  "missingSubjectCopies": [
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.sperm",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.ovo",
+      "id": 19,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 19,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 20,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 21,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 22,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 23,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 24,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s1",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.aut.s2",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.gamet",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.fec",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s1",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s1",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s1",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s1",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s2",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s2",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s2",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.ann.s2",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 19,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 20,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 21,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 22,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 23,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 24,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 25,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 26,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 27,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 28,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 29,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 30,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 31,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 32,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 33,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 34,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 35,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.gamet",
+      "id": 36,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 19,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 20,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 21,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 22,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 23,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 24,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 25,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.fec",
+      "id": 26,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s1",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 19,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 20,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 21,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 22,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 23,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 24,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 25,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 26,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 27,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 28,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 29,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 30,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 31,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 32,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 33,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 34,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s2",
+      "id": 35,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 1,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 2,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 3,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 4,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 5,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 6,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 7,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 8,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 9,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 10,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 11,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 12,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 13,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 14,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 15,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 16,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 17,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 18,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 19,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 20,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 21,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 22,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 23,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 24,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 25,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 26,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 27,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 28,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 29,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 30,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 31,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 32,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 33,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 34,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 35,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 36,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 37,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 38,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 39,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 40,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 41,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 42,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 43,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 44,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 45,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 46,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 47,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 48,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 49,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 50,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 51,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 52,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    },
+    {
+      "bank": "embryo.col.s3",
+      "id": 53,
+      "reason": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction."
+    }
+  ],
+  "missingCorrectionCopies": [
+    {
+      "bank": "ue4.annales.theme.droit",
+      "id": 26,
+      "reason": "Le sujet Q13 (BPF/BPP) est absent des 24 QCM du corrigé. La grille p848 utilise la numérotation du corrigé : son n°13 = A correspond au sujet Q14 (absorption), documenté p853–854. Aucune clé de cette grille ne peut être attribuée au sujet Q13. QCM conservé hors note."
+    }
+  ],
+  "subjects": {
+    "ssh": {
+      "banks": 4,
+      "questions": 274,
+      "items": 1370,
+      "subjectCopies": 274,
+      "correctionCopies": 274,
+      "cleanSubjectCopies": 274,
+      "annotatedSubjectCopies": 0,
+      "graded": 272,
+      "ungraded": 2,
+      "newQuestions": 0,
+      "restoredItems": 0,
+      "changedItemTexts": 0,
+      "restoredKeys": 0,
+      "newlyUngraded": 0,
+      "changedKeys": 2,
+      "changedExplanations": 0
+    },
+    "histologie": {
+      "banks": 13,
+      "questions": 321,
+      "items": 1614,
+      "subjectCopies": 321,
+      "correctionCopies": 321,
+      "cleanSubjectCopies": 321,
+      "annotatedSubjectCopies": 0,
+      "graded": 316,
+      "ungraded": 5,
+      "newQuestions": 0,
+      "restoredItems": 5,
+      "changedItemTexts": 24,
+      "restoredKeys": 2,
+      "newlyUngraded": 3,
+      "changedKeys": 7,
+      "changedExplanations": 32
+    },
+    "biocell": {
+      "banks": 18,
+      "questions": 230,
+      "items": 1137,
+      "subjectCopies": 230,
+      "correctionCopies": 230,
+      "cleanSubjectCopies": 229,
+      "annotatedSubjectCopies": 1,
+      "graded": 226,
+      "ungraded": 4,
+      "newQuestions": 6,
+      "restoredItems": 5,
+      "changedItemTexts": 60,
+      "restoredKeys": 7,
+      "newlyUngraded": 1,
+      "changedKeys": 23,
+      "changedExplanations": 547
+    },
+    "embryologie": {
+      "banks": 22,
+      "questions": 599,
+      "items": 3389,
+      "subjectCopies": 319,
+      "correctionCopies": 599,
+      "cleanSubjectCopies": 315,
+      "annotatedSubjectCopies": 4,
+      "graded": 593,
+      "ungraded": 6,
+      "newQuestions": 0,
+      "restoredItems": 2,
+      "changedItemTexts": 17,
+      "restoredKeys": 7,
+      "newlyUngraded": 0,
+      "changedKeys": 8,
+      "changedExplanations": 353
+    },
+    "biomol": {
+      "banks": 23,
+      "questions": 550,
+      "items": 2752,
+      "subjectCopies": 550,
+      "correctionCopies": 550,
+      "cleanSubjectCopies": 548,
+      "annotatedSubjectCopies": 2,
+      "graded": 546,
+      "ungraded": 4,
+      "newQuestions": 0,
+      "restoredItems": 0,
+      "changedItemTexts": 10,
+      "restoredKeys": 0,
+      "newlyUngraded": 0,
+      "changedKeys": 0,
+      "changedExplanations": 636
+    },
+    "biochimie": {
+      "banks": 70,
+      "questions": 278,
+      "items": 1390,
+      "subjectCopies": 278,
+      "correctionCopies": 278,
+      "cleanSubjectCopies": 274,
+      "annotatedSubjectCopies": 4,
+      "graded": 273,
+      "ungraded": 5,
+      "newQuestions": 0,
+      "restoredItems": 0,
+      "changedItemTexts": 2,
+      "restoredKeys": 0,
+      "newlyUngraded": 0,
+      "changedKeys": 0,
+      "changedExplanations": 25
+    },
+    "chimie": {
+      "banks": 38,
+      "questions": 86,
+      "items": 430,
+      "subjectCopies": 86,
+      "correctionCopies": 86,
+      "cleanSubjectCopies": 86,
+      "annotatedSubjectCopies": 0,
+      "graded": 85,
+      "ungraded": 1,
+      "newQuestions": 0,
+      "restoredItems": 0,
+      "changedItemTexts": 0,
+      "restoredKeys": 0,
+      "newlyUngraded": 0,
+      "changedKeys": 0,
+      "changedExplanations": 22
+    },
+    "biostat": {
+      "banks": 14,
+      "questions": 138,
+      "items": 690,
+      "subjectCopies": 138,
+      "correctionCopies": 138,
+      "cleanSubjectCopies": 138,
+      "annotatedSubjectCopies": 0,
+      "graded": 136,
+      "ungraded": 2,
+      "newQuestions": 0,
+      "restoredItems": 0,
+      "changedItemTexts": 0,
+      "restoredKeys": 0,
+      "newlyUngraded": 1,
+      "changedKeys": 1,
+      "changedExplanations": 26
+    },
+    "pharmaco": {
+      "banks": 15,
+      "questions": 336,
+      "items": 1680,
+      "subjectCopies": 336,
+      "correctionCopies": 335,
+      "cleanSubjectCopies": 335,
+      "annotatedSubjectCopies": 1,
+      "graded": 324,
+      "ungraded": 12,
+      "newQuestions": 0,
+      "restoredItems": 0,
+      "changedItemTexts": 0,
+      "restoredKeys": 0,
+      "newlyUngraded": 1,
+      "changedKeys": 1,
+      "changedExplanations": 0
+    }
+  }
+}

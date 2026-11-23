@@ -1,0 +1,1270 @@
+[
+  {
+    "bank": "embryo.aut.s3",
+    "id": 10,
+    "images": [
+      "static/emb_aut_s3_010_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.s3",
+      "id": 10,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS ENONCE.pdf",
+          "page": 2,
+          "rect": [
+            24,
+            351.12,
+            575.32,
+            532.6
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S3 DE LS CORRECTION.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            620.9,
+            575.32,
+            806.75
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest S3 DE LS ENONCE.pdf",
+      "correctionFile": "4. Autotest S3 DE LS CORRECTION.pdf"
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 9,
+    "images": [
+      "static/emb_aut_s4_009_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.s4",
+      "id": 9,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS ENONCE.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            144.69,
+            575.32,
+            420.68
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            493.94,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            15,
+            575.32,
+            103.25
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest S4 DE LS ENONCE.pdf",
+      "correctionFile": "4. Autotest S4 DE LS CORRECTION.pdf"
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 19,
+    "images": [
+      "static/emb_aut_s4_019_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.s4",
+      "id": 19,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS ENONCE.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            331.04
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            378.92
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest S4 DE LS ENONCE.pdf",
+      "correctionFile": "4. Autotest S4 DE LS CORRECTION.pdf"
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "images": [
+      "static/emb_aut_s4_023_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.s4",
+      "id": 23,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS ENONCE.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            262.01
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            509.78,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 9,
+          "rect": [
+            24,
+            15,
+            575.32,
+            166.97
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest S4 DE LS ENONCE.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 23 et 24 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items. Le document fourni comme sujet comporte déjà l’annotation « Là où se trouvent les IWP », qui donne un indice sur l’item E du QCM24. La copie originale est conservée intacte et accessible après correction.",
+      "correctionFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 23 et 24 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "subjectAfterCorrection": true
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "images": [
+      "static/emb_aut_s4_023_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.s4",
+      "id": 24,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS ENONCE.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            262.01
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            509.78,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest S4 DE LS CORRECTION.pdf",
+          "page": 9,
+          "rect": [
+            24,
+            15,
+            575.32,
+            166.97
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest S4 DE LS ENONCE.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 23 et 24 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items. Le document fourni comme sujet comporte déjà l’annotation « Là où se trouvent les IWP », qui donne un indice sur l’item E du QCM24. La copie originale est conservée intacte et accessible après correction.",
+      "correctionFile": "4. Autotest S4 DE LS CORRECTION.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 23 et 24 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "subjectAfterCorrection": true
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "images": [
+      "static/emb_aut_coeur_005_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.coeur",
+      "id": 5,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest Coeur et Vx LS ENONCE.pdf",
+          "page": 2,
+          "rect": [
+            24,
+            468.39,
+            575.32,
+            732.4
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest Coeur et Vx LS CORRECTION.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            221.14,
+            575.32,
+            701.44
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 5 et 6 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items. Le schéma du document fourni comme sujet est déjà légendé avec les noms des vaisseaux. La copie originale est conservée intacte et accessible après correction.",
+      "correctionFile": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 5 et 6 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "subjectAfterCorrection": true
+    }
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "images": [
+      "static/emb_aut_coeur_005_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.aut.coeur",
+      "id": 6,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest Coeur et Vx LS ENONCE.pdf",
+          "page": 2,
+          "rect": [
+            24,
+            468.39,
+            575.32,
+            732.4
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/4. Autotest Coeur et Vx LS CORRECTION.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            221.14,
+            575.32,
+            701.44
+          ]
+        }
+      ],
+      "subjectFile": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 5 et 6 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items. Le schéma du document fourni comme sujet est déjà légendé avec les noms des vaisseaux. La copie originale est conservée intacte et accessible après correction.",
+      "correctionFile": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 5 et 6 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "subjectAfterCorrection": true
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "images": [
+      "static/emb_verified_ann_s1_photos.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s1",
+      "id": 13,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S1 DE LS Correction.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            182.49,
+            575.32,
+            494.5
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S1 DE LS Correction.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            182.49,
+            575.32,
+            559.42
+          ]
+        }
+      ],
+      "subjectFile": "2. Annales S1 DE LS Correction.pdf",
+      "subjectNote": "Sujet non annoté reproduit depuis la partie énoncé du document mixte ; la correction qui suit est exclue de cette copie.",
+      "correctionFile": "2. Annales S1 DE LS Correction.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "images": [
+      "static/emb_v4_ann_s2_13.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s2",
+      "id": 13,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S2 LS Correction.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            328.32,
+            575.32,
+            651.61
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S2 LS Correction.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            328.32,
+            575.32,
+            732.49
+          ]
+        }
+      ],
+      "subjectFile": "2. Annales S2 LS Correction.pdf",
+      "subjectNote": "Sujet non annoté reproduit depuis la partie énoncé du document mixte ; la correction qui suit est exclue de cette copie.",
+      "correctionFile": "2. Annales S2 LS Correction.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "images": [
+      "static/emb_verified_ann_s2_schem_14.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s2",
+      "id": 14,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S2 LS Correction.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            52.51,
+            575.32,
+            333.75
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales S2 LS Correction.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            52.51,
+            575.32,
+            333.75
+          ]
+        }
+      ],
+      "subjectFile": "2. Annales S2 LS Correction.pdf",
+      "subjectNote": "Sujet non annoté reproduit depuis la partie énoncé du document mixte ; la correction qui suit est exclue de cette copie.",
+      "correctionFile": "2. Annales S2 LS Correction.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 17,
+    "images": [
+      "static/emb_ann_s3_017_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s3",
+      "id": 17,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            592.1,
+            575.32,
+            751.12
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            417.48,
+            575.32,
+            550.66
+          ]
+        }
+      ],
+      "subjectFile": "2. Annales 3e semaine de devlp emb LS Enoncé.pdf",
+      "correctionFile": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "images": [
+      "static/emb_ann_s3_029_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s3",
+      "id": 29,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            322.32,
+            575.32,
+            551.8
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            582.26,
+            575.32,
+            812.23
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            15,
+            575.32,
+            136.49
+          ]
+        }
+      ],
+      "subjectFile": "2. Annales 3e semaine de devlp emb LS Enoncé.pdf",
+      "correctionFile": "2. Annales 3e semaine de devlp emb LS Enoncé et correction-1.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 12,
+    "images": [
+      "static/emb_ann_s4_012_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s4",
+      "id": 12,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS Enoncé.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            211.17,
+            575.32,
+            376.16
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS correction-1.pdf",
+          "page": 3,
+          "rect": [
+            24,
+            496.94,
+            575.32,
+            645.97
+          ]
+        }
+      ],
+      "subjectFile": "2- Annales S4 du DE LS Enoncé.pdf",
+      "correctionFile": "2- Annales S4 du DE LS correction-1.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 18,
+    "images": [
+      "static/emb_ann_s4_018_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s4",
+      "id": 18,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS Enoncé.pdf",
+          "page": 4,
+          "rect": [
+            24,
+            354.12,
+            575.32,
+            455.5
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS correction-1.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            135.05
+          ]
+        }
+      ],
+      "subjectFile": "2- Annales S4 du DE LS Enoncé.pdf",
+      "correctionFile": "2- Annales S4 du DE LS correction-1.pdf"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 27,
+    "images": [
+      "static/emb_ann_s4_027_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.ann.s4",
+      "id": 27,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS Enoncé.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            544.46,
+            575.32,
+            757.96
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/2- Annales S4 du DE LS correction-1.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            401.64,
+            575.32,
+            629.98
+          ]
+        }
+      ],
+      "subjectFile": "2- Annales S4 du DE LS Enoncé.pdf",
+      "correctionFile": "2- Annales S4 du DE LS correction-1.pdf"
+    }
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 29,
+    "images": [
+      "static/emb_verified_col_s2_schem_29.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s2",
+      "id": 29,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S2 LS correction.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            119.21
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S2 LS correction.pdf"
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 25,
+    "images": [
+      "static/emb_verified_col_s3_schem_25.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s3",
+      "id": 25,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            430.44,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            15,
+            575.32,
+            182.69
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S3 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 25 et 26 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 26,
+    "images": [
+      "static/emb_verified_col_s3_schem_25.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s3",
+      "id": 26,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            430.44,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            15,
+            575.32,
+            182.69
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S3 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 25 et 26 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 31,
+    "images": [
+      "static/emb_verified_col_s3_schem_31.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s3",
+      "id": 31,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            65.35,
+            575.32,
+            293.72
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S3 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 31 et 32 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 32,
+    "images": [
+      "static/emb_verified_col_s3_schem_31.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s3",
+      "id": 32,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            65.35,
+            575.32,
+            293.72
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S3 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 31 et 32 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 41,
+    "images": [
+      "static/emb_verified_col_s3_schem_41.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s3",
+      "id": 41,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 9,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            309.68
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S3 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 41 et 42 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 42,
+    "images": [
+      "static/emb_verified_col_s3_schem_41.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s3",
+      "id": 42,
+      "subject": [],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S3 LS correction.pdf",
+          "page": 9,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            309.68
+          ]
+        }
+      ],
+      "subjectMissing": "Aucune version non corrigée de ce QCM n’est présente dans les PDF thématiques disponibles. Le texte a pu être confronté au corrigé ; la copie du corrigé reste accessible seulement après correction.",
+      "correctionFile": "7. Colle en chambre S3 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 41 et 42 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 29,
+    "images": [
+      "static/emb_col_s4_029_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 29,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            255.84,
+            575.32,
+            531.82
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            589.1,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            15,
+            575.32,
+            119.21
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 29 et 30 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 29 et 30 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 30,
+    "images": [
+      "static/emb_col_s4_029_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 30,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            255.84,
+            575.32,
+            531.82
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 5,
+          "rect": [
+            24,
+            589.1,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            15,
+            575.32,
+            119.21
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 29 et 30 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 29 et 30 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 35,
+    "images": [
+      "static/emb_col_s4_035_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 35,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            255.84,
+            575.32,
+            547.66
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            636.77,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            15,
+            575.32,
+            135.29
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 35 et 36 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 35 et 36 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 36,
+    "images": [
+      "static/emb_col_s4_035_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 36,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            255.84,
+            575.32,
+            547.66
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 6,
+          "rect": [
+            24,
+            636.77,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            15,
+            575.32,
+            135.29
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 35 et 36 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 35 et 36 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 44,
+    "images": [
+      "static/emb_col_s4_044_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 44,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            640.01,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            15,
+            575.32,
+            121.37
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            322.56,
+            575.32,
+            602.14
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 44 et 45 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 44 et 45 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 45,
+    "images": [
+      "static/emb_col_s4_044_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 45,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 7,
+          "rect": [
+            24,
+            640.01,
+            575.32,
+            811.92
+          ]
+        },
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            15,
+            575.32,
+            121.37
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 8,
+          "rect": [
+            24,
+            322.56,
+            575.32,
+            602.14
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 44 et 45 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 44 et 45 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "images": [
+      "static/emb_col_s4_055_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 54,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 9,
+          "rect": [
+            24,
+            416.64,
+            575.32,
+            708.49
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 10,
+          "rect": [
+            24,
+            319.32,
+            575.32,
+            611.88
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 54 et 55 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 54 et 55 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "images": [
+      "static/emb_col_s4_055_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 55,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 9,
+          "rect": [
+            24,
+            416.64,
+            575.32,
+            708.49
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 10,
+          "rect": [
+            24,
+            319.32,
+            575.32,
+            611.88
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 54 et 55 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 54 et 55 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "images": [
+      "static/emb_col_s4_069_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 68,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 12,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            262.01
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 13,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            277.88
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 68 et 69 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 68 et 69 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 69,
+    "images": [
+      "static/emb_col_s4_069_1.png"
+    ],
+    "crops": {
+      "bank": "embryo.col.s4",
+      "id": 69,
+      "subject": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS Enoncé.pdf",
+          "page": 12,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            262.01
+          ]
+        }
+      ],
+      "correction": [
+        {
+          "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/embryo_original/7. Colle en chambre S4 LS correction.pdf",
+          "page": 13,
+          "rect": [
+            24,
+            17.83,
+            575.32,
+            277.88
+          ]
+        }
+      ],
+      "subjectFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+      "subjectNote": "Le document présente un schéma commun aux QCM 68 et 69 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items.",
+      "correctionFile": "7. Colle en chambre S4 LS correction.pdf",
+      "correctionNote": "Le document présente un schéma commun aux QCM 68 et 69 ; la copie conserve ce groupe pour montrer le schéma et les deux séries d’items."
+    }
+  }
+]

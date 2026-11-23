@@ -1,0 +1,216 @@
+[
+  {
+    "bank": "histo.ann.tc",
+    "id": 10,
+    "item": "D",
+    "key": "",
+    "markers": [],
+    "correction": "??? non dit cette année",
+    "siteDetail": ""
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "item": "A",
+    "key": "B",
+    "markers": [
+      "vrai"
+    ],
+    "correction": ". Vrai il s’agit d’un neurone",
+    "siteDetail": "il s’agit d’un neurone"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "item": "B",
+    "key": "B",
+    "markers": [
+      "faux"
+    ],
+    "correction": ". Faux activité transcriptionnelle , la traduction se fait dans le noyau et on aura de nombreux corps de Nisll dans le cytosol",
+    "siteDetail": "activité transcriptionnelle , la traduction se fait dans le noyau et on aura de nombreux corps de Nisll dans le cytosol"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "item": "C",
+    "key": "B",
+    "markers": [
+      "vrai"
+    ],
+    "correction": ". Vrai",
+    "siteDetail": ""
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "item": "D",
+    "key": "B",
+    "markers": [
+      "vrai"
+    ],
+    "correction": ". Vrai mais hors programme cette année",
+    "siteDetail": "mais hors programme cette année"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 6,
+    "item": "E",
+    "key": "B",
+    "markers": [
+      "vrai"
+    ],
+    "correction": ". Vrai mais hors programme",
+    "siteDetail": "mais hors programme"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 30,
+    "item": "A",
+    "key": "BCD",
+    "markers": [],
+    "correction": "",
+    "siteDetail": "gliofilaments"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "item": "B",
+    "key": "CD",
+    "markers": [],
+    "correction": "",
+    "siteDetail": ", on aurait une image en 3D"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "item": "C",
+    "key": "CD",
+    "markers": [],
+    "correction": "contraste entre les différents éléments",
+    "siteDetail": ": on reconnaît l’aspect 2D et le contraste entre les différents éléments"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "item": "E",
+    "key": "CD",
+    "markers": [],
+    "correction": "membrane, même si celles-ci paraissent endommagées",
+    "siteDetail": "elles possèdent encore leur membrane, même si celles-ci paraissent endommagées"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 25,
+    "item": "E",
+    "key": "ADE",
+    "markers": [],
+    "correction": "",
+    "siteDetail": ": Tout ce qui est coloré en bleu au trichrome de Masson"
+  },
+  {
+    "bank": "histo.te2",
+    "id": 17,
+    "item": "A",
+    "key": "ADE",
+    "markers": [
+      "f",
+      "vrai"
+    ],
+    "correction": "Vrai, isolées",
+    "siteDetail": "Vrai. isolées"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 4,
+    "item": "F",
+    "key": "CEF",
+    "markers": [
+      "f",
+      "vrai"
+    ],
+    "correction": "Vrai",
+    "siteDetail": "Vrai."
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 5,
+    "item": "F",
+    "key": "BDFG",
+    "markers": [
+      "f",
+      "vrai"
+    ],
+    "correction": "vrai",
+    "siteDetail": "Vrai."
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 6,
+    "item": "F",
+    "key": "CFG",
+    "markers": [
+      "f",
+      "vrai"
+    ],
+    "correction": "Vrai tout comme la glycine",
+    "siteDetail": "Vrai. tout comme la glycine"
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "item": "A",
+    "key": "E",
+    "markers": [],
+    "correction": "",
+    "siteDetail": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2."
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "item": "B",
+    "key": "E",
+    "markers": [],
+    "correction": "",
+    "siteDetail": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2."
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "item": "C",
+    "key": "E",
+    "markers": [],
+    "correction": "",
+    "siteDetail": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2."
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 7,
+    "item": "D",
+    "key": "E",
+    "markers": [],
+    "correction": "",
+    "siteDetail": "Faux. Cet ordre n’est pas celui retenu dans le corrigé, qui indique E : 1-5-4-3-2."
+  },
+  {
+    "bank": "histo.tn2",
+    "id": 8,
+    "item": "F",
+    "key": "BDEF",
+    "markers": [
+      "f",
+      "vrai"
+    ],
+    "correction": "Vrai",
+    "siteDetail": "Vrai."
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 12,
+    "item": "D",
+    "key": "ABDE",
+    "markers": [],
+    "correction": "Vrai on les maintient ainsi afin d’être réinjectées après traitement ou modif génétiques",
+    "siteDetail": "Vrai. on les maintient ainsi afin d’être réinjectées après traitement ou modif génétiques"
+  }
+]

@@ -1,0 +1,951 @@
+{
+  "status": "no_unresolved_import_blocker_after_approved_changes",
+  "independentFixes": [
+    {
+      "sourceId": "ue4:2018-2019:S1:q15",
+      "bank": "ue4.annales.theme.sources-naturelles",
+      "id": 24,
+      "status": "fixed_in_approved_reviewed",
+      "fields": [
+        "answer",
+        "warning"
+      ],
+      "before": {
+        "answer": "BCD",
+        "warning": ""
+      },
+      "after": {
+        "answer": "",
+        "warning": "Corrigé contradictoire : ce QCM est conservé hors note. Voir la réserve documentée après validation.",
+        "rawAnswer": "BCD",
+        "answerIsEmpty": "absent"
+      },
+      "evidence": {
+        "subjectPage": 967,
+        "correctionPage": 979,
+        "gridPage": 972,
+        "D": "Un extrait brut peut être actif",
+        "E": "Un extrait brut peut être actif",
+        "detailD": "VRAI",
+        "detailE": "FAUX : B, C, et D sont vrais",
+        "existingNoteId": "ue4-v4-022"
+      },
+      "reason": "Deux propositions strictement identiques reçoivent des verdicts opposés. Les images originales excluent une différence de ponctuation ou de négation. Aucune nouvelle clé n’est inventée ; la clé imprimée BCD et les justifications restent documentées."
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q13",
+      "bank": "ue4.annales.theme.droit",
+      "id": 26,
+      "status": "fixed_in_approved_reviewed",
+      "field": "reviewNotes[ue4-v4-045].refs[0].label",
+      "before": "ue4:2021-2022:S1:q13 — correction",
+      "after": "Grille 2021–2022 S1 : absence de clé pour le Q13 du sujet (BPF/BPP)",
+      "reason": "La page 848 est une preuve de l’omission, pas la correction du sujet Q13. Son n°13 correspond au sujet Q14, repris p853–854. URL, texte de la note, absence de clé et pointeurs nuls conservés."
+    }
+  ],
+  "preparerFixesIndependentlyConfirmed": {
+    "wrongReferencesRemoved": 20,
+    "affectedNotes": 19,
+    "BPFMissingCorrectionPointersNull": true,
+    "proof": "notes_verification.json"
+  },
+  "sourceContradictionsAndMissingDocuments": [
+    {
+      "sourceId": "ue4:2021-2022:S1:q13",
+      "bank": "ue4.annales.theme.droit",
+      "id": 26,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "missing_official_correction",
+      "neededDocumentOrClarification": "Corrigé officiel ou erratum du sujet UE4 S1 2021–2022 Q13 (BPF/BPP), avec verdicts A–E.",
+      "subjectPages": [
+        843
+      ],
+      "correctionPages": [],
+      "gridPage": null,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le sujet comporte 25 QCM, mais le corrigé en comporte 24 : cette question sur les bonnes pratiques de fabrication et de préparation est absente du corrigé. Le QCM reste accessible sans note. À partir du QCM 14 du sujet, les numéros du corrigé sont décalés de −1.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4.",
+        "Recherche de la phrase distinctive sur les 1660 pages du recueil ; occurrence au seul sujet p843."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2021-2022:S1:q13",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": false,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:S2:q10",
+      "bank": "ue4.annales.theme.iatrogenie",
+      "id": 6,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "internal_key_detail_conflict",
+      "neededDocumentOrClarification": "Erratum officiel du verdict de B : grille et clé BDE, détail B FAUX.",
+      "subjectPages": [
+        900
+      ],
+      "correctionPages": [
+        909
+      ],
+      "gridPage": 904,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Divergence dans le corrigé fourni : la grille courte et la clé placée sous le QCM donnent BDE, mais la justification de B le classe FAUX. La clé source BDE reste documentée ; cette contradiction non résolue impose de conserver le QCM hors note.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2020-2021:S2:q10",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q05",
+      "bank": "ue4.annales.theme.benefice-risque",
+      "id": 20,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "no_key_hors_programme",
+      "neededDocumentOrClarification": "Une correction authentique avec clé A–E de 2020-2021 PACES Q5, si cette question doit être notée ; le recueil actuel indique seulement « Hors programme ».",
+      "subjectPages": [
+        917
+      ],
+      "correctionPages": [
+        927
+      ],
+      "gridPage": 924,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le corrigé mentionne uniquement « Hors programme » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2020-2021:PACES:q05",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q13",
+      "bank": "ue4.annales.theme.conception-rationnelle",
+      "id": 20,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "source_recognized_no_exact_answer",
+      "neededDocumentOrClarification": "Erratum des valeurs d’activité ou des équations QSAR ; le corrigé affirme qu’aucune réponse n’est exacte et retient A comme approximation.",
+      "subjectPages": [
+        919
+      ],
+      "correctionPages": [
+        930
+      ],
+      "gridPage": 924,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le tutorat précise qu’aucune équation proposée n’est exactement juste et retient A parce qu’elle donne les résultats les plus proches. La clé source A reste documentée ; le QCM est conservé hors note en raison de cette erreur reconnue dans le document.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2020-2021:PACES:q13",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q25",
+      "bank": "ue4.annales.theme.galenique",
+      "id": 19,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "subject_correction_unit_conflict",
+      "neededDocumentOrClarification": "Version lisible ou erratum officiel de l’item D (unité imprimée « Vig » au sujet ; « mg » dans le corrigé).",
+      "subjectPages": [
+        921
+      ],
+      "correctionPages": [
+        936
+      ],
+      "gridPage": 924,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "L’item D du sujet imprimé contient « 500 Vig », tandis que le corrigé reproduit « 500 mg » et considère cet item vrai. L’unité du sujet est indéfinie. Le texte du sujet et la clé source ADE restent documentés ; le QCM est conservé hors note à cause de cette différence d’énoncé.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2020-2021:PACES:q25",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q29",
+      "bank": "ue4.annales.theme.droit",
+      "id": 39,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "explicitly_ambiguous_key",
+      "neededDocumentOrClarification": "Confirmation du professeur/erratum de l’item C et clé définitive ; le corrigé imprime « (C)E » et « FAUX ? ».",
+      "subjectPages": [
+        922
+      ],
+      "correctionPages": [
+        937
+      ],
+      "gridPage": 924,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "La clé source est « (C)E ». Le corrigé hésite explicitement sur C (« FAUX ? ») et demande la confirmation du professeur. Aucune règle de neutralisation n’est indiquée : le QCM est conservé hors note, avec ses justifications originales.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2020-2021:PACES:q29",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q10",
+      "bank": "ue4.annales.theme.developpement-clinique",
+      "id": 15,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "no_key_hors_programme",
+      "neededDocumentOrClarification": "Une correction authentique avec clé A–E de 2019-2020 S1 Q10, si cette question doit être notée ; le recueil actuel indique seulement « Hors programme ».",
+      "subjectPages": [
+        942
+      ],
+      "correctionPages": [
+        954
+      ],
+      "gridPage": 950,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2019-2020:S1:q10",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q12",
+      "bank": "ue4.annales.theme.cibles",
+      "id": 6,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "no_key_hors_programme",
+      "neededDocumentOrClarification": "Une correction authentique avec clé A–E de 2019-2020 S1 Q12, si cette question doit être notée ; le recueil actuel indique seulement « Hors programme ».",
+      "subjectPages": [
+        943
+      ],
+      "correctionPages": [
+        955
+      ],
+      "gridPage": 950,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2019-2020:S1:q12",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q13",
+      "bank": "ue4.annales.theme.benefice-risque",
+      "id": 21,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "no_key_hors_programme",
+      "neededDocumentOrClarification": "Une correction authentique avec clé A–E de 2019-2020 S1 Q13, si cette question doit être notée ; le recueil actuel indique seulement « Hors programme ».",
+      "subjectPages": [
+        943
+      ],
+      "correctionPages": [
+        955
+      ],
+      "gridPage": 950,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2019-2020:S1:q13",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q19",
+      "bank": "ue4.annales.theme.pk-pd",
+      "id": 21,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "subject_correction_statement_conflict",
+      "neededDocumentOrClarification": "Erratum explicite de l’item A (« adsorption » au sujet ; « absorption » dans le corrigé).",
+      "subjectPages": [
+        944
+      ],
+      "correctionPages": [
+        957
+      ],
+      "gridPage": 950,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "L’item A du sujet est « L’adsorption », alors que le corrigé reproduit « L’absorption » et le classe vrai. Le texte du sujet et la clé source ABC restent documentés ; le QCM est conservé hors note car le corrigé ne répond pas exactement au même item.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2019-2020:S1:q19",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q30",
+      "bank": "ue4.annales.theme.developpement-clinique",
+      "id": 17,
+      "items": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "kind": "no_key_hors_programme",
+      "neededDocumentOrClarification": "Une correction authentique avec clé A–E de 2019-2020 S1 Q30, si cette question doit être notée ; le recueil actuel indique seulement « Hors programme ».",
+      "subjectPages": [
+        947
+      ],
+      "correctionPages": [
+        961
+      ],
+      "gridPage": 950,
+      "currentTreatment": "hors_note_preserved",
+      "evidence": "Le corrigé mentionne « HORS PROGRAMME » et la grille courte indique « / ». Aucune clé exploitable n’est fournie : QCM conservé hors note.",
+      "searchesPerformed": [
+        "Nouvelle extraction et comparaison du sujet et du corrigé du recueil PDF, pages précédentes/suivantes comprises.",
+        "Rapprochement de la grille courte de la même année/session avec le détail.",
+        "Inventaires documents_available.json et additional_documents.json consultés ; seuls Droit Pharma et cycle de vie du médicament sont disponibles pour compléter l’UE4."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2019-2020:S1:q30",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    },
+    {
+      "sourceId": "ue4:2018-2019:S1:q15",
+      "bank": "ue4.annales.theme.sources-naturelles",
+      "id": 24,
+      "items": [
+        "D",
+        "E"
+      ],
+      "kind": "identical_statements_opposite_verdicts",
+      "neededDocumentOrClarification": "Erratum officiel de UE4 2018–2019 S1 Q15 : préciser l’énoncé correct de D/E ou leurs verdicts. Les deux propositions imprimées sont identiques, D VRAI et E FAUX.",
+      "subjectPages": [
+        967
+      ],
+      "correctionPages": [
+        979
+      ],
+      "gridPage": 972,
+      "currentTreatment": "hors_note_by_independent_verifier_official_BCD_preserved",
+      "evidence": "Lecture directe des images p967/979 : « Un extrait brut peut être actif » dans D et E, aucune différence de négation ni de ponctuation ; la clé BCD et le détail FAUX de E ne peuvent produire une notation cohérente.",
+      "searchesPerformed": [
+        "Sujet et corrigé détaillé relus visuellement.",
+        "Grille p972 comparée.",
+        "Note antérieure ue4-v4-022 et absence d’erratum dans les documents inventoriés vérifiées."
+      ],
+      "independentVerification": {
+        "sourceId": "ue4:2018-2019:S1:q15",
+        "sourceRecord": "independent_comparison.json",
+        "sameSeriesGridChecked": true,
+        "documentInventoriesChecked": [
+          "documents_available.json",
+          "additional_documents.json"
+        ],
+        "globalSourceSearch": "source_searches.json",
+        "graded": false
+      }
+    }
+  ],
+  "sourceStatementDifferences": [
+    {
+      "sourceId": "ue4:2023-2024:S2:q02",
+      "item": "D",
+      "type": "correctionStatement",
+      "site": "Une chimiothèque est une collection de molécules pures ou non, pouvant être utilisées pour rechercher de nouvelles molécules actives lors d’un criblage à haute débit",
+      "source": "Une chimiothèque est une collection de molécules pures ou non, pouvant être utilisées pour rechercher de nouvelles molécules actives lors d’un criblage à haut débit",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q25",
+      "item": "D",
+      "type": "correctionStatement",
+      "site": "Une cuillère à dessert (10 mL) du volume final contient 6,5 g de saccharose et 500 Vig de carbocistéine.",
+      "source": "Une cuillère à dessert (10 mL) du volume final contient 6,5 g de saccharose et 500 mg de carbocistéine.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q23",
+      "item": "A",
+      "type": "correctionStatement",
+      "site": "Est une dessication qui s’opère à chaud",
+      "source": "Est une dessiccation qui s’opère à chaud",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q23",
+      "item": "B",
+      "type": "correctionStatement",
+      "site": "Est une dessication qui s’opère à froid",
+      "source": "Est une dessiccation qui s’opère à froid",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q25",
+      "item": "C",
+      "type": "correctionStatement",
+      "site": "Gomme arabique",
+      "source": "Homme arabique",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q25",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Toutes les propositions sont fausses",
+      "source": "Toutes les propositions ci-dessus sont fausses",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:PACES:q29",
+      "item": "A",
+      "type": "correctionStatement",
+      "site": "N'a pas de cadre légale.",
+      "source": "N'a pas de cadre légal.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2023-2024:S1:q08",
+      "item": "D",
+      "type": "correctionStatement",
+      "site": "Parmi les travaux de pharmacomodulation réalisés pour optimiser une molécules « lead », il et possible de moduler la chaine alkyle initiale.",
+      "source": "Parmi les travaux de pharmacomodulation réalisés pour optimiser une molécule « lead », il est possible de moduler la chaine alkyle initiale.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q02",
+      "item": "B",
+      "type": "correctionStatement",
+      "site": "Les travaux de pharmacomodulation permettent d’optimiser progressivement l’activité biologique d’une série de molécules bioactives",
+      "source": "Les travaux de pharmacodulation permettent d’optimiser progressivement l’activité biologique d’une série de molécules bioactives.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q03",
+      "item": "C",
+      "type": "correctionStatement",
+      "site": "Un « hits » peut provenir de substances naturelles",
+      "source": "Un « hit » peut provenir de substances naturelles",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q13",
+      "item": "C",
+      "type": "correctionStatement",
+      "site": "Pour développer des \"me-too compounds\", les industriels peuvent réaliser une veille des brevets déposés par leurs concurrents",
+      "source": "Pour développer des « me-too compound », les industriels peuvent réaliser une veille des brevets déposés par leurs concurrents",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q13",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Un \"me-too compound\" ne procure généralement pas d'amélioration notable par rapport à̀ la molécule originale",
+      "source": "Un « me-too compound » ne procure généralement pas d’amélioration notable à la molécule originale",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2024-2025:S1:q01",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Les vaccins à AND ou à ARN permettent la production « in situ » de la protéine virale codée",
+      "source": "Les vaccins à ADN ou à ARN permettent la production « in situ » de la protéine virale codée",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2023-2024:S1:q01",
+      "item": "C",
+      "type": "correctionStatement",
+      "site": "La technique de CRISPR-Cass9 permet la traduction des génomes.",
+      "source": "La technique de CRISPR-Cas9 permet la traduction des génomes.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2023-2024:S1:q02",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Le séquençage du génome humain a été finalisé en 2023.",
+      "source": "Le séquençage du génome humain a été finalisé en 2023. ABD",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S2:q03",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Les biomarqueurs pronostiques permettent de prédire la réponse thérapeutique à un traitement donné",
+      "source": "Les biomarqueurs pronostics permettent de prédire la réponse thérapeutique à un traitement donné",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S2:q06",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "On confirme la bioéquivalence lorsque la demie-vie d’élimination entre le médicament générique et le médicament princeps se trouve dans un intervalle de confiance entre une limite inférieure de 80% et une limite supérieure de 125%",
+      "source": "On confirme la bioéquivalence lorsque la demi-vie d’élimination entre le médicament générique et le médicament princeps se trouve dans un intervalle de confiance entre une limite inférieure de 80% et une limite supérieure de 125%",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q19",
+      "item": "A",
+      "type": "correctionStatement",
+      "site": "L’adsorption",
+      "source": "L’absorption",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q25",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Les corticoïdes comme anti-inflammatoires.",
+      "source": "Les corticoïdes comme antiinflammatoires.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2023-2024:S2:q11",
+      "item": "D",
+      "type": "correctionStatement",
+      "site": "Le dosage d’un acide peut se faire par titrimétrie, en ajoutant un volume de base nécessaire pour atteindre l’équivalence",
+      "source": "Le dosage d’un acide peut se faire par titrimétrie, ajoutant un volume de base nécessaire pour atteindre l’équivalence",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2019-2020:S1:q18",
+      "item": "E",
+      "type": "correctionStatement",
+      "site": "Une intolérance à tout autre médicament",
+      "source": "Une intolérance à tout autre médicaments",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S1:q17",
+      "item": "A",
+      "type": "correctionStatement",
+      "site": "Le produit de l'industrie du médicament est un bien de santé publique.",
+      "source": "Le produit de l'industrie du médicament est un bien de sante publique.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2021-2022:S2:q17",
+      "item": "D",
+      "type": "correctionStatement",
+      "site": "Pour le suivi de la tolérance, des critères cliniques (ex : taux de choléstérol), biologiques (ex : taux de plaquettes) et paracliniques (ex : pression artérielle) peuvent être pris en compte.",
+      "source": "Pour le suivi de la tolérance, des critères cliniques (ex : taux de cholestérol), biologiques (ex : taux de plaquettes) et paracliniques (ex : pression artérielle) peuvent être pris en compte.",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    },
+    {
+      "sourceId": "ue4:2020-2021:S1:q24",
+      "item": "B",
+      "type": "correctionStatement",
+      "site": "Le Dossier Médical Partagé favorise la prise en charge coordonné des soins en médecine de ville et à l’hôpital",
+      "source": "Le Dossier Médical Partagé favorise la prise en charge coordonnée des soins en médecine de ville et à l’hôpital",
+      "adjudicated": true,
+      "conclusion": "Différence imprimée entre sujet et reprise du corrigé ; texte exact du sujet conservé. Les unités Vig/mg et adsorption/absorption restent hors note. Le ABD supplémentaire de Q2 2023–2024 est un ajout de clé dans la reprise du corrigé.",
+      "blockingImportError": false
+    }
+  ],
+  "annotationHandling": [
+    {
+      "sourceId": "ue4:2019-2020:S1:q04",
+      "subjectAfterCorrection": true,
+      "interactiveFigureCleanAndComplete": true,
+      "integrationRequirement": "Appliquer le verrou après validation à toute voie montrant la copie complète, y compris les anciens originalImages ; utiliser les panneaux approuvés pour la copie V6."
+    }
+  ],
+  "labelMapping": {
+    "sourceId": "ue4:2023-2024:S1:q24",
+    "subject": "A–E",
+    "correctionStatement": "F–J",
+    "correctionKeyAndDetails": "A–E",
+    "mapping": {
+      "F": "A",
+      "G": "B",
+      "H": "C",
+      "I": "D",
+      "J": "E"
+    },
+    "documentedInCrops": true
+  },
+  "sharedContext": {
+    "sourceIds": [
+      "ue4:2020-2021:S1:q13",
+      "ue4:2020-2021:S1:q14"
+    ],
+    "subjectPage": 879,
+    "correctionPage": 890,
+    "excludedFromPreviousQ12": true
+  },
+  "rawComparisonFlagsAdjudicated": 95,
+  "geometryBlockingIssues": [],
+  "baselineDifferences": [
+    {
+      "bank": "ue4.annales.theme.sources-naturelles",
+      "id": 5,
+      "sourceId": "ue4:2024-2025:S2:q02",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.sources-naturelles",
+      "id": 24,
+      "sourceId": "ue4:2018-2019:S1:q15",
+      "changedFields": [
+        "answer",
+        "warning"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.droit",
+      "id": 26,
+      "sourceId": "ue4:2021-2022:S1:q13",
+      "changedFields": [
+        "correctionPage",
+        "reviewNotes",
+        "shortCorrectionPage"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.cycle-vie",
+      "id": 9,
+      "sourceId": "ue4:2023-2024:S1:q08",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.identification-pa",
+      "id": 23,
+      "sourceId": "ue4:2020-2021:S1:q12",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.biotechnologies",
+      "id": 9,
+      "sourceId": "ue4:2023-2024:S1:q01",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.pk-pd",
+      "id": 9,
+      "sourceId": "ue4:2022-2023:S1:q18",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.pk-pd",
+      "id": 10,
+      "sourceId": "ue4:2022-2023:S2:q14",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.pk-pd",
+      "id": 11,
+      "sourceId": "ue4:2021-2022:S1:q18",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.pk-pd",
+      "id": 12,
+      "sourceId": "ue4:2021-2022:S1:q19",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.pk-pd",
+      "id": 13,
+      "sourceId": "ue4:2021-2022:S2:q14",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.analyse-controles",
+      "id": 2,
+      "sourceId": "ue4:2025-2026:S1:q26",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.analyse-controles",
+      "id": 3,
+      "sourceId": "ue4:2024-2025:S1:q17",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.analyse-controles",
+      "id": 7,
+      "sourceId": "ue4:2023-2024:S1:q24",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.analyse-controles",
+      "id": 11,
+      "sourceId": "ue4:2022-2023:S2:q03",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.bum",
+      "id": 2,
+      "sourceId": "ue4:2025-2026:S1:q10",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.bum",
+      "id": 9,
+      "sourceId": "ue4:2023-2024:S1:q13",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.bum",
+      "id": 14,
+      "sourceId": "ue4:2022-2023:S1:q23",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    },
+    {
+      "bank": "ue4.annales.theme.bum",
+      "id": 23,
+      "sourceId": "ue4:2021-2022:S1:q22",
+      "changedFields": [
+        "reviewNotes"
+      ]
+    }
+  ],
+  "visualizationLimit": "30 sujets et 29 corrigés lus individuellement en image ; les autres ont un contrôle textuel/source et géométrique, toutes les grilles et les 13 figures ont été vues."
+}

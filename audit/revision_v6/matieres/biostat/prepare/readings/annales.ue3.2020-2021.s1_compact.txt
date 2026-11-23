@@ -1,0 +1,442 @@
+Q1 · clé DE
+SUJET
+Exercice 1 :
+Dans le cadre d'une étude, l'hormone thyroïdienne tétra-iodothyronine sous forme libre (T4L) est dosée dans
+le sérum d'un groupe de patients.
+L'histogramme des valeurs obtenues est ci-dessous :
+1. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Le résultat de ce dosage est une variable quantitative de dénombrement
+B. 200 patients ont participé à l'étude
+C. Le mode de la distribution est 14
+D. La médiane de la distribution se situe entre 12 et 14 ng/L
+E. La surface sous l'histogramme est égale à 320
+CORRIGÉ
+DE
+A. FAUX : le dosage de l’hormone thyroïdienne tétra-iodothyronine est une mesure donc c’est une
+variable quantitative continue.
+B. FAUX : 160 patients ont participé à l’étude (il faut additionner l’effectif de chaque classe).
+C. FAUX
+D. VRAI : la médiane sépare un échantillon en 2 groupes de même effectif. Dans notre cas, la médiane est
+la valeur séparant l’échantillon en 2 effectifs de 80 patients. Or on sait que 100 patients ont moins de
+14 ng/L de T4L et 40 patients ont moins de 12 ng/L de T4L donc la médiane de la distribution se situe
+effectivement entre 12 et 14 ng/L.
+E. VRAI : on a 5 rectangles de largeur 2 et de hauteur 10, 30, 60, 40 et 20 et 2×(10+30+60+40+20) = 2×160
+= 320 donc la surface sous l’histogramme est égale à 320.
+NOTES
+
+
+===
+
+Q2 · clé AD
+SUJET
+Exercice 2
+La prévalence de l'obésité en population générale est de 15 %. On sélectionne 100 sujets de cette population
+dans le cadre d'une étude relative à l'obésité. On appelle variable d'étude, la variable qui est collectée auprès
+de chaque individu sélectionné. La variable aléatoire X est la variable aléatoire qui représentera cette variable
+d'étude.
+2. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Sur les 100 sujets sélectionnés, on s'attend à observer en moyenne 15 individus obèses
+B. La variable d'étude est une variable quantitative de dénombrement
+C. X est une variable aléatoire binomiale
+D. X est une variable aléatoire de Bernoulli
+E. L'écart type de X est 0,15(1 - 0,15)
+CORRIGÉ
+AD
+A. VRAI car 15 individus obèses cela correspondent à la proportion théorique dans la population générale.
+B. FAUX : La tournure de la phrase indique que la variable aléatoire correspond à une variable que l’on
+recueille auprès de chaque individu, la variable pour donc prendre deux valeurs X=1 l’individu est obèse
+ou X=0 l’individu n’est pas obèse. La variable serait donc une variable binaire.
+C. FAUX : cf item B.
+D. VRAI : la variable X est une variable aléatoire binaire c’est donc une épreuve de Bernouilli.
+E. FAUX : la variable X est une variable binaire or pour calculer l’écart-type 𝜎 on utilise la
+formule suivante : 𝜎= √𝜋(1 −𝜋) avec 𝜋 la probabilité que l’on nous donne dans l’énoncé. La formule
+donnée ici correspond à l’écart type.
+NOTES
+
+
+===
+
+Q3 · clé BDE
+SUJET
+Exercice 3 :
+Le temps de saignement de 36 sujets hospitalisés est de 3,5 minutes (min) en moyenne avec un écart type
+estimé de 1,0 min.
+3. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. La borne supérieure de l'intervalle de confiance de la moyenne théorique du temps de saignement
+est de 3,8
+B. La borne supérieure de l'intervalle de confiance de la moyenne théorique du temps de saignement
+est de 3,9
+C. Il faut vérifier par calcul que le théorème central limite s'applique aux bornes de cet intervalle de
+confiance
+D. Il faudrait une taille d'échantillon de 144 sujets pour avoir une largeur d'intervalle de confiance deux
+fois plus petite (36 x 4 = 144)
+E. L'hypothèse nulle comme quoi la moyenne théorique serait égale à 5 min serait rejetée au risque
+d'erreur alpha de 5 %
+CORRIGÉ
+BDE
+1
+2
+A. FAUX : 𝐼𝐶= 3.5 ± 2 × (
+√36) = 3.5 ±
+6 = 3.5 ± 0.333. . = 3.83
+Pour s'assurer d'avoir toutes valeurs, il faut majorer la borne supérieure et minorer la borne inférieure
+donc IC= [3,1 ;3.9]
+B. VRAI
+C. FAUX ? Ici on a qu’une moyenne.
+D. VRAI : ∆m=u×s/√n=2×1/6=1/3 avec 36 individus et ∆m=1/12 avec 144 individus
+E. VRAI : 5min n’appartient pas à l’IC, donc on rejette l’hypothèse au risque d’erreur alpha 5%
+NOTES
+
+
+===
+
+Q4 · clé CDE
+SUJET
+Exercice 4 :
+L'hématocrite représente le volume occupé par les globules rouges sur le volume de sang total. La moyenne
+de l'hématocrite, exprimée en pourcentage, est de 42 dans un groupe de 9 femmes (Groupe 1) et de 45 dans
+un groupe de 9 hommes (Groupe 2), La variance commune est estimée à 4,5. L'hématocrite est
+normalement distribuée dans les deux groupes (des femmes et des hommes)
+Peut-on dire que l'hématocrite dépend du sexe ? Vous prendrez un risque d'erreur alpha de 5 %.
+4. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Pour répondre à la question, vous ferez un test de corrélation de Pearson
+B. Le test statistique est applicable quelle que soit la distribution de l'hématocrite dans les deux
+populations dont sont représentatifs les deux groupes.
+C. La valeur calculée de la statistique du test est de -3 (groupe 1 - groupe 2)
+D. Vous rejetez l'hypothèse nulle du test au risque d'erreur alpha de 5 %
+E. La diminution de l'hématocrite observée entre les deux groupes (1 vs 2) est significativement
+différente de 0 au risque d'erreur alpha de 5 %
+CORRIGÉ
+CDE
+Enoncé : moyenne de l’hématocrite dans le groupe 1 = 𝐻𝑒1 = 42 % ;   𝐻𝑒2 = 45 %  ;  𝑛1 = 9 𝑓𝑒𝑚𝑚𝑒𝑠 ;
+𝑛2 = 9 ℎ𝑜𝑚𝑚𝑒𝑠.     Estimation de la variance commune des deux groupes : 𝑠𝑐2 = 4,5 (%)² ;
+A noter : l’hématocrite est distribué normalement dans les groupes 1 et 2 → penser à l’application du TCL
+A. FAUX : Nous sommes en présence d’échantillons non appariés ou indépendants (le groupe 1 et 2 ne
+sont pas constitués des mêmes personnes) et de petits échantillons (𝑛1 = 9 𝑒𝑡 𝑛2 = 9). On pensera
+donc plutôt à un test de Student sur échantillons indépendants à 𝑛1 + 𝑛2 −2 𝑑𝑑𝑙. De plus un test de
+corrélation répond à la question « à quel point les deux variables sont liées l’une à l’autre ? »
+(quantification de leur liaison) alors qu’il est seulement question ici question de démontrer au risque
+𝛼= 5% l’éventuelle influence d’une variable (sexe) sur une autre variable (l’hématocrite).
+B. FAUX : Il est nécessaire d’avoir une distribution normale de l’hématocrite pour pouvoir faire un test de
+Student. En temps normal (si n>30) on peut appliquer le Théorème Central Limite pour approximer une
+𝑠
+loi quelconque (avec une distribution quelconque) à une loi Normale de paramètres (𝑚 𝑒𝑡
+√𝑛). Ici,
+comme ce n’est pas le cas nous sommes obligés de dire que la VA taux d’hématocrite suit une loi
+normale dans les 2  groupes.
+𝐻𝑒1−𝐻𝑒2
+42−45
+−3
+−3
+C. VRAI : Calcul de la statistique de test 𝑡𝑜𝑏𝑠=
+=
+=
+=
+1 = −3
+√(4,5
+9 )+(4,5
+√9
+𝑠𝑐2
+𝑠𝑐2
+9 )
+√(
+𝑛1)+(
+9
+𝑛2)
+D. VRAI : Valeur seuil lue dans la table de Student à 𝑛1 + 𝑛2 −2 𝑑𝑑𝑙= 16 𝑑𝑑𝑙 au rique d’erreur 5%
+= 𝑡16𝑑𝑑𝑙;0,05 = 2,120.  On constate que |𝑡𝑜𝑏𝑠| > 𝑡16𝑑𝑑𝑙;0,05 . On rejette l'hypothèse nulle au risque
+d’erreur 5%.
+E. VRAI : Il s’agit là de la conclusion à notre test statistique effectué. Une diminution est une différence
+entre deux valeurs « 𝐻𝑒1 = 𝐻𝑒2 ? » est équivalent à « 𝐻𝑒1 −𝐻𝑒2 = 0 ? » Nous avons démontré une
+différence significative au risque d’erreur 5% entre les moyennes d’hématocrite dans les deux groupes.
+NOTES
+
+
+===
+
+Q5 · clé BD
+SUJET
+Exercice 5 :
+Pour étudier la relation entre le poids de naissance et la pollution de l'air intérieur, on a conduit une étude
+recueillant le poids de naissance (en kg) de 12 bébés et la durée d'exposition potentielle (en heures) de leurs
+mères à la pollution de l'air intérieur (domicile, lieu de travail, transport).
+Le coefficient de corrélation de Pearson est estimé à r = -0,6. La statistique de test obtenue est : Itobsl = 2,4.
+5. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s)
+A. La statistique du test est distribuée selon une loi Normale sous l'hypothèse nulle
+B. Au risque α = 5 %, on conclut que le poids de naissance est corrélé significativement au nombre
+d'heures d’exposition des mères à la pollution de l'air intérieur
+C. On observe que le poids de naissance augmente avec le nombre d'heures d'exposition des mères à
+la pollution de l'air intérieur
+D. L'erreur-type du coefficient de corrélation est de 0,25
+E. L'erreur-type du coefficient de corrélation est de 0,35
+CORRIGÉ
+BD
+A. FAUX : la statistique du test suit une loi de Student, donc pas une loi normale
+B. VRAI : on a la statistique de test qui est de 2,4, on cherche la valeur de comparaison dans la table de
+Student pour n-2ddl=12-2=10 avec un risque alpha à 5%. On trouve donc 2,228 comme valeur de
+comparaison or 2,228< 2,4 les deux variables sont significativement corrélées car on rejette
+l’hypothèse nulle H0.
+C. FAUX : r est négatif et significativement différent de 0 donc lorsque le temps d’exposition à la pollution
+augmente le poids du bébé diminue.
+𝑹−𝟎
+𝑹−𝟎
+𝟎,𝟔
+D. VRAI : On sait que 𝑇=
+√𝒔𝒓𝟐⟺√𝒔𝒓𝟐=
+𝑻⟺√𝒔𝒓𝟐=
+𝟐,𝟒= 𝟎, 𝟐𝟓= 𝒔𝒓 ainsi l’erreur type du
+coefficient de corrélation est de 0,25.
+E. FAUX : cf item D
+NOTES
+
+
+===
+
+Q6 · clé ABC
+SUJET
+Exercice 6 :
+La sensibilité des tests PCR pour la détection du Sars-Cov-2 est considérée de 65 %, la spécificité de 100%. La
+sensibilité d'un test salivaire est de 70 %, et sa spécificité de 95%.
+Par ailleurs, on considère que la prévalence du Sars-Cov-2 est plus élevée dans le Rhône qu'en Bourgogne.
+6. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s):
+A. Le test salivaire conduit à plus de faux positifs qu'un test PCR
+B. Le test salivaire détecte plus de cas de Sars-Cov-2 qu'un test PCR
+C. En moyenne, 30% des cas de Sars-Cov-2 ne sont pas identifiés par le test salivaire
+D. En cas de test salivaire positif, un individu a 70 % de risque d'avoir contracte le Sars-Cov-2
+E. La sensibilité d'un test PCR doit être plus élevée dans le Rhône qu'en Bourgogne
+CORRIGÉ
+ABC
+A. VRAI : le test PCR a une meilleure spécificité que le test salivaire donc on aura plus de faux positifs avec
+le test salivaire.
+B. VRAI : le test salivaire a une meilleure sensibilité que le test PCR, donc le test salivaire détecte plus de
+cas de Sars-Cov-2 qu’un test PCR.
+C. VRAI : parmi les patients atteints de Sars-Cov-2, le test salivaire sera en moyenne négatif dans 30 %
+des cas car il a une sensibilité de 70 %.
+D. FAUX, attention à ne pas confondre VPP et sensibilité. La sensibilité est la probabilité qu’un individu ait
+un test positif sachant qu’il est malade et la VPP est la probabilité qu’un individu soit malade sachant
+qu’il a un test positif. Dans cet item, on nous présente une VPP, or nous n’avons pas les données
+nécessaires pour calculer la VPP. L’item aurait été juste si c’était « en cas de maladie, un individu a 70
+% de chance d’avoir un test salivaire positif »
+E. FAUX : la sensibilité d’un test est une caractéristique intrinsèque, elle ne dépend pas de la prévalence
+NOTES
+
+
+===
+
+Q7 · clé CE
+SUJET
+On considère que la prévalence de cas de COVID-19, parmi les individus testés, est de 5%.
+7. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. En cas de test salivaire positif, la probabilité de COVID-19 est multipliée par 70/95 = 14/19
+B. En cas de test salivaire positif, l'odds de COVID-19 est multiplié par 70/95 = 14/19
+C. La VPP du test salivaire dans cette population est de 70/165 = 14/33 = 0,42
+D. La VPP du test serait plus faible pour la population du personnel HCL, dans laquelle la prévalence
+COVID-19 est de 10 %
+E. La VPP du test serait plus élevée pour la population du personnel COVID-19 est de 10 %
+CORRIGÉ
+CE
+A. FAUX : tout d’abord on ne multiplie pas une probabilité mais un odds à la suite du résultat d’un test.
+𝑠𝑒𝑛
+0,7
+70
+De plus, le RV+ du test salivaire est : RV+ =
+1−𝑠𝑝é =
+1−0,95 =
+5  = 14. Donc en cas de test salivaire positif,
+l’odds de COVID-19 est multiplié par 70/5 = 14.
+B. FAUX : cf item A.
+C. VRAI :
+Tout d’abord, on a la Prévalence = Ppré-test = 0,05
+0,05
+5
+De celle-ci on peut déduire l’Oddspré-test =
+1−0,05 =
+95
+𝑠𝑒𝑛𝑠𝑖𝑏𝑖𝑙𝑖𝑡é
+70
+Ensuite, nous devons calculer le Ratio de Vraisemblance Positif RV+ : RV+ =
+1−𝑠𝑝é𝑐𝑖𝑓𝑖𝑐𝑖𝑡é =
+5
+5
+70
+70
+Ainsi, l’Oddspost-test = Oddspré-test × RV+ =
+95 ×
+5  =
+95
+70
+70
+70
+95
+70
+14
+95
+95
+Puis on calcule la Ppost-test = PT+ (M) =
+=
+=
+95 ×
+165 =
+165 =
+33
+1+ 70
+165
+95
+95
+D. FAUX, cf E.
+E. VRAI : quand la prévalence augmente, la VPP augmente donc la VPP du test serait plus élevée pour la
+population du personnel HCL, dans laquelle la prévalence de COVID-19 est de 10 % (à la place de 5 %).
+NOTES
+
+
+===
+
+Q8 · clé ACD
+SUJET
+Exercice 7 :
+Une étude a été réalisée sur tous les adultes hospitalisés le 27 mars aux HCL pour COVID-19 (342 patients Le
+27 mars, 230 étaient en service de médecine (dont 50 avec un indice de masse corporelle supérieur à 3n IMC
+> 30), et 112 en soins-intensifs et réanimation (dont 40 avec un IMC supérieur à 30).
+On donne 180/72 = 5/2.
+8. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s):
+A. Il s'agit d'une étude transversale
+B. Il s'agit d'une étude de cohorte
+C. L'odds d'hospitalisation en soins-intensifs/réanimation est 2 fois plus élevé chez les patients avec un
+IMC supérieur à 30 que chez ceux ayant un IMC inférieur ou égal à 30
+D. La différence de risque d'hospitalisation en soins-intensifs/réanimation entre les patients avec un
+IMC supérieur à 30 et ceux ayant un IMC inférieur ou égal à 30 devrait être positive
+E. Au 1 mars, où la proportion de cas COVID-19 en soins-intensifs/réanimation était plus faible qu'au
+27 mars, l'odds ratio d'hospitalisation en soins-intensifs/réanimation entre les deux catégories d'IMC
+est forcément inférieur à celui du 27 mars (toute chose égale par ailleurs)
+CORRIGÉ
+ACD
+A. VRAI : l’étude est réalisée un jour donné.
+B. FAUX : on ne parle pas de suivre les patients dans le temps.
+40
+72
+4
+2
+C. VRAI :  𝑜𝑑𝑑𝑖𝑚𝑐>30 =
+90
+252
+=
+5 et 𝑜𝑑𝑑𝑖𝑚𝑐<30  =
+=
+5
+180
+50
+252
+90
+D. VRAI : Le premier groupe de la différence a un risque plus élevé́ que le second. Le facteur mis en
+premier dans la différence est dit aggravant. On aura une différence de risque positive.
+E. FAUX : à toute chose égale par ailleurs, il y a globalement moins de personnes en réanimation donc ne
+change pas l’odd ratio entre les deux catégories d’IMC.
+On compare le risque d'hospitalisation en soins-intensifs/réanimation entre les deux groupes d'IMC. Le test de
+l'écart-réduit de comparaison des deux proportions conduit à une statistique de test de 2,7.
+NOTES
+
+
+===
+
+Q9 · clé ACDE
+SUJET
+On compare le risque d'hospitalisation en soins-intensifs/réanimation entre les deux groupes d'IMC. Le test
+de l'écart-réduit de comparaison des deux proportions conduit à une statistique de test de 2,7.
+9. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Au risque d'erreur de 5 %, le risque d'hospitalisation en soins-intensifs/réanimation est
+statistiquement différent entre les deux groupes d'IMC
+B. La p-value du test de comparaison des proportions est supérieure à 0,05
+C. L'écart de risque d'hospitalisation en soins-intensifs/réanimation entre les deux groupes d'IMC n'est
+pas compatible avec de simples fluctuations aléatoires
+D. Au 1er mars, où l'effectif global de patients COVID-19 hospitalisés aux HCL était plus faible qu'au 27
+mars, la statistique de l'écart-réduit aurait été plus faible qu'au 27 mars (toute chose égale par
+ailleurs)
+E. Les résultats obtenus incitent à une prise en charge renforcée des patients COVID-19 avec un IMC
+supérieur à 30 dès leur arrivée aux HCL (sans considérer la significativité statistique)
+CORRIGÉ
+ACDE
+A. VRAI : la statistique de test est 2,7 > 1,96 donc on rejette l’hypothèse nulle H0 au risque d’erreur 5 %.
+Le risque d’hospitalisation en soins-intensifs/réanimation est statistiquement différent entre les deux
+groupes d’IMC au risque d’erreur 5 %.
+B. FAUX : la statistique de test est 2,7 > 1,96 donc p-value < 0,05.
+C. VRAI : p-value < 0,05 donc l’écart de risque d’hospitalisation en soins-intensifs/réanimation entre les
+deux groupes d’IMC n’est pas compatible avec de simples fluctuations aléatoires (au risque d’erreur 5
+%)
+D. VRAI : si n diminue alors l’erreur type augmente donc la statistique de test diminue (toute chose égale
+par ailleurs).
+E. VRAI : le risque d’hospitalisation en soins-intensifs/réanimation est statistiquement différent entre les
+deux groupes d’IMC au risque d’erreur 5 % et les patients COVID-19 avec un IMC supérieur à 30 sont
+plus à risque donc ils nécessitent une prise en charge renforcée.
+NOTES
+
+
+===
+
+Q10 · clé ABE
+SUJET
+Exercice 8 :
+L'étude SOPRAC s'intéresse a l'incidence des cas suspects de COVID-19 détectés par les médecins
+généralistes en Auvergne Rhône Alpes. Durant la semaine 15, 316 nouveaux cas suspects de COVID-19 ont
+été identifiés, pour une patientèle de 79 000 individus, équivalente a 79 000 personnes semaine. Durant la
+semaine 16, 209 nouveaux cas suspects de COVID-19 ont été identifies. On considère qu'il faut au moins
+trois semaines pour guérir du COVID-19.
+10. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s):
+A. L'incidence pour la semaine 15 est donnée par 316/ 79 000 =4 / 1000 personnes-semaine, c’est-à-
+dire 4 pour 1000 personnes-semaine
+B. L'incidence la semaine 15 en personnes-jour est de 4/7 pour 1000 personnes-jours
+C. L'incidence la semaine 16 serait donnée par 209/79 000
+D. L'incidence la semaine 15 nous indique que les médecins généralistes de l'étude avaient 316 patients
+suspects de COVID-19 à soigner la semaine 15
+E. La prévalence de cas suspects de COVID-19 la semaine 15 permettrait de déduire le nombre de
+patients suspects de COVID-19 à soigner la semaine 15
+CORRIGÉ
+ABE
+𝑛𝑏𝑟 𝑑𝑒 𝑛𝑜𝑢𝑣𝑒𝑎𝑢𝑥 𝑐𝑎𝑠
+316
+4
+A. VRAI : incidence =
+𝑛𝑏𝑟 𝑑𝑒 𝑝𝑒𝑟𝑠𝑜𝑛𝑛𝑒𝑠−𝑠𝑒𝑚𝑎𝑖𝑛𝑒 =
+79 000 =
+1 000 =  0,004 donc 4 pour 1000 personnes-
+semaine
+B. VRAI : si on divise l’incidence de la semaine par 7 on aura l’incidence en personnes-jour : 4/7 pour 1000
+personnes-jours.
+C. FAUX : l’incidence est donnée sans unité.
+D. FAUX : on dit qu’il faut trois semaines pour guérir du COVID-19, les médecins avaient donc des patients
+contaminés lors des semaines 13, 14 et 15.
+E. VRAI : si on sait combien de patients sont déjà malades au début de la semaine 15 (prévalence) et
+combien sont tombés malade pendant la semaine (incidence) on aura le nombre total de patients
+malade lors de la semaine 15 dans la région.
+NOTES
+
+
+===
+
+Q11 · clé BDE
+SUJET
+Exercice 9 :
+Un essai a comparé l'efficacité d'un anticorps monoclonal anti-PDL1 (atezolizumab) à celle de la
+chimiothérapie à base de sels de platine sur le risque de décès à 2 ans des patients atteints de cancer du
+poumon non à petites cellules.
+La randomisation était stratifiée sur différentes variables, dont le genre (homme, femme). Le bras de
+traitement était connu des médecins et des patients. Au total, 580 patients de différents pays devaient être
+randomisés pour permettre de mettre en évidence un risque relatif (RR) statistiquement significatif, sous
+l'hypothèse RR = 0,65, avec un risque alpha bilatéral de 5 % et un risque beta de 10 %.
+11. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. L'étude est un essai clinique contrôlé, randomisé, multicentrique, en simple aveugle
+B. La stratification permet d'obtenir des sex-ratios similaires dans les deux bras
+C. La probabilité de conclure à tort à un effet significatif de l'atezolizumab est de 10 %
+D. Sous l'hypothèse RR=0,8, toute chose égale par ailleurs, il faudrait plus de patients
+E. Avec plus de patients inclus, toute chose égale par ailleurs, la puissance serait supérieure
+CORRIGÉ
+BDE
+A. FAUX : les patients et leur médecin connaissaient le traitement reçu.
+B. VRAI : si on sépare les hommes et les femmes puis qu’on randomise dans chaque groupe, on
+conservera le sexe ratio. C’est le but de la stratification.
+C.  FAUX : dire qu’il existe un effet significatif revient à rejet Ho. Or, le risque de rejeter Ho à tort est le
+risque alpha, qui est de 5% dans cette étude.
+D. VRAI : plus le risque RR s’approche de 1, plus la différence de risque est petite. Elle est donc plus
+« dure » à mettre en évidence et on aura besoin de plus de patients.
+E. VRAI : plus on inclut de patients, plus la puissance sera grande (= l’étude sera fiable)
+NOTES

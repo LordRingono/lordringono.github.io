@@ -1,0 +1,324 @@
+
+### bio.cm2oral ID 1 | ANSWER BD | COMPLETE True
+PREP STEM: A propos des techniques de biologie cellulaire
+SUBJECT
+Colles orales non corrigées.pdf p1 [0, 32.51, 595.303955078125, 156.71]
+1) A propos des techniques de biologie cellulaire
+A. le siARN code pour une protéine
+B.  le shARN est introduit par transfection , il peut alors se recombiner au génome de la cellule hôte
+C.  la technique de CRISPR Cas9 est une technique de sur-activation totale et permanente.
+D. quand on fusionne deux gènes sur un vecteur de transfection, par exemple le gène de l’insuline + le
+   gène de la GFP alors l’insuline devient fluorescente
+E. en MO afin de déterminer la puissance d’un microscope on multiplie le grossissement de l’objectif
+    par la longueur d’onde de la lumière incidente
+CORRECTION
+Colles orales corrigées.pdf p1 [0, 32.51, 595.303955078125, 198.11]
+1) A propos des techniques de biologie cellulaire
+A. le siARN code pour une protéine Faux il s’apparie à l’ARNm afin d’annuler la traduction de
+  l’ARNm endogène
+B.  le shARN est introduit par transfection , il peut alors se recombiner au génome de la cellule hôte
+   Vrai , on l’introduit comme un transgène dans la cellule et il est transcrit en siARN
+C. la technique de CRISPR Cas9 est une technique de sur-activation totale et permanente. Faux,
+    extinction
+D. quand on fusionne deux gènes sur un vecteur de transfection, par exemple le gène de l’insuline + le
+   gène de la GFP alors l’insuline devient fluorescente Vrai
+E. en MO afin de déterminer la puissance d’un microscope on multiplie le grossissement de l’objectif
+    par la longueur d’onde de la lumière incidente Faux G objectif x G oculaire
+
+### bio.cm2oral ID 2 | ANSWER AE | COMPLETE True
+PREP STEM: Cette expérience et vos connaissances en biologie cellulaire vous permettent de dire que :
+SUBJECT
+Colles orales non corrigées.pdf p1 [0, 156.71, 595.303955078125, 414.76]
+Question 2 : L’expérience consiste à créer 5 colonies de levures exprimant chacune une protéine exogène.
+On construit cinq vecteurs différents contenant à chaque fois le fragment d’ADN codant pour une des 5
+protéines, suivi d’un fragment codant pour le gène de la GFP. Après transfection des vecteurs respectifs
+dans les levures, on obtient 5 colonies exprimant respectivement les 5 protéines : HLA B-52, DAP, Mdm2,
+AP-N et Arkin-Z.
+Après observation au microscope confocal à fluorescence on obtient la figure 1:
+Colonie exprimant HLA B-52 : figure 1.A
+Colonie exprimant DAP : figure 1.B
+Colonie exprimant Mdm2 : figure 1.C
+Colonie exprimant AP-N : figure 1.D
+Colonie exprimant Arkin-Z : figure 1.E
+
+Figure 1 :
+
+
+
+
+           1.A            1.B            1.C            1.D            1.E
+Colles orales non corrigées.pdf p1 [0, 414.76, 595.303955078125, 566.56]
+Question 4 : Cette expérience et vos connaissances en biologie cellulaire vous permettent de dire que :
+   A. La levure Saccharomyces Cerevisiae peut être cultivée en flacon de culture, en suspension.
+   B. Pour fonctionner, le vecteur transfecté, doit contenir un promoteur situé en aval des séquences codant
+       pour la protéine et pour la GFP.
+   C. Ce promoteur devra être spécifique des procaryotes, si l’on veut que Saccharomyces Cerevisiae
+       puisse le transcrire.
+   D. Pour maintenir une phase de lecture ouverte, il faudra enlever le codon STOP du gène codant pour le
+       fluorophore.
+   E. Saccharomyces Cerevisiae exprimera la protéine d’intérêt exogène qui sera fluorescente grâce à la
+       présence de GFP.
+Colles orales non corrigées.pdf p1 [34.0, 325.0, 460.0, 406.0]
+Figure 1 :
+
+
+
+
+           1.A            1.B            1.C            1.D            1.E
+CORRECTION
+Colles orales corrigées.pdf p1 [0, 198.11, 595.303955078125, 456.16]
+Question 2 : L’expérience consiste à créer 5 colonies de levures exprimant chacune une protéine exogène.
+On construit cinq vecteurs différents contenant à chaque fois le fragment d’ADN codant pour une des 5
+protéines, suivi d’un fragment codant pour le gène de la GFP. Après transfection des vecteurs respectifs
+dans les levures, on obtient 5 colonies exprimant respectivement les 5 protéines : HLA B-52, DAP, Mdm2,
+AP-N et Arkin-Z.
+Après observation au microscope confocal à fluorescence on obtient la figure 1:
+Colonie exprimant HLA B-52 : figure 1.A
+Colonie exprimant DAP : figure 1.B
+Colonie exprimant Mdm2 : figure 1.C
+Colonie exprimant AP-N : figure 1.D
+Colonie exprimant Arkin-Z : figure 1.E
+
+Figure 1 : ( La GFP apparait en blanc sur l’image noir et blanc)
+
+
+
+
+           1.A            1.B            1.C            1.D            1.E
+Colles orales corrigées.pdf p1 [0, 456.16, 595.303955078125, 621.76]
+Question 4 : Cette expérience et vos connaissances en biologie cellulaire vous permettent de dire que :
+   A. La levure Saccharomyces Cerevisiae peut être cultivée en flacon de culture, en suspension. VRAI,
+        unicellulaire non adhérent
+   B. Pour fonctionner, le vecteur transfecté, doit contenir un promoteur situé en aval des séquences codant
+       pour la protéine et pour la GFP. FAUX, en amont
+   C. Ce promoteur devra être spécifique des procaryotes, si l’on veut que Saccharomyces Cerevisiae
+       puisse le transcrire. FAUX, eucaryotes
+   D. Pour maintenir une phase de lecture ouverte, il faudra enlever le codon STOP du gène codant pour le
+       fluorophore. FAUX, du gène des 5 protéines
+   E. Saccharomyces Cerevisiae exprimera la protéine d’intérêt exogène qui sera fluorescente grâce à la
+       présence de GFP. VRAI
+
+### bio.cm2oral ID 3 | ANSWER AB | COMPLETE True
+PREP STEM: D’après les informations qui vous sont données et vos connaissances en biologie cellulaire, vous pouvez dire que :
+SUBJECT
+Colles orales non corrigées.pdf p1 [0, 156.71, 595.303955078125, 414.76]
+Question 2 : L’expérience consiste à créer 5 colonies de levures exprimant chacune une protéine exogène.
+On construit cinq vecteurs différents contenant à chaque fois le fragment d’ADN codant pour une des 5
+protéines, suivi d’un fragment codant pour le gène de la GFP. Après transfection des vecteurs respectifs
+dans les levures, on obtient 5 colonies exprimant respectivement les 5 protéines : HLA B-52, DAP, Mdm2,
+AP-N et Arkin-Z.
+Après observation au microscope confocal à fluorescence on obtient la figure 1:
+Colonie exprimant HLA B-52 : figure 1.A
+Colonie exprimant DAP : figure 1.B
+Colonie exprimant Mdm2 : figure 1.C
+Colonie exprimant AP-N : figure 1.D
+Colonie exprimant Arkin-Z : figure 1.E
+
+Figure 1 :
+
+
+
+
+           1.A            1.B            1.C            1.D            1.E
+Colles orales non corrigées.pdf p1 [0, 566.56, 595.303955078125, 670.64]
+Question 3 : D’après les informations qui vous sont données et vos connaissances en biologie
+cellulaire, vous pouvez dire que :
+   A.  La protéine Arkin-Z est une protéine membranaire.
+   B. Mdm2 est une protéine plutôt cytosolique.
+   C.  Cette image est basée sur une technique d’immunomarquage.
+   D.  Le microscope utilisé a une limite de résolution à 200 microns.
+   E.  AP-N présente une localisation nucléaire.
+Colles orales non corrigées.pdf p1 [34.0, 325.0, 460.0, 406.0]
+Figure 1 :
+
+
+
+
+           1.A            1.B            1.C            1.D            1.E
+CORRECTION
+Colles orales corrigées.pdf p1 [0, 198.11, 595.303955078125, 456.16]
+Question 2 : L’expérience consiste à créer 5 colonies de levures exprimant chacune une protéine exogène.
+On construit cinq vecteurs différents contenant à chaque fois le fragment d’ADN codant pour une des 5
+protéines, suivi d’un fragment codant pour le gène de la GFP. Après transfection des vecteurs respectifs
+dans les levures, on obtient 5 colonies exprimant respectivement les 5 protéines : HLA B-52, DAP, Mdm2,
+AP-N et Arkin-Z.
+Après observation au microscope confocal à fluorescence on obtient la figure 1:
+Colonie exprimant HLA B-52 : figure 1.A
+Colonie exprimant DAP : figure 1.B
+Colonie exprimant Mdm2 : figure 1.C
+Colonie exprimant AP-N : figure 1.D
+Colonie exprimant Arkin-Z : figure 1.E
+
+Figure 1 : ( La GFP apparait en blanc sur l’image noir et blanc)
+
+
+
+
+           1.A            1.B            1.C            1.D            1.E
+Colles orales corrigées.pdf p1 [0, 621.76, 595.303955078125, 739.64]
+Question 3 : D’après les informations qui vous sont données et vos connaissances en biologie
+cellulaire, vous pouvez dire que :
+   A.  La protéine Arkin-Z est une protéine membranaire. VRAI
+   B. Mdm2 est une protéine plutôt cytosolique. VRAI
+   C.  Cette image est basée sur une technique d’immunomarquage. FAUX, transgène qui exprime une
+       molécule fluorescente
+   D.  Le microscope utilisé a une limite de résolution à 200 microns. FAUX, 200nm
+   E.  AP-N présente une localisation nucléaire. FAUX, membranaire
+
+### bio.cm2oral ID 4 | ANSWER AD | COMPLETE True
+PREP STEM: Selon vos connaissances et la figure 2 (la pondération de cette question est triple)
+SUBJECT
+Colles orales non corrigées.pdf p2 [0, 32.51, 595.303955078125, 620.61]
+41. Selon vos connaissances et la figure 2 (la pondération de cette question est triple)
+
+
+
+
+
+A. Les cellules apoptotiques exposent les phosphatidylsérines sur le feuillet externe de la membrane
+cellulaire
+B. Dans aucune des conditions on observe des cellules en nécrose.
+C. L’etoposide entraîne une apoptose massive des cellules
+D. L’ouabaïne entraîne une apoptose massive des cellules
+E. L’exposition préalable à l’etoposide protège contre la nécrose.
+Colles orales non corrigées.pdf p2 [36.0, 49.75, 559.3, 499.85]
+g       (  p                q           p  )
+CORRECTION
+Colles orales corrigées.pdf p2 [0, 32.51, 595.303955078125, 620.61]
+41. Selon vos connaissances et la figure 2 (la pondération de cette question est triple)
+
+
+
+
+
+A. Les cellules apoptotiques exposent les phosphatidylsérines sur le feuillet externe de la membrane
+cellulaire VRAI
+B. Dans aucune des conditions on observe des cellules en nécrose. FAUX, avec ouabaïn
+C. L’etoposide entraîne une apoptose massive des cellules FAUX, pas de différence significative avec le non
+traité
+D. L’ouabaïne entraîne une apoptose massive des cellules VRAI
+E. L’exposition préalable à l’etoposide protège contre l’apoptose. FAUX
+
+### bio.cm2oral ID 5 | ANSWER CDE | COMPLETE True
+PREP STEM: La centrifugation simple de produits obtenus à partir de cellules lysées mécaniquement :
+SUBJECT
+Colles orales non corrigées.pdf p2 [0, 620.61, 595.303955078125, 738.49]
+8) La centrifugation simple de produits obtenus à partir de cellules lysées mécaniquement :
+   A. permet le tri des cellules
+   B. permet le tri des protéines
+   C. permet le tri des organelles
+   D. les différents organelles sont séparés du lysat cellulaire selon les vitesses de centrifugation
+        croissantes
+   E. Les cellules non perméabilisées et les Noyaux se retrouvent dans le culot après une centrifugation à
+      1000g (basse vitesse)
+CORRECTION
+Colles orales corrigées.pdf p2 [0, 620.61, 595.303955078125, 752.29]
+8) La centrifugation simple de produits obtenus à partir de cellules lysées mécaniquement :
+   A. permet le tri des cellules Faux, on raisonne sur ce qu’elles contiennent : les organites
+   B. permet le tri des protéines Faux, détergent doux
+   C. permet le tri des organelles Vrai, détergent doux
+   D. les différents organelles sont séparés du lysat cellulaire selon les vitesses de centrifugation
+        croissantes Vrai
+   E. Les cellules non perméabilisées et les noyaux se retrouvent dans le culot après une centrifugation à
+      1000g (basse vitesse) Vrai la vitesse de centrifugation permet de séparer les différents éléments
+        cellulaires selon leur densité et leur taille, en premier on récupère les N
+
+### bio.cm2oral ID 6 | ANSWER ACE | COMPLETE True
+PREP STEM: A propos du document suivant :
+SUBJECT
+Colles orales non corrigées.pdf p3 [0, 32.51, 595.303955078125, 322.31]
+7) A propos du document suivant :
+
+
+
+
+
+   A.  il s’agit d’une électrophorèse en deux dimensions
+   B. Les protéines d’un lysat cellulaire total sont traitées dans un premier temps au SDS puis séparées
+   C. Dans un second temps, on opère à un SDS PAGE
+   D. Cette technique permet d’identifier une protéine
+   E. La technique Maldi-tof MS permet d’identifier des groupes de peptides et d’AA dans une protéine
+Colles orales non corrigées.pdf p3 [41.4, 63.2, 190.85, 210.65]
+
+CORRECTION
+Colles orales corrigées.pdf p3 [0, 32.51, 595.303955078125, 393.01]
+7) A propos du document suivant :
+
+
+
+
+
+   A.  il s’agit d’une électrophorèse en deux dimensions Vrai
+   B. Les protéines d’un lysat cellulaire total sont traitées dans un premier temps au SDS puis séparées
+      Faux elles sont d’abord dénaturées (linéarisées) par un détergent non ioniques pour conserver
+       leur charge, elles sont séparées alors selon l’axe IEF selon leur point isoélectrique dans un
+       gradient de pH
+   C. Dans un second temps, on opère à un SDS PAGE Vrai cela charge toutes les protéines en – grâce
+      au SDS
+   D. Cette technique permet d’identifier une protéine Faux de l’isoler et seulement si on sait où elle doit
+      migrer sur le gel en 2 D , elle sera identifiée par spectrométrie de masse ensuite
+   E. La technique Maldi-tof MS permet d’identifier des groupes de peptides et d’AA dans une protéine
+       Vrai
+
+### bio.cm2oral ID 7 | ANSWER AB | COMPLETE True
+PREP STEM: En fonction de vos connaissances générales en biologie cellulaire, et en considérant le document, vous pouvez affirmer que :
+SUBJECT
+Colles orales non corrigées.pdf p3 [0, 322.31, 595.303955078125, 783.84]
+Q8. Dans les reins de patients souffrant de PKDs, la voie de signalisation de « mammalian target of
+rapamycine» (mTOR) qui est impliquée dans le contrôle du métabolisme et de la croissance cellulaire,
+est hyper-activée dans les cellules des tubules rénaux, qui sont de plus grande taille que dans les reins
+normaux.
+On sait que mTOR n’est activé qu’après phosphorylation.
+Les chercheurs ont préparé des lysats de cellules épithéliales tubulaires rénales cultivées en condition
+standard (-) ou en flux tangentiel (+) (= qui mime un flux urinaire tangentiel). Les lysats ont été traités
+avec du bétamercaptoéthanol (produit qui détruits les ponts di-sulfures) puis analysés par SDS-PAGE
+révélé avec des anticorps anti mTOR, anti-mTOR phosphorylé, et anti-tubuline comme indiqués sur
+le document ci-dessous.
+En fonction de vos connaissances générales en biologie cellulaire, et en considérant le document, vous
+pouvez affirmer que :
+
+
+
+
+
+   A. Le SDS est utilisé pour neutraliser l’effet des charges électriques des protéines sur leur vitesse de
+       migration en gel d’acrylamide et ainsi de favoriser leur déplacement selon leur masse
+   B. La culture en flux tangentiel augmente l’expression de mTOR dans les cellules rénales
+   C.  La phosphorylation de mTOR augmente lorsque les cellules épithéliales de rein sont cultivées en
+       présence d’un flux tangentiel
+   D. le résultat montre que mTOR est activé dans les cellules en flux tangentiel
+   E.  les résultats du document correspondent à une co-immunoprécipitation
+Colles orales non corrigées.pdf p3 [36.0, 505.15, 526.55, 669.4]
+
+CORRECTION
+Colles orales corrigées.pdf p3 [0, 393.01, 595.303955078125, 785.54]
+Q8. Dans les reins de patients souffrant de PKDs, la voie de signalisation de « mammalian target of
+rapamycine» (mTOR) qui est impliquée dans le contrôle du métabolisme et de la croissance cellulaire,
+est hyper-activée dans les cellules des tubules rénaux, qui sont de plus grande taille que dans les reins
+normaux.
+On sait que mTOR n’est activé qu’après phosphorylation.
+Les chercheurs ont préparé des lysats de cellules épithéliales tubulaires rénales cultivées en condition
+standard (-) ou en flux tangentiel (+) (= qui mime un flux urinaire tangentiel). Les lysats ont été traités
+avec du bétamercaptoéthanol (produit qui détruits les ponts di-sulfures) puis analysés par SDS-PAGE
+révélé avec des anticorps anti mTOR, anti-mTOR phosphorylé, et anti-tubuline comme indiqués sur
+le document ci-dessous.
+En fonction de vos connaissances générales en biologie cellulaire, et en considérant le document, vous
+pouvez affirmer que :
+
+
+
+
+
+   A. Le SDS est utilisé pour neutraliser l’effet des charges électriques des protéines sur leur vitesse de
+       migration en gel d’acrylamide et ainsi de favoriser leur déplacement selon leur masse VRAI
+Colles orales corrigées.pdf p4 [0, 33.51, 595.303955078125, 177.99]
+B. La culture en flux tangentiel augmente l’expression de mTOR dans les cellules rénales VRAI dans la
+   colonne de droite les anticorps anti-mTor révèlent une ligne plus intense sur la partie centrale des
+    résultats
+C.  La phosphorylation de mTOR augmente lorsque les cellules épithéliales de rein sont cultivées en
+   présence d’un flux tangentiel. FAUX au contraire elle diminue
+D. le résultat montre que mTOR est activé dans les cellules en flux tangentiel. FAUX mtor est activé par
+   phosphorylation et le taux de mTor phosphorylé est bas en flux
+    tangentiel
+E.  les résultats du document correspondent à une co-immunoprécipitation. FAUX Faux simplement un
+  WB

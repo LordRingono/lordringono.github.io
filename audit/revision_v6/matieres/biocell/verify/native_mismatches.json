@@ -1,0 +1,2180 @@
+[
+  {
+    "bank": "bio.cm5",
+    "id": "D",
+    "statement": "L’autophagosome possède une double membrane comme le noyau",
+    "statementInSubjectNative": false,
+    "explanation": "",
+    "explanationInCorrectionNative": true,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm5_subject/AUTOTEST CM5.pdf",
+        "sha256": "09759e2abffabeaacdd18744c9a26a7580424fdb89189aec318f8692bb4a62e4",
+        "page": 2,
+        "rect": [
+          0,
+          662.61,
+          595.303955078125,
+          780.49
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm5_correction/CORRECTION AUTOTEST CM5.pdf",
+        "sha256": "96f14e8c7c234bb31b7f0a8c7835c77c5309fa3766579004f65a6c7db0eef767",
+        "page": 3,
+        "rect": [
+          0,
+          170.51,
+          595.303955078125,
+          331.41
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.cm10",
+    "id": "A",
+    "statement": "un stress intense provoque soit une nécrose soit une autophagie l'apoptose est un processus de mort cellulaire programmé, il ne nécessite pas d'ATP",
+    "statementInSubjectNative": true,
+    "explanation": "une nécrose ou une apoptose / il faut de l'ATP",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm10_subject/AUTOTEST CM10 MORT CELLULAIRE.pdf",
+        "sha256": "a3cacf8f54c15c4756b9b01680e250385c281c9dcca4297ed4e501b11774dab9",
+        "page": 1,
+        "rect": [
+          0,
+          116.45,
+          595.303955078125,
+          248.3
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm10_correction/CORRECTION autotest CM10 MORT CELLULAIRE.pdf",
+        "sha256": "2547da31263f05e038ba8cd36c4b755c5229521d49fdab82d17a34a25633b763",
+        "page": 1,
+        "rect": [
+          0,
+          76.91,
+          595.303955078125,
+          201.11
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": "D",
+    "statement": "En fin de mitose, on observe une augmentation de l’activité ATPase de la lamine A, ce qui entraine la dépolymérisation des filaments de lamine au niveau de l’enveloppe nucléaire",
+    "statementInSubjectNative": false,
+    "explanation": "Les lamines sont des filaments intermédiaires, elles ne possèdent pas d’activité ATPase. De plus, la dépolymérisation des lamines a plutôt lieu en cours de mitose et l’enveloppe nucléaire se recompose à la fin de la division lors de la télophase.",
+    "explanationInCorrectionNative": true,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+        "sha256": "228c1c7b237cf3fe39ddeeda828b442da3ea047e7d8a5057d7c69d4141703a30",
+        "page": 2,
+        "rect": [
+          0,
+          395.26,
+          594.9600219726562,
+          533.39
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC Cytosquelette et migration cellulaire (1)-2.pdf",
+        "sha256": "9102f32c482edb9f2031d3653aa935e50a8c926ffcce3cca3ceb4c689f99b37d",
+        "page": 2,
+        "rect": [
+          0,
+          619.71,
+          594.9600219726562,
+          757.94
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC Cytosquelette et migration cellulaire (1)-2.pdf",
+        "sha256": "9102f32c482edb9f2031d3653aa935e50a8c926ffcce3cca3ceb4c689f99b37d",
+        "page": 3,
+        "rect": [
+          0,
+          72.5,
+          594.9600219726562,
+          221.4599
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": "B",
+    "statement": "L’intérieur du noyau est topologiquement équivalent à l’extérieur de la cellule.",
+    "statementInSubjectNative": true,
+    "explanation": "L’intérieur du noyau est équivalent au reste du cytosol mais est très différent de l’extérieur de la cellule. Annotation : c’est l’intérieur du RE qui est équivalent au milieu extracellulaire en terme de composition.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1142,
+        "rect": [
+          0,
+          66.8499,
+          595.0,
+          338.1698
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+        "sha256": "6c48306bb08d4a244984d31ecb2675e6e3f39bdcc69e8ebe9506f1ec83cdddec",
+        "page": 4,
+        "rect": [
+          94.8,
+          491.4,
+          337.1,
+          581.3
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+        "sha256": "aefbeb26177e671cf58c56a17694880276665173f27fc148d7fbc2214bbab05a",
+        "page": 4,
+        "rect": [
+          0,
+          374.14,
+          594.9600219726562,
+          750.16
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+        "sha256": "aefbeb26177e671cf58c56a17694880276665173f27fc148d7fbc2214bbab05a",
+        "page": 5,
+        "rect": [
+          0,
+          68.39,
+          594.9600219726562,
+          172.74
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": "A",
+    "statement": "Un peptide signal adressant au réticulum endoplasmique est une séquence hydrophobe d’une dizaine d’acides aminés localisée en position N-ter des protéines.",
+    "statementInSubjectNative": true,
+    "explanation": "Le peptide signal adressant au RE est un peptide hydrophobe d’environ 15 à 30 AA en position N-ter (annotation remplaçant 10 AA).",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+        "sha256": "6c48306bb08d4a244984d31ecb2675e6e3f39bdcc69e8ebe9506f1ec83cdddec",
+        "page": 6,
+        "rect": [
+          0,
+          567.0,
+          594.9600219726562,
+          705.26
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+        "sha256": "aefbeb26177e671cf58c56a17694880276665173f27fc148d7fbc2214bbab05a",
+        "page": 8,
+        "rect": [
+          0,
+          112.27,
+          594.9600219726562,
+          447.812
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": "E",
+    "statement": "Le récepteur de la SRP reconnait une séquence hydrophobe sur une protéine en cours de synthèse au niveau du ribosome.",
+    "statementInSubjectNative": true,
+    "explanation": "Le récepteur de la SRP se lie au ribosome et le dirigera vers le canal protéique translocateur. C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse à se fixer sur la face cytosolique du RER.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+        "sha256": "6c48306bb08d4a244984d31ecb2675e6e3f39bdcc69e8ebe9506f1ec83cdddec",
+        "page": 6,
+        "rect": [
+          0,
+          567.0,
+          594.9600219726562,
+          705.26
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+        "sha256": "aefbeb26177e671cf58c56a17694880276665173f27fc148d7fbc2214bbab05a",
+        "page": 8,
+        "rect": [
+          0,
+          112.27,
+          594.9600219726562,
+          447.812
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": "E",
+    "statement": ">90% des protéines synthétisées dans une cellule acquièrent leur conformation fonctionnelle sans l’aide des protéines chaperonnes.",
+    "statementInSubjectNative": false,
+    "explanation": "Environ 30% des protéines sont correctement repliées sans l’aide de chaperonnes.",
+    "explanationInCorrectionNative": true,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1621,
+        "rect": [
+          0,
+          114.8499,
+          595.0,
+          290.6498
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+        "sha256": "aefbeb26177e671cf58c56a17694880276665173f27fc148d7fbc2214bbab05a",
+        "page": 9,
+        "rect": [
+          0,
+          298.54,
+          594.9600219726562,
+          636.38
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": "C",
+    "statement": "La guanosine Exchange Factor de Sar1 (Sar1-GEF) est une protéine membranaire qui participe à la sélection des sites de bourgeonnement de vésicules de transport à partir de la membrane du RE vers l’appareil de Golgi.",
+    "statementInSubjectNative": false,
+    "explanation": "",
+    "explanationInCorrectionNative": true,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1006,
+        "rect": [
+          0,
+          66.8499,
+          595.0,
+          426.199
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "sha256": "e28d5cc12f9ddb7907a018d72b58b799f0372ee64e629249f061e709a767caf5",
+        "page": 1,
+        "rect": [
+          36.0,
+          179.4,
+          392.3,
+          321.1
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "sha256": "b781e9e7feae04e958302eae295f7456a3126539bb22d0321fdc00bae51eb2f1",
+        "page": 1,
+        "rect": [
+          0,
+          164.02,
+          595.3200073242188,
+          459.83
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1041,
+        "rect": [
+          0,
+          66.8499,
+          595.0,
+          498.0498
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": "C",
+    "statement": "La N-glycosylation des hydrolases acides est suffisante pour les diriger vers les lysosomes en suivant les flèches rouges indiquées par les flèches 2",
+    "statementInSubjectNative": true,
+    "explanation": "Adressage aux lysosomes par le récepteur M6P qui repère le signal mannose-6-phosphate.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1105,
+        "rect": [
+          0,
+          66.8499,
+          595.0,
+          398.4098
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "sha256": "e28d5cc12f9ddb7907a018d72b58b799f0372ee64e629249f061e709a767caf5",
+        "page": 4,
+        "rect": [
+          54.0,
+          149.0,
+          302.9,
+          312.3
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "sha256": "b781e9e7feae04e958302eae295f7456a3126539bb22d0321fdc00bae51eb2f1",
+        "page": 4,
+        "rect": [
+          0,
+          118.75,
+          594.9600219726562,
+          560.03
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": "D",
+    "statement": "Le compartiment vésiculaire renseigné par la flèche 3 est celui qu’empruntent les protéines sécrétées de manière constitutive",
+    "statementInSubjectNative": true,
+    "explanation": "Les protéines sécrétées de manière constitutive sont les sécrétions non régulées. Le tr [fin de l’annotation tronquée dans le PDF source].",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1105,
+        "rect": [
+          0,
+          66.8499,
+          595.0,
+          398.4098
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "sha256": "e28d5cc12f9ddb7907a018d72b58b799f0372ee64e629249f061e709a767caf5",
+        "page": 4,
+        "rect": [
+          54.0,
+          149.0,
+          302.9,
+          312.3
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "sha256": "b781e9e7feae04e958302eae295f7456a3126539bb22d0321fdc00bae51eb2f1",
+        "page": 4,
+        "rect": [
+          0,
+          118.75,
+          594.9600219726562,
+          560.03
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": "C",
+    "statement": "La matrice d’une mitochondrie en cours de mitophagie est séparée du cytosol par 4 membranes.",
+    "statementInSubjectNative": true,
+    "explanation": "Les 2 membranes de l’autophagosome et de la mitochondrie.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "sha256": "e28d5cc12f9ddb7907a018d72b58b799f0372ee64e629249f061e709a767caf5",
+        "page": 7,
+        "rect": [
+          0,
+          309.46,
+          594.9600219726562,
+          719.9
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "sha256": "e28d5cc12f9ddb7907a018d72b58b799f0372ee64e629249f061e709a767caf5",
+        "page": 7,
+        "rect": [
+          108.2,
+          363.3,
+          486.8,
+          534.9
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "sha256": "b781e9e7feae04e958302eae295f7456a3126539bb22d0321fdc00bae51eb2f1",
+        "page": 8,
+        "rect": [
+          0,
+          477.6,
+          594.9600219726562,
+          750.86
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "sha256": "b781e9e7feae04e958302eae295f7456a3126539bb22d0321fdc00bae51eb2f1",
+        "page": 9,
+        "rect": [
+          0,
+          70.7,
+          594.9600219726562,
+          233.1
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": "B",
+    "statement": "L’ADN mitochondrial est organisé sous forme d’un chromosome avec un centromère et deux télomères",
+    "statementInSubjectNative": true,
+    "explanation": "Pas de centromère et de télomères (verdict explicite de la compilation générale, p. 1038).",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM8 2019-2025.pdf",
+        "sha256": "e6771669777b731f21d56e7c2960779c8bfb30dc03e840fe1fa2f92be7a8528b",
+        "page": 1,
+        "rect": [
+          0,
+          62.95,
+          595.3200073242188,
+          180.61
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigees CM8 2019-2025-1.pdf",
+        "sha256": "4069aae4bb41058d3375a8d5754749d6f1740731db7cfa4f4f9619ddfb353657",
+        "page": 1,
+        "rect": [
+          0,
+          62.95,
+          595.3200073242188,
+          194.41
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "sha256": "f4bd0582c8d110fe22561066a89ad5ecf458207cd212765ce007e6d41e9273ec",
+        "page": 1038,
+        "rect": [
+          0,
+          66.8499,
+          595.0,
+          302.6898
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm9",
+    "id": "B",
+    "statement": "elle se déroule juste après le passage du 3 point de contrôle du cycle cellulaire",
+    "statementInSubjectNative": true,
+    "explanation": "2ème [point de contrôle].",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM9 2023-2025.pdf",
+        "sha256": "9c73c1d436753f19ddda16e32b892746cb99cf619d979863dfa712e8cbb8a01c",
+        "page": 3,
+        "rect": [
+          0,
+          602.19,
+          594.9600219726562,
+          700.1
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM9 2025-2025-1.pdf",
+        "sha256": "ab370ede48f7a87706314d9ad00d194d514eabfc6e2090b2bb31117b480489b8",
+        "page": 5,
+        "rect": [
+          0,
+          317.26,
+          594.9600219726562,
+          698.78
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "A",
+    "statement": "Les cellules restent bloquées en phase G1 quel que soit le lysat analysé.",
+    "statementInSubjectNative": false,
+    "explanation": "Les cellules ne restent pas en G1, elles repartent dans le cycle après retrait de l’inhibiteur.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          85.0,
+          595.3200073242188,
+          615.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          42.0,
+          320.0,
+          300.0,
+          460.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 1,
+        "rect": [
+          0,
+          86.0,
+          595.3200073242188,
+          810.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "B",
+    "statement": "La quantité de cycline B est variable, avec un pic entre 8 et 10h après la remise en culture sans inhibiteur.",
+    "statementInSubjectNative": false,
+    "explanation": "La cycline B varie et présente un pic vers 8–10 h, signe d’entrée en mitose (la cycline B est associée à l’entrée en phase G2/M, surtout la mitose).",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          85.0,
+          595.3200073242188,
+          615.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          42.0,
+          320.0,
+          300.0,
+          460.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 1,
+        "rect": [
+          0,
+          86.0,
+          595.3200073242188,
+          810.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "C",
+    "statement": "Cette PCR montre une variation d’expression des lamines A et C.",
+    "statementInSubjectNative": false,
+    "explanation": "Ce n’est pas une PCR, c’est un Western blot, donc on analyse des protéines, pas l’expression d’ARN.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          85.0,
+          595.3200073242188,
+          615.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          42.0,
+          320.0,
+          300.0,
+          460.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 1,
+        "rect": [
+          0,
+          86.0,
+          595.3200073242188,
+          810.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "À 9h, on note la présence de lamines A et C phosphorylées sur les sites Thr19 et Ser22.",
+    "statementInSubjectNative": false,
+    "explanation": "À 9 h, on observe des lamines A/C phosphorylées sur Thr19 et Ser22.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          85.0,
+          595.3200073242188,
+          615.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          42.0,
+          320.0,
+          300.0,
+          460.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 1,
+        "rect": [
+          0,
+          86.0,
+          595.3200073242188,
+          810.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "La phosphorylation des lamines A/C est maximale lors de la phase de mitose.",
+    "statementInSubjectNative": false,
+    "explanation": "La phosphorylation des lamines A/C est maximale en mitose, où elle permet la désorganisation de l’enveloppe nucléaire.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          85.0,
+          595.3200073242188,
+          615.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          42.0,
+          320.0,
+          300.0,
+          460.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 1,
+        "rect": [
+          0,
+          86.0,
+          595.3200073242188,
+          810.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "A",
+    "statement": "Cette observation est réalisée en microscopie électronique.",
+    "statementInSubjectNative": false,
+    "explanation": "c’est de la microscopie à fluorescence (présence de fluorochrome: DAPI, marquage vert).",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          465.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          50.0,
+          60.0,
+          278.0,
+          185.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 2,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          770.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "B",
+    "statement": "La chromatine est condensée sous forme de chromosomes, les cellules sont probablement en phase G1.",
+    "statementInSubjectNative": false,
+    "explanation": "la chromatine n’est pas condensée. On voit clairement l’aspect diffus du DAPI, donc les cellules sont en interphase et pas en mitose, donc certainement pas en G1 (chromosomes condensés).",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          465.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          50.0,
+          60.0,
+          278.0,
+          185.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 2,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          770.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "C",
+    "statement": "En condition WT, la lamine A présente la localisation sous-membranaire, qui est attendue en interphase (G1/S/G2).",
+    "statementInSubjectNative": false,
+    "explanation": "en condition WT la lamine A forme un réseau sous la membrane nucléaire (typique des phases G1/S/G2).",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          465.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          50.0,
+          60.0,
+          278.0,
+          185.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 2,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          770.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "Le mutant T19D induit une relocalisation significative de la lamine A dans le nucléoplasme.",
+    "statementInSubjectNative": false,
+    "explanation": "L’image montre une lamine moins périphérique et le graphique confirme une augmentation du ratio nucléoplasme/membrane, donc relocalisation significative (****) de la lamine vers le nucléoplasme.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          465.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          50.0,
+          60.0,
+          278.0,
+          185.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 2,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          770.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "La phosphorylation en T19 et S22 de la lamine A est probablement en cause lors de la dépolymérisation de la lamine",
+    "statementInSubjectNative": false,
+    "explanation": "la phosphorylation casse les interactions entre lamines, entraîne leur dépolymérisation et permet la désorganisation de l’enveloppe nucléaire. Les mutants T19D et S22D miment cela d’où la dispersion de la lamina nucléaire vers le nucléoplasme.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          465.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 2,
+        "rect": [
+          50.0,
+          60.0,
+          278.0,
+          185.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 2,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          770.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "A",
+    "statement": "La lamine A n'est présente qu'en mitose, son expression étant induite par le couple CDK1/cycline B.",
+    "statementInSubjectNative": false,
+    "explanation": "La lamine A n’est pas présente uniquement en mitose. Elle est une protéine constitutive de la lamina nucléaire, présente aussi en interphase. Ce qui change en mitose, c’est son état de phosphorylation, pas son expression.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          445.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          40.0,
+          55.0,
+          193.0,
+          223.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          201.0,
+          595.3200073242188,
+          306.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 3,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          683.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "B",
+    "statement": "Le couple CDK1/cycline B induit la phosphorylation des lamines A et C en position Ser 22 et Thr19, lors de la mitose.",
+    "statementInSubjectNative": false,
+    "explanation": "Le couple CDK1/cycline B phosphoryle les lamines A et C en mitose, notamment sur Ser22 et Thr19. La figure le montre : en condition mitotique Noc, la phosphorylation est forte, puis elle diminue avec l’inhibiteur de CDK1.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          445.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          40.0,
+          55.0,
+          193.0,
+          223.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          201.0,
+          595.3200073242188,
+          306.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 3,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          683.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "C",
+    "statement": "L'inhibiteur Ro3306 bloque probablement la dépolymérisation de la lamina nucléaire lors de la mitose.",
+    "statementInSubjectNative": false,
+    "explanation": "Ro3306 inhibe CDK1. Or CDK1 permet la phosphorylation des lamines, nécessaire à la dépolymérisation de la lamina nucléaire en mitose.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          445.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          40.0,
+          55.0,
+          193.0,
+          223.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          201.0,
+          595.3200073242188,
+          306.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 3,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          683.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "La dépolymérisation des microtubules participe à la séparation des chromatides pendant la mitose.",
+    "statementInSubjectNative": false,
+    "explanation": "Attention au piège : le nocodazole dépolymérise les microtubules, mais les microtubules du fuseau mitotique sont nécessaires à la séparation des chromatides. Donc leur dépolymérisation empêche la séparation correcte des chromatides, elle n’y participe pas.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          445.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          40.0,
+          55.0,
+          193.0,
+          223.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          201.0,
+          595.3200073242188,
+          306.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 3,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          683.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "Les trois composants du cytosquelette : microfilament d'actine, microtubules et filaments intermédiaires, participent à la mitose.",
+    "statementInSubjectNative": false,
+    "explanation": "Les trois grands composants du cytosquelette participent à la mitose : les microtubules pour le fuseau mitotique (séparation des chromosomes), les microfilaments d’actine dans la cytokinèse (anneau contractile), et les filaments intermédiaires (=lamina nucléaire) dans la désorganisation/réorganisation de l’enveloppe nucléaire.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          445.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 3,
+        "rect": [
+          40.0,
+          55.0,
+          193.0,
+          223.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 1,
+        "rect": [
+          0,
+          201.0,
+          595.3200073242188,
+          306.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 3,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          683.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "A",
+    "statement": "Les cellules apoptotiques sont majoritairement en phase G2-M du cycle cellulaire",
+    "statementInSubjectNative": true,
+    "explanation": "Les cellules apoptotiques ne sont pas forcément en mitose.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          475.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          36.0,
+          171.7,
+          559.3,
+          469.9
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 4,
+        "rect": [
+          0,
+          70.0,
+          595.3200073242188,
+          582.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "C",
+    "statement": "Les cellules apoptotiques ont un volume supérieur aux cellules sénescentes",
+    "statementInSubjectNative": true,
+    "explanation": "Ce sont les cellules sénescentes qui sont plus volumineuses.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          475.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          36.0,
+          171.7,
+          559.3,
+          469.9
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 4,
+        "rect": [
+          0,
+          70.0,
+          595.3200073242188,
+          582.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "Les cellules sénescentes sont métaboliquement actives",
+    "statementInSubjectNative": true,
+    "explanation": "Mais leur métabolisme reste faible et basal.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          475.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          36.0,
+          171.7,
+          559.3,
+          469.9
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 4,
+        "rect": [
+          0,
+          70.0,
+          595.3200073242188,
+          582.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "D’après la figure 1, le traitement à l’étoposide induit la sénescence des cellules END-MSC",
+    "statementInSubjectNative": true,
+    "explanation": "Plusieurs indices permettent de le constater : sur la figure A : le nombre de cellules n’augmente pas lorsqu’elles sont traitées par étoposide, elles semblent ne plus se multiplier. En B, on voit que les cellules traitées expriment fortement la bêta-galactosidase acide, qui est un marqueur des cellules sénescentes. En D, les cellules traitées semblent exprimer p21, qui est aussi une protéine marquant les cellules en sénescence.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          475.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 4,
+        "rect": [
+          36.0,
+          171.7,
+          559.3,
+          469.9
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 4,
+        "rect": [
+          0,
+          70.0,
+          595.3200073242188,
+          582.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "Les cellules sénescentes surexpriment la protéine BCL-2",
+    "statementInSubjectNative": true,
+    "explanation": "Car Bcl2 est anti-apoptotique.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 5,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          625.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 5,
+        "rect": [
+          35.8,
+          57.5,
+          559.1,
+          519.0
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 5,
+        "rect": [
+          0,
+          30.0,
+          595.3200073242188,
+          586.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "C",
+    "statement": "A ce stade, on peut affirmer que les mélanocytes BRAFm meurent de nécrose.",
+    "statementInSubjectNative": true,
+    "explanation": "On observe juste que la multiplication des cellules mutées est plus lente ou qu’elles meurent plus rapidement, on ne peut rien affirmer de plus.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          500.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          55.0,
+          595.3200073242188,
+          427.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "A ce stade, on peut affirmer que les mélanocytes BRAFm meurent par apoptose.",
+    "statementInSubjectNative": true,
+    "explanation": "Si elle avait écrit « on peut supposer », alors on pouvait cocher VRAI.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          500.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          55.0,
+          595.3200073242188,
+          427.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "A ce stade, on peut affirmer que les mélanocytes BRAFm entrent en sénescence.",
+    "statementInSubjectNative": true,
+    "explanation": "Idem que D.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          60.0,
+          595.3200073242188,
+          500.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          55.0,
+          595.3200073242188,
+          427.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "A",
+    "statement": "L’apoptose se caractérise par l’exposition de molécule de phosphatidylsérine (PS) sur le feuillet externe de la membrane cellulaire.",
+    "statementInSubjectNative": true,
+    "explanation": "Les PS sont ensuite reconnues par l’annexine V portée par les macrophages.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          511.0,
+          595.3200073242188,
+          747.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          440.0,
+          595.3200073242188,
+          792.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "C",
+    "statement": "Les cellules en sénescence lysent leur membrane cellulaire et exposent les PS.",
+    "statementInSubjectNative": true,
+    "explanation": "Les cellules en sénescence sont des cellules qui ne se répliquent plus mais elles ne sont pas dégradées.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          511.0,
+          595.3200073242188,
+          747.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          440.0,
+          595.3200073242188,
+          792.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "Selon la figure, les cellules BRAFm sont en apoptose massive.",
+    "statementInSubjectNative": true,
+    "explanation": "La plupart des cellules BRAFm ne sont marquées ni à l’annexine V ni à l’IP : elles sont donc en bonne santé.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          511.0,
+          595.3200073242188,
+          747.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          440.0,
+          595.3200073242188,
+          792.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "Selon la figure, les cellules Mock sont majoritairement nécrotiques.",
+    "statementInSubjectNative": true,
+    "explanation": "Même remarque pour les cellules Mock, elles sont majoritairement en bonne santé.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          0,
+          511.0,
+          595.3200073242188,
+          747.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 6,
+        "rect": [
+          0,
+          440.0,
+          595.3200073242188,
+          792.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "A",
+    "statement": "L’image A a été obtenue en microscopie électronique à balayage.",
+    "statementInSubjectNative": true,
+    "explanation": "Ce sont des cultures cellulaires, MO inversée.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          529.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          36.0,
+          76.7,
+          559.3,
+          379.2
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 7,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          664.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "B",
+    "statement": "L’image B a été obtenue en microscopie électronique à fluorescence.",
+    "statementInSubjectNative": true,
+    "explanation": "La microscopie à fluorescence est optique.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": false,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          529.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          36.0,
+          76.7,
+          559.3,
+          379.2
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 7,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          664.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "D",
+    "statement": "Les cellules bleues observées sont métaboliquement actives.",
+    "statementInSubjectNative": true,
+    "explanation": "Le métabolisme glucidique est actif.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          529.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          36.0,
+          76.7,
+          559.3,
+          379.2
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 7,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          664.0
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": "E",
+    "statement": "D’après toutes les données, l’image B montre des SAHF : Senescence Associated Heterochromatic Foci.",
+    "statementInSubjectNative": true,
+    "explanation": "D’après la figure A et le marquage à la β-galactosidase acide, on déduit que les cellules BRAFm sont vraisemblablement en sénescence. La figure B montre une densification de la chromatine dans ces cellules, ce qui est une autre caractéristique des cellules sénescentes. Ces densifications sont bien appelées des SAHF.",
+    "explanationInCorrectionNative": false,
+    "officialVerdict": true,
+    "subjectReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          0,
+          32.0,
+          595.3200073242188,
+          529.0
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 7,
+        "rect": [
+          36.0,
+          76.7,
+          559.3,
+          379.2
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          37.3,
+          98.3,
+          560.6,
+          402.8
+        ]
+      },
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "sha256": "24f2849e61392460773b8ad1355fcba97615c9e53cbbe682e18b2bf58d8c8816",
+        "page": 6,
+        "rect": [
+          36.0,
+          545.4,
+          559.3,
+          634.7
+        ]
+      }
+    ],
+    "correctionReferences": [
+      {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+        "sha256": "61faf7819fae48ab40941a8182307a2b25164e8ad87677c434f05d326bac69b9",
+        "page": 7,
+        "rect": [
+          0,
+          45.0,
+          595.3200073242188,
+          664.0
+        ]
+      }
+    ]
+  }
+]

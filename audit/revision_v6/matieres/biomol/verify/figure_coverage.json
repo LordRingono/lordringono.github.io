@@ -1,0 +1,4784 @@
+[
+  {
+    "file": "2. Annales ADN LS CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      313.6000061035156,
+      663.7499389648438,
+      551.4500122070312,
+      768.8999633789062
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.adn.annales",
+        "id": 7,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ADN LS CORRECTION.pdf",
+    "imageIndex": 1,
+    "page": 6,
+    "rect": [
+      30.399999618530273,
+      36.649993896484375,
+      361.1999816894531,
+      325.44000244140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.adn.annales",
+        "id": 17,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ADN LS ENONCE.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      309.7200012207031,
+      148.91998291015625,
+      547.5599975585938,
+      254.03997802734375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.adn.annales",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ADN LS ENONCE.pdf",
+    "imageIndex": 1,
+    "page": 5,
+    "rect": [
+      235.55999755859375,
+      42.1199951171875,
+      566.280029296875,
+      330.9599914550781
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.adn.annales",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      437.5199890136719,
+      51.239959716796875,
+      567.9599609375,
+      237.9599609375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.arn.annales",
+        "id": 4,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+    "imageIndex": 1,
+    "page": 3,
+    "rect": [
+      277.32000732421875,
+      576.5999755859375,
+      567.0,
+      703.3199462890625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.arn.annales",
+        "id": 10,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      436.55999755859375,
+      531.5999755859375,
+      567.0,
+      718.43994140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.arn.annales",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+    "imageIndex": 1,
+    "page": 2,
+    "rect": [
+      277.32000732421875,
+      535.0799560546875,
+      567.0,
+      661.7999267578125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.arn.annales",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      406.55999755859375,
+      546.47998046875,
+      561.47998046875,
+      640.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 3,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "imageIndex": 1,
+    "page": 2,
+    "rect": [
+      284.0400085449219,
+      275.6399841308594,
+      580.0800170898438,
+      457.0799865722656
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 5,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "imageIndex": 2,
+    "page": 3,
+    "rect": [
+      289.9200134277344,
+      353.9999694824219,
+      513.47998046875,
+      470.9999694824219
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 8,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "imageIndex": 3,
+    "page": 3,
+    "rect": [
+      35.400001525878906,
+      352.0799865722656,
+      168.83999633789062,
+      456.8399963378906
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 8,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "imageIndex": 4,
+    "page": 4,
+    "rect": [
+      35.400001525878906,
+      83.8800048828125,
+      478.55999755859375,
+      166.44000244140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 9,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "imageIndex": 5,
+    "page": 4,
+    "rect": [
+      35.400001525878906,
+      416.03997802734375,
+      294.239990234375,
+      530.1599731445312
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 10,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.intro.annales",
+        "id": 11,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS ENONCE.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      406.55999755859375,
+      446.6399841308594,
+      561.47998046875,
+      540.3599853515625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS ENONCE.pdf",
+    "imageIndex": 1,
+    "page": 2,
+    "rect": [
+      35.400001525878906,
+      605.6399536132812,
+      168.83999633789062,
+      710.3999633789062
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS ENONCE.pdf",
+    "imageIndex": 2,
+    "page": 2,
+    "rect": [
+      290.1600036621094,
+      55.44000244140625,
+      586.2000122070312,
+      236.760009765625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS ENONCE.pdf",
+    "imageIndex": 3,
+    "page": 3,
+    "rect": [
+      35.400001525878906,
+      83.8800048828125,
+      478.55999755859375,
+      166.44000244140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Acide nucléiques LS ENONCE.pdf",
+    "imageIndex": 4,
+    "page": 3,
+    "rect": [
+      294.3599853515625,
+      302.5199890136719,
+      553.199951171875,
+      403.1999816894531
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.intro.annales",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.intro.annales",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Traduction LS CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 3,
+    "rect": [
+      436.79998779296875,
+      220.55999755859375,
+      560.2799682617188,
+      385.67999267578125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.traduction.annales",
+        "id": 8,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Annales Traduction LS ENONCE.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      436.79998779296875,
+      319.4399719238281,
+      560.2799682617188,
+      484.4399719238281
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.traduction.annales",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      36.959999084472656,
+      97.31953430175781,
+      287.9374694824219,
+      231.24002075195312
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 1,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 1,
+    "page": 1,
+    "rect": [
+      290.3999938964844,
+      67.91998291015625,
+      549.3599853515625,
+      231.239990234375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 1,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 2,
+    "page": 1,
+    "rect": [
+      223.8000030517578,
+      356.15997314453125,
+      471.96002197265625,
+      527.0399780273438
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 3,
+    "page": 1,
+    "rect": [
+      484.20001220703125,
+      366.8399658203125,
+      580.3200073242188,
+      517.0799560546875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 4,
+    "page": 1,
+    "rect": [
+      43.439998626708984,
+      341.760009765625,
+      207.1199951171875,
+      555.239990234375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 2,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 5,
+    "page": 1,
+    "rect": [
+      37.439998626708984,
+      591.5999755859375,
+      223.6800079345703,
+      789.3599853515625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 4,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 6,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      35.879974365234375,
+      568.4400024414062,
+      335.15997314453125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 5,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 7,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      366.239990234375,
+      310.79998779296875,
+      617.2799682617188
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 6,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 8,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      633.719970703125,
+      437.03997802734375,
+      776.2799682617188
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 7,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 9,
+    "page": 3,
+    "rect": [
+      54.47999954223633,
+      94.08000946044922,
+      548.760009765625,
+      199.32000732421875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 8,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 10,
+    "page": 3,
+    "rect": [
+      36.959999084472656,
+      230.27996826171875,
+      345.47998046875,
+      431.27996826171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 9,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 11,
+    "page": 3,
+    "rect": [
+      36.959999084472656,
+      647.6399536132812,
+      482.2799987792969,
+      808.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 13,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 12,
+    "page": 3,
+    "rect": [
+      354.0,
+      248.1599884033203,
+      582.8399658203125,
+      413.3999938964844
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 10,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 13,
+    "page": 3,
+    "rect": [
+      37.20000076293945,
+      480.8399963378906,
+      289.20001220703125,
+      628.5599975585938
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 11,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 14,
+    "page": 3,
+    "rect": [
+      300.3599853515625,
+      498.9599609375,
+      583.0799560546875,
+      618.5999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 12,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 15,
+    "page": 4,
+    "rect": [
+      36.959999084472656,
+      35.879974365234375,
+      568.4400024414062,
+      435.5999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 14,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 16,
+    "page": 4,
+    "rect": [
+      36.959999084472656,
+      452.03997802734375,
+      538.6799926757812,
+      805.6799926757812
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 14,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 17,
+    "page": 5,
+    "rect": [
+      36.959999084472656,
+      64.91995239257812,
+      568.4400024414062,
+      413.03997802734375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 15,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 18,
+    "page": 5,
+    "rect": [
+      36.959999084472656,
+      458.52001953125,
+      568.4400024414062,
+      790.3200073242188
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 16,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 19,
+    "page": 6,
+    "rect": [
+      36.959999084472656,
+      50.399993896484375,
+      568.4400024414062,
+      318.0
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 17,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 20,
+    "page": 6,
+    "rect": [
+      36.959999084472656,
+      348.9599609375,
+      568.4400024414062,
+      559.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 18,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 21,
+    "page": 6,
+    "rect": [
+      118.55999755859375,
+      571.9199829101562,
+      568.3200073242188,
+      794.0399780273438
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 19,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 20,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 22,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      21.359954833984375,
+      568.4400024414062,
+      284.63995361328125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 19,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 20,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 23,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      315.5999755859375,
+      456.7200012207031,
+      445.4399719238281
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 21,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 24,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      447.2369689941406,
+      396.4793701171875,
+      712.7810668945312
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 21,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 25,
+    "page": 8,
+    "rect": [
+      36.959999084472656,
+      35.87998962402344,
+      462.8399963378906,
+      285.1199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 22,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 26,
+    "page": 8,
+    "rect": [
+      36.959999084472656,
+      316.08001708984375,
+      568.6799926757812,
+      709.4400024414062
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 23,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 27,
+    "page": 9,
+    "rect": [
+      36.959999084472656,
+      50.39997863769531,
+      568.4400024414062,
+      298.91998291015625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 24,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 28,
+    "page": 9,
+    "rect": [
+      36.959999084472656,
+      329.87994384765625,
+      408.3599853515625,
+      568.43994140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 25,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 29,
+    "page": 9,
+    "rect": [
+      36.959999084472656,
+      570.3599853515625,
+      568.2000122070312,
+      660.8399658203125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 25,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 30,
+    "page": 10,
+    "rect": [
+      36.959999084472656,
+      50.40000915527344,
+      452.6399841308594,
+      290.8800048828125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 26,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 27,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 31,
+    "page": 10,
+    "rect": [
+      36.959999084472656,
+      307.3199768066406,
+      568.4400024414062,
+      714.719970703125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 28,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 29,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 32,
+    "page": 11,
+    "rect": [
+      36.959999084472656,
+      153.1199951171875,
+      568.4400024414062,
+      488.6399841308594
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 29,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 33,
+    "page": 11,
+    "rect": [
+      36.959999084472656,
+      519.5999755859375,
+      444.47998046875,
+      770.8800048828125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 30,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 34,
+    "page": 12,
+    "rect": [
+      36.959999084472656,
+      35.879974365234375,
+      443.3999938964844,
+      279.5999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 31,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 35,
+    "page": 12,
+    "rect": [
+      36.959999084472656,
+      582.1199951171875,
+      394.1999816894531,
+      806.52001953125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 34,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 36,
+    "page": 12,
+    "rect": [
+      308.5199890136719,
+      288.5999755859375,
+      581.4000244140625,
+      436.67999267578125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 37,
+    "page": 12,
+    "rect": [
+      36.84000015258789,
+      340.3199768066406,
+      275.760009765625,
+      549.47998046875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 33,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 38,
+    "page": 13,
+    "rect": [
+      36.959999084472656,
+      35.879974365234375,
+      443.6399841308594,
+      335.7599792480469
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 35,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 39,
+    "page": 13,
+    "rect": [
+      36.959999084472656,
+      367.67999267578125,
+      568.4400024414062,
+      538.5599975585938
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 36,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 40,
+    "page": 13,
+    "rect": [
+      36.959999084472656,
+      569.5199584960938,
+      404.8800048828125,
+      786.8399658203125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 37,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 41,
+    "page": 14,
+    "rect": [
+      36.959999084472656,
+      35.879974365234375,
+      568.4400024414062,
+      394.91998291015625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 38,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 42,
+    "page": 14,
+    "rect": [
+      36.959999084472656,
+      425.8799743652344,
+      568.4400024414062,
+      766.9199829101562
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 39,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 43,
+    "page": 15,
+    "rect": [
+      36.959999084472656,
+      64.91999816894531,
+      487.91998291015625,
+      269.8800048828125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 40,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 44,
+    "page": 15,
+    "rect": [
+      36.959999084472656,
+      330.0000305175781,
+      491.8800048828125,
+      563.4000244140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 41,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2025-2026.pdf",
+    "imageIndex": 45,
+    "page": 15,
+    "rect": [
+      36.959999084472656,
+      608.8800048828125,
+      446.7599792480469,
+      809.0400390625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 42,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 43,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      36.959999084472656,
+      184.3199920654297,
+      528.8400268554688,
+      367.55999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 2,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 1,
+    "page": 1,
+    "rect": [
+      36.959999084472656,
+      442.0799865722656,
+      308.3999938964844,
+      586.7999877929688
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 3,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 2,
+    "page": 1,
+    "rect": [
+      109.91999816894531,
+      617.760009765625,
+      493.55999755859375,
+      780.3599853515625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 5,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 3,
+    "page": 1,
+    "rect": [
+      348.9599914550781,
+      442.080810546875,
+      579.7211303710938,
+      519.12158203125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 4,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 4,
+    "page": 2,
+    "rect": [
+      334.55999755859375,
+      211.9199676513672,
+      591.3599853515625,
+      380.8799743652344
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 8,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 5,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      64.91997528076172,
+      511.44000244140625,
+      152.03997802734375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 6,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 6,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      212.1599884033203,
+      316.55999755859375,
+      402.239990234375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 8,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 7,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      418.671875,
+      323.81134033203125,
+      578.6342163085938
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 9,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 12,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 8,
+    "page": 2,
+    "rect": [
+      330.8399963378906,
+      476.0399475097656,
+      573.3599853515625,
+      643.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 9,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 10,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 9,
+    "page": 2,
+    "rect": [
+      129.1199951171875,
+      643.679931640625,
+      381.0,
+      808.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 11,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 10,
+    "page": 3,
+    "rect": [
+      36.959999084472656,
+      50.39997863769531,
+      333.9599914550781,
+      284.03997802734375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 13,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 11,
+    "page": 3,
+    "rect": [
+      36.959999084472656,
+      329.5199890136719,
+      568.4400024414062,
+      608.0399780273438
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 14,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 12,
+    "page": 3,
+    "rect": [
+      158.39999389648438,
+      625.5599365234375,
+      568.4400024414062,
+      808.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 15,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 13,
+    "page": 4,
+    "rect": [
+      36.959999084472656,
+      108.60000610351562,
+      568.3200073242188,
+      182.8800048828125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 17,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 14,
+    "page": 4,
+    "rect": [
+      36.959999084472656,
+      243.0,
+      568.3200073242188,
+      319.55999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 18,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 15,
+    "page": 4,
+    "rect": [
+      36.959999084472656,
+      583.3199462890625,
+      568.4400024414062,
+      693.47998046875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 21,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 22,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 16,
+    "page": 5,
+    "rect": [
+      20.520000457763672,
+      413.6399841308594,
+      296.03997802734375,
+      630.239990234375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 25,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 0.943426,
+        "visibleContentChecked": true,
+        "exception": "Le rectangle natif du chromosome contient une zone blanche sous la diapositive voisine. Découpage en L contrôlé visuellement : chromosome, repères et légendes complets pour Q25 ; aucune partie visible du chromosome dans Q26."
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 26,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 0.055598,
+        "visibleContentChecked": true,
+        "exception": "Le rectangle natif du chromosome contient une zone blanche sous la diapositive voisine. Découpage en L contrôlé visuellement : chromosome, repères et légendes complets pour Q25 ; aucune partie visible du chromosome dans Q26."
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 17,
+    "page": 5,
+    "rect": [
+      36.959999084472656,
+      35.87995910644531,
+      568.4400024414062,
+      279.9599609375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 23,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 18,
+    "page": 5,
+    "rect": [
+      356.6400146484375,
+      304.32000732421875,
+      563.1600341796875,
+      494.4000244140625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 24,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 19,
+    "page": 5,
+    "rect": [
+      213.72000122070312,
+      592.919921875,
+      563.280029296875,
+      793.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 26,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 20,
+    "page": 6,
+    "rect": [
+      36.959999084472656,
+      35.879974365234375,
+      568.3200073242188,
+      227.03997802734375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 27,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 28,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 29,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 21,
+    "page": 6,
+    "rect": [
+      78.4800033569336,
+      330.7200012207031,
+      525.0,
+      456.9599914550781
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 30,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 22,
+    "page": 6,
+    "rect": [
+      57.47999954223633,
+      575.1600341796875,
+      546.47998046875,
+      785.760009765625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 32,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 23,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      50.39997863769531,
+      535.5599975585938,
+      273.5999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 33,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 24,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      290.03997802734375,
+      504.6000061035156,
+      498.5999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 34,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 25,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      602.3999633789062,
+      453.9599914550781,
+      789.8399658203125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 36,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 26,
+    "page": 8,
+    "rect": [
+      95.04000091552734,
+      472.1999816894531,
+      508.55999755859375,
+      579.3599853515625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 39,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 27,
+    "page": 8,
+    "rect": [
+      207.9600067138672,
+      599.760009765625,
+      571.2000122070312,
+      807.5999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 40,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 28,
+    "page": 8,
+    "rect": [
+      207.9600067138672,
+      18.959976196289062,
+      570.8400268554688,
+      210.47998046875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 37,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "2. Correction ED 2026-2027.pdf",
+    "imageIndex": 29,
+    "page": 8,
+    "rect": [
+      181.55999755859375,
+      245.7599639892578,
+      593.760009765625,
+      437.9999694824219
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 38,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      36.959999084472656,
+      46.79554748535156,
+      503.4725036621094,
+      254.6296844482422
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 2,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 3,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 0.458079,
+        "visibleContentChecked": true,
+        "exception": "Le raster comprend aussi les cinq propositions de la Q24. Seuls son énoncé commun et sa séquence doivent être repris pour les Q25/Q26 ; contenu utile complet."
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 4,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 0.458079,
+        "visibleContentChecked": true,
+        "exception": "Le raster comprend aussi les cinq propositions de la Q24. Seuls son énoncé commun et sa séquence doivent être repris pour les Q25/Q26 ; contenu utile complet."
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 1,
+    "page": 5,
+    "rect": [
+      36.959999084472656,
+      134.15997314453125,
+      388.79998779296875,
+      366.47998046875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 10,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 11,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 12,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 13,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 2,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      126.95999145507812,
+      568.4400024414062,
+      520.6799926757812
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 14,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 15,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 16,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 3,
+    "page": 9,
+    "rect": [
+      36.959999084472656,
+      134.15994262695312,
+      447.239990234375,
+      559.3199462890625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 17,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 18,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 19,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 4,
+    "page": 11,
+    "rect": [
+      36.959999084472656,
+      111.60000610351562,
+      447.239990234375,
+      536.760009765625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 20,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 21,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 5,
+    "page": 12,
+    "rect": [
+      35.400001525878906,
+      93.47998046875,
+      489.0,
+      447.9599914550781
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 22,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 23,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 24,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 6,
+    "page": 15,
+    "rect": [
+      327.719970703125,
+      137.28001403808594,
+      570.8400268554688,
+      274.320068359375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 29,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 7,
+    "page": 17,
+    "rect": [
+      35.400001525878906,
+      452.1600036621094,
+      562.6800537109375,
+      548.760009765625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 37,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 38,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 39,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 40,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS CORRECTION.pdf",
+    "imageIndex": 8,
+    "page": 18,
+    "rect": [
+      57.720001220703125,
+      449.1599426269531,
+      544.6799926757812,
+      538.199951171875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 40,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      36.959999084472656,
+      499.4355773925781,
+      503.4725036621094,
+      707.2697143554688
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 0.454999,
+        "visibleContentChecked": true,
+        "exception": "Le raster comprend aussi les cinq propositions de la Q24. Seuls son énoncé commun et sa séquence doivent être repris pour les Q25/Q26 ; contenu utile complet."
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 0.454999,
+        "visibleContentChecked": true,
+        "exception": "Le raster comprend aussi les cinq propositions de la Q24. Seuls son énoncé commun et sa séquence doivent être repris pour les Q25/Q26 ; contenu utile complet."
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 1,
+    "page": 4,
+    "rect": [
+      36.959999084472656,
+      134.15997314453125,
+      388.79998779296875,
+      366.47998046875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 2,
+    "page": 5,
+    "rect": [
+      36.959999084472656,
+      97.79998779296875,
+      568.4400024414062,
+      491.6399841308594
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 3,
+    "page": 6,
+    "rect": [
+      36.959999084472656,
+      134.15994262695312,
+      447.239990234375,
+      559.3199462890625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 4,
+    "page": 7,
+    "rect": [
+      36.959999084472656,
+      227.99996948242188,
+      447.239990234375,
+      653.1599731445312
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 5,
+    "page": 8,
+    "rect": [
+      35.400001525878906,
+      148.67996215820312,
+      489.0,
+      515.1599731445312
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 6,
+    "page": 11,
+    "rect": [
+      35.400001525878906,
+      475.1999816894531,
+      562.6800537109375,
+      571.7999877929688
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.annales",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "3. Annales ED LS ENONCE-1.pdf",
+    "imageIndex": 7,
+    "page": 12,
+    "rect": [
+      57.720001220703125,
+      152.16000366210938,
+      544.6799926757812,
+      241.20001220703125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.annales",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "4. Autotests ARN et métabolisme CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      439.32000732421875,
+      428.6399841308594,
+      557.0400390625,
+      577.7999877929688
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.arn.autotest",
+        "id": 9,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "4. Autotests ARN et métabolisme ENONCE.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      439.29998779296875,
+      254.04998779296875,
+      557.0499877929688,
+      403.29998779296875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.arn.autotest",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "4. Autotests Traduction CORRECTION.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      466.55999755859375,
+      152.15855407714844,
+      572.84130859375,
+      286.80755615234375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.traduction.autotest",
+        "id": 7,
+        "role": "correction",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "4. Autotests Traduction ENONCE.pdf",
+    "imageIndex": 0,
+    "page": 2,
+    "rect": [
+      466.55999755859375,
+      21.360977172851562,
+      572.84130859375,
+      155.8875732421875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.traduction.autotest",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "ED 2025-2026 PASS.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      195.8000030517578,
+      153.04998779296875,
+      413.6500244140625,
+      305.54998779296875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 1,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 6,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 25,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 26,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 41,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 42,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 43,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "ED 2025-2026 PASS.pdf",
+    "imageIndex": 1,
+    "page": 1,
+    "rect": [
+      150.8000030517578,
+      310.3499755859375,
+      458.9000244140625,
+      412.89996337890625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 1,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 6,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 25,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 26,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 41,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 42,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 43,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "ED 2025-2026 PASS.pdf",
+    "imageIndex": 2,
+    "page": 1,
+    "rect": [
+      172.25,
+      616.5999755859375,
+      423.70001220703125,
+      763.5
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 1,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 6,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 25,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 26,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 41,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 42,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 43,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "ED 2025-2026 PASS.pdf",
+    "imageIndex": 3,
+    "page": 1,
+    "rect": [
+      145.60000610351562,
+      420.5999755859375,
+      463.8000183105469,
+      502.29998779296875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 1,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 6,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 25,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 26,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 41,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 42,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 43,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "ED 2025-2026 PASS.pdf",
+    "imageIndex": 4,
+    "page": 2,
+    "rect": [
+      141.10000610351562,
+      368.5,
+      462.0299987792969,
+      593.0599975585938
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "ED 2025-2026 PASS.pdf",
+    "imageIndex": 5,
+    "page": 9,
+    "rect": [
+      122.5999984741211,
+      316.64996337890625,
+      472.8999938964844,
+      439.3499755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2025-2026",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 0,
+    "page": 1,
+    "rect": [
+      180.9499969482422,
+      339.25,
+      428.3999938964844,
+      503.29998779296875
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 1,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 6,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 25,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 26,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 1,
+    "page": 1,
+    "rect": [
+      146.75,
+      548.6500244140625,
+      462.6000061035156,
+      737.75
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 1,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 2,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 3,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 4,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 5,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 6,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 7,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 8,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 9,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 10,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 11,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 12,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 13,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 14,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 19,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 20,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 21,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 22,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 25,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 26,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 2,
+    "page": 4,
+    "rect": [
+      49.599998474121094,
+      125.65000915527344,
+      558.9500122070312,
+      328.70001220703125
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 15,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 16,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 17,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 18,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 3,
+    "page": 6,
+    "rect": [
+      153.14999389648438,
+      86.04995727539062,
+      460.1499938964844,
+      288.64996337890625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 23,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 24,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 4,
+    "page": 7,
+    "rect": [
+      141.25,
+      338.3499755859375,
+      422.45001220703125,
+      450.0999755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 27,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 28,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 29,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 5,
+    "page": 8,
+    "rect": [
+      49.54999923706055,
+      95.99996185302734,
+      546.8499755859375,
+      191.39996337890625
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 30,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 31,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 32,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 33,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 34,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 35,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 36,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  },
+  {
+    "file": "UE2_ED 2026.pdf",
+    "imageIndex": 6,
+    "page": 10,
+    "rect": [
+      71.9000015258789,
+      315.0999755859375,
+      537.5,
+      429.3499755859375
+    ],
+    "bindings": [
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 37,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 38,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 39,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      },
+      {
+        "bank": "ue2.ed.2026-2027",
+        "id": 40,
+        "role": "subject",
+        "nativeBoundingBoxCoverage": 1.0,
+        "visibleContentChecked": true
+      }
+    ]
+  }
+]

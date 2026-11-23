@@ -1,0 +1,233 @@
+[
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "item": "O",
+    "detail": "Vrai. Le document comporte deux propositions K différentes ; cette seconde proposition est identifiée K bis.",
+    "raw": ""
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 23,
+    "item": "N",
+    "detail": "Faux : Béta (texte du corrigé).",
+    "raw": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 3,
+    "item": "C",
+    "detail": "Annotation du corrigé : « NC N2C ».",
+    "raw": "Une spermatide NC et un spermatocyte II N2C"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 3,
+    "item": "D",
+    "detail": "Annotation du corrigé : « 1N2C 1N1C 1N2C ».",
+    "raw": "Le 1er globule polaire 1N2C, le 2ème globule polaire 1N1C et un ovocyte II 1N2C"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "item": "C",
+    "detail": "Annotation du corrigé : « (N2C) (NC) ».",
+    "raw": "Le 1er (N2C) et le 2ème globule (NC) polaire sont des cellules haploïdes contenant N chromosomes."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "item": "A",
+    "detail": "Annotation du corrigé : « ne pas ».",
+    "raw": "Les spermatocytes II et les spermatides sont des cellules haploïdes, ce ne sont pas des gamètes."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "item": "D",
+    "detail": "Dans le corrigé, « doublets périphériques triplets triplet » est barré. Annotation ajoutée : « triplets doublets doublet ».",
+    "raw": "Le centriole proximal est constitué de 9 doublets périphériques triplets et le centriole distal de 9 triplets doublets périphériques et d’un triplet doublet central."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "item": "E",
+    "detail": "Dans le corrigé, « inter intra » est barré. Annotation ajoutée : « C’est l’inverse ».",
+    "raw": "La diversité des individus est assurée par des brassages inter-chromosomiques de la prophase 1 et intrachromosomiques des métaphases I et II. C’est l’inverse"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 2,
+    "item": "D",
+    "detail": "Dans le corrigé, « au cours » est barré. Annotation ajoutée : « après après fusion des membranes plasmiques du spermatozoïde et de l’ovocyte, donc le spermatozoïde a déjà réalisé sa réaction acrosomique ».",
+    "raw": "L’émission du 2ème globule polaire a lieu au cours après de la réaction acrosomique des spermatozoïdes : après fusion des membranes plasmiques du spermatozoïde et de l’ovocyte, donc le spermatozoïde a déjà réalisé sa réaction acrosomique"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "item": "A",
+    "detail": "Annotation du corrigé : « PH20 PH30 ».",
+    "raw": "Les molécules membranaires du spermatozoïde sont acquises soit au cours de la spermiogenèse PH20, soit au cours du transit épididymaire. PH30 | Le mouvement linéaire des spermatozoïdes est acquis au cours du transit épididymaire."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "item": "E",
+    "detail": "Dans le corrigé, « nécessite irréversible » est barré. Annotation ajoutée : « provoque réversible ».",
+    "raw": "La liaison primaire des spermatozoïdes à la zone pellucide nécessite provoque un afflux de calcium, elle est irréversible réversible"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "item": "B",
+    "detail": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « suit (C’est l’inverse) ».",
+    "raw": "L’exocytose des granules corticaux précède suit la réaction acrosomique. (C’est l’inverse)"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "item": "B",
+    "detail": "Dans le corrigé, « du transit épididymaire » est barré. Annotation ajoutée : « de la spermiogenèse Lors du transit épididymaire, ce sont les ponts disulfures qui se forment entre les cys des protamines ».",
+    "raw": "Au cours du transit épididymaire de la spermiogenèse, les histones sont remplacées par les protamines. Lors du transit épididymaire, ce sont les ponts disulfures qui se forment entre les cys des protamines"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "item": "C",
+    "detail": "Dans le corrigé, « symétrique synchrone » est barré. Annotation ajoutée : « asymétrique et asynchrone ».",
+    "raw": "La segmentation des cellules est totale, symétrique et synchrone asymétrique et asynchrone"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 3,
+    "item": "E",
+    "detail": "Dans le corrigé, « en même temps » est barré. Annotation ajoutée : « J11 J8 ».",
+    "raw": "Le lécithocèle secondaire J11 se forme en même temps que la cavité amniotique J8"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 4,
+    "item": "B",
+    "detail": "Annotation du corrigé : « J7 J9 ».",
+    "raw": "La formation du disque didermique J7 précède la formation du lécithocèle primaire. J9"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "item": "B",
+    "detail": "Dans le corrigé, « et le lécithocèle primaire » est barré. Annotation ajoutée : « à J9 à J8-J9 ».",
+    "raw": "A J8, la cavité amniotique et le lécithocèle primaire à J9 sont constitués, le mésenchyme extra embryonnaire prolifère à J8-J9"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "item": "E",
+    "detail": "Dans le corrigé, « A J11, » est barré. Annotation ajoutée : « A J 13 à J10 ».",
+    "raw": "A J11, A J 13 les lames mésenchymateuses sont en place et les lacunes du syncytiotrophoblaste sont remplies de sang maternel à J10"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "item": "A",
+    "detail": "les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11",
+    "raw": "les cellules du mésenchyme extra embryonnaire prolifèrent jusqu’à remplir l’ensemble du blastocèle au sixième jour de développement embryonnaire | Faux : le mésenchyme extra embryonnaire remplit l’ensemble du blastocèle au neuvième jour"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "item": "B",
+    "detail": "la légende 2 représente la lame choriale",
+    "raw": "au 11ème jour de développement embryonnaire, le magma réticulé se résorbe totalement | Faux : il commence à se résorber à j11"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "item": "C",
+    "detail": "la légende 3 représente la lame vitelline en position caudale",
+    "raw": "au 13 ème jour de développement embryonnaire, trois lames mésenchymateuses persistent : la lame choriale, la lame amniotique et la lame vitelline"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "item": "D",
+    "detail": "la légende 5 représente le cytotrophoblaste",
+    "raw": "durant la deuxième semaine de développement embryonnaire, la règle du « tout ou rien » s’applique"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "item": "E",
+    "detail": "la légende 6 représente le syncytiotrophoblaste",
+    "raw": "les grossesses bichoriales biamniotiques sont toujours des grossesses gémellaires dizygotes | Faux : ils peuvent être dizygotes si c’est 2 ovocytes différents qui ont été fécondés ou alors homozygote si l’œuf fécondé s’est dédoublé au stade de segmentation (1SDE)"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 11,
+    "item": "E",
+    "detail": "Dans le corrigé, « 2ème empêche » est barré. Annotation ajoutée : « 3e favorise ».",
+    "raw": "La barrière placentaire est formée en fin de 3e 2ème semaine du développement embryonnaire et empêche favorise le contact entre les circulations maternelle et fœtale."
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 15,
+    "item": "E",
+    "detail": "Dans le corrigé, « avant » est barré. Annotation ajoutée : « après (en 1er) ».",
+    "raw": "Le mésoblaste se forme pendant la toute première étape de la gastrulation et avant après la formation de l’entoblaste (en 1er)"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 18,
+    "item": "A",
+    "detail": "Dans le corrigé, « A. Ligne primitive, chorde dorsale, entoblaste » est barré. Annotation ajoutée : « J14-15 – J18 – J16 ».",
+    "raw": "Ligne primitive, chorde dorsale, entoblaste J14-15 – J18 – J16"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 18,
+    "item": "C",
+    "detail": "Dans le corrigé, « C. Mésoblaste, hypoblaste, entoblaste » est barré. Annotation ajoutée : « J16 – J7 – J16 ».",
+    "raw": "Mésoblaste, hypoblaste, entoblaste J16 – J7 – J16"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 18,
+    "item": "E",
+    "detail": "Dans le corrigé, « E. Canal chordal, gonocytes primordiaux, allantoïde » est barré. Annotation ajoutée : « J16 – J18 – J16 ».",
+    "raw": "Canal chordal, gonocytes primordiaux, allantoïde J16 – J18 – J16"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 21,
+    "item": "C",
+    "detail": "Dans le corrigé, « en haut en bas » est barré. Annotation ajoutée : « C’est l’inverse la splanchnopleure est en bas et la somatopleure en haut ».",
+    "raw": "La lame latérale qui est uniquement visible en vue transversale, se clive en splanchnopleure venant rejoindre la lame amniotique en haut et en somatopleure rejoignant la lame vitelline en bas. C’est l’inverse la splanchnopleure est en bas et la somatopleure en haut"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 21,
+    "item": "D",
+    "detail": "Dans le corrigé, « Au milieu » est barré. Annotation ajoutée : « en fin J21 ».",
+    "raw": "Au milieu en fin de la 3ème semaine du développement embryonnaire, le mésoblaste para-axial se segmente pour donner 7 paires de somites. J21"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 22,
+    "item": "E",
+    "detail": "Dans le corrigé, « et » est barré. Annotation ajoutée : « J17 J19 ».",
+    "raw": "La formation de la plaque chordale J17 et la segmentation du mésoblaste para-axial. J19"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 2,
+    "item": "A",
+    "detail": "Annotation du corrigé : « (à J24) (Jà 26) ».",
+    "raw": "A la fin de la 4ème semaine du développement embryonnaire, le stade des 3 vésicules : proencéphale, mésencéphale et rhombencéphale est mis en place et les neuropores antérieur (à J24) et postérieur (Jà 26) sont fermés"
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 17,
+    "item": "D",
+    "detail": "Annotation du corrigé : « (J17) (à partir de J8 jusqu’à la naissance). ».",
+    "raw": "Un disque embryonnaire tridermique (J17) et une cavité amniotique (à partir de J8 jusqu’à la naissance)."
+  }
+]

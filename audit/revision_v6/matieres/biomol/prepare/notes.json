@@ -1,0 +1,210 @@
+[
+  {
+    "bank": "ue2.adn.autotest",
+    "id": 13,
+    "sourceId": "13",
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet écrit « n’est pas autonome », mais la version corrigée écrit « est autonome » puis donne Faux, avec « fonctionnement SEMI autonome avec 1 ORI ». La négation diffère donc entre les deux documents : le verdict ne porte pas sur exactement la même phrase. Clé du corrigé conservée ; vérifier la formulation et le statut attendu dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests ADN ENONCE.pdf",
+        "page": 3,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/4_Autotests_ADN_ENONCE_be376e27c1.pdf#page=3"
+      },
+      {
+        "file": "4. Autotests ADN CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/4_Autotests_ADN_CORRECTION_1f3c1076f1.pdf#page=3"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : BE",
+    "noteId": "biomol-v6-001"
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "id": 25,
+    "sourceId": "6",
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé imprimée est « AD (E) », avec une réponse entre parenthèses. Le détail discute précisément cet item et ne permet pas de fixer une clé unique sans arbitrage. La question reste hors note ; comparer la copie du corrigé et vérifier la réponse attendue dans la ronéo ou auprès du tutorat.",
+    "refs": [
+      {
+        "file": "2. Annales ADN LS ENONCE.pdf",
+        "page": 6,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/2_Annales_ADN_LS_ENONCE_cb48dd05b5.pdf#page=6"
+      },
+      {
+        "file": "2. Annales ADN LS CORRECTION.pdf",
+        "page": 8,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/2_Annales_ADN_LS_CORRECTION_7075006a82.pdf#page=8"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : ambiguë / hors note",
+    "noteId": "biomol-v6-002"
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "id": 26,
+    "sourceId": "12",
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé imprimée est « AB(C) », avec une réponse entre parenthèses. Le détail discute précisément cet item et ne permet pas de fixer une clé unique sans arbitrage. La question reste hors note ; comparer la copie du corrigé et vérifier la réponse attendue dans la ronéo ou auprès du tutorat.",
+    "refs": [
+      {
+        "file": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+        "page": 5,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_ENONCE_c6c7ec8f5d.pdf#page=5"
+      },
+      {
+        "file": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+        "page": 9,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/2_Annales_ARN_et_metabolisme_LS_CORRECTION_34adbc3fff.pdf#page=9"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : ambiguë / hors note",
+    "noteId": "biomol-v6-003"
+  },
+  {
+    "bank": "ue2.organisation.autotest",
+    "id": 9,
+    "sourceId": "9",
+    "items": [
+      "E"
+    ],
+    "kind": "source_conflict",
+    "text": "Différence entre les originaux : le sujet cite le facteur VII, tandis que le corrigé a remplacé VII par VIII et valide E. La clé BCE valide donc une version modifiée de cet item. Le sujet interactif conserve VII ; consulter la ronéo pour le facteur concerné, comme indiqué dans la réserve de cours.",
+    "refs": [
+      {
+        "file": "4. Autotests Organisation du génome ENONCE.pdf",
+        "page": 2,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/4_Autotests_Organisation_du_genome_ENONCE_035a76c1b2.pdf#page=2"
+      },
+      {
+        "file": "4. Autotests Organisation du génome CORRECTION-1.pdf",
+        "page": 2,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/4_Autotests_Organisation_du_genome_CORRECTION_1_5d58eabfe8.pdf#page=2"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : BCE",
+    "noteId": "biomol-v6-004"
+  },
+  {
+    "bank": "ue2.transcription.autotest",
+    "id": 2,
+    "sourceId": "2",
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet non corrigé contient déjà « Fau » après la phrase de D, alors que le corrigé porte « Faux ». Ce résidu de correction a été retiré de l’item interactif. La copie authentique du sujet est donc accessible après validation uniquement.",
+    "refs": [
+      {
+        "file": "4. Autotests Transcription LS ENONCE.pdf",
+        "page": 1,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/4_Autotests_Transcription_LS_ENONCE_a4ddf9fba8.pdf#page=1"
+      },
+      {
+        "file": "4. Autotests Transcription LS CORRECTION.pdf",
+        "page": 1,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/4_Autotests_Transcription_LS_CORRECTION_9b5e57d4f3.pdf#page=1"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : C",
+    "noteId": "biomol-v6-005"
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "id": 33,
+    "sourceId": "12",
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "La clé imprimée est « AB(C) », avec une réponse entre parenthèses. Le détail discute précisément cet item et ne permet pas de fixer une clé unique sans arbitrage. La question reste hors note ; comparer la copie du corrigé et vérifier la réponse attendue dans la ronéo ou auprès du tutorat.",
+    "refs": [
+      {
+        "file": "2. Annales Transcription LS ENONCE.pdf",
+        "page": 6,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/2_Annales_Transcription_LS_ENONCE_cf13334214.pdf#page=6"
+      },
+      {
+        "file": "2. Annales Transcription LS CORRECTION.pdf",
+        "page": 10,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/2_Annales_Transcription_LS_CORRECTION_66d5a8d8a3.pdf#page=10"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : ambiguë / hors note",
+    "noteId": "biomol-v6-006"
+  },
+  {
+    "bank": "ue2.reparation.autotest",
+    "id": 11,
+    "sourceId": "11",
+    "items": [
+      "D"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet parle de MSH2/MSH6 et de « retards de méthylation ». Le corrigé remplace entièrement D par « Les protéines du système MMR détectent les mésappariements de l’ADN et retirent plusieurs nucléotides du brin fils autour du mésappariement », puis le donne vrai. La clé BCD se rapporte donc à une rédaction différente. Comparer les deux copies et vérifier la version attendue dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Réparation de l'ADN ENONCE.pdf",
+        "page": 2,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/4_Autotests_Reparation_de_l_ADN_ENONCE_2d3d6436be.pdf#page=2"
+      },
+      {
+        "file": "4. Autotests Réparation de l'ADN CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/4_Autotests_Reparation_de_l_ADN_CORRECTION_d02c847809.pdf#page=3"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : BCD",
+    "noteId": "biomol-v6-007"
+  },
+  {
+    "bank": "ue2.reparation.autotest",
+    "id": 15,
+    "sourceId": "15",
+    "items": [
+      "C"
+    ],
+    "kind": "source_conflict",
+    "text": "Le sujet s’arrête à « Le système NER fait intervenir l’ADN pol. » sans préciser la polymérase. Le corrigé ajoute α à l’énoncé puis le déclare faux, en citant notamment δ dans son explication. Le verdict porte ainsi sur une précision absente du sujet. Clé AE conservée ; vérifier l’item complet dans la ronéo.",
+    "refs": [
+      {
+        "file": "4. Autotests Réparation de l'ADN ENONCE.pdf",
+        "page": 3,
+        "label": "Sujet original",
+        "href": "sources/revision_v4/4_Autotests_Reparation_de_l_ADN_ENONCE_2d3d6436be.pdf#page=3"
+      },
+      {
+        "file": "4. Autotests Réparation de l'ADN CORRECTION.pdf",
+        "page": 3,
+        "label": "Corrigé original",
+        "href": "sources/revision_v4/4_Autotests_Reparation_de_l_ADN_CORRECTION_d02c847809.pdf#page=3"
+      }
+    ],
+    "sourceVerdict": "Clé conservée : AE",
+    "noteId": "biomol-v6-008"
+  }
+]

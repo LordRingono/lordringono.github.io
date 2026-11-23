@@ -1,0 +1,56 @@
+{
+  "completeSubjectOrCorrectionMissing": [],
+  "cleanSubjectCopiesMissing": [
+    {
+      "series": "2020paces",
+      "sourceNumbers": [
+        19,
+        21,
+        22,
+        24
+      ],
+      "pages": [
+        362,
+        363,
+        364
+      ],
+      "reason": "Les originaux fournis portent des annotations manuscrites donnant des éléments de réponse. Pixels authentiques conservés ; copie et figures protégées après correction. Une version sans annotations permettrait de rétablir les figures avant correction."
+    }
+  ],
+  "courseDocumentsMissing": [
+    {
+      "courses": [
+        "Acides aminés et protéines",
+        "Enzymes",
+        "Métabolisme"
+      ],
+      "reason": "Aucune ronéo intégrale correspondante dans les documents disponibles pour cette matière. Comparaison documentaire complète aux sujets et corrigés ; réserves supplémentaires appuyées sur des sources primaires ciblées, sans revendiquer la certification scientifique exhaustive des 1 390 items."
+    }
+  ],
+  "originalDetailIncomplete": [
+    {
+      "series": "2025s1",
+      "sourceNumber": 33,
+      "item": "D",
+      "page": 36,
+      "reason": "L’explication se termine après La sphingomyélinase hydrolyse."
+    },
+    {
+      "series": "2020s1",
+      "sourceNumber": 20,
+      "item": "D",
+      "page": 318,
+      "reason": "Plus au programme est la seule indication ; aucun V/F ni détail explicite."
+    }
+  ],
+  "originalTypographicAmbiguity": [
+    {
+      "series": "2020s1",
+      "sourceNumber": 20,
+      "subjectPage": 303,
+      "correctionPage": 318,
+      "reason": "pKa2 = ç imprimé ; les autres données suggèrent 9 sans erratum."
+    }
+  ],
+  "historicalCoverageLimit": "Les 14 séries présentes de 2018 à 2025 ont été comparées intégralement aux sources disponibles. Cela ne prouve pas l’existence ou l’absence de toutes les sessions historiques ni de séries 2015–2017 non fournies dans ce lot."
+}

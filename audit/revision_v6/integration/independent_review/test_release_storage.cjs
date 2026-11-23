@@ -1,0 +1,41 @@
+/* End-to-end save/load wiring under a localStorage quota, in Node DOM adapter. */
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const root=path.resolve(__dirname,'..'),site=path.resolve(root,'../../output/site'),file=path.join(site,'index.html');
+const {load}=require(path.join(site,'audit/revision_v4/production/dom_adapter.cjs'));
+const html=fs.readFileSync(file,'utf8');assert(html.includes('function persistV6Progress('),'Wait for the authorized V6 build.');
+const baseline=JSON.parse(fs.readFileSync(path.join(root,'baseline_exams.json'),'utf8'));
+const bank='histo.ann.tech',storage=baseline[bank].storage;
+const original1={answers:{1:'BCD',2:'A'},submitted:true,correctedIds:[1,2]};
+const original2={answers:{1:'D',2:'B'},submitted:true};
+const app=load(file,{ssh_pass_selected_exam_v1:'acc',ssh_pass_only_filled_mode_v1:'true',[storage]:JSON.stringify(original1),[storage+'_profil_2_v1']:JSON.stringify(original2)});
+const originalSet=app.context.localStorage.setItem;let blocked=true;
+app.context.localStorage.setItem=(key,value)=>{if(blocked&&key.endsWith('_before_v6_item_repair'))throw new Error('QuotaExceededError');return originalSet(key,value);};
+const report={method:'Actual release JS with save(), loadExam(), switchProfile() under a localStorage quota; Node VM, not browser',siteSha256:crypto.createHash('sha256').update(html).digest('hex'),result:'RUNNING',profiles:0,errors:[]};
+try{
+ app.run(`switchExam(${JSON.stringify(bank)});`);
+ assert.equal(app.run('answers[1]'),'CDE');
+ assert.equal(app.data[storage],JSON.stringify(original1));
+ assert(app.elements.get('#filled-mode-profile').textContent.includes('ancienne progression préservée'));
+ app.run('answers[2]="C";save();switchProfile(false);');
+ assert.equal(app.run('answers[1]'),'E');
+ assert.equal(app.data[storage],JSON.stringify(original1));
+ assert.equal(app.data[storage+'_profil_2_v1'],JSON.stringify(original2));
+ app.run('answers[2]="D";save();switchProfile(true);');
+ assert.equal(app.run('answers[1]'),'CDE');assert.equal(app.run('answers[2]'),'C');
+ assert.equal(app.data[storage],JSON.stringify(original1));
+ blocked=false;app.run('save();');
+ assert.deepEqual(JSON.parse(app.data[storage+'_before_v6_item_repair']),original1);
+ assert.equal(JSON.parse(app.data[storage]).answers[1],'CDE');
+ assert.equal(JSON.parse(app.data[storage]).answers[2],'C');
+ assert(!app.elements.get('#filled-mode-profile').textContent.includes('ancienne progression préservée'));report.profiles++;
+ app.run('switchProfile(false);save();');
+ assert.deepEqual(JSON.parse(app.data[storage+'_profil_2_v1_before_v6_item_repair']),original2);
+ assert.equal(JSON.parse(app.data[storage+'_profil_2_v1']).answers[1],'E');
+ assert.equal(JSON.parse(app.data[storage+'_profil_2_v1']).answers[2],'D');report.profiles++;
+ const reloaded=load(file,app.data);
+ assert.equal(reloaded.run('answers[1]'),'E');assert.equal(reloaded.run('answers[2]'),'D');
+ reloaded.run('switchProfile(true);');assert.equal(reloaded.run('answers[1]'),'CDE');assert.equal(reloaded.run('answers[2]'),'C');
+ report.result='PASS';
+}catch(error){report.result='FAIL';report.errors.push(error.stack||String(error));process.exitCode=1;}
+fs.writeFileSync(path.join(__dirname,'release_storage_result.json'),JSON.stringify(report,null,2));
+console.log(JSON.stringify(report,null,2));

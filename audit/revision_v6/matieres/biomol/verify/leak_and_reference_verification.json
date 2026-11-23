@@ -1,0 +1,344 @@
+{
+  "gatedOriginals": [
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 2,
+      "reason": "Le fichier intitulé ENONCE contient « Fau » après l’item D. Cette copie exacte est accessible après correction pour ne pas révéler cet indice.",
+      "interactiveImages": [],
+      "visibleAssetLeak": false
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 3,
+      "reason": "Le PDF du sujet comporte un point rouge en fin d’item C, résidu typographique coloré. La copie authentique est consultable après validation.",
+      "interactiveImages": [],
+      "visibleAssetLeak": false
+    }
+  ],
+  "allInteractiveAssets": 123,
+  "coloredWhitespaceHasNoVisibleGlyph": true,
+  "greenPunctuationNonPredictiveSourceTypography": "Intro auto9 A/B/C/G et ARN auto11/13 : même point vert sur propositions vraies et fausses ; aucun verdict textuel.",
+  "references": [
+    {
+      "bank": "ue2.ed.annales",
+      "id": 10,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_annales_2016_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourceStartPage": 4,
+        "sourceEndPage": 4
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "id": 11,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_annales_2016_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourceStartPage": 4,
+        "sourceEndPage": 4
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "id": 12,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_annales_2016_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourceStartPage": 4,
+        "sourceEndPage": 4
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.annales",
+      "id": 13,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_annales_2016_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_annales_sujet.pdf",
+        "sourceFile": "3. Annales ED LS ENONCE-1.pdf",
+        "sourceStartPage": 4,
+        "sourceEndPage": 4
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 16,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 21,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 22,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 23,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 36,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 37,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 38,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2025-2026",
+      "id": 39,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2025_2026_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2025_2026_sujet.pdf",
+        "sourceFile": "ED 2025-2026 PASS.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 16,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 23,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 24,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 35,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 37,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 38,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 39,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    },
+    {
+      "bank": "ue2.ed.2026-2027",
+      "id": 40,
+      "reference": {
+        "title": "Code génétique fourni avec le sujet",
+        "images": [
+          "static/biomol_ed_revision_2026_2027_code_genetique.webp"
+        ],
+        "sourcePdf": "sources/biomol_ed_2026_2027_sujet.pdf",
+        "sourceFile": "UE2_ED 2026.pdf",
+        "sourceStartPage": 11,
+        "sourceEndPage": 11
+      },
+      "sourceAssociationChecked": true,
+      "visualTableChecked": true
+    }
+  ],
+  "unresolvedLeaks": 0
+}

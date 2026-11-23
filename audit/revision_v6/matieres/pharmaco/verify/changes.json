@@ -1,0 +1,43 @@
+[
+  {
+    "sourceId": "ue4:2018-2019:S1:q15",
+    "bank": "ue4.annales.theme.sources-naturelles",
+    "id": 24,
+    "status": "fixed_in_approved_reviewed",
+    "fields": [
+      "answer",
+      "warning"
+    ],
+    "before": {
+      "answer": "BCD",
+      "warning": ""
+    },
+    "after": {
+      "answer": "",
+      "warning": "Corrigé contradictoire : ce QCM est conservé hors note. Voir la réserve documentée après validation.",
+      "rawAnswer": "BCD",
+      "answerIsEmpty": "absent"
+    },
+    "evidence": {
+      "subjectPage": 967,
+      "correctionPage": 979,
+      "gridPage": 972,
+      "D": "Un extrait brut peut être actif",
+      "E": "Un extrait brut peut être actif",
+      "detailD": "VRAI",
+      "detailE": "FAUX : B, C, et D sont vrais",
+      "existingNoteId": "ue4-v4-022"
+    },
+    "reason": "Deux propositions strictement identiques reçoivent des verdicts opposés. Les images originales excluent une différence de ponctuation ou de négation. Aucune nouvelle clé n’est inventée ; la clé imprimée BCD et les justifications restent documentées."
+  },
+  {
+    "sourceId": "ue4:2021-2022:S1:q13",
+    "bank": "ue4.annales.theme.droit",
+    "id": 26,
+    "status": "fixed_in_approved_reviewed",
+    "field": "reviewNotes[ue4-v4-045].refs[0].label",
+    "before": "ue4:2021-2022:S1:q13 — correction",
+    "after": "Grille 2021–2022 S1 : absence de clé pour le Q13 du sujet (BPF/BPP)",
+    "reason": "La page 848 est une preuve de l’omission, pas la correction du sujet Q13. Son n°13 correspond au sujet Q14, repris p853–854. URL, texte de la note, absence de clé et pointeurs nuls conservés."
+  }
+]

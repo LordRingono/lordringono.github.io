@@ -1,0 +1,3003 @@
+[
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+    "page": 1,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_subject_p1.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+    "page": 2,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_subject_p2.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+    "page": 3,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_subject_p3.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 1,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p1.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 2,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p2.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 3,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p3.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 4,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p4.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 5,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p5.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 6,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p6.png"
+  },
+  {
+    "kind": "scanned_source",
+    "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 corrigées-1.pdf",
+    "page": 7,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/anncm2_correction_p7.png"
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm4",
+    "id": 2,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm4_2.png",
+    "items": [
+      {
+        "item": "C",
+        "initialVerdict": "FAUX",
+        "finalVerdict": "VRAI",
+        "initialDetail": "une protéine avec un seul domaine transmembranaire dont le N-terminal entre dans le RE sera VRAI une protéine de type I, pas de type II.",
+        "finalDetail": "",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          3
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "pages": [
+            3
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 3,
+              "rect": [
+                70.94400024414062,
+                435.3987731933594,
+                540.8618774414062,
+                448.1499938964844
+              ],
+              "text": "C. FAUX : une protéine avec un seul domaine transmembranaire dont le N-terminal entre dans le RE sera",
+              "spans": [
+                {
+                  "text": "C.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "FAUX : une protéine avec un seul domaine transmembranaire dont le N-terminal entre dans le RE sera ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 3,
+              "rect": [
+                257.4540100097656,
+                445.9629821777344,
+                285.4620056152344,
+                462.3429870605469
+              ],
+              "text": "VRAI",
+              "spans": [
+                {
+                  "text": "VRAI",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 3,
+              "rect": [
+                83.42400360107422,
+                450.54998779296875,
+                252.8650360107422,
+                461.5899963378906
+              ],
+              "text": "une protéine de type I, pas de type II.",
+              "spans": [
+                {
+                  "text": "une protéine de type I, pas de type II. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm4",
+    "id": 4,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm4_4.png",
+    "items": [
+      {
+        "item": "A",
+        "initialVerdict": "FAUX",
+        "finalVerdict": "VRAI",
+        "initialDetail": "La séquence de 20 acides aminés hydrophobes correspond vraisemblablement à un segment transmembranaires. On voit que les charges + sont du côté N-ter, ce qui signifie que l’extrémité N-ter se trouvera dans le cytosol. Il s’agit donc d’une protéine de type 2.",
+        "finalDetail": "",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          4,
+          5
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "pages": [
+            4
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 4,
+              "rect": [
+                99.4906997680664,
+                663.7080078125,
+                127.49870300292969,
+                680.0880126953125
+              ],
+              "text": "VRAI",
+              "spans": [
+                {
+                  "text": "VRAI",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 4,
+              "rect": [
+                84.98400115966797,
+                675.3087768554688,
+                554.6143798828125,
+                688.0599975585938
+              ],
+              "text": "A. FAUX : La séquence de 20 acides aminés hydrophobes correspond vraisemblablement à un segment",
+              "spans": [
+                {
+                  "text": "A.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "FAUX : La séquence de 20 acides aminés hydrophobes correspond vraisemblablement à un segment ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 4,
+              "rect": [
+                97.46399688720703,
+                690.3399658203125,
+                554.9635620117188,
+                701.3800048828125
+              ],
+              "text": "transmembranaires. On voit que les charges + sont du côté N-ter, ce qui signifie que l’extrémité N-ter",
+              "spans": [
+                {
+                  "text": "transmembranaires. On voit que les charges + sont du côté N-ter, ce qui signifie que l’extrémité N-ter ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 4,
+              "rect": [
+                97.46399688720703,
+                703.7799682617188,
+                396.405029296875,
+                714.8200073242188
+              ],
+              "text": "se trouvera dans le cytosol. Il s’agit donc d’une protéine de type 2.",
+              "spans": [
+                {
+                  "text": "se trouvera dans le cytosol. Il s’agit donc d’une protéine de type 2. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm4_7.png",
+    "items": [
+      {
+        "item": "C",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "FAUX",
+        "initialDetail": "c’est pour cela que les protéines adressées au RE ont une séquence plus courte que les protéines FAUX La peptidase clive seulement le peptide signal. cytosoliques.",
+        "finalDetail": "La peptidase clive seulement le peptide signal.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          8
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "pages": [
+            8
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 8,
+              "rect": [
+                84.98400115966797,
+                338.8987731933594,
+                554.8582153320312,
+                351.6499938964844
+              ],
+              "text": "C. VRAI : c’est pour cela que les protéines adressées au RE ont une séquence plus courte que les protéines",
+              "spans": [
+                {
+                  "text": "C.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": " : c’est pour cela que les protéines adressées au RE ont une séquence plus courte que les protéines ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                161.01800537109375,
+                352.14495849609375,
+                444.4819641113281,
+                368.52496337890625
+              ],
+              "text": "FAUX La peptidase clive seulement le peptide signal.",
+              "spans": [
+                {
+                  "text": "FAUX La peptidase clive seulement le peptide signal.",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                97.46399688720703,
+                354.04998779296875,
+                158.39503479003906,
+                365.0899963378906
+              ],
+              "text": "cytosoliques.",
+              "spans": [
+                {
+                  "text": "cytosoliques. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "item": "E",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "FAUX",
+        "initialDetail": "il va par la suite conduire la protéine et le ribosome au RE pour que la synthèse continue. FAUX Le récepteur de la SRP se lie au ribosome et le dirigera vers la canal protéique translocateur. C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse à se fixer sur la face cytosolique du RER.",
+        "finalDetail": "Le récepteur de la SRP se lie au ribosome et le dirigera vers le canal protéique translocateur. C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse à se fixer sur la face cytosolique du RER.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          8
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "pages": [
+            8
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 8,
+              "rect": [
+                84.98400115966797,
+                396.6187744140625,
+                527.8550415039062,
+                409.3699951171875
+              ],
+              "text": "E. VRAI : il va par la suite conduire la protéine et le ribosome au RE pour que la synthèse continue.",
+              "spans": [
+                {
+                  "text": "E.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": " : il va par la suite conduire la protéine et le ribosome au RE pour que la synthèse continue. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                100.5469970703125,
+                410.1619873046875,
+                545.1768798828125,
+                423.8119812011719
+              ],
+              "text": "FAUX Le récepteur de la SRP se lie au ribosome et le dirigera vers la canal protéique translocateur.",
+              "spans": [
+                {
+                  "text": "FAUX Le récepteur de la SRP se lie au ribosome et le dirigera vers la canal protéique translocateur. ",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                97.46399688720703,
+                416.22998046875,
+                99.95903778076172,
+                427.2699890136719
+              ],
+              "text": "",
+              "spans": [
+                {
+                  "text": " ",
+                  "font": "Calibri",
+                  "color": 10921638,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                100.5469970703125,
+                420.1619873046875,
+                564.06689453125,
+                433.8119812011719
+              ],
+              "text": "C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse",
+              "spans": [
+                {
+                  "text": "C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse ",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                100.5469970703125,
+                430.1619873046875,
+                283.39697265625,
+                443.8119812011719
+              ],
+              "text": "à se fixer sur la face cytosolique du RER.",
+              "spans": [
+                {
+                  "text": "à se fixer sur la face cytosolique du RER.",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                261.5299987792969,
+                440.9499816894531,
+                349.96502685546875,
+                451.989990234375
+              ],
+              "text": "Annales 2019-2020",
+              "spans": [
+                {
+                  "text": "Annales 2019-2020 ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm4",
+    "id": 9,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm4_9.png",
+    "items": [
+      {
+        "item": "B",
+        "initialVerdict": "FAUX",
+        "finalVerdict": "VRAI",
+        "initialDetail": "Les protéines à ancre GPI sont rattachées à un lipide membranaire (phosphatidyl-inositol) de façon covalente mais n’ont pas de domaine hydrophobe.",
+        "finalDetail": "Pour qu’une séquence soit membranaire, elle doit avoir une taille d’au moins 15 à 20 nucléotides et être hydrophobe. Si la séquence est plus petite que 15 AA cela peut être une séquence signal mais pas une séquence membranaire.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          8,
+          9
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM4 2018-2025.pdf",
+          "pages": [
+            9
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 9,
+              "rect": [
+                70.94400024414062,
+                104.74879455566406,
+                540.8992309570312,
+                117.49999237060547
+              ],
+              "text": "B. FAUX Les protéines à ancre GPI sont rattachées à un lipide membranaire (phosphatidyl-inositol) de",
+              "spans": [
+                {
+                  "text": "B.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "FAUX ",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": "Les protéines à ancre GPI sont rattachées à un lipide membranaire (phosphatidyl-inositol) de ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                83.42400360107422,
+                119.89999389648438,
+                340.1250305175781,
+                130.9399871826172
+              ],
+              "text": "façon covalente mais n’ont pas de domaine hydrophobe.",
+              "spans": [
+                {
+                  "text": "façon covalente mais n’ont pas de domaine hydrophobe.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                42.599998474121094,
+                224.29995727539062,
+                45.09503936767578,
+                235.33995056152344
+              ],
+              "text": "",
+              "spans": [
+                {
+                  "text": " ",
+                  "font": "Calibri",
+                  "color": 10921638,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                23.032899856567383,
+                224.56997680664062,
+                584.4227905273438,
+                238.219970703125
+              ],
+              "text": "B.VRAI : Pour qu’une séquence soit membranaire, elle doit avoir une taille d’au moins 15 à 20 nucléotides et être hydrophobe.",
+              "spans": [
+                {
+                  "text": "B.VRAI : Pour qu’une séquence soit membranaire, elle doit avoir une taille d’au moins 15 à 20 nucléotides et être hydrophobe. ",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                23.032899856567383,
+                234.56997680664062,
+                533.302734375,
+                248.219970703125
+              ],
+              "text": "Si la séquence est plus petite que 15 AA cela peut être une séquence signal mais pas une séquence membranaire.",
+              "spans": [
+                {
+                  "text": "Si la séquence est plus petite que 15 AA cela peut être une séquence signal mais pas une séquence membranaire.",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                83.42400360107422,
+                239.80996704101562,
+                85.9190444946289,
+                250.84996032714844
+              ],
+              "text": "",
+              "spans": [
+                {
+                  "text": " ",
+                  "font": "Calibri",
+                  "color": 10921638,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm5_4.png",
+    "items": [
+      {
+        "item": "D",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "FAUX",
+        "initialDetail": "",
+        "finalDetail": "Les protéines sécrétées de manière constitutive sont les sécrétions non régulées. Le tr [fin de l’annotation tronquée dans le PDF source].",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          4
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "pages": [
+            4
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 4,
+              "rect": [
+                99.927001953125,
+                525.8170166015625,
+                596.15087890625,
+                542.197021484375
+              ],
+              "text": "FAUX : Les protéines sécrétées de manière constitutive sont les sérétions non régulées. Le tr",
+              "spans": [
+                {
+                  "text": "FAUX : Les protéines sécrétées de manière constitutive sont les sérétions non régulées. Le tr",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 4,
+              "rect": [
+                59.30400085449219,
+                527.798828125,
+                99.1190414428711,
+                540.550048828125
+              ],
+              "text": "D. VRAI",
+              "spans": [
+                {
+                  "text": "D.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI  ",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm5",
+    "id": 9,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm5_9.png",
+    "items": [
+      {
+        "item": "A",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "FAUX",
+        "initialDetail": "Le récepteur au M6P se lie aux hydrolases acides vers un ph de 6.7 et lorsqu’ils arrivent dans l’endosome il s’en dissocie car le ph est plus bas (autour de 6). Dons si l’on abaisse le ph des compartiments de façon permanente, le récepteur du M6P serait en permanence dissocié des FAUX, Si on augmente le pH le récepteur pourra se lier mais pas se dissocier : hydrolases. accumulation du récepteur dans les endosomes précoces",
+        "finalDetail": "Si on augmente le pH le récepteur pourra se lier mais pas se dissocier : accumulation du récepteur dans les endosomes précoces.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          8
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "pages": [
+            8
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 8,
+              "rect": [
+                84.98400115966797,
+                316.81878662109375,
+                554.82080078125,
+                329.57000732421875
+              ],
+              "text": "A. VRAI. Le récepteur au M6P se lie aux hydrolases acides vers un ph de 6.7 et lorsqu’ils arrivent dans",
+              "spans": [
+                {
+                  "text": "A.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": ". Le récepteur au M6P se lie aux hydrolases acides vers un ph de 6.7 et lorsqu’ils arrivent dans ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                97.46399688720703,
+                331.97003173828125,
+                554.9285888671875,
+                343.0100402832031
+              ],
+              "text": "l’endosome il s’en dissocie car le ph est plus bas (autour de 6). Dons si l’on abaisse le ph des",
+              "spans": [
+                {
+                  "text": "l’endosome il s’en dissocie car le ph est plus bas (autour de 6). Dons si l’on abaisse le ph des ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                97.46399688720703,
+                345.4100341796875,
+                554.91748046875,
+                356.4500427246094
+              ],
+              "text": "compartiments de façon permanente, le récepteur du M6P serait en permanence dissocié des",
+              "spans": [
+                {
+                  "text": "compartiments de façon permanente, le récepteur du M6P serait en permanence dissocié des ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                153.60000610351562,
+                355.6360168457031,
+                502.61993408203125,
+                369.2860107421875
+              ],
+              "text": "FAUX, Si on augmente le pH le récepteur pourra se lier mais pas se dissocier :",
+              "spans": [
+                {
+                  "text": "FAUX, Si on augmente le pH le récepteur pourra se lier mais pas se dissocier :",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                97.46399688720703,
+                358.8500061035156,
+                149.63504028320312,
+                369.8900146484375
+              ],
+              "text": "hydrolases.",
+              "spans": [
+                {
+                  "text": "hydrolases. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 8,
+              "rect": [
+                153.60000610351562,
+                365.6360168457031,
+                409.26995849609375,
+                379.2860107421875
+              ],
+              "text": "accumulation du récepteur dans les endosomes précoces",
+              "spans": [
+                {
+                  "text": "accumulation du récepteur dans les endosomes précoces",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm5",
+    "id": 10,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm5_10.png",
+    "items": [
+      {
+        "item": "C",
+        "initialVerdict": "FAUX",
+        "finalVerdict": "Vrai",
+        "initialDetail": "Elle est séparée du cytosol par trois membranes : les membranes externes et internes de la Vrai, les 2 membranes de l'autophagosomes et de la mito mitochondrie, et la membrane de l’autophagosome.",
+        "finalDetail": "Les 2 membranes de l’autophagosome et de la mitochondrie.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          8,
+          9
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "pages": [
+            9
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 9,
+              "rect": [
+                70.94400024414062,
+                158.62879943847656,
+                540.56005859375,
+                171.37998962402344
+              ],
+              "text": "C. FAUX. Elle est séparée du cytosol par trois membranes : les membranes externes et internes de la",
+              "spans": [
+                {
+                  "text": "C.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "FAUX. Elle est séparée du cytosol par trois membranes : les membranes externes et internes de la ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                320.0,
+                172.63201904296875,
+                523.8399658203125,
+                183.55203247070312
+              ],
+              "text": "Vrai, les 2 membranes de l'autophagosomes et de la mito",
+              "spans": [
+                {
+                  "text": "Vrai, les 2 membranes de l'autophagosomes et de la mito",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                83.42400360107422,
+                173.77999877929688,
+                319.72503662109375,
+                184.8199920654297
+              ],
+              "text": "mitochondrie, et la membrane de l’autophagosome.",
+              "spans": [
+                {
+                  "text": "mitochondrie, et la membrane de l’autophagosome. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm5",
+    "id": 15,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm5_15.png",
+    "items": [
+      {
+        "item": "E",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "FAUX",
+        "initialDetail": "une mitochondrie possède une membrane interne et externe, si on rajoute la membrane de l’autophagosome cela fait en tout 3 membranes FAUX, 4 membranes : 2 autophagophore et 2 mito",
+        "finalDetail": "4 membranes : 2 autophagophore et 2 mito.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          12,
+          13
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+          "pages": [
+            13
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 13,
+              "rect": [
+                78.6240005493164,
+                703.1488037109375,
+                536.9750366210938,
+                715.9000244140625
+              ],
+              "text": "E. VRAI, une mitochondrie possède une membrane interne et externe, si on rajoute la membrane de",
+              "spans": [
+                {
+                  "text": "E.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI, ",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": "une mitochondrie possède une membrane interne et externe, si on rajoute la membrane de ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 13,
+              "rect": [
+                96.6240005493164,
+                717.3800048828125,
+                542.98095703125,
+                731.030029296875
+              ],
+              "text": "l’autophagosome cela fait en tout 3 membranes FAUX, 4 membranes : 2 autophagophore et 2 mito",
+              "spans": [
+                {
+                  "text": "l’autophagosome cela fait en tout 3 membranes ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "FAUX, 4 membranes : 2 autophagophore et 2 mito",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm7",
+    "id": 5,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm7_5.png",
+    "items": [
+      {
+        "item": "C",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "FAUX",
+        "initialDetail": "",
+        "finalDetail": "C’est le gradient de RAN-GTP / RAN-GDP.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          6
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC le noyau.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC le noyau.pdf",
+          "pages": [
+            6
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 6,
+              "rect": [
+                117.4739990234375,
+                592.0,
+                378.49798583984375,
+                608.3800048828125
+              ],
+              "text": "FAUX C'est le gradient de RAN-GTP / RAN-GDP",
+              "spans": [
+                {
+                  "text": "FAUX C'est le gradient de RAN-GTP / RAN-GDP",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 6,
+              "rect": [
+                70.94400024414062,
+                592.6287841796875,
+                108.23503875732422,
+                605.3800048828125
+              ],
+              "text": "C. VRAI",
+              "spans": [
+                {
+                  "text": "C.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": " ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm7",
+    "id": 8,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm7_8.png",
+    "items": [
+      {
+        "item": "B",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "Faux",
+        "initialDetail": "Il s’agit du gradient de GTP",
+        "finalDetail": "Gradient de RAN-GTP/GDP.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          9
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC le noyau.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC le noyau.pdf",
+          "pages": [
+            9
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 9,
+              "rect": [
+                253.52699279785156,
+                294.9809875488281,
+                433.5870056152344,
+                311.3609924316406
+              ],
+              "text": "Faux, gradient de RAN-GTP/GDP",
+              "spans": [
+                {
+                  "text": "Faux, gradient de RAN-GTP/GDP",
+                  "font": "Arial",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 9,
+              "rect": [
+                84.98400115966797,
+                296.53875732421875,
+                252.38504028320312,
+                309.28997802734375
+              ],
+              "text": "B. VRAI : Il s’agit du gradient de GTP",
+              "spans": [
+                {
+                  "text": "B.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": " : Il s’agit du gradient de GTP  ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm8",
+    "id": 1,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm8_1.png",
+    "items": [
+      {
+        "item": "D",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "Faux",
+        "initialDetail": "",
+        "finalDetail": "Les mitochondries ne font pas partie du système endomembranaire.",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          1
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigees CM8 2019-2025-1.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigees CM8 2019-2025-1.pdf",
+          "pages": [
+            1
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 1,
+              "rect": [
+                162.94700622558594,
+                162.94700622558594,
+                551.1109008789062,
+                179.32699584960938
+              ],
+              "text": "Faux, les mitochondries ne font pas partie du système endomembranaire",
+              "spans": [
+                {
+                  "text": "Faux, les mitochondries ne font pas partie du système endomembranaire",
+                  "font": "Arial",
+                  "color": 16736768,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 1,
+              "rect": [
+                36.0,
+                163.3279571533203,
+                148.33999633789062,
+                176.61195373535156
+              ],
+              "text": "voie vésiculaire VRAI",
+              "spans": [
+                {
+                  "text": "voie vésiculaire ",
+                  "font": "Times New Roman",
+                  "color": 0,
+                  "flags": 4
+                },
+                {
+                  "text": "VRAI",
+                  "font": "Times New Roman,Bold",
+                  "color": 0,
+                  "flags": 20
+                },
+                {
+                  "text": " ",
+                  "font": "Times New Roman",
+                  "color": 0,
+                  "flags": 4
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "erratum",
+    "bank": "bio.ann.cm9",
+    "id": 7,
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/erratum_bio.ann.cm9_7.png",
+    "items": [
+      {
+        "item": "B",
+        "initialVerdict": "VRAI",
+        "finalVerdict": "Faux",
+        "initialDetail": "La prophase se déroule juste après le passage du troisième point de contrôle du cycle cellulaire, situé en fin de phase G2. Ce point vérifie que la réplication de l’ADN est complète et que le matériel Faux, 2ème génétique n’a pas subi de dommages avant d’autoriser l’entrée en mitose.",
+        "finalDetail": "2ème [point de contrôle].",
+        "proof": "Verdict corrigé explicitement dans le PDF thématique ; rature et/ou annotation ajoutée vérifiée visuellement.",
+        "pages": [
+          5
+        ],
+        "evidence": {
+          "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM9 2025-2025-1.pdf",
+          "original": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM9 2025-2025-1.pdf",
+          "pages": [
+            5
+          ],
+          "method": "graphical_erratum_visually_verified",
+          "positions": [
+            {
+              "page": 5,
+              "rect": [
+                70.94400024414062,
+                488.0787658691406,
+                540.7879028320312,
+                500.8299865722656
+              ],
+              "text": "B. VRAI : La prophase se déroule juste après le passage du troisième point de contrôle du cycle cellulaire,",
+              "spans": [
+                {
+                  "text": "B.",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": " ",
+                  "font": "ArialMT",
+                  "color": 0,
+                  "flags": 0
+                },
+                {
+                  "text": "VRAI :",
+                  "font": "Calibri-Bold",
+                  "color": 0,
+                  "flags": 16
+                },
+                {
+                  "text": " La prophase se déroule juste après le passage du troisième point de contrôle du cycle cellulaire, ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 5,
+              "rect": [
+                83.42400360107422,
+                503.1099853515625,
+                540.5792236328125,
+                514.1499633789062
+              ],
+              "text": "situé en fin de phase G2. Ce point vérifie que la réplication de l’ADN est complète et que le matériel",
+              "spans": [
+                {
+                  "text": "situé en fin de phase G2. Ce point vérifie que la réplication de l’ADN est complète et que le matériel ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 5,
+              "rect": [
+                420.65399169921875,
+                512.7259521484375,
+                484.01397705078125,
+                529.10595703125
+              ],
+              "text": "Faux, 2ème",
+              "spans": [
+                {
+                  "text": "Faux, 2ème",
+                  "font": "Arial",
+                  "color": 16736768,
+                  "flags": 0
+                }
+              ]
+            },
+            {
+              "page": 5,
+              "rect": [
+                83.42400360107422,
+                516.5499267578125,
+                417.6750183105469,
+                527.5899658203125
+              ],
+              "text": "génétique n’a pas subi de dommages avant d’autoriser l’entrée en mitose.",
+              "spans": [
+                {
+                  "text": "génétique n’a pas subi de dommages avant d’autoriser l’entrée en mitose. ",
+                  "font": "Calibri",
+                  "color": 0,
+                  "flags": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "kind": "figure",
+    "number": 1,
+    "src": "static/revision_v6/f55a0c4f6bc27adbe8cf96da.webp",
+    "questions": [
+      "bio.cm2oral/2",
+      "bio.cm2oral/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm2oral_subject/Colles orales non corrigées.pdf",
+      "page": 1,
+      "rect": [
+        34.0,
+        325.0,
+        460.0,
+        406.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_01.png"
+  },
+  {
+    "kind": "figure",
+    "number": 2,
+    "src": "static/revision_v6/1b32574187fb49ef23c28ff3.webp",
+    "questions": [
+      "bio.cm2oral/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm2oral_subject/Colles orales non corrigées.pdf",
+      "page": 2,
+      "rect": [
+        36.0,
+        49.75,
+        559.3,
+        499.85
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_02.png"
+  },
+  {
+    "kind": "figure",
+    "number": 3,
+    "src": "static/revision_v6/6da31857bc9a87aac14871f7.webp",
+    "questions": [
+      "bio.cm2oral/6"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm2oral_subject/Colles orales non corrigées.pdf",
+      "page": 3,
+      "rect": [
+        41.4,
+        63.2,
+        190.85,
+        210.65
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_03.png"
+  },
+  {
+    "kind": "figure",
+    "number": 4,
+    "src": "static/revision_v6/8d676aa792047ebf6088f619.webp",
+    "questions": [
+      "bio.cm2oral/7"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm2oral_subject/Colles orales non corrigées.pdf",
+      "page": 3,
+      "rect": [
+        36.0,
+        505.15,
+        526.55,
+        669.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_04.png"
+  },
+  {
+    "kind": "figure",
+    "number": 5,
+    "src": "static/revision_v6/65ed0be476ce437ae390ebfc.webp",
+    "questions": [
+      "bio.cm3/5"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm3_subject/autotest CM3.pdf",
+      "page": 1,
+      "rect": [
+        71.0,
+        630.0,
+        205.0,
+        740.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_05.png"
+  },
+  {
+    "kind": "figure",
+    "number": 6,
+    "src": "static/revision_v6/475d9d05ebe63343646fb78c.webp",
+    "questions": [
+      "bio.cm6/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+      "page": 1,
+      "rect": [
+        129.0,
+        315.3,
+        225.8,
+        431.15
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_06.png"
+  },
+  {
+    "kind": "figure",
+    "number": 7,
+    "src": "static/revision_v6/d72cf2392541502f52c78b27.webp",
+    "questions": [
+      "bio.cm6/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+      "page": 1,
+      "rect": [
+        145.5,
+        469.8,
+        186.6,
+        525.15
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_07.png"
+  },
+  {
+    "kind": "figure",
+    "number": 8,
+    "src": "static/revision_v6/c209d107fe1dd7329402dc0c.webp",
+    "questions": [
+      "bio.cm6/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+      "page": 1,
+      "rect": [
+        275.95,
+        646.15,
+        319.4,
+        749.2
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_08.png"
+  },
+  {
+    "kind": "figure",
+    "number": 9,
+    "src": "static/revision_v6/6f29e8090a6c7af3d2a330d2.webp",
+    "questions": [
+      "bio.cm8/6"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm8_subject/autotest CM8.pdf",
+      "page": 2,
+      "rect": [
+        72.0,
+        260.0,
+        255.0,
+        435.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure authentique du sujet Word rendu, avec ses labels imprimés"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_09.png"
+  },
+  {
+    "kind": "figure",
+    "number": 10,
+    "src": "static/revision_v6/bb616cb4bb2d7b701859a2e0.webp",
+    "questions": [
+      "bio.ann.cm2/1"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 1,
+      "rect": [
+        42.0,
+        320.0,
+        300.0,
+        460.0
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_10.png"
+  },
+  {
+    "kind": "figure",
+    "number": 11,
+    "src": "static/revision_v6/7178bf2cfe144e647d2f6ba9.webp",
+    "questions": [
+      "bio.ann.cm2/2"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 2,
+      "rect": [
+        50.0,
+        60.0,
+        278.0,
+        185.0
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_11.png"
+  },
+  {
+    "kind": "figure",
+    "number": 12,
+    "src": "static/revision_v6/898d9d3f27d486f27e76f580.webp",
+    "questions": [
+      "bio.ann.cm2/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 3,
+      "rect": [
+        40.0,
+        55.0,
+        193.0,
+        223.0
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_12.png"
+  },
+  {
+    "kind": "figure",
+    "number": 13,
+    "src": "static/revision_v6/dd842b53b85ccfee85b74e94.webp",
+    "questions": [
+      "bio.ann.cm2/4",
+      "bio.ann.cm10/2"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 4,
+      "rect": [
+        36.0,
+        171.7,
+        559.3,
+        469.9
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_13.png"
+  },
+  {
+    "kind": "figure",
+    "number": 14,
+    "src": "static/revision_v6/ab9941d12e5b93be6e22d23c.webp",
+    "questions": [
+      "bio.ann.cm2/5",
+      "bio.ann.cm10/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 5,
+      "rect": [
+        35.8,
+        57.5,
+        559.1,
+        519.0
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_14.png"
+  },
+  {
+    "kind": "figure",
+    "number": 15,
+    "src": "static/revision_v6/f7153dc56cbaaca7addab929.webp",
+    "questions": [
+      "bio.ann.cm2/6",
+      "bio.ann.cm2/7",
+      "bio.ann.cm2/8",
+      "bio.ann.cm10/8",
+      "bio.ann.cm10/9",
+      "bio.ann.cm10/10"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 6,
+      "rect": [
+        37.3,
+        98.3,
+        560.6,
+        402.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Expérience commune BRAFm et Mock"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_15.png"
+  },
+  {
+    "kind": "figure",
+    "number": 16,
+    "src": "static/revision_v6/d2098131ac6fee669919a037.webp",
+    "questions": [
+      "bio.ann.cm2/7",
+      "bio.ann.cm2/8",
+      "bio.ann.cm10/9",
+      "bio.ann.cm10/10"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 6,
+      "rect": [
+        36.0,
+        545.4,
+        559.3,
+        634.7
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Résultats communs de cytométrie"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_16.png"
+  },
+  {
+    "kind": "figure",
+    "number": 17,
+    "src": "static/revision_v6/d32433f772272e7fcc612a6f.webp",
+    "questions": [
+      "bio.ann.cm2/8",
+      "bio.ann.cm10/10"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 7,
+      "rect": [
+        36.0,
+        76.7,
+        559.3,
+        379.2
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_17.png"
+  },
+  {
+    "kind": "figure",
+    "number": 18,
+    "src": "static/revision_v6/d352afd015a43282fbd14b34.webp",
+    "questions": [
+      "bio.ann.cm2/9",
+      "bio.ann.cm2/11"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 9,
+      "rect": [
+        54.0,
+        117.0,
+        541.0,
+        476.5
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Résultats précédents nécessaires à E"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_18.png"
+  },
+  {
+    "kind": "figure",
+    "number": 19,
+    "src": "static/revision_v6/1db6d637732cd7eadd46685d.webp",
+    "questions": [
+      "bio.ann.cm2/10",
+      "bio.ann.cm2/11"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 10,
+      "rect": [
+        54.0,
+        72.0,
+        589.0,
+        336.7
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Résultats précédents nécessaires à E"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_19.png"
+  },
+  {
+    "kind": "figure",
+    "number": 20,
+    "src": "static/revision_v6/58fc9507acb9c185a43b4fa8.webp",
+    "questions": [
+      "bio.ann.cm2/11"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 11,
+      "rect": [
+        54.0,
+        72.0,
+        576.3,
+        361.5
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_20.png"
+  },
+  {
+    "kind": "figure",
+    "number": 21,
+    "src": "static/revision_v6/a82fc9f159e94ddbc97d56b1.webp",
+    "questions": [
+      "bio.ann.cm2/12"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 12,
+      "rect": [
+        153.5,
+        143.8,
+        441.5,
+        328.6
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_21.png"
+  },
+  {
+    "kind": "figure",
+    "number": 22,
+    "src": "static/revision_v6/746a2285297f3384e15d9f88.webp",
+    "questions": [
+      "bio.ann.cm2/13",
+      "bio.ann.cm2/14",
+      "bio.ann.cm2/15"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 13,
+      "rect": [
+        103.1,
+        241.3,
+        491.9,
+        465.5
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure 1, comparaison forme sauvage"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_22.png"
+  },
+  {
+    "kind": "figure",
+    "number": 23,
+    "src": "static/revision_v6/25a36d47dbb194a7fe69741e.webp",
+    "questions": [
+      "bio.ann.cm2/15"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+      "page": 14,
+      "rect": [
+        77.8,
+        72.0,
+        516.7,
+        367.5
+      ],
+      "purpose": "figure_or_shared_context"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_23.png"
+  },
+  {
+    "kind": "figure",
+    "number": 24,
+    "src": "static/revision_v6/5ea567c68eaa8f60b375f95b.webp",
+    "questions": [
+      "bio.ann.cm3/1"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 2,
+      "rect": [
+        94.8,
+        247.8,
+        316.2,
+        363.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_24.png"
+  },
+  {
+    "kind": "figure",
+    "number": 25,
+    "src": "static/revision_v6/9f366b794242bbdcc1fa556d.webp",
+    "questions": [
+      "bio.ann.cm3/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 3,
+      "rect": [
+        94.8,
+        190.1,
+        268.8,
+        320.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_25.png"
+  },
+  {
+    "kind": "figure",
+    "number": 26,
+    "src": "static/revision_v6/578a4ccc7b8225ab96658026.webp",
+    "questions": [
+      "bio.ann.cm3/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 3,
+      "rect": [
+        94.8,
+        351.5,
+        237.0,
+        523.5
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_26.png"
+  },
+  {
+    "kind": "figure",
+    "number": 27,
+    "src": "static/revision_v6/6ca88d3e1df15e274e48c98a.webp",
+    "questions": [
+      "bio.ann.cm3/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 3,
+      "rect": [
+        94.8,
+        583.7,
+        330.2,
+        694.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_27.png"
+  },
+  {
+    "kind": "figure",
+    "number": 28,
+    "src": "static/revision_v6/d856e36aaa143a9a2dc5496c.webp",
+    "questions": [
+      "bio.ann.cm3/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 4,
+      "rect": [
+        94.8,
+        178.0,
+        278.0,
+        350.2
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_28.png"
+  },
+  {
+    "kind": "figure",
+    "number": 29,
+    "src": "static/revision_v6/8bfad7a11e6380c4413cd6ab.webp",
+    "questions": [
+      "bio.ann.cm3/6"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 5,
+      "rect": [
+        243.6,
+        167.3,
+        392.1,
+        301.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_29.png"
+  },
+  {
+    "kind": "figure",
+    "number": 30,
+    "src": "static/revision_v6/268831750311d905d48a15eb.webp",
+    "questions": [
+      "bio.ann.cm3/8"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 6,
+      "rect": [
+        192.4,
+        143.9,
+        402.7,
+        304.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_30.png"
+  },
+  {
+    "kind": "figure",
+    "number": 31,
+    "src": "static/revision_v6/74075f6fb3b949e919fe372d.webp",
+    "questions": [
+      "bio.ann.cm3/8"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 6,
+      "rect": [
+        194.0,
+        367.0,
+        401.0,
+        484.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_31.png"
+  },
+  {
+    "kind": "figure",
+    "number": 32,
+    "src": "static/revision_v6/d78bb400172130b82f7b1f16.webp",
+    "questions": [
+      "bio.ann.cm3/10"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 7,
+      "rect": [
+        103.0,
+        300.8,
+        492.0,
+        461.6
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_32.png"
+  },
+  {
+    "kind": "figure",
+    "number": 33,
+    "src": "static/revision_v6/1305a6744ad42d0762185d66.webp",
+    "questions": [
+      "bio.ann.cm3/12"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 8,
+      "rect": [
+        210.5,
+        354.5,
+        384.5,
+        480.9
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_33.png"
+  },
+  {
+    "kind": "figure",
+    "number": 34,
+    "src": "static/revision_v6/30b00fdbc28288f7e6928a66.webp",
+    "questions": [
+      "bio.ann.cm3/13"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC Cytosquelette et migration cellulaire (1)-1.pdf",
+      "page": 9,
+      "rect": [
+        155.0,
+        70.0,
+        440.0,
+        185.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_34.png"
+  },
+  {
+    "kind": "figure",
+    "number": 35,
+    "src": "static/revision_v6/16d645985f9d5d5591249b81.webp",
+    "questions": [
+      "bio.ann.cm4/1"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+      "page": 1,
+      "rect": [
+        36.0,
+        65.9,
+        298.9,
+        147.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_35.png"
+  },
+  {
+    "kind": "figure",
+    "number": 36,
+    "src": "static/revision_v6/a202d430280d075bda4a5786.webp",
+    "questions": [
+      "bio.ann.cm4/2"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+      "page": 3,
+      "rect": [
+        190.2,
+        156.9,
+        404.5,
+        344.6
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_36.png"
+  },
+  {
+    "kind": "figure",
+    "number": 37,
+    "src": "static/revision_v6/0d260202cdf93c1971fd0bac.webp",
+    "questions": [
+      "bio.ann.cm4/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+      "page": 4,
+      "rect": [
+        54.0,
+        104.0,
+        302.9,
+        267.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_37.png"
+  },
+  {
+    "kind": "figure",
+    "number": 38,
+    "src": "static/revision_v6/d458a8308e070bc9e0654249.webp",
+    "questions": [
+      "bio.ann.cm4/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+      "page": 4,
+      "rect": [
+        94.8,
+        491.4,
+        337.1,
+        581.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_38.png"
+  },
+  {
+    "kind": "figure",
+    "number": 39,
+    "src": "static/revision_v6/7e8d6f8c86bc1eca5166924c.webp",
+    "questions": [
+      "bio.ann.cm4/6"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM4 2018-2025.pdf",
+      "page": 6,
+      "rect": [
+        54.0,
+        143.8,
+        549.8,
+        326.9
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_39.png"
+  },
+  {
+    "kind": "figure",
+    "number": 40,
+    "src": "static/revision_v6/3f6867dfeda1548bcc1db136.webp",
+    "questions": [
+      "bio.ann.cm5/1"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 1,
+      "rect": [
+        36.0,
+        179.4,
+        392.3,
+        321.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_40.png"
+  },
+  {
+    "kind": "figure",
+    "number": 41,
+    "src": "static/revision_v6/e2b666939aa26d4e3d17d6af.webp",
+    "questions": [
+      "bio.ann.cm5/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 3,
+      "rect": [
+        54.0,
+        130.4,
+        331.8,
+        321.2
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_41.png"
+  },
+  {
+    "kind": "figure",
+    "number": 42,
+    "src": "static/revision_v6/ec7a9fc9ccfb11f9702a31c2.webp",
+    "questions": [
+      "bio.ann.cm5/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 4,
+      "rect": [
+        54.0,
+        149.0,
+        302.9,
+        312.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_42.png"
+  },
+  {
+    "kind": "figure",
+    "number": 43,
+    "src": "static/revision_v6/80ed1f4a24b3cc8c91a97ba3.webp",
+    "questions": [
+      "bio.ann.cm5/5"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 4,
+      "rect": [
+        79.1,
+        523.0,
+        316.1,
+        700.2
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_43.png"
+  },
+  {
+    "kind": "figure",
+    "number": 44,
+    "src": "static/revision_v6/100dac91d719e5cecc25eb46.webp",
+    "questions": [
+      "bio.ann.cm5/8"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 6,
+      "rect": [
+        111.4,
+        107.0,
+        540.3,
+        478.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_44.png"
+  },
+  {
+    "kind": "figure",
+    "number": 45,
+    "src": "static/revision_v6/3cda05dd2a1e11689eece2f8.webp",
+    "questions": [
+      "bio.ann.cm5/10"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 7,
+      "rect": [
+        108.2,
+        363.3,
+        486.8,
+        534.9
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_45.png"
+  },
+  {
+    "kind": "figure",
+    "number": 46,
+    "src": "static/revision_v6/d97ad3959939640010718360.webp",
+    "questions": [
+      "bio.ann.cm5/11",
+      "bio.ann.cm5/12"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 8,
+      "rect": [
+        117.5,
+        143.8,
+        477.4,
+        449.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_46.png"
+  },
+  {
+    "kind": "figure",
+    "number": 47,
+    "src": "static/revision_v6/e0640153c4ef5a6332f4b9c7.webp",
+    "questions": [
+      "bio.ann.cm5/13",
+      "bio.ann.cm5/14"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 9,
+      "rect": [
+        141.6,
+        209.6,
+        494.2,
+        433.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_47.png"
+  },
+  {
+    "kind": "figure",
+    "number": 48,
+    "src": "static/revision_v6/c01cec66d51293a5af85e580.webp",
+    "questions": [
+      "bio.ann.cm5/16"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 10,
+      "rect": [
+        54.0,
+        366.0,
+        445.2,
+        608.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_48.png"
+  },
+  {
+    "kind": "figure",
+    "number": 49,
+    "src": "static/revision_v6/415838353d6ace0878ea8938.webp",
+    "questions": [
+      "bio.ann.cm5/16"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+      "page": 11,
+      "rect": [
+        54.0,
+        72.0,
+        465.75,
+        339.59
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_49.png"
+  },
+  {
+    "kind": "figure",
+    "number": 50,
+    "src": "static/revision_v6/d129fe43e62e619c269830f5.webp",
+    "questions": [
+      "bio.ann.cm6/1"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 2,
+      "rect": [
+        94.8,
+        249.8,
+        317.3,
+        412.7
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_50.png"
+  },
+  {
+    "kind": "figure",
+    "number": 51,
+    "src": "static/revision_v6/1cc99889438ea220d5bcce88.webp",
+    "questions": [
+      "bio.ann.cm6/2"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 2,
+      "rect": [
+        94.8,
+        479.6,
+        297.0,
+        631.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_51.png"
+  },
+  {
+    "kind": "figure",
+    "number": 52,
+    "src": "static/revision_v6/d32ff60e2ac513e2102766c0.webp",
+    "questions": [
+      "bio.ann.cm6/6"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 4,
+      "rect": [
+        94.8,
+        192.1,
+        189.0,
+        283.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_52.png"
+  },
+  {
+    "kind": "figure",
+    "number": 53,
+    "src": "static/revision_v6/591196e9b3baa1aa1fee3af2.webp",
+    "questions": [
+      "bio.ann.cm6/7"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+      "page": 1222,
+      "rect": [
+        42.55,
+        135.154,
+        529.4831,
+        497.104
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure 1 et protocole Donnan, sujet UE5 2022–2023 session 1"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_53.png"
+  },
+  {
+    "kind": "figure",
+    "number": 54,
+    "src": "static/revision_v6/27fccfaf427664cf53db2471.webp",
+    "questions": [
+      "bio.ann.cm6/7"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 5,
+      "rect": [
+        252.1,
+        237.1,
+        326.4,
+        360.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_54.png"
+  },
+  {
+    "kind": "figure",
+    "number": 55,
+    "src": "static/revision_v6/01e5c24941579b6420b0d730.webp",
+    "questions": [
+      "bio.ann.cm6/7"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 5,
+      "rect": [
+        270.6,
+        404.1,
+        365.2,
+        530.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_55.png"
+  },
+  {
+    "kind": "figure",
+    "number": 56,
+    "src": "static/revision_v6/2bc57c0fb7ee57e40dd81498.webp",
+    "questions": [
+      "bio.ann.cm6/7"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 5,
+      "rect": [
+        235.8,
+        563.0,
+        400.0,
+        682.2
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_56.png"
+  },
+  {
+    "kind": "figure",
+    "number": 57,
+    "src": "static/revision_v6/94c4f3548cb73375fa838a24.webp",
+    "questions": [
+      "bio.ann.cm6/12"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 7,
+      "rect": [
+        199.4,
+        296.7,
+        436.3,
+        470.8
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_57.png"
+  },
+  {
+    "kind": "figure",
+    "number": 58,
+    "src": "static/revision_v6/d5177ac54de22c99c169c145.webp",
+    "questions": [
+      "bio.ann.cm6/13"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 8,
+      "rect": [
+        123.5,
+        143.8,
+        471.5,
+        387.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_58.png"
+  },
+  {
+    "kind": "figure",
+    "number": 59,
+    "src": "static/revision_v6/ea816ae9a0f0e53550c70e82.webp",
+    "questions": [
+      "bio.ann.cm6/15"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 9,
+      "rect": [
+        110.1,
+        174.0,
+        525.7,
+        387.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_59.png"
+  },
+  {
+    "kind": "figure",
+    "number": 60,
+    "src": "static/revision_v6/811bf91d95770c1bab593356.webp",
+    "questions": [
+      "bio.ann.cm6/16"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 10,
+      "rect": [
+        104.0,
+        98.9,
+        490.9,
+        448.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_60.png"
+  },
+  {
+    "kind": "figure",
+    "number": 61,
+    "src": "static/revision_v6/7d0d2c99b8d9ee0d3f143b56.webp",
+    "questions": [
+      "bio.ann.cm6/22"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 13,
+      "rect": [
+        183.5,
+        85.4,
+        410.8,
+        312.7
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_61.png"
+  },
+  {
+    "kind": "figure",
+    "number": 62,
+    "src": "static/revision_v6/1444c9df11837a4b62ae1e88.webp",
+    "questions": [
+      "bio.ann.cm6/24"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 14,
+      "rect": [
+        118.9,
+        181.3,
+        476.1,
+        344.7
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_62.png"
+  },
+  {
+    "kind": "figure",
+    "number": 63,
+    "src": "static/revision_v6/be4eb3b232cf2e0c940b517e.webp",
+    "questions": [
+      "bio.ann.cm6/24"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+      "page": 14,
+      "rect": [
+        96.0,
+        413.5,
+        498.1,
+        664.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_63.png"
+  },
+  {
+    "kind": "figure",
+    "number": 64,
+    "src": "static/revision_v6/b696a88c3af1be69810989a7.webp",
+    "questions": [
+      "bio.ann.cm7/1"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 2,
+      "rect": [
+        54.0,
+        130.4,
+        358.0,
+        284.6
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_64.png"
+  },
+  {
+    "kind": "figure",
+    "number": 65,
+    "src": "static/revision_v6/9ac5126a632b6f05c4512096.webp",
+    "questions": [
+      "bio.ann.cm7/2"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 3,
+      "rect": [
+        54.0,
+        143.7,
+        286.0,
+        263.7
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_65.png"
+  },
+  {
+    "kind": "figure",
+    "number": 66,
+    "src": "static/revision_v6/895fb240ac1dff7f4f9c4349.webp",
+    "questions": [
+      "bio.ann.cm7/3"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 4,
+      "rect": [
+        88.8,
+        130.4,
+        196.6,
+        224.0
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_66.png"
+  },
+  {
+    "kind": "figure",
+    "number": 67,
+    "src": "static/revision_v6/d3d9159f2a091f9d909bf4b8.webp",
+    "questions": [
+      "bio.ann.cm7/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 5,
+      "rect": [
+        236.5,
+        307.5,
+        399.3,
+        624.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_67.png"
+  },
+  {
+    "kind": "figure",
+    "number": 68,
+    "src": "static/revision_v6/c4ae9449228932f4aef94bd4.webp",
+    "questions": [
+      "bio.ann.cm7/5"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 6,
+      "rect": [
+        59.0,
+        72.0,
+        535.5,
+        328.5
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_68.png"
+  },
+  {
+    "kind": "figure",
+    "number": 69,
+    "src": "static/revision_v6/ea6ee0c4488d2b389f0e758a.webp",
+    "questions": [
+      "bio.ann.cm7/6"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 7,
+      "rect": [
+        82.8,
+        145.8,
+        512.1,
+        432.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_69.png"
+  },
+  {
+    "kind": "figure",
+    "number": 70,
+    "src": "static/revision_v6/1c39c8b731b714ab5cef5c22.webp",
+    "questions": [
+      "bio.ann.cm7/7"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 8,
+      "rect": [
+        151.1,
+        238.4,
+        484.7,
+        530.3
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_70.png"
+  },
+  {
+    "kind": "figure",
+    "number": 71,
+    "src": "static/revision_v6/e1067f4210879f790a3810f4.webp",
+    "questions": [
+      "bio.ann.cm7/9"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 9,
+      "rect": [
+        102.9,
+        98.9,
+        492.1,
+        404.5
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_71.png"
+  },
+  {
+    "kind": "figure",
+    "number": 72,
+    "src": "static/revision_v6/b4d566901551ab1c59ae0704.webp",
+    "questions": [
+      "bio.ann.cm7/11"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC le noyau.pdf",
+      "page": 10,
+      "rect": [
+        72.3,
+        398.4,
+        522.6,
+        561.1
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_72.png"
+  },
+  {
+    "kind": "figure",
+    "number": 73,
+    "src": "static/revision_v6/b35cb3337e43ecb2f61e883a.webp",
+    "questions": [
+      "bio.ann.cm10/4"
+    ],
+    "capture": {
+      "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM10 2023-2025.pdf",
+      "page": 5,
+      "rect": [
+        54.0,
+        85.4,
+        394.5,
+        307.4
+      ],
+      "purpose": "figure_or_shared_context",
+      "label": "Figure originale complète, sans items ni annotation de correction"
+    },
+    "render": "/workspace/scratch/f3cb3bb97377/work/site_v6/biocell/verify/visual/figure_73.png"
+  }
+]

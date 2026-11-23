@@ -1,0 +1,415 @@
+[
+  {
+    "bank": "bio.cm5",
+    "id": 12,
+    "item": "D",
+    "field": "statement",
+    "text": "L’autophagosome possède une double membrane comme le noyau"
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "item": "A",
+    "field": "explanation",
+    "text": "une nécrose ou une apoptose / il faut de l'ATP"
+  },
+  {
+    "bank": "bio.ann.cm3",
+    "id": 2,
+    "item": "D",
+    "field": "statement",
+    "text": "En fin de mitose, on observe une augmentation de l’activité ATPase de la lamine A, ce qui entraine la dépolymérisation des filaments de lamine au niveau de l’enveloppe nucléaire"
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 4,
+    "item": "B",
+    "field": "explanation",
+    "text": "L’intérieur du noyau est équivalent au reste du cytosol mais est très différent de l’extérieur de la cellule. Annotation : c’est l’intérieur du RE qui est équivalent au milieu extracellulaire en terme de composition."
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "item": "A",
+    "field": "explanation",
+    "text": "Le peptide signal adressant au RE est un peptide hydrophobe d’environ 15 à 30 AA en position N-ter (annotation remplaçant 10 AA)."
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "item": "E",
+    "field": "explanation",
+    "text": "Le récepteur de la SRP se lie au ribosome et le dirigera vers le canal protéique translocateur. C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse à se fixer sur la face cytosolique du RER."
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 8,
+    "item": "E",
+    "field": "statement",
+    "text": ">90% des protéines synthétisées dans une cellule acquièrent leur conformation fonctionnelle sans l’aide des protéines chaperonnes."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 1,
+    "item": "C",
+    "field": "statement",
+    "text": "La guanosine Exchange Factor de Sar1 (Sar1-GEF) est une protéine membranaire qui participe à la sélection des sites de bourgeonnement de vésicules de transport à partir de la membrane du RE vers l’appareil de Golgi."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "item": "C",
+    "field": "explanation",
+    "text": "Adressage aux lysosomes par le récepteur M6P qui repère le signal mannose-6-phosphate."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "item": "D",
+    "field": "explanation",
+    "text": "Les protéines sécrétées de manière constitutive sont les sécrétions non régulées. Le tr [fin de l’annotation tronquée dans le PDF source]."
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 10,
+    "item": "C",
+    "field": "explanation",
+    "text": "Les 2 membranes de l’autophagosome et de la mitochondrie."
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": 1,
+    "item": "B",
+    "field": "explanation",
+    "text": "Pas de centromère et de télomères (verdict explicite de la compilation générale, p. 1038)."
+  },
+  {
+    "bank": "bio.ann.cm9",
+    "id": 7,
+    "item": "B",
+    "field": "explanation",
+    "text": "2ème [point de contrôle]."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "A",
+    "field": "statement",
+    "text": "Les cellules restent bloquées en phase G1 quel que soit le lysat analysé."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "A",
+    "field": "explanation",
+    "text": "Les cellules ne restent pas en G1, elles repartent dans le cycle après retrait de l’inhibiteur."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "B",
+    "field": "statement",
+    "text": "La quantité de cycline B est variable, avec un pic entre 8 et 10h après la remise en culture sans inhibiteur."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "B",
+    "field": "explanation",
+    "text": "La cycline B varie et présente un pic vers 8–10 h, signe d’entrée en mitose (la cycline B est associée à l’entrée en phase G2/M, surtout la mitose)."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "C",
+    "field": "statement",
+    "text": "Cette PCR montre une variation d’expression des lamines A et C."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "C",
+    "field": "explanation",
+    "text": "Ce n’est pas une PCR, c’est un Western blot, donc on analyse des protéines, pas l’expression d’ARN."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "D",
+    "field": "statement",
+    "text": "À 9h, on note la présence de lamines A et C phosphorylées sur les sites Thr19 et Ser22."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "D",
+    "field": "explanation",
+    "text": "À 9 h, on observe des lamines A/C phosphorylées sur Thr19 et Ser22."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "E",
+    "field": "statement",
+    "text": "La phosphorylation des lamines A/C est maximale lors de la phase de mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 1,
+    "item": "E",
+    "field": "explanation",
+    "text": "La phosphorylation des lamines A/C est maximale en mitose, où elle permet la désorganisation de l’enveloppe nucléaire."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "A",
+    "field": "statement",
+    "text": "Cette observation est réalisée en microscopie électronique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "A",
+    "field": "explanation",
+    "text": "c’est de la microscopie à fluorescence (présence de fluorochrome: DAPI, marquage vert)."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "B",
+    "field": "statement",
+    "text": "La chromatine est condensée sous forme de chromosomes, les cellules sont probablement en phase G1."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "B",
+    "field": "explanation",
+    "text": "la chromatine n’est pas condensée. On voit clairement l’aspect diffus du DAPI, donc les cellules sont en interphase et pas en mitose, donc certainement pas en G1 (chromosomes condensés)."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "C",
+    "field": "statement",
+    "text": "En condition WT, la lamine A présente la localisation sous-membranaire, qui est attendue en interphase (G1/S/G2)."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "C",
+    "field": "explanation",
+    "text": "en condition WT la lamine A forme un réseau sous la membrane nucléaire (typique des phases G1/S/G2)."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "D",
+    "field": "statement",
+    "text": "Le mutant T19D induit une relocalisation significative de la lamine A dans le nucléoplasme."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "D",
+    "field": "explanation",
+    "text": "L’image montre une lamine moins périphérique et le graphique confirme une augmentation du ratio nucléoplasme/membrane, donc relocalisation significative (****) de la lamine vers le nucléoplasme."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "E",
+    "field": "statement",
+    "text": "La phosphorylation en T19 et S22 de la lamine A est probablement en cause lors de la dépolymérisation de la lamine"
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 2,
+    "item": "E",
+    "field": "explanation",
+    "text": "la phosphorylation casse les interactions entre lamines, entraîne leur dépolymérisation et permet la désorganisation de l’enveloppe nucléaire. Les mutants T19D et S22D miment cela d’où la dispersion de la lamina nucléaire vers le nucléoplasme."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "A",
+    "field": "statement",
+    "text": "La lamine A n'est présente qu'en mitose, son expression étant induite par le couple CDK1/cycline B."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "A",
+    "field": "explanation",
+    "text": "La lamine A n’est pas présente uniquement en mitose. Elle est une protéine constitutive de la lamina nucléaire, présente aussi en interphase. Ce qui change en mitose, c’est son état de phosphorylation, pas son expression."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "B",
+    "field": "statement",
+    "text": "Le couple CDK1/cycline B induit la phosphorylation des lamines A et C en position Ser 22 et Thr19, lors de la mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "B",
+    "field": "explanation",
+    "text": "Le couple CDK1/cycline B phosphoryle les lamines A et C en mitose, notamment sur Ser22 et Thr19. La figure le montre : en condition mitotique Noc, la phosphorylation est forte, puis elle diminue avec l’inhibiteur de CDK1."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "C",
+    "field": "statement",
+    "text": "L'inhibiteur Ro3306 bloque probablement la dépolymérisation de la lamina nucléaire lors de la mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "C",
+    "field": "explanation",
+    "text": "Ro3306 inhibe CDK1. Or CDK1 permet la phosphorylation des lamines, nécessaire à la dépolymérisation de la lamina nucléaire en mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "D",
+    "field": "statement",
+    "text": "La dépolymérisation des microtubules participe à la séparation des chromatides pendant la mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "D",
+    "field": "explanation",
+    "text": "Attention au piège : le nocodazole dépolymérise les microtubules, mais les microtubules du fuseau mitotique sont nécessaires à la séparation des chromatides. Donc leur dépolymérisation empêche la séparation correcte des chromatides, elle n’y participe pas."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "E",
+    "field": "statement",
+    "text": "Les trois composants du cytosquelette : microfilament d'actine, microtubules et filaments intermédiaires, participent à la mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 3,
+    "item": "E",
+    "field": "explanation",
+    "text": "Les trois grands composants du cytosquelette participent à la mitose : les microtubules pour le fuseau mitotique (séparation des chromosomes), les microfilaments d’actine dans la cytokinèse (anneau contractile), et les filaments intermédiaires (=lamina nucléaire) dans la désorganisation/réorganisation de l’enveloppe nucléaire."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 4,
+    "item": "A",
+    "field": "explanation",
+    "text": "Les cellules apoptotiques ne sont pas forcément en mitose."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 4,
+    "item": "C",
+    "field": "explanation",
+    "text": "Ce sont les cellules sénescentes qui sont plus volumineuses."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 4,
+    "item": "D",
+    "field": "explanation",
+    "text": "Mais leur métabolisme reste faible et basal."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 4,
+    "item": "E",
+    "field": "explanation",
+    "text": "Plusieurs indices permettent de le constater : sur la figure A : le nombre de cellules n’augmente pas lorsqu’elles sont traitées par étoposide, elles semblent ne plus se multiplier. En B, on voit que les cellules traitées expriment fortement la bêta-galactosidase acide, qui est un marqueur des cellules sénescentes. En D, les cellules traitées semblent exprimer p21, qui est aussi une protéine marquant les cellules en sénescence."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 5,
+    "item": "D",
+    "field": "explanation",
+    "text": "Car Bcl2 est anti-apoptotique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 6,
+    "item": "C",
+    "field": "explanation",
+    "text": "On observe juste que la multiplication des cellules mutées est plus lente ou qu’elles meurent plus rapidement, on ne peut rien affirmer de plus."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 6,
+    "item": "D",
+    "field": "explanation",
+    "text": "Si elle avait écrit « on peut supposer », alors on pouvait cocher VRAI."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 6,
+    "item": "E",
+    "field": "explanation",
+    "text": "Idem que D."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 7,
+    "item": "A",
+    "field": "explanation",
+    "text": "Les PS sont ensuite reconnues par l’annexine V portée par les macrophages."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 7,
+    "item": "C",
+    "field": "explanation",
+    "text": "Les cellules en sénescence sont des cellules qui ne se répliquent plus mais elles ne sont pas dégradées."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 7,
+    "item": "D",
+    "field": "explanation",
+    "text": "La plupart des cellules BRAFm ne sont marquées ni à l’annexine V ni à l’IP : elles sont donc en bonne santé."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 7,
+    "item": "E",
+    "field": "explanation",
+    "text": "Même remarque pour les cellules Mock, elles sont majoritairement en bonne santé."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 8,
+    "item": "A",
+    "field": "explanation",
+    "text": "Ce sont des cultures cellulaires, MO inversée."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 8,
+    "item": "B",
+    "field": "explanation",
+    "text": "La microscopie à fluorescence est optique."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 8,
+    "item": "D",
+    "field": "explanation",
+    "text": "Le métabolisme glucidique est actif."
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 8,
+    "item": "E",
+    "field": "explanation",
+    "text": "D’après la figure A et le marquage à la β-galactosidase acide, on déduit que les cellules BRAFm sont vraisemblablement en sénescence. La figure B montre une densification de la chromatine dans ces cellules, ce qui est une autre caractéristique des cellules sénescentes. Ces densifications sont bien appelées des SAHF."
+  }
+]

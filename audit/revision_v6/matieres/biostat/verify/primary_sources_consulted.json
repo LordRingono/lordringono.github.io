@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://itl.nist.gov/div898/software/dataplot/refman1/auxillar/conflimi.htm",
+    "publisher": "NIST",
+    "verified": "Mean confidence interval and inverse square-root dependence on n."
+  },
+  {
+    "url": "https://itl.nist.gov/div898/handbook/eda/section3/eda366i.htm",
+    "publisher": "NIST",
+    "verified": "Binomial mean, standard deviation and parameter estimation."
+  },
+  {
+    "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pointbiserialr.html",
+    "publisher": "SciPy official documentation",
+    "verified": "Point-biserial correlation and Pearson/t-test equivalence; the isolated n−1 typo in a prose line is not used."
+  },
+  {
+    "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda351.htm",
+    "publisher": "NIST",
+    "verified": "Median formula based on ordered ranks."
+  },
+  {
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-3-measures-of-the-location-of-the-data",
+    "publisher": "OpenStax, Rice University",
+    "verified": "Median and quartiles, equality at quantiles and empirical-rank conventions."
+  }
+]

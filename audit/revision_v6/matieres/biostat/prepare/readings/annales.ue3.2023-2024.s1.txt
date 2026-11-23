@@ -1,0 +1,713 @@
+annales.ue3.2023-2024.s1 Q1 · SITE=B · GRILLE=B · DÉTAIL=['B']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 1 
+Le taux de cholestérol total de sujets âgés d'une population P est Normalement distribué autour d'une 
+espérance connue de 5,4 mmol/l avec un écart type théorique connu de 1,0 mmol/l. 
+Quelle est la probabilité pour un sujet de cette population de présenter un taux de cholestérol total au-dessus 
+de la norme sachant que les valeurs de référence doivent être comprises entre 3,0 et 6,2 mmol/l ?  Vous 
+garderez 2 chiffres significatifs au résultat final. 
+SUJET ORIGINAL
+Exercice 1
+Le taux de cholestérol total de sujets âgés d'une population P est Normalement distribué autour d'une
+espérance connue de 5,4 mmol/l avec un écart type théorique connu de 1,0 mmol/l.
+Quelle est la probabilité pour un sujet de cette population de présenter un taux de cholestérol total au-dessus
+de la norme sachant que les valeurs de référence doivent être comprises entre 3,0 et 6,2 mmol/l ?  Vous
+garderez 2 chiffres significatifs au résultat final.
+Vous sélectionnerez la proposition correspondant au calcul de la probabilité demandée.
+A. 0.10
+B. 0.21
+C. 0.79
+D. 0.90
+E. Les 4 propositions précédentes sont fausses
+CORRIGÉ ORIGINAL
+Correction détaillée
+Exercice 1
+Le taux de cholestérol total de sujets âgés d'une population P est Normalement distribué autour d'une
+espérance connue de 5,4 mmol/l avec un écart type théorique connu de 1,0 mmol/l.
+Quelle est la probabilité pour un sujet de cette population de présenter un taux de cholestérol total au-dessus
+de la norme sachant que les valeurs de référence doivent être comprises entre 3,0 et 6,2 mmol/l ?  Vous garderez
+2 chiffres significatifs au résultat final.
+Vous sélectionnerez la proposition correspondant au calcul de la probabilité demandée.
+A. 0.10
+B. 0.21
+C. 0.79
+D. 0.90
+E. Les 4 propositions précédentes sont fausses
+B
+On cherche P(U> 6.2)
+ 1-P(U≤ (6.2-5.4)/1)
+1-P(X≤0.8) (on regarde la correspondance dans le tableau)
+1-0.79
+= 0.21
+A. FAUX
+B. VRAI
+C. FAUX
+D. FAUX
+E. FAUX
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q2 · SITE=CD · GRILLE=CD · DÉTAIL=['CD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 2 
+ 
+L'objectif d'une étude est d'étudier l'effet d'un traitement intensif sur la survenue de problèmes 
+cardiovasculaires chez des patients présentant un diabète de type 2. Sur 500 patients suivis, on observe 75 
+patients qui présentent au moins un événement cardiovasculaire. 
+On demande de calculer l'intervalle de confiance à 95 % de la probabilité pour un sujet de présenter au moins 
+un événement cardiovasculaire au cours de sa période de suivi. Vous garderez 2 chiffres après la virgule à la 
+valeur lue dans la table statistique et au résultat final. 
+SUJET ORIGINAL
+Exercice 2
+L'objectif d'une étude est d'étudier l'effet d'un traitement intensif sur la survenue de problèmes
+cardiovasculaires chez des patients présentant un diabète de type 2. Sur 500 patients suivis, on observe 75
+patients qui présentent au moins un événement cardiovasculaire.
+On demande de calculer l'intervalle de confiance à 95 % de la probabilité pour un sujet de présenter au moins
+un événement cardiovasculaire au cours de sa période de suivi. Vous garderez 2 chiffres après la virgule à la
+valeur lue dans la table statistique et au résultat final.
+Parmi les propositions suivantes relatives à cet intervalle de confiance, cochez la (ou les) proposition(s)
+exacte(s).
+A. La borne inférieure est 0,10
+B. La borne inférieure est 0,11
+C. La borne supérieure est 0,19
+D. La borne supérieure est 0,20
+E. Les 4 propositions précédentes sont fausses
+CORRIGÉ ORIGINAL
+Exercice 2
+L'objectif d'une étude est d'étudier l'effet d'un traitement intensif sur la survenue de problèmes
+cardiovasculaires chez des patients présentant un diabète de type 2. Sur 500 patients suivis, on observe 75
+patients qui présentent au moins un événement cardiovasculaire.
+On demande de calculer l'intervalle de confiance à 95 % de la probabilité pour un sujet de présenter au moins
+un événement cardiovasculaire au cours de sa période de suivi. Vous garderez 2 chiffres après la virgule à la
+valeur lue dans la table statistique et au résultat final.
+Parmi les propositions suivantes relatives à cet intervalle de confiance, cochez la (ou les) proposition(s)
+exacte(s).
+A. La borne inférieure est 0,10
+B. La borne inférieure est 0,11
+C. La borne supérieure est 0,19
+D. La borne supérieure est 0,20
+E. Les 4 propositions précédentes sont fausses
+CD
+Ici on est dans le cas d’une VA binaire : présenter l’évènement cardiovasculaire ou non. f=75/500= 0.15
+n=500. Par application de cette formule :
+On trouve IC = 0.15±0. 031.. On arrondit au supérieur donc IC = 0.15±0.04
+A. FAUX
+B. FAUX
+C. VRAI
+D. VRAI
+E. FAUX
+La variable aléatoire sert à modéliser le problème. Elle prend la valeur 1 lorsque la variable collectée par le sujet
+est "Présence d'au moins un événement cardiovasculaire".
+NOTES EXISTANTES
+La clé CD est incohérente : C et D proposent deux bornes supérieures différentes, 0,19 et 0,20. Avec f=75/500=0,15, la demi-largeur vaut 1,96×√(0,15×0,85/500)≈0,03130. L’arrondi usuel des bornes donne [0,12 ; 0,18], donc E ; l’arrondi conservateur de la demi-largeur à 0,04 appliqué explicitement par le corrigé donne [0,11 ; 0,19], donc BC. Aucune de ces conventions ne donne CD. La ronéo UE3 « Estimation » doit préciser la convention d’arrondi ; la clé du tutorat est conservée.
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q3 · SITE=ABE · GRILLE=ABE · DÉTAIL=['ABE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 2 
+ 
+L'objectif d'une étude est d'étudier l'effet d'un traitement intensif sur la survenue de problèmes 
+cardiovasculaires chez des patients présentant un diabète de type 2. Sur 500 patients suivis, on observe 75 
+patients qui présentent au moins un événement cardiovasculaire. 
+On demande de calculer l'intervalle de confiance à 95 % de la probabilité pour un sujet de présenter au moins 
+un événement cardiovasculaire au cours de sa période de suivi. Vous garderez 2 chiffres après la virgule à la 
+valeur lue dans la table statistique et au résultat final. 
+ 
+ 
+La variable aléatoire sert à modéliser le problème. Elle prend la valeur 1 lorsque la variable collectée par le 
+sujet est "Présence d'au moins un événement cardiovasculaire". 
+SUJET ORIGINAL
+La variable aléatoire sert à modéliser le problème. Elle prend la valeur 1 lorsque la variable collectée par le
+sujet est "Présence d'au moins un événement cardiovasculaire".
+Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La variable collectée par sujet est qualitative à deux modalités de type "présence/Absence"
+B. La variable aléatoire X suit une loi de Bernoulli de paramètre π avec π= P(X=1)
+C. La fréquence f calculée à partir de l'échantillon observé est la valeur prise par une variable aléatoire
+qui suit une loi de Bernoulli
+D. L'intervalle de confiance calculé précédemment n'est pas valide
+E. Un intervalle de confiance avec un risque d’erreur de 0,01 serait plus large que l'intervalle de
+confiance calculé précédemment (question de cours)
+CORRIGÉ ORIGINAL
+Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La variable collectée par sujet est qualitative à deux modalités de type "présence/Absence"
+B. La variable aléatoire X suit une loi de Bernoulli de paramètre π avec π= P(X=1)
+C. La fréquence f calculée à partir de l'échantillon observé est la valeur prise par une variable aléatoire
+qui suit une loi de Bernoulli
+D. L'intervalle de confiance calculé précédemment n'est pas valide
+E. Un intervalle de confiance avec un risque d’erreur de 0,01 serait plus large que l'intervalle de confiance
+calculé précédemment (question de cours)
+ABE
+A. VRAI
+B. VRAI
+C. FAUX : les valeurs prises par une VA qui suit une loi de Bernoulli sont seulement 1 et 0.
+D. FAUX
+E. VRAI : précédemment le risque d’erreur était de 0.05, ici il est abaissé à 0.01. Pour abaisser le risque
+d’erreur, il faut « augmenter la surface » et donc augmenter l’intervalle de confiance.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q4 · SITE=BD · GRILLE=BD · DÉTAIL=['BD']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 3 
+Vous êtes responsable de la production de comprimés d'atorvastatine à raison de 40 mg de principe actif par 
+comprimé. Vous prélevez un échantillon de 20 comprimés à partir d’un lot de comprimés produits. La 
+moyenne de la quantité d’atorvastatine des comprimés de cet échantillon est de 40,6 mg avec un écart type 
+de 1,0 mg. Vous devez tester si la quantité moyenne d'atorvastatine dévie de la quantité nominale de 40 mg 
+d’atorvastatine par comprimé. Vous prendrez un risque d’erreur de 5 %. La valeur calculée de la statistique du 
+test est d’environ 2,7. 
+SUJET ORIGINAL
+Exercice 3
+Vous êtes responsable de la production de comprimés d'atorvastatine à raison de 40 mg de principe actif par
+comprimé. Vous prélevez un échantillon de 20 comprimés à partir d’un lot de comprimés produits. La
+moyenne de la quantité d’atorvastatine des comprimés de cet échantillon est de 40,6 mg avec un écart type
+de 1,0 mg. Vous devez tester si la quantité moyenne d'atorvastatine dévie de la quantité nominale de 40 mg
+d’atorvastatine par comprimé. Vous prendrez un risque d’erreur de 5 %. La valeur calculée de la statistique du
+test est d’environ 2,7.
+Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La statistique du test suit une loi Normale Centrée Réduite
+B. La statistique du test suit une loi de Student à 19 degrés de liberté
+C. La statistique du test suit une loi de Student à 18 degrés de liberté
+D. L’hypothèse H0 est μ = 40
+E. L’hypothèse H0 est m = 40
+CORRIGÉ ORIGINAL
+Exercice 3
+Vous êtes responsable de la production de comprimés d'atorvastatine à raison de 40 mg de principe actif par
+comprimé. Vous prélevez un échantillon de 20 comprimés à partir d’un lot de comprimés produits. La moyenne
+de la quantité d’atorvastatine des comprimés de cet échantillon est de 40,6 mg avec un écart type de 1,0 mg.
+Vous devez tester si la quantité moyenne d'atorvastatine dévie de la quantité nominale de 40 mg d’atorvastatine
+par comprimé. Vous prendrez un risque d’erreur de 5 %. La valeur calculée de la statistique du test est d’environ
+2,7.
+Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La statistique du test suit une loi Normale Centrée Réduite
+B. La statistique du test suit une loi de Student à 19 degrés de liberté
+C. La statistique du test suit une loi de Student à 18 degrés de liberté
+D. L’hypothèse H0 est μ = 40
+E. L’hypothèse H0 est m = 40
+BD
+A. FAUX
+B. VRAI, on effectue un test de comparaison d’une moyenne estimée à une moyenne de référence. La
+statistique du test suit donc une loi de Student à n-1 ddl = 20-1 ddl = 19 ddl.
+C. FAUX
+D. VRAI : H0 est l’hypothèse selon laquelle la vraie moyenne est égale à la valeur de référence
+E. FAUX : cf D
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q5 · SITE=E · GRILLE=E · DÉTAIL=['E']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 4 
+Vous avez effectué un est de comparaison de deux moyennes, échantillons indépendants. La valeur seuil de 
+la statistique du test a été lue dans la table de Student à 15 degrés de liberté. La valeur prise par la statistique 
+du test est de 1,236. 
+SUJET ORIGINAL
+Exercice 4
+Vous avez effectué un est de comparaison de deux moyennes, échantillons indépendants. La valeur seuil de
+la statistique du test a été lue dans la table de Student à 15 degrés de liberté. La valeur prise par la statistique
+du test est de 1,236.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. 0,01 < p-valeur < 0,02
+B. 0,02 < p-valeur < 0,05
+C. 0,05 < p-valeur < 0,10
+D. 0,10 < p-valeur < 0,20
+E. 0,20 < p-valeur < 0,30
+CORRIGÉ ORIGINAL
+Exercice 4
+Vous avez effectué un est de comparaison de deux moyennes, échantillons indépendants. La valeur seuil de la
+statistique du test a été lue dans la table de Student à 15 degrés de liberté. La valeur prise par la statistique du
+test est de 1,236.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. 0,01 < p-valeur < 0,02
+B. 0,02 < p-valeur < 0,05
+C. 0,05 < p-valeur < 0,10
+D. 0,10 < p-valeur < 0,20
+E. 0,20 < p-valeur < 0,30
+E
+A. FAUX
+B. FAUX
+C. FAUX
+D. FAUX
+E. VRAI : on regarde dans la table de Student à 15 ddl dans quel intervalle peut être encadrée la valeur
+1,236. On remarque que 1,074 < 1,236 < 1,341. Donc 0,20 < p-valeur < 0,30.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q6 · SITE=ADE · GRILLE=ADE · DÉTAIL=['ADE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 5 
+Une étude a été conduite sur un échantillon de 32 sujets pour savoir si l’âge influençait la pression artérielle 
+systolique (PAS). La pente estimée de la régression linéaire et b1 = 1,7 tandis que l’écart type estimé est sb1 
+= 0,45. 
+SUJET ORIGINAL
+Exercice 5
+Une étude a été conduite sur un échantillon de 32 sujets pour savoir si l’âge influençait la pression artérielle
+systolique (PAS). La pente estimée de la régression linéaire et b1 = 1,7 tandis que l’écart type estimé est sb1
+= 0,45.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. L’âge et la variable explicative.
+B. La corrélation entre l’âge et la PAS et négative.
+C. L’intervalle de confiance à 95 % de la pente est ]0,81 ; 2,59[.
+D. L’intervalle de confiance à 95 % de la pente est ]0,78 ; 2,62[.
+E. L’effet de l’âge sur la PAS et statistiquement significatif au risque d’erreur 5 % 0,01 < p-valeur < 0,02
+CORRIGÉ ORIGINAL
+Exercice 5
+Une étude a été conduite sur un échantillon de 32 sujets pour savoir si l’âge influençait la pression artérielle
+systolique (PAS). La pente estimée de la régression linéaire et b1 = 1,7 tandis que l’écart type estimé est sb1 =
+0,45.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. L’âge et la variable explicative.
+B. La corrélation entre l’âge et la PAS et négative.
+C. L’intervalle de confiance à 95 % de la pente est ]0,81 ; 2,59[.
+D. L’intervalle de confiance à 95 % de la pente est ]0,78 ; 2,62[.
+E. L’effet de l’âge sur la PAS est statistiquement significatif au risque d’erreur 5 %
+ADE
+A. VRAI : L’âge est la variable indépendante donc explicative
+B. FAUX : étant donné que la pente de régression linéaire est positive, la corrélation entre l’âge et la PAS
+est positive
+C. FAUX : IC= 1,7 +/- 2,042 x 0,45 = 1,7 +/- 0,92 = ]0,78 ; 2,62[
+D. VRAI : cf C
+E. VRAI : Nous avons précédemment calculé l'intervalle de confiance de la pente à ]0,78 ; 2,62[. 0 est
+exclu de cet intervalle de confiance alors on peut rejeter H0 et donc dire que l'effet de l'âge sur la PAS
+est statistiquement significatif au risque d'erreur 5%. Une autre façon de le faire serait de calculer la
+statistique du test. b1/sb1 = 1,7/0,45 = 3,78. Puisque 3,78 > 2,042, l’effet de l’âge sur la PAS est
+statistiquement significatif au risque d’erreur 5%.
+NOTES EXISTANTES
+Le verdict E vrai concerne correctement la significativité à 5 %, mais l’item comporte aussi le fragment « 0,01 < p-valeur < 0,02 ». Avec t=1,7/0,45≈3,78 et 30 degrés de liberté, p bilatérale≈0,00070 : cet encadrement est faux. Le corrigé ne justifie que la significativité et laisse ce fragment inexpliqué. C’est une anomalie déjà présente dans l’énoncé source ; ne pas apprendre l’encadrement imprimé comme vrai. Clé source conservée.
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q7 · SITE=ADE · GRILLE=ADE · DÉTAIL=['ADE']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 6 
+Une étude a évalué les performances du dosage dans le sang des marqueurs COMP et SDF-1 pour le 
+diagnostic d'arthropathie hémophilique chez des patients souffrant d'hémophilie sévère. 
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure ci-dessous :  
+ 
+Le point en gris correspond à un point de sensibilité 0,93 et de spécificité 0,5. 
+SUJET ORIGINAL
+Exercice 6
+Une étude a évalué les performances du dosage dans le sang des marqueurs COMP et SDF-1 pour le
+diagnostic d'arthropathie hémophilique chez des patients souffrant d'hémophilie sévère.
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure ci-dessous :
+Le point en gris correspond à un point de sensibilité 0,93 et de spécificité 0,5.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. Avec le marqueur COMP, pour détecter au moins 93 % des cas d'arthropathie hémophilique, on est
+obligé d'avoir un pourcentage de faux positifs d'au moins 50 %.
+B. Avec le marqueur COMP, on peut détecter 100 % des cas d'arthropathie hémophilique en ayant
+moins de 30 % de faux positifs.
+C. On peut déduire des courbes ROC que le marqueur SDF-1 a globalement de meilleures performances
+diagnostiques que le marqueur COMP.
+D. Si l'objectif est de privilégier la sensibilité du test, il vaut mieux utiliser le marqueur COMP.
+E. Si l'objectif est de privilégier la spécificité du test, il vaut mieux utiliser le marqueur SDF-1
+CORRIGÉ ORIGINAL
+Exercice 6
+Une étude a évalué les performances du dosage dans le sang des marqueurs COMP et SDF-1 pour le diagnostic
+d'arthropathie hémophilique chez des patients souffrant d'hémophilie sévère.
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure ci-dessous :
+Le point en gris correspond à un point de sensibilité 0,93 et de spécificité 0,5.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte :
+A. Avec le marqueur COMP, pour détecter au moins 93 % des cas d'arthropathie hémophilique, on est
+obligé d'avoir un pourcentage de faux positifs d'au moins 50 %.
+B. Avec le marqueur COMP, on peut détecter 100 % des cas d'arthropathie hémophilique en ayant moins
+de 30 % de faux positifs.
+C. On peut déduire des courbes ROC que le marqueur SDF-1 a globalement de meilleures performances
+diagnostiques que le marqueur COMP.
+D. Si l'objectif est de privilégier la sensibilité du test, il vaut mieux utiliser le marqueur COMP.
+E. Si l'objectif est de privilégier la spécificité du test, il vaut mieux utiliser le marqueur SDF-1
+ADE
+A. VRAI
+B. FAUX : plus de 70% de faux positifs,
+C. FAUX : Les 2 courbes ROC se croisent, il n'est plus possible de les comparer dans l'ensemble.
+D. VRAI : effectivement il a des valeurs plus intéressantes au niveau de la sensibilité.
+E. VRAI : effectivement il a des valeurs plus intéressantes au niveau de la spécificité.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q8 · SITE=AD · GRILLE=AD · DÉTAIL=['AD']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 6 
+Une étude a évalué les performances du dosage dans le sang des marqueurs COMP et SDF-1 pour le 
+diagnostic d'arthropathie hémophilique chez des patients souffrant d'hémophilie sévère. 
+Les courbes ROC de ces deux marqueurs sont représentées sur la figure ci-dessous :  
+ 
+Le point en gris correspond à un point de sensibilité 0,93 et de spécificité 0,5. 
+ 
+ 
+Le marqueur SDF-1 est retenu, avec un seuil de positivité tel que la sensibilité est de 0,8, et la spécificité de 
+0,75. On considère que la prévalence d'arthropathie hémophilique chez les patients souffrant d'hémophilie 
+sévère est de 0,1. 
+ 
+SUJET ORIGINAL
+Le marqueur SDF-1 est retenu, avec un seuil de positivité tel que la sensibilité est de 0,8, et la spécificité de
+0,75. On considère que la prévalence d'arthropathie hémophilique chez les patients souffrant d'hémophilie
+sévère est de 0,1.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. En cas de test SDF-1 positif, l'odds de maladie est multiplié par 3,2
+B. En cas de test SDF-1 positif, la probabilité de maladie est multipliée par 3,2
+C. Le test SDF-1 permet plus d'affirmer la présence de la maladie lorsqu'il est positif que de l'exclure
+lorsqu'il est négatif
+D. L'odds de maladie post-test SDF-1 positif est d'environ 0,36
+E. La probabilité de maladie post-test ne dépend pas de la prévalence de la pathologie dans la
+population
+CORRIGÉ ORIGINAL
+Le marqueur SDF-1 est retenu, avec un seuil de positivité tel que la sensibilité est de 0,8, et la spécificité de
+0,75. On considère que la prévalence d'arthropathie hémophilique chez les patients souffrant d'hémophilie
+sévère est de 0,1.
+Parmi les propositions suivantes relatives à l’encadrement de la p-valeur du test précédent, cochez la
+proposition exacte.
+A. En cas de test SDF-1 positif, l'odds de maladie est multiplié par 3,2
+B. En cas de test SDF-1 positif, la probabilité de maladie est multipliée par 3,2
+C. Le test SDF-1 permet plus d'affirmer la présence de la maladie lorsqu'il est positif que de l'exclure
+lorsqu'il est négatif
+D. L'odds de maladie post-test SDF-1 positif est d'environ 0,36
+E. La probabilité de maladie post-test ne dépend pas de la prévalence de la pathologie dans la population
+AD
+A. VRAI : On calcule le RV+ = Se/1-Spé = 0,8/0,25 = 3,2
+B. FAUX : c’est l’odds et non pas la VPP
+C. FAUX : en effet le test est plus sensible que spécifique, ainsi, on est plus surs de l’absence de la maladie
+lorsque le test est négatif car le test étant très sensible il aurait détecté la maladie si elle y était.
+D. VRAI : Odds = Proba / 1 – Proba = 0,1 / 0,9 = 1/9. L’odds de maladie post test est odds x RV+ = 1/9 x 3,2
+= 0,36
+E. FAUX : La probabilité post-test est la VPP et celle-ci dépend de la prévalence.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q9 · SITE=BCDE · GRILLE=BCDE · DÉTAIL=['BCDE']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 7 
+Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle 
+(groupe contrôle) chez des patients avec un AVC dont le niveau d'ischémie est élevé (score ASPECT ≤ 5). 
+Pour les 250 patients de l’étude, le niveau d’ischémie (score ASPECT) a été évalué par les cliniciens des 
+hôpitaux (score local), puis par deux experts (score centralisé). Les résultats des deux évaluations sont 
+présentés dans le tableau ci-dessous : 
+ 
+ 
+Score centralisé 
+≤ 3 
+Score centralisé 
+3-5 
+ 
+Score local 
+≤ 3 
+45 
+30 
+75 
+Score local 
+3-5 
+55 
+120 
+175 
+ 
+100 
+150 
+250 
+SUJET ORIGINAL
+Exercice 7
+Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle
+(groupe contrôle) chez des patients avec un AVC dont le niveau d'ischémie est élevé (score ASPECT ≤ 5).
+Pour les 250 patients de l’étude, le niveau d’ischémie (score ASPECT) a été évalué par les cliniciens des
+hôpitaux (score local), puis par deux experts (score centralisé). Les résultats des deux évaluations sont
+présentés dans le tableau ci-dessous :
+Score centralisé
+Score centralisé
+≤ 3
+3-5
+Score local
+45
+30
+75
+≤ 3
+Score local
+55
+120
+175
+3-5
+100
+150
+250
+On souhaite comparer la proportion de patients avec un score ASPECT ≤ 3 entre l'évaluation locale ou
+centralisée. La statistique du test appropriée est 2,7.
+Parmi les propositions suivantes, vous cocherez la (ou les) propositions(s) exacte(s).
+A. On réalise un test du χ2 pour données indépendantes
+B. Le nombre de paires discordantes est de 85
+C. Le test peut être effectué en comparant, par exemple, la proportion 30/85 à la proportion théorique
+0,5
+D. La p-value du test de comparaison est inférieure à 5%
+E. L’évaluation locale a tendance à sous-estimer la proportion de patients ayant un score ASPECT ≤ 3
+par rapport à l’évaluation centralisée, sans tenir compte de la significativité statistique
+CORRIGÉ ORIGINAL
+Exercice 7
+Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle (groupe
+contrôle) chez des patients avec un AVC dont le niveau d'ischémie est élevé (score ASPECT ≤ 5).
+Pour les 250 patients de l’étude, le niveau d’ischémie (score ASPECT) a été évalué par les cliniciens des hôpitaux
+(score local), puis par deux experts (score centralisé). Les résultats des deux évaluations sont présentés dans le
+tableau ci-dessous :
+Score centralisé
+Score centralisé
+≤ 3
+3-5
+Score local
+45
+30
+75
+≤ 3
+Score local
+55
+120
+175
+3-5
+100
+150
+250
+On souhaite comparer la proportion de patients avec un score ASPECT ≤ 3 entre l'évaluation locale ou
+centralisée. La statistique du test appropriée est 2,7.
+Parmi les propositions suivantes, vous cocherez la (ou les) propositions(s) exacte(s).
+A. On réalise un test du χ2 pour données indépendantes
+B. Le nombre de paires discordantes est de 85
+C. Le test peut être effectué en comparant, par exemple, la proportion 30/85 à la proportion théorique
+0,5
+D. La p-value du test de comparaison est inférieure à 5%
+E. L’évaluation locale a tendance à sous-estimer la proportion de patients ayant un score ASPECT ≤ 3 par
+rapport à l’évaluation centralisée, sans tenir compte de la significativité statistique
+BCDE
+A. FAUX : les données sont appariées. On effectue ici un test de Mc Nemar.
+B. VRAI : les paires discordantes sont 30 + 55 = 85.
+C. VRAI : le test de Mc Nemar consiste à tester si b/(b+c) est statistiquement différent de 0.5.
+Si on prend b=30 et c=55, on compare ici la proportion 30/85 à 0,5.
+𝑏
+30
+𝑏+𝑐 −0,5
+30+55−0,5
+D. VRAI : |𝑧| = |
+| = |
+| ≈ 2,71
+√0,25
+√0,5(1−0,5)
+30+55
+𝑏+𝑐
+|z|> 1,96
+p-value < 0,05
+E. VRAI : 75 < 100.
+L'étude a comparé les proportions de patients décédés à 90 jours entre le groupe thrombectomie et le groupe
+contrôle. La proportion estimée dans le groupe thrombectomie était de 0,3, contre 0,5 dans le groupe
+contrôle.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q10 · SITE=ABC · GRILLE=ABC · DÉTAIL=['ABC']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 7 
+Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle 
+(groupe contrôle) chez des patients avec un AVC dont le niveau d'ischémie est élevé (score ASPECT ≤ 5). 
+Pour les 250 patients de l’étude, le niveau d’ischémie (score ASPECT) a été évalué par les cliniciens des 
+hôpitaux (score local), puis par deux experts (score centralisé). Les résultats des deux évaluations sont 
+présentés dans le tableau ci-dessous : 
+ 
+ 
+Score centralisé 
+≤ 3 
+Score centralisé 
+3-5 
+ 
+Score local 
+≤ 3 
+45 
+30 
+75 
+Score local 
+3-5 
+55 
+120 
+175 
+ 
+100 
+150 
+250 
+ 
+L'étude a comparé les proportions de patients décédés à 90 jours entre le groupe thrombectomie et le 
+groupe contrôle. La proportion estimée dans le groupe thrombectomie était de 0,3, contre 0,5 dans le 
+groupe contrôle. 
+SUJET ORIGINAL
+L'étude a comparé les proportions de patients décédés à 90 jours entre le groupe thrombectomie et le
+groupe contrôle. La proportion estimée dans le groupe thrombectomie était de 0,3, contre 0,5 dans le
+groupe contrôle.
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s).
+A. Il est possible d'interpréter l'odds ratio de décès entre les deux groupes calculés dans cette étude
+B. Le risque relatif de décès entre le groupe thrombectomie et le groupe contrôle est estimé à 0,6
+C. Le risque de décès est environ 1,7 fois plus faible dans le groupe thrombectomie que dans le groupe
+contrôle
+D. Avec les mêmes proportions de décès estimées, mais un effectif plus faible, le risque a du test serait
+plus élevé
+E. Avec les mêmes proportions de décès estimées, mais un effectif plus faible, la puissance du test serait
+plus élevée
+CORRIGÉ ORIGINAL
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s).
+A. Il est possible d'interpréter l'odds ratio de décès entre les deux groupes calculés dans cette étude
+B. Le risque relatif de décès entre le groupe thrombectomie et le groupe contrôle est estimé à 0,6
+C. Le risque de décès est environ 1,7 fois plus faible dans le groupe thrombectomie que dans le groupe
+contrôle
+D. Avec les mêmes proportions de décès estimées, mais un effectif plus faible, le risque a du test serait
+plus élevé
+E. Avec les mêmes proportions de décès estimées, mais un effectif plus faible, la puissance du test serait
+plus élevée
+ABC
+A. VRAI : il est possible de l’interpréter car on a ici une étude de cohorte sur 90 jours.
+B. VRAI : on fait le RR = 0,3 / 0,5 = 0,6
+C. VRAI : cette fois ci c’est l’inverse, 0,5/0,3 = 1,66667 donc environ 1,7
+D. FAUX : le risque alpha est fixe et déterminé par l’examinateur
+E. FAUX : avec un effectif plus faible, on diminue la puissance du test.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q11 · SITE=BCE · GRILLE=BCE · DÉTAIL=['BCE']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 8 
+Une étude a été menée pour estimer l'incidence de bronchiolite après la mise en place du vaccin chez les 
+nourrissons. Elle a porté sur des nourrissons avec un suivi équivalent à 200 personne-années. 
+On considérera pour cet exercice qu'un nourrisson ne peut faire qu'une bronchiolite. 
+Un des objectifs étaient de comparer l'incidence estimée après mise en place du vaccin à l'incidence connue 
+avant la mise en place du vaccin (valeur théorique). 
+SUJET ORIGINAL
+Exercice 8
+Une étude a été menée pour estimer l'incidence de bronchiolite après la mise en place du vaccin chez les
+nourrissons. Elle a porté sur des nourrissons avec un suivi équivalent à 200 personne-années.
+On considérera pour cet exercice qu'un nourrisson ne peut faire qu'une bronchiolite.
+Un des objectifs étaient de comparer l'incidence estimée après mise en place du vaccin à l'incidence connue
+avant la mise en place du vaccin (valeur théorique).
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s).
+A. L'étude a pu inclure des nourrissons qui avaient une bronchiolite juste avant le démarrage de celle-ci,
+et n'étaient pas encore guéris
+B. L'étude correspond à une étude de cohorte
+C. Le suivi des nourrissons après leur bronchiolite n'est plus pris en compte dans le calcul de l'incidence
+D. L'étude a nécessairement suivi 200 nourrissons, chacun durant une année
+E. L'erreur-type du test de comparaison de l'incidence après mise en place du vaccin à l'incidence
+théorique avant vaccin tient compte d'un seul terme d'incertitude
+CORRIGÉ ORIGINAL
+Exercice 8
+Une étude a été menée pour estimer l'incidence de bronchiolite après la mise en place du vaccin chez les
+nourrissons. Elle a porté sur des nourrissons avec un suivi équivalent à 200 personne-années.
+On considérera pour cet exercice qu'un nourrisson ne peut faire qu'une bronchiolite.
+Un des objectifs étaient de comparer l'incidence estimée après mise en place du vaccin à l'incidence connue
+avant la mise en place du vaccin (valeur théorique).
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s).
+A. L'étude a pu inclure des nourrissons qui avaient une bronchiolite juste avant le démarrage de celle-ci,
+et n'étaient pas encore guéris
+B. L'étude correspond à une étude de cohorte
+C. Le suivi des nourrissons après leur bronchiolite n'est plus pris en compte dans le calcul de l'incidence
+D. L'étude a nécessairement suivi 200 nourrissons, chacun durant une année
+E. L'erreur-type du test de comparaison de l'incidence après mise en place du vaccin à l'incidence
+théorique avant vaccin tient compte d'un seul terme d'incertitude
+BCE
+A. FAUX : dans une étude de cohorte, on commence toujours avec des individus exempts de la maladie
+étudiée.
+B. VRAI : car on a suivi des patients sur une durée.
+C. VRAI : une fois un individu atteint du critère étudié, celui-ci n’est plus utilisé pour le calcul de l’incidence
+D. FAUX : ce n’est pas nécessaire mais une moyenne estimée.
+E. VRAI : Lors de la comparaison d'une incidence estimée avec une incidence théorique, on ne relèvera
+pas de terme d'incertitude sur l'incidence théorique parce qu'elle n'est pas sujette aux fluctuations. En
+revanche, on aura 1 terme d'incertitude sur l'incidence estimée parce que la valeur pourrait différer
+d'un échantillon à un autre. Au total, l'erreur-type du test ne tiendra compte que d'un seul terme
+d'incertitude.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2023-2024.s1 Q12 · SITE=BC · GRILLE=BC · DÉTAIL=['BC']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 9 
+ 
+Dans 31 hôpitaux américains, les patientes ayant subi une césarienne ont été réparties de manière aléatoire 
+entre recevoir soit de l'acide tranexamique, soit un placebo après le clampage du cordon ombilical. Le critère 
+de jugement principal était un composite de décès maternel ou de transfusion sanguine à la sortie de l'hôpital 
+ou à 7 jours après l'accouchement. 
+Sous l'hypothèse d'un risque relatif de 0,67 (réduction du risque de critère de jugement principal de 33 %), il 
+estimé que le recrutement de 11 000 participantes (5 500 par groupe) conduirait à une puissance de 85 % 
+(erreur de type 1 bilatérale de 5 %). L'analyse a été réalisée en intention de traiter. 
+Le critère de jugement principal est survenu chez 201 des 5525 participants (3,6 %) dans le groupe acide 
+tranexamique et chez 233 des 5475 (4,3 %) dans le groupe placebo (risque relatif 0,89 ; intervalle de confiance 
+à 95% : 0,74 à 1,07 ; p = 0,19). 
+SUJET ORIGINAL
+Exercice 9
+Dans 31 hôpitaux américains, les patientes ayant subi une césarienne ont été réparties de manière aléatoire
+entre recevoir soit de l'acide tranexamique, soit un placebo après le clampage du cordon ombilical. Le critère
+de jugement principal était un composite de décès maternel ou de transfusion sanguine à la sortie de l'hôpital
+ou à 7 jours après l'accouchement.
+Sous l'hypothèse d'un risque relatif de 0,67 (réduction du risque de critère de jugement principal de 33 %), il
+estimé que le recrutement de 11 000 participantes (5 500 par groupe) conduirait à une puissance de 85 %
+(erreur de type 1 bilatérale de 5 %). L'analyse a été réalisée en intention de traiter.
+Le critère de jugement principal est survenu chez 201 des 5525 participants (3,6 %) dans le groupe acide
+tranexamique et chez 233 des 5475 (4,3 %) dans le groupe placebo (risque relatif 0,89 ; intervalle de confiance
+à 95% : 0,74 à 1,07 ; p = 0,19).
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s).
+A. Les patientes indemnes de critère de jugement principal seront vivantes avec une transfusion
+sanguine à la sortie de l'hôpital ou à 7 jours après l'accouchement
+B. L'étude est un essai clinique multicentrique randomisé contrôlé contre placebo visant à évaluer l'effet
+de l'acide tranexamique
+C. Avec 11 000 patientes, la probabilité de conclure à tort que l'acide tranexamique n'a pas d'effet est
+de 15 % sous les hypothèses mentionnées pour le calcul d'effectif
+D. L'analyse élimine toutes les patientes dont le statut vital et le statut transfusionnel sont inconnus à la
+sortie de l'hôpital ou à 7 jours après l'accouchement
+E. On peut conclure que l'acide tranexamique réduit statistiquement la survenue du critère de jugement
+principal de 33 %
+CORRIGÉ ORIGINAL
+Exercice 9
+Dans 31 hôpitaux américains, les patientes ayant subi une césarienne ont été réparties de manière aléatoire
+entre recevoir soit de l'acide tranexamique, soit un placebo après le clampage du cordon ombilical. Le critère de
+jugement principal était un composite de décès maternel ou de transfusion sanguine à la sortie de l'hôpital ou
+à 7 jours après l'accouchement.
+Sous l'hypothèse d'un risque relatif de 0,67 (réduction du risque de critère de jugement principal de 33 %), il
+estimé que le recrutement de 11 000 participantes (5 500 par groupe) conduirait à une puissance de 85 % (erreur
+de type 1 bilatérale de 5 %). L'analyse a été réalisée en intention de traiter.
+Le critère de jugement principal est survenu chez 201 des 5525 participants (3,6 %) dans le groupe acide
+tranexamique et chez 233 des 5475 (4,3 %) dans le groupe placebo (risque relatif 0,89 ; intervalle de confiance
+à 95% : 0,74 à 1,07 ; p = 0,19).
+Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s).
+A. Les patientes indemnes de critère de jugement principal seront vivantes avec une transfusion sanguine
+à la sortie de l'hôpital ou à 7 jours après l'accouchement
+B. L'étude est un essai clinique multicentrique randomisé contrôlé contre placebo visant à évaluer l'effet
+de l'acide tranexamique
+C. Avec 11 000 patientes, la probabilité de conclure à tort que l'acide tranexamique n'a pas d'effet est de
+15 % sous les hypothèses mentionnées pour le calcul d'effectif
+D. L'analyse élimine toutes les patientes dont le statut vital et le statut transfusionnel sont inconnus à la
+sortie de l'hôpital ou à 7 jours après l'accouchement
+E. On peut conclure que l'acide tranexamique réduit statistiquement la survenue du critère de jugement
+principal de 33 %
+BC
+A. FAUX : Elles seront vivantes SANS transfusion sanguine.
+B. VRAI : c’est la définition de l’expérience.
+C. VRAI : ici la probabilité de conclure à tort est le risque beta, celui-ci s’obtient en faisant 1-puissance. Ici
+puissance = 0,85 donc 1-0,85=0,15.
+D.  FAUX : Analyse en Intention de Traiter : tous les participants à l’étude restent étudiés dans le groupe
+auquel ils ont été assignés. Aucune exclusion a posteriori.
+E. FAUX, On a ici une p-value qui est de 0,19, donc on ne peut pas conclure avec les 5% qu’on souhaitait
+dans l’énoncé.
+NOTES EXISTANTES

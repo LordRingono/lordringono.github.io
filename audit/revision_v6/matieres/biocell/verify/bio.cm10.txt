@@ -1,0 +1,118 @@
+
+### bio.cm10 ID 1 | ANSWER  | COMPLETE False
+PREP STEM: D’après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+SUBJECT
+AUTOTEST CM10 MORT CELLULAIRE.pdf p1 [0, 116.45, 595.303955078125, 248.3]
+1)  D’après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+   A. un stress intense provoque soit une nécrose soit une autophagie l'apoptose est un
+      processus de mort cellulaire programmé, il ne nécessite pas d'ATP
+   B. une cellule infectée par un virus déclenche une nécrose
+   C.  l'apoptose n’est déclenchée que par une seule voie , la voie extrinsèque grâce aux
+      récepteurs de mort FAS
+   D. on reconnait une cellule en apoptose car la chromatine se condense en périphérie du
+     noyau
+CORRECTION
+CORRECTION autotest CM10 MORT CELLULAIRE.pdf p1 [0, 76.91, 595.303955078125, 201.11]
+1) D’après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+   A. un stress intense provoque soit une nécrose soit une autophagie Faux une nécrose ou une apoptose
+   B. l'apoptose est un processus de mort cellulaire programmé, il ne nécessite pas d'ATP Faux il faut de
+     l'ATP
+   C. une cellule infectée par un virus déclenche une nécrose Faux une apoptose
+   D. l'apoptose n’est déclenchée que par une seule voie , la voie extrinsèque grâce aux récepteurs de mort
+    FAS Faux deux voies possible extrinsèque et intrinsèque
+   E. on reconnait une cellule en apoptose car la chromatine se condense en périphérie du noyau Vrai
+DETAIL MISMATCH A: une nécrose ou une apoptose / il faut de l'ATP
+
+### bio.cm10 ID 2 | ANSWER AD | COMPLETE True
+PREP STEM: D'après vos connaissances sur la mort cellulaire, vous pouvez dire que:
+SUBJECT
+AUTOTEST CM10 MORT CELLULAIRE.pdf p1 [0, 248.3, 595.303955078125, 365.5]
+2)  D'après vos connaissances sur la mort cellulaire, vous pouvez dire que:
+    A.  les cellules en nécrose gonflent et leur membrane plasmique se déchire
+    B.  la nécrose peut se propager aux cellules environnantes dans un tissu, ce processus
+      de mort nécessite de l'ATP
+    C.  la nécrose est un processus contrôlé
+   D.  les cellules sénescentes sont en phase G0
+    E.  la mise en place de la senescence nécessite l’expression de certaines kinases Cdki
+CORRECTION
+CORRECTION autotest CM10 MORT CELLULAIRE.pdf p1 [0, 201.11, 595.303955078125, 325.31]
+2) D'après vos connaissances sur la mort cellulaire, vous pouvez dire que:
+   A. les cellules en nécrose gonflent et leur membrane plasmique se déchire Vrai
+   B.  la nécrose peut se propager aux cellules environnantes dans un tissu, ce processus de mort nécessite
+      de l'ATP Faux l'ATP non indispensable
+   C. la nécrose est un processus contrôlé faux
+   D. les cellules sénescentes sont en phase G0 Vrai
+   E.  la mise en place de la senescence nécessite l’expression de certaines kinases Cdki Faux les Cdki
+       sont des inhibiteurs de kinases Cdk comme P21 par exemple
+
+### bio.cm10 ID 3 | ANSWER ABDE | COMPLETE True
+PREP STEM: D'après vos connaissances sur la sénescence cellulaire, vous pouvez dire que:
+SUBJECT
+AUTOTEST CM10 MORT CELLULAIRE.pdf p1 [0, 365.5, 595.303955078125, 512.0]
+3)  D'après vos connaissances sur la sénescence cellulaire, vous pouvez dire que:
+    A. Au cours du processus de senescence, la p16 bloque la transcription de la cycline D,
+        la cellule ne peut pas entamer son cycle cellulaire, elle entre en phase G0
+    B. un des marqueurs des cellules sénescentes est l'expression d'une enzyme
+       lysosomale: la béta-galactosidase
+    C.  les cellules sénescentes se contractent, elles sont plus petites que les autres cellules
+   D.  les cellules sénescentes montrent une plus grande proportion d'hétérochromatine
+    E.  le processus de sénescence peut se propager aux autres cellules environnantes par
+      des facteurs SASP
+CORRECTION
+CORRECTION autotest CM10 MORT CELLULAIRE.pdf p1 [0, 325.31, 595.303955078125, 477.11]
+3) D'après vos connaissances sur la sénescence cellulaire, vous pouvez dire que:
+   A. Au cours du processus de senescence, la p16 bloque la transcription de la cycline D, la cellule ne
+       peut pas entamer son cycle cellulaire, elle entre en phase G0 Vrai
+   B. un des marqueurs des cellules sénescentes est l'expression d'une enzyme lysosomale: la béta-
+       galactosidase Vrai
+   C.  les cellules sénescentes se contractent, elles sont plus petites que les autres cellules Faux elles
+      deviennent géantes
+   D. les cellules sénescentes montrent une plus grande proportion d'hétérochromatine Vrai
+   E.  le processus de sénescence peut se propager aux autres cellules environnantes par des facteurs SASP
+      Vrai
+
+### bio.cm10 ID 4 | ANSWER BCD | COMPLETE True
+PREP STEM: D'après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+SUBJECT
+AUTOTEST CM10 MORT CELLULAIRE.pdf p1 [0, 512.0, 595.303955078125, 658.5]
+4)  D'après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+   A.  la sénescence n'est pas un phénomène physiologique, elle n’apparait qu’à partir d’un
+       certain âge
+   B.  les cellules sénescentes modifient leur protéome
+   C.  les BCL2 anti-apoptotiques favorisent le processus de sénescence
+   D. l'accumulation des radicaux oxygénés au cours de la vie favorise le développement
+     du processus de sénescence
+   E.  la suractivité de la télomérase explique l'engagement des cellules dans le processus
+     de sénescence
+CORRECTION
+CORRECTION autotest CM10 MORT CELLULAIRE.pdf p1 [0, 477.11, 595.303955078125, 628.91]
+4) D'après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+   A. la sénescence n'est pas un phénomène physiologique, elle n’apparait qu’à partir d’un certain âge
+     Faux elle intervient à tous les âges, c’est physiologique
+   B.  les cellules sénescentes modifient leur protéome Vrai certains gènes ne sont plus transcrits
+   C.  les BCL2 anti-apoptotiques favorisent le processus de sénescence Vrai
+   D. l'accumulation des radicaux oxygénés au cours de la vie favorise le développement du processus de
+      sénescence vrai
+   E.  la suractivité de la télomérase explique l'engagement des cellules dans le processus de sénescence
+      faux au contraire, la télomérase n’est plus active
+
+### bio.cm10 ID 5 | ANSWER ABCDE | COMPLETE True
+PREP STEM: D'après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+SUBJECT
+AUTOTEST CM10 MORT CELLULAIRE.pdf p1 [0, 658.5, 595.303955078125, 766.4]
+5)  D'après vos connaissances sur la mort cellulaire, vous pouvez dire que :
+ A. des cassures doubles-brins de l'ADN déclenchent l'activation de p53 qui est engagé dans
+      la réparation de l'ADN
+ B. p53 est un facteur qui stoppe le cycle cellulaire
+  C.  le stress réplicatif bloque la réplication et déclenche l'activité de P53
+ D.  la sénescence réplicative correspond à l'érosion des télomères
+  E.  la sénescence réplicative conduit la cellule à entrer en phase G0
+CORRECTION
+CORRECTION autotest CM10 MORT CELLULAIRE.pdf p1 [0, 628.91, 595.303955078125, 732.99]
+5) D'après vos connaissances sur la mort cellulaire, vous pouvez dire que:
+ A. des cassures doubles-brins de l'ADN déclenchent l'activation de p53 qui est engagé dans la réparation de
+    l'ADN Vrai
+ B. p53 est un facteur qui stoppe le cycle cellulaire Vrai
+ C.  le stress réplicatif bloque la réplication et déclenche l'activité de P53 Vrai
+ D. la sénescence réplicative correspond à l'érosion des télomères Vrai
+ E.  la sénescence réplicative conduit la cellule à entrer en phase G0 Vrai

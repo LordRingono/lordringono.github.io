@@ -1,0 +1,531 @@
+Q1 · clé BCD
+SUJET
+EXERCICE 1
+On suppose qu’en population générale, 80% des personnes âgées de plus de 75 ans sont atteintes d’arthrose.
+La variable aléatoire F (fréquence empirique) représente la proportion de sujets atteints d’arthrose estimée
+à partir d’un échantillon représentatif de 100 sujets de plus de 75 ans de la population générale.
+1. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s)
+A. La variable d’étude dont la valeur est collectée par sujet est une variable quantitative de
+dénombrement
+B. La variable aléatoire (n × F) suit une loi binomiale de moyenne théorique 80 et d’écart type
+théorique 4
+C. La loi de la variable aléatoire (F) peut être approximée par une loi normale
+D. Pour s’assurer que la proposition C est juste, il suffit de comparer la valeur 20 à 5
+E. L’écart type théorique de la variable aléatoire F est égal à 0,4
+CORRIGÉ
+BCD
+A. FAUX : la variable d’étude est une variable qualitative binaire : présence d’arthrose ou non.
+B. VRAI : On effectue une opération d’échantillonnage qui correspond pour chaque individu de
+l’échantillon à une expérience de Bernoulli, donc n x F suit une loi binomiale de paramètres théoriques :
+𝜇𝐹= 𝐸(𝑛𝐹) = 𝑛𝜋0 = 100 × 0.80 = 80
+𝜎𝑛𝐹= √𝑉𝑎𝑟(𝑛𝐹) = √𝑛× 𝜋0 × (1 −𝜋0) = √100 × 0.8(1 −0.8) = √2 × 8 = √16 = 4
+C. VRAI :  la loi binomiale (nF) définie par les paramètres (𝑛, 𝜋0) peut être approximée par une loi normale
+si 𝑛(1 −𝜋0) = 100 × 0.2 = 20
+et n𝜋0 =0.8x100 =80 donc les conditions sont respectées.
+D. VRAI : cf C
+E. FAUX :  E(F)= 𝜋0  Var(F)=√𝜋0(1−𝜋0)
+= √0.8(1−0.2)
+= √0.16
+0.4
+100 =
+10 = 0.04
+𝑛
+100
+NOTES
+
+
+===
+
+Q2 · clé ABCD
+SUJET
+2. Calculez et indiquez la probabilité d’observer la variable aléatoire F inférieure à 0,78 ou supérieure à
+0,82 parmi les valeurs du tableau 1. Vous arrondirez la valeur lue dans la table de la fonction de répartition
+de la loi normale centrée réduite sur la 2e décimale.
+CORRIGÉ
+ABCD
+Rappel : Pour ce genre d’exercice et les biostatistiques en général, faire des schémas est vital pour ne pas
+se tromper ou bien voir des liens entre les valeurs de l’énoncé (quand il y en a) !
+On cherche P(F≤ 0.78) + P(F ≤ 0.82). Avec F suivant une loi normale N telle que N(µ=0.8;σ=0.04)
+(approximation possible Cf. QCM1 item C)
+Vous pouvez remarquer que 0.78 et 0.82 sont disposés symétriquement par rapport à la moyenne
+théorique µ de F grâce à votre schéma. On a donc P(F≤ 0.78) = P(F ≤ 0.82).
+P (F≤0.78) = P (U≤(0.78-0.8)/0.04)
+= P (U≤ -0.02/0.04)
+= P (U≤ -0,5)
+= 1-P(U≤0,5)
+=1-0,6915 (par lecture du tableau de la fonction de répartition de la variable NCR notée U)
+= 0,3085
+Ainsi P(F≤ 0.78) + P(F ≤ 0.82) = 2P(F≤0,78)= 2x0,3085 = 2x0,31 =0,62 car arrondi à la deuxième décimale
+(centième) près.
+NOTES
+
+
+===
+
+Q3 · clé BD
+SUJET
+EXERCICE 2
+Le taux d’hémoglobine chez la femme est en moyenne de 135 g/L. Lors d’une étude sur l’anémie des femmes
+enceintes, on mesure le taux d’hémoglobine de 25 femmes supplémentées quotidiennement en fer. La
+moyenne observée de cet échantillon est de 133 g/L et la variance est estimée à 36 (g/L)².
+On souhaite comparer le taux d’hémoglobine des femmes enceintes supplémentées quotidiennement en fer
+au taux de référence chez la femme en population générale. Vous prendrez un risque d’erreur de 5%.
+La variable aléatoire X représente la variable d’étude « Taux d’hémoglobine chez les femmes traitées », et
+est supposée suivre une loi normale.
+3. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exactes(s) relatives au test
+d’hypothèse à effectuer :
+A. Le test peut être effectué sans aucune hypothèse sur la loi de X
+B. La valeur seuil lue dans la table statistique est de 2,064
+C. La décision statistique est le rejet de H0 au risque d’erreur de 5%
+D. On ne montre pas de différence statistiquement significative entre le taux d’hémoglobine moyen
+des femmes traitées et le taux de référence dans cette étude au risque d’erreur de 5%
+E. Le taux d’hémoglobine moyen dans la population des femmes traitées est égal au taux de référence
+dans la population
+CORRIGÉ
+BD
+A. FAUX : Pour que la moyenne empirique M (de X) suive une loi normale, il faut que X suive une loi normale
+(quelles que soient sa moyenne et son écart type). Ici, c'est la statistique du test qui suit une loi de
+Student puisqu’il est question d’un petit échantillon de 25 personnes.
+B. VRAI : Dans cet exercice on compare une moyenne observée sur un petit échantillon de 25 personnes à
+une moyenne de référence. On regarde donc la table de t à n-1 ddl = 25-1=24 ddl. Le risque α consenti
+est par convention de 0,05 quand il n’est pas précisé. La valeur seuil lue dans la table de Student est
+bien t5%,24=2,064
+C. FAUX : On calcule la statistique du test tobs avec m=133 g/L , µ=135 g/L, s2 et n=25
+(133−135)
+𝑚− 𝜇0
+5× 2
+10
+5
+3
+2
+𝑡𝑜𝑏𝑠=
+=
+= −
+= −
+6 = −
+3 = −
+3 −
+3 = 1,6666 … . ≈ −1,67
+√(𝑠2
+6
+√36
+𝑛)
+25
+|𝑡𝑜𝑏𝑠| = 1,67 < 2,064 On ne peut pas rejeter H0 au risque d’erreur 5%
+D. VRAI : Cf C
+E. FAUX : en biostatistiques on n’a jamais de certitude, même s’il n’y a pas de différence significative au
+risque 𝛼 5%, on ne connait pas le risque 𝛽 de conclure à tort en faveur de H0.
+NOTES
+
+
+===
+
+Q4 · clé AE
+SUJET
+4.  Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les valeurs
+numériques du tableau 2. Vous arrondirez le résultat final sur la 2e décimale.
+CORRIGÉ
+AE
+(𝟏𝟑𝟑−𝟏𝟑𝟓)
+𝒎− 𝝁𝟎
+𝟓× 𝟐
+𝟏𝟎
+𝟓
+𝟑
+𝟐
+𝒕𝒐𝒃𝒔=
+=
+= −
+= −
+𝟔= −
+𝟑= −
+𝟑−
+𝟑= 𝟏, 𝟔𝟔𝟔𝟔… . ≈ −𝟏, 𝟔𝟕
+√(𝒔𝟐
+𝟔
+√𝟑𝟔
+𝒏)
+𝟐𝟓
+NOTES
+
+
+===
+
+Q5 · clé ADE
+SUJET
+EXERCICE 3
+On souhaite expliquer la concentration de l’hormone lactogène dans le liquide amniotique à partir de sa
+concentration dans le sang à l’aide d’une régression linéaire. Pour cela, on dose cette hormone à la fois dans
+le liquide amniotique et le sang chez 12 femmes enceintes. On suppose que la concentration dans le sang est
+connue sans erreur.
+L’ordonnée à l’origine et la pente de la droite de régression sont estimées à 0,10 et 0,52 avec des erreurs
+type estimées respectives de 0,40 et 0,04.
+5. Parmi les propositions suivantes, vous cocherez la (ou les) propositions(s) exacte(s) :
+A. Le test à effectuer est un test de pente nulle
+B. La statistique du test effectué est égale à 0,25
+C. La valeur seuil de la statistique du test est égale à 2,201
+D. La valeur seuil de la statistique du test est égale à 2,228
+E. La régression linéaire est statistiquement significative au risque d’erreur de 5%
+CORRIGÉ
+ADE
+A. VRAI : on cherche à vérifier si la concentration en hormone lactogène dans le liquide amniotique et dans
+le sang sont corrélées, pour cela on effectue un test de la pente nulle.
+B. FAUX : La statistique du test suit une loi de Student à v = n – 2 = 12 – 2= 10 ddl
+𝑏1
+0.52
+40+12
+𝑡𝑜𝑏𝑠=
+𝑠𝑏1 =
+0.04 =
+= 13 ≠0.25
+4
+C. FAUX : dans la table on voit que la valeur seuil avec 𝑡(5%;10𝑑𝑑𝑙) = 𝑡𝑠𝑒𝑢𝑖𝑙= 2.228
+D. VRAI : cf C
+E. VRAI : |𝑡obs| = 13 > 2,228 donc on rejet H0 au risque d’erreur de 5%
+NOTES
+
+
+===
+
+Q6 · clé BCD
+SUJET
+EXERCICE 4
+Une étude a été réalisée pour évaluer les performances de l’IRM afin d’effectuer le diagnostic de cancer du
+sein. L’étude a porté sur 240 femmes avec des antécédents familiaux de cancer du sein, et présentant une
+boule à la palpation. Chez toutes ces femmes, une biopsie a été réalisée (examen considéré comme le gold
+standard ici). Les résultats de cette étude sont présentés ci-dessous :
+Biopsie positive
+Biopsie négative
+IRM positive
+90
+42
+IRM négative
+10
+98
+100
+140
+Aides aux calculs : 98/108 ≈ 0,91 ; 98/140 = 0,7
+6. Parmi les propositions suivantes, et sans considérer la significativité statistique, vous cocherez la (ou
+les) proposition(s) exacte(s) :
+A. L’IRM arrive mieux à identifier les patients non malades que les patients malades
+B. L’IRM permet plus d’exclure le diagnostic de cancer lorsqu’elle est négative que d’affirmer la
+présence de cancer lorsqu’elle est positive
+C. Le design approprié pour l’objectif de cette étude est le design d’étude transversal
+D. En cas d’IRM positive, l’odds de cancer du sein est multiplié par 3
+E. Dans une population dans laquelle la prévalence de cancer du sein serait plus faible, en cas d’IRM
+positive, l’odds de cancer pré-test serait multiplié par un nombre moins élevé que dans la
+population de l’étude
+CORRIGÉ
+BCD
+A. FAUX : l’item affirme que l’IRM a une meilleure spécificité (« identifier les patients non malades » =
+proportion de non malades ayant une IRM négative) que sensibilité (« que les patients malades » =
+proportion de malades ayant une IRM positive) donc on les calcule :
+𝑉𝑃
+90
+100 = 90%
+Sen =
+𝑉𝑃+𝐹𝑁 =
+𝑉𝑁
+98
+Spé =
+𝑉𝑁+𝐹𝑃 =
+140 = 70 %
+Ainsi, Spé < Sen donc l’item est faux.
+B. VRAI : « exclure le diagnostic de cancer lorsqu’elle est négative » signifie que la probabilité de cancer
+en cas de test négatif est faible & « que d’affirmer la présence de cancer lorsqu’elle est positive »
+signifie que la probabilité de cancer en cas de test positif est élevée. Pour étudier cela, on considère
+les ratios de vraisemblance :
+𝑠𝑒𝑛
+0,9
+1−𝑆𝑒𝑛
+1−0,9
+RV+ =
+1−𝑠𝑝é =
+1−0,7 = 3 & RV- =
+𝑆𝑝é  =
+0,7  = 1/7
+En cas de test positif, l’odds pré-test est multiplié par 3 (RV+) tandis qu’en cas de test négatif, l’odds pré-
+test est multiplié par 1/7 donc divisé par 7 (RV-). Ainsi, un test négatif apporte plus d’information pour
+exclure le diagnostic qu’un test positif apporte d’information pour affirmer le diagnostic.
+C. VRAI : pour évaluer correctement les performances diagnostiques, il faut que le test soit réalisé au
+même moment que le gold standard (sinon, la maladie peut évoluer entre temps, et comparer le test
+au gold standard n’a plus de sens). Il faut donc une étude transversale.
+D. VRAI : En cas de test positif, l’odds de maladie (oddspré-test) est multiplié par le RV+ (attention, c’est
+l’odds qui est multiplié par le RV+, et non la probabilité)
+E. FAUX : Oddspost-test+ = RV+ × Oddspre-test
+La prévalence du cancer permet de calculer l’odds pré-test (odds pré-test = prévalence/1-prévalence). La
+formule montre que l’odds pré-test est multiplié par le ratio de vraisemblance positif. Le ratio de
+vraisemblance positif se calcule à partir des sensibilités et des spécificités, qui sont indépendantes de la
+prévalence. Ainsi, le ratio de vraisemblance positif est indépendant de la prévalence, donc l’odds pré-test
+est toujours multiplié par la même valeur, quelle que soit la prévalence. (Cependant, les valeurs
+prédictives positives et négatives sont dépendantes de la prévalence)
+NOTES
+
+
+===
+
+Q7 · clé BD
+SUJET
+Chez les femmes de plus de 70 ans présentant une boule à la palpation, on considérera que la prévalence du
+cancer du sein est de 10%. On considérera aussi que l’on est prêt à faire 7 biopsies à tort pour réussir à
+identifier à raison 3 cas de cancer du sein.
+7. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. Dans cette population, en cas d’IRM positive, l’odds post-test de cancer du sein est de 1/4
+B. Dans cette population, en cas d’IRM positive, la probabilité post-test de cancer du sein est de 1/4
+C. On considère que l’on est prêt à faire une biopsie dès que la probabilité de cancer du sein dépasse
+0,70
+D. Dans cette population, une IRM positive n’est pas suffisante pour faire une biopsie
+E. Dans cette population, une IRM positive est suffisante pour faire une biopsie
+CORRIGÉ
+BD
+0.1
+1
+A. FAUX :
+𝑜𝑑𝑑𝑠 𝑝𝑟é −𝑡𝑒𝑠𝑡 =
+(1−0.1) =
+la
+prévalence
+du
+cancer
+est
+de
+10%
+donc
+9.
+B. VRAI :
+attention
+à
+ne
+pas
+confondre
+odd
+post-test
+et
+probabilité
+post-test
+!
+1
+𝑂𝑑𝑑𝑠𝑝𝑜𝑠𝑡−𝑡𝑒𝑠𝑡
+1
+3
+𝑃𝑟𝑜𝑏𝑎𝑏𝑖𝑙𝑖𝑡é𝑝𝑜𝑠𝑡−𝑡𝑒𝑠𝑡=
+1+𝑂𝑑𝑑𝑠𝑝𝑜𝑠𝑡−𝑡𝑒𝑠𝑡=
+=
+4
+1+1
+3
+C. FAUX : La probabilité de maladie à partir de laquelle on accepte de traiter est donnée par la formule :
+1
+1
+3
+𝑃𝑟𝑜𝑏𝑎𝑡𝑟𝑎𝑖𝑡𝑒𝑚𝑒𝑛𝑡=
+=
+=
+10
+1+7
+1+𝐵𝑁
+3
+𝐶𝑁
+On peut aussi dire qu’on est prêt à réaliser 7 biopsies à tort pour 3 justes. Donc sur 10 biopsies, 3 sont
+positives c’est-à-dire que la probabilité de maladie à partir de laquelle il est considéré légitime de traiter
+est donc de 3/10.
+1
+D. VRAI : Dans cette population la probabilité post-test en cas d’IRM positive est de
+4 = 0,25 et la
+3
+10 ≈0,33 , 0,25 < 0,33 donc on ne traite
+probabilité de maladie à partie de laquelle on traite est de
+pas
+E. FAUX : cf D
+NOTES
+
+
+===
+
+Q8 · clé ABD
+SUJET
+EXERCICE 5
+Un jeune praticien hospitalier talentueux de l’hôpital Edouard Herriot a développé une nouvelle classification
+afin d’aider les endoscopistes à identifier les adénocarcinomes superficiels du côlon : la classification
+Conecct. Il a comparé ses résultats à ceux obtenus avec une ancienne classification : la classification Sano.
+Sur 130 adénocarcinomes superficiels du côlon, la classification conecct était positive pour 90 cas, dont 60
+l’étaient également pour la classification Sano. La classification Sano était positive pour 80 cas.
+Indications : 2/5 = 0,4 ; √2 ≈ 1,40
+8. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. La proportion de cas pour lesquels la classification Conecct est positive est de  9/13 ; elle est de 8/13
+pour la classification Sano
+B. On ne peut pas montrer de différence statistiquement significative entre les proportions de cas
+positifs aux classifications Conecct et Sano au risque d’erreur de 5%
+C. Les proportions de cas positifs aux classifications Conecct et Sano sont statistiquement différentes
+au risque d’erreur de 5%
+D. La p-value du test de comparaison des proportions de cas positifs est supérieure à 5%
+E. Le test statistique utilisé est le test d’indépendance du Chi2 classique
+CORRIGÉ
+ABD
+A. VRAI : classification Conecct : parmi les 130 cas, 90 sont Conecct +, soit une proportion estimée à
+90
+9
+130 =
+13.
+80
+8
+130 =
+13.
+classification Sano : parmi les 130 cas, 80 sont positifs à Sano, soit une proportion estimée à
+B. VRAI : on souhaite comparer deux proportions estimées sur les mêmes 130 individus, donc on fait un
+test de McNemar :
+On regarde les paires discordantes (cases b et c) soit au total 50 paires. On va comparer la proportion des
+paires discordantes de b ou de c par rapport à la proportion théorique de 0.5. Si on prend les paires de b,
+20
+2
+50 =
+on a sur les 50 paires discordantes, 20 de type b, soit une proportion de
+5.
+Comparaison d’une proportion (2/5) estimée (f) sur 50 individus à une proportion théorique p0(0.5) →
+test de l’écart-réduit:
+1,4 < 1,96 (le risque d’erreur à 5%) donc on rejette l’hypothèse nulle : on ne peut pas montrer que les
+deux proportions sont statistiquement différentes au risque d’erreur de 5%.
+C. FAUX : cf B
+D. VRAI : le test est non significatif (au risque d’erreur de 5%) donc la p-value est supérieure à 5%
+E. FAUX : on fait un test sur des données appareillées, on utilise un test de McNemar.
+Dans cette pathologie, le succès de la résection dépend de la grosseur et de la localisation de la masse à retirer.
+On distingue les polypes hyperplasiques (PH), les adénocarcinomes superficiels (AS), et les adénocarcinomes
+profonds (AP) ; cette classification est déterminée lors de la résection, par analyse anatomopathologique. Le
+statut R0 de la résection (résection totale avec marge de sécurité saine) est évalué également au moment de la
+résection par analyse anatomopathologique. Une étude a montré que le risque de résection R0 est 1,2 fois plus
+élevé dans le groupe PH que dans le groupe AS, et que ce risque est également 1,2 fois plus élevé dans le groupe
+AS que dans le groupe AP.
+NOTES
+
+
+===
+
+Q9 · clé ADE
+SUJET
+Dans cette pathologie, le succès de la résection dépend de la grosseur et de la localisation de la masse à
+retirer. On distingue les polypes hyperplasiques (PH), les adénocarcinomes superficiels (AS), et les
+adénocarcinomes profonds (AP) ; cette classification est déterminée lors de la résection, par analyse
+anatomopathologique. Le statut R0 de la résection (résection totale avec marge de sécurité saine) est évalué
+également au moment de la résection par analyse anatomopathologique. Une étude a montré que le risque
+de résection R0 est 1,2 fois plus élevé dans le groupe PH que dans le groupe AS, et que ce risque est
+également 1,2 fois plus élevé dans le groupe AS que dans le groupe AP.
+9. Parmi les propositions suivantes, et sans considérer la significativité statistique, vous cocherez la (ou
+les) proposition(s) exacte(s) :
+A. L’étude ayant permis d’obtenir ces résultats est une étude transversale
+B. L’étude ayant permis d’obtenir ces résultats est une étude de cohorte
+C. Le facteur étudié était le statut R0 de la résection
+D. Le risque de résection R0 est 1,44 fois plus élevé dans le groupe PH que dans le groupe AP
+E. Il semble exister une association entre la classification de la masse à retirer et le statut R0 de la
+résection
+CORRIGÉ
+ADE
+A. VRAI : dans l’énoncé on nous dit que la classification est déterminée lors de la résection et que le
+statut R0 de la résection est évalué aussi au moment de la résection -> tout est déterminé au même
+moment il s’agit bien d’une étude transversale.
+B. FAUX : cf A
+C. FAUX : On regarde si le risque de résection R0 varie selon la classification.
+𝑅𝑃𝐻
+𝑅𝐴𝑆
+𝑅𝑃𝐻
+𝑅𝑃𝐻
+𝑅𝐴𝑆
+D. VRAI : On a
+𝑅𝐴𝑆= 1,2 et
+𝑅𝐴𝑃= 1,2 Donc
+𝑅𝐴𝑃=
+𝑅𝐴𝑆 ×
+𝑅𝐴𝑃= 1,2 × 1,2 = 1,44
+E. VRAI : Plus le niveau de la classification augmente (AP, AS, PH), plus le risque de R0 est élevé. Il semble
+exister une association positive (resterait ensuite à la tester).
+NOTES
+
+
+===
+
+Q10 · clé AE
+SUJET
+EXERCICE 6
+Un essai a été mené pour estimer l’effet de l’acide tranexamique, un antihémorragique, dans les saignements
+intracrâniens traumatiques.
+En plus de la prise en charge classique, les patients étaient randomisés dans le bras acide tranexamique ou
+le bras placebo. Les patients, les soignants et les intervenants qui évaluaient les résultats ignoraient le
+traitement alloué. La mortalité à 28 jours des patients atteints de traumatisme crânien était de 20%.
+Le nombre de patients à inclure a été estimée à 10 000 patients au total pour avoir 90% de chance de montrer
+une réduction relative de 15% de la mortalité à 28 jours pour un risque de 1ère espèce de 1%.
+10. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. Il s’agit d’un essai comparatif randomisé contrôlé en double aveugle
+B. Le critère de jugement principal est la mortalité ou le saignement intracrânien à 28 jours
+C. La probabilité de conclure à tort en faveur de H0 est 1%
+D. La valeur seuil de la statistique de test final est de 1,96
+E. Pour une puissance de 80%, toutes choses égales par ailleurs il faudrait moins de sujets
+CORRIGÉ
+AE
+A. VRAI : dans le texte il est écrit que les patients étaient randomisés et que les patients, les soignant et
+les intervenants ignoraient le traitement alloué (=double aveugle).
+B. FAUX : Le critère de jugement principal est la mortalité seule.
+C. FAUX : le risque de première espèce de 1% décrit dans l’énoncé est le risque de conclure à tort en
+faveur de H1
+D. FAUX : Le seuil de la statique est de 1,96 pour un risque de première espèce de 5%, ici le risque est
+de 1% le seuil sera donc différent.
+E. VRAI : plus une étude aura beaucoup de sujet, plus elle sera puissante. Dans l’item on parle d’une
+étude moins puissante, elle nécessitera donc moins de sujet.
+NOTES
+
+
+===
+
+Q11 · clé AC
+SUJET
+EXERCICE 7
+La figure suivante représente les temps de participation de 10 patients atteints d’une maladie associée à une
+mortalité élevée. Le temps est en mois. Le symbole ‘†’ correspond au décès, ‘ev’ indique les sujets exclus-
+vivants de l’analyse.
+11. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. La probabilité de survie à 3 mois est de 2/3
+B. La probabilité de survie à 3 mois est de 70%
+C. La probabilité de survie à 5 mois est de 20%
+D. La probabilité de décès à 5 mois est de 60%
+E. La probabilité de décès à 4 mois est de 40%
+CORRIGÉ
+AC
+A. VRAI : pour être vivant à 3 mois il faut avoir survécu aux deux premiers. On utilise la formule de du
+calcul de survie selon Kaplan-Meier
+10
+7
+6
+10 ×
+9 ×
+7
+on a : S(T3) =
+6
+2
+En simplifiant, on trouve
+9 et donc S(T 3) =
+3.
+B. FAUX : cf A.
+2
+3
+1
+C. VRAI : on reprend notre probabilité de survie à 3 mois et on continue : S(T5) = (
+3) × (
+5) × (
+2)
+1
+En simplifiant, on a
+5 donc 20%.
+D. FAUX : si on a une probabilité de 20% de survivre alors on a une probabilité de 80% de mourir.
+Attention à ce qui est demandé !
+2
+3
+2
+E. FAUX : la survie au mois 4 est de S(T4) =(
+3) × (
+5) =
+5 donc de 40%. La probabilité de décès est donc
+de 60%.
+Pour récapituler :
+nb.evt = nombre de patients présentant l’événement (ici le décès) au temps t
+nb.a.risque = nombre de patients encore à risque (c’est-à-dire non décédé et non censurés) juste avant le
+temps t
+attention: les individus censurés au temps t comptent dans l’effectif à risque au temps t.
+NOTES

@@ -1,0 +1,451 @@
+[
+  {
+    "bank": "acc",
+    "id": 5,
+    "item": "E",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": "Pluriel « sexuelle » / « sexuelles » ; sens identique et version importée conforme à la répétition corrigée.",
+    "siteText": "L'utilisation de médicaments pour améliorer les performances sexuelles",
+    "repeatedCorrectionText": "L'utilisation de médicaments pour améliorer les performances sexuelles"
+  },
+  {
+    "bank": "acc",
+    "id": 29,
+    "item": "A",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": "Singulier/pluriel « erreur » / « erreurs » ; sens identique.",
+    "siteText": "Devant une situation clinique, un raisonnement analytique limite les risques d’erreurs diagnostique",
+    "repeatedCorrectionText": "Devant une situation clinique, un raisonnement analytique limite les risques d’erreurs diagnostique"
+  },
+  {
+    "bank": "acc",
+    "id": 31,
+    "item": "C",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "Le médecin explore l’ambivalence à travers la balance décisionnelle",
+    "repeatedCorrectionText": "La médecin explore l’ambivalence à travers la balance décisionnelle"
+  },
+  {
+    "bank": "acc",
+    "id": 31,
+    "item": "D",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": "Singulier/pluriel « motivations » / « motivation » ; sens identique.",
+    "siteText": "Le médecin favorise les sources de motivation extrinsèques",
+    "repeatedCorrectionText": "Le médecin favorise les sources de motivation extrinsèques"
+  },
+  {
+    "bank": "colle2",
+    "id": 2,
+    "item": "A",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "On retrouve dans le Mediator des éléments communs avec des médicaments consommés par las Allemands pendant la Seconde Guerre Mondiale, et qui leur permettait de tenir sans sommeil.",
+    "repeatedCorrectionText": "On retrouve dans le Mediator des éléments communs avec des médicaments consommés par les Allemands pendant la Seconde Guerre Mondiale, et qui leur permettait de tenir sans sommeil."
+  },
+  {
+    "bank": "colle2",
+    "id": 6,
+    "item": "E",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "Lorsqu’une situation est trop incertaine, il vaut mieux ne pas prendre de décision, pour ne pas risquer de faire une erreur",
+    "repeatedCorrectionText": "Lorsqu’une situation est trop incertaine, il vaut mieux de pas prendre de décision, pour ne pas risquer de faire une erreur"
+  },
+  {
+    "bank": "colle2",
+    "id": 8,
+    "item": "C",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "La révolution bactériologique et virologique a lieu au XIXe siècle alors que la découverte des mécanismes de l’hérédité et de la contagion a lieu XXIe siècle.",
+    "repeatedCorrectionText": "La révolution bactériologique et virologique a lieu au XIXe siècle alors que la découverte des mécanismes de l’hérédité et de la contagion a lieu au  XXIe siècle."
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "item": "A",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "L’épiderme est l’un des tissus le moins prélevé en France en 2024",
+    "repeatedCorrectionText": "Les trois religions déclarées ne s’opposent pas au don d’organe."
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "item": "B",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "En France, on effectue plus de 6000 greffes par an alors que plus de 31 000 personnes sont en attentes de greffes.",
+    "repeatedCorrectionText": "Finalement, le don d’organes se situe au carrefour de différentes sciences humaines."
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "item": "C",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "Le consentement présumé est un principe fondamental depuis 2001.",
+    "repeatedCorrectionText": "La mort encéphalique peut aussi s’appeler la mort à cœur battant."
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "item": "D",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "L’agence de biomédecine a été créée par la loi de bioéthique de 2004.",
+    "repeatedCorrectionText": "La première cause de la mort encéphalique est le traumatisme (accidents de la voie publique par ex)"
+  },
+  {
+    "bank": "colle2",
+    "id": 11,
+    "item": "E",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "Le PNRG est un pôle national s’occupant de la répartition des greffons.",
+    "repeatedCorrectionText": "La mort encéphalique est une mort plutôt fréquente."
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "item": "A",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "Les équipes de transplantation ne se déplacent pas pour prélever les organes. Elles attendent les greffons qui doivent être apportés sur place.",
+    "repeatedCorrectionText": "Dans la temporalité psychique, ici, le temps est biologique et physiologique, rationnel, cadré et quantifiable"
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "item": "B",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "La première condition pour prélever est d’être décédé avec uniquement une absence totale de conscience et d’activité motrice spontanée.",
+    "repeatedCorrectionText": "Dans la temporalité chronologique, le temps est linéaire et objectif."
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "item": "C",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "La mort à cœur arrêté ne permet pas de prélever les organes. Seule la mort encéphalique le permet.",
+    "repeatedCorrectionText": "Accueillir, c’est comprendre, communiquer, s’adapter, entendre le désarroi."
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "item": "D",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "Deux EEG nuls et aréactifs pratiqués à un intervalle minimal de 4 heures sont suffisants pour l’examen para clinique afin de diagnostiquer une mort encéphalique.",
+    "repeatedCorrectionText": "Une annonce ne doit pas être progressive, « distillés » graduellement."
+  },
+  {
+    "bank": "colle2",
+    "id": 12,
+    "item": "E",
+    "type": "source_text_comparison",
+    "status": "accepted_source_mismatch_excluded",
+    "subjectException": null,
+    "siteText": "Lors d’une annonce, il est judicieux de plutôt commencer par évoquer la mort encéphalique aux proches.",
+    "repeatedCorrectionText": "L’annonce nécessite parfois de la reformulation et des temps de silence."
+  },
+  {
+    "bank": "colle2",
+    "id": 13,
+    "item": "B",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "La littérature grise requiert une relecture par les pairs qui impact le volume et le temps pour publier.",
+    "repeatedCorrectionText": "La littérature grise requiert une relecture par les pairs qui impacte le volume et le temps pour publier."
+  },
+  {
+    "bank": "colle2",
+    "id": 24,
+    "item": "D",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "L’annonce du diagnostic peut être considéré comme un deuil.",
+    "repeatedCorrectionText": "L’annonce du diagnostic peut être considérée comme un deuil."
+  },
+  {
+    "bank": "colle2",
+    "id": 30,
+    "item": "B",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "Nous pouvons donc faire de l’activité physique sans être sportif.",
+    "repeatedCorrectionText": "Nous pouvons faire de l’activité physique sans être sportif."
+  },
+  {
+    "bank": "colle2",
+    "id": 40,
+    "item": "B",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "Deux cellules indifférenciées ayant avoir le même patrimoine génétique peuvent donner après spécialisation deux types cellulaires différents",
+    "repeatedCorrectionText": "Deux cellules indifférenciées ayant le même patrimoine génétique peuvent donner après spécialisation deux types cellulaires différents"
+  },
+  {
+    "bank": "colle2",
+    "id": 45,
+    "item": "C",
+    "type": "source_text_comparison",
+    "status": "accepted_minor_wording",
+    "subjectException": null,
+    "siteText": "La première transplantation de bras a été réalisé à Lyon en 1998.",
+    "repeatedCorrectionText": "La première transplantation de bras a été réalisée à Lyon en 1998."
+  },
+  {
+    "bank": "colle2",
+    "id": 73,
+    "items": [
+      "B"
+    ],
+    "type": "scientific_reserve",
+    "noteId": "ssh-v6-verify-colle2-73-B",
+    "status": "annotated_after_correction",
+    "text": "Le verdict FAUX est conservé, mais son explication reprend un ancien cadre. Depuis le 26 décembre 2021, l’article L1412-2 prévoit un président et 45 autres membres, avec un mandat de trois ans renouvelable une fois pour chacun. Les indications « président : deux ans » et « 39 membres : quatre ans » ne décrivent donc pas le droit applicable au sujet 2026–2027. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "Sujet Colle 2 SSH PDF (1).pdf",
+        "page": 19,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=19"
+      },
+      {
+        "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+        "page": 34,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=34"
+      },
+      {
+        "label": "Code de la santé publique — L1412-2, version depuis le 26 décembre 2021",
+        "href": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043896447/2026-07-31",
+        "referenceType": "external_primary"
+      }
+    ]
+  },
+  {
+    "bank": "colle2",
+    "id": 74,
+    "items": [
+      "C"
+    ],
+    "type": "scientific_reserve",
+    "noteId": "ssh-v6-verify-colle2-74-C",
+    "status": "annotated_after_correction",
+    "text": "Le détail est trop général lorsqu’il présente toute recherche sur les iPS comme relevant d’une simple déclaration. La loi de 2021 soumet à déclaration auprès de l’ABM certains protocoles précisément définis : différenciation en gamètes, modèles de développement embryonnaire in vitro ou insertion dans un embryon animal destiné à être transféré chez la femelle. L’ABM peut s’y opposer, les suspendre ou les interdire. Le verdict FAUX de l’item est conservé. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "Sujet Colle 2 SSH PDF (1).pdf",
+        "page": 19,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=19"
+      },
+      {
+        "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+        "page": 34,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=34"
+      },
+      {
+        "label": "Loi du 2 août 2021, article 21 — régime des recherches sur les iPS",
+        "href": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000043884428",
+        "referenceType": "external_primary"
+      }
+    ]
+  },
+  {
+    "bank": "colle2",
+    "id": 39,
+    "items": [
+      "A"
+    ],
+    "type": "scientific_reserve",
+    "noteId": "ssh-v6-verify-colle2-39-A",
+    "status": "annotated_after_correction",
+    "text": "La date de 2003 donnée dans le détail correspond à l’achèvement du Projet génome humain, dont la séquence restait lacunaire. Le NHGRI distingue cette étape des travaux T2T de 2022 qui ont comblé les régions encore manquantes. Le terme « complet » doit donc être situé dans son contexte historique. L’item proposant 1995 reste FAUX. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "Sujet Colle 2 SSH PDF (1).pdf",
+        "page": 10,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/Sujet_Colle_2_SSH_PDF__1_.pdf#page=10"
+      },
+      {
+        "file": "Correction_Colle_2_SSH_pdf_f40e021e49.pdf",
+        "page": 19,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/Correction_Colle_2_SSH_pdf_f40e021e49.pdf#page=19"
+      },
+      {
+        "label": "NHGRI — Human Genome Project, achèvement de 2003 et travaux T2T",
+        "href": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project",
+        "referenceType": "external_primary"
+      }
+    ]
+  },
+  {
+    "bank": "colle1",
+    "id": 43,
+    "items": [
+      "E"
+    ],
+    "type": "scientific_reserve",
+    "noteId": "ssh-v6-verify-colle1-43-E",
+    "status": "annotated_after_correction",
+    "text": "Le verdict FAUX est conservé. En revanche, le mot « automatiquement » dans le détail appelle une réserve : l’article L1142-1 prévoit la responsabilité des établissements pour les dommages résultant d’infections nosocomiales, sauf s’ils rapportent la preuve d’une cause étrangère. Le régime sans faute ne doit pas être présenté comme dépourvu de toute exception. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "Colle1_1_QCM_entrainement.pdf",
+        "page": 10,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=10"
+      },
+      {
+        "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+        "page": 16,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=16"
+      },
+      {
+        "label": "Code de la santé publique — L1142-1, responsabilité pour infection nosocomiale",
+        "href": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006185260/2026-05-24/",
+        "referenceType": "external_primary"
+      }
+    ]
+  },
+  {
+    "bank": "colle1",
+    "id": 55,
+    "items": [
+      "C"
+    ],
+    "type": "source_ambiguity",
+    "noteId": "ssh-v6-verify-colle1-55-C",
+    "status": "annotated_after_correction",
+    "text": "Le correcteur déclare cet item FAUX à cause de la formulation « d’autres troubles », qu’il interprète comme qualifiant le HPI de trouble. Il précise lui-même que l’idée de troubles moins repérés serait admise avec une autre formulation. Il ne faut donc pas transformer ce verdict en affirmation selon laquelle une dyslexie serait toujours aussi facilement repérée chez un enfant HPI. Il s’agit ici d’un piège de rédaction propre au corrigé fourni. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "Colle1_1_QCM_entrainement.pdf",
+        "page": 13,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=13"
+      },
+      {
+        "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+        "page": 20,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=20"
+      }
+    ]
+  },
+  {
+    "bank": "colle1",
+    "id": 69,
+    "items": [
+      "D"
+    ],
+    "type": "source_ambiguity",
+    "noteId": "ssh-v6-verify-colle1-69-D",
+    "status": "annotated_after_correction",
+    "text": "Le sujet et le corrigé comparent tous deux une probabilité « a posteriori » à la même probabilité « a posteriori ». Cette répétition rend la formulation incohérente. Le détail semble viser la comparaison avec la probabilité a priori, qui peut augmenter ou diminuer après une information nouvelle, mais l’original institutionnel manque pour confirmer cette intention. Le texte et le verdict FAUX fournis sont conservés. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "Colle1_1_QCM_entrainement.pdf",
+        "page": 17,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/Colle1_1_QCM_entrainement.pdf#page=17"
+      },
+      {
+        "file": "Colle1_2_Corrections_f8abddbcba.pdf",
+        "page": 26,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/Colle1_2_Corrections_f8abddbcba.pdf#page=26"
+      }
+    ]
+  },
+  {
+    "bank": "eb",
+    "id": 37,
+    "items": [
+      "D"
+    ],
+    "type": "scientific_reserve",
+    "noteId": "ssh-v6-verify-eb-37-D",
+    "status": "annotated_after_correction",
+    "text": "L’item est compté VRAI dans la source, mais la mention « premiers hôpitaux » ne peut pas désigner l’apparition des hôpitaux en général après la peste de 1347 : l’Hôtel-Dieu de Paris existait dès le VIIe siècle. La portée attendue est peut-être celle d’institutions spécialement destinées aux épidémies ; le corrigé ne l’explique pas. Ne pas retenir cette formulation comme une chronologie générale de l’hôpital. Vérifier ce point dans la ronéo du cours correspondant.",
+    "refs": [
+      {
+        "file": "EB blanc SSH sujet .pdf",
+        "page": 9,
+        "label": "Sujet fourni",
+        "href": "sources/revision_v6/ssh/EB_blanc_SSH_sujet_.pdf#page=9"
+      },
+      {
+        "file": "EB_blnc_SSH_corrections_d80c585c99.pdf",
+        "page": 11,
+        "label": "Corrigé fourni",
+        "href": "sources/revision_v4/EB_blnc_SSH_corrections_d80c585c99.pdf#page=11"
+      },
+      {
+        "label": "Ville de Paris — histoire de l’Hôtel-Dieu et des hôpitaux parisiens",
+        "href": "https://www.paris.fr/pages/grandes-et-petites-histoires-sur-les-hopitaux-parisiens-7694",
+        "referenceType": "external_primary"
+      }
+    ]
+  },
+  {
+    "type": "reference_link_repair",
+    "status": "repaired",
+    "changes": [
+      {
+        "bank": "eb",
+        "id": 50,
+        "noteId": "ssh-v6-eb-50-C-1",
+        "oldHref": "https://pitiesalpetriere.aphp.fr/wp-content/blogs.dir/58/files/2016/12/Une-page-dhistoire.pdf",
+        "newHref": "https://pitiesalpetriere.aphp.fr/chapelle-saint-louis-histoire-de-la-chapelle-de-la-pitie-salpetriere",
+        "reason": "Ancien PDF 404 ; autre publication de la même institution consultée."
+      }
+    ]
+  },
+  {
+    "type": "source_no_explanatory_detail",
+    "status": "preserved_without_invention",
+    "originalAllItemsWithoutDetail": 752,
+    "applicableItemsWithoutDetail": 746,
+    "siteBlankExplanations": 756,
+    "explanation": "746 items dans les 272 QCM assortis du bon corrigé ; 10 items des deux QCM sans corrigé correspondant restent également sans détail dans le site."
+  },
+  {
+    "bank": "acc",
+    "id": 3,
+    "type": "minor_stem_wording",
+    "status": "accepted",
+    "detail": "le/la dans « Cochez le ou les item(s) » ; aucune incidence sur les propositions ou la clé."
+  }
+]

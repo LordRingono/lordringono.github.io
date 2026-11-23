@@ -1,0 +1,6043 @@
+[
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "field": "answer",
+    "old": "BCEFMN",
+    "new": "BCEFMNO"
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "field": "explanations",
+    "old": {
+      "A": "Faux, REDUCTIONNELLE (car on réduit par 2 le nombre de chromosomes)",
+      "B": "Vrai",
+      "C": "Vrai",
+      "D": "Faux, pas de réplication avant méiose 2, ce sont deux divisions SUCCESSIVES",
+      "E": "Vrai",
+      "F": "Vrai",
+      "G": "FAUX, c’est la prophase 1",
+      "H": "FAUX il y aura une phase de différenciation",
+      "I": "Faux, l’ADN est toujours condensé",
+      "J": "Faux l’ADN est toujours condensé",
+      "K": "Faux, l’ADN est condensé en Pachytène et diacinèse",
+      "L": "Faux",
+      "M": "Vrai",
+      "N": "Vrai"
+    },
+    "new": {
+      "A": "Faux, REDUCTIONNELLE (car on réduit par 2 le nombre de chromosomes)",
+      "B": "Vrai",
+      "C": "Vrai",
+      "D": "Faux, pas de réplication avant méiose 2, ce sont deux divisions SUCCESSIVES",
+      "E": "Vrai",
+      "F": "Vrai",
+      "G": "FAUX, c’est la prophase 1",
+      "H": "FAUX il y aura une phase de différenciation",
+      "I": "Faux, l’ADN est toujours condensé",
+      "J": "Faux l’ADN est toujours condensé",
+      "K": "Faux, l’ADN est condensé en Pachytène et diacinèse",
+      "L": "Faux",
+      "M": "Vrai",
+      "N": "Vrai",
+      "O": "Vrai. Le document comporte deux propositions K différentes ; cette seconde proposition est identifiée K bis."
+    }
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "La méiose 1 est une division équationnelle."
+      },
+      {
+        "id": "B",
+        "text": "La méiose 2 est une division équationnelle."
+      },
+      {
+        "id": "C",
+        "text": "La méiose 1 est précédée par une réplication."
+      },
+      {
+        "id": "D",
+        "text": "La méiose 2 est précédée par une réplication."
+      },
+      {
+        "id": "E",
+        "text": "La méiose 1 comprend 4 étapes."
+      },
+      {
+        "id": "F",
+        "text": "La méiose 2 comprend 4 étapes."
+      },
+      {
+        "id": "G",
+        "text": "La prophase II est longue et complexe."
+      },
+      {
+        "id": "H",
+        "text": "A l’issue de la méiose on obtient directement des gamètes."
+      },
+      {
+        "id": "I",
+        "text": "En méiose 2, il n’y a jamais condensation de l’ADN."
+      },
+      {
+        "id": "J",
+        "text": "En méiose 2, l’ADN est condensé ou décondensé selon l’étape."
+      },
+      {
+        "id": "K",
+        "text": "En méiose 1, il n’y a jamais condensation de l’ADN."
+      },
+      {
+        "id": "L",
+        "text": "En méiose 2 il y a brassage intrachromosomique."
+      },
+      {
+        "id": "M",
+        "text": "En méiose 1 il y a brassage interchromosomique."
+      },
+      {
+        "id": "N",
+        "text": "En méiose 2 il y a brassage interchromosomique."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "La méiose 1 est une division équationnelle."
+      },
+      {
+        "id": "B",
+        "text": "La méiose 2 est une division équationnelle."
+      },
+      {
+        "id": "C",
+        "text": "La méiose 1 est précédée par une réplication."
+      },
+      {
+        "id": "D",
+        "text": "La méiose 2 est précédée par une réplication."
+      },
+      {
+        "id": "E",
+        "text": "La méiose 1 comprend 4 étapes."
+      },
+      {
+        "id": "F",
+        "text": "La méiose 2 comprend 4 étapes."
+      },
+      {
+        "id": "G",
+        "text": "La prophase II est longue et complexe."
+      },
+      {
+        "id": "H",
+        "text": "A l’issue de la méiose on obtient directement des gamètes."
+      },
+      {
+        "id": "I",
+        "text": "En méiose 2, il n’y a jamais condensation de l’ADN."
+      },
+      {
+        "id": "J",
+        "text": "En méiose 2, l’ADN est condensé ou décondensé selon l’étape."
+      },
+      {
+        "id": "K",
+        "text": "En méiose 1, il n’y a jamais condensation de l’ADN."
+      },
+      {
+        "id": "O",
+        "sourceLabel": "K bis (source)",
+        "text": "En méiose 1 il y a brassage intrachromosomique."
+      },
+      {
+        "id": "L",
+        "text": "En méiose 2 il y a brassage intrachromosomique."
+      },
+      {
+        "id": "M",
+        "text": "En méiose 1 il y a brassage interchromosomique."
+      },
+      {
+        "id": "N",
+        "text": "En méiose 2 il y a brassage interchromosomique."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.meiose",
+    "id": 5,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.aut.meiose",
+        "id": 5,
+        "items": [
+          "K",
+          "O"
+        ],
+        "kind": "source_conflict",
+        "text": "Le corrigé emploie deux fois la lettre K pour des phrases différentes : la condensation en méiose I (Faux) et le brassage intrachromosomique en méiose I (Vrai). La seconde est restituée sous O, avec le libellé K bis. La répétition identique de J dans la source n’est affichée qu’une fois.",
+        "refs": [
+          {
+            "file": "4. Autotest Méiose LS - CORRECTION.pdf",
+            "page": 2,
+            "label": "Corrigé original — p. 2",
+            "href": "sources/revision_v4/4_Autotest_Meiose_LS_CORRECTION_ab4f31738f.pdf#page=2"
+          }
+        ],
+        "noteId": "embryo-v6-embryo.aut.meiose-5-1"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 23,
+    "field": "explanations",
+    "old": {
+      "B": "Faux",
+      "C": "Faux",
+      "D": "Faux",
+      "E": "Faux",
+      "F": "Faux",
+      "G": "Faux",
+      "H": "Faux",
+      "I": "Vrai",
+      "J": "Faux, démaquée dans les voies génitales féminines = CAPACITATION",
+      "K": "Faux",
+      "L": "Vrai",
+      "M": "Vrai"
+    },
+    "new": {
+      "B": "Faux",
+      "C": "Faux",
+      "D": "Faux",
+      "E": "Faux",
+      "F": "Faux",
+      "G": "Faux",
+      "H": "Faux",
+      "I": "Vrai",
+      "J": "Faux, démaquée dans les voies génitales féminines = CAPACITATION",
+      "K": "Faux",
+      "L": "Vrai",
+      "M": "Vrai",
+      "N": "Faux : Béta (texte du corrigé)."
+    }
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 23,
+    "field": "options",
+    "old": [
+      {
+        "id": "B",
+        "text": "est localisée sur la mb plasmique de l’ovocyte."
+      },
+      {
+        "id": "C",
+        "text": "est localisée sur la mb externe de l’acrosome"
+      },
+      {
+        "id": "D",
+        "text": "est localisée sur al mb interne de l’acrosome"
+      },
+      {
+        "id": "E",
+        "text": "est une molécule épididymaire responsable de la décapacitation du spermatozoïde"
+      },
+      {
+        "id": "F",
+        "text": "est le récepteur de la fixation primaire réversible."
+      },
+      {
+        "id": "G",
+        "text": "est le récepteur de la fixation secondaire irréversible."
+      },
+      {
+        "id": "H",
+        "text": "est mise en place au cours de la spermatogénèse, dans les voies gonadiques."
+      },
+      {
+        "id": "I",
+        "text": "est masqué dans la queue de l’épididyme."
+      },
+      {
+        "id": "J",
+        "text": "est démasqué dans la queue de l’épididyme."
+      },
+      {
+        "id": "K",
+        "text": "Est le récepteur de la fixation secondaire irréversible."
+      },
+      {
+        "id": "L",
+        "text": "interagit avec une intégrine de la membrane ovocytaire"
+      },
+      {
+        "id": "M",
+        "text": "Est localisée sur la cape post-acrosomique"
+      }
+    ],
+    "new": [
+      {
+        "id": "B",
+        "text": "est localisée sur la mb plasmique de l’ovocyte."
+      },
+      {
+        "id": "C",
+        "text": "est localisée sur la mb externe de l’acrosome"
+      },
+      {
+        "id": "D",
+        "text": "est localisée sur al mb interne de l’acrosome"
+      },
+      {
+        "id": "E",
+        "text": "est une molécule épididymaire responsable de la décapacitation du spermatozoïde"
+      },
+      {
+        "id": "F",
+        "text": "est le récepteur de la fixation primaire réversible."
+      },
+      {
+        "id": "G",
+        "text": "est le récepteur de la fixation secondaire irréversible."
+      },
+      {
+        "id": "H",
+        "text": "est mise en place au cours de la spermatogénèse, dans les voies gonadiques."
+      },
+      {
+        "id": "I",
+        "text": "est masqué dans la queue de l’épididyme."
+      },
+      {
+        "id": "J",
+        "text": "est démasqué dans la queue de l’épididyme."
+      },
+      {
+        "id": "K",
+        "text": "Est le récepteur de la fixation secondaire irréversible."
+      },
+      {
+        "id": "L",
+        "text": "interagit avec une intégrine de la membrane ovocytaire"
+      },
+      {
+        "id": "M",
+        "text": "Est localisée sur la cape post-acrosomique"
+      },
+      {
+        "id": "N",
+        "sourceLabel": "M bis (source)",
+        "text": "correspond à la sous-unité alpha du dimère."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.fec",
+    "id": 23,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.aut.fec",
+        "id": 23,
+        "items": [
+          "M",
+          "N"
+        ],
+        "kind": "source_conflict",
+        "text": "Le corrigé porte deux propositions M. La première, sur la cape post-acrosomique, est indiquée Vrai ; la seconde, sur la sous-unité alpha, est indiquée Faux avec la rectification « Béta ». Cette seconde proposition est restituée sous N avec son libellé source M bis.",
+        "refs": [
+          {
+            "file": "4. Autotest fécondation LS - CORRECTION.pdf",
+            "page": 7,
+            "label": "Corrigé original — p. 7",
+            "href": "sources/revision_v4/4_Autotest_fecondation_LS_CORRECTION_56aee89816.pdf#page=7"
+          }
+        ],
+        "noteId": "embryo-v6-embryo.aut.fec-23-1"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "field": "explanations",
+    "old": {
+      "A": "Vrai en avant de la LP, gouttière dès J19/20",
+      "B": "Faux, TUBE digestif uniquement en S4",
+      "C": "Vrai, on parle de Chorde dorsale car elle va se coller à l’ectoblaste, elle est en position dorsale même si sur les schémas elle est plutôt « centrale »",
+      "D": "Vrai, très réduite relativement (= 0,15 mm), avec une coupe transversale dans la partie caudale, entre la membrane cloacale et le nœud de Hensen.",
+      "E": "Faux, l’allantoïde et les cellules germinales primordiales sont à l’extérieur du disque ; la coupe considérée est dans le disque."
+    },
+    "new": {
+      "A": "Vrai en avant de la LP, gouttière dès J19/20",
+      "B": "Faux, TUBE digestif uniquement en S4",
+      "C": "Vrai, on parle de Chorde dorsale car elle va se coller à l’ectoblaste, elle est en position dorsale même si sur les schémas elle est plutôt « centrale »",
+      "D": "Vrai, très réduite (relativement = 0,15 mm), avec une coupe transversale dans la partie caudale, entre la membrane cloacale et le nœud de Hensen (pas comme sur votre schéma qui est une coupe en avant de la ligne primitive).",
+      "E": "Faux, l’allantoïde et les cellules germinales primordiales sont à l’extérieur du disque ; la coupe considérée est dans le disque."
+    }
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "field": "images",
+    "old": [
+      "static/emb_aut_s4_023_1.png"
+    ],
+    "new": []
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "field": "imagesAfterCorrection",
+    "old": null,
+    "new": true
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 23,
+    "field": "sharedContexts",
+    "old": null,
+    "new": [
+      {
+        "id": "v6-shared-embryo.aut.s4-23",
+        "text": "Q23 et 24 : Cette coupe",
+        "images": [
+          "static/emb_aut_s4_023_1.png"
+        ],
+        "sourceFile": "4. Autotest S4 DE LS ENONCE.pdf",
+        "sourceStartPage": 7,
+        "sourceEndPage": 7,
+        "imagesAfterCorrection": true
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "field": "images",
+    "old": [
+      "static/emb_aut_s4_023_1.png"
+    ],
+    "new": []
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "field": "imagesAfterCorrection",
+    "old": null,
+    "new": true
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 24,
+    "field": "sharedContexts",
+    "old": null,
+    "new": [
+      {
+        "id": "v6-shared-embryo.aut.s4-23",
+        "text": "Q23 et 24 : Cette coupe",
+        "images": [
+          "static/emb_aut_s4_023_1.png"
+        ],
+        "sourceFile": "4. Autotest S4 DE LS ENONCE.pdf",
+        "sourceStartPage": 7,
+        "sourceEndPage": 7,
+        "imagesAfterCorrection": true
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 2,
+    "field": "reviewNotes",
+    "old": [
+      {
+        "bank": "embryo.aut.coeur",
+        "id": 2,
+        "items": [
+          "K"
+        ],
+        "kind": "source_conflict",
+        "text": "Après réappariement, K reprend bien le verdict Faux et l’explication de la ligne l du corrigé : toutes les hématies seraient extra-embryonnaires jusqu’à S6. Cette explication contredit le même autotest Q9G/N, qui affirme une hématopoïèse hépatique dès J23 et une coexistence intra/extra-embryonnaire dès cette date. La ronéo S3 ne date pas précisément ce relais. Le verdict source rétabli reste Faux ; la chronologie de sa justification nécessite la ronéo cœur/vaisseaux absente.",
+        "refs": [
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 2,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=2"
+          },
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 4,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=4"
+          },
+          {
+            "file": "Embryo/Roneo S3.PDF",
+            "page": 48,
+            "label": "Embryo/Roneo S3.PDF — p. 48",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=48"
+          }
+        ],
+        "sourceVerdict": "Clé de référence : ACDJMNO ; K : Faux",
+        "sourceVerdictDetails": {
+          "answer": "ACDJMNO",
+          "items": {
+            "K": "Faux"
+          },
+          "explanations": {
+            "K": "Faux, elles sont toutes d’origine extra-embryonnaire jusqu’à la 6ème semaine. IWP de la lame vitelline"
+          }
+        },
+        "noteId": "embryo-ue5-assist-038",
+        "reviewedItemText": {
+          "K": "Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine."
+        }
+      },
+      {
+        "bank": "embryo.aut.coeur",
+        "id": 2,
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "À vérifier dans la ronéo cœur/vaisseaux : la distinction entre HbF et HbA ne doit pas être utilisée pour généraliser une nucléation à toutes les hématies embryonnaires ou fœtales. L’autotest Q9 distingue lui-même hématies primitives nucléées et définitives anucléées. Le verdict Faux de l’identité des hémoglobines n’est pas contesté ; la justification regroupe plusieurs propriétés et périodes sans les séparer.",
+        "refs": [
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 2,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=2"
+          },
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 4,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=4"
+          },
+          {
+            "file": "Embryo/Roneo S3.PDF",
+            "page": 48,
+            "label": "Embryo/Roneo S3.PDF — p. 48",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=48"
+          }
+        ],
+        "sourceVerdict": "Clé de référence : ACDJMNO ; E : Faux",
+        "sourceVerdictDetails": {
+          "answer": "ACDJMNO",
+          "items": {
+            "E": "Faux"
+          },
+          "explanations": {
+            "E": "Faux, hématie embryonnaire nucléé avec hémoglobine (2α + 2γ) alors qu’hématies maternelles anucléés avec hémoglobine (2α + 2β)"
+          }
+        },
+        "noteId": "embryo-ue5-assist-039",
+        "reviewedItemText": {
+          "E": "L’hémoglobine fœtale est identique à l’hémoglobine maternelle."
+        }
+      }
+    ],
+    "new": [
+      {
+        "bank": "embryo.aut.coeur",
+        "id": 2,
+        "items": [
+          "K"
+        ],
+        "kind": "source_conflict",
+        "text": "Après réappariement, K reprend bien le verdict Faux et l’explication de la ligne l du corrigé : toutes les hématies seraient extra-embryonnaires jusqu’à S6. Cette explication contredit le même autotest Q9G/N, qui affirme une hématopoïèse hépatique dès J23 et une coexistence intra/extra-embryonnaire dès cette date. La ronéo S3 ne date pas précisément ce relais. Le verdict source rétabli reste Faux ; la chronologie de sa justification nécessite la ronéo cœur/vaisseaux absente.",
+        "refs": [
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 2,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=2"
+          },
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 4,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=4"
+          },
+          {
+            "file": "Embryo/Roneo S3.PDF",
+            "page": 48,
+            "label": "Embryo/Roneo S3.PDF — p. 48",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=48"
+          }
+        ],
+        "sourceVerdict": "Clé de référence : ACDJMNO ; K : Faux",
+        "sourceVerdictDetails": {
+          "answer": "ACDJMNO",
+          "items": {
+            "K": "Faux"
+          },
+          "explanations": {
+            "K": "Faux, elles sont toutes d’origine extra-embryonnaire jusqu’à la 6ème semaine. IWP de la lame vitelline"
+          }
+        },
+        "noteId": "embryo-ue5-assist-038",
+        "reviewedItemText": {
+          "K": "Toutes les hématies de l’embryon sont d’origine intra-embryonnaire jusqu’à la 6ème semaine."
+        }
+      },
+      {
+        "bank": "embryo.aut.coeur",
+        "id": 2,
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "À vérifier dans la ronéo cœur/vaisseaux : la distinction entre HbF et HbA ne doit pas être utilisée pour généraliser une nucléation à toutes les hématies embryonnaires ou fœtales. L’autotest Q9 distingue lui-même hématies primitives nucléées et définitives anucléées. Le verdict Faux de l’identité des hémoglobines n’est pas contesté ; la justification regroupe plusieurs propriétés et périodes sans les séparer.",
+        "refs": [
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 2,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q2, p. 2",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=2"
+          },
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 4,
+            "label": "4. Autotest Coeur et Vx LS CORRECTION.pdf — Q9, p. 4",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=4"
+          },
+          {
+            "file": "Embryo/Roneo S3.PDF",
+            "page": 48,
+            "label": "Embryo/Roneo S3.PDF — p. 48",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=48"
+          }
+        ],
+        "sourceVerdict": "Clé de référence : ACDJMNO ; E : Faux",
+        "sourceVerdictDetails": {
+          "answer": "ACDJMNO",
+          "items": {
+            "E": "Faux"
+          },
+          "explanations": {
+            "E": "Faux, hématie embryonnaire nucléé avec hémoglobine (2α + 2γ) alors qu’hématies maternelles anucléés avec hémoglobine (2α + 2β)"
+          }
+        },
+        "noteId": "embryo-ue5-assist-039",
+        "reviewedItemText": {
+          "E": "L’hémoglobine fœtale est identique à l’hémoglobine maternelle."
+        }
+      },
+      {
+        "bank": "embryo.aut.coeur",
+        "id": 2,
+        "items": [
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ],
+        "kind": "source_conflict",
+        "text": "Correspondance des documents : le sujet réunit deux phrases dans l’item f, alors que le corrigé les sépare en f et g. L’item F du site suit le sujet et correspond donc aux deux f/g du corrigé ; les items G à P correspondent ensuite aux h à q du corrigé. La clé conserve l’appariement des phrases, pas un simple décalque des lettres.",
+        "refs": [
+          {
+            "file": "4. Autotest Coeur et Vx LS CORRECTION.pdf",
+            "page": 2,
+            "label": "Corrigé original — p. 2",
+            "href": "sources/revision_v4/4_Autotest_Coeur_et_Vx_LS_CORRECTION_d4087b6880.pdf#page=2"
+          }
+        ],
+        "noteId": "embryo-v6-embryo.aut.coeur-2-3"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 4,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "A J18, se forment la zone cardiogène et les premiers IWP extra-embryonnaires."
+      },
+      {
+        "id": "B",
+        "text": "Les tous premiers vaisseaux formés sont sanguino-formateurs."
+      },
+      {
+        "id": "C",
+        "text": "La toute première formation de vaisseaux intra-embryonnaire se fait avec les aortes ventrales."
+      },
+      {
+        "id": "D",
+        "text": "Les premiers battements cardiaques apparaissent alors que les IWP de la lame choriale se forment."
+      },
+      {
+        "id": "E",
+        "text": "Les premiers vaisseaux efférents du cœur se forment dans le mésenchyme dorsal de chaque côté de la notochorde."
+      },
+      {
+        "id": "F",
+        "text": "Dans la partie crâniale de l’embryon, on trouve les racines aortiques primitives."
+      },
+      {
+        "id": "G",
+        "text": "Au sein de la zone cardiogène se mettent en place les premiers ilots angioformateurs, 1 jour après les premiers îlots extra-embryonnaires (Ilots de Wolff et Pander). Ce schéma concerne les questions 5 et 6 :"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "A J18, se forment la zone cardiogène et les premiers IWP extra-embryonnaires."
+      },
+      {
+        "id": "B",
+        "text": "Les tous premiers vaisseaux formés sont sanguino-formateurs."
+      },
+      {
+        "id": "C",
+        "text": "La toute première formation de vaisseaux intra-embryonnaire se fait avec les aortes ventrales."
+      },
+      {
+        "id": "D",
+        "text": "Les premiers battements cardiaques apparaissent alors que les IWP de la lame choriale se forment."
+      },
+      {
+        "id": "E",
+        "text": "Les premiers vaisseaux efférents du cœur se forment dans le mésenchyme dorsal de chaque côté de la notochorde."
+      },
+      {
+        "id": "F",
+        "text": "Dans la partie crâniale de l’embryon, on trouve les racines aortiques primitives."
+      },
+      {
+        "id": "G",
+        "text": "Au sein de la zone cardiogène se mettent en place les premiers ilots angioformateurs, 1 jour après les premiers îlots extra-embryonnaires (Ilots de Wolff et Pander)."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "field": "imagesAfterCorrection",
+    "old": null,
+    "new": true
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 5,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "v4-shared-embryo.aut.coeur-5",
+        "text": "Ce schéma concerne les questions 5 et 6 :",
+        "images": [
+          "static/emb_aut_coeur_005_1.png"
+        ],
+        "sourceFile": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "sourceStartPage": 2,
+        "sourceEndPage": 2
+      }
+    ],
+    "new": [
+      {
+        "id": "v4-shared-embryo.aut.coeur-5",
+        "text": "Ce schéma concerne les questions 5 et 6 :",
+        "images": [
+          "static/emb_aut_coeur_005_1.png"
+        ],
+        "sourceFile": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "sourceStartPage": 2,
+        "sourceEndPage": 2,
+        "imagesAfterCorrection": true
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "field": "imagesAfterCorrection",
+    "old": null,
+    "new": true
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 6,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "v4-shared-embryo.aut.coeur-5",
+        "text": "Ce schéma concerne les questions 5 et 6 :",
+        "images": [
+          "static/emb_aut_coeur_005_1.png"
+        ],
+        "sourceFile": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "sourceStartPage": 2,
+        "sourceEndPage": 2
+      }
+    ],
+    "new": [
+      {
+        "id": "v4-shared-embryo.aut.coeur-5",
+        "text": "Ce schéma concerne les questions 5 et 6 :",
+        "images": [
+          "static/emb_aut_coeur_005_1.png"
+        ],
+        "sourceFile": "4. Autotest Coeur et Vx LS ENONCE.pdf",
+        "sourceStartPage": 2,
+        "sourceEndPage": 2,
+        "imagesAfterCorrection": true
+      }
+    ]
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 9,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Elles se forment uniquement à partir des IWP."
+      },
+      {
+        "id": "B",
+        "text": "En premier, elles se forment uniquement à partir des IWP"
+      },
+      {
+        "id": "C",
+        "text": "Le 1er organe hématopoïétique est intraembryonnaire."
+      },
+      {
+        "id": "D",
+        "text": "l’hématopoïèse forme des hématies primitives anucléés."
+      },
+      {
+        "id": "E",
+        "text": "l’hématopoïèse forme des hématies définitives nucléées."
+      },
+      {
+        "id": "F",
+        "text": "L’hématopoïèse débute dès J18."
+      },
+      {
+        "id": "G",
+        "text": "L’hématopoïèse intraembryonnaire débute dès la S4."
+      },
+      {
+        "id": "H",
+        "text": "L’hématopoïèse est d’abord intraembryonnaire puis extra embryonnaire."
+      },
+      {
+        "id": "I",
+        "text": "Les hématies embryonnaires sont toujours constituées d’hémoglobine de type alpha et gamma, qu’elles soient nucléés ou anucléés."
+      },
+      {
+        "id": "J",
+        "text": "L’hématopoïèse extra-embryonnaire prend fin à J23 avec l’hématopoïèse hépatique."
+      },
+      {
+        "id": "K",
+        "text": "L’hématopoïèse intraembryonnaire a d’abord lieu dans le foie puis dans la rate, le thymus et la moelle rouge des os."
+      },
+      {
+        "id": "L",
+        "text": "L’hématopoïèse intraembryonnaire a lieu dans la moelle rouge des os un peu avant la naissance."
+      },
+      {
+        "id": "M",
+        "text": "Tous les os sont des sources d’hématies."
+      },
+      {
+        "id": "N",
+        "text": "L’hématopoïèse est intra-embryonnaire et extr-embryonnaire pendant quelques semaines."
+      },
+      {
+        "id": "O",
+        "text": "On trouve des foyers hématopoïétiques dans la partie dorsale de l’aorte embryonnaire."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Elles se forment uniquement à partir des IWP."
+      },
+      {
+        "id": "B",
+        "text": "En premier, elles se forment uniquement à partir des IWP"
+      },
+      {
+        "id": "C",
+        "text": "Le 1er organe hématopoïétique est intraembryonnaire."
+      },
+      {
+        "id": "D",
+        "text": "l’hématopoïèse forme des hématies primitives anucléés."
+      },
+      {
+        "id": "E",
+        "text": "l’hématopoïèse forme des hématies définitives nucléées."
+      },
+      {
+        "id": "F",
+        "text": "L’hématopoïèse débute dès J18."
+      },
+      {
+        "id": "G",
+        "text": "L’hématopoïèse intraembryonnaire débute dès la S4."
+      },
+      {
+        "id": "H",
+        "text": "L’hématopoïèse est d’abord intraembryonnaire puis extra embryonnaire."
+      },
+      {
+        "id": "I",
+        "text": "Les hématies embryonnaires sont toujours constituées d’hémoglobine de type alpha et gamma, qu’elles soient nucléés ou anucléés."
+      },
+      {
+        "id": "J",
+        "text": "L’hématopoïèse extra-embryonnaire prend fin à J23 avec l’hématopoïèse hépatique."
+      },
+      {
+        "id": "K",
+        "text": "L’hématopoïèse intraembryonnaire a d’abord lieu dans le foie puis dans la rate, le thymus et la moelle rouge des os."
+      },
+      {
+        "id": "L",
+        "text": "L’hématopoïèse intraembryonnaire a lieu dans la moelle rouge des os un peu avant la naissance."
+      },
+      {
+        "id": "M",
+        "text": "Tous les os sont des sources d’hématies."
+      },
+      {
+        "id": "N",
+        "text": "L’hématopoïèse est intra-embryonnaire et extra-embryonnaire pendant quelques semaines."
+      },
+      {
+        "id": "O",
+        "text": "On trouve des foyers hématopoïétiques dans la partie dorsale de l’aorte embryonnaire."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 1,
+    "field": "explanations",
+    "old": {
+      "B": "Faux au cours de la phase S",
+      "E": "Faux pas de prophase I chez l’ovocyte II"
+    },
+    "new": {
+      "B": "Faux au cours de la phase S",
+      "E": "Faux pas de prophase I chez l’ovocyte II",
+      "C": "Dans le corrigé, « II » est barré. Annotation ajoutée : « I »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 2,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « non ».",
+      "D": "Dans le corrigé, « 2ème » est barré. Annotation ajoutée : « 1ere »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 3,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « tous 2N2C ».",
+      "B": "Annotation du corrigé : « 2N4C pour les 2 ».",
+      "C": "Annotation du corrigé : « NC N2C ».",
+      "D": "Annotation du corrigé : « 1N2C 1N1C 1N2C ».",
+      "E": "Annotation du corrigé : « 1N1C pour les 2 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 4,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « Toutes » est barré. Annotation ajoutée : « pas la SAd qui est pour le renouvellement du stocke ».",
+      "B": "Dans le corrigé, « II » est barré. Annotation ajoutée : « I ».",
+      "E": "Dans le corrigé, « canal épididymaire » est barré. Annotation ajoutée : « tube séminifère »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 5,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « 2 » est barré. Annotation ajoutée : « 3 ».",
+      "C": "Dans le corrigé, « l’ovogenèse » est barré. Annotation ajoutée : « du cycle ovarien ».",
+      "D": "Dans le corrigé, « avant » est barré. Annotation ajoutée : « après »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 6,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « haploïdes » est barré. Annotation ajoutée : « diploïdes ».",
+      "C": "Dans le corrigé, « identiques » est barré. Annotation ajoutée : « génétiquement différentes »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 7,
+    "field": "explanations",
+    "old": {
+      "A": "Faux elle indique que les gonosomes ne sont pas attachés à l’enveloppe nucléaire",
+      "E": "Vrai"
+    },
+    "new": {
+      "A": "Faux elle indique que les gonosomes ne sont pas attachés à l’enveloppe nucléaire",
+      "E": "Vrai",
+      "B": "Dans le corrigé, « 2 » est barré. Annotation ajoutée : « prophase 1 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 9,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « toujours » est barré. Annotation ajoutée : « Cela peut se produire suite à la non-disjonction des chromatides en MII ».",
+      "B": "Dans le corrigé, « dans les tubes droits » est barré. Annotation ajoutée : « Que dans les tubes séminifères »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 10,
+    "field": "explanations",
+    "old": {
+      "A": "HP)",
+      "B": "HP (hors programme)"
+    },
+    "new": {
+      "A": "Hors programme dans la source. Le corrigé barre « avec la différenciation de la crête génitale à la 8ème semaine » et ajoute « à 21 J ».",
+      "B": "HP (hors programme)",
+      "C": "Dans le corrigé, « en même temps » est barré. Annotation ajoutée : « La méiose se termine uniquement après la fusion membranaire : la totalité du spermatozoïde pénètre dans le cytoplasme de l’ovocyte. Donc GP2 après l’entrée du spz. »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 10,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "L’ovogénèse est un phénomène discontinu qui débute 8ème semaine du développement embryonnaire."
+      },
+      {
+        "id": "B",
+        "text": "Le noyau des ovocytes 1 est un noyau dyctié."
+      },
+      {
+        "id": "C",
+        "text": "On peut observer en même temps dans l’espace périvitellin un spermatozoïde et deux globules polaires en cas de fécondation normale."
+      },
+      {
+        "id": "D",
+        "text": "La maturation ovocytaire est caractérisée par une augmentation du diamètre de l’ovocyte."
+      },
+      {
+        "id": "E",
+        "text": "L’ovocyte 1 reprend sa méiose après le pic de LH."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "L’ovogénèse est un phénomène discontinu qui débute avec la différenciation de la crête génitale à la 8ème semaine du développement embryonnaire."
+      },
+      {
+        "id": "B",
+        "text": "Le noyau des ovocytes 1 est un noyau dyctié."
+      },
+      {
+        "id": "C",
+        "text": "On peut observer en même temps dans l’espace périvitellin un spermatozoïde et deux globules polaires en cas de fécondation normale."
+      },
+      {
+        "id": "D",
+        "text": "La maturation ovocytaire est caractérisée par une augmentation du diamètre de l’ovocyte."
+      },
+      {
+        "id": "E",
+        "text": "L’ovocyte 1 reprend sa méiose après le pic de LH."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "explanations",
+    "old": {
+      "E": "Faux ils se dupliquent en phase S et migrent au leptotène"
+    },
+    "new": {
+      "E": "Faux ils se dupliquent en phase S et migrent au leptotène",
+      "B": "Dans le corrigé, « l’anaphase I » est barré. Annotation ajoutée : « au Zygotène ou pachytène »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « condensée » est barré. Annotation ajoutée : « décondensée ».",
+      "B": "Dans le corrigé, « centromère » est barré. Annotation ajoutée : « chiasma ».",
+      "C": "Dans le corrigé, « Zygotène » est barré. Annotation ajoutée : « Pachytène »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "explanations",
+    "old": {
+      "E": "Faux"
+    },
+    "new": {
+      "E": "Faux",
+      "B": "Dans le corrigé, « Les spermatogonies et les spermatocytes II dans le syndrome de Klinefelter » est barré. Annotation ajoutée : « . Une spermatogonie est 2N et un spermatocyte II est N ».",
+      "D": "Dans le corrigé, « Les cellules somatiques en cas de syndrome de Klinefelter ou de syndrome de Turner. » est barré. Annotation ajoutée : « Les cellules somatiques d’un Klinefelter seront toutes 47, XXY et les cellule somatiques d’un Turner seront Toutes 45, X0 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "L’ovocyte I et le spermatocyte I en anaphase I"
+      },
+      {
+        "id": "B",
+        "text": "Les spermatogonies et les spermatocytes II dans le syndrome de Klinefelter. Une spermatogonie est 2N et un spermatocyte II est N"
+      },
+      {
+        "id": "C",
+        "text": "Les spermatocytes II et les ovocytes II en métaphase II."
+      },
+      {
+        "id": "D",
+        "text": "Les cellules somatiques en cas de syndrome de Klinefelter ou de syndrome de Turner. Les cellules somatiques d’un Klinefelter seront toutes 47, XXY et les cellule somatiques d’un Turner seront Toutes 45, X0"
+      },
+      {
+        "id": "E",
+        "text": "L’ovocyte II en métaphase II et le spermatozoïde."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "L’ovocyte I en métaphase I et le spermatocyte I en anaphase I."
+      },
+      {
+        "id": "B",
+        "text": "Les spermatogonies et les spermatocytes II dans le syndrome de Klinefelter."
+      },
+      {
+        "id": "C",
+        "text": "Les spermatocytes II et les ovocytes II en métaphase II."
+      },
+      {
+        "id": "D",
+        "text": "Les cellules somatiques en cas de syndrome de Klinefelter ou de syndrome de Turner."
+      },
+      {
+        "id": "E",
+        "text": "L’ovocyte II en métaphase II et le spermatozoïde."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "reviewNotes",
+    "old": [
+      {
+        "bank": "embryo.ann.gamet",
+        "id": 13,
+        "items": [
+          "E"
+        ],
+        "kind": "roneo_conflict",
+        "text": "La clé source ACE inclut E, alors que sa justification imprimée dit « Faux ». La fiche confirme la différence : ovocyte II en métaphase II = N,2C ; spermatozoïde = N,C. Le corrigé porte donc une contradiction interne, étayée par le cours.",
+        "refs": [
+          {
+            "file": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+            "page": 3,
+            "label": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf — Q3, p. 3",
+            "href": "sources/revision_v4/2_Annales_meiose_et_gametogenese_LS_CORRECTION_3f2ba9f3b8.pdf#page=3"
+          },
+          {
+            "file": "3. FS gamétogenèse LS.pdf",
+            "page": 8,
+            "label": "3. FS gamétogenèse LS.pdf",
+            "href": "sources/revision_v4/3_FS_gametogenese_LS_423b1d6f34.pdf#page=8"
+          },
+          {
+            "file": "3. FS gamétogenèse LS.pdf",
+            "page": 12,
+            "label": "3. FS gamétogenèse LS.pdf",
+            "href": "sources/revision_v4/3_FS_gametogenese_LS_423b1d6f34.pdf#page=12"
+          }
+        ],
+        "sourceVerdict": "Clé : Vrai ; justification : Faux",
+        "courseVerdict": "Quantités d’ADN différentes.",
+        "noteId": "embryo-v4-014"
+      }
+    ],
+    "new": [
+      {
+        "bank": "embryo.ann.gamet",
+        "id": 13,
+        "items": [
+          "E"
+        ],
+        "kind": "roneo_conflict",
+        "text": "La clé source ACE inclut E, alors que sa justification imprimée dit « Faux ». La fiche confirme la différence : ovocyte II en métaphase II = N,2C ; spermatozoïde = N,C. Le corrigé porte donc une contradiction interne, étayée par le cours.",
+        "refs": [
+          {
+            "file": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+            "page": 3,
+            "label": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf — Q3, p. 3",
+            "href": "sources/revision_v4/2_Annales_meiose_et_gametogenese_LS_CORRECTION_3f2ba9f3b8.pdf#page=3"
+          },
+          {
+            "file": "3. FS gamétogenèse LS.pdf",
+            "page": 8,
+            "label": "3. FS gamétogenèse LS.pdf",
+            "href": "sources/revision_v4/3_FS_gametogenese_LS_423b1d6f34.pdf#page=8"
+          },
+          {
+            "file": "3. FS gamétogenèse LS.pdf",
+            "page": 12,
+            "label": "3. FS gamétogenèse LS.pdf",
+            "href": "sources/revision_v4/3_FS_gametogenese_LS_423b1d6f34.pdf#page=12"
+          }
+        ],
+        "sourceVerdict": "Clé : Vrai ; justification : Faux",
+        "courseVerdict": "Quantités d’ADN différentes.",
+        "noteId": "embryo-v4-014"
+      },
+      {
+        "bank": "embryo.ann.gamet",
+        "id": 13,
+        "items": [
+          "A",
+          "B",
+          "D"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-ann-gamet13-original-subject",
+        "text": "L’énoncé original 2018–2019 retrouvé dans la compilation précise « ovocyte I en métaphase I » en A. Les phrases explicatives sur la spermatogonie et les cellules somatiques, ajoutées en couleur dans le corrigé thématique, appartiennent aux explications de B et D et sont retirées des propositions. La clé du corrigé thématique reste inchangée ; sa contradiction sur E est signalée séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1604,
+            "label": "Sujet UE5 2018–2019 — Q3, compilation p. 1604",
+            "href": "sources/Annales_compilation.pdf#page=1604"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "explanations",
+    "old": {
+      "C": "Faux, les ponts disulfures seront mis en place pendant la fécondation"
+    },
+    "new": {
+      "C": "Faux, les ponts disulfures seront mis en place pendant la fécondation",
+      "E": "Dans le corrigé, « doublets » est barré. Annotation ajoutée : « triplets »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "La multiplication des ovogonies et la méiose des ovocytes I se chevauchent entre les 3ème et 5ème mois de la vie in utero."
+      },
+      {
+        "id": "B",
+        "text": "Le blocage en prophase I stade diplotène des ovocytes est contrôlé, entre autres, par les cellules folliculeuses qui établissent des jonctions avec l’ovocyte."
+      },
+      {
+        "id": "C",
+        "text": "La synthèse d’ARNm a lieu au cours de la phase diplotène de la prophase I."
+      },
+      {
+        "id": "D",
+        "text": "Le 1er globule polaire reste bloqué en prophase I."
+      },
+      {
+        "id": "E",
+        "text": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "La multiplication des ovogonies et la méiose des ovocytes I se chevauchent entre les 3ème et 5ème mois de la vie in utero."
+      },
+      {
+        "id": "B",
+        "text": "Le blocage en prophase I stade diplotène des ovocytes est contrôlé, entre autres, par les cellules folliculeuses qui établissent des jonctions avec l’ovocyte."
+      },
+      {
+        "id": "C",
+        "text": "La synthèse d’ARNm a lieu au cours de la phase diplotène de la prophase I."
+      },
+      {
+        "id": "D",
+        "text": "Le 1er globule polaire reste bloqué en prophase I."
+      },
+      {
+        "id": "E",
+        "text": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes I."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « Toutes » est barré. Annotation ajoutée : « Pas les gamètes »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Annotation du corrigé : « non ».",
+      "D": "Dans le corrigé, « prophase » est barré. Annotation ajoutée : « métaphase »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « soit à un caryotype normal » est barré. Annotation ajoutée : « (Possible en cas de non disjonction en méiose II). ».",
+      "E": "Dans le corrigé, « toujours » est barré. Annotation ajoutée : « Possible aussi entre des chromosomes non homologues »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Annotation du corrigé : « (2N2C) ».",
+      "C": "Dans le corrigé, « sont éliminées » est barré. Annotation ajoutée : « migrent pour former le manchon mitochondrial dans la pièce intermédiaire »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1544
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Annotation du corrigé : « (N2C) (NC) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « condensée » est barré. Annotation ajoutée : « décondensée ».",
+      "E": "Dans le corrigé, « toujours » est barré. Annotation ajoutée : « 45Y0 non viable »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « dès la naissance » est barré. Annotation ajoutée : « La puberté ».",
+      "C": "Dans le corrigé, « 2ème » est barré. Annotation ajoutée : « De la 1ere »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « puberté » est barré. Annotation ajoutée : « 12h avant l’ovulation ».",
+      "E": "Dans le corrigé, « qui ne concerne que » est barré. Annotation ajoutée : « Spermatogenèse aussi »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « ne que » est barré. Annotation ajoutée : « et les gonosomes ».",
+      "D": "Dans le corrigé, « et en télophase II » est barré. Annotation ajoutée : « et se reconstituent en télophase I »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « ne pas ».",
+      "C": "Annotation du corrigé : « 23 jours ».",
+      "D": "Dans le corrigé, « doublets périphériques triplets triplet » est barré. Annotation ajoutée : « triplets doublets doublet ».",
+      "E": "Dans le corrigé, « 16 » est barré. Annotation ajoutée : « 8 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.gamet",
+        "id": 25,
+        "items": [
+          "D"
+        ],
+        "kind": "roneo_conflict",
+        "noteId": "embryo-v6-centriole-axoneme",
+        "text": "L’annotation remplace les triplets par des doublets dans la structure dite « centriole distal ». La fiche de cours distingue le centriole proximal (9 triplets) de l’axonème provenant du centriole distal (9 doublets périphériques et un doublet central). Le terme « centriole distal » utilisé comme synonyme de cet axonème mérite donc une vérification dans la ronéo ; la clé du corrigé est conservée.",
+        "refs": [
+          {
+            "file": "3_FS_gametogenese_LS_423b1d6f34.pdf",
+            "page": 4,
+            "label": "3_FS_gametogenese_LS_423b1d6f34.pdf — p. 4",
+            "href": "sources/revision_v4/3_FS_gametogenese_LS_423b1d6f34.pdf#page=4"
+          },
+          {
+            "file": "2_Annales_meiose_et_gametogenese_LS_CORRECTION_3f2ba9f3b8.pdf",
+            "page": 6,
+            "label": "2_Annales_meiose_et_gametogenese_LS_CORRECTION_3f2ba9f3b8.pdf — p. 6",
+            "href": "sources/revision_v4/2_Annales_meiose_et_gametogenese_LS_CORRECTION_3f2ba9f3b8.pdf#page=6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "explanations",
+    "old": {
+      "A": "Faux il y a aussi des cellules folliculeuses"
+    },
+    "new": {
+      "A": "Faux il y a aussi des cellules folliculeuses",
+      "C": "Dans le corrigé, « à la 8ème semaine » est barré. Annotation ajoutée : « au 3e mois ».",
+      "E": "Dans le corrigé, « avec la reprise de la méiose II » est barré. Annotation ajoutée : « . A la fécondation (mais aussi à la ménopause et à l’ovulation si pas de fécondation) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "answer",
+    "old": "",
+    "new": "AB"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : cet appariement concerne uniquement l’appariement des chromosomes sexuels XY (chez l’homme).\n\nAnnotation du corrigé thématique : Dans le corrigé, « et XX » est barré. Annotation ajoutée : « Item ambigüe l’appariement se fait entre X et Y pas entre XY et XX, ni entre X et X ».",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : c’est l’inverse : les brassages intrachromosomiques ont lieu en prophase I (crossing over) tandis que les brassages interchromosomiques ont lieu en métaphase I et II\n\nAnnotation du corrigé thématique : Dans le corrigé, « inter intra » est barré. Annotation ajoutée : « C’est l’inverse ».",
+      "A": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la maturation = différenciation sans division",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : définition",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la 2 e division n’est pas précédée d’une réplication de l’ADN."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "AB"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.gamet",
+        "id": 27,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.gamet-27",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1233 donnent la clé « AB ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1233,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1233"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "answer",
+    "old": "",
+    "new": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "explanations",
+    "old": {
+      "A": "faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)"
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : à la fin de la 1 e division de méiose, on obtient un gamète XY et un gamète 0.\n\nAnnotation du corrigé thématique : faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : c’est le cas de 2 gamètes sur 4 seulement : 2 gamètes possèdent 1 chromosome à une chromatide X et 1 chromosome à chromatide Y et les 2 autres gamètes possèdent 0 chromosomes sexuels.\n\nAnnotation du corrigé thématique : Dans le corrigé, « tous » est barré. Annotation ajoutée : « Seulement 2 gamètes sur 4 ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les zygotes formés sont soit un caryotype 47, XXY soit un caryotype 45, X0 (voir schéma).\n\nAnnotation du corrigé thématique : Dans le corrigé, « soit un caryotype 46, XY. » est barré. Annotation ajoutée : « 45X0 ».",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : VRAI : soit 45, X0 soit 47, XXY.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI : définition"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "DE"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.gamet",
+        "id": 28,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.gamet-28",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1233 donnent la clé « DE ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1233,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1233"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "sourceEndPage",
+    "old": 7,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : Dans ce cas, une cellule contiendra un chromosome X et un chromosome Y à deux chromatides pendant que l’autre cellule ne contiendra pas de gonosome.",
+      "D": "Vrai : 47, XXY ou 45, X0",
+      "E": "Faux : Le caryotype 45, XO correspond au syndrome de Turner. Le syndrome de Klinefelter correspond au caryotype 47, XXY"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "sourceEndPage",
+    "old": 7,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux : L’axonème vient bien du centriole distal, mais il est présent dans la pièce principale, intermédiaire et terminale du flagelle.",
+      "D": "Faux : Le syndrome de Kartagener est lié à l’absence des bras de dynéine externe."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "sourceEndPage",
+    "old": 7,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : les CGP et les ovogonies ne se multiplient que durant la vie in utéro.",
+      "B": "Faux : les ovogonies subissent une folliculogénèse à partir du troisième mois de la vie intra utérine.",
+      "C": "Faux : l’ovocyte au sein du follicule primordial est bloqué en prophase de la première division de méiose.",
+      "E": "Faux : ce sont des facteurs cytoplasmiques ovocytaires qui bloquent l’ovocyte en métaphase II. Le facteur OMI secrété par les cellules folliculeuses sert au blocage en prophase I."
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "sourceEndPage",
+    "old": 8,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Faux pas de réplication avant M2",
+      "E": "Faux uniquement par PAR 1"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "sourceEndPage",
+    "old": 8,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "subjectPage",
+    "old": 8,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux les chromosomes auront 2 chromatides",
+      "E": "Faux ils seront monosémiques ou trisomiques"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "sourceEndPage",
+    "old": 8,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "subjectPage",
+    "old": 8,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux pas de centraux dans les centrioles",
+      "E": "Faux c’est le centriole proximal"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "sourceEndPage",
+    "old": 9,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "subjectPage",
+    "old": 9,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Faux bloqué en diplotène prophase I",
+      "C": "Faux M7 = 7 millions"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "sourceEndPage",
+    "old": 9,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "subjectPage",
+    "old": 9,
+    "new": 1044
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Faux : l’appariement des chromosomes homologues lors de la prophase I se fait sur l’ensemble des chromosomes grâce au complexe synaptonémal et non uniquement sur les centromères",
+      "C": "Faux : SEULE la division réductionnelle (la première division) est précédée d’une réplication",
+      "D": "Faux : Les crossing-over se déroulent uniquement en prophase I",
+      "E": "Vrai : La vésicule sexuelle est bien un élément temporaire de la méiose chez les garçons. Elle apparaît à la phase zygotène (prophase I) et disparaît lors de la diacinèse (prophase I)"
+    }
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "sourceEndPage",
+    "old": 9,
+    "new": 1098
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "subjectPage",
+    "old": 9,
+    "new": 1098
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 1,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « capacitation » est barré. Annotation ajoutée : « décapacitation ».",
+      "E": "Dans le corrigé, « toutes » est barré. Annotation ajoutée : « PH20 acquise pendant la spermiogenèse »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 2,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « se poursuit » est barré. Annotation ajoutée : « débute ».",
+      "D": "Dans le corrigé, « au cours » est barré. Annotation ajoutée : « après après fusion des membranes plasmiques du spermatozoïde et de l’ovocyte, donc le spermatozoïde a déjà réalisé sa réaction acrosomique »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 3,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « suit ».",
+      "E": "Dans le corrigé, « cytoplasmiques » est barré. Annotation ajoutée : « nucléaires »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 4,
+    "field": "explanations",
+    "old": {
+      "E": "Item absent de l’extraction puis rétabli depuis le PDF. La lettre A est dupliquée dans la source, dont la clé globale ABD reste ambiguë."
+    },
+    "new": {
+      "E": "Item absent de l’extraction puis rétabli depuis le PDF. La lettre A est dupliquée dans la source, dont la clé globale ABD reste ambiguë.",
+      "A": "Annotation du corrigé : « PH20 PH30 ».",
+      "B": "Dans le corrigé, « capacitation » est barré. Annotation ajoutée : « décapacitation ».",
+      "D": "Dans le corrigé, « acrosomique » est barré. Annotation ajoutée : « plasmique »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 5,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « nécessite » est barré. Annotation ajoutée : « provoque »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 6,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "D": "Dans le corrigé, « distal » est barré. Annotation ajoutée : « proximal »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « du transit épididymaire » est barré. Annotation ajoutée : « de la capacitation ».",
+      "C": "Dans le corrigé, « ainsi que la gouttelette cytoplasmique du spermatozoïde » est barré. Annotation ajoutée : « Eliminé pendant la décapacitation ».",
+      "D": "Dans le corrigé, « féminines » est barré. Annotation ajoutée : « masculines (canal épididymaire) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « active » est barré. Annotation ajoutée : « passive ».",
+      "E": "Dans le corrigé, « nécessite irréversible » est barré. Annotation ajoutée : « provoque réversible »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « suit »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1605
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « d’un mois » est barré. Annotation ajoutée : « 10 jours ».",
+      "B": "Dans le corrigé, « qu’au cours » est barré. Annotation ajoutée : « PH20 acquise pendant la spermiogenèse ».",
+      "C": "Dans le corrigé, « corps » est barré. Annotation ajoutée : « queue ».",
+      "E": "Dans le corrigé, « capacitation » est barré. Annotation ajoutée : « Décapacitation »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « suit (C’est l’inverse) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "explanations",
+    "old": {
+      "E": "Faux : réaction corticale."
+    },
+    "new": {
+      "E": "Faux : réaction corticale.",
+      "D": "Dans le corrigé, « interne de l’acrosome » est barré. Annotation ajoutée : « plasmique de la cape »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "category",
+    "old": "2019-2020",
+    "new": "2020-2021"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « s’achève au cours du transit épididymaire » est barré. Annotation ajoutée : « Également lieu au cours de la capacitation au sein des voies génitales féminines ».",
+      "B": "Dans le corrigé, « du transit épididymaire » est barré. Annotation ajoutée : « de la spermiogenèse Lors du transit épididymaire, ce sont les ponts disulfures qui se forment entre les cys des protamines »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "category",
+    "old": "2019-2020",
+    "new": "2020-2021"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "explanations",
+    "old": {
+      "B": "Vrai L’exocytose permet la libération du contenu acrosomique avec notamment l’acrosine, et la réaction corticale se définit par l’exocytose des granules corticaux"
+    },
+    "new": {
+      "B": "Vrai L’exocytose permet la libération du contenu acrosomique avec notamment l’acrosine, et la réaction corticale se définit par l’exocytose des granules corticaux",
+      "E": "Dans le corrigé, « prophase I » est barré. Annotation ajoutée : « métaphase II »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1404
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « riche » est barré. Annotation ajoutée : « pauvre ».",
+      "C": "Dans le corrigé, « capacitation » est barré. Annotation ajoutée : « décapacitation ».",
+      "E": "Dans le corrigé, « 24 heures » est barré. Annotation ajoutée : « 3/4 jours »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1308
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « intacte » est barré. Annotation ajoutée : « La réaction acrosomiale a eu lieu »."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1309
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1309
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "answer",
+    "old": "",
+    "new": "AE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : migration des granules corticaux en périphérie.\n\nAnnotation du corrigé thématique : Dans le corrigé, « corticaux autour du noyau. » est barré. Annotation ajoutée : « En périphérie autour de la membrane ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la fécondation a lieu au niveau de l’ampoule de la trompe utérine.\n\nAnnotation du corrigé thématique : Dans le corrigé, « pavillon » est barré. Annotation ajoutée : « Dans l’ampoule tubulaire ».",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les spermatozoïdes restent en moyenne 48h après un rapport sexuel dans l’appareil génital féminin mais certains peuvent rester jusqu’à 5 jours après les rapports.\n\nAnnotation du corrigé thématique : Dans le corrigé, « 24 » est barré. Annotation ajoutée : « 48H (voire plus) ».",
+      "A": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la capacitation est réversible, à partir de la réaction acrosomique, les phénomènes sont irréversibles.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI : ces derniers font leur réaction acrosomique en avance pour favoriser la progression des autres spermatozoïdes (coopération pour qu’un spermatozoïde réussisse la traversée de la ZP)."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "AE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.fec",
+        "id": 17,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.fec-17",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1234 donnent la clé « AE ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1234,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1234"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "answer",
+    "old": "",
+    "new": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : cours\n\nAnnotation du corrigé thématique : Dans le corrigé, « les cellules du cumulus » est barré. Annotation ajoutée : « . La zone pellucide ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : fusion de la membrane plasmique et de la membrane externe de l’acrosome du spz.\n\nAnnotation du corrigé thématique : Dans le corrigé, « interne » est barré. Annotation ajoutée : « externe ».",
+      "A": "Corrigé du tutorat — session 1 2022–2023 : VRAI : l’acrosine hydrolyse la ZP1 permettant aux spz de passer dans la zone pellucide.",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : VRAI : cours",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI"
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "ABDE"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.fec",
+        "id": 18,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.fec-18",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1234 donnent la clé « ABDE ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1234,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1234"
+          }
+        ]
+      },
+      {
+        "bank": "embryo.ann.fec",
+        "id": 18,
+        "items": [
+          "B"
+        ],
+        "kind": "roneo_conflict",
+        "noteId": "embryo-v6-fec18-key-divergence",
+        "text": "Divergence entre deux corrigés du même item B : la grille ABDE et le détail du tutorat le donnent Vrai, tandis que le corrigé thématique barre « les cellules du cumulus » et le remplace par « la zone pellucide ». La notation reprend la grille explicite du tutorat ; cette divergence reste à vérifier dans la ronéo. Les deux originaux sont disponibles dans le menu de correction.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1234,
+            "label": "Annales_compilation.pdf — p. 1234",
+            "href": "sources/Annales_compilation.pdf#page=1234"
+          },
+          {
+            "file": "2_Annales_Fecondation_LS_correction_56ee0ecad9.pdf",
+            "page": 4,
+            "label": "2_Annales_Fecondation_LS_correction_56ee0ecad9.pdf — p. 4",
+            "href": "sources/revision_v4/2_Annales_Fecondation_LS_correction_56ee0ecad9.pdf#page=4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1212
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux : la réaction acrosomique concerne la fusion de la membrane plasmique du spermatozoïde et la membrane externe de l’acrosome.",
+      "D": "Faux : le ligand de la fixation secondaire étant ZP2, la réaction acrosomique permet l’externalisation de récepteurs à ZP2."
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1134
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux :  L’activation de l’œuf entraine la reprise de la méiose et la réaction corticale.",
+      "E": "Faux : 1 seul chromosome 21 n’est pas viable, 4 chromosomes 1 non plus ect… (ambigu)"
+    }
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1184
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1184
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1045
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1045
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 1,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « toujours » est barré. Annotation ajoutée : « il peut être impair ».",
+      "C": "Dans le corrigé, « constant » est barré. Annotation ajoutée : « il augmente lors de la formation du blastocœle »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 2,
+    "field": "explanations",
+    "old": {
+      "C": "HP"
+    },
+    "new": {
+      "C": "HP",
+      "A": "Dans le corrigé, « synchrone » est barré. Annotation ajoutée : « Elle est Asynchrone ».",
+      "D": "Dans le corrigé, « totipotentes » est barré. Annotation ajoutée : « pluripotentes (elles peuvent donner les 3 tissus fondamentaux mais pas le tissu placentaire) ».",
+      "E": "Annotation du corrigé : « = d’haploïdie alléliques »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 2,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "La segmentation est totale, synchrone, et asymétrique."
+      },
+      {
+        "id": "B",
+        "text": "La polarité cellulaire débute dès le phénomène de compaction de la morula"
+      },
+      {
+        "id": "C",
+        "text": "Les gènes CDX2 et TEAD4 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) HP"
+      },
+      {
+        "id": "D",
+        "text": "Les cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) sont totipotentes"
+      },
+      {
+        "id": "E",
+        "text": "Les gènes soumis à l’empreinte parentale ont une expression monoallélique"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "La segmentation est totale, synchrone, et asymétrique."
+      },
+      {
+        "id": "B",
+        "text": "La polarité cellulaire débute dès le phénomène de compaction de la morula"
+      },
+      {
+        "id": "C",
+        "text": "Les gènes CDX2 et TEAD4 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI)"
+      },
+      {
+        "id": "D",
+        "text": "Les cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) sont totipotentes"
+      },
+      {
+        "id": "E",
+        "text": "Les gènes soumis à l’empreinte parentale ont une expression monoallélique"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 3,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Au stade morula, les cellules périphériques établissent des jonctions serrées entre elles"
+      },
+      {
+        "id": "B",
+        "text": "Les gènes OCT4, NANOG, SOX2 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou de la masse cellulaire interne (MCI) HP"
+      },
+      {
+        "id": "C",
+        "text": "Les pompes Na/K ATPase sont localisées sur la face latéro-basale des cellules trophoblastiques"
+      },
+      {
+        "id": "D",
+        "text": "L’empreinte parentale se met en place au cours de la gamétogenèse"
+      },
+      {
+        "id": "E",
+        "text": "Au cours de la 1ère semaine du développement embryonnaire, le génome embryonnaire s’active et les cellules embryonnaires perdent leur totipotence"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Au stade morula, les cellules périphériques établissent des jonctions serrées entre elles"
+      },
+      {
+        "id": "B",
+        "text": "Les gènes OCT4, NANOG, SOX2 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou de la masse cellulaire interne (MCI)"
+      },
+      {
+        "id": "C",
+        "text": "Les pompes Na/K ATPase sont localisées sur la face latéro-basale des cellules trophoblastiques"
+      },
+      {
+        "id": "D",
+        "text": "L’empreinte parentale se met en place au cours de la gamétogenèse"
+      },
+      {
+        "id": "E",
+        "text": "Au cours de la 1ère semaine du développement embryonnaire, le génome embryonnaire s’active et les cellules embryonnaires perdent leur totipotence"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 4,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « totalité » est barré. Annotation ajoutée : « Pas les gènes soumis à l’empreinte parentale ».",
+      "E": "Dans le corrigé, « toujours » est barré. Annotation ajoutée : « Monosomies non viables 45, Y0 et monosomie 21 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "Annotation du corrigé : « à J3 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1606
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1606
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « deux » est barré. Annotation ajoutée : « un ».",
+      "E": "Annotation du corrigé : « lié au fait que la méiose se bloque pendant très longtemps en prophase 1 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1545
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « calcium » est barré. Annotation ajoutée : « sodium ».",
+      "E": "Dans le corrigé, « totipotentes » est barré. Annotation ajoutée : « pluripotentes. »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1405
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1405
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « moins de 20 heures » est barré. Annotation ajoutée : « dans les 30-36h ».",
+      "C": "Dans le corrigé, « l’ampoule tubaire. » est barré. Annotation ajoutée : « il en migration dans la trompe et a quitté l’ampoule »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1309
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1309
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "answer",
+    "old": "",
+    "new": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la 1 e SDE débute à la fécondation (J0), l’implantation a lieu durant la 2 e SDE.\n\nAnnotation du corrigé thématique : Dans le corrigé, « première » est barré. Annotation ajoutée : « deuxième ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : totale, asymétrique et asynchrone.\n\nAnnotation du corrigé thématique : Dans le corrigé, « symétrique synchrone » est barré. Annotation ajoutée : « asymétrique et asynchrone ».",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la segmentation a lieu de J0 à J4 lors desquels les cellules se divisent en blastomères.",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : VRAI : J4 = morula, acquisition de la polarité cellulaire, adhérence cellulaire, jonction intercellulaire.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI : def : blastocyte = trophoblaste + blastocèle + bouton embryonnaire (=MCI)"
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "BDE"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s1",
+        "id": 9,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.s1-9",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1235 donnent la clé « BDE ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1235,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1235"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1213
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1213
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "answer",
+    "old": "",
+    "new": "C"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "explanations",
+    "old": {
+      "A": "Faux lente"
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : migration LENTE due aux sécrétions tubaires, contractions utérines et hormonodépendante (progestérone)\n\nAnnotation du corrigé thématique : Faux lente",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : Un défaut de contractions tubaires entraîne une GEU : grossesse extra-utérine (pas assez de contraction pour emmener l’œuf jusqu’à l’utérus). Cf cours VI (partie extrinsèque)\n\nAnnotation du corrigé thématique : Dans le corrigé, « fausse couche » est barré. Annotation ajoutée : « Grossesse extra-utérine ».",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : 50% des zygotes n’atteignent pas le stade blastocyte à c’est la loi du « tout ou rien ».\n\nAnnotation du corrigé thématique : Dans le corrigé, « Un quart » est barré. Annotation ajoutée : « la moitié 50% ».",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les GEU sont principalement tubaires (98%)\n\nAnnotation du corrigé thématique : Dans le corrigé, « ovaires » est barré. Annotation ajoutée : « trompes ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la transition materno-embryonnaire a bien lieu à J3."
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "C"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s1",
+        "id": 10,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.s1-10",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1235 donnent la clé « C ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1235,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1235"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1213
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1213
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : la migration est passive",
+      "B": "Faux : les premiers stades de segmentation sont asynchrones et asymétriques",
+      "C": "Faux : c’est l’inverse : Trophoblaste = 2/3 des cellules et masse cellulaire interne = 1/3 des cellules",
+      "E": "Faux : sur la membrane apicale des cellules on trouve des échangeurs Na+/H+ (les pompes sont situées sur la membrane latéro-basale)"
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1135
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1135
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Vrai : l’embryon qui n’a pas migré correctement lors de son trajet dans la trompe s’implante hors de la cavité utérine (trompes, ovaires).",
+      "B": "Vrai : c’est bien à J3, lors de la TME, qu’on passe du génome maternel au génome embryonnaire.",
+      "C": "Vrai : voir correction item B.",
+      "D": "Vrai : en effet les cellules sont totipotentes jusqu’à J4 (=morula), où elles deviennent alors pluripotentes.",
+      "E": "Faux : les gènes soumis à l’empreinte parentale ne subissent pas de reprogrammation épigénétique"
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1184
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1184
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "explanations",
+    "old": {
+      "D": "Ambigu selon la source : le corrigé distingue la croissance de l’œuf et la formulation portant sur le diamètre de l’embryon."
+    },
+    "new": {
+      "D": "Ambigu, la taille de l’œuf grossit mais elle indique l’embryon, dans son diaporama celle indique l’œuf reste de même taille 150 µ puis l’embryon grandit à 200-220µ donc ce n’est pas très rigoureux"
+    }
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1045
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1045
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "warning",
+    "old": "Clé source ABC(D)E : le corrigé déclare D ambigu ; QCM conservé hors note. Sujet non corrigé absent de l’archive : énoncé et photographies repris du corrigé.",
+    "new": "Clé source ABC(D)E : le corrigé déclare D ambigu ; QCM conservé hors note."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 1,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « et le lécithocèle primaire » est barré. Annotation ajoutée : « Il se forme à J9 ».",
+      "C": "Dans le corrigé, « primaire » est barré. Annotation ajoutée : « secondaire ».",
+      "D": "Dans le corrigé, « syncytiotrophoblaste de l’hypoblaste et du trophoblaste » est barré. Annotation ajoutée : « du magma réticulé ».",
+      "E": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « implantation complète à J13, inactivation du X à J16 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 2,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "D": "Dans le corrigé, « d’entoblaste » est barré. Annotation ajoutée : « hypoblaste »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 3,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « Séquence : O.E.A.I ».",
+      "B": "Annotation du corrigé : « A J7 J8 ».",
+      "C": "Dans le corrigé, « uniquement » est barré. Annotation ajoutée : « par le trophoblaste à J7 J8 aussi ».",
+      "E": "Dans le corrigé, « en même temps » est barré. Annotation ajoutée : « J11 J8 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 4,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « + Cadhérines ».",
+      "B": "Annotation du corrigé : « J7 J9 ».",
+      "C": "Dans le corrigé, « et les kystes exocoelomiques » est barré. Annotation ajoutée : « J11 ».",
+      "D": "Annotation du corrigé : « J11 ».",
+      "E": "Dans le corrigé, « myomètre » est barré. Annotation ajoutée : « Dans l’endomètre (et empêche dans le myomètre) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « à J7 ».",
+      "B": "Dans le corrigé, « et le lécithocèle primaire » est barré. Annotation ajoutée : « à J9 à J8-J9 ».",
+      "E": "Dans le corrigé, « A J11, » est barré. Annotation ajoutée : « A J 13 à J10 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1606
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1606
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "D": "Annotation du corrigé : « à J10 (vide à  J9) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1546
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1546
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « du trophoblaste » est barré. Annotation ajoutée : « syncytiotrophoblaste ».",
+      "C": "Dans le corrigé, « primaire » est barré. Annotation ajoutée : « secondaire ».",
+      "D": "Annotation du corrigé : « A J13 ».",
+      "E": "Annotation du corrigé : « il apparait à J13 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1405
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1405
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "Dans le corrigé, « l’entoblaste » est barré. Annotation ajoutée : « l’hypoblaste »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1309
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1309
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "answer",
+    "old": "",
+    "new": "B"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : elle a lieu au sein de l’endomètre en phase LUTEALE.\n\nAnnotation du corrigé thématique : Dans le corrigé, « folliculaire » est barré. Annotation ajoutée : « lutéale ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : il s’agit là de la définition du SYNcytiotrophoblaste.\n\nAnnotation du corrigé thématique : Dans le corrigé, « cytotrophoblaste » est barré. Annotation ajoutée : « syncytiotrophoblaste ».",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : elles sont secondaires à un dédoublement du disque didermique lors de la 2 ème SDE ou un dédoublement de la ligne primitive à la 3 ème SDE.\n\nAnnotation du corrigé thématique : Dans le corrigé, « au stade segmentaire » est barré. Annotation ajoutée : « après J8 car CA déjà formé ».",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : l’endomètre est épais et riche en glandes sécrétant du glycogène qui est indispensable à l’implantation cf p4",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : le disque didermique est composé du plancher de la cavité amniotique qui donner l’épiblaste et du plafond du lécithocèle secondaire qui donne l’hypoblaste."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "B"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s2",
+        "id": 9,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.s2-9",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1236 donnent la clé « B ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1236,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1236"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1213
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1213
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "uncorrected",
+    "old": null,
+    "new": false
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux : c’est le syncytiotrophoblaste qui envahi l’endomètre",
+      "D": "Faux : c’est l’inverse : Épiblaste = dorsal et hypoblaste = ventral"
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1135
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1135
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : la prolifération à lieu au 8e jour",
+      "B": "Faux : à J11, le magma réticulé commence à se résorber mais il est encore présent",
+      "E": "Faux : grossesses bichoriales biamniotiques = 2 placentas et 2 poches amitotiques différents. On a deux cas de figure possibles : - Soit il y a eu double ovulation (70%), on a donc 2 cellules œuf, qui donneront chacun leur placenta et leurs poches amniotiques. Les jumeaux seront dizygotes. - Soit il y a eu une seule ovulation (30%), donc une cellule œuf, mais celle-ci va se diviser pendant la phase de segmentation, on aura alors 2 placentas et 2 poches amniotiques différents, et des jumeaux monozygotes."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1135
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1135
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : le mésenchyme extra embryonnaire remplit l’ensemble du blastocèle au neuvième jour",
+      "B": "Faux : il commence à se résorber à j11",
+      "E": "Faux : ils peuvent être dizygotes si c’est 2 ovocytes différents qui ont été fécondés ou alors homozygote si l’œuf fécondé s’est dédoublé au stade de segmentation (1SDE)"
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1184
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1184
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : énoncé reconstitué depuis le corrigé.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1046
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1046
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "explanations",
+    "old": {
+      "A": "Vrai : lacunes apparues à J9, remplies secondairement.",
+      "C": "Faux : 5 représente la cavité amniotique (ou amnios).",
+      "D": "Faux : lécithocèle secondaire.",
+      "E": "Faux : 7 représente le syncytiotrophoblaste."
+    },
+    "new": {
+      "A": "Vrai : les lacunes apparaissent à J9 (vides), commencent à se remplir à J11 et sont complètement remplies à J13",
+      "C": "Faux : 5 représente la cavité amniotique (ou amnios).",
+      "D": "Faux : lécithocèle secondaire.",
+      "E": "Faux : 7 représente le syncytiotrophoblaste."
+    }
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11"
+      },
+      {
+        "id": "B",
+        "text": "Le 2 représente la lame chorale"
+      },
+      {
+        "id": "C",
+        "text": "Le 5 représente la vésicule vitelline"
+      },
+      {
+        "id": "D",
+        "text": "Le 6 représente le lécithocèle primaire"
+      },
+      {
+        "id": "E",
+        "text": "Le 7 représente le cytotrophoblaste"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11"
+      },
+      {
+        "id": "B",
+        "text": "Le 2 représente la lame choriale."
+      },
+      {
+        "id": "C",
+        "text": "Le 5 représente la vésicule vitelline"
+      },
+      {
+        "id": "D",
+        "text": "Le 6 représente le lécithocèle primaire"
+      },
+      {
+        "id": "E",
+        "text": "Le 7 représente le cytotrophoblaste"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1098
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf"
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1098
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 1,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « raccourcit » est barré. Annotation ajoutée : « reste constante 0.15 mm ».",
+      "C": "Dans le corrigé, « dépend du » est barré. Annotation ajoutée : « C’est la relation inverse ».",
+      "D": "Dans le corrigé, « crâniale » est barré. Annotation ajoutée : « caudale ».",
+      "E": "Annotation du corrigé : « l’une débute à J18 et l’autre termine à J18 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 2,
+    "field": "explanations",
+    "old": {
+      "A": "HP)"
+    },
+    "new": {
+      "A": "HP)",
+      "B": "Dans le corrigé, « puis » est barré. Annotation ajoutée : « inverser plaque et canal ».",
+      "D": "Dans le corrigé, « processus » est barré. Annotation ajoutée : « canal ».",
+      "E": "Annotation du corrigé : « Item ambigu car la chorde se réalise bien dans l’espace situé du nœud de Hensen à la MP mais chronologiquement de la MP au Nœud de Hensen. »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 3,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « somites » est barré. Annotation ajoutée : « qu’en CT ».",
+      "E": "Dans le corrigé, « cœlome interne » est barré. Annotation ajoutée : « qu’en CT »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 4,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "D": "Dans le corrigé, « tout » est barré. Annotation ajoutée : « pas le mésoblaste latéral »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 5,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « précède » est barré. Annotation ajoutée : « suit ».",
+      "C": "Dans le corrigé, « vers les ilots de Wolff et Pander dans la lame vitelline » est barré. Annotation ajoutée : « dans l’allantoïde ».",
+      "D": "Annotation du corrigé : « Avec SHH ».",
+      "E": "Dans le corrigé, « augmentation » est barré. Annotation ajoutée : « diminution »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 6,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « l'allantoïde » est barré. Annotation ajoutée : « . Elle est en arrière di disque ».",
+      "D": "Dans le corrigé, « cloacale » est barré. Annotation ajoutée : « Pharyngienne »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 7,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « choriale » est barré. Annotation ajoutée : « Vitelline= lame ombilicale ».",
+      "C": "Dans le corrigé, « vitellins » est barré. Annotation ajoutée : « villositaires ».",
+      "E": "Dans le corrigé, « persiste » est barré. Annotation ajoutée : « elle est évacuée d’où son nom »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 8,
+    "field": "explanations",
+    "old": {
+      "B": "HP"
+    },
+    "new": {
+      "B": "HP",
+      "A": "Dans le corrigé, « précoce » est barré. Annotation ajoutée : « tardif »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 9,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « Le tube neural. » est barré. Annotation ajoutée : « En fin de S3 ».",
+      "E": "Dans le corrigé, « choriale » est barré. Annotation ajoutée : « vitelline = ombilicale »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 10,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « Tous » est barré. Annotation ajoutée : « Pas l’axial ni le latéral ».",
+      "E": "Annotation du corrigé : « Oui à l’arrière »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 11,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "Dans le corrigé, « 2ème empêche » est barré. Annotation ajoutée : « 3e favorise »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 11,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s3",
+        "id": 11,
+        "items": [
+          "E"
+        ],
+        "kind": "roneo_conflict",
+        "noteId": "embryo-v6-barriere-contact",
+        "text": "Le corrigé remplace « empêche le contact » par « favorise ». La ronéo précise pourtant que la barrière sépare les circulations maternelle et embryonnaire et empêche leur communication directe, tout en permettant les échanges. Ne pas confondre contact direct des sangs et échanges à travers la barrière. La date S2 rend également l’item faux dans la clé ; vérifier l’explication dans la ronéo.",
+        "refs": [
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 7,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 7",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=7"
+          },
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 11,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 11",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=11"
+          },
+          {
+            "file": "2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf",
+            "page": 3,
+            "label": "2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf — p. 3",
+            "href": "sources/revision_v4/2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf#page=3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 12,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « chordo-mésoblaste » est barré. Annotation ajoutée : « de la ligne primitive ».",
+      "D": "Dans le corrigé, « délamination » est barré. Annotation ajoutée : « Ingression »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 13,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « immédiatement » est barré. Annotation ajoutée : « Il y a la condensation entre ».",
+      "E": "Dans le corrigé, « phénomènes de segmentation. » est barré. Annotation ajoutée : « par la chorde et la plaque préchordale par SHH »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 14,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « des vaisseaux villositaires » est barré. Annotation ajoutée : « lame vitelline ».",
+      "D": "Annotation du corrigé : « (On verra cela en S4) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 15,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « Au cours du processus chordal » est barré. Annotation ajoutée : « C’est a l’étape du canal chordal, qui est une structure creuse ».",
+      "C": "Dans le corrigé, « hypoplasiques » est barré. Annotation ajoutée : « épiblastiques ».",
+      "E": "Dans le corrigé, « avant » est barré. Annotation ajoutée : « après (en 1er) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 16,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Annotation du corrigé : « On peut les distinguer ».",
+      "C": "Dans le corrigé, « extra » est barré. Annotation ajoutée : « ou mésoblaste ».",
+      "E": "Dans le corrigé, « céphalo-caudal » est barré. Annotation ajoutée : « il se met en place en fin de S2 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 17,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « intermédiaire » est barré. Annotation ajoutée : « Latéral »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 18,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « A. Ligne primitive, chorde dorsale, entoblaste » est barré. Annotation ajoutée : « J14-15 – J18 – J16 ».",
+      "B": "Annotation du corrigé : « J14-15 – J16 – J16 ».",
+      "C": "Dans le corrigé, « C. Mésoblaste, hypoblaste, entoblaste » est barré. Annotation ajoutée : « J16 – J7 – J16 ».",
+      "D": "Annotation du corrigé : « J7 – J16 – plus tard ».",
+      "E": "Dans le corrigé, « E. Canal chordal, gonocytes primordiaux, allantoïde » est barré. Annotation ajoutée : « J16 – J18 – J16 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 19,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « coque syncytiotrophoblastique » est barré. Annotation ajoutée : « coque cytotrophoblastique ».",
+      "E": "Dans le corrigé, « choriale » est barré. Annotation ajoutée : « vitelline »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 20,
+    "field": "explanations",
+    "old": {
+      "E": "Vrai"
+    },
+    "new": {
+      "E": "Vrai",
+      "C": "Dans le corrigé, « long » est barré. Annotation ajoutée : « court »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 21,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « en position intra-embryonnaire » est barré. Annotation ajoutée : « autour de l’allantoïde donc extra ».",
+      "C": "Dans le corrigé, « en haut en bas » est barré. Annotation ajoutée : « C’est l’inverse la splanchnopleure est en bas et la somatopleure en haut ».",
+      "D": "Dans le corrigé, « Au milieu » est barré. Annotation ajoutée : « en fin J21 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 22,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « J16 et l’autre J15-18 ».",
+      "B": "Dans le corrigé, « La formation des villosités tertiaires et la formation de la ligne primitive » est barré. Annotation ajoutée : « Formation de la ligne primitive en début de 3ème SDE (J14-15) et formation des villosités tertiaires en fin de 3ème SDE (J18-21) ».",
+      "C": "Annotation du corrigé : « J18 ».",
+      "D": "Annotation du corrigé : « fin de S3 ».",
+      "E": "Dans le corrigé, « et » est barré. Annotation ajoutée : « J17 J19 »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 23,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « ombilicale » est barré. Annotation ajoutée : « choriale ».",
+      "D": "Dans le corrigé, « amniotique » est barré. Annotation ajoutée : « vitelline »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 24,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « l'évagination » est barré. Annotation ajoutée : « Invagination ».",
+      "C": "Dans le corrigé, « membrane cloacale » est barré. Annotation ajoutée : « nœud postérieur »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 26,
+    "field": "explanations",
+    "old": {
+      "A": "Faux Il est fini bien avant à J16",
+      "B": "Faux la condensation à lieu à J18 et la segmentation du MPA commence à J19",
+      "D": "Faux J 18 = milieu de S3",
+      "C": "Faux : la fermeture du neuropore antérieur est située en S4 dans le corrigé.",
+      "E": "Faux : les cellules germinales primordiales sont d’origine épiblastique."
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : le processus chordal se transforme en canal chordal au début de la 3 ème semaine à J16.\n\nAnnotation du corrigé thématique : Faux Il est fini bien avant à J16",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : l’ensemble du mésoblaste se condense à J18 et le mésoblaste para-axial commence à se segmenter à J19.\n\nAnnotation du corrigé thématique : Faux la condensation à lieu à J18 et la segmentation du MPA commence à J19",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la zone cardiogène se forme au milieu de la 3 ème semaine à J18-19.\n\nAnnotation du corrigé thématique : Faux J 18 = milieu de S3",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : le neuropore antérieur se ferme à J24 donc au milieu de la 4 ème SDE.\n\nAnnotation du corrigé thématique : Faux : la fermeture du neuropore antérieur est située en S4 dans le corrigé.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les cellules germinales se forment à partir de l’ectoblaste et apparaissent aux alentours de l’allantoïde à J18\n\nAnnotation du corrigé thématique : Faux : les cellules germinales primordiales sont d’origine épiblastique."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 26,
+    "field": "rawAnswer",
+    "old": "AUCUNE",
+    "new": "RIEN"
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 26,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s3",
+        "id": 26,
+        "items": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "kind": "source_conflict",
+        "noteId": "embryo-v6-compilation-key-embryo.ann.s3-26",
+        "text": "La grille de la session 1 2022–2023 (compilation p.1232) et les cinq verdicts détaillés p.1238 donnent la clé « RIEN ». Ce complément est utilisé pour la notation ; les annotations du corrigé thématique sont reproduites séparément.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1232,
+            "label": "Grille du tutorat — session 1 2022–2023",
+            "href": "sources/Annales_compilation.pdf#page=1232"
+          },
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1238,
+            "label": "Corrigé détaillé du tutorat",
+            "href": "sources/Annales_compilation.pdf#page=1238"
+          }
+        ]
+      },
+      {
+        "bank": "embryo.ann.s3",
+        "id": 26,
+        "items": [
+          "A"
+        ],
+        "kind": "roneo_conflict",
+        "noteId": "embryo-v6-processus-chordal-terme",
+        "text": "La clé « RIEN » est explicite dans la compilation. Pour A, les justifications datent la fin du processus chordal de J16, tandis que la ronéo présente sa transformation en canal à J16, en plaque à J17–18 puis en chorde à J18–22. Le sens donné à « processus chordal » (structure initiale ou ensemble de son évolution) doit être relu dans la ronéo ; aucune clé n’est déduite de cette ambiguïté. La formulation ectoblaste/épiblaste de l’item E est, elle, explicitement admise dans la ronéo p.47.",
+        "refs": [
+          {
+            "file": "Annales_compilation.pdf",
+            "page": 1238,
+            "label": "Annales_compilation.pdf — p. 1238",
+            "href": "sources/Annales_compilation.pdf#page=1238"
+          },
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 22,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 22",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=22"
+          },
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 47,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 47",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 27,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : la barrière placentaire se met en place à la fin de la 3ème SDE avec l’apparition des premiers vaisseaux dans les villosités du placentas diffus et pas avec l’apparition des villosités primaires.",
+      "D": "Faux sanguino formateur aussi",
+      "E": "Faux : c’est la couche superficielle (ou compacte ou zone fonctionnelle) qui est modifiée par la réaction déciduale."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 28,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : la ligne primitive va disparaitre durant la 4ème semaine du DE pour donner le bourgeon caudal.",
+      "B": "Vrai : la mise en place du chordo-mésoblaste a lieu durant la gastrulation, c’est-à-dire à partir de la 3 ème semaine du DE.",
+      "D": "Faux : la formation de l’entoblaste (première vague de migration cellulaire) précède celle du mésoblaste (deuxième vague de migration cellulaire).",
+      "E": "Faux : ces mouvements morphogénétiques peuvent aussi avoir lieu pour assurer la cicatrisation, le renouvellement de la peau…"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : ce schéma correspond à une coupe longitudinale de l’embryon à J18 du DE.",
+      "B": "Faux : la plaque préchordale n’est plus visible à partir de J21, elle se détache d’abord au pôle céphalique pour donner la chorde.",
+      "C": "Vrai : la chorde et la plaque chordale coexistent.",
+      "D": "Faux : la légende numéro 3 correspond au canal neurentérique."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 29,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s3",
+        "id": 29,
+        "items": [
+          "B"
+        ],
+        "kind": "roneo_conflict",
+        "noteId": "embryo-v6-plaque-prechordale",
+        "text": "L’explication imprimée semble confondre plaque préchordale et plaque chordale lorsqu’elle décrit une disparition et un détachement donnant la chorde. La ronéo indique que la plaque préchordale reste présente même lorsqu’elle n’est plus dessinée ; elle distingue son rôle de celui de la plaque chordale. La réponse B reste celle du corrigé, mais sa justification doit être vérifiée dans la ronéo.",
+        "refs": [
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 24,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 24",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=24"
+          },
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 25,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 25",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=25"
+          },
+          {
+            "file": "Roneo_S3_05579bfe1f.pdf",
+            "page": 27,
+            "label": "Roneo_S3_05579bfe1f.pdf — p. 27",
+            "href": "sources/revision_v4/Roneo_S3_05579bfe1f.pdf#page=27"
+          },
+          {
+            "file": "2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf",
+            "page": 7,
+            "label": "2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf — p. 7",
+            "href": "sources/revision_v4/2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf#page=7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Faux : le mésoblaste para-axial se segmente complètement en somites",
+      "D": "Faux et du tissu mésoblastqiue même l’item n’est pas faux, on a l’impression qu’il est exclusif"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 30,
+    "field": "reviewNotes",
+    "old": null,
+    "new": [
+      {
+        "bank": "embryo.ann.s3",
+        "id": 30,
+        "items": [
+          "D"
+        ],
+        "kind": "roneo_conflict",
+        "noteId": "embryo-v6-wolff-tubules",
+        "text": "Le détail du corrigé discute surtout le caractère supposé exclusif de l’énumération, mais l’item écrit aussi « tubules pronéphrotiques ». La ronéo décrit le corps de Wolff avec les tubules mésonéphrotiques, le canal de Wolff et du tissu mésoblastique. Cette différence de nom est à vérifier dans la ronéo ; la clé officielle, qui compte D faux, est conservée.",
+        "refs": [
+          {
+            "file": "1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf",
+            "page": 27,
+            "label": "1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf — p. 27",
+            "href": "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf#page=27"
+          },
+          {
+            "file": "1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf",
+            "page": 28,
+            "label": "1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf — p. 28",
+            "href": "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf#page=28"
+          },
+          {
+            "file": "2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf",
+            "page": 8,
+            "label": "2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf — p. 8",
+            "href": "sources/revision_v4/2_Annales_3e_semaine_de_devlp_emb_LS_Enonce_et_correction_1_6e7bec8576.pdf#page=8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 31,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Faux : il évolue : c’est la formation du placenta diffus",
+      "C": "Faux : jamais de contact entre le sang embryonnaire et maternel"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 32,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "Faux : elles sont multipotentes (les cellules perdent leur totipotence au stade morula)"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 33,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : le tube neural commence à se fermer à J21, c’est le neuropore antérieur qui persiste puis se ferme à J24 (J26 = neuropore postérieur).",
+      "B": "Faux : le devenir des cellules des CN est lié à leur position céphalo-caudal SAUF pour les mélanocytes."
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 34,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux dès les villosités primaires"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 35,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux le nœud de Hensen produit les antagonistes mais la ligne est déjà formée indépendamment.",
+      "C": "Faux en avant et en arrière en remplaçant l’hypoblaste",
+      "E": "Faux d’invagination et pas d’évagination"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 36,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Vrai J17 milieu de S3"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 37,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux entièrement"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 38,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : Il a comme origine la lame choriale",
+      "D": "Faux : La vasculogenèse débute dans la lame vitelline (à J18)",
+      "E": "Vrai : Barrière placentaire = endothélium vaisseau villositaires + mésenchyme intra-villositaire+ une couche de CT+ une couche de SCT"
+    }
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 39,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Vrai  pour processus chordal, chorde ou cordo mésoblaste",
+      "D": "Faux : La plaque chordale précède la formation de la chorde",
+      "E": "Faux : Les siamois se forme suite au dédoublement INCOMPLET de la LP. En cas de dédoublement complet, on aura une grossesse gémellaire monochoriale monoamniotique"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 1,
+    "field": "explanations",
+    "old": {
+      "D": "Faux au contraire elle s’étend et protège l’embryon avec le liquide amniotique"
+    },
+    "new": {
+      "D": "Faux au contraire elle s’étend et protège l’embryon avec le liquide amniotique",
+      "B": "Annotation du corrigé : « il va même disparaitre ».",
+      "C": "Annotation du corrigé : « qui sera forme de 3 parties : intestin antérieur, moyen et postérieur ».",
+      "E": "Dans le corrigé, « pour se poursuivre » est barré. Annotation ajoutée : « en même temps »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 2,
+    "field": "explanations",
+    "old": {
+      "B": "Faux effet ventralisant",
+      "C": "Faux la notochorde secrète Shh (entre autre) pour différencier les somites qui participeront à la formation des vertèbres",
+      "E": "Faux gastrulation en S3 J14 et neurulation à J18"
+    },
+    "new": {
+      "B": "Faux effet ventralisant",
+      "C": "Faux la notochorde secrète Shh (entre autre) pour différencier les somites qui participeront à la formation des vertèbres",
+      "E": "Faux gastrulation en S3 J14 et neurulation à J18",
+      "A": "Annotation du corrigé : « (à J24) (Jà 26) »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 3,
+    "field": "explanations",
+    "old": {
+      "B": "Faux",
+      "C": "Faux villosités tertiaires J18-21, disque tridermique des J16 avec la gastrulation",
+      "D": "VRAI : car la chorde dorsale (J18-21) influence la formation de la plaque neurale (des J18)"
+    },
+    "new": {
+      "B": "Faux",
+      "C": "Faux villosités tertiaires J18-21, disque tridermique des J16 avec la gastrulation",
+      "D": "VRAI : car la chorde dorsale (J18-21) influence la formation de la plaque neurale (des J18)",
+      "A": "Annotation du corrigé : « à partir de J11, jour de la formation du lécithocèle secondaire »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 4,
+    "field": "explanations",
+    "old": {
+      "C": "Faux",
+      "D": "Faux paires de somites (sclérotome), elles sont décalées d’une hémi-somite",
+      "E": "Faux fin de S5"
+    },
+    "new": {
+      "C": "Faux",
+      "D": "Faux paires de somites (sclérotome), elles sont décalées d’une hémi-somite",
+      "E": "Faux fin de S5",
+      "B": "Annotation du corrigé : « le sclérotome, le dermatome et le myotome »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 11,
+    "field": "explanations",
+    "old": {
+      "C": "Faux : les cellules germinales primordiales sont d’origine épiblastique",
+      "D": "Faux S6",
+      "E": "HP"
+    },
+    "new": {
+      "C": "Faux : les cellules germinales primordiales sont d’origine épiblastique",
+      "D": "Faux S6",
+      "E": "HP",
+      "A": "Dans le corrigé, « 3ème » est barré. Annotation ajoutée : « 2e »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 12,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « vertèbres » est barré. Annotation ajoutée : « somites ».",
+      "E": "Dans le corrigé, « une anomalie digestive pathologique : un omphalocèle » est barré. Annotation ajoutée : « saillie cardiaque »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 13,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « S2 ».",
+      "B": "Annotation du corrigé : « S4 à S7 ».",
+      "D": "Annotation du corrigé : « Fin de S3 J19 ».",
+      "E": "Annotation du corrigé : « 5e semaine »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 16,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Annotation du corrigé : « Item ambigu, la vasculogenèse débute dans la lame choriale et vitelline (en fin de S3, en même temps mais « la vasculogenèse débute au sein des vaisseaux » ne veut rien dire »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 17,
+    "field": "explanations",
+    "old": {
+      "A": "Vrai A J18, on peut observer en même temps la plaque neurale (formation a J18) et la chorde dorsale (formation entre J18 et J22).",
+      "B": "Faux Le cœur a 5 cavités le reste est vrai : Le neuropore antérieur se ferme à J24 (milieu de S4) alors que les 4 cavités du cœur s’observent J22.",
+      "C": "Faux car à J17 DET et J18 Wet P"
+    },
+    "new": {
+      "A": "Vrai A J18, on peut observer en même temps la plaque neurale (formation a J18) et la chorde dorsale (formation entre J18 et J22).",
+      "B": "Faux Le cœur a 5 cavités le reste est vrai : Le neuropore antérieur se ferme à J24 (milieu de S4) alors que les 4 cavités du cœur s’observent J22.",
+      "C": "Faux car à J17 DET et J18 Wet P",
+      "D": "Annotation du corrigé : « (J17) (à partir de J8 jusqu’à la naissance). »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 18,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Dans le corrigé, « transversale » est barré. Annotation ajoutée : « Crâniale et caudale ».",
+      "C": "Dans le corrigé, « au cœlome externe » est barré. Annotation ajoutée : « Cavité amniotique »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 19,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « transversale » est barré. Annotation ajoutée : « crâniale ».",
+      "E": "Dans le corrigé, « ectoblastique » est barré. Annotation ajoutée : « Entoblastique »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 20,
+    "field": "explanations",
+    "old": {
+      "A": "Faux : La neurulation primaire débute au cours de la 3ème semaine, à J18."
+    },
+    "new": {
+      "A": "Faux : La neurulation primaire débute au cours de la 3ème semaine, à J18.",
+      "B": "Annotation du corrigé : « Pas uniquement Shh initie également la différenciation de l’ectoblaste en neurectoblaste ».",
+      "D": "Dans le corrigé, « uniquement » est barré. Annotation ajoutée : « Cartilage, mélanocyte, odontoblastes, septum aortico-pulmonaire, médullosurrénale »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 21,
+    "field": "explanations",
+    "old": {
+      "B": "Faux se ferme à J26",
+      "D": "Faux pro mésen rhomb (PMR comme les nomes pour Personne à Mobilité Réduite…. moyen Mnt)"
+    },
+    "new": {
+      "B": "Faux se ferme à J26",
+      "D": "Faux pro mésen rhomb (PMR comme les nomes pour Personne à Mobilité Réduite…. moyen Mnt)",
+      "E": "Dans le corrigé, « sensitifs » est barré. Annotation ajoutée : « Moteurs »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 22,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "Dans le corrigé, « parfaitement clos » est barré. Annotation ajoutée : « Reste ouvert au niveau ventral »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 23,
+    "field": "explanations",
+    "old": {
+      "A": "HP"
+    },
+    "new": {
+      "A": "HP",
+      "B": "Annotation du corrigé : « 4 hemi-somites participent a la formation d’une vertebre ».",
+      "C": "Dans le corrigé, « Les crêtes neurales » est barré. Annotation ajoutée : « C’est le sclérotome ».",
+      "D": "Annotation du corrigé : « Les nerfs spinaux émergent au-dessus de la vertèbre donc cote rostral »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 24,
+    "field": "explanations",
+    "old": {
+      "B": "Faux : Dans le sens cranio-caudal : bulbe artériel, ventricule primitif, oreillette primitive, sinus veineux"
+    },
+    "new": {
+      "B": "Faux : Dans le sens cranio-caudal : bulbe artériel, ventricule primitif, oreillette primitive, sinus veineux",
+      "C": "Dans le corrigé, « directement » est barré. Annotation ajoutée : « dans les veines cardinales communes puis ».",
+      "E": "Dans le corrigé, « artères » est barré. Annotation ajoutée : « veines »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 25,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "B": "Annotation du corrigé : « paires de ».",
+      "D": "Dans le corrigé, « après la 5ème semaine » est barré. Annotation ajoutée : « à J25 milieu de S4 ».",
+      "E": "Annotation du corrigé : « C’est le sclérotome »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 26,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "Dans le corrigé, « totalement fermée » est barré. Annotation ajoutée : « Encore ouverte »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 27,
+    "field": "explanations",
+    "old": {
+      "B": "Faux la gouttière digestive",
+      "C": "faux c’est le pédicule embryonnaire"
+    },
+    "new": {
+      "B": "Faux la gouttière digestive",
+      "C": "faux c’est le pédicule embryonnaire",
+      "A": "Annotation du corrigé : « on voit que le lécithocèle II est encore bien développé »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 30,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Dans le corrigé, « dorsale » est barré. Annotation ajoutée : « Ventrale ».",
+      "E": "Dans le corrigé, « viscéral » est barré. Annotation ajoutée : « pariétal »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 32,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Dans le corrigé, « intermédiaire » est barré. Annotation ajoutée : « Para-axial et latéral ».",
+      "E": "Dans le corrigé, « la 4e » est barré. Annotation ajoutée : « 3e »."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 33,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : la ligne primitive joue un rôle central dans l’asymétrie bilatérale des organes du tronc par distribution asymétrique des morphogènes.",
+      "C": "Faux monoC et monoA"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 34,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : la membrane anale se forme au-delà de la 4e semaine après la formation du spetum uro-rectal, alors que la délimitation à lieu pendant la 4e semaine",
+      "D": "Faux : il s’agit d’une évagination (le reste de l’item est vrai)"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 35,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "E": "FAUX : Les cellules pigmentaires ont pour origine les cellules des crêtes neurales ayant migré entre l’ectoblaste et le dermomyotome."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 36,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "D": "Faux : le colon sigmoïde fait partie de l’intestin primitif postérieur."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 37,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux médio ventrale",
+      "B": "Faux de deux bloc la partie crâniale du bloc caudale et la partie caudale du bloc crânial",
+      "E": "Faux shh , noggin, chrodin, wnt…."
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 38,
+    "field": "explanations",
+    "old": {
+      "E": "vrai"
+    },
+    "new": {
+      "E": "vrai",
+      "A": "Faux si on parle du début de la fermeture on est à J21 début S4 avec la fermeture de la gouttière de manière bidirectionnelle. Si on indique le TN se ferme ou est fermé à J24 en avant et J26 en arrière c’est vrai"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 39,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux Crêtes neurales aussi"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 40,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux. Le mésoblaste latéral SE CLIVE il ne se segmente pas",
+      "D": "Vrai. La neurulation commence à J18 avec la plaque neurale qui est un épaississement d’une partie de l’ectoblaste sous l’effet inducteur de la chorde par Shh.",
+      "E": "Faux. Le devenir des métamères est contrôlé par les gènes homéotiques !"
+    }
+  },
+  {
+    "bank": "embryo.ann.s4",
+    "id": 41,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : La mise en place du chorion a lieu pendant la 2ème semaine développement embryonnaire tandis que la délimitation a lieu lors de la 4ème semaine",
+      "C": "Faux. Le sac vitellin se forme suite aux plicatures TRANSVERSALES et non la plicature crâniale"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 15,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Les précurseurs cardiaques proviennent du mésoblaste latéral"
+      },
+      {
+        "id": "B",
+        "text": "Les îlots sanguino-formateurs apparaissent dans le mésoblaste splanchnopleural de la vésicule vitelline."
+      },
+      {
+        "id": "C",
+        "text": "l s deux artères ombilicales s’abouchent aux aortes dorsales primitives."
+      },
+      {
+        "id": "D",
+        "text": "La fusion des parties caudales des aortes dorsales primitives se réalise en dessous du dixième métamère pour donner naissance à l’aorte commune."
+      },
+      {
+        "id": "E",
+        "text": "Les veines intra-embryonnaires se mettent en place avant les artères intra-embryonnaires."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Les précurseurs cardiaques proviennent du mésoblaste latéral"
+      },
+      {
+        "id": "B",
+        "text": "Les îlots sanguino-formateurs apparaissent dans le mésoblaste splanchnopleural de la vésicule vitelline."
+      },
+      {
+        "id": "C",
+        "text": "Les deux artères ombilicales s’abouchent aux aortes dorsales primitives."
+      },
+      {
+        "id": "D",
+        "text": "La fusion des parties caudales des aortes dorsales primitives se réalise en dessous du dixième métamère pour donner naissance à l’aorte commune."
+      },
+      {
+        "id": "E",
+        "text": "Les veines intra-embryonnaires se mettent en place avant les artères intra-embryonnaires."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 18,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "La plicature ventrale va éloigner les tubes cardiaques."
+      },
+      {
+        "id": "B",
+        "text": "La gelée cardiaque joue un rôle dans la mise en place des valvules cardiaques."
+      },
+      {
+        "id": "C",
+        "text": "Les veines vitellines se jettent dans les veines cardinales communes."
+      },
+      {
+        "id": "D",
+        "text": "L’hémoglobine fœtale est plus efficace que l‘hémoglobine adulte."
+      },
+      {
+        "id": "E",
+        "text": "L’aorte est unique dans la partie céphalique de l’embryon RAS"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "La plicature ventrale va éloigner les tubes cardiaques."
+      },
+      {
+        "id": "B",
+        "text": "La gelée cardiaque joue un rôle dans la mise en place des valvules cardiaques."
+      },
+      {
+        "id": "C",
+        "text": "Les veines vitellines se jettent dans les veines cardinales communes."
+      },
+      {
+        "id": "D",
+        "text": "L’hémoglobine fœtale est plus efficace que l‘hémoglobine adulte."
+      },
+      {
+        "id": "E",
+        "text": "L’aorte est unique dans la partie céphalique de l’embryon"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 19,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "FAUX : ils ont pour origine la splanchnopleure"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 20,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : ce sont les îlots EXTRA-embryonnaires (=Wolff et Pander) qui sont angio ET sanguinoformateurs, les îlots INTRA-embryonnaires sont seulement angio-formateurs.",
+      "D": "Faux c’est dès le DEBUT de la 4ème SDE que les 2 circulations extraembryonnaires se connectent à la circulation intra-embryonnaire."
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 21,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : ils ont pour origine la splanchnopleure"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 22,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "A": "Faux : ce sont les îlots EXTRA-embryonnaires (=Wolff et Pander) qui sont angio ET sanguinoformateurs, les îlots INTRA-embryonnaires sont seulement angio-formateurs.",
+      "D": "Faux : c’est dès le DEBUT de la 4ème SDE que les 2 circulations extraembryonnaires se connectent à la circulation intra-embryonnaire."
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 23,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux les veines ombilicales ont un sang riche en O2"
+    }
+  },
+  {
+    "bank": "embryo.ann.coeur",
+    "id": 24,
+    "field": "explanations",
+    "old": {},
+    "new": {
+      "C": "Faux : Il a pour origine la SPLANCHNOPLEURE et non pas la somatopleure"
+    }
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 31,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 6,
+        "sourceEndPage": 7
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 7,
+        "sourceEndPage": 7
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 32,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 6,
+        "sourceEndPage": 7
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 7,
+        "sourceEndPage": 7
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 41,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 8,
+        "sourceEndPage": 9
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 9,
+        "sourceEndPage": 9
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 42,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 8,
+        "sourceEndPage": 9
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 9,
+        "sourceEndPage": 9
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 28,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Les cellules qui le constituent ont le même génome que celui de l’embryon."
+      },
+      {
+        "id": "B",
+        "text": "Elles sont toutes amenées à régresser à partir de la 4ème semaine de développement"
+      },
+      {
+        "id": "C",
+        "text": "Elles ont un développement relatif maximal à la fin de la 3ème semaine."
+      },
+      {
+        "id": "D",
+        "text": "Le cœlome extra-embryonnaire apparait en même temps que le lécithocèle primaire."
+      },
+      {
+        "id": "E",
+        "text": "Les 3 lames choriales, amniotiques et vitellines, sont constituées de mésenchyme extra-embryonnaire originaire du magma réticulé, qui a régressé partiellement par apoptose. Les questions 29 et 30 se rapportent au schéma ci-dessous :"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Les cellules qui le constituent ont le même génome que celui de l’embryon."
+      },
+      {
+        "id": "B",
+        "text": "Elles sont toutes amenées à régresser à partir de la 4ème semaine de développement"
+      },
+      {
+        "id": "C",
+        "text": "Elles ont un développement relatif maximal à la fin de la 3ème semaine."
+      },
+      {
+        "id": "D",
+        "text": "Le cœlome extra-embryonnaire apparait en même temps que le lécithocèle primaire."
+      },
+      {
+        "id": "E",
+        "text": "Les 3 lames choriales, amniotiques et vitellines, sont constituées de mésenchyme extra-embryonnaire originaire du magma réticulé, qui a régressé partiellement par apoptose."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 34,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Le mésonéphros s’est constitué vers J24 avec une trentaine de paires de tubes mésonéphrotiques à la fin de la semaine."
+      },
+      {
+        "id": "C",
+        "text": "L’éminence caudale apparait sous la forme d’une condensation mésoblastique qui évoluera en tissus nerveux."
+      },
+      {
+        "id": "D",
+        "text": "La première ébauche de l’appareil respiratoire apparait à partir de l’intestin primitif antérieur"
+      },
+      {
+        "id": "E",
+        "text": "L’ébauche hépatique d’origine entoblastique se développe à partir d’intestin moyen Questions 35 et 36 : Ces questions se rapportent au schéma suivant"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Le mésonéphros s’est constitué vers J24 avec une trentaine de paires de tubes mésonéphrotiques à la fin de la semaine."
+      },
+      {
+        "id": "C",
+        "text": "L’éminence caudale apparait sous la forme d’une condensation mésoblastique qui évoluera en tissus nerveux."
+      },
+      {
+        "id": "D",
+        "text": "La première ébauche de l’appareil respiratoire apparait à partir de l’intestin primitif antérieur"
+      },
+      {
+        "id": "E",
+        "text": "L’ébauche hépatique d’origine entoblastique se développe à partir d’intestin moyen"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 43,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Une anomalie fonctionnelle des cellules du nœud de Hensen peut entrainer une malposition des organes."
+      },
+      {
+        "id": "B",
+        "text": "Des anomalies de la gastrulation entrainent souvent des dysplasies caudales."
+      },
+      {
+        "id": "C",
+        "text": "Des mutations concernant des gènes homéotiques ont généralement peu d’impact sur le développement"
+      },
+      {
+        "id": "D",
+        "text": "Dans les formes sévères de Spina Bifida, la moelle épinière s’ouvre à la surface du corps. Questions 44 et 45 ; Les questions se rapportent au schéma suivant"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Une anomalie fonctionnelle des cellules du nœud de Hensen peut entrainer une malposition des organes."
+      },
+      {
+        "id": "B",
+        "text": "Des anomalies de la gastrulation entrainent souvent des dysplasies caudales."
+      },
+      {
+        "id": "C",
+        "text": "Des mutations concernant des gènes homéotiques ont généralement peu d’impact sur le développement"
+      },
+      {
+        "id": "D",
+        "text": "Dans les formes sévères de Spina Bifida, la moelle épinière s’ouvre à la surface du corps."
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 47,
+    "field": "reviewNotes",
+    "old": [
+      {
+        "bank": "embryo.col.s4",
+        "id": 47,
+        "items": [
+          "B"
+        ],
+        "kind": "source_conflict",
+        "text": "Le sujet et le corrigé écrivent tous deux « la totalité de l’intestin grêle dérive de l’intestin grêle », puis le corrigé ajoute « Faux moyen ». La phrase est tautologique et ne permet pas de retrouver sans interprétation l’item réellement voulu. La ronéo décrit une contribution de l’intestin antérieur et de l’intestin moyen à l’intestin grêle. Aucun mot n’est remplacé dans l’énoncé par supposition.",
+        "refs": [
+          {
+            "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+            "page": 8,
+            "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q47, p. 8",
+            "href": "sources/revision_v4/7_Colle_en_chambre_S4_LS_Enonce_312bcc17bf.pdf#page=8"
+          },
+          {
+            "file": "7. Colle en chambre S4 LS correction.pdf",
+            "page": 9,
+            "label": "7. Colle en chambre S4 LS correction.pdf — Q47, p. 9",
+            "href": "sources/revision_v4/7_Colle_en_chambre_S4_LS_correction_aae35ab638.pdf#page=9"
+          },
+          {
+            "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+            "page": 34,
+            "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 34",
+            "href": "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf#page=34"
+          },
+          {
+            "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+            "page": 35,
+            "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 35",
+            "href": "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf#page=35"
+          }
+        ],
+        "sourceVerdict": "Clé de référence : A ; B : Faux",
+        "sourceVerdictDetails": {
+          "answer": "A",
+          "items": {
+            "B": "Faux"
+          },
+          "explanations": {
+            "B": "Faux moyen"
+          }
+        },
+        "noteId": "embryo-ue5-assist-028",
+        "reviewedItemText": {
+          "B": "La totalité de l'intestin grêle dérive de l’intestin grêle"
+        }
+      }
+    ],
+    "new": [
+      {
+        "bank": "embryo.col.s4",
+        "id": 47,
+        "items": [
+          "B"
+        ],
+        "kind": "source_conflict",
+        "text": "Le sujet et le corrigé écrivent tous deux « la totalité de l’intestin grêle dérive de l’intestin grêle », puis le corrigé ajoute « Faux moyen ». La phrase est tautologique et ne permet pas de retrouver sans interprétation l’item réellement voulu. La ronéo décrit une contribution de l’intestin antérieur et de l’intestin moyen à l’intestin grêle. Aucun mot n’est remplacé dans l’énoncé par supposition.",
+        "refs": [
+          {
+            "file": "7. Colle en chambre S4 LS Enoncé.pdf",
+            "page": 8,
+            "label": "7. Colle en chambre S4 LS Enoncé.pdf — Q47, p. 8",
+            "href": "sources/revision_v4/7_Colle_en_chambre_S4_LS_Enonce_312bcc17bf.pdf#page=8"
+          },
+          {
+            "file": "7. Colle en chambre S4 LS correction.pdf",
+            "page": 9,
+            "label": "7. Colle en chambre S4 LS correction.pdf — Q47, p. 9",
+            "href": "sources/revision_v4/7_Colle_en_chambre_S4_LS_correction_aae35ab638.pdf#page=9"
+          },
+          {
+            "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+            "page": 34,
+            "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 34",
+            "href": "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf#page=34"
+          },
+          {
+            "file": "1.2- Ronéo CG corrigées S4 du DE LS.pdf",
+            "page": 35,
+            "label": "1.2- Ronéo CG corrigées S4 du DE LS.pdf — p. 35",
+            "href": "sources/revision_v4/1_2_Roneo_CG_corrigees_S4_du_DE_LS_35a5fce5f2.pdf#page=35"
+          }
+        ],
+        "sourceVerdict": "Clé de référence : A ; B : Faux",
+        "sourceVerdictDetails": {
+          "answer": "A",
+          "items": {
+            "B": "Faux"
+          },
+          "explanations": {
+            "B": "Faux moyen"
+          }
+        },
+        "noteId": "embryo-ue5-assist-028",
+        "reviewedItemText": {
+          "B": "La totalité de l'intestin grêle dérive de l’intestin grêle"
+        }
+      },
+      {
+        "bank": "embryo.col.s4",
+        "id": 47,
+        "items": [
+          "A"
+        ],
+        "kind": "source_conflict",
+        "text": "Le sujet indique J24 dans A, tandis que la phrase recopiée dans le corrigé indique J25 puis ajoute « Vrai c’est J24 ». Le site conserve J24, conformément au sujet non corrigé. Consulter les deux copies originales pour voir cette différence.",
+        "refs": [
+          {
+            "file": "7. Colle en chambre S4 LS correction.pdf",
+            "page": 9,
+            "label": "Corrigé original — p. 9",
+            "href": "sources/revision_v4/7_Colle_en_chambre_S4_LS_correction_aae35ab638.pdf#page=9"
+          }
+        ],
+        "noteId": "embryo-v6-embryo.col.s4-47-2"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 48,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Des substances toxiques ainsi que des agents inducteurs naturels, peuvent avoir des effets tératogènes"
+      },
+      {
+        "id": "B",
+        "text": "La sirénomélie est due à une anomalie de fermeture du neuropore pos térieur"
+      },
+      {
+        "id": "C",
+        "text": "Une anomalie ciliaire touchant les cellules du nœud de H ns n peut avoir pour conséquence une malposition des organes"
+      },
+      {
+        "id": "D",
+        "text": "Une malposition des gros vaisseaux du cœur peut être due à un défaut de migration des crêtes neurales"
+      },
+      {
+        "id": "E",
+        "text": "Des anomalies concernant la ligne primitive entraînent des pathologies qui obéissent toujours à la loi du « tout ou rien »"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Des substances toxiques ainsi que des agents inducteurs naturels, peuvent avoir des effets tératogènes"
+      },
+      {
+        "id": "B",
+        "text": "La sirénomélie est due à une anomalie de fermeture du neuropore pos térieur"
+      },
+      {
+        "id": "C",
+        "text": "Une anomalie ciliaire touchant les cellules du nœud de Hensen peut avoir pour conséquence une malposition des organes"
+      },
+      {
+        "id": "D",
+        "text": "Une malposition des gros vaisseaux du cœur peut être due à un défaut de migration des crêtes neurales"
+      },
+      {
+        "id": "E",
+        "text": "Des anomalies concernant la ligne primitive entraînent des pathologies qui obéissent toujours à la loi du « tout ou rien »"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "field": "images",
+    "old": [
+      "static/emb_col_s4_055_1.png"
+    ],
+    "new": []
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Il s’agit d'une coupe transversale correspondant au début de la 4°\" semaine"
+      },
+      {
+        "id": "B",
+        "text": "1 représente le tube neural"
+      },
+      {
+        "id": "C",
+        "text": "2 représente la chorde"
+      },
+      {
+        "id": "D",
+        "text": "3 représente la vertèbre qui dérive du sclérotome"
+      },
+      {
+        "id": "E",
+        "text": "4 représente l'intestin primitif au niveau du canal vitellin"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Il s’agit d'une coupe transversale correspondant au début de la 4e semaine"
+      },
+      {
+        "id": "B",
+        "text": "1 représente le tube neural"
+      },
+      {
+        "id": "C",
+        "text": "2 représente la chorde"
+      },
+      {
+        "id": "D",
+        "text": "3 représente la vertèbre qui dérive du sclérotome"
+      },
+      {
+        "id": "E",
+        "text": "4 représente l'intestin primitif au niveau du canal vitellin"
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "field": "sharedContexts",
+    "old": null,
+    "new": [
+      {
+        "id": "v6-shared-embryo.col.s4-54",
+        "text": "Questions 54 et 55 : à propos du schéma suivant.",
+        "images": [
+          "static/emb_col_s4_055_1.png"
+        ],
+        "sourceFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "sourceStartPage": 9,
+        "sourceEndPage": 9
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "field": "warning",
+    "old": "Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "field": "images",
+    "old": [
+      "static/emb_col_s4_055_1.png"
+    ],
+    "new": []
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "field": "sharedContexts",
+    "old": null,
+    "new": [
+      {
+        "id": "v6-shared-embryo.col.s4-54",
+        "text": "Questions 54 et 55 : à propos du schéma suivant.",
+        "images": [
+          "static/emb_col_s4_055_1.png"
+        ],
+        "sourceFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "sourceStartPage": 9,
+        "sourceEndPage": 9
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "field": "warning",
+    "old": "Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "field": "images",
+    "old": [
+      "static/emb_col_s4_069_1.png"
+    ],
+    "new": []
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "field": "sharedContexts",
+    "old": null,
+    "new": [
+      {
+        "id": "v6-shared-embryo.col.s4-68",
+        "text": "Questions 68 et 69 se rapportant au schéma suivant.",
+        "images": [
+          "static/emb_col_s4_069_1.png"
+        ],
+        "sourceFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "sourceStartPage": 12,
+        "sourceEndPage": 12
+      }
+    ]
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "field": "warning",
+    "old": "Consigne non récupérable automatiquement. Voir la page source.",
+    "new": ""
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 69,
+    "field": "images",
+    "old": [
+      "static/emb_col_s4_069_1.png"
+    ],
+    "new": []
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 69,
+    "field": "sharedContexts",
+    "old": null,
+    "new": [
+      {
+        "id": "v6-shared-embryo.col.s4-68",
+        "text": "Questions 68 et 69 se rapportant au schéma suivant.",
+        "images": [
+          "static/emb_col_s4_069_1.png"
+        ],
+        "sourceFile": "7. Colle en chambre S4 LS Enoncé.pdf",
+        "sourceStartPage": 12,
+        "sourceEndPage": 12
+      }
+    ]
+  }
+]

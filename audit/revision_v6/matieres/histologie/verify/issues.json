@@ -1,0 +1,477 @@
+[
+  {
+    "id": "histo-verify-migration-1",
+    "bank": "histo.ann.tech",
+    "questionId": 1,
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Le texte annonçait à tort un effacement des réponses.",
+    "resolution": "Choix conservés et remappés ; validation retirée seulement pour le QCM concerné dans les deux profils, selon la décision de l’intégrateur."
+  },
+  {
+    "id": "histo-verify-migration-5",
+    "bank": "histo.ann.tech",
+    "questionId": 5,
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Le texte annonçait à tort un effacement des réponses.",
+    "resolution": "Choix conservés et remappés ; validation retirée seulement pour le QCM concerné dans les deux profils, selon la décision de l’intégrateur."
+  },
+  {
+    "id": "histo-verify-migration-6",
+    "bank": "histo.ann.tech",
+    "questionId": 6,
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Le texte annonçait à tort un effacement des réponses.",
+    "resolution": "Choix conservés et remappés ; validation retirée seulement pour le QCM concerné dans les deux profils, selon la décision de l’intégrateur."
+  },
+  {
+    "id": "histo-verify-migration-7",
+    "bank": "histo.ann.tech",
+    "questionId": 7,
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Le texte annonçait à tort un effacement des réponses.",
+    "resolution": "Choix conservés et remappés ; validation retirée seulement pour le QCM concerné dans les deux profils, selon la décision de l’intégrateur."
+  },
+  {
+    "id": "histo-verify-legacy-key-label-1",
+    "bank": "histo.ann.tech",
+    "questionId": 1,
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Une seconde remarque présentait la clé de l’ancienne édition comme encore conservée.",
+    "resolution": "Ancienne clé thématique ABD, lettres de l’édition à quatre propositions ; QCM complet hors note."
+  },
+  {
+    "id": "histo-verify-legacy-key-label-5",
+    "bank": "histo.ann.tech",
+    "questionId": 5,
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Une seconde remarque présentait la clé de l’ancienne édition comme encore conservée.",
+    "resolution": "Clé complète retenue : BCD. Ancienne clé thématique : BC, édition à quatre propositions."
+  },
+  {
+    "id": "histo-v6-verify-tn3d",
+    "bank": "histo.ann.tn",
+    "questionId": 3,
+    "items": [
+      "D"
+    ],
+    "kind": "scientific_or_documentary_reservation",
+    "status": "flagged_in_correction",
+    "finding": "Le détail du corrigé et la ronéo TN3 p. 3 reprennent un rapport de dix cellules gliales pour un neurone. Cette généralisation est scientifiquement à nuancer : une étude de comptage du cerveau humain adulte rapporte des nombres globaux voisins de neurones et de cellules non neuronales. Ces dernières ne sont pas toutes gliales, et le rapport dépend de la région étudiée. Cela ne permet pas de transformer automatiquement D en Vrai, mais le rapport global 10:1 mérite une clarification. La clé officielle C reste conservée ; vérifier l’attendu et le périmètre de cette comparaison dans la ronéo et avec l’enseignant.",
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+        "page": 2,
+        "label": "Détail officiel, question 40, item D",
+        "href": "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf#page=2"
+      },
+      {
+        "file": "TN3 Ronéo 2026.pdf",
+        "page": 3,
+        "label": "Rapport repris dans la ronéo TN3",
+        "href": "sources/revision_v4/TN3_Roneo_2026_252c9211d9.pdf#page=3"
+      },
+      {
+        "label": "Azevedo et al., étude de comptage originale, 2009 (PMID 19226510)",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/19226510/"
+      }
+    ],
+    "resolution": "Remarque sourcée ajoutée après correction. Aucune clé réécrite."
+  },
+  {
+    "id": "histo-v6-verify-tn7c",
+    "bank": "histo.ann.tn",
+    "questionId": 7,
+    "items": [
+      "C"
+    ],
+    "kind": "scientific_or_documentary_reservation",
+    "status": "flagged_in_correction",
+    "finding": "Le corrigé imprime VRAI pour C, mais toute cette proposition, marqueur compris, est barrée sans légende : on ne peut pas en déduire un nouvel erratum. Le vocabulaire mérite aussi vérification : l’épaississement décrit correspond à la densité postsynaptique (ronéo TN2 p. 14), tandis que l’appareil épineux est une structure distincte, en continuité avec le réticulum endoplasmique lisse dans les reconstructions ultrastructurales. La clé CE de l’import et les marques originales sont conservées, sans inventer une clé E. Consulter la copie et demander la ronéo ou un erratum de mai 2019 pour clarifier C et la portée de la rature.",
+    "refs": [
+      {
+        "file": "annales TISSU NERVEUX 2018 2025 CORRECTION.pdf",
+        "page": 4,
+        "label": "Question 35, item C barré, VRAI imprimé",
+        "href": "sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf#page=4"
+      },
+      {
+        "file": "TN2 Ronéo 2026 Actualisée.pdf",
+        "page": 14,
+        "label": "Densité postsynaptique",
+        "href": "sources/revision_v4/TN2_Roneo_2026_Actualisee_660afa6a3c.pdf#page=14"
+      },
+      {
+        "label": "Spacek, reconstructions ultrastructurales originales, 1985 (PMID 3985372)",
+        "href": "https://pubmed.ncbi.nlm.nih.gov/3985372/"
+      }
+    ],
+    "resolution": "Remarque sourcée ajoutée après correction. Aucune clé réécrite."
+  },
+  {
+    "id": "histo-v6-verify-tc42d",
+    "bank": "histo.ann.tc",
+    "questionId": 42,
+    "items": [
+      "D"
+    ],
+    "kind": "scientific_or_documentary_reservation",
+    "status": "flagged_in_correction",
+    "finding": "La clé ABE et le verdict Faux de D concordent. En revanche, le détail de D dans la compilation p. 1078 affirme trop largement que le cartilage hyalin n’a pas de périchondre. La ronéo TC2 p. 13 distingue les exceptions : cartilage articulaire et fibrocartilage. L’exception ne doit pas être étendue à tout cartilage hyalin. Cette réserve concerne le détail de la copie complémentaire ; la clé officielle reste inchangée. Vérifier cette distinction dans la ronéo.",
+    "refs": [
+      {
+        "file": "Annales_compilation.pdf",
+        "page": 1078,
+        "label": "Question 25, détail D",
+        "href": "sources/Annales_compilation.pdf#page=1078"
+      },
+      {
+        "file": "TC2 2026 Partie 1 Actualisé.pdf",
+        "page": 13,
+        "label": "Périchondre : exceptions, page imprimée 26",
+        "href": "sources/revision_v4/TC2_2026_Partie_1_ACTUALISE_884b289825.pdf#page=13"
+      }
+    ],
+    "resolution": "Remarque sourcée ajoutée après correction. Aucune clé réécrite."
+  },
+  {
+    "id": "histo-verify-file-labels",
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Les libellés génériques « Sujet thématique » et « Corrigé thématique » remplaçaient les vrais noms de fichiers.",
+    "resolution": "Chaque panneau d’annale porte le nom du document réel. La page et le numéro original restent inchangés.",
+    "panels": 477,
+    "questionCount": 193
+  },
+  {
+    "id": "histo-verify-correction-primary-source",
+    "kind": "presentation",
+    "status": "repaired",
+    "finding": "Le premier panneau de correction était parfois un contexte venant du sujet, ce qui aurait donné un mauvais lien principal au menu du corrigé.",
+    "resolution": "Corrigé en premier, puis contextes du sujet, avec note explicite et vrais noms de fichiers.",
+    "affectedQuestions": [
+      {
+        "bank": "histo.ann.tn",
+        "id": 1,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 1,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 1
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 2,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 1,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 1
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 1
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 3,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 2,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 1
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 1
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 4,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 2,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 1
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 2
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 5,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 3,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 3
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 6,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 3,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 3
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 7,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 4,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 3
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 3
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 8,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 4,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 3
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 4
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 9,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 5,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 3
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 4
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 10,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 6,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 5
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 11,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 6,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 5
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 5
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 12,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 6,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 5
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 5
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tn",
+        "id": 13,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_CORRECTION_25bc666fc1.pdf",
+        "primaryCorrectionPage": 6,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+            "page": 5
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 5,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 2,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+            "page": 1408
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 6,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 3,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+            "page": 1408
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 7,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 3,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+            "page": 1312
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 8,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 4,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+            "page": 3
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 9,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 4,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+            "page": 3
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 10,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 5,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+            "page": 3
+          }
+        ]
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 21,
+        "primaryCorrectionFile": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_CORRECTION_580d7a5282.pdf",
+        "primaryCorrectionPage": 10,
+        "contextFiles": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+            "page": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "histo-verify-limitation-histo.ann.tc-10",
+    "bank": "histo.ann.tc",
+    "questionId": 10,
+    "kind": "official_arbitration_required",
+    "status": "unresolved_source_limit_withheld_from_score",
+    "finding": "Hors note : D n’a pas de verdict dans le corrigé thématique (« ??? non dit cette année »). La compilation donne D Faux et E Vrai, tandis que le corrigé thématique donne E Faux. Aucun erratum ne permet de choisir une clé unique.",
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "id": "histo-verify-limitation-histo.ann.tn-22",
+    "bank": "histo.ann.tn",
+    "questionId": 22,
+    "kind": "official_arbitration_required",
+    "status": "unresolved_source_limit_withheld_from_score",
+    "finding": "Hors note : pour E, le corrigé thématique imprime à la fois « Faux » puis « on peut dire Vrai … ??? ». La compilation retient E et la clé ACE ; l’ancienne clé thématique AC est conservée dans les remarques, sans arbitrage.",
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "id": "histo-verify-limitation-histo.ann.tech-1",
+    "bank": "histo.ann.tech",
+    "questionId": 1,
+    "kind": "official_arbitration_required",
+    "status": "unresolved_source_limit_withheld_from_score",
+    "finding": "Hors note : la version complète contient cinq propositions. Le corrigé thématique à quatre propositions accepte son D (nouveau E), tandis que la compilation de la même session refuse E. Sans erratum, aucune clé commune ne peut être retenue.",
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "id": "histo-verify-limitation-histo.ann.tech-6",
+    "bank": "histo.ann.tech",
+    "questionId": 6,
+    "kind": "official_arbitration_required",
+    "status": "unresolved_source_limit_withheld_from_score",
+    "finding": "Hors note : E (montage) est rétabli depuis le sujet complet. Le corrigé thématique donne A Faux ; la compilation de la même session donne A Vrai et la clé A. Cette opposition ne permet ni une clé hybride ni une réponse « tous faux ». Un erratum ou la ronéo de cette session est nécessaire.",
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  },
+  {
+    "id": "histo-verify-limitation-histo.ann.tech-7",
+    "bank": "histo.ann.tech",
+    "questionId": 7,
+    "kind": "official_arbitration_required",
+    "status": "unresolved_source_limit_withheld_from_score",
+    "finding": "Hors note : C (organes très fins) est rétabli, les anciens C et D deviennent D et E. Les deux corrigés de la même session s’opposent sur A et D, et la compilation classe E hors programme. Aucune clé fusionnée ne peut être retenue sans erratum.",
+    "resolution": "Question conservée et consultable, corrigés disponibles après validation, aucune note calculée."
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "bank": "histo.ann.tc",
+    "id": 5,
+    "old": "AC",
+    "candidate": "ACD",
+    "missingVerdicts": [],
+    "extraOptions": [
+      "D"
+    ]
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 10,
+    "old": "",
+    "candidate": "BC",
+    "missingVerdicts": [
+      "D"
+    ],
+    "extraOptions": []
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 42,
+    "old": "",
+    "candidate": "BE",
+    "missingVerdicts": [
+      "A"
+    ],
+    "extraOptions": []
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 9,
+    "old": "C",
+    "candidate": "ABDE",
+    "missingVerdicts": [],
+    "extraOptions": []
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 63,
+    "old": "",
+    "candidate": "CD",
+    "missingVerdicts": [
+      "A"
+    ],
+    "extraOptions": []
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 12,
+    "old": "ABDE",
+    "candidate": "ABE",
+    "missingVerdicts": [
+      "D"
+    ],
+    "extraOptions": []
+  }
+]

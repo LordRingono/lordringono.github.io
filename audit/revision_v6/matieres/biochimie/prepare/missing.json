@@ -1,0 +1,56 @@
+[
+  {
+    "kind": "clean_subject",
+    "source": "Annales_compilation.pdf",
+    "series": "2020–2021 PACES",
+    "sourceSet": "2020paces",
+    "sourceNumbers": [
+      19,
+      21,
+      22,
+      24
+    ],
+    "pages": [
+      362,
+      363,
+      364
+    ],
+    "reason": "Les pages du sujet comportent des annotations manuscrites. Les répétitions corrigées p.381, 383 et 384 ne fournissent pas une variante propre.",
+    "searched": [
+      "Sujet original de la compilation",
+      "Répétitions des énoncés dans le corrigé",
+      "Inventaire de tous les documents et six ronéos biochimiques disponibles"
+    ],
+    "needed": "Sujet non annoté de cette série, avec les figures des Q19, Q21–22 et Q24.",
+    "handling": "Pixels authentiques conservés, accessibles seulement après correction ; aucune suppression discrète des annotations."
+  },
+  {
+    "kind": "course_documents",
+    "needed": [
+      "Ronéo acides aminés et protéines",
+      "Ronéo enzymologie",
+      "Ronéos métabolisme glucidique, lipidique, cycle de Krebs et chaîne respiratoire"
+    ],
+    "reason": "Aucun de ces cours spécifiques ne figure parmi les six ronéos biochimiques fournies. Les divergences repérées sont confrontées aux sources primaires citées et aux calculs, sans changer la clé officielle.",
+    "searched": [
+      "documents_available.json",
+      "additional_documents.json",
+      "output/site/sources/revision_v4",
+      "Documents initiaux histo/biocell et biomol, hors contenu biochimie ciblé"
+    ]
+  },
+  {
+    "kind": "detail_not_explicit",
+    "sourceSet": "2020s1",
+    "sourceNumber": 20,
+    "item": "D",
+    "reason": "Le détail original dit seulement « Plus au programme ». La grille AE exclut D ; aucun verdict Vrai/Faux explicite ni justification de D n’est fourni.",
+    "handling": "Grille conservée, absence du détail explicite tracée ; aucune explication inventée."
+  },
+  {
+    "kind": "coverage_boundary",
+    "reason": "L’audit couvre les 14 séries de biochimie déjà représentées (2018–2019 à 2025–2026), pas une garantie d’existence de toutes les sessions depuis 2015. Aucune autre série complète non importée n’a été établie dans les documents rapprochés.",
+    "needed": "Sujets et corrigés supplémentaires pour toute année ou session non présente que l’utilisateur souhaite ajouter.",
+    "handling": "Aucun QCM antérieur à 2015 ajouté ; aucune nouvelle série générale créée silencieusement."
+  }
+]

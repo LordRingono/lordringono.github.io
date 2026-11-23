@@ -1,0 +1,227 @@
+[
+  {
+    "bank": "bio.cm6",
+    "id": 7,
+    "item": "D",
+    "current": "",
+    "extracted": "quand il est à\n    l’extérieur elles le remettent sur le feuillet interne",
+    "verdict": "Vrai",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.cm8",
+    "id": 6,
+    "item": "D",
+    "current": "cours gillet",
+    "extracted": "",
+    "verdict": "Vrai",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "item": "A",
+    "current": "une nécrose ou une apoptose / il faut de l'ATP",
+    "extracted": "une nécrose ou une apoptose",
+    "verdict": "Faux",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "item": "B",
+    "current": "une apoptose",
+    "extracted": "il faut de\n     l'ATP",
+    "verdict": "Faux",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "item": "C",
+    "current": "deux voies possible extrinsèque et intrinsèque",
+    "extracted": "une apoptose",
+    "verdict": "Faux",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.cm10",
+    "id": 1,
+    "item": "D",
+    "current": "",
+    "extracted": "deux voies possible extrinsèque et intrinsèque",
+    "verdict": "Faux",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 2,
+    "item": "C",
+    "current": "",
+    "extracted": "une protéine avec un seul domaine transmembranaire dont le N-terminal entre dans le RE sera\n       une protéine de type I, pas de type II. VRAI",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 4,
+    "item": "A",
+    "current": "",
+    "extracted": "La séquence de 20 acides aminés hydrophobes correspond vraisemblablement à un segment\n       transmembranaires. On voit que les charges + sont du côté N-ter, ce qui signifie que l’extrémité N-ter\n       se trouvera dans le cytosol. Il s’agit donc d’une protéine de type 2.",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 4,
+    "item": "B",
+    "current": "L’intérieur du noyau est équivalent au reste du cytosol mais est très différent de l’extérieur de la cellule. Annotation : c’est l’intérieur du RE qui est équivalent au milieu extracellulaire en terme de composition.",
+    "extracted": "L’intérieur du noyau est équivalent au reste du cytosol mais est très différent de l’extérieur de\n         la cellule.  c'est l'intérieur du RE qui est équivalent au milieu extracellulaire en terme de composition",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "item": "A",
+    "current": "Le peptide signal adressant au RE est un peptide hydrophobe d’environ 15 à 30 AA en position N-ter (annotation remplaçant 10 AA).",
+    "extracted": "le peptide signal adressant au RE est un peptide hydrophobe d’environ 10 AA en position N-ter",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "item": "C",
+    "current": "La peptidase clive seulement le peptide signal.",
+    "extracted": "c’est pour cela que les protéines adressées au RE ont une séquence plus courte que les protéines\n         cytosoliques. FAUX La peptidase clive seulement le peptide signal.",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm4",
+    "id": 7,
+    "item": "E",
+    "current": "Le récepteur de la SRP se lie au ribosome et le dirigera vers le canal protéique translocateur. C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse à se fixer sur la face cytosolique du RER.",
+    "extracted": "il va par la suite conduire la protéine et le ribosome au RE pour que la synthèse continue.\n       FAUX Le récepteur de la SRP se lie au ribosome et le dirigera vers la canal protéique translocateur.\n          C’est la SRP (Signal Recognaissance Particle) qui force le ribosome et la protéine en cours de synthèse\n        à se fixer sur la face cytosolique du RER.\n                                        Annales 2019-2020",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 1,
+    "item": "A",
+    "current": "",
+    "extracted": "jamais",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "item": "C",
+    "current": "Adressage aux lysosomes par le récepteur M6P qui repère le signal mannose-6-phosphate.",
+    "extracted": "Adressage aux lysosomes par le recepteur M6P qui repere le signal mannose-6-phosphate",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 4,
+    "item": "D",
+    "current": "Les protéines sécrétées de manière constitutive sont les sécrétions non régulées. Le tr [fin de l’annotation tronquée dans le PDF source].",
+    "extracted": "FAUX : Les protéines sécrétées de manière constitutive sont les sérétions non régulées. Le tr",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 9,
+    "item": "A",
+    "current": "Si on augmente le pH le récepteur pourra se lier mais pas se dissocier : accumulation du récepteur dans les endosomes précoces.",
+    "extracted": "Le récepteur au M6P se lie aux hydrolases acides vers un ph de 6.7 et lorsqu’ils arrivent dans\n        l’endosome  il s’en dissocie car le ph est plus bas (autour de 6). Dons si l’on abaisse le ph des\n        compartiments de façon permanente, le récepteur du M6P serait en permanence dissocié des\n         hydrolases. FAUX, Si on augmente le pH le récepteur pourra se lier mais pas se dissocier :\n                    accumulation du récepteur dans les endosomes précoces",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 10,
+    "item": "C",
+    "current": "Les 2 membranes de l’autophagosome et de la mitochondrie.",
+    "extracted": "Elle est séparée du cytosol par trois membranes : les membranes externes et internes de la\n   mitochondrie, et la membrane de l’autophagosome. Vrai, les 2 membranes de l'autophagosomes et de la mito",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm5",
+    "id": 15,
+    "item": "E",
+    "current": "4 membranes : 2 autophagophore et 2 mito.",
+    "extracted": "une mitochondrie possède une membrane interne et externe, si on rajoute la membrane de\n   l’autophagosome cela fait en tout 3 membranes  FAUX, 4 membranes : 2 autophagophore et 2 mito",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 5,
+    "item": "C",
+    "current": "C’est le gradient de RAN-GTP / RAN-GDP.",
+    "extracted": "FAUX C'est le gradient de RAN-GTP / RAN-GDP",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm7",
+    "id": 8,
+    "item": "B",
+    "current": "Gradient de RAN-GTP/GDP.",
+    "extracted": "Il s’agit du gradient de GTP Faux, gradient de RAN-GTP/GDP",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": 1,
+    "item": "B",
+    "current": "Pas de centromère et de télomères (verdict explicite de la compilation générale, p. 1038).",
+    "extracted": "pas de centromère et de télomères",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": 1,
+    "item": "D",
+    "current": "Les mitochondries ne font pas partie du système endomembranaire.",
+    "extracted": "Faux, les mitochondries ne font pas partie du système endomembranaire",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm8",
+    "id": 1,
+    "item": "E",
+    "current": "",
+    "extracted": "43. Concernant la mitochondrie :",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm9",
+    "id": 7,
+    "item": "B",
+    "current": "2ème [point de contrôle].",
+    "extracted": "La prophase se déroule juste après le passage du troisième point de contrôle du cycle cellulaire,\n         situé en fin de phase G2. Ce point vérifie que la réplication de l’ADN est complète et que le matériel\n        génétique n’a pas subi de dommages avant d’autoriser l’entrée en mitose. Faux, 2ème",
+    "verdict": "VRAI",
+    "exactIgnoringTypography": false
+  },
+  {
+    "bank": "bio.ann.cm2",
+    "id": 14,
+    "item": "E",
+    "current": "Il n’y a aucune fluorescence détectée lorsque l’on exprime la mtGFP1-10 et l’α’sinS11. Cela signifie que les deux protéines de fusion ne sont pas entrées en contact, donc que l’α-sin n’est pas",
+    "extracted": "Il n’y a aucune fluorescence détectée lorsque l’on exprime la mtGFP1-10 et l’α’sinS11. Cela\n            signifie que les deux protéines de fusion ne sont pas entrées en contact, donc que l’α-sin n’est pas\n         présente dans la matrice.",
+    "verdict": "FAUX",
+    "exactIgnoringTypography": false
+  }
+]

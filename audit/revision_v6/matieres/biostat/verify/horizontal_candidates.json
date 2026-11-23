@@ -1,0 +1,916 @@
+[
+  {
+    "src": "static/annales_ue3_2025-2026_s1_q01_correction_p495.webp",
+    "page": 495,
+    "field": "correctionImages",
+    "hits": [
+      "Une donnée quantitative est, par définition, toujours numérique. Elle résulte soit d'une mesure ",
+      "Pour une distribution théorique suivant une loi Normale, la courbe est symétrique par rapport ",
+      ", la médiane et ",
+      "FAUX : C'est l'inverse. La variance est un indicateur de dispersion qui reflète la variabilité des données. ",
+      " L'intervalle interquartile (IQR) est un indicateur de dispersion. Il permet d'apprécier la variabilité ",
+      ", aussi appelé erreur-type est estimé par "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2025-2026_s1_q04_correction_p497.webp",
+    "page": 497,
+    "field": "correctionImages",
+    "hits": [
+      " moyennes ne sont pas statistiquement différentes. On ",
+      " —> on est dans dans le cas d’une loi du Student. On est obligé de supposer "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2025-2026_s1_q06_correction_p499.webp",
+    "page": 499,
+    "field": "correctionImages",
+    "hits": [
+      " : Taux FP(AG) = 1 − 0,70 = 30% > Taux FP(AM) = 1 − 0,80 = 20%. L'anomalie gastroentérologique ",
+      " : VPP(AG) = 9/(9 + 270) = 9/279 ≈ 0,032 ; VPP(AM) = 8/(8 + 180) = 8/188 ≈ 0,043. VPP(AM) > ",
+      "FAUX : Les deux tests ont des profils complémentaires (AG : meilleure Se ; AM : meilleure Sp). Sans ",
+      "information supplémentaire sur l'objectif clinique, on ne peut pas en privilégier un. (Pour pouvoir "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2025-2026_s1_q09_correction_p501.webp",
+    "page": 501,
+    "field": "correctionImages",
+    "hits": [
+      ", pas plus ",
+      " : Diminuer α de 5% à 1% rend le seuil de rejet plus strict → il est plus difficile de rejeter H0 → plus ",
+      " → la prévalence observée est ",
+      "représentative de cette population → VPP et VPN sont calculables et interprétables dans ce contexte. ",
+      " du test, indépendantes de la "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2025-2026_s1_q12_correction_p503.webp",
+    "page": 503,
+    "field": "correctionImages",
+    "hits": [
+      " → définition même de ",
+      "FAUX : Dans une étude cas-témoins, la mesure d'association adéquate est l'Odds Ratio (OR), pas le ",
+      " : IC 95% = [0,73 ; 0,89] ne contient pas la valeur nulle (1 pour un OR) → l'effet est statistiquement "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2024-2025_s1_q04_correction_p515.webp",
+    "page": 515,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : on nous dit que l’effectif total est de 36 sujets et a été équitablement réparti entre les 2 groupes. ",
+      " : pour pouvoir effecteur un test de Student, on doit supposer que les variables suivent une loi ",
+      ": les deux variables doivent être homoscédastiques, c’est-à-dire que les populations doivent avoir "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2024-2025_s1_q07_correction_p517.webp",
+    "page": 517,
+    "field": "correctionImages",
+    "hits": [
+      ": on compare ici le même échantillon issu de la même population donc les données sont "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2024-2025_s1_q10_correction_p519.webp",
+    "page": 519,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : Comme le suivi s’arrête lors du diagnostic de métastases, certains patients parmi les 100 ont ",
+      " Le risque de survenue de métastases durant les 10 ans correspond à l’incidence, ce qu’une étude ",
+      "FAUX : L’étude se base sur 100 patients sélectionnés indemnes, ils ne sont pas représentatifs de la ",
+      "population générale. De plus, l’étude de cohorte ne permet pas de calculer une prévalence, c’est une ",
+      " L’incidence de métastase est plus élevée chez les hommes que chez les femmes (l’ordre des ",
+      "mots dans la phrase est important, on parle du RR homme sur femme donc le risque des homme sur "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2024-2025_s2_q04_correction_p529.webp",
+    "page": 529,
+    "field": "correctionImages",
+    "hits": [
+      "On sélectionne un groupe de patientes (toutes celles opérées entre deux dates), on collecte des ",
+      "facteurs de risque puis on suit l’issue (succès/échec) c’est bien une étude de cohorte car on a des ",
+      "Dans une cohorte on peut calculer directement les risques et donc le risque relatif donc oui on ",
+      "L’OR est calculable pour toute étude avec tableau 2×2 (cohorte ou cas témoin) ; il est ",
+      "FAUX : Archi faux on compare toujours l’odds ratio à 1 car c’est un rapport (info bonus c’est log (OR) ",
+      "OR = odds2/odds1 = 0,5/0,142857 = 3.5 donc l’odds d’échec de résection est 3.5 plus élevé (!!! ce n’est ",
+      "On souhaite tester si le risque d’échec de résection est statistiquement différent entre les deux catégories de ",
+      "taille de fibrome. On considère que les conditions de validité du test statistique sont remplies. Plusieurs résultats "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2024-2025_s2_q05_correction_p529.webp",
+    "page": 529,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : Les groupes sont indépendants (chaque patiente appartient à un seul groupe de taille), donc ",
+      "FAUX : Faux sans faire le calcul car il faut utiliser un écart type commun au 2 groupes (le dénominateur) ",
+      "car on doit estimer que la distribution des 2 groupes est la même mais ici on voit bien qu’il y a une ",
+      " Avec la formule appropriée soit la numéro 2 (sous l’hypothèse H0 avec une variance commune) "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2024-2025_s2_q07_correction_p531.webp",
+    "page": 531,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : C’est la VPP là et justement elle dépend beaucoup de la prévalence c’est seulement les ",
+      "sensibilités, spécificités et les RV qui sont indépendants de la prévalence car ce sont des valeurs dites "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s1_q04_correction_p543.webp",
+    "page": 543,
+    "field": "correctionImages",
+    "hits": [
+      ", on effectue un test de comparaison d’une moyenne estimée à une moyenne de référence. La "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s1_q05_correction_p543.webp",
+    "page": 543,
+    "field": "correctionImages",
+    "hits": [
+      " on regarde dans la table de Student à 15 ddl dans quel intervalle peut être encadrée la valeur "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s1_q08_correction_p545.webp",
+    "page": 545,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : en effet le test est plus sensible que spécifique, ainsi, on est plus surs de l’absence de la maladie ",
+      "Odds = Proba / 1 – Proba = 0,1 / 0,9 = 1/9. L’odds de maladie post test est odds x RV+ = 1/9 x 3,2 "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s1_q11_correction_p547.webp",
+    "page": 547,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : dans une étude de cohorte, on commence toujours avec des individus exempts de la maladie ",
+      "une fois un individu atteint du critère étudié, celui-ci n’est plus utilisé pour le calcul de l’incidence ",
+      " : Lors de la comparaison d'une incidence estimée avec une incidence théorique, on ne relèvera ",
+      "pas de terme d'incertitude sur l'incidence théorique parce qu'elle n'est pas sujette aux fluctuations. En ",
+      "revanche, on aura 1 terme d'incertitude sur l'incidence estimée parce que la valeur pourrait différer ",
+      "d'un échantillon à un autre. Au total, l'erreur-type du test ne tiendra compte que d'un seul terme "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q02_original_p550.webp",
+    "page": 550,
+    "field": "originalImages",
+    "hits": [
+      "Un groupe de 100 femmes présente un score de dépression de 20,0 en moyenne avec un écart type estimé ",
+      "de 4,0. Parmi les propositions suivantes, quelle est la borne supérieure de l'intervalle de confiance du score "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q02_correction_p555.webp",
+    "page": 555,
+    "field": "correctionImages",
+    "hits": [
+      "Petite précision, nous sommes dans le cadre d’un intervalle de confiance donc "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q03_original_p550.webp",
+    "page": 550,
+    "field": "originalImages",
+    "hits": [
+      "Vous devez comparer la pression artérielle après traitement entre deux groupes de 20 patients chacun : un "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q04_context_p550.webp",
+    "page": 550,
+    "field": "stemImages",
+    "hits": [
+      "Un médecin vient de faire passer un test rapide COVID-19 à un patient. Le résultat est négatif. Il souhaite ",
+      "annoncer au patient la probabilité qu’il soit réellement indemne de COVID 19. Quel est l’indicateur qui fournit "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q05_context_p550.webp",
+    "page": 550,
+    "field": "stemImages",
+    "hits": [
+      "Une étude a évalué les performances d’un test diagnostic rapide du paludisme (contre un gold standard). "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q05_original_p550.webp",
+    "page": 550,
+    "field": "originalImages",
+    "hits": [
+      "La sensibilité du test pourrait varier en fonction de la prévalence de paludisme dans la population dans ",
+      "La spécificité du test pourrait varier en fonction de la prévalence de paludisme dans la population dans "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q05_correction_p557.webp",
+    "page": 557,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : La sensibilité est de 80% et non 95%, cela veut dire que 80% des cas de paludisme seront ",
+      "détectés par le test de diagnostic rapide. Pour rappel, la sensibilité correspond à la probabilité qu’un ",
+      ": La spécificité est de 95%, cela veut dire que 95% des personnes saines auront un test négatif. ",
+      "FAUX : La spécificité est supérieure à la sensibilité (95% > 80%), on ne déterminera seulement 80% des ",
+      "FAUX : La sensibilité du test est indépendante de la prévalence dans la population. C’est une propriété ",
+      "FAUX : De même, la spécificité du test est indépendante de la prévalence dans la population. C’est une "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q06_original_p551.webp",
+    "page": 551,
+    "field": "originalImages",
+    "hits": [
+      "La différence de risque de handicap léger ou nul entre le groupe thrombectomie et le groupe contrôle ",
+      "Le risque relatif de handicap léger ou nul entre le groupe thrombectomie et le groupe contrôle est ",
+      "Le risque de handicap léger ou nul dans le groupe thrombectomie est 10 fois plus élevé que dans le ",
+      "L’odds ratio de handicap léger ou nul entre le groupe thrombectomie et le groupe contrôle doit être "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q06_context_p551.webp",
+    "page": 551,
+    "field": "sharedContexts.annales.ue3.2023-2024.s2.context.thrombectomie",
+    "hits": [
+      "Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle ",
+      "(groupe contrôle) chez des patients avec un AVC dont le niveau d’ischémie est élevé. Le critère de jugement ",
+      "principal était le fait que le handicap neurologique à 90 jours après l’inclusion soit léger (ou nul). Parmi les ",
+      "150 patients randomisés dans le groupe thrombectomie, 30 avaient un handicap neurologique léger ou nul à "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q07_context_p551.webp",
+    "page": 551,
+    "field": "stemImages",
+    "hits": [
+      "Un test statistique du chi2 est réalisé pour comparer les risques de handicap léger ou nul entre les deux ",
+      "groupes. La statistique du test est de 25. On considère que les conditions d’application du test sont "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2023-2024_s2_q07_original_p551.webp",
+    "page": 551,
+    "field": "originalImages",
+    "hits": [
+      "Les risques de handicap léger ou nul sont statistiquement différents entre les deux groupes, au risque ",
+      "Les risques de handicap léger ou nul ne sont pas statistiquement différents entre les deux groupes, au ",
+      "Avec les mêmes résultats (risques estimés entre les deux groupes), mais des effectifs plus faibles, la ",
+      "Avec les mêmes résultats (risques estimés dans les deux groupes), mais des effectifs plus faibles, le "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s1_q01_correction_p567.webp",
+    "page": 567,
+    "field": "correctionImages",
+    "hits": [
+      " Ni la moyenne ni l’écart-type n’est connue, on va donc devoir se servir du graphique.  ",
+      "Entre 20 et 22 mmol/L, l’effectif correspondant est égale à 160. La probabilité est alors égale à 160/400 "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s1_q04_correction_p569.webp",
+    "page": 569,
+    "field": "correctionImages",
+    "hits": [
+      " Il s’agit d’un test de comparaison de 2 moyennes indépendantes avec des PETITS ÉCHANTILLONS  "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s1_q08_correction_p573.webp",
+    "page": 573,
+    "field": "correctionImages",
+    "hits": [
+      "II est décidé, pour le groupe 2, de comparer la proportion de patients avec progression du cancer à la valeur de ",
+      "référence de 0,4 (valeur correspondant à l'efficacité de la chimiothérapie de référence pour cette population). "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s1_q09_correction_p573.webp",
+    "page": 573,
+    "field": "correctionImages",
+    "hits": [
+      " Il ne s’agit pas de simples fluctuations mais d’une différence significative au risque d’erreur 5% "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s1_q12_correction_p575.webp",
+    "page": 575,
+    "field": "correctionImages",
+    "hits": [
+      "c’est bien un essai clinique randomisé (car répartition aléatoire), multicentrique (car les patients ",
+      " car on nous dit qu’ils connaissent leur groupe de ",
+      ": le risque de conclure à tort à une absence de différence significative c’est le fait de ne pas rejeter ",
+      " (et ",
+      "non pas le risque alpha qui vaut ici 5%). Le risque bêta pourrait être aussi égal à 5%, cependant d’après ",
+      "les données de l’énoncé, la puissance est de 90% or la puissance = 1 – bêta donc bêta = 100% - 90% = ",
+      "FAUX : car 1,52 est compris dans l’intervalle donné, cela signifie qu’il n’y a pas de différence ",
+      " sinon d’autres paramètres viendraient biaiser les résultats s’il y avait une sélection préalable "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q01_original_p578.webp",
+    "page": 578,
+    "field": "originalImages",
+    "hits": [
+      "Parmi tes propositions suivantes, cochez la valeur qui correspond au mode de la distribution observée des "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q01_correction_p583.webp",
+    "page": 583,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : Le mode correspond au centre de classe la plus haute (celle entre 1 et 2) donc le mode est 1,5 "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q03_original_p579.webp",
+    "page": 579,
+    "field": "originalImages",
+    "hits": [
+      " Vous pouvez effectuer un test de comparaison d'une moyenne estimée (2,70) à une valeur théorique ",
+      "Comme 3,00 n'est pas dans l'intervalle de confiance à 95 % de μ, on rejette I’hypothèse nulle du test "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q04_original_p579.webp",
+    "page": 579,
+    "field": "originalImages",
+    "hits": [
+      "Sur 100 personnes non atteintes de Parkinson, le test classerait à tort 12 personnes comme étant ",
+      "En cas de test négatif, il y a 88% de chance qu'une personne ne soit pas atteinte de la maladie de ",
+      "En cas de test négatif, il y a 96% de chance qu'une personne ne soit pas atteinte de la maladie de ",
+      "Ce test détecte plus facilement les sujets avec Parkinson dans une population de parkinsoniens qu’il ne "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q04_correction_p585.webp",
+    "page": 585,
+    "field": "correctionImages",
+    "hits": [
+      "C. FAUX : On nous demande ici la VPN que l’on ne peut pas calculer a cause du manque d’information, de "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q05_original_p579.webp",
+    "page": 579,
+    "field": "originalImages",
+    "hits": [
+      "Chez les personnes âgées, pour lesquelles la probabilité de la maladie pré-test et plus élevée que pour ",
+      "des personnes tout âge confondu, la probabilité post-test serait identique à celle obtenue tout âge "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q06_original_p580.webp",
+    "page": 580,
+    "field": "originalImages",
+    "hits": [
+      "Le risque de décès à un an est plus faible dans le groupe Tislezumab + chimiothérapie que dans le ",
+      "L’odds de décès à un an est plus faible dans le groupe Tislezumab + chimiothérapie que dans le groupe ",
+      "Le risque relatif de décès à un an entre le groupe Tislezumab + chimiothérapie et le groupe "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2022-2023_s2_q07_original_p580.webp",
+    "page": 580,
+    "field": "originalImages",
+    "hits": [
+      "Le test à utiliser est un test de comparaison d'une proportion estimée par rapport à une proportion de ",
+      "Les proportions de décès sont statistiquement différentes entre les deux groupes, au risque d'erreur ",
+      "La puissance du test statistique n'est pas influencée par le nombre total de patients dans chacun des "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s1_q04_correction_p597.webp",
+    "page": 597,
+    "field": "correctionImages",
+    "hits": [
+      " En cas de petit échantillon (n<30) le théorème central limité ne s’applique pas, on ne peut pas ",
+      "utiliser la table à l’écart-réduit. Cependant, on SUPPOSE que X suit une loi Normale pour que M (la ",
+      "indépendants : ",
+      "= 12,75"
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s1_q06_correction_p599.webp",
+    "page": 599,
+    "field": "correctionImages",
+    "hits": [
+      "« L'aire sous la courbe mesure la capacité du test à séparer les malades des nonmalades. Ainsi, ",
+      "la courbe ayant la plus grande aire en dessous doit correspondre aux 2 boxplots où les malades sont ",
+      "les plus séparés des non malades (ou autrement dit, les 2 boxplots où les malades et non malades se ",
+      "chevauchent le moins). Ici, le dosage LPS a l'aire sous la courbe la plus grande. Instinctivement en ",
+      "regardant les 2 marqueurs, on aurait tendance à dire que c'est le marqueur B où les 2 boxplots sont ",
+      "les moins confondus, ou où ils sont le mieux \"séparables\" par un seuil. Etant donné que les 2 courbes ",
+      "ROC ne se croisent pas et que l'une a une aire sous la courbe supérieure à l'autre, ça veut dire que ",
+      "pour n'importe quelle sensibilité qu'on prendra, le dosage LPS aura une spécificité supérieure ou égale ",
+      "à celle du PCR. Et également pour n'importe quelle spécificité qu'on choisira, le dosage LPS aura une ",
+      "sensibilité supérieure ou égale à celle du PCR. On va donc choisir un seuil arbitraire avec une spécificité ",
+      "fixe pour les 2 marqueurs et comparer leur sensibilité. (on aurait pu faire le contraire et fixer une ",
+      "sensibilité et puis comparer les spécificités). J'ai décidé de fixer pour les 2 marqueurs une spécificité ",
+      "à 75%. On observe pour le marqueur A que pour cette spécificité on aura une sensibilité à 50% ",
+      "exactement alors que pour le marqueur B,on voit bien que la sensibilité sera supérieure à 50% parce ",
+      "que le seuil se trouve en dessous de la médiane des malades. On peut donc associer le dosage de LPS ",
+      "(le meilleur test) avec les boxplots marqueur B (ceux qui séparent le mieux les malades des non ",
+      "L’aire sous la courbe LPS est supérieure à celle de la courbe PCR => le marquer LPS a de ",
+      "Un seuil fixé pour binariser les résultats LPS et de PCR sérum, conduisant à une sensibilité de 60% et une spécifié ",
+      "de 90% pour le LPS, et à un ratio de vraisemblance positif de 2 et négatif de 4/7 pour la PCR sérum. La prévalence "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s1_q08_correction_p601.webp",
+    "page": 601,
+    "field": "correctionImages",
+    "hits": [
+      "Parmi les 100 patients de l’étude, 60 ont eu une ventilation invasive, dont 20 avec un diagnostic d’anxiété à 1an, "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s1_q09_correction_p601.webp",
+    "page": 601,
+    "field": "correctionImages",
+    "hits": [
+      "Après la sortie de réanimation, les patients sont suivis pendant un an. Tous les 3mois, ils ont eu un examen pour "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s1_q10_correction_p601.webp",
+    "page": 601,
+    "field": "correctionImages",
+    "hits": [
+      "𝑛𝑜𝑚𝑏𝑟𝑒 𝑑𝑒 𝑛𝑜𝑢𝑣𝑒𝑎𝑢𝑥 𝑐𝑎𝑠 ",
+      "Il s’agit d’une étude de cohorte, au début de laquelle on a des sujets indemnes de l’évènement "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s2_q04_correction_p611.webp",
+    "page": 611,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : La sensibilité permet de mieux affirmer la présence d’une maladie. Alors que la spécificité ",
+      "Comme la spécificité est de 80%, alors parmi les personnes non-atteinte de silicose, la TDM sera ",
+      "FAUX : La prévalence de cette maladie varie entre ces 2 population, et comme la VPP dépende de la "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2021-2022_s2_q05_correction_p611.webp",
+    "page": 611,
+    "field": "correctionImages",
+    "hits": [
+      " C’est la ",
+      "FAUX : La prévalence concerne les cas existants. Or, dans une étude de cohorte tout le monde est ",
+      "Quand on calcule le nombre de personne-années, on prend en compte tout le temps jusqu'à ",
+      "Une seconde étude en Chine a suivi 3500 personnes atteintes de silicose pour évaluer leur devenir, en particulier "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q01_correction_p625.webp",
+    "page": 625,
+    "field": "correctionImages",
+    "hits": [
+      " on sait que le taux d’hémoglobine est normalement distribué dans cette population donc on ",
+      "  ≤ ",
+      ". Alors U suit une loi normale centrée réduite.  Il faut chercher la valeur correspondante à ",
+      " σ ≈ "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q04_context_p615.webp",
+    "page": 615,
+    "field": "stemImages",
+    "hits": [
+      "La sensibilité d’un test diagnostique d’une maladie M est estimée à 90% sur un échantillon de 100 patients "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q04_original_p615.webp",
+    "page": 615,
+    "field": "originalImages",
+    "hits": [
+      "Vous devez calculer une estimation de l’intervalle de confiance à 95% de la sensibilité de ce test dans la ",
+      "Les conditions d’approximation de la loi Binomiale par la loi Normale doivent être vérifiées aux "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q05_context_p615.webp",
+    "page": 615,
+    "field": "stemImages",
+    "hits": [
+      "Une étude a été conduite sur un échantillon de 18 sujets pour savoir si l’âge influençait sur la pression ",
+      "artérielle systolique (PAS). La pente estimée de la régression linéaire est b1 = 0,74 tandis que l’erreur type "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q05_correction_p627.webp",
+    "page": 627,
+    "field": "correctionImages",
+    "hits": [
+      " cf item C, la valeur 0 n’est pas contenu dans l’intervalle de confiance de la pente donc au risque ",
+      "d’erreur 5% l’âge à un effet linéaire significatif sur la PAS. De plus les tests de corrélation et de ",
+      " on calcul l’intervalle de confiance à la confiance 95%, on a 18 sujets dans l’étude donc on a n-",
+      "2=16ddl pour lire dans la table de Student (on trouve 2,120 pour un risque d’erreur 5%) . Les bornes ",
+      "⇔ 0,74 ±  0,22 × 2,21 ⇔0,74 ±"
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q07_correction_p629.webp",
+    "page": 629,
+    "field": "correctionImages",
+    "hits": [
+      "Ainsi, quand le test est négatif, on divise l’odds d’évolution vers une forme grave par un nombre plus ",
+      "grand que l’on ne multiplie l’odds d‘évolution vers une forme grave lorsque le test est positif. Donc le ",
+      "test permet mieux d’exclure l’évolution vers une forme grave lorsqu’il est négatif que d’affirmer ",
+      ": dans la population générale (hors hôpital), la prévalence d’évolution vers une forme grave est ",
+      "plus faible. Or quand la prévalence diminue, la VPP (probabilité post-test positif) diminue. Donc la ",
+      "probabilité post-test positif d’évolution vers une forme grave serait plus faible en population générale "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q09_context_p617.webp",
+    "page": 617,
+    "field": "stemImages",
+    "hits": [
+      "L’étude COVID-ER s’est intéressée au devenir des patients admis aux urgences avec un test PCR Covid-19 ",
+      "positifs. Elle a porté sur tous les patients admis entre le 06/03 et le 10/05/2020 sur trois services d’urgences ",
+      "des HCL et celui de Villefranche. Les patients ont été suivis tout du long de leur hospitalisation. Le tableau "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q09_original_p617.webp",
+    "page": 617,
+    "field": "originalImages",
+    "hits": [
+      "Pour 10 hommes entrant aux urgences, il y a 1 décès de plus que pour 10 femmes rentrant aux ",
+      "Pour 10 hommes entrant aux urgences, il y a 5 décès de plus que pour 10 femmes rentrant aux "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q09_correction_p631.webp",
+    "page": 631,
+    "field": "correctionImages",
+    "hits": [
+      "=  20%"
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q10_context_p617.webp",
+    "page": 617,
+    "field": "stemImages",
+    "hits": [
+      "Une étude a été réalisée sur toutes les adultes hospitalisés le 27 mars aux HCL pour COVID-19 (342 patients). ",
+      " (définition de l’obésité). En "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q10_original_p617.webp",
+    "page": 617,
+    "field": "originalImages",
+    "hits": [
+      "L’incidence de patients obèses parmi les patients hospitalisés aux HCL le 27 mars pour COVID-19 est ",
+      "La prévalence d’obèses aux HCL le 27 mars parmi les patients COVID-19 ne doit considérer que les ",
+      "La proportion d’individus obèses est supérieure chez les patients hospitalisés pour COVID-19 que ",
+      "Pour comparer les prévalences d’obèses entre les patients hospitalisés pour COVID-19 aux HCL et ",
+      "la population française, il faut effectuer un test de comparaison de proportions pour données "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_paces_q10_correction_p631.webp",
+    "page": 631,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : l’incidence mesure la probabilité pour un individu de développer la maladie par unité de temps : ",
+      "FAUX : la prévalence d’obèses aux HCL le 27 mars doit considérer tous les patients obèses parmi les "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s1_q01_correction_p641.webp",
+    "page": 641,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : le dosage de l’hormone thyroïdienne tétra-iodothyronine est une mesure donc c’est une ",
+      ": la médiane sépare un échantillon en 2 groupes de même effectif. Dans notre cas, la médiane est ",
+      "la valeur séparant l’échantillon en 2 effectifs de 80 patients. Or on sait que 100 patients ont moins de ",
+      "L donc la médiane de la distribution se situe ",
+      ": on a 5 rectangles de largeur 2 et de hauteur 10, 30, 60, 40 et 20 et 2×(10+30+60+40+20) = 2×160 "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s1_q04_correction_p643.webp",
+    "page": 643,
+    "field": "correctionImages",
+    "hits": [
+      " ; ",
+      " penser à l’application du TCL ",
+      "FAUX : Nous sommes en présence d’échantillons non appariés ou indépendants (le groupe 1 et 2 ne ",
+      ". On pensera ",
+      ". De plus un test de ",
+      "corrélation répond à la question « à quel point les deux variables sont liées l’une à l’autre ? » ",
+      "(quantification de leur liaison) alors qu’il est seulement question ici question de démontrer au risque ",
+      "FAUX : Il est nécessaire d’avoir une distribution normale de l’hématocrite pour pouvoir faire un test de ",
+      "Student. En temps normal (si n>30) on peut appliquer le Théorème Central Limite pour approximer une ",
+      "). Ici, ",
+      "comme ce n’est pas le cas nous sommes obligés de dire que la VA taux d’hématocrite suit une loi ",
+      " au rique d’erreur 5% ",
+      ". On rejette l'hypothèse nulle au risque ",
+      "Il s’agit là de la conclusion à notre test statistique effectué. Une diminution est une différence ",
+      " » Nous avons démontré une ",
+      "différence significative au risque d’erreur 5% entre les moyennes d’hématocrite dans les deux groupes. "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s1_q06_correction_p645.webp",
+    "page": 645,
+    "field": "correctionImages",
+    "hits": [
+      ": le test PCR a une meilleure spécificité que le test salivaire donc on aura plus de faux positifs avec ",
+      ": le test salivaire a une meilleure sensibilité que le test PCR, donc le test salivaire détecte plus de ",
+      ": parmi les patients atteints de Sars-Cov-2, le test salivaire sera en moyenne négatif dans 30 % ",
+      "FAUX, attention à ne pas confondre VPP et sensibilité. La sensibilité est la probabilité qu’un individu ait ",
+      "un test positif sachant qu’il est malade et la VPP est la probabilité qu’un individu soit malade sachant ",
+      "qu’il a un test positif. Dans cet item, on nous présente une VPP, or nous n’avons pas les données ",
+      "nécessaires pour calculer la VPP. L’item aurait été juste si c’était « en cas de maladie, un individu a 70 ",
+      "FAUX : la sensibilité d’un test est une caractéristique intrinsèque, elle ne dépend pas de la prévalence "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s1_q08_correction_p647.webp",
+    "page": 647,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : à toute chose égale par ailleurs, il y a globalement moins de personnes en réanimation donc ne ",
+      "On compare le risque d'hospitalisation en soins-intensifs/réanimation entre les deux groupes d'IMC. Le test de "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s1_q11_correction_p649.webp",
+    "page": 649,
+    "field": "correctionImages",
+    "hits": [
+      ": si on sépare les hommes et les femmes puis qu’on randomise dans chaque groupe, on ",
+      " FAUX : dire qu’il existe un effet significatif revient à rejet Ho. Or, le risque de rejeter Ho à tort est le ",
+      ": plus le risque RR s’approche de 1, plus la différence de risque est petite. Elle est donc plus "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q01_correction_p656.webp",
+    "page": 656,
+    "field": "correctionImages",
+    "hits": [
+      " : La cholestérolémie est une variable quantitative car numérique et continue car elle est issue ",
+      "FAUX : La cholestérolémie est une variable quantitative continue. Cependant, une variable aléatoire ",
+      "FAUX : 25% de valeurs de l’échantillon sont inférieures au premier quartile. 75% de valeurs de ",
+      "l’échantillon sont inférieurs au troisième quartile ou 75% de valeurs de l’échantillon sont supérieures "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q02_correction_p657.webp",
+    "page": 657,
+    "field": "correctionImages",
+    "hits": [
+      " C’est le théorème central limite : X suit une loi quelconque de moyenne μ et d’écart type σ M ",
+      " et d’écart "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q03_correction_p657.webp",
+    "page": 657,
+    "field": "correctionImages",
+    "hits": [
+      "C’est bien une variable aléatoire de Bernoulli (une expérience aléatoire, soumise au hasard, ",
+      "comportant deux issues, le succès (X=1) ou l'échec (X=0). SANS REPETITION.) mais on peut calculer ses ",
+      ") = la probabilité qu’un ",
+      "𝝅",
+      "Cette situation est en fait une répétition d’une même épreuve élémentaire de Bernoulli n fois (36 "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q04_correction_p658.webp",
+    "page": 658,
+    "field": "correctionImages",
+    "hits": [
+      " : La spécificité est la capacité d’un test à détecter des patients comme négatifs au test sachant ",
+      ": ici on veut éviter les faux positifs pour permettre d’affirmer la présence de la maladie. Plus le ",
+      "test est spécifique, plus il identifiera mieux les non malades. La spécificité du test PCR (100%) est plus "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q05_correction_p659.webp",
+    "page": 659,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : une étude de cohorte est une étude où l’on suit un groupe d’individus sur une certaine durée ",
+      " : risque de complication chez les Valerianes : 60/200 soit 0,3 ; le risque de complication des les non ",
+      "Valerianes : 300/2000 soit 0,15. Ainsi le risque de complication chez les Valerianes est bien de deux fois ",
+      " : Si l’Odd ratio de complication entre les femmes Valerianes et non Valerianes est supérieur à 1 ",
+      "= 0,15. Soit la DR = 0,15, ainsi DR>0. (ce qui est logique comme le fait "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q06_correction_p659.webp",
+    "page": 659,
+    "field": "correctionImages",
+    "hits": [
+      " Comme p<0,001 et on fait un test au risque d’erreur de 5%, le RH0 se fera à partir d’un p<0,05. ",
+      "0,001<0,05 donc on peut faire un RH0. Le risque de complication chez les femmes Valérianes est ",
+      "statistiquement différent du risque de complication chez les femmes non Valérianes, au risque d’erreur "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2020-2021_s2_q07_correction_p660.webp",
+    "page": 660,
+    "field": "correctionImages",
+    "hits": [
+      "Faux : c'est la prévalence de cas COVID-19 nécessitant une hospitalisation dont on parle. Ainsi, diminuer ",
+      "la durée d'hospitalisation baissera les chances d'observer un cas pour une même incidence à un instant "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q01_correction_p673.webp",
+    "page": 673,
+    "field": "correctionImages",
+    "hits": [
+      " On effectue une opération d’échantillonnage qui correspond pour chaque individu de ",
+      "l’échantillon à une expérience de Bernoulli, donc n x F suit une loi binomiale de paramètres théoriques : ",
+      " peut être approximée par une loi normale "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q03_correction_p675.webp",
+    "page": 675,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : Pour que la moyenne empirique M (de X) suive une loi normale, il faut que X suive une loi normale ",
+      "(quelles que soient sa moyenne et son écart type). Ici, c'est la statistique du test qui suit une loi de ",
+      " Dans cet exercice on compare une moyenne observée sur un petit échantillon de 25 personnes à ",
+      "une moyenne de référence. On regarde donc la table de t à n-1 ddl = 25-1=24 ddl. Le risque α consenti ",
+      "est par convention de 0,05 quand il n’est pas précisé. La valeur seuil lue dans la table de Student est  ",
+      "et n=25                 ",
+      "FAUX : en biostatistiques on n’a jamais de certitude, même s’il n’y a pas de différence significative au "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q04_original_p663.webp",
+    "page": 663,
+    "field": "originalImages",
+    "hits": [
+      " Calculez et indiquez la valeur numérique et le signe de la statistique du test précédent parmi les valeurs "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q05_context_p663.webp",
+    "page": 663,
+    "field": "stemImages",
+    "hits": [
+      "On souhaite expliquer la concentration de l’hormone lactogène dans le liquide amniotique à partir de sa ",
+      "concentration dans le sang à l’aide d’une régression linéaire. Pour cela, on dose cette hormone à la fois dans ",
+      "le liquide amniotique et le sang chez 12 femmes enceintes. On suppose que la concentration dans le sang est ",
+      "L’ordonnée à l’origine et la pente de la droite de régression sont estimées à 0,10 et 0,52 avec des erreurs "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q06_correction_p677.webp",
+    "page": 677,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : l’item affirme que l’IRM a une meilleure spécificité (« identifier les patients non malades » = ",
+      "proportion de non malades ayant une IRM négative) que sensibilité (« que les patients malades » = ",
+      " « exclure le diagnostic de cancer lorsqu’elle est négative » signifie que la probabilité de cancer ",
+      "en cas de test négatif est faible & « que d’affirmer la présence de cancer lorsqu’elle est positive » ",
+      "signifie que la probabilité de cancer en cas de test positif est élevée. Pour étudier cela, on considère ",
+      "En cas de test positif, l’odds pré-test est multiplié par 3 (RV+) tandis qu’en cas de test négatif, l’odds pré-",
+      "test est multiplié par 1/7 donc divisé par 7 (RV-). Ainsi, un test négatif apporte plus d’information pour ",
+      ": pour évaluer correctement les performances diagnostiques, il faut que le test soit réalisé au ",
+      "même moment que le gold standard (sinon, la maladie peut évoluer entre temps, et comparer le test ",
+      ": En cas de test positif, l’odds de maladie (oddspré-test) est multiplié par le RV+ (attention, c’est ",
+      "La prévalence du cancer permet de calculer l’odds pré-test (odds pré-test = prévalence/1-prévalence). La ",
+      "formule montre que l’odds pré-test est multiplié par le ratio de vraisemblance positif. Le ratio de ",
+      "vraisemblance positif se calcule à partir des sensibilités et des spécificités, qui sont indépendantes de la ",
+      "prévalence. Ainsi, le ratio de vraisemblance positif est indépendant de la prévalence, donc l’odds pré-test ",
+      "est toujours multiplié par la même valeur, quelle que soit la prévalence. (Cependant, les valeurs "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q06_context_p663.webp",
+    "page": 663,
+    "field": "sharedContexts.annales.ue3.2019-2020.paces.context.irm_sein",
+    "hits": [
+      "Une étude a été réalisée pour évaluer les performances de l’IRM afin d’effectuer le diagnostic de cancer du ",
+      "sein. L’étude a porté sur 240 femmes avec des antécédents familiaux de cancer du sein, et présentant une ",
+      "boule à la palpation. Chez toutes ces femmes, une biopsie a été réalisée (examen considéré comme le gold "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q07_correction_p678.webp",
+    "page": 678,
+    "field": "correctionImages",
+    "hits": [
+      "!                 "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q08_correction_p679.webp",
+    "page": 679,
+    "field": "correctionImages",
+    "hits": [
+      "classification Conecct : parmi les 130 cas, 90 sont Conecct +, soit une proportion estimée à                   ",
+      ": on souhaite comparer deux proportions estimées sur les mêmes 130 individus, donc on fait un ",
+      "On regarde les paires discordantes (cases b et c) soit au total 50 paires. On va comparer la proportion des ",
+      "paires discordantes de b ou de c par rapport à la proportion théorique de 0.5. Si on prend les paires de b, ",
+      "(0.5) → ",
+      "1,4 < 1,96 (le risque d’erreur à 5%) donc on rejette l’hypothèse nulle : on ne peut pas montrer que les ",
+      "Dans cette pathologie, le succès de la résection dépend de la grosseur et de la localisation de la masse à retirer. ",
+      "On distingue les polypes hyperplasiques (PH), les adénocarcinomes superficiels (AS), et les adénocarcinomes ",
+      "profonds (AP) ; cette classification est déterminée lors de la résection, par analyse anatomopathologique. Le ",
+      "statut R0 de la résection (résection totale avec marge de sécurité saine) est évalué également au moment de la ",
+      "résection par analyse anatomopathologique. Une étude a montré que le risque de résection R0 est 1,2 fois plus ",
+      "élevé dans le groupe PH que dans le groupe AS, et que ce risque est également 1,2 fois plus élevé dans le groupe "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q09_context_p665.webp",
+    "page": 665,
+    "field": "stemImages",
+    "hits": [
+      "Dans cette pathologie, le succès de la résection dépend de la grosseur et de la localisation de la masse à ",
+      "retirer. On distingue les polypes hyperplasiques (PH), les adénocarcinomes superficiels (AS), et les ",
+      "adénocarcinomes profonds (AP) ; cette classification est déterminée lors de la résection, par analyse ",
+      "anatomopathologique. Le statut R0 de la résection (résection totale avec marge de sécurité saine) est évalué ",
+      "également au moment de la résection par analyse anatomopathologique. Une étude a montré que le risque ",
+      "de résection R0 est 1,2 fois plus élevé dans le groupe PH que dans le groupe AS, et que ce risque est "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q09_original_p665.webp",
+    "page": 665,
+    "field": "originalImages",
+    "hits": [
+      "Parmi les propositions suivantes, et sans considérer la significativité statistique, vous cocherez la (ou ",
+      "Il semble exister une association entre la classification de la masse à retirer et le statut R0 de la "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2019-2020_paces_q10_context_p665.webp",
+    "page": 665,
+    "field": "stemImages",
+    "hits": [
+      "Un essai a été mené pour estimer l’effet de l’acide tranexamique, un antihémorragique, dans les saignements ",
+      "En plus de la prise en charge classique, les patients étaient randomisés dans le bras acide tranexamique ou ",
+      "le bras placebo. Les patients, les soignants et les intervenants qui évaluaient les résultats ignoraient le ",
+      "Le nombre de patients à inclure a été estimée à 10 000 patients au total pour avoir 90% de chance de montrer "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2018-2019_paces_q01_correction_p691.webp",
+    "page": 691,
+    "field": "correctionImages",
+    "hits": [
+      "FAUX : La probabilité d’être ventilé est P(V)=140/200=0,7 et la probabilité d’avoir une infection est ",
+      "P(I)=0,07. On a aussi P(V/I)=0,85. On utilise le théorème de Bayes pour trouver P(I/V). On obtient alors : ",
+      ": On veut savoir si les événements V et I sont indépendants. Pour cela on peut tester une de ces ",
+      "équations : P(I)=P(I/V), P(V)=P(V/I) ou P(I)×P(V)=P(I∩V). D’après l’énoncé, on a P(V)=0,7 et P(V/I)=0,85. ",
+      "Ainsi, P(V) ≠P(V/I). Les deux événements ne sont donc pas indépendants. La survenue ou l’absence "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2018-2019_paces_q05_correction_p693.webp",
+    "page": 693,
+    "field": "correctionImages",
+    "hits": [
+      " Comme on a un petit échantillon (n=20), pour trouver la valeur seuil on se réfère à une loi de ",
+      "on a donc "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2018-2019_paces_q07_correction_p695.webp",
+    "page": 695,
+    "field": "correctionImages",
+    "hits": [
+      "=",
+      "=",
+      " En effet, plus la prévalence est importante, plus l’odd pré test sera élevé, et par conséquent si ",
+      "le RV+ ne change pas, l’odd post test et par conséquent la probabilité post test seront plus importants. ",
+      " Le test ELISA a une sensibilité plus élevée que le test Luminex (cf qcm précédent). De ce fait, on ",
+      "aura moins de FAUX négatifs qu’avec le test Luminex, et on sera donc plus sûr de l’absence d’infection "
+    ]
+  },
+  {
+    "src": "static/annales_ue3_2018-2019_paces_q10_correction_p697.webp",
+    "page": 697,
+    "field": "correctionImages",
+    "hits": [
+      "Il est dit que l’essai a été conçu pour tester l’effet sur le décès à 90 jours, c’est donc bien le ",
+      "0,05",
+      "On va supposer que le risque beta est égal à 15%, c’est-à-dire que la puissance est égale à 0,85. En se ",
+      "référant à la table de la fonction de répartition de la variable normale centrée réduite, pour p=0,85 on a ",
+      "Comme on retombe bien sur n=1440 on en déduit donc que z(1- β) est bien égal à 1 et donc que la ",
+      " La randomisation n’est pas réalisée par bloc mais par liste selon la présence ou l’absence d’un ",
+      "e) = risque alpha "
+    ]
+  }
+]

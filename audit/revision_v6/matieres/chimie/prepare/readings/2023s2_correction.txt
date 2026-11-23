@@ -1,0 +1,87 @@
+annales.ue2c.chimie_org.2023s2 ID1 SourceQ27 / sujetp157,correctionp171 / keyBCE -> BCE
+Fonctions chimiques et isomérie. Soient les structures 1 à 3 suivantes :
+A. La structure 1 possède une fonction amine secondaire.
+B. La structure 2 possède une fonction aldéhyde.
+C. Les structures 1 à 3 sont chirales.
+D. Les structures 1 et 2 sont isomères de configuration.
+E. Les structures 2 et 3 sont diastéréoisomères.
+BCE
+A. FAUX : fonction amine primaire car N relié à un groupe R et deux Hydrogene
+B. VRAI : un carbone forme 4 liaisons, 2 avec O, 1 avec H, 1 avec C
+C. VRAI : Les structures ont tous 2 C*, et aucun n’est un composé Meso
+D. FAUX : ce sont les mêmes composés. Plus précisément des isomères de conformation
+E. VRAI : les fromules planes sont identiques mais la configuration sur un des deux C* est differentes
+
+==========
+
+annales.ue2c.chimie_org.2023s2 ID2 SourceQ28 / sujetp158,correctionp172 / keyE -> E
+Réactivité. Soient les structures 1 à 3 suivantes :
+A. La structure 1, traitée selon les conditions suivantes : 1) KCN, 2) H O, HCl, conduit, entre autres, à la
+formation d’un mélange de deux cyanhydrines diastéréoisomères
+B. La structure 1, traitée par une quantité importante d'hydroxyde de sodium et à chaud (NaOH, Δ),
+conduit à un aldol.
+C. La structure 2, traitée par du méthanol (H3COH), en présence d’une quantité catalytique d’HCl, conduit
+à un ester.
+D. La structure 3, traitée par une quantité importante d'hydroxyde de sodium et à chaud (NaOH, Δ),
+conduit, entre autres, à une cétone insaturée de formule brute C6H10O.
+E. Les structures 1 et 3 sont des cétones énolisables.
+E
+A. FAUX : Selon ces conditions ont obtient un mélange de deux cyanhydrines énantiomères, car le seul C*
+possède une configuration différente
+B. FAUX : Ces conditions permettent d’obtenir des aldéhydes ou des cétones insaturées
+C. FAUX : Afin de former un ester on a besoin d’un acide carboxylique et non une cetone
+D. FAUX : ces conditions vont bien conduire à une cétone insaturée mais de formule C8H18O
+E. VRAI : Une cétone est dite énolisable si elle possède au moins un hydrogène sur un atome de carbone
+adjacent au groupe carbonyle (appelé carbone α)
+
+==========
+
+annales.ue2c.atomistique.2023s2 ID1 SourceQ29 / sujetp158,correctionp172 / keyCD -> CD
+L’hydrogène et les hydrogénoïdes (on arrondira les résultats à un chiffre après la virgule) :
+A. La longueur d’onde permettant l’ionisation de l’atome d’hydrogène (à l’état fondamental) est
+supérieure à celle permettant l’excitation de l’hydrogène de l’état fondamental au niveau n=350.
+B.  L’ionisation de 3Li+ initialement à l’état fondamental est égale à 122,4 eV.
+C. Pour 3Li2+ l’énergie permettant un retour à l’état fondamental, à partir du cinquième niveau excité,
+est égale à 119 eV.
+D. D.L’énergie d’ionisation de 9F8+ pour n=9 est égale à 13,6 eV.
+E. E. désexcitation de H vers le niveau fondamental, à partir du niveau n=3, entraine l'émission de 6
+photons d’énergies différentes.
+CD
+A. FAUX : Étant donné que E ionisation > E excitation car l’énergie d’ionisation corresponde à l’énergie
+nécessaire pour arracher un électron, c’est-à-dire que c’est l’énergie la plus haute que l’on peut fournir.
+De plus d’après la formule suivante E=hc/lambda, on sait que la longueur d’onde évolue de manière
+inversement proportionnelle à l’énergie donc pour E ionisation on a une longueur d’onde minimale.
+C’est pourquoi la longueur d’onde d’ionisation<E excitation.
+B. FAUX : ce n’est pas un hydrogénoïde, on ne peut donc pas réaliser le calcul.
+C. VRAI : on fait donc l’énergie du niveau 1- celle du niveau 6(car 5 ème niveau excité : n=6). On utilise
+donc la formule suivante : -13,6 x Z²/n². Au nv 1 : -13,6 x 3²/1²=122,4. Au nv 2 : -13,6 x 3²/6²=3,4. Pour
+finir on fait donc 122,4-3,4=119. On peut maintenant calculer la longueur d’onde : 6,626 x 10^-34 x
+2,998 x 10^8/119 x 1,602 x 10^-19 = 1,04 x 10^8 = 10,4 nm.
+D. VRAI : Il suffit de calculer l’énergie fondamental et de changer le signe car Ei=0-Efondamentale.
+E. FAUX : 3 photons : transition directe de n=3 à n=1-->émission d’1 seul photon. Sinon transition en 2
+temps de n=3 à n=2 puis de n=2 à n=1 ce qui nous donne 2 photons (1 entre chaque niveau).
+
+==========
+
+annales.ue2c.atomistique.2023s2 ID2 SourceQ30 / sujetp158,correctionp173 / keyACDE -> ACDE
+30. Les atomes :
+A. A. La configuration électronique 17Cl : 1s2 2s2 2p6 3s1 3p6 est possible.
+B. 29Cu possède 1 électron de valence.
+C. 29Cu possède 7 électrons placés dans des orbitales atomiques sphériques.
+D. 17Cl possède 7 électrons de valence.
+E. 17Cl possède 8 ou 9 électrons de spin +½.
+ACDE
+A. VRAI : toutes les configurations électroniques sont possibles tant que les s possèdent 2 électrons max
+et les p 6 électrons ; il ne faut juste pas qu’il y est d’électrons surnuméraires. Comme vous le savez
+lorsque votre atome s’excite on a des déplacements d’électrons d’un niveau a un autre c’est pourquoi
+parfois on peut se retrouver avec des configurations excitées différentes de la configuration de base.
+B. FAUX :  11 électrons, on compte ceux en 4s et 3d
+C. VRAI : la configuration électronique est : 1s2 2s2 2p6 3s2 3p6 4s1 3d10 (attention c’est une exception !)
+Les orbitales atomiques sphériques sont les orbitales s, il y a donc bien 7 électrons dans les orbitales s.
+D. VRAI : la configuration du Cl est : 1s2 2s2 2p6 3s2 3p5. La couche de valence est la couche 3, il y a donc
+7 électrons de valence
+E. VRAI : pour chaque paire d’électron dans une case quantique, un est de spin +½ et l’autre est de spin -
+½. La configuration du chlore étant 1s2 2s2 2p6 3s2 3p5, la moitié des électrons de 1s2 2s2 2p6 3s2
+sont de spin +½ → cela fait donc 6 électrons. Pour les électrons de la sous couche 3p5 : ils sont par
+binôme, donc il y en a 2 de spin positif et 2 de spin négatif. Pour le dernier, il est soit de spin positif soit
+négatif (on ne peut pas le savoir). Il y a donc 6 + 2 (+1 ?) électrons de spin +½.

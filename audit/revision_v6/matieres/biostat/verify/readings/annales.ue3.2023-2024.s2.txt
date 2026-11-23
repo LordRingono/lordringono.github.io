@@ -1,0 +1,48 @@
+
+## annales.ue3.2023-2024.s2 Q1 / clé site D
+
+SUBJECT: 1. Parmi les propositions suivantes, cochez la proposition exacte. A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne D. 50% des valeurs d’un échantillon sont supérieurs à la médiane E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile
+
+CORRECTION: Correction détaillée 1. Parmi les propositions suivantes, cochez la proposition exacte. A. 25% des valeurs d’un échantillon sont supérieurs au 1er quartile B. 75% des valeurs d’un échantillon sont supérieur au 3e quartile C. 50% des valeurs d’un échantillon sont supérieurs à la moyenne D. 50% des valeurs d’un échantillon sont supérieurs à la médiane E. 25% des valeurs d’un échantillon sont extérieurs à l’intervalle interquartile D FAUX : 75% des valeurs d’un échantillon sont supérieurs au 1° quartile (=25% sont donc inférieurs) FAUX : 25% des valeurs d’un échantillon sont supérieur au 3° quartile (=75% sont donc inférieures) FAUX : 50% des valeurs d’un échantillon sont supérieures à la médiane et non à la moyenne VRAI : l’item reste vrai même en remplaçant “supérieures“ par “inférieures dans la question“ FAUX : l’IQR contient 50% d’un échantillon donc les 50% restant sont en dehors de l’IQR
+
+
+## annales.ue3.2023-2024.s2 Q2 / clé site E
+
+SUBJECT: q 2. Un groupe de 100 femmes présente un score de dépression de 20,0 en moyenne avec un écart type estimé de 4,0. Parmi les propositions suivantes, quelle est la borne supérieure de l'intervalle de confiance du score moyen de dépression dans la population ? A. 20,04 B. 20,1 C. 20,4 D. 20,6 E. 20,8
+
+CORRECTION: E A. FAUX B. FAUX C. FAUX D. FAUX E. VRAI : on a borne supérieure de l’intervalle de confiance 𝒔 𝑰𝑪(𝟏−𝛂)(𝛍) = 𝒎+ 𝒖𝛂× √𝒏 = 20 + 1,96*(4/√100) = 20,784 = 20,8 Petite précision, nous sommes dans le cadre d’un intervalle de confiance donc il faut arrondir la borne supérieure en excès)
+
+
+## annales.ue3.2023-2024.s2 Q3 / clé site B
+
+SUBJECT: , 3. Vous devez comparer la pression artérielle après traitement entre deux groupes de 20 patients chacun : un groupe traité par un anti-hypertenseur et un groupe placebo. Quel test utiliser ? A. Un test “z“ de comparaison de la moyenne de deux grands échantillons B. Un test de Student sous réserve de la validité des conditions d’application C. Un test de comparaison de deux proportions D. Un test de Mac Nemar E. Un test d’indépendance du Khi-Deux
+
+CORRECTION: B A. FAUX B. VRAI : on est ici dans un cas de comparaison de moyenne de deux échantillons indépendants. Les 2 échantillons sont des petits échantillons car moins de 30 participants. On appliquera ici le test de Student. C. FAUX D. FAUX E. FAUX
+
+
+## annales.ue3.2023-2024.s2 Q4 / clé site D
+
+SUBJECT: p 4. Un médecin vient de faire passer un test rapide COVID-19 à un patient. Le résultat est négatif. Il souhaite annoncer au patient la probabilité qu’il soit réellement indemne de COVID 19. Quel est l’indicateur qui fournit directement ce résultat. Parmi les propositions suivantes, cocher la proposition exacte. A. La sensibilité B. La spécificité C. La valeur prédictive positive D. La valeur prédictive négative E. Le ratio de vraisemblance positif $
+
+CORRECTION: A. FAUX B. FAUX C. FAUX : La VPP est la probabilité que le patient soit malade sachant qu’il a eu un résultat positif au test. D. VRAI : La VPN est la probabilité que le patient soit sain sachant qu’il a eu un résultat négatif au test. E. FAUX
+
+
+## annales.ue3.2023-2024.s2 Q5 / clé site B
+
+SUBJECT: p $ 5. Une étude a évalué les performances d’un test diagnostic rapide du paludisme (contre un gold standard). La sensibilité estimée du test était de 80% et la spécificité de 95%. Parmi les propositions suivantes, cochez la(les) réponse(s) exacte(s). A. Le test détecte 95% des cas de paludisme B. Le test est positif à tort chez 5% des individus sans paludisme C. Le test détecte mieux les cas de paludisme qu’il ne classe correctement les individus sans paludisme D. La sensibilité du test pourrait varier en fonction de la prévalence de paludisme dans la population dans laquelle il est utilisé E. La spécificité du test pourrait varier en fonction de la prévalence de paludisme dans la population dans laquelle il est utilisé
+
+CORRECTION: B A. FAUX : La sensibilité est de 80% et non 95%, cela veut dire que 80% des cas de paludisme seront détectés par le test de diagnostic rapide. Pour rappel, la sensibilité correspond à la probabilité qu’un individu ait un test positif sachant qu’il est malade. B. VRAI : La spécificité est de 95%, cela veut dire que 95% des personnes saines auront un test négatif. Cela veut également dire que 5% des personnes saines auront un test positif (évènement opposé). C. FAUX : La spécificité est supérieure à la sensibilité (95% > 80%), on ne déterminera seulement 80% des malades alors que 95% des individus sans paludisme seront classés tel quel. D. FAUX : La sensibilité du test est indépendante de la prévalence dans la population. C’est une propriété intrinsèque au test (propre à lui). E. FAUX : De même, la spécificité du test est indépendante de la prévalence dans la population. C’est une propriété intrinsèque au test (propre à lui).
+
+
+## annales.ue3.2023-2024.s2 Q6 / clé site ABCDE
+
+SUBJECT: 6. Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle (groupe contrôle) chez des patients avec un AVC dont le niveau d’ischémie est élevé. Le critère de jugement principal était le fait que le handicap neurologique à 90 jours après l’inclusion soit léger (ou nul). Parmi les 150 patients randomisés dans le groupe thrombectomie, 30 avaient un handicap neurologique léger ou nul à 90 jours contre 3 pour les 150 patients randomisés dans le groupe contrôle. Parmi les propositions suivantes, cochez la(les) réponse(s) exacte(s). A. Le risque de handicap léger ou nul dans le groupe thrombectomie est estimée à 0,20 B. La différence de risque de handicap léger ou nul entre le groupe thrombectomie et le groupe contrôle est estimée à 0,18 C. Le risque relatif de handicap léger ou nul entre le groupe thrombectomie et le groupe contrôle est estimé à 10 D. Le risque de handicap léger ou nul dans le groupe thrombectomie est 10 fois plus élevé que dans le groupe contrôle E. L’odds ratio de handicap léger ou nul entre le groupe thrombectomie et le groupe contrôle doit être supérieur à 1
+
+CORRECTION: ABCDE A. VRAI : r1 = 30/150 = 1/5 = 0,20 (Nb de patients du groupe ayant eu le critère de jugement divisé par le nombre de patients du groupe) cf. p14 design d’étude en épidémiologie. B. VRAI : r0 = 3/150 = 1/50 = 0,02 DR = r1-r0 = 0,20-0,02 = 0,18 C. VRAI : RR = r1/r0 = 0,2/0,02 = 10 D. VRAI : RR = 10 E. VRAI : Si RR > 1 ou DR > 0, alors OR >1 Le groupe thrombectomie a un facteur aggravant, l’OR sera donc > 1
+
+
+## annales.ue3.2023-2024.s2 Q7 / clé site AB
+
+SUBJECT: 6. Un essai clinique a comparé le bénéfice de la thrombectomie par rapport à la prise en charge habituelle (groupe contrôle) chez des patients avec un AVC dont le niveau d’ischémie est élevé. Le critère de jugement principal était le fait que le handicap neurologique à 90 jours après l’inclusion soit léger (ou nul). Parmi les 150 patients randomisés dans le groupe thrombectomie, 30 avaient un handicap neurologique léger ou nul à 90 jours contre 3 pour les 150 patients randomisés dans le groupe contrôle. p 7. Un test statistique du chi2 est réalisé pour comparer les risques de handicap léger ou nul entre les deux groupes. La statistique du test est de 25. On considère que les conditions d’application du test sont appliquées. Parmi les propositions suivantes, cochez la(les) réponse(s) exacte(s). A. La p-value du test de comparaison des risques de handicap léger ou nul est inférieur à 0,05 B. Les risques de handicap léger ou nul sont statistiquement différents entre les deux groupes, au risque d’erreur 0,05 C. Les risques de handicap léger ou nul ne sont pas statistiquement différents entre les deux groupes, au risque d’erreur 0,05 D. Avec les mêmes résultats (risques estimés entre les deux groupes), mais des effectifs plus faibles, la puissance du test serait plus élevée E. Avec les mêmes résultats (risques estimés dans les deux groupes), mais des effectifs plus faibles, le risques α du test serait plus élevé.
+
+CORRECTION: AB A. VRAI : la statistique du test est de 25. On est ici dans un test du chi 2 donc on compare la valeur du test à 3,84. Or 25>3,84 donc on rejette l’hypothèse nulle, càd qu’il y a bien une différence entre les 2 groupes. Donc p-value<0,05 B. VRAI : voir A C. FAUX : voir A D. FAUX : Plus l’effectif est élevé, plus la puissance du test est élevée (c’est logique car plus il y a de participant, plus le test est fiable donc plus il est puissant) E. FAUX : le risque alpha est fixé par l’expérimentateur, nous choisissons toujours 5%

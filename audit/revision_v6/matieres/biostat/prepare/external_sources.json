@@ -1,0 +1,50 @@
+[
+  {
+    "key": "student",
+    "label": "NIST — intervalle de confiance de la moyenne",
+    "url": "https://itl.nist.gov/div898/software/dataplot/refman1/auxillar/conflimi.htm",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "binomial",
+    "label": "NIST — loi binomiale",
+    "url": "https://itl.nist.gov/div898/handbook/eda/section3/eda366i.htm",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "clt",
+    "label": "NIST — théorème central limite",
+    "url": "https://csrc.nist.gov/glossary/term/central_limit_theorem",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "median",
+    "label": "OpenStax — médiane et quantiles",
+    "url": "https://openstax.org/books/statistics/pages/2-3-measures-of-the-location-of-the-data",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "pointbiserial",
+    "label": "SciPy — corrélation point-bisériale",
+    "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pointbiserialr.html",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "pearson",
+    "label": "Penn State — équivalence des tests de corrélation et de pente",
+    "url": "https://online.stat.psu.edu/stat500/Lesson09",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "trial",
+    "label": "MHRA — principes statistiques des essais",
+    "url": "https://www.gov.uk/government/publications/clinical-investigations-statistical-considerations/statistical-considerations",
+    "consulted": "2026-11-22"
+  },
+  {
+    "key": "diagnostic",
+    "label": "AHRQ — mesures de performance diagnostique",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK98249/table/appendix.t1/",
+    "consulted": "2026-11-22"
+  }
+]

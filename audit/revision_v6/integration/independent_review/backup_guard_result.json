@@ -1,0 +1,18 @@
+{
+  "method": "Node VM running the current progress_migration.js, with quota and silent-write-failure mocks; not a browser",
+  "result": "PASS",
+  "results": [
+    {
+      "failure": "throw",
+      "profiles": 2,
+      "result": "PASS",
+      "syncCalls": 8
+    },
+    {
+      "failure": "silent",
+      "profiles": 2,
+      "result": "PASS",
+      "syncCalls": 8
+    }
+  ]
+}

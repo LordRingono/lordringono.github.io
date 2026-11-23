@@ -1,0 +1,74 @@
+{
+  "status": "approved_with_documented_source_limits",
+  "statistics": {
+    "field:answer": 8,
+    "field:explanations": 156,
+    "explanationItemsChanged": 353,
+    "field:options": 17,
+    "existingOptionStatementsChanged": 17,
+    "optionsRestored": 2,
+    "field:reviewNotes": 17,
+    "field:images": 6,
+    "field:imagesAfterCorrection": 4,
+    "field:sharedContexts": 12,
+    "field:sourceEndPage": 60,
+    "field:sourceSubject": 60,
+    "field:subjectPage": 60,
+    "field:warning": 60,
+    "field:rawAnswer": 8,
+    "field:uncorrected": 7,
+    "field:category": 2,
+    "banks": 22,
+    "questions": 599,
+    "items": 3389,
+    "subjects": 319,
+    "cleanSubjects": 315,
+    "annotatedSubjects": 4,
+    "missingSubjects": 280,
+    "subjectItems": 1724,
+    "cleanSubjectItems": 1704,
+    "correctionItemsChecked": 3388,
+    "missingCorrectionItems": 1,
+    "correctionSets": 599,
+    "panels": 1048,
+    "restoredPreviouslyAbsentKeys": 7,
+    "existingEmptyKeyConfirmed": 1,
+    "ungradableQuestions": 6,
+    "newReviewNotes": 19,
+    "visuallyReviewedCompilationSubjects": 60,
+    "visuallyReviewedCompilationCorrections": 8,
+    "visuallyReviewedRestructuredSets": 34,
+    "visuallyReviewedOriginalRiskPages": 21,
+    "cropGeometryFlagsResolved": 19,
+    "unresolvedCropGeometryFlags": 0,
+    "earlyCompilationEmbryologyQuestionsCompared": 15,
+    "earlyCompilationItemsCompared": 75,
+    "finalCaptureRolesVisuallyReviewed": 114,
+    "questionsWithEitherCaptureRoleVisuallyReviewed": 95
+  },
+  "files": {
+    "approved_reviewed.json": {
+      "sha256": "5dfa3e2e1741c7cf2fc25f502f9995a8ca585f9fd198fa94295043cbf36d39c3",
+      "bytes": 1466167
+    },
+    "approved_crops.json": {
+      "sha256": "15db4a936cbf4086b9472a83214c9c268e32b5986516b8e9f72748d6199c1bc4",
+      "bytes": 591755
+    },
+    "coverage.json": {
+      "sha256": "1b8bc1c3daa09f58816f7e209cf55ff83d11d01f9069772ff0d05fd4f7d50bef",
+      "bytes": 5236932
+    },
+    "issues.json": {
+      "sha256": "d81b4b8cb5426bbd7d44b6ba323ca04222fcfe951d4d3eafca0deac721e40049",
+      "bytes": 207398
+    }
+  },
+  "baselineSha256": "d195442f5c1ddf5a66b9fb7bc1780972aa2498091b2feaadac264863b774aae7",
+  "preparerFiles": {
+    "reviewed.json": "b91d9c4592349471d095b8cdb5670b2883e4f8eb6b9404b7d344eebd2bcfce6a",
+    "crops.json": "7468d0b8f16bea80f25aa8d839ea3f37401805e5a594f75d1119e1f8f3a075ea"
+  },
+  "scope": "22 banques ue5e existantes ; aucun nouveau QCM, aucun changement des IDs ni des autres matières.",
+  "limits": "280 sujets non corrigés absents ; 4 sujets/figures annotés protégés ; 6 clés complètes indéterminées ; un item E absent du corrigé. Contrôle visuel des ensembles signalés, contrôle documentaire et géométrique exhaustif distinct."
+}

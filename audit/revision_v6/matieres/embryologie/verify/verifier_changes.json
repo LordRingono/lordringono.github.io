@@ -1,0 +1,2632 @@
+[
+  {
+    "bank": "embryo.col.s4",
+    "id": 54,
+    "field": "warning",
+    "old": "Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "La consigne et le schéma commun sont désormais rétablis ; avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 55,
+    "field": "warning",
+    "old": "Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "La consigne et le schéma commun sont désormais rétablis ; avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 68,
+    "field": "warning",
+    "old": "Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "La consigne et le schéma commun sont désormais rétablis ; avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 31,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 6,
+        "sourceEndPage": 7
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 7,
+        "sourceEndPage": 7
+      }
+    ],
+    "reason": "Pagination du bloc commun vérifiée dans le PDF original."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 32,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 6,
+        "sourceEndPage": 7
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.31_32",
+        "text": "Les questions source 31 et 32 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_31.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 7,
+        "sourceEndPage": 7
+      }
+    ],
+    "reason": "Pagination du bloc commun vérifiée dans le PDF original."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 41,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 8,
+        "sourceEndPage": 9
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 9,
+        "sourceEndPage": 9
+      }
+    ],
+    "reason": "Pagination du bloc commun vérifiée dans le PDF original."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 42,
+    "field": "sharedContexts",
+    "old": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 8,
+        "sourceEndPage": 9
+      }
+    ],
+    "new": [
+      {
+        "id": "embryo.col.s3.schema.41_42",
+        "text": "Les questions source 41 et 42 se rapportent au même schéma.",
+        "images": [
+          "static/emb_verified_col_s3_schem_41.png"
+        ],
+        "sourceFile": "7. Colle en chambre S3 LS correction.pdf",
+        "sourceStartPage": 9,
+        "sourceEndPage": 9
+      }
+    ],
+    "reason": "Pagination du bloc commun vérifiée dans le PDF original."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 2,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "La segmentation est totale, synchrone, et asymétrique."
+      },
+      {
+        "id": "B",
+        "text": "La polarité cellulaire débute dès le phénomène de compaction de la morula"
+      },
+      {
+        "id": "C",
+        "text": "Les gènes CDX2 et TEAD4 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) HP"
+      },
+      {
+        "id": "D",
+        "text": "Les cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) sont totipotentes"
+      },
+      {
+        "id": "E",
+        "text": "Les gènes soumis à l’empreinte parentale ont une expression monoallélique"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "La segmentation est totale, synchrone, et asymétrique."
+      },
+      {
+        "id": "B",
+        "text": "La polarité cellulaire débute dès le phénomène de compaction de la morula"
+      },
+      {
+        "id": "C",
+        "text": "Les gènes CDX2 et TEAD4 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI)"
+      },
+      {
+        "id": "D",
+        "text": "Les cellules du bouton embryonnaire (BE) ou masse cellulaire interne (MCI) sont totipotentes"
+      },
+      {
+        "id": "E",
+        "text": "Les gènes soumis à l’empreinte parentale ont une expression monoallélique"
+      }
+    ],
+    "reason": "Le marqueur HP du corrigé est une annotation de notation ; il demeure dans ignoredOptions et la correction, sans contaminer l’item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 3,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Au stade morula, les cellules périphériques établissent des jonctions serrées entre elles"
+      },
+      {
+        "id": "B",
+        "text": "Les gènes OCT4, NANOG, SOX2 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou de la masse cellulaire interne (MCI) HP"
+      },
+      {
+        "id": "C",
+        "text": "Les pompes Na/K ATPase sont localisées sur la face latéro-basale des cellules trophoblastiques"
+      },
+      {
+        "id": "D",
+        "text": "L’empreinte parentale se met en place au cours de la gamétogenèse"
+      },
+      {
+        "id": "E",
+        "text": "Au cours de la 1ère semaine du développement embryonnaire, le génome embryonnaire s’active et les cellules embryonnaires perdent leur totipotence"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Au stade morula, les cellules périphériques établissent des jonctions serrées entre elles"
+      },
+      {
+        "id": "B",
+        "text": "Les gènes OCT4, NANOG, SOX2 sont impliqués dans la différenciation des cellules du bouton embryonnaire (BE) ou de la masse cellulaire interne (MCI)"
+      },
+      {
+        "id": "C",
+        "text": "Les pompes Na/K ATPase sont localisées sur la face latéro-basale des cellules trophoblastiques"
+      },
+      {
+        "id": "D",
+        "text": "L’empreinte parentale se met en place au cours de la gamétogenèse"
+      },
+      {
+        "id": "E",
+        "text": "Au cours de la 1ère semaine du développement embryonnaire, le génome embryonnaire s’active et les cellules embryonnaires perdent leur totipotence"
+      }
+    ],
+    "reason": "Le marqueur HP du corrigé est une annotation de notation ; il demeure dans ignoredOptions et la correction, sans contaminer l’item."
+  },
+  {
+    "bank": "embryo.aut.s3",
+    "id": 8,
+    "field": "explanations",
+    "old": {
+      "A": "Vrai en avant de la LP, gouttière dès J19/20",
+      "B": "Faux, TUBE digestif uniquement en S4",
+      "C": "Vrai, on parle de Chorde dorsale car elle va se coller à l’ectoblaste, elle est en position dorsale même si sur les schémas elle est plutôt « centrale »",
+      "D": "Vrai, très réduite relativement (= 0,15 mm), avec une coupe transversale dans la partie caudale, entre la membrane cloacale et le nœud de Hensen.",
+      "E": "Faux, l’allantoïde et les cellules germinales primordiales sont à l’extérieur du disque ; la coupe considérée est dans le disque."
+    },
+    "new": {
+      "A": "Vrai en avant de la LP, gouttière dès J19/20",
+      "B": "Faux, TUBE digestif uniquement en S4",
+      "C": "Vrai, on parle de Chorde dorsale car elle va se coller à l’ectoblaste, elle est en position dorsale même si sur les schémas elle est plutôt « centrale »",
+      "D": "Vrai, très réduite (relativement = 0,15 mm), avec une coupe transversale dans la partie caudale, entre la membrane cloacale et le nœud de Hensen (pas comme sur votre schéma qui est une coupe en avant de la ligne primitive).",
+      "E": "Faux, l’allantoïde et les cellules germinales primordiales sont à l’extérieur du disque ; la coupe considérée est dans le disque."
+    },
+    "reason": "La fin du détail D, qui distingue la coupe figurée de la coupe décrite, avait été omise ; relue sur le corrigé p.3 sans englober E."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 10,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "L’ovogénèse est un phénomène discontinu qui débute 8ème semaine du développement embryonnaire."
+      },
+      {
+        "id": "B",
+        "text": "Le noyau des ovocytes 1 est un noyau dyctié."
+      },
+      {
+        "id": "C",
+        "text": "On peut observer en même temps dans l’espace périvitellin un spermatozoïde et deux globules polaires en cas de fécondation normale."
+      },
+      {
+        "id": "D",
+        "text": "La maturation ovocytaire est caractérisée par une augmentation du diamètre de l’ovocyte."
+      },
+      {
+        "id": "E",
+        "text": "L’ovocyte 1 reprend sa méiose après le pic de LH."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "L’ovogénèse est un phénomène discontinu qui débute avec la différenciation de la crête génitale à la 8ème semaine du développement embryonnaire."
+      },
+      {
+        "id": "B",
+        "text": "Le noyau des ovocytes 1 est un noyau dyctié."
+      },
+      {
+        "id": "C",
+        "text": "On peut observer en même temps dans l’espace périvitellin un spermatozoïde et deux globules polaires en cas de fécondation normale."
+      },
+      {
+        "id": "D",
+        "text": "La maturation ovocytaire est caractérisée par une augmentation du diamètre de l’ovocyte."
+      },
+      {
+        "id": "E",
+        "text": "L’ovocyte 1 reprend sa méiose après le pic de LH."
+      }
+    ],
+    "reason": "Phrase originale barrée relue visuellement dans le corrigé p.2 ; restauration de la portion omise, item toujours HP."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 10,
+    "field": "explanations",
+    "old": {
+      "A": "HP)",
+      "B": "HP (hors programme)",
+      "C": "Dans le corrigé, « en même temps » est barré. Annotation ajoutée : « La méiose se termine uniquement après la fusion membranaire : la totalité du spermatozoïde pénètre dans le cytoplasme de l’ovocyte. Donc GP2 après l’entrée du spz. »."
+    },
+    "new": {
+      "A": "Hors programme dans la source. Le corrigé barre « avec la différenciation de la crête génitale à la 8ème semaine » et ajoute « à 21 J ».",
+      "B": "HP (hors programme)",
+      "C": "Dans le corrigé, « en même temps » est barré. Annotation ajoutée : « La méiose se termine uniquement après la fusion membranaire : la totalité du spermatozoïde pénètre dans le cytoplasme de l’ovocyte. Donc GP2 après l’entrée du spz. »."
+    },
+    "reason": "Restitution littérale de la correction et du marqueur HP, sans modifier la clé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "field": "category",
+    "old": "2019-2020",
+    "new": "2020-2021",
+    "reason": "Le cartouche de session du sujet original indique 2020–2021, et non 2019–2020."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "field": "category",
+    "old": "2019-2020",
+    "new": "2020-2021",
+    "reason": "Le cartouche de session du sujet original indique 2020–2021, et non 2019–2020."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1309,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1309,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1184,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1184,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "field": "sourceSubject",
+    "old": "2. Annales Fécondation LS correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1045,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1045,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1604,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1604,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1605,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "La multiplication des ovogonies et la méiose des ovocytes I se chevauchent entre les 3ème et 5ème mois de la vie in utero."
+      },
+      {
+        "id": "B",
+        "text": "Le blocage en prophase I stade diplotène des ovocytes est contrôlé, entre autres, par les cellules folliculeuses qui établissent des jonctions avec l’ovocyte."
+      },
+      {
+        "id": "C",
+        "text": "La synthèse d’ARNm a lieu au cours de la phase diplotène de la prophase I."
+      },
+      {
+        "id": "D",
+        "text": "Le 1er globule polaire reste bloqué en prophase I."
+      },
+      {
+        "id": "E",
+        "text": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes."
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "La multiplication des ovogonies et la méiose des ovocytes I se chevauchent entre les 3ème et 5ème mois de la vie in utero."
+      },
+      {
+        "id": "B",
+        "text": "Le blocage en prophase I stade diplotène des ovocytes est contrôlé, entre autres, par les cellules folliculeuses qui établissent des jonctions avec l’ovocyte."
+      },
+      {
+        "id": "C",
+        "text": "La synthèse d’ARNm a lieu au cours de la phase diplotène de la prophase I."
+      },
+      {
+        "id": "D",
+        "text": "Le 1er globule polaire reste bloqué en prophase I."
+      },
+      {
+        "id": "E",
+        "text": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes I."
+      }
+    ],
+    "reason": "Précision de l’énoncé original : ovocytes I / lame choriale, contrôlée visuellement sur la copie non corrigée."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1544,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1404,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1308,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "subjectPage",
+    "old": 6,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "sourceEndPage",
+    "old": 6,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "sourceEndPage",
+    "old": 7,
+    "new": 1212,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "sourceEndPage",
+    "old": 7,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "sourceEndPage",
+    "old": 7,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "subjectPage",
+    "old": 7,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "sourceEndPage",
+    "old": 8,
+    "new": 1134,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "subjectPage",
+    "old": 8,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "sourceEndPage",
+    "old": 8,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "subjectPage",
+    "old": 8,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "sourceEndPage",
+    "old": 8,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "subjectPage",
+    "old": 9,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "sourceEndPage",
+    "old": 9,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "subjectPage",
+    "old": 9,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "sourceEndPage",
+    "old": 9,
+    "new": 1044,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "sourceSubject",
+    "old": "2. Annales meiose et gamétogenèse LS CORRECTION.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "subjectPage",
+    "old": 9,
+    "new": 1098,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "sourceEndPage",
+    "old": 9,
+    "new": 1098,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1606,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1606,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1545,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1405,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1405,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1309,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1309,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1213,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1213,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1213,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1213,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1135,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1135,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1184,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1184,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales S1 DE LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1045,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1045,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "field": "warning",
+    "old": "Clé source ABC(D)E : le corrigé déclare D ambigu ; QCM conservé hors note. Sujet non corrigé absent de l’archive : énoncé et photographies repris du corrigé.",
+    "new": "Clé source ABC(D)E : le corrigé déclare D ambigu ; QCM conservé hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1606,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1606,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1546,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1546,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1405,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1405,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "subjectPage",
+    "old": 2,
+    "new": 1309,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "sourceEndPage",
+    "old": 2,
+    "new": 1309,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Consigne non récupérable automatiquement. Voir la page source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1213,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1213,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source. Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1135,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1135,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "subjectPage",
+    "old": 3,
+    "new": 1135,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "sourceEndPage",
+    "old": 3,
+    "new": 1135,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : transcription reconstituée depuis le corrigé, à comparer au document source.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1184,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1184,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "field": "warning",
+    "old": "Sujet non corrigé absent de l’archive : énoncé reconstitué depuis le corrigé.",
+    "new": "",
+    "reason": "Retrait de l’avertissement obsolète de sujet absent."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "field": "subjectPage",
+    "old": 4,
+    "new": 1046,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "field": "sourceEndPage",
+    "old": 4,
+    "new": 1046,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "sourceSubject",
+    "old": "2. Annales S2 LS Correction.pdf",
+    "new": "Annales_compilation.pdf",
+    "reason": "Sujet non corrigé retrouvé et comparaison de chaque item."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "subjectPage",
+    "old": 5,
+    "new": 1098,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "sourceEndPage",
+    "old": 5,
+    "new": 1098,
+    "reason": "Pagination exacte du sujet retrouvé."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "field": "options",
+    "old": [
+      {
+        "id": "A",
+        "text": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11"
+      },
+      {
+        "id": "B",
+        "text": "Le 2 représente la lame chorale"
+      },
+      {
+        "id": "C",
+        "text": "Le 5 représente la vésicule vitelline"
+      },
+      {
+        "id": "D",
+        "text": "Le 6 représente le lécithocèle primaire"
+      },
+      {
+        "id": "E",
+        "text": "Le 7 représente le cytotrophoblaste"
+      }
+    ],
+    "new": [
+      {
+        "id": "A",
+        "text": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11"
+      },
+      {
+        "id": "B",
+        "text": "Le 2 représente la lame choriale."
+      },
+      {
+        "id": "C",
+        "text": "Le 5 représente la vésicule vitelline"
+      },
+      {
+        "id": "D",
+        "text": "Le 6 représente le lécithocèle primaire"
+      },
+      {
+        "id": "E",
+        "text": "Le 7 représente le cytotrophoblaste"
+      }
+    ],
+    "reason": "Précision de l’énoncé original : ovocytes I / lame choriale, contrôlée visuellement sur la copie non corrigée."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "explanations",
+    "old": {
+      "D": "Dans le corrigé, « et XX » est barré. Annotation ajoutée : « Item ambigüe l’appariement se fait entre X et Y pas entre XY et XX, ni entre X et X ».",
+      "E": "Dans le corrigé, « inter intra » est barré. Annotation ajoutée : « C’est l’inverse »."
+    },
+    "new": {
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : cet appariement concerne uniquement l’appariement des chromosomes sexuels XY (chez l’homme).\n\nAnnotation du corrigé thématique : Dans le corrigé, « et XX » est barré. Annotation ajoutée : « Item ambigüe l’appariement se fait entre X et Y pas entre XY et XX, ni entre X et X ».",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : c’est l’inverse : les brassages intrachromosomiques ont lieu en prophase I (crossing over) tandis que les brassages interchromosomiques ont lieu en métaphase I et II\n\nAnnotation du corrigé thématique : Dans le corrigé, « inter intra » est barré. Annotation ajoutée : « C’est l’inverse ».",
+      "A": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la maturation = différenciation sans division",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : définition",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la 2 e division n’est pas précédée d’une réplication de l’ADN."
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "answer",
+    "old": "",
+    "new": "AB",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "AB",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "explanations",
+    "old": {
+      "A": "faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)",
+      "B": "Dans le corrigé, « tous » est barré. Annotation ajoutée : « Seulement 2 gamètes sur 4 ».",
+      "C": "Dans le corrigé, « soit un caryotype 46, XY. » est barré. Annotation ajoutée : « 45X0 »."
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : à la fin de la 1 e division de méiose, on obtient un gamète XY et un gamète 0.\n\nAnnotation du corrigé thématique : faux car à la fin de la première division on n’obtient pas des gamètes (mais est-ce voulu ou un abus de langage ?)",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : c’est le cas de 2 gamètes sur 4 seulement : 2 gamètes possèdent 1 chromosome à une chromatide X et 1 chromosome à chromatide Y et les 2 autres gamètes possèdent 0 chromosomes sexuels.\n\nAnnotation du corrigé thématique : Dans le corrigé, « tous » est barré. Annotation ajoutée : « Seulement 2 gamètes sur 4 ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les zygotes formés sont soit un caryotype 47, XXY soit un caryotype 45, X0 (voir schéma).\n\nAnnotation du corrigé thématique : Dans le corrigé, « soit un caryotype 46, XY. » est barré. Annotation ajoutée : « 45X0 ».",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : VRAI : soit 45, X0 soit 47, XXY.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI : définition"
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "answer",
+    "old": "",
+    "new": "DE",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "DE",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "explanations",
+    "old": {
+      "B": "Dans le corrigé, « corticaux autour du noyau. » est barré. Annotation ajoutée : « En périphérie autour de la membrane ».",
+      "C": "Dans le corrigé, « pavillon » est barré. Annotation ajoutée : « Dans l’ampoule tubulaire ».",
+      "D": "Dans le corrigé, « 24 » est barré. Annotation ajoutée : « 48H (voire plus) »."
+    },
+    "new": {
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : migration des granules corticaux en périphérie.\n\nAnnotation du corrigé thématique : Dans le corrigé, « corticaux autour du noyau. » est barré. Annotation ajoutée : « En périphérie autour de la membrane ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la fécondation a lieu au niveau de l’ampoule de la trompe utérine.\n\nAnnotation du corrigé thématique : Dans le corrigé, « pavillon » est barré. Annotation ajoutée : « Dans l’ampoule tubulaire ».",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les spermatozoïdes restent en moyenne 48h après un rapport sexuel dans l’appareil génital féminin mais certains peuvent rester jusqu’à 5 jours après les rapports.\n\nAnnotation du corrigé thématique : Dans le corrigé, « 24 » est barré. Annotation ajoutée : « 48H (voire plus) ».",
+      "A": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la capacitation est réversible, à partir de la réaction acrosomique, les phénomènes sont irréversibles.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI : ces derniers font leur réaction acrosomique en avance pour favoriser la progression des autres spermatozoïdes (coopération pour qu’un spermatozoïde réussisse la traversée de la ZP)."
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "answer",
+    "old": "",
+    "new": "AE",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "AE",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "explanations",
+    "old": {
+      "B": "Dans le corrigé, « les cellules du cumulus » est barré. Annotation ajoutée : « . La zone pellucide ».",
+      "C": "Dans le corrigé, « interne » est barré. Annotation ajoutée : « externe »."
+    },
+    "new": {
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : cours\n\nAnnotation du corrigé thématique : Dans le corrigé, « les cellules du cumulus » est barré. Annotation ajoutée : « . La zone pellucide ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : fusion de la membrane plasmique et de la membrane externe de l’acrosome du spz.\n\nAnnotation du corrigé thématique : Dans le corrigé, « interne » est barré. Annotation ajoutée : « externe ».",
+      "A": "Corrigé du tutorat — session 1 2022–2023 : VRAI : l’acrosine hydrolyse la ZP1 permettant aux spz de passer dans la zone pellucide.",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : VRAI : cours",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI"
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "answer",
+    "old": "",
+    "new": "ABDE",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "ABDE",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "explanations",
+    "old": {
+      "A": "Dans le corrigé, « première » est barré. Annotation ajoutée : « deuxième ».",
+      "C": "Dans le corrigé, « symétrique synchrone » est barré. Annotation ajoutée : « asymétrique et asynchrone »."
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la 1 e SDE débute à la fécondation (J0), l’implantation a lieu durant la 2 e SDE.\n\nAnnotation du corrigé thématique : Dans le corrigé, « première » est barré. Annotation ajoutée : « deuxième ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : totale, asymétrique et asynchrone.\n\nAnnotation du corrigé thématique : Dans le corrigé, « symétrique synchrone » est barré. Annotation ajoutée : « asymétrique et asynchrone ».",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la segmentation a lieu de J0 à J4 lors desquels les cellules se divisent en blastomères.",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : VRAI : J4 = morula, acquisition de la polarité cellulaire, adhérence cellulaire, jonction intercellulaire.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : VRAI : def : blastocyte = trophoblaste + blastocèle + bouton embryonnaire (=MCI)"
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "answer",
+    "old": "",
+    "new": "BDE",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "BDE",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "explanations",
+    "old": {
+      "A": "Faux lente",
+      "B": "Dans le corrigé, « fausse couche » est barré. Annotation ajoutée : « Grossesse extra-utérine ».",
+      "D": "Dans le corrigé, « Un quart » est barré. Annotation ajoutée : « la moitié 50% ».",
+      "E": "Dans le corrigé, « ovaires » est barré. Annotation ajoutée : « trompes »."
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : migration LENTE due aux sécrétions tubaires, contractions utérines et hormonodépendante (progestérone)\n\nAnnotation du corrigé thématique : Faux lente",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : Un défaut de contractions tubaires entraîne une GEU : grossesse extra-utérine (pas assez de contraction pour emmener l’œuf jusqu’à l’utérus). Cf cours VI (partie extrinsèque)\n\nAnnotation du corrigé thématique : Dans le corrigé, « fausse couche » est barré. Annotation ajoutée : « Grossesse extra-utérine ».",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : 50% des zygotes n’atteignent pas le stade blastocyte à c’est la loi du « tout ou rien ».\n\nAnnotation du corrigé thématique : Dans le corrigé, « Un quart » est barré. Annotation ajoutée : « la moitié 50% ».",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les GEU sont principalement tubaires (98%)\n\nAnnotation du corrigé thématique : Dans le corrigé, « ovaires » est barré. Annotation ajoutée : « trompes ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : VRAI : la transition materno-embryonnaire a bien lieu à J3."
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "answer",
+    "old": "",
+    "new": "C",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "C",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "explanations",
+    "old": {
+      "A": "Dans le corrigé, « folliculaire » est barré. Annotation ajoutée : « lutéale ».",
+      "C": "Dans le corrigé, « cytotrophoblaste » est barré. Annotation ajoutée : « syncytiotrophoblaste ».",
+      "E": "Dans le corrigé, « au stade segmentaire » est barré. Annotation ajoutée : « après J8 car CA déjà formé »."
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : elle a lieu au sein de l’endomètre en phase LUTEALE.\n\nAnnotation du corrigé thématique : Dans le corrigé, « folliculaire » est barré. Annotation ajoutée : « lutéale ».",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : il s’agit là de la définition du SYNcytiotrophoblaste.\n\nAnnotation du corrigé thématique : Dans le corrigé, « cytotrophoblaste » est barré. Annotation ajoutée : « syncytiotrophoblaste ».",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : elles sont secondaires à un dédoublement du disque didermique lors de la 2 ème SDE ou un dédoublement de la ligne primitive à la 3 ème SDE.\n\nAnnotation du corrigé thématique : Dans le corrigé, « au stade segmentaire » est barré. Annotation ajoutée : « après J8 car CA déjà formé ».",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : VRAI : l’endomètre est épais et riche en glandes sécrétant du glycogène qui est indispensable à l’implantation cf p4",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : le disque didermique est composé du plancher de la cavité amniotique qui donner l’épiblaste et du plafond du lécithocèle secondaire qui donne l’hypoblaste."
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "answer",
+    "old": "",
+    "new": "B",
+    "reason": "Grille p.1232 et cinq verdicts détaillés concordants, après appariement du sujet."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "rawAnswer",
+    "old": null,
+    "new": "B",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "field": "warning",
+    "old": "Réponse officielle non identifiable avec certitude : ce QCM est hors note.",
+    "new": "",
+    "reason": "Clé de correction identifiée, avertissement ancien retiré."
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 26,
+    "field": "explanations",
+    "old": {
+      "A": "Faux Il est fini bien avant à J16",
+      "B": "Faux la condensation à lieu à J18 et la segmentation du MPA commence à J19",
+      "D": "Faux J 18 = milieu de S3",
+      "C": "Faux : la fermeture du neuropore antérieur est située en S4 dans le corrigé.",
+      "E": "Faux : les cellules germinales primordiales sont d’origine épiblastique."
+    },
+    "new": {
+      "A": "Corrigé du tutorat — session 1 2022–2023 : FAUX : le processus chordal se transforme en canal chordal au début de la 3 ème semaine à J16.\n\nAnnotation du corrigé thématique : Faux Il est fini bien avant à J16",
+      "B": "Corrigé du tutorat — session 1 2022–2023 : FAUX : l’ensemble du mésoblaste se condense à J18 et le mésoblaste para-axial commence à se segmenter à J19.\n\nAnnotation du corrigé thématique : Faux la condensation à lieu à J18 et la segmentation du MPA commence à J19",
+      "D": "Corrigé du tutorat — session 1 2022–2023 : FAUX : la zone cardiogène se forme au milieu de la 3 ème semaine à J18-19.\n\nAnnotation du corrigé thématique : Faux J 18 = milieu de S3",
+      "C": "Corrigé du tutorat — session 1 2022–2023 : FAUX : le neuropore antérieur se ferme à J24 donc au milieu de la 4 ème SDE.\n\nAnnotation du corrigé thématique : Faux : la fermeture du neuropore antérieur est située en S4 dans le corrigé.",
+      "E": "Corrigé du tutorat — session 1 2022–2023 : FAUX : les cellules germinales se forment à partir de l’ectoblaste et apparaissent aux alentours de l’allantoïde à J18\n\nAnnotation du corrigé thématique : Faux : les cellules germinales primordiales sont d’origine épiblastique."
+    },
+    "reason": "Les cinq verdicts/détails ont été lus dans le corrigé de la compilation ; annotations thématiques conservées et attribuées."
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 26,
+    "field": "rawAnswer",
+    "old": "AUCUNE",
+    "new": "RIEN",
+    "reason": "Clé littérale de la grille officielle de la compilation."
+  }
+]

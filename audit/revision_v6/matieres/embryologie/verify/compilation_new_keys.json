@@ -1,0 +1,321 @@
+[
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "sourceNumber": 1,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1233,
+    "rect": [
+      30,
+      154,
+      565.0,
+      431
+    ],
+    "gridPage": 1232,
+    "rawKey": "AB",
+    "answer": "AB",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "La gamétogenèse est composée de 3 étapes : multiplication, méiose, différenciation.",
+      "B": "La gamétogenèse concerne uniquement les cellules germinales.",
+      "C": "La méiose est définie par l’ensemble de 2 divisions cellulaires successives, précédées chacune d’une réplication de l’ADN aboutissant à la formation de 4 cellules filles haploïdes.",
+      "D": "L’appariement des chromosomes sexuels XY et XX se fait par les régions PAR au sein de la vésicule sexuelle.",
+      "E": "La diversité des individus est assurée par des brassages interchromosomiques de la prophase I et intrachromosomiques des métaphases I et II."
+    },
+    "explanations": {
+      "A": "VRAI : la maturation = différenciation sans division",
+      "B": "VRAI : définition",
+      "C": "FAUX : la 2 e division n’est pas précédée d’une réplication de l’ADN.",
+      "D": "FAUX : cet appariement concerne uniquement l’appariement des chromosomes sexuels XY (chez l’homme).",
+      "E": "FAUX : c’est l’inverse : les brassages intrachromosomiques ont lieu en prophase I (crossing over) tandis que les brassages interchromosomiques ont lieu en métaphase I et II"
+    },
+    "statementDiffs": [
+      {
+        "id": "E",
+        "site": "La diversité des individus est assurée par des brassages inter-chromosomiques de la prophase 1 et intrachromosomiques des métaphases I et II.",
+        "source": "La diversité des individus est assurée par des brassages interchromosomiques de la prophase I et intrachromosomiques des métaphases I et II."
+      }
+    ],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "sourceNumber": 2,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1233,
+    "rect": [
+      30,
+      444,
+      565.0,
+      748
+    ],
+    "gridPage": 1232,
+    "rawKey": "DE",
+    "answer": "DE",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "A la fin de la première division de méiose, les gamètes obtenus possèdent un chromosome à une chromatide X et un chromosome à une chromatide Y.",
+      "B": "A la fin de la deuxième division de méiose, tous les gamètes possèdent un chromosome à une chromatide X et un chromosome à une chromatide Y.",
+      "C": "Après fécondation avec un ovocyte en métaphase II sans anomalie de méiose, les zygotes formés ont soit un caryotype 47, XXY soit un caryotype 46, XY.",
+      "D": "Après fécondation avec un ovocyte en métaphase II sans anomalie de méiose, certains zygotes ont un caryotype 45, X0.",
+      "E": "Le zygote avec un caryotype 47, XXY est viable, c’est un syndrome de Klinefelter."
+    },
+    "explanations": {
+      "A": "FAUX : à la fin de la 1 e division de méiose, on obtient un gamète XY et un gamète 0.",
+      "B": "FAUX : c’est le cas de 2 gamètes sur 4 seulement : 2 gamètes possèdent 1 chromosome à une chromatide X et 1 chromosome à chromatide Y et les 2 autres gamètes possèdent 0 chromosomes sexuels.",
+      "C": "FAUX : les zygotes formés sont soit un caryotype 47, XXY soit un caryotype 45, X0 (voir schéma).",
+      "D": "VRAI : soit 45, X0 soit 47, XXY.",
+      "E": "VRAI : définition"
+    },
+    "statementDiffs": [],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "sourceNumber": 3,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1234,
+    "rect": [
+      30,
+      66,
+      565.0,
+      370
+    ],
+    "gridPage": 1232,
+    "rawKey": "AE",
+    "answer": "AE",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "La capacitation des spermatozoïdes est un phénomène réversible tant que la réaction acrosomique n’a pas eu lieu.",
+      "B": "La maturation cytoplasmique de l’ovocyte se manifeste par la migration des granules corticaux autour du noyau.",
+      "C": "La fécondation a lieu au niveau du pavillon de la trompe utérine.",
+      "D": "Les spermatozoïdes sont présents dans l’appareil génital féminin pour une durée maximale de 24 heures après un rapport sexuel.",
+      "E": "Certains spermatozoïdes ont une réaction acrosomique spontanée sans fixation aux cellules du complexe cumulo-ovocytaire."
+    },
+    "explanations": {
+      "A": "VRAI : la capacitation est réversible, à partir de la réaction acrosomique, les phénomènes sont irréversibles.",
+      "B": "FAUX : migration des granules corticaux en périphérie.",
+      "C": "FAUX : la fécondation a lieu au niveau de l’ampoule de la trompe utérine.",
+      "D": "FAUX : les spermatozoïdes restent en moyenne 48h après un rapport sexuel dans l’appareil génital féminin mais certains peuvent rester jusqu’à 5 jours après les rapports.",
+      "E": "VRAI : ces derniers font leur réaction acrosomique en avance pour favoriser la progression des autres spermatozoïdes (coopération pour qu’un spermatozoïde réussisse la traversée de la ZP)."
+    },
+    "statementDiffs": [],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "sourceNumber": 4,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1234,
+    "rect": [
+      30,
+      383,
+      565.0,
+      646
+    ],
+    "gridPage": 1232,
+    "rawKey": "ABDE",
+    "answer": "ABDE",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "La principale enzyme libérée lors de la réaction acrosomique est l’acrosine.",
+      "B": "Toutes les enzymes libérées lors de la réaction acrosomique au moment de l’interaction gamétique permettent le passage de spermatozoïdes à travers les cellules du cumulus",
+      "C": "La réaction acrosomique débute par une fusion des membranes plasmiques et interne de l’acrosome du spermatozoïde.",
+      "D": "La réaction acrosomique permet l’externalisation de la membrane interne de l’acrosome du spermatozoïde.",
+      "E": "Sur la membrane interne de l’acrosome, la molécule d’adhésion du spermatozoïde à ZP2 est une molécule SPAM."
+    },
+    "explanations": {
+      "A": "VRAI : l’acrosine hydrolyse la ZP1 permettant aux spz de passer dans la zone pellucide.",
+      "B": "VRAI : cours",
+      "C": "FAUX : fusion de la membrane plasmique et de la membrane externe de l’acrosome du spz.",
+      "D": "VRAI : cours",
+      "E": "VRAI"
+    },
+    "statementDiffs": [
+      {
+        "id": "C",
+        "site": "La réaction acrosomique débute par une fusion des membranes plasmique et interne de l'acrosome du spermatozoïde",
+        "source": "La réaction acrosomique débute par une fusion des membranes plasmiques et interne de l’acrosome du spermatozoïde."
+      }
+    ],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true,
+    "divergence": "Item B : la compilation du tutorat 2022-2023 le cote Vrai, alors que le corrigé Bard de la colle thématique d’une proposition identique le cote Faux (zone pellucide/cumulus). Signaler cette divergence après correction et inviter à vérifier la ronéo."
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "sourceNumber": 5,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1235,
+    "rect": [
+      30,
+      66,
+      565.0,
+      290
+    ],
+    "gridPage": 1232,
+    "rawKey": "BDE",
+    "answer": "BDE",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "La première semaine de développement embryonnaire débute lors de l’implantation.",
+      "B": "Les premières divisions embryonnaires correspondent aux stades de segmentation.",
+      "C": "La segmentation des cellules est totale, symétrique et synchrone.",
+      "D": "A J4, au stade morula, les cellules externes acquièrent une polarité cellulaire et possèdent des jonctions communicantes avec les cellules internes.",
+      "E": "A J5, le blastocyste est formé d’une masse cellulaire interne, d’un trophoblaste et d’un blastocèle."
+    },
+    "explanations": {
+      "A": "FAUX : la 1 e SDE débute à la fécondation (J0), l’implantation a lieu durant la 2 e SDE.",
+      "B": "VRAI : la segmentation a lieu de J0 à J4 lors desquels les cellules se divisent en blastomères.",
+      "C": "FAUX : totale, asymétrique et asynchrone.",
+      "D": "VRAI : J4 = morula, acquisition de la polarité cellulaire, adhérence cellulaire, jonction intercellulaire.",
+      "E": "VRAI : def : blastocyte = trophoblaste + blastocèle + bouton embryonnaire (=MCI)"
+    },
+    "statementDiffs": [
+      {
+        "id": "D",
+        "site": "A J4, au stade de morula, les cellules externes acquièrent une polarité cellulaire et possèdent des jonctions communicantes avec les cellules internes",
+        "source": "A J4, au stade morula, les cellules externes acquièrent une polarité cellulaire et possèdent des jonctions communicantes avec les cellules internes."
+      }
+    ],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "sourceNumber": 6,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1235,
+    "rect": [
+      30,
+      302,
+      565.0,
+      555
+    ],
+    "gridPage": 1232,
+    "rawKey": "C",
+    "answer": "C",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "La migration de l’embryon est rapide sous la dépendance de contractions utérines.",
+      "B": "Un défaut de contractions tubaires et utérines entraîne une fausse couche.",
+      "C": "A J3 du développement embryonnaire, les transcrits embryonnaires s’expriment et les transcrits maternels ne sont plus exprimés, c’est la transition materno-embryonnaire.",
+      "D": "Un quart des zygotes n’atteint pas le stade de blastocyste.",
+      "E": "Les grossesses extra-utérines sont principalement situées au niveau des ovaires."
+    },
+    "explanations": {
+      "A": "FAUX : migration LENTE due aux sécrétions tubaires, contractions utérines et hormonodépendante (progestérone)",
+      "B": "FAUX : Un défaut de contractions tubaires entraîne une GEU : grossesse extra-utérine (pas assez de contraction pour emmener l’œuf jusqu’à l’utérus). Cf cours VI (partie extrinsèque)",
+      "C": "VRAI : la transition materno-embryonnaire a bien lieu à J3.",
+      "D": "FAUX : 50% des zygotes n’atteignent pas le stade blastocyte à c’est la loi du « tout ou rien ».",
+      "E": "FAUX : les GEU sont principalement tubaires (98%)"
+    },
+    "statementDiffs": [],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "sourceNumber": 7,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1236,
+    "rect": [
+      30,
+      66,
+      565.0,
+      344
+    ],
+    "gridPage": 1232,
+    "rawKey": "B",
+    "answer": "B",
+    "allowNoAnswer": false,
+    "answerIsEmpty": false,
+    "items": {
+      "A": "L’implantation de l’embryon a lieu au sein de l’endomètre en phase folliculaire.",
+      "B": "L’endomètre lors de l’implantation est riche en glandes contenant du glycogène.",
+      "C": "Le cytotrophoblaste est issu du trophoblaste et est composée de grandes cellules multinucléés sécrétant des collagénases.",
+      "D": "Le disque didermique est composé du plancher de l’épiblaste et du plafond de l’hypoblaste.",
+      "E": "Les grossesses gémellaires monochoriales monoamniotiques sont secondaires à une division de l’embryon au stade segmentaire."
+    },
+    "explanations": {
+      "A": "FAUX : elle a lieu au sein de l’endomètre en phase LUTEALE.",
+      "B": "VRAI : l’endomètre est épais et riche en glandes sécrétant du glycogène qui est indispensable à l’implantation cf p4",
+      "C": "FAUX : il s’agit là de la définition du SYNcytiotrophoblaste.",
+      "D": "FAUX : le disque didermique est composé du plancher de la cavité amniotique qui donner l’épiblaste et du plafond du lécithocèle secondaire qui donne l’hypoblaste.",
+      "E": "FAUX : elles sont secondaires à un dédoublement du disque didermique lors de la 2 ème SDE ou un dédoublement de la ligne primitive à la 3 ème SDE."
+    },
+    "statementDiffs": [
+      {
+        "id": "A",
+        "site": "L'implantation de l'embryon a lieu au sein d'un endomètre en phase folliculaire",
+        "source": "L’implantation de l’embryon a lieu au sein de l’endomètre en phase folliculaire."
+      },
+      {
+        "id": "C",
+        "site": "Le cytotrophoblaste est issu du trophoblaste et est composé de grandes cellules multi nucléées sécrétant des collagénases.",
+        "source": "Le cytotrophoblaste est issu du trophoblaste et est composée de grandes cellules multinucléés sécrétant des collagénases."
+      }
+    ],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s3",
+    "id": 26,
+    "sourceNumber": 11,
+    "session": "Session 1 2022-2023",
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "page": 1238,
+    "rect": [
+      30,
+      66,
+      565.0,
+      316
+    ],
+    "gridPage": 1232,
+    "rawKey": "RIEN",
+    "answer": "",
+    "allowNoAnswer": true,
+    "answerIsEmpty": true,
+    "items": {
+      "A": "La fin du processus chordal.",
+      "B": "La condensation du mésoblaste latéral et le début de la segmentation du mésoblaste para-axial et du mésoblaste intermédiaire.",
+      "C": "La fermeture du tube neural au niveau du neuropore antérieur.",
+      "D": "La formation de la zone cardiogène en position extra et intra-embryonnaire.",
+      "E": "La différenciation des cellules germinales primordiales à partir de l’hypoblaste."
+    },
+    "explanations": {
+      "A": "FAUX : le processus chordal se transforme en canal chordal au début de la 3 ème semaine à J16.",
+      "B": "FAUX : l’ensemble du mésoblaste se condense à J18 et le mésoblaste para-axial commence à se segmenter à J19.",
+      "C": "FAUX : le neuropore antérieur se ferme à J24 donc au milieu de la 4 ème SDE.",
+      "D": "FAUX : la zone cardiogène se forme au milieu de la 3 ème semaine à J18-19.",
+      "E": "FAUX : les cellules germinales se forment à partir de l’ectoblaste et apparaissent aux alentours de l’allantoïde à J18"
+    },
+    "statementDiffs": [],
+    "gridAndDetailAgree": true,
+    "cropVisualChecked": true,
+    "divergence": "La clé RIEN est explicite. Les détails A (début du processus/canal vs fin du processus) et E (origine ectoblaste vs épiblaste) méritent une relecture avec le cours ; ne pas transformer ces commentaires en nouvelle explication scientifique."
+  }
+]

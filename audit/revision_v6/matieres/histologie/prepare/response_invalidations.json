@@ -1,0 +1,234 @@
+[
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "action": "invalidateSavedResponsesForThisQuestionInBothProfiles",
+    "reason": "Version à cinq propositions rétablie ; nombre ou signification des lettres modifié.",
+    "oldToNewLabels": {
+      "A": "A",
+      "B": "C",
+      "C": "D",
+      "D": "E"
+    },
+    "addedLabels": [
+      "B"
+    ],
+    "beforeOptions": [
+      {
+        "id": "A",
+        "text": "Des cellules vivantes simplement maintenues en survie : on parlera de culture ex vivo"
+      },
+      {
+        "id": "B",
+        "text": "Des cellules vivantes qui dans des conditions particulières peuvent se multiplier, on parlera de cultures in vitro"
+      },
+      {
+        "id": "C",
+        "text": "Des fragments de peau trop épais pour être observés directement au microscope, coupés alors en tranches « fines » (après fixation et inclusion) pour une observation en microscopie optique en champ proche (MOCP)"
+      },
+      {
+        "id": "D",
+        "text": "Des cellules en suspension recueillies à partir d’un liquide pathologique puis étalées sur lame et séchées à l’air dans le cadre d’une détection in situ"
+      }
+    ],
+    "afterOptions": [
+      {
+        "id": "A",
+        "text": "Des cellules vivantes simplement maintenues en survie : on parlera de “cultures ex vivo”."
+      },
+      {
+        "id": "B",
+        "text": "De fragments de peau simplement maintenus en survie : on parlera de “conditions ex vivo”."
+      },
+      {
+        "id": "C",
+        "text": "De cellules vivantes qui, dans des conditions particulières, peuvent se multiplier : on parlera de “cultures in vitro”."
+      },
+      {
+        "id": "D",
+        "text": "Des fragments de peau, trop épais pour être observés directement au microscope, coupés alors en tranches “fines” (après fixation et inclusion), et montés sur grille (de nickel ou de cuivre) pour une observation en microscopie optique en champ proche (MOCP)."
+      },
+      {
+        "id": "E",
+        "text": "Des cellules en suspension recueillies à partir d’un liquide pathologique, puis étalées sur lame et séchées à l’air, dans le cadre d’une détection in situ."
+      }
+    ],
+    "beforeKey": "ABD",
+    "afterKey": "",
+    "preserveOtherQuestions": true
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "action": "invalidateSavedResponsesForThisQuestionInBothProfiles",
+    "reason": "Version à cinq propositions rétablie ; nombre ou signification des lettres modifié.",
+    "oldToNewLabels": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "E"
+    },
+    "addedLabels": [
+      "D"
+    ],
+    "beforeOptions": [
+      {
+        "id": "A",
+        "text": "de cellules « vivantes » provenant directement d'un organisme et simplement maintenues en survie : on parle alors de « cultures in vitro », et de cellules « vivantes » qui, dans des conditions particulières, peuvent se multiplier en-dehors d'un organisme: on parle alors de « cultures ex vivo »."
+      },
+      {
+        "id": "B",
+        "text": "de cellules provenant, soit de prélèvements liquides (liquides biologiques, liquides pathologiques, ou liquides d'exploration), soit de produits de grattage ou de brossage."
+      },
+      {
+        "id": "C",
+        "text": "d'échantillons solides (organes, tumeurs, etc.), pour lesquels une tranche de section, frais ou congelé, sera appliquée avec une certaine pression sur une lame afin d'en obtenir une apposition."
+      },
+      {
+        "id": "D",
+        "text": "d'organes trop épais pour être observés directement au microscope : ils sont alors coupés en tranches fines, avant fixation et inclusion, et montés entre lame et lamelle pour leur observation en microscopie optique, ou sur grille pour leur observation en microscopie électronique."
+      }
+    ],
+    "afterOptions": [
+      {
+        "id": "A",
+        "text": "De cellules « vivantes » provenant directement d’un organisme et simplement maintenues en survie : on parle de « cultures in vitro » et de cellules « vivantes » qui, dans des conditions particulières, peuvent se multiplier en-dehors d’un organisme : on parle alors de « culture ex-vivo »."
+      },
+      {
+        "id": "B",
+        "text": "De cellules provenant, soit de Prélèvement liquide (liquides biologiques, liquides pathologique, liquides d'exploration), Soit de produit de grattage ou de brossage."
+      },
+      {
+        "id": "C",
+        "text": "D’échantillon solide (organes, tumeur, etc.) pour lesquels une tranche de section, frais ou congelé sera appliquée avec une certaine pression sur une lame afin d'en obtenir une apposition."
+      },
+      {
+        "id": "D",
+        "text": "D'organes très fin qui, avant toute dissection sous la loupe binoculaire, sont directement déposés sur lame."
+      },
+      {
+        "id": "E",
+        "text": "D'organes trop épais pour être observés directement au microscope : ils sont alors coupés en tranches fines, avant fixation et inclusion, et montés entre lame et lamelle pour leur observation en microscopie optique, ou sur grille pour leur observation en microscopie électronique."
+      }
+    ],
+    "beforeKey": "BC",
+    "afterKey": "BCD",
+    "preserveOtherQuestions": true
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 6,
+    "action": "invalidateSavedResponsesForThisQuestionInBothProfiles",
+    "reason": "Version à cinq propositions rétablie ; nombre ou signification des lettres modifié.",
+    "oldToNewLabels": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "addedLabels": [
+      "E"
+    ],
+    "beforeOptions": [
+      {
+        "id": "A",
+        "text": "d'une fixation, par l'association formol/acide picrique (liquide de Bouin), laquelle devra être effectuée le plus rapidement possible, le(s) prélèvement(s) étant pour cela immergé(s) dans un très grand volume de fixateur, afin de précipiter les glucides et lipides et empêcher la dégradation cellulaire et tissulaire."
+      },
+      {
+        "id": "B",
+        "text": "suivie d'une inclusion destinée à durcir le prélèvement afin d'en permettre la coupe. Après une déshydratation par passage dans des bains d'alcool de degré croissants (70 0 , 95 0 et 100 0 ), puis de xylène, le prélèvement est plongé dans de la paraffine maintenue à 57 0 C/60 0 C. Après refroidissement, le bloc solide peut alors être coupé en tranches fines."
+      },
+      {
+        "id": "C",
+        "text": "suivie de la coupe, d'une épaisseur de 30 à 50 microns, et réalisée par un microtome, appareil doté d'un système d'avance mécanique et d'un couteau en acier (ou de lames jetables). Les coupes obtenues sont ensuite déposées et collées sur des lames de verre."
+      },
+      {
+        "id": "D",
+        "text": "suivie d'une coloration effectuée directement sur la coupe en paraffine laquelle vise à augmenter les contrastes, et ainsi faire apparaître les différents composants cellulaires et tissulaires. Par exemple, l'hématéine-éosine-safran (HES) fait apparaître le noyau en violet, le cytoplasme en rose, et le conjonctif en bleu ou vert."
+      }
+    ],
+    "afterOptions": [
+      {
+        "id": "A",
+        "text": "D’une fixation, par l’association formol/Acide picrique (liquide de Bouin), laquelle devra être effectuée le plus rapidement possible, le(s) prélèvement(s) étant pour cela immergé(s) dans un très grand volume de fixateur, afin de précipiter les glucides et lipides et empêcher la dégradation cellulaire et tissulaire."
+      },
+      {
+        "id": "B",
+        "text": "Suivie d’une inclusion destinée à durcir le prélèvement afin d’en permettre la coupe. Après une déshydratation par passage dans des bains d’alcool de degré croissant (70°, 95°, 100°), puis de xylène, le prélèvement est plongé dans de la paraffine maintenue à 57°C/60°C. Après refroidissement, le bloc solide peut être coupé en tranches fines."
+      },
+      {
+        "id": "C",
+        "text": "Suivie de la coupe, d’une épaisseur de 30 à 50 microns, et réaliser par un microtome, appareil doté d’un système d’avance mécanique et d’un couteau en acier (ou de lames jetables). Les coupes obtenues sont ensuite déposées et collées sur des lames de verre."
+      },
+      {
+        "id": "D",
+        "text": "Suivie d’une coloration effectuée directement sur la coupe en paraffine, laquelle vise à augmenter les contrastes, et ainsi faire apparaitre les différents composants cellulaires et tissulaires. Par exemple, l’hématéine éosine safran (HES) fait apparaitre le noyau en violet, le cytoplasme en rose et le conjonctif en bleu/vert."
+      },
+      {
+        "id": "E",
+        "text": "Suivie d’un montage. Auparavant, les préparations devront être soigneusement déshydratées par passage dans des bains d’alcool de degré croisant (70°, 95° et 100°), puis du xylène. Les coupes seront ensuite montées entre lames et lamelles avec un milieu de montage."
+      }
+    ],
+    "beforeKey": "",
+    "afterKey": "",
+    "preserveOtherQuestions": true
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "action": "invalidateSavedResponsesForThisQuestionInBothProfiles",
+    "reason": "Version à cinq propositions rétablie ; nombre ou signification des lettres modifié.",
+    "oldToNewLabels": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "E"
+    },
+    "addedLabels": [
+      "C"
+    ],
+    "beforeOptions": [
+      {
+        "id": "A",
+        "text": "des cellules en suspension étalées sur lame"
+      },
+      {
+        "id": "B",
+        "text": "des échantillons solides (organes, tumeurs, etc.) appliqués avec une certaine pression sur une lame afin d'en obtenir une empreinte."
+      },
+      {
+        "id": "C",
+        "text": "d'organes trop épais pour être observés directement au microscope, et alors coupés en tranches « fines » avant fixation et inclusion ou enrobage."
+      },
+      {
+        "id": "D",
+        "text": "de cellules qui, dans des conditions particulières, peuvent se multiplier en dehors d'un organisme : on parlera alors de « cultures in vitro »."
+      }
+    ],
+    "afterOptions": [
+      {
+        "id": "A",
+        "text": "Des cellules en suspension étalées sur lame"
+      },
+      {
+        "id": "B",
+        "text": "Des échantillons solides (organes, tumeurs, ect.) appliqués avec une certaine pression sur une lame afin d’en obtenir une empreinte."
+      },
+      {
+        "id": "C",
+        "text": "D’organes très fins directement déposés sur lame, après dissection sous loupe binoculaire."
+      },
+      {
+        "id": "D",
+        "text": "D’organes trop épais pour être observés directement au microscope, et alors coupés en tranches « fines » avant fixation et inclusion ou enrobage."
+      },
+      {
+        "id": "E",
+        "text": "De cellules qui, dans des conditions particulières, peuvent se multiplier en dehors d’un organisme : on parlera alors de « cultures in vitro »."
+      }
+    ],
+    "beforeKey": "ABD",
+    "afterKey": "",
+    "preserveOtherQuestions": true
+  }
+]

@@ -1,0 +1,750 @@
+annales.ue3.2020-2021.paces Q1 · SITE=ACE · GRILLE=ACE · DÉTAIL=['ACE']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 1 : 
+ 
+Dans la tranche d’âge 18-25 ans, les limites de référence du taux d’hémoglobine chez la femme sont de 124 
+g/L et 156 g/L. Ces deux limites correspondent respectivement aux percentiles 2,5 et 97,5 de la distribution 
+théorique du taux d’hémoglobine dans cette population. Le taux d’hémoglobine est normalement distribué 
+dans cette population. 
+Une femme sera considérée anémique si son taux d’hémoglobine est inférieur à 120 g/L. 
+Vous arrondirez sur la 2e décimale la valeur lue dans la table et vous garderez deux chiffres après la virgule. 
+SUJET ORIGINAL
+Exercice 1 :
+Dans la tranche d’âge 18-25 ans, les limites de référence du taux d’hémoglobine chez la femme sont de 124
+g/L et 156 g/L. Ces deux limites correspondent respectivement aux percentiles 2,5 et 97,5 de la distribution
+théorique du taux d’hémoglobine dans cette population. Le taux d’hémoglobine est normalement distribué
+dans cette population.
+Une femme sera considérée anémique si son taux d’hémoglobine est inférieur à 120 g/L.
+Vous arrondirez sur la 2e décimale la valeur lue dans la table et vous garderez deux chiffres après la virgule.
+1. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. La moyenne théorique du taux d’hémoglobine dans cette population est de 140 g/L.
+B. L’écart type théorique du taux d’hémoglobine dans cette population est de 16 g/L.
+C. L’écart type théorique du taux d’hémoglobine dans cette population est de 8 g/L.
+D. La probabilité pour une femme de cette population de présenter une anémie est de 2 %.
+E. La probabilité pour une femme de cette population de présenter une anémie est de 1 %.
+CORRIGÉ ORIGINAL
+Correction détaillée
+Exercice 1 :
+Dans la tranche d’âge 18-25 ans, les limites de référence du taux d’hémoglobine chez la femme sont de 124 g/L
+et 156 g/L. Ces deux limites correspondent respectivement aux percentiles 2,5 et 97,5 de la distribution
+théorique du taux d’hémoglobine dans cette population. Le taux d’hémoglobine est normalement distribué dans
+cette population.
+Une femme sera considérée anémique si son taux d’hémoglobine est inférieur à 120 g/L.
+Vous arrondirez sur la 2e décimale la valeur lue dans la table et vous garderez deux chiffres après la virgule.
+1. Parmi les propositions suivantes, vous cocherez la (ou les) proposition(s) exacte(s) :
+A. La moyenne théorique du taux d’hémoglobine dans cette population est de 140 g/L.
+B. L’écart type théorique du taux d’hémoglobine dans cette population est de 16 g/L.
+C. L’écart type théorique du taux d’hémoglobine dans cette population est de 8 g/L.
+D. La probabilité pour une femme de cette population de présenter une anémie est de 2 %.
+E. La probabilité pour une femme de cette population de présenter une anémie est de 1 %.
+ACE
+A. VRAI : on sait que le taux d’hémoglobine est normalement distribué dans cette population donc on
+calcule : (124 + 156)/2 = 140.
+𝑥−µ
+B. FAUX : On sait que P(X ≤ 156) = 97,5 %. Notons µ la moyenne de X et σ son écart-type. Alors P (
+𝜎  ≤
+156−µ
+) = 97,5 %.
+𝜎
+𝑥−µ
+Notons U =
+𝜎. Alors U suit une loi normale centrée réduite.  Il faut chercher la valeur correspondante à
+97,5 % dans la table de la fonction de répartition de la loi normale centrale réduite.
+Donc P (U ≤ u0,9750) = 0,975  P (U ≤ 1,96) = 0,975
+𝑥−µ
+156−140
+16
+16
+𝜎 = 1,96 
+= 1,96 
+𝜎 = 1,96  σ =
+1,96   σ ≈
+Donc on doit résoudre l’équation suivante :
+𝜎
+16
+2   = 8
+C. VRAI : cf B.
+D. FAUX : cf E.
+120−140
+−20
+E. VRAI : P(X ≤ 120) = P(U ≤
+) = P(U ≤
+8 ) = 1 – P (U ≤ 2,5) = 1 – 0,99 = 1 %
+8
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q2 · SITE=AD · GRILLE=AD · DÉTAIL=['AD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 2 : 
+ 
+Dans une communauté comprenant 40% de fumeur réguliers, 20% des individus sont testé positifs au Covid-
+19 et 50% des sujet positifs au Covid-19 sont des fumeurs réguliers. 
+SUJET ORIGINAL
+Exercice 2 :
+Dans une communauté comprenant 40% de fumeur réguliers, 20% des individus sont testé positifs au Covid-
+19 et 50% des sujet positifs au Covid-19 sont des fumeurs réguliers.
+2. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Dans cette communauté, un sujet positif au Covid-19 a une chance sur 2 d’être fumeur régulier
+B. Le résultat au test diagnostique du Covid-19 est indépendant du statut “fumeur régulier”
+C. La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 50 %
+D. La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 25 %
+E. La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 2,5 %
+CORRIGÉ ORIGINAL
+Exercice 2 :
+Dans une communauté comprenant 40% de fumeur réguliers, 20% des individus sont testés positifs au Covid-
+19 et 50% des sujet positifs au Covid-19 sont des fumeurs réguliers.
+2. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Dans cette communauté, un sujet positif au Covid-19 a une chance sur 2 d’être fumeur régulier
+B. Le résultat au test diagnostique du Covid-19 est indépendant du statut “fumeur régulier”
+C. La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 50 %
+D. La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 25 %
+E. La probabilité pour un fumeur régulier d’être testé positif au Covid-19 est de 2,5 %
+AD
+Données:𝑃(𝐹𝑢𝑚𝑒𝑢𝑟 𝑟é𝑔𝑢𝑙𝑖𝑒𝑟) = 𝑃(𝐹) = 0,4 ;    𝑃(𝑡𝑒𝑠𝑡 𝐶𝑜𝑣𝑖𝑑19 𝑝𝑜𝑠𝑖𝑡𝑖𝑓 ) = 𝑃(𝐶) =
+0,2  ;   𝑃(𝐹|𝐶) = 0,5
+A. VRAI : Il s’agit de la probabilité de l’énoncé P(F|C)
+B. FAUX : L’indépendance n’est pas vérifiée : 𝑃(𝐹) ≠𝑃(𝐹|𝐶) ici car 0,4≠0,5
+C. FAUX : On cherche 𝑃(𝐶|𝐹). On applique la formule de Bayes : 𝑃(𝐹) × 𝑃(𝐶|𝐹) = 𝑃(𝐶) × 𝑃(𝐹|𝐶) et on
+𝑃(𝐶)×𝑃(𝐹|𝐶)
+0,2×0,5
+0,1
+isole P(C|F). On a : 𝑃(𝐶|𝐹) =
+=
+=
+0,4 = 0,25  𝑠𝑜𝑖𝑡 25%
+𝑃(𝐹)
+0,4
+D. VRAI : Cf. item C
+E. FAUX : Cf. item C
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q3 · SITE=ABCD · GRILLE=ABCD · DÉTAIL=['ABCD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 3: 
+ 
+Les notations du cours sont utilisées dans cet énoncé.  
+Après une épreuve d’échantillonnage, on observe n valeurs prises par des variables aléatoires Xi qui sont 
+toutes indépendantes entre elles et qui ont toutes la même loi de probabilité que la variable aléatoire 
+continue X. La moyenne de ces n variables aléatoire Xi est la variable aléatoire M. La moyenne théorique de 
+la variable aléatoire X est noté µ (M est l’estimateur de µ). 
+SUJET ORIGINAL
+Exercice 3:
+Les notations du cours sont utilisées dans cet énoncé.
+Après une épreuve d’échantillonnage, on observe n valeurs prises par des variables aléatoires Xi qui sont
+toutes indépendantes entre elles et qui ont toutes la même loi de probabilité que la variable aléatoire
+continue X. La moyenne de ces n variables aléatoire Xi est la variable aléatoire M. La moyenne théorique de
+la variable aléatoire X est noté µ (M est l’estimateur de µ).
+3. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Après échantillonnage, on observe l’événement “M = 4”
+B. P(M =4) = 0
+C. L’estimateur M de µ est un estimateur sans biais car E(M) = E(X) = (mu)
+D. Un estimateur est une variable aléatoire qui permet d'estimer un paramètre théorique
+E. L'estimation calculée d’un paramètre est une variable aléatoire
+CORRIGÉ ORIGINAL
+Exercice 3:
+Les notations du cours sont utilisées dans cet énoncé.
+Après une épreuve d’échantillonnage, on observe n valeurs prises par des variables aléatoires Xi qui sont toutes
+indépendantes entre elles et qui ont toutes la même loi de probabilité que la variable aléatoire continue X. La
+moyenne de ces n variables aléatoire Xi est la variable aléatoire M. La moyenne théorique de la variable aléatoire
+X est noté µ (M est l’estimateur de µ).
+3. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Après échantillonnage, on observe l’événement “M = 4”
+B. P(M =4) = 0
+C. L’estimateur M de µ est un estimateur sans biais car E(M) = E(X) = (mu)
+D. Un estimateur est une variable aléatoire qui permet d'estimer un paramètre théorique
+E. L'estimation calculée d’un paramètre est une variable aléatoire
+ABCD
+A. VRAI : on observe bien M=4 après l’échantillonnage, car l’on suppose que la moyenne des n valeurs 𝑥𝑖
+observé est égale à 4 ce qui correspond à dire que M=4.
+B. VRAI : ici les variables aléatoires sont continues donc la probabilité qu’elles prennent valeurs discrètes
+est nulle.
+C. VRAI : cf cours.
+D. VRAI : M est une loi normale de paramètres sont E(M)=𝜇  sem=√𝜎2
+𝑛
+E. FAUX : si on parle de l’estimation calculée d’un paramètre comme parce exemple la moyenne m (≠M
+moyenne empirique) calculée à partir d’un échantillon ce n’est pas une VA car m est une estimation
+ponctuelle de 𝜇 qui n’a pas de paramètres.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q4 · SITE=BDE · GRILLE=BDE · DÉTAIL=['BDE']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 4 : 
+ 
+La sensibilité d’un test diagnostique d’une maladie M est estimée à 90% sur un échantillon de 100 patients
+atteints de cette maladie. 
+SUJET ORIGINAL
+Exercice 4 :
+La sensibilité d’un test diagnostique d’une maladie M est estimée à 90% sur un échantillon de 100 patients
+atteints de cette maladie.
+4. Vous devez calculer une estimation de l’intervalle de confiance à 95% de la sensibilité de ce test dans la
+population dont l’échantillon est représentatif, puis vous cocherez la (ou les) proposition(s) correcte(s):
+A. La borne inférieure de cet intervalle de confiance est 0,87
+B. La borne inférieure de cet intervalle de confiance est de 0,84
+C. La borne supérieure de cet intervalle de confiance est 0,91
+D. Les conditions d’approximation de la loi Binomiale par la loi Normale doivent être vérifiées aux
+bornes de cet intervalle pour qu’il soit valide
+E. Après vérification, vous trouvez que cet intervalle de confiance n’est pas valide
+CORRIGÉ ORIGINAL
+Exercice 4 :
+La sensibilité d’un test diagnostique d’une maladie M est estimée à 90% sur un échantillon de 100 patients
+atteints de cette maladie.
+4. Vous devez calculer une estimation de l’intervalle de confiance à 95% de la sensibilité de ce test dans la
+population dont l’échantillon est représentatif, puis vous cocherez la (ou les) proposition(s) correcte(s):
+A. La borne inférieure de cet intervalle de confiance est 0,87
+B. La borne inférieure de cet intervalle de confiance est de 0,84
+C. La borne supérieure de cet intervalle de confiance est 0,91
+D. Les conditions d’approximation de la loi Binomiale par la loi Normale doivent être vérifiées aux bornes
+de cet intervalle pour qu’il soit valide
+E. Après vérification, vous trouvez que cet intervalle de confiance n’est pas valide
+BDE
+A. FAUX : voir B
+B. VRAI : f1=0.9-(2×√[0.09/100])=0.9-[(2×0.3)/10]=0.9-0.06=0.84
+C. FAUX : f2=0.9+0.06=0.96
+D. VRAI : il faut vérifier que n(1-f1) ≥ 5 de même que n(1-f2) ≥ 5
+E. VRAI : car 100 × (1-0.96) = 100 × 0.04 = 4 < 5
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q5 · SITE=BCE · GRILLE=BCE · DÉTAIL=['BCE']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 5 : 
+ 
+Une étude a été conduite sur un échantillon de 18 sujets pour savoir si l’âge influençait sur la pression
+artérielle systolique (PAS). La pente estimée de la régression linéaire est b1 = 0,74 tandis que l’erreur type
+est sb1 =0,22 
+On donne 2,12 ×  0,22 =  0,47  
+SUJET ORIGINAL
+Exercice 5 :
+Une étude a été conduite sur un échantillon de 18 sujets pour savoir si l’âge influençait sur la pression
+artérielle systolique (PAS). La pente estimée de la régression linéaire est b1 = 0,74 tandis que l’erreur type
+est sb1 =0,22
+On donne 2,12 ×  0,22 =  0,47
+5. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. La PAS est la variable explicative
+B. La corrélation linéaire entre la PAS et l’âge est positive
+C. L’intervalle de confiance à 95% de la pente est ]0,27 ;  1,21[
+D. L’intervalle de confiance à 95% de la pente est ]0,31 ;  1,17[
+E. L’effet linéaire de l’âge sur la PAS est statistiquement significatif au risque d’erreur 5%
+CORRIGÉ ORIGINAL
+Exercice 5 :
+Une étude a été conduite sur un échantillon de 18 sujets pour savoir si l’âge influençait sur la pression artérielle
+systolique (PAS). La pente estimée de la régression linéaire est b1 = 0,74 tandis que l’erreur type est sb1 =0,22
+On donne 2,12 ×  0,22 =  0,47
+5. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. La PAS est la variable explicative
+B. La corrélation linéaire entre la PAS et l’âge est positive
+C. L’intervalle de confiance à 95% de la pente est ]0,27 ;  1,21[
+D. L’intervalle de confiance à 95% de la pente est ]0,31 ;  1,17[
+E. L’effet linéaire de l’âge sur la PAS est statistiquement significatif au risque d’erreur 5%
+BCE
+A. FAUX : PAS est la variable expliquée
+B. VRAI : cf item C, la valeur 0 n’est pas contenu dans l’intervalle de confiance de la pente donc au risque
+d’erreur 5% l’âge à un effet linéaire significatif sur la PAS. De plus les tests de corrélation et de
+régression étant équivalents on a donc une corrélation entre la PAS et l’âge et la PAS.
+C. VRAI : on calcul l’intervalle de confiance à la confiance 95%, on a 18 sujets dans l’étude donc on a n-
+2=16ddl pour lire dans la table de Student (on trouve 2,120 pour un risque d’erreur 5%) . Les bornes
+de cet intervalle de confiance sont telles que  𝑏1 ± 𝑠𝑏1 × 𝑡5%;16𝑑𝑑𝑙⇔ 0,74 ±  0,22 × 2,21 ⇔0,74 ±
+0,47 =  0,27 𝑜𝑢 1,21.
+D. FAUX : cf item C
+E. VRAI : cf item B et C
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q6 · SITE=AC · GRILLE=AC · DÉTAIL=['AC']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 6 : 
+ 
+Une équipe chinoise a proposé plusieurs scores 
+afin de déterminer, parmi les patients hospitalisés 
+COVID-19, ceux qui vont évoluer vers une forme 
+grave. Le gold standard (forme grave) repose sur 
+des paramètres d’oxygénation, évalués toit au long 
+de l’hospitalisation. Les deux scores proposés, 
+HNC-LL et NLR, sont construits à partir de 
+paramètre biologiques et cliniques évalués à 
+l’admission à l’hôpital. Une valeur élevée de ces 
+scores doit être indicatrice d’une évolution vers 
+une forme grave. 
+Les courbes ROC associées à ces deux scores sont 
+représentées sur la figure ci-contre : 
+ 
+SUJET ORIGINAL
+Exercice 6 :
+Une équipe chinoise a proposé plusieurs scores
+afin de déterminer, parmi les patients hospitalisés
+COVID-19, ceux qui vont évoluer vers une forme
+grave. Le gold standard (forme grave) repose sur
+des paramètres d’oxygénation, évalués toit au long
+de l’hospitalisation. Les deux scores proposés,
+HNC-LL et NLR, sont construits à partir de
+paramètre biologiques et cliniques évalués à
+l’admission à l’hôpital. Une valeur élevée de ces
+scores doit être indicatrice d’une évolution vers
+une forme grave.
+Les courbes ROC associées à ces deux scores sont
+représentées sur la figure ci-contre :
+6. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s) :
+A. Aucun des deux scores (HNC-LL et NRL) ne permet de classer parfaitement les patients
+B. Il existe un seuil du score HNC-LL permettant de détecter 90% des patients évoluant vers une forme
+grave et de classer à raison 40% des patients n’évoluant pas vers une forme grave
+C. Il existe un seuil du score HNC-LL permettant de détecter 90% des patients évoluant vers une forme
+grave et de classer à raison 60% des patients n’évoluant pas vers une forme grave
+D. Les distributions de score HNC-LL doivent être plus séparée entre les patients évoluant et ceux
+n’évoluant pas vers une forme grave que celles du score NRL (au vu des courbe ROC)
+E. Globalement, le score NRL arrive mieux à discriminer les patients allant évoluer de ceux n’allant pas
+évoluer vers une forme grave que le score HNC-LL
+CORRIGÉ ORIGINAL
+Exercice 6 :
+Une équipe chinoise a proposé plusieurs scores afin de déterminer, parmi les patients hospitalisés COVID-19,
+ceux qui vont évoluer vers une forme grave. Le gold standard (forme grave) repose sur des paramètres
+d’oxygénation, évalués toit au long de l’hospitalisation. Les deux scores proposés, HNC-LL et NLR, sont construits
+à partir de paramètre biologiques et cliniques évalués à l’admission à l’hôpital. Une valeur élevée de ces scores
+doit être indicatrice d’une évolution vers une forme grave.
+Les courbes ROC associées à ces deux scores sont représentées sur la figure ci-dessous :
+6. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s) :
+A. Aucun des deux scores (HNC-LL et NRL) ne permet de classer parfaitement les patients
+B. Il existe un seuil du score HNC-LL permettant de détecter 90% des patients évoluant vers une forme
+grave et de classer à raison 40% des patients n’évoluant pas vers une forme grave
+C. Il existe un seuil du score HNC-LL permettant de détecter 90% des patients évoluant vers une forme
+grave et de classer à raison 60% des patients n’évoluant pas vers une forme grave
+D. Les distributions de score HNC-LL doivent être plus séparée entre les patients évoluant et ceux
+n’évoluant pas vers une forme grave que celles du score NRL (au vu des courbe ROC)
+E. Globalement, le score NRL arrive mieux à discriminer les patients allant évoluer de ceux n’allant pas
+évoluer vers une forme grave que le score HNC-LL
+AC
+A. VRAI : aucun des deux scores ne passent par le point du gold standard en haut à gauche (sen = 1 & spé
+= 1) donc ils ne permettent pas de classer parfaitement.
+B. FAUX : attention l’abscisse est 1 – spécificité.
+C. VRAI : cf B.
+D. FAUX : la courbe HNC-LL est au-dessus donc le score HNC-LL détecte mieux.
+E. FAUX : cf D.
+On décide d’utiliser le score HNC-LL comme test pour classer les patients. Le seuil retenu est tel que le ratio de
+vraisemblance positif est de 8/3 ≈ 2,7, et le ratio de vraisemblance négatif est de 2/7 ≈ 0,28. La prévalence
+NOTES EXISTANTES
+D est donné faux, mais l’explication indique que la courbe HNC-LL est au-dessus de l’autre et que HNC-LL discrimine mieux. C’est précisément le sens pédagogique de distributions mieux séparées entre formes graves et non graves proposé en D. La figure confirme la meilleure discrimination de HNC-LL sur les seuils représentés. Verdict litigieux à revoir avec la ronéo UE3 sur courbes ROC et distributions des marqueurs ; la distance brute entre scores n’est pas comparable sans tenir compte de leur échelle. Clé du tutorat conservée.
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q7 · SITE=CD · GRILLE=CD · DÉTAIL=['CD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+ 
+Exercice 6 : 
+ 
+Une équipe chinoise a proposé plusieurs scores 
+afin de déterminer, parmi les patients hospitalisés 
+COVID-19, ceux qui vont évoluer vers une forme 
+grave. Le gold standard (forme grave) repose sur 
+des paramètres d’oxygénation, évalués toit au long 
+de l’hospitalisation. Les deux scores proposés, 
+HNC-LL et NLR, sont construits à partir de 
+paramètre biologiques et cliniques évalués à 
+l’admission à l’hôpital. Une valeur élevée de ces 
+scores doit être indicatrice d’une évolution vers 
+une forme grave. 
+Les courbes ROC associées à ces deux scores sont 
+représentées sur la figure ci-contre : 
+ 
+ 
+On décide d’utiliser le score HNC-LL comme test pour classer les patients. Le seuil retenu est tel que le ratio 
+de vraisemblance positif est de 8/3 ≈ 2,7, et le ratio de vraisemblance négatif est de 2/7 ≈ 0,28. La prévalence 
+d’évolution vers une forme grave de COVID-19 dans l’hôpital d’où sont issues les données était de 20 %. En 
+population générale (hors hôpital), cette prévalence est plus faible. 
+SUJET ORIGINAL
+On décide d’utiliser le score HNC-LL comme test pour classer les patients. Le seuil retenu est tel que le ratio
+de vraisemblance positif est de 8/3 ≈ 2,7, et le ratio de vraisemblance négatif est de 2/7 ≈ 0,28. La prévalence
+d’évolution vers une forme grave de COVID-19 dans l’hôpital d’où sont issues les données était de 20 %. En
+population générale (hors hôpital), cette prévalence est plus faible.
+7. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s) :
+A. Le test permet de mieux affirmer l’évolution vers une forme grave lorsqu’il est positif que d’exclure
+lorsqu’il est négatif
+B. En cas de test négatif, la probabilité d’évolution vers une forme grave est divisée par 3,5 (= 7/2)
+C. En cas de test négatif, la probabilité d’évolution vers une forme grave est encore de 1/15 (à l’hôpital)
+D. La probabilité post-test d’évolution vers une forme grave serait plus faible en population générale
+qu’à l’hôpital
+E. La probabilité post-test d’évolution vers une forme grave serait plus élevée en population générale
+qu’à l’hôpital
+CORRIGÉ ORIGINAL
+d’évolution vers une forme grave de COVID-19 dans l’hôpital d’où sont issues les données était de 20 %. En
+population générale (hors hôpital), cette prévalence est plus faible.
+7. Parmi les propositions suivantes, sans considérer la significativité statistique, cochez la (ou les)
+proposition(s) exacte(s) :
+A. Le test permet de mieux affirmer l’évolution vers une forme grave lorsqu’il est positif que d’exclure
+lorsqu’il est négatif
+B. En cas de test négatif, la probabilité d’évolution vers une forme grave est divisée par 3,5 (= 7/2)
+C. En cas de test négatif, la probabilité d’évolution vers une forme grave est encore de 1/15 (à l’hôpital)
+D. La probabilité post-test d’évolution vers une forme grave serait plus faible en population générale qu’à
+l’hôpital
+E. La probabilité post-test d’évolution vers une forme grave serait plus élevée en population générale
+qu’à l’hôpital
+CD
+A. FAUX : RV+ = 2,7 & RV- = 2/7
+1
+𝑅𝑉− = 3,5 > RV+
+Ainsi, quand le test est négatif, on divise l’odds d’évolution vers une forme grave par un nombre plus
+grand que l’on ne multiplie l’odds d‘évolution vers une forme grave lorsque le test est positif. Donc le
+test permet mieux d’exclure l’évolution vers une forme grave lorsqu’il est négatif que d’affirmer
+l’évolution vers une forme grave lorsqu’il est positif.
+1
+B. FAUX : attention c’est l’odds d’évolution vers une forme grave qui est divisée par 3,5 (
+𝑅𝑉−)
+C. VRAI :
+0,2
+1
+On commence par calculer l’odds pré test : Oddspré-test =
+1−0,2 =
+4
+1
+2
+1
+4 ×
+Puis l’odds post-test : Oddspost-test = Oddspré-test × RV- =
+7 =
+14
+1
+1
+1
+14
+1
+14
+14
+Enfin la probabilité post-test =
+=
+=
+14 ×
+15 =
+15
+1+ 1
+15
+14
+14
+D. VRAI : dans la population générale (hors hôpital), la prévalence d’évolution vers une forme grave est
+plus faible. Or quand la prévalence diminue, la VPP (probabilité post-test positif) diminue. Donc la
+probabilité post-test positif d’évolution vers une forme grave serait plus faible en population générale
+qu’à l’hôpital.
+E. FAUX : cf D.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q8 · SITE=BCD · GRILLE=BCD · DÉTAIL=['BCD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 7 : 
+ 
+L’étude LockUWell s’est intéressée au bien-être mental des français durant le confinement. Le bien-être 
+mental a été évalué par l’échelle WEMWBS (qui va de 0 à 100, O : très mauvais, 100 : très bon) au moyen 
+de questionnaires remplis en ligne. Parmi les 4000 répondants en télétravail, la moyenne WEMWBS a été 
+estimée à 50,2 ; parmi les 2000 répondants travaillant en présentiel, la moyenne a été estimée à 50,7. 
+L’écart-type commun a été estimé à 8. On souhaite comparer le bien-être mental entre les individus en 
+télétravail et ceux travaillant en présentiel 
+On donne √4000
+3  ≈ 36 
+SUJET ORIGINAL
+Exercice 7 :
+L’étude LockUWell s’est intéressée au bien-être mental des français durant le confinement. Le bien-être
+mental a été évalué par l’échelle WEMWBS (qui va de 0 à 100, O : très mauvais, 100 : très bon) au moyen
+de questionnaires remplis en ligne. Parmi les 4000 répondants en télétravail, la moyenne WEMWBS a été
+estimée à 50,2 ; parmi les 2000 répondants travaillant en présentiel, la moyenne a été estimée à 50,7.
+L’écart-type commun a été estimé à 8. On souhaite comparer le bien-être mental entre les individus en
+télétravail et ceux travaillant en présentiel
+On donne √4000
+3  ≈ 36
+8. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Le test statistique à réaliser est un test de comparaison de moyennes estimées sur données
+appariées
+B. La statistique du test de l’écart réduit est supérieure à 1,96
+C. Les moyennes de bien-être des deux groupes sont significativement différentes, au risque d’erreur
+5%
+D. En utilisant un outil de mesure du bien-être moins fluctuant (écart-type plus faible), la statistique
+de l’écart réduit aurait été plus élevée (toute chose égale par ailleurs)
+E. La différence de moyenne de WEMWBS est importante sur le plan clinique
+CORRIGÉ ORIGINAL
+Exercice 7 :
+L’étude LockUWell s’est intéressée au bien-être mental des français durant le confinement. Le bien-être mental
+a été évalué par l’échelle WEMWBS (qui va de 0 à 100, O : très mauvais, 100 : très bon) au moyen de
+questionnaires remplis en ligne. Parmi les 4000 répondants en télétravail, la moyenne WEMWBS a été estimée
+à 50,2 ; parmi les 2000 répondants travaillant en présentiel, la moyenne a été estimée à 50,7. L’écart-type
+commun a été estimé à 8. On souhaite comparer le bien-être mental entre les individus en télétravail et ceux
+travaillant en présentiel
+On donne √4000
+3  ≈ 36
+8. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Le test statistique à réaliser est un test de comparaison de moyennes estimées sur données appariées
+B. La statistique du test de l’écart réduit est supérieure à 1,96
+C. Les moyennes de bien-être des deux groupes sont significativement différentes, au risque d’erreur 5%
+D. En utilisant un outil de mesure du bien-être moins fluctuant (écart-type plus faible), la statistique de
+l’écart réduit aurait été plus élevée (toute chose égale par ailleurs)
+E. La différence de moyenne de WEMWBS est importante sur le plan clinique
+BCD
+A. FAUX : les données ne sont pas appariées.
+50,7− 50,2
+0,5
+0,5
+0,5
+0,5
+=  0,5 × √4000
+1
+B. VRAI : on a
+=
+=
+=
+×
+8
+3
+√82
+4000+ 82
+√64
+4000+ 64
+√64
+4000+ 128
+√3× 64
+√ 3
+4000×8
+2000
+4000
+4000
+2000
+1
+2 × √4000
+1
+1
+9×4
+=
+×
+8  =  36 ×
+16 =
+4×4 =  2,25
+3
+C. VRAI : cf B
+D. VRAI
+E. FAUX : les valeurs 50,7 et 50,2 témoignent toutes les deux d’un bien-être mental moyen sur l’échelle
+de WEMWBS. Donc même si elles sont différentes sur le plan statistique, la différence de moyenne
+n’est pas importante sur le plan clinique.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q9 · SITE=ABCD · GRILLE=ABCD · DÉTAIL=['ABCD']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 8 : 
+ 
+L’étude COVID-ER s’est intéressée au devenir des patients admis aux urgences avec un test PCR Covid-19
+positifs. Elle a porté sur tous les patients admis entre le 06/03 et le 10/05/2020 sur trois services d’urgences
+des HCL et celui de Villefranche. Les patients ont été suivis tout du long de leur hospitalisation. Le tableau
+suivant indique le devenir des patients (décès ou non) en fonction du sexe : 
+ 
+ 
+Décédé 
+Non décédé 
+Homme 
+ 
+60 
+ 
+240 
+Femme 
+ 
+28 
+ 
+252 
+SUJET ORIGINAL
+Exercice 8 :
+L’étude COVID-ER s’est intéressée au devenir des patients admis aux urgences avec un test PCR Covid-19
+positifs. Elle a porté sur tous les patients admis entre le 06/03 et le 10/05/2020 sur trois services d’urgences
+des HCL et celui de Villefranche. Les patients ont été suivis tout du long de leur hospitalisation. Le tableau
+suivant indique le devenir des patients (décès ou non) en fonction du sexe :
+Non décédé
+Décédé
+Homme
+240
+60
+Femme
+252
+28
+9. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Cette étude correspond à une étude de cohorte
+B. Cette étude permet d’estimer le risque relatif de décès entre les hommes et les femmes
+C. Le risque de décès est 2 fois plus élevé chez les hommes et que chez les femmes
+D. Pour 10 hommes entrant aux urgences, il y a 1 décès de plus que pour 10 femmes rentrant aux
+urgences
+E. Pour 10 hommes entrant aux urgences, il y a 5 décès de plus que pour 10 femmes rentrant aux
+urgences
+CORRIGÉ ORIGINAL
+Exercice 8 :
+L’étude COVID-ER s’est intéressée au devenir des patients admis aux urgences avec un test PCR Covid-19 positifs.
+Elle a porté sur tous les patients admis entre le 06/03 et le 10/05/2020 sur trois services d’urgences des HCL et
+celui de Villefranche. Les patients ont été suivis tout du long de leur hospitalisation. Le tableau suivant indique
+le devenir des patients (décès ou non) en fonction du sexe :
+Non décédé
+Décédé
+240
+Homme
+60
+252
+Femme
+28
+9. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. Cette étude correspond à une étude de cohorte
+B. Cette étude permet d’estimer le risque relatif de décès entre les hommes et les femmes
+C. Le risque de décès est 2 fois plus élevé chez les hommes et que chez les femmes
+D. Pour 10 hommes entrant aux urgences, il y a 1 décès de plus que pour 10 femmes rentrant aux urgences
+E. Pour 10 hommes entrant aux urgences, il y a 5 décès de plus que pour 10 femmes rentrant aux urgences
+ABCD
+A. VRAI : l’énoncé précise qu’on suit les patients pendant leur hospitalisation.
+B. VRAI : les études de cohorte permettent d’estimer le RR
+28
+60
+C. VRAI : le risque de décès chez les femmes est de
+280 =  10% et chez les hommes il est de
+300 =  20%
+D. VRAI : Pour 10 hommes on s’attend à 2 décès tandis que pour les femmes on s’attend à 1 décès.
+E. FAUX : cf D
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q10 · SITE=BD · GRILLE=BD · DÉTAIL=['BD']
+CONTEXTE(S) PARTAGÉ(S)
+ 
+Exercice 9 : 
+ 
+Une étude a été réalisée sur toutes les adultes hospitalisés le 27 mars aux HCL pour COVID-19 (342 patients).
+Parmi ces patients, 85 avaient un indice de masse corporel supérieur à 30 kg/m2  (définition de l’obésité). En
+France, en temps normal, le pourcentage d’individus obèse est de 15,3% (valeur de référence). 
+On donne 85/342 = 0,25 
+SUJET ORIGINAL
+Exercice 9 :
+Une étude a été réalisée sur toutes les adultes hospitalisés le 27 mars aux HCL pour COVID-19 (342 patients).
+Parmi ces patients, 85 avaient un indice de masse corporel supérieur à 30 kg/m2  (définition de l’obésité). En
+France, en temps normal, le pourcentage d’individus obèse est de 15,3% (valeur de référence).
+On donne 85/342 = 0,25
+10. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. L’incidence de patients obèses parmi les patients hospitalisés aux HCL le 27 mars pour COVID-19 est
+estimée à 25 pour 100 personnes semaines.
+B. La prévalence d’obèses aux HCL le 27 mars parmi les patients COVID-19 est estimée à 0,25
+C. La prévalence d’obèses aux HCL le 27 mars parmi les patients COVID-19 ne doit considérer que les
+nouveaux patients obèses le 27 mars parmi les patients atteints du COVID-19
+D. La proportion d’individus obèses est supérieure chez les patients hospitalisés pour COVID-19 que
+dans la population française, hors COVID-19 (sans considérer la significativité statistique)
+E. Pour comparer les prévalences d’obèses entre les patients hospitalisés pour COVID-19 aux HCL et
+la population française, il faut effectuer un test de comparaison de proportions pour données
+appariées
+CORRIGÉ ORIGINAL
+Exercice 9 :
+Une étude a été réalisée sur toutes les adultes hospitalisés le 27 mars aux HCL pour COVID-19 (342 patients).
+Parmi ces patients, 85 avaient un indice de masse corporel supérieur à 30 kg/m2  (définition de l’obésité). En
+France, en temps normal, le pourcentage d’individus obèse est de 15,3% (valeur de référence).
+On donne 85/342 = 0,25
+10. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. L’incidence de patients obèses parmi les patients hospitalisés aux HCL le 27 mars pour COVID-19 est
+estimée à 25 pour 100 personnes semaines.
+B. La prévalence d’obèses aux HCL le 27 mars parmi les patients COVID-19 est estimée à 0,25
+C. La prévalence d’obèses aux HCL le 27 mars parmi les patients COVID-19 ne doit considérer que les
+nouveaux patients obèses le 27 mars parmi les patients atteints du COVID-19
+D. La proportion d’individus obèses est supérieure chez les patients hospitalisés pour COVID-19 que dans
+la population française, hors COVID-19 (sans considérer la significativité statistique)
+E. Pour comparer les prévalences d’obèses entre les patients hospitalisés pour COVID-19 aux HCL et la
+population française, il faut effectuer un test de comparaison de proportions pour données appariées
+BD
+A. FAUX : l’incidence mesure la probabilité pour un individu de développer la maladie par unité de temps :
+ici on fait notre étude que le 27 mars.
+B. VRAI : on a 85/342 = 0,25
+C. FAUX : la prévalence d’obèses aux HCL le 27 mars doit considérer tous les patients obèses parmi les
+patients atteints du COVID-19 ce jour-là.
+D. VRAI : 25% > 15,3 %
+E. FAUX : les données ne sont pas appariées.
+NOTES EXISTANTES
+
+
+===== QUESTION SUIVANTE =====
+
+annales.ue3.2020-2021.paces Q11 · SITE=AD · GRILLE=AD · DÉTAIL=['AD']
+CONTEXTE(S) PARTAGÉ(S)
+Exercice 10 : 
+ 
+Un essai en double aveugle a été mené pour comparer l’administration de Gemfibrozil visant à faire diminuer 
+le niveau de cholestérol dans le sang versus placebo. Le critère de jugement principal est composite de 
+l’infarctus non fatal et du décès de cause cardiovasculaire. Les patients, tous de sexe masculin, étaient 
+randomisés par bloc de 4 entre les 2 bras de traitement sans que le médecin ne connaisse la nature du 
+traitement alloué. 
+Le calcul d’effectif réalisé sous l’hypothèse d’une réduction d’échecs sur le critère de jugement principal de 
+20% pour un risque alpha bilatéral de 5% et une puissance de 90% montrait qu’un total de 2500 patients 
+étaient à inclure. 
+L’analyse des données de l’essai permet d’estimer une réduction du critère de jugement principal de 22% 
+avec un intervalle de confiance à 95% ]7%, 35%[  
+SUJET ORIGINAL
+Exercice 10 :
+Un essai en double aveugle a été mené pour comparer l’administration de Gemfibrozil visant à faire diminuer
+le niveau de cholestérol dans le sang versus placebo. Le critère de jugement principal est composite de
+l’infarctus non fatal et du décès de cause cardiovasculaire. Les patients, tous de sexe masculin, étaient
+randomisés par bloc de 4 entre les 2 bras de traitement sans que le médecin ne connaisse la nature du
+traitement alloué.
+Le calcul d’effectif réalisé sous l’hypothèse d’une réduction d’échecs sur le critère de jugement principal de
+20% pour un risque alpha bilatéral de 5% et une puissance de 90% montrait qu’un total de 2500 patients
+étaient à inclure.
+L’analyse des données de l’essai permet d’estimer une réduction du critère de jugement principal de 22%
+avec un intervalle de confiance à 95% ]7%, 35%[
+11. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. L’étude est un essai contrôlé, randomisé, en double aveugle
+B. Le risque de conclure à raison que le Gemfibrozil n’est pas significativement efficace est de 90%
+C. Le risque de conclure à tort que le Gemfibrozil n’est pas significativement efficace est de 5%
+D. Le déséquilibre maximal d’effectif entre les 2 bras est de 2 patients
+E. L’étude permet de conclure que le Gemfibrozil réduit de 20% les échecs
+CORRIGÉ ORIGINAL
+Exercice 10 :
+Un essai en double aveugle a été mené pour comparer l’administration de Gemfibrozil visant à faire diminuer le
+niveau de cholestérol dans le sang versus placebo. Le critère de jugement principal est composite de l’infarctus
+non fatal et du décès de cause cardiovasculaire. Les patients, tous de sexe masculin, étaient randomisés par bloc
+de 4 entre les 2 bras de traitement sans que le médecin ne connaisse la nature du traitement alloué.
+Le calcul d’effectif réalisé sous l’hypothèse d’une réduction d’échecs sur le critère de jugement principal de 20%
+pour un risque alpha bilatéral de 5% et une puissance de 90% montrait qu’un total de 2500 patients étaient à
+inclure.
+L’analyse des données de l’essai permet d’estimer une réduction du critère de jugement principal de 22% avec
+un intervalle de confiance à 95% ]7%, 35%[
+11. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s) :
+A. L’étude est un essai contrôlé, randomisé, en double aveugle
+B. Le risque de conclure à raison que le Gemfibrozil n’est pas significativement efficace est de 90%
+C. Le risque de conclure à tort que le Gemfibrozil n’est pas significativement efficace est de 5%
+D. Le déséquilibre maximal d’effectif entre les 2 bras est de 2 patients
+E. L’étude permet de conclure que le Gemfibrozil réduit de 20% les échecs
+AD
+A. VRAI : On dit que les patients sont randomisés et qu’il est en double aveugle
+B. FAUX : le risque de conclure à raison que le Gemfibrozil n’est pas significativement efficace, c’est-à-
+dire de ne pas rejeter Ho à raison, est de 1- alpha donc 95%.
+C. FAUX : Le risque de conclure à tort que le Gemfibrozil n’est pas significativement efficace, c’est-à-dire
+de ne pas rejeter H0 à tort est le risque beta, qui est de 10% ici (1-puissance).
+D. VRAI : on a deux patients qui vont dans le bras médicament et deux qui vont dans le bras placebo par
+bloc, donc si on ne termine pas le dernier bloc, on aura un déséquilibre d’au maximum deux patients.
+E. FAUX : L'analyse des données nous permet effectivement de conclure à une réduction statistiquement
+significative du critère de jugement principal par l'administration de Gemfibrozil. En revanche, elle ne
+conclue pas précisément à une réduction de 20% des échecs.
+=> L'hypothèse H1 du calcul du nombre de sujet n'est pas l'hypothèse alternative du test réalisé. La
+conclusion se fait en faveur des 22% estimés.
+NOTES EXISTANTES

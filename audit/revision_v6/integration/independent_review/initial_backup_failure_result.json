@@ -1,0 +1,22 @@
+{
+  "method": "Node VM; actual progress_migration.js; deterministic quota mock",
+  "originalAnswer": "BCD",
+  "migratedAnswer": "CDE",
+  "backupExists": false,
+  "originalKeyAfterNormalSave": {
+    "answers": {
+      "1": "CDE",
+      "2": "A"
+    },
+    "submitted": true,
+    "correctedIds": [
+      2
+    ],
+    "itemSchemaVersion": 6
+  },
+  "writes": [
+    "qcm-pass-legacy-example_before_v6_item_repair",
+    "qcm-pass-legacy-example"
+  ],
+  "backupRequirementPreserved": false
+}

@@ -1,0 +1,18 @@
+{
+  "result": "NO_RESIDUAL_CONCRETE_ISSUE_FOUND",
+  "method": "Source reading and structural inspection of actual approved question/crop objects; no build or browser execution",
+  "criticalReplacementAnchors": 6,
+  "eachAnchorOccurrences": 1,
+  "annotatedSubjectRoles": 12,
+  "annotatedCorrectionRoles": 0,
+  "annotatedSharedGroups": 3,
+  "membersChecked": 6,
+  "membersMissingConsistentFlags": 0,
+  "parallelReferenceOrOptionImageFields": 0,
+  "hashes": {
+    "source_copies.js": "78705573cdb6b0ef478d146594bad6e8f10e81a51628458bdc2f3396ff180dfb",
+    "build_site.py": "12ab0b11c9ba9a8528fc6326b7bca9cf749b1602859631e00f0a86a7241f4c35",
+    "check_runtime.cjs": "c758605fa3eefaeb798ecd0fa2c18190729869f3d871a5f7cd890b9ef5e7fd15",
+    "baseline_index.html": "37ba5f8d7d320ad773b47caa1b8cf6459cd2898cfbc81cf9adbdc99d6b1e33a2"
+  }
+}

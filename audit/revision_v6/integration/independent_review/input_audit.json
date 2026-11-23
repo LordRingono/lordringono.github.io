@@ -1,0 +1,502 @@
+{
+  "method": "Independent comparison of V5 and latest verifier snapshots; no publication",
+  "inputs": {
+    "ssh": {
+      "reviewed": "ssh/verify/approved_reviewed.json",
+      "reviewed_sha256": "0e6beca7c5815b5e844801045ca2d7814e168c6c2014045cae54fb02bc17aeb9",
+      "crops": "ssh/verify/approved_crops.json",
+      "crops_sha256": "a439d5c05e0d2afe1bc3f2868e7a9e8c90ffef6dde5672f014d024e0fa277d23",
+      "signedOff": true
+    },
+    "histologie": {
+      "reviewed": "histologie/verify/approved_reviewed.json",
+      "reviewed_sha256": "9f08c421e53b4de17b2e3d812c6db3ca5635bc2b12a0c1ab5cdaf574a8b27f7f",
+      "crops": "histologie/verify/approved_crops.json",
+      "crops_sha256": "3dcc020f087c8a6c41318c0c623288ead709c97eafb0778391991261f72d935e",
+      "signedOff": true
+    },
+    "biocell": {
+      "reviewed": "biocell/verify/approved_reviewed.json",
+      "reviewed_sha256": "2ff58d8d92223734b3a6e3b5a74ccc223bde33c606e67f6c53f8e7eee34627cc",
+      "crops": "biocell/verify/approved_crops.json",
+      "crops_sha256": "7b78db65424cdafb620d60710072edb5408f111621cca799cadf7cef4086e5cb",
+      "signedOff": true
+    },
+    "embryologie": {
+      "reviewed": "embryologie/verify/approved_reviewed.json",
+      "reviewed_sha256": "5dfa3e2e1741c7cf2fc25f502f9995a8ca585f9fd198fa94295043cbf36d39c3",
+      "crops": "embryologie/verify/approved_crops.json",
+      "crops_sha256": "15db4a936cbf4086b9472a83214c9c268e32b5986516b8e9f72748d6199c1bc4",
+      "signedOff": true
+    },
+    "biomol": {
+      "reviewed": "biomol/verify/approved_reviewed.json",
+      "reviewed_sha256": "15141b6a24da994041a69789f88bc7032859228ace30987919a0e87cb9542fd9",
+      "crops": "biomol/verify/approved_crops.json",
+      "crops_sha256": "d00d29fefac631f93927db22ffdeceb6a324a71753ab86a1ac5f059b5563fead",
+      "signedOff": true
+    },
+    "biochimie": {
+      "reviewed": "biochimie/verify/approved_reviewed.json",
+      "reviewed_sha256": "b581cfba8c6f4fc5f7ba9963e606ec9d9345f71b57776c7efb64111531efe840",
+      "crops": "biochimie/verify/approved_crops.json",
+      "crops_sha256": "3f54e5bae6065b72dec153eef1e7e0001bf27137aee2755385adb8cea4e5e693",
+      "signedOff": true
+    },
+    "chimie": {
+      "reviewed": "chimie/verify/approved_reviewed.json",
+      "reviewed_sha256": "511f535441e70ec7a99dcaca5e75ee8aaba9e0c6fb500b3a38ddcd338591b1f2",
+      "crops": "chimie/verify/approved_crops.json",
+      "crops_sha256": "57624752bf5c6e07a00777b30baa779ef7101944d9abe818aed947f6962e626d",
+      "signedOff": true
+    },
+    "biostat": {
+      "reviewed": "biostat/verify/approved_reviewed.json",
+      "reviewed_sha256": "d9b3321788c127b2a891fdec8c63f0d7ea3eb65946b5cf1e19caf73610f9daf2",
+      "crops": "biostat/verify/approved_crops.json",
+      "crops_sha256": "cef03106ba8feae74d6c0eaf2041c80360f32d263cf6548e78af8464d086a083",
+      "signedOff": true
+    },
+    "pharmaco": {
+      "reviewed": "pharmaco/verify/approved_reviewed.json",
+      "reviewed_sha256": "d603c3287fd1068bc7c2caa49ad5599ad25b677c2606889305a52b9b0e95323d",
+      "crops": "pharmaco/verify/approved_crops.json",
+      "crops_sha256": "af9448c6fbd4a2542d986fee59f66bf1964de84cb45749ca06504b1637c6d9b6",
+      "signedOff": true
+    }
+  },
+  "banks": 217,
+  "questions": 2812,
+  "schemaChanges": [
+    {
+      "bank": "histo.ann.tc",
+      "id": 5,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 1,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 5,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 6,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "bank": "histo.ann.tech",
+      "id": 7,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "bank": "bio.cm4",
+      "id": 5,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "bank": "bio.cm5",
+      "id": 13,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 10,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ]
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 13,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 15,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 16,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ]
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "id": 5,
+      "before": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "after": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "O",
+        "L",
+        "M",
+        "N"
+      ]
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "id": 23,
+      "before": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "after": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ]
+    }
+  ],
+  "newQuestions": [
+    {
+      "bank": "bio.cm7",
+      "id": 12
+    },
+    {
+      "bank": "bio.cm7",
+      "id": 13
+    },
+    {
+      "bank": "bio.cm7",
+      "id": 14
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 17
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 9
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "id": 10
+    }
+  ],
+  "missingMigrationEntries": [],
+  "annotatedSubjects": [
+    {
+      "bank": "bio.ann.cm6",
+      "id": 25,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "embryo.aut.s4",
+      "id": 23,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "embryo.aut.s4",
+      "id": 24,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": 5,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": 6,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "ue2.transcription.autotest",
+      "id": 2,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "ue2.traduction.autotest",
+      "id": 3,
+      "fromCompilation": false,
+      "contextRevised": false
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": 3,
+      "fromCompilation": true,
+      "contextRevised": false
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": 5,
+      "fromCompilation": true,
+      "contextRevised": false
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": 6,
+      "fromCompilation": true,
+      "contextRevised": false
+    },
+    {
+      "bank": "annales.ue2c.glucides.2020paces",
+      "id": 1,
+      "fromCompilation": true,
+      "contextRevised": false
+    },
+    {
+      "bank": "ue4.annales.theme.conception-rationnelle",
+      "id": 22,
+      "fromCompilation": true,
+      "contextRevised": false
+    }
+  ],
+  "sharedAnnotatedContexts": {
+    "embryo.aut.s4/v6-shared-embryo.aut.s4-23": {
+      "bank": "embryo.aut.s4",
+      "context": "v6-shared-embryo.aut.s4-23",
+      "ids": [
+        23,
+        24
+      ],
+      "images": [
+        "static/emb_aut_s4_023_1.png"
+      ]
+    },
+    "embryo.aut.coeur/v4-shared-embryo.aut.coeur-5": {
+      "bank": "embryo.aut.coeur",
+      "context": "v4-shared-embryo.aut.coeur-5",
+      "ids": [
+        5,
+        6
+      ],
+      "images": [
+        "static/emb_aut_coeur_005_1.png"
+      ]
+    },
+    "annales.ue2c.lipides.2020paces/ue2c-2020paces-common-21-22": {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "context": "ue2c-2020paces-common-21-22",
+      "ids": [
+        5,
+        6
+      ],
+      "images": [
+        "static/revision_v6/biochimie/paces2020_q21_22_original_annote.webp"
+      ]
+    }
+  },
+  "weightChanges": [],
+  "questionIdLosses": [],
+  "storageOrBankMetadataChanges": [],
+  "coreHashes": {
+    "build_site.py": "bad0c2b105277c346024e7cd1ab78d9a6fa25b0a36b6170e5ba84c529bd283bf",
+    "source_copies.js": "78705573cdb6b0ef478d146594bad6e8f10e81a51628458bdc2f3396ff180dfb",
+    "progress_migration.js": "08ec5767969354a2758db3a9493f4a31e194924aabcd3759e1cf2a652be91c80",
+    "check_runtime.cjs": "0022dd8191e4286a1c2303eca1fa003827a34e72063286180d08a3a08a361b48",
+    "check_integrity.py": "4ba0543044b4ada7ba6f555826baac9bb03ca2a226e441a883c49e357dbb510d"
+  },
+  "result": "PASS"
+}

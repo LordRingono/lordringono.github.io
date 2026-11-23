@@ -1,0 +1,106 @@
+{
+  "approved": true,
+  "verifier": "/root/histologie_verifie",
+  "inputSHA256": {
+    "reviewed.json": "96011ffc9d44898ada0ad9c759e075525a945c528cdf0b01664e0976fa529d69",
+    "crops.json": "1996925b232a018193748ebc0aa2b48ea44da10a31fe7505c80895be2c4b12d9"
+  },
+  "approvedSHA256": {
+    "approved_reviewed.json": "9f08c421e53b4de17b2e3d812c6db3ca5635bc2b12a0c1ab5cdaf574a8b27f7f",
+    "approved_crops.json": "3dcc020f087c8a6c41318c0c623288ead709c97eafb0778391991261f72d935e"
+  },
+  "banks": 13,
+  "questions": 321,
+  "items": 1614,
+  "gradable": 316,
+  "ungraded": 5,
+  "sourceCleanCopies": 321,
+  "correctionCopies": 321,
+  "reusedV5Pairs": 128,
+  "newAnnalesPairs": 193,
+  "sameSessionWholeQuestionComparisons": 172,
+  "sameSessionItemComparisons": 856,
+  "individuallyViewedCriticalPairs": 14,
+  "additionalIndividuallyViewedCorrectionQuestions": 1,
+  "sourceFigurePagesVisuallyViewed": 39,
+  "interactiveFigureAssetsVisuallyCompared": 21,
+  "baselineNotesPreserved": 59,
+  "preparerNotesPreservedOrClarified": 53,
+  "newVerifierNotes": 3,
+  "notesTotal": 115,
+  "correctedSourceFileLabels": 477,
+  "correctionMenusReordered": 20,
+  "newVerifierNotesIds": [
+    "histo-v6-verify-tn3d",
+    "histo-v6-verify-tn7c",
+    "histo-v6-verify-tc42d"
+  ],
+  "bankCounts": [
+    {
+      "bank": "histo.ann.te",
+      "questions": 29,
+      "items": 145
+    },
+    {
+      "bank": "histo.ann.tc",
+      "questions": 59,
+      "items": 295
+    },
+    {
+      "bank": "histo.ann.tn",
+      "questions": 66,
+      "items": 330
+    },
+    {
+      "bank": "histo.ann.tech",
+      "questions": 39,
+      "items": 195
+    },
+    {
+      "bank": "histo.te1",
+      "questions": 13,
+      "items": 65
+    },
+    {
+      "bank": "histo.te2",
+      "questions": 19,
+      "items": 95
+    },
+    {
+      "bank": "histo.tc1",
+      "questions": 12,
+      "items": 60
+    },
+    {
+      "bank": "histo.tc2",
+      "questions": 13,
+      "items": 65
+    },
+    {
+      "bank": "histo.tc3",
+      "questions": 24,
+      "items": 118
+    },
+    {
+      "bank": "histo.tn1",
+      "questions": 16,
+      "items": 80
+    },
+    {
+      "bank": "histo.tn2",
+      "questions": 10,
+      "items": 61
+    },
+    {
+      "bank": "histo.tn3",
+      "questions": 8,
+      "items": 40
+    },
+    {
+      "bank": "histo.autotech",
+      "questions": 13,
+      "items": 65
+    }
+  ],
+  "scopeLimit": "Les textes, clés et détails ont été relus pour tous les QCM. Toutes les paires de captures ont un contrôle documentaire et géométrique. Seules les paires et pages indiquées ont été inspectées visuellement une à une. Les réserves des documents ne sont pas assimilées à une clé scientifique personnelle."
+}

@@ -1,0 +1,476 @@
+[
+  {
+    "bank": "annales.ue2c.atomistique.2020s1",
+    "id": 1,
+    "sourceNumber": 43,
+    "item": "A",
+    "type": "import_repair",
+    "field": "explanations",
+    "before": "VRAI : (cf schéma p8) 𝑍2",
+    "after": "VRAI : (cf schéma p8).",
+    "sourcePage": 328,
+    "reason": "La fraction Z²/n² est celle du détail B dans le rendu original. Le numérateur avait été rattaché au détail A.",
+    "status": "corrige_et_relu_dans_original"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2020s1",
+    "id": 1,
+    "sourceNumber": 43,
+    "item": "B",
+    "type": "import_repair",
+    "field": "explanations",
+    "before": "FAUX : la bonne formule est 𝐸𝑛= −ℎ. 𝑐. 𝑅ℎ. ( 𝑛2).",
+    "after": "FAUX : La bonne formule est Eₙ = −h × c × R_H × (Z²/n²).",
+    "sourcePage": 328,
+    "reason": "La fraction Z²/n² est celle du détail B dans le rendu original. Le numérateur avait été rattaché au détail A.",
+    "status": "corrige_et_relu_dans_original"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2020s1",
+    "id": 1,
+    "sourceNumber": 43,
+    "items": [
+      "D"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2020s1",
+      "id": 1,
+      "sourceId": "43",
+      "items": [
+        "D"
+      ],
+      "kind": "possible_error",
+      "text": "La configuration imprimée pour P, 1s² 2p⁶ 3s¹ 3p³ 4s¹, ne contient que 13 électrons, alors que l’atome neutre de phosphore (Z=15) en possède 15. Le détail « état excité » ne résout pas cette différence : une excitation conserve le nombre d’électrons. Une omission de 2s² est plausible, mais cette sous-couche ne figure pas dans l’item original et ne doit pas être ajoutée silencieusement. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 308,
+          "label": "Sujet original, Q43 D",
+          "href": "sources/Annales_compilation.pdf#page=308"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 328,
+          "label": "Corrigé original, Q43 D",
+          "href": "sources/Annales_compilation.pdf#page=328"
+        },
+        {
+          "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+          "page": 13,
+          "label": "Ronéo — configurations électroniques et nombre d’électrons",
+          "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=13"
+        },
+        {
+          "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+          "page": 15,
+          "label": "Ronéo — configurations des atomes neutres",
+          "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=15"
+        }
+      ],
+      "sourceVerdict": "ADE",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2020s1-43-D"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2023s2",
+    "id": 1,
+    "sourceNumber": 29,
+    "items": [
+      "D"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2023s2",
+      "id": 1,
+      "sourceId": "29",
+      "items": [
+        "D"
+      ],
+      "kind": "possible_error",
+      "text": "L’item porte sur F⁸⁺ au niveau n=9. Son seuil d’ionisation est bien 13,6 × 9²/9² = 13,6 eV. En revanche, le détail propose de partir de l’énergie fondamentale : pour n=1, ce même ion aurait un seuil de 1 101,6 eV. Il faut donc utiliser E₉ dans Eᵢ = 0 − E₉ ; le mot « fondamental » du corrigé est incorrect ici. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 158,
+          "label": "Sujet original, Q29 D",
+          "href": "sources/Annales_compilation.pdf#page=158"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 173,
+          "label": "Corrigé original, Q29 D",
+          "href": "sources/Annales_compilation.pdf#page=173"
+        },
+        {
+          "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+          "page": 8,
+          "label": "Ronéo — énergie des hydrogénoïdes",
+          "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=8"
+        },
+        {
+          "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+          "page": 9,
+          "label": "Ronéo — transitions et ionisation",
+          "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=9"
+        }
+      ],
+      "sourceVerdict": "CD",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2023s2-29-D"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.chimie_org.2024s1",
+    "id": 4,
+    "sourceNumber": 47,
+    "items": [
+      "B"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.chimie_org.2024s1",
+      "id": 4,
+      "sourceId": "47",
+      "items": [
+        "B"
+      ],
+      "kind": "possible_error",
+      "text": "Le détail B appelle la structure 1 une « cétone énolisable », alors que le dessin et le détail A identifient un aldéhyde. La formation d’un aldol à partir de cet aldéhyde énolisable reste cohérente avec le verdict vrai ; c’est le nom de la fonction de départ dans la justification B qui est à rectifier. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 58,
+          "label": "Sujet original, structure 1 et Q47",
+          "href": "sources/Annales_compilation.pdf#page=58"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 81,
+          "label": "Corrigé original, Q47 A et B",
+          "href": "sources/Annales_compilation.pdf#page=81"
+        },
+        {
+          "file": "OpenStax — réaction aldolique",
+          "label": "OpenStax — réaction aldolique",
+          "href": "https://openstax.org/books/organic-chemistry/pages/23-1-carbonyl-condensations-the-aldol-reaction"
+        }
+      ],
+      "sourceVerdict": "BD",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2024s1-47-B"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.chimie_org.2024s2",
+    "id": 1,
+    "sourceNumber": 27,
+    "items": [
+      "C"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.chimie_org.2024s2",
+      "id": 1,
+      "sourceId": "27",
+      "items": [
+        "C"
+      ],
+      "kind": "possible_error",
+      "text": "Sur la structure 1, le carbone de droite porte deux groupes éthyle identiques : celui noté C₂H₅ et celui dessiné à gauche (CH₂–CH₃). Il ne possède donc pas quatre substituants différents et n’est pas asymétrique. La structure 1 n’a aucun C*, tandis que la structure 2 en a un. L’item « deux carbones asymétriques » reste faux, mais le comptage « un dans chaque structure » du détail est erroné. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 90,
+          "label": "Sujet original, structures 1 et 2",
+          "href": "sources/Annales_compilation.pdf#page=90"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 108,
+          "label": "Corrigé original, Q27 C",
+          "href": "sources/Annales_compilation.pdf#page=108"
+        },
+        {
+          "file": "OpenStax — carbone asymétrique et groupes différents",
+          "label": "OpenStax — carbone asymétrique et groupes différents",
+          "href": "https://openstax.org/books/organic-chemistry/pages/5-2-the-reason-for-handedness-in-molecules-chirality"
+        }
+      ],
+      "sourceVerdict": "ADE",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2024s2-27-C"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2021s1",
+    "id": 2,
+    "sourceNumber": 44,
+    "items": [
+      "D"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2021s1",
+      "id": 2,
+      "sourceId": "44",
+      "items": [
+        "D"
+      ],
+      "kind": "possible_error",
+      "text": "Pour le chrome fondamental [Ar] 4s¹ 3d⁵, la règle de Hund place un électron dans chacune des cinq orbitales d. Dans ce modèle, m = −1 compte donc 2 électrons en 2p, 2 en 3p et 1 en 3d, soit 5. L’item « 6 électrons » est bien faux ; l’argument du détail selon lequel on ne pourrait pas déterminer ce nombre parce que 3d est incomplète ne convient pas à cette sous-couche demi-pleine. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 247,
+          "label": "Sujet original, Q44 D",
+          "href": "sources/Annales_compilation.pdf#page=247"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 274,
+          "label": "Corrigé original, Q44 D",
+          "href": "sources/Annales_compilation.pdf#page=274"
+        },
+        {
+          "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+          "page": 13,
+          "label": "Ronéo — Hund et remplissage à l’état fondamental",
+          "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=13"
+        },
+        {
+          "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+          "page": 16,
+          "label": "Ronéo — configuration d’exception du chrome",
+          "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=16"
+        }
+      ],
+      "sourceVerdict": "BC",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2021s1-44-D"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2022s2",
+    "id": 1,
+    "sourceNumber": 27,
+    "items": [
+      "D"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2022s2",
+      "id": 1,
+      "sourceId": "27",
+      "items": [
+        "D"
+      ],
+      "kind": "possible_error",
+      "text": "La tendance périodique invoquée dans le corrigé ne suffit pas à conclure que Cu est plus électronégatif que Ni. Dans l’échelle de Pauling publiée par la Royal Society of Chemistry, Cu vaut 1,90 et Ni 1,91, soit l’ordre inverse. L’échelle ou l’approximation attendue dans le cours doit être précisée avant d’interpréter le verdict vrai. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 219,
+          "label": "Sujet original, Q27 D",
+          "href": "sources/Annales_compilation.pdf#page=219"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 233,
+          "label": "Corrigé original, Q27 D",
+          "href": "sources/Annales_compilation.pdf#page=233"
+        },
+        {
+          "file": "Royal Society of Chemistry — cuivre, Pauling 1,90",
+          "label": "Royal Society of Chemistry — cuivre, Pauling 1,90",
+          "href": "https://periodic-table.rsc.org/element/29/copper"
+        },
+        {
+          "file": "Royal Society of Chemistry — nickel, Pauling 1,91",
+          "label": "Royal Society of Chemistry — nickel, Pauling 1,91",
+          "href": "https://periodic-table.rsc.org/element/28/nickel"
+        }
+      ],
+      "sourceVerdict": "CDE",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2022s2-27-D"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2018",
+    "id": 1,
+    "sourceNumber": 46,
+    "items": [
+      "D"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2018",
+      "id": 1,
+      "sourceId": "46",
+      "items": [
+        "D"
+      ],
+      "kind": "possible_error",
+      "text": "L’argument « cela pourrait très bien être une 2pz » est problématique : dans la convention usuelle où l’axe de quantification est z, l’orbitale pz correspond à m = 0. Les orbitales réelles px et py et les états de m = ±1 nécessitent de préciser la base utilisée ; cette nuance ne justifie pas d’attribuer pz à m = −1. Faire clarifier la convention du cours et la justification du verdict faux. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 458,
+          "label": "Sujet original, Q47 imprimé / Q46 corrigé",
+          "href": "sources/Annales_compilation.pdf#page=458"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 483,
+          "label": "Corrigé original, Q46 D",
+          "href": "sources/Annales_compilation.pdf#page=483"
+        },
+        {
+          "file": "MIT OpenCourseWare — orbitales p et nombres quantiques, p. 1",
+          "label": "MIT OpenCourseWare — orbitales p et nombres quantiques, p. 1",
+          "href": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/5c828fce769b146e5820a7d6ed0abfc2_MIT5_111F14_Lec6.pdf#page=1"
+        }
+      ],
+      "sourceVerdict": "AB",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2018-46-D"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.chimie_org.2018",
+    "id": 5,
+    "sourceNumber": 45,
+    "items": [
+      "A",
+      "B"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.chimie_org.2018",
+      "id": 5,
+      "sourceId": "45",
+      "items": [
+        "A",
+        "B"
+      ],
+      "kind": "possible_error",
+      "text": "Le caractère tertiaire du dérivé halogéné ne suffit pas, à lui seul, à imposer SN1. Les alcoolates cités sont aussi des bases et une élimination E2 peut concurrencer la substitution ; le solvant et la température influencent le résultat. La stabilisation du carbocation par les noyaux aromatiques doit également être prise en compte. Les conditions données et l’argument « tertiaire donc SN1 » sont trop sommaires pour exclure cette concurrence : faire confirmer l’hypothèse retenue pour A et B. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 457,
+          "label": "Sujet original, Q46 imprimé / Q45 corrigé",
+          "href": "sources/Annales_compilation.pdf#page=457"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 482,
+          "label": "Corrigé original, Q45 A et B",
+          "href": "sources/Annales_compilation.pdf#page=482"
+        },
+        {
+          "file": "OpenStax — concurrence SN1, SN2, E1 et E2",
+          "label": "OpenStax — concurrence SN1, SN2, E1 et E2",
+          "href": "https://openstax.org/books/organic-chemistry/pages/11-12-a-summary-of-reactivity-sn1-sn2-e1-e1cb-and-e2"
+        }
+      ],
+      "sourceVerdict": "ABDE",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2018-45-AB"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2019",
+    "id": 2,
+    "sourceNumber": 47,
+    "items": [
+      "C"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2019",
+      "id": 2,
+      "sourceId": "47",
+      "items": [
+        "C"
+      ],
+      "kind": "possible_error",
+      "text": "Le mot « hyperconjugué » appliqué aux cycles B, A et C appelle la même réserve de vocabulaire que dans D. Le schéma montre un réseau de liaisons π conjuguées ; l’hyperconjugaison au sens IUPAC désigne l’interaction de liaisons σ avec un réseau π ou une orbitale p. Le corrigé donne seulement « VRAI » pour C et n’explicite pas l’interaction σ visée. Vérifier si le cours emploie ici ce terme pour la conjugaison étendue. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 413,
+          "label": "Sujet original, Q47 C",
+          "href": "sources/Annales_compilation.pdf#page=413"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 443,
+          "label": "Corrigé original, Q47 C",
+          "href": "sources/Annales_compilation.pdf#page=443"
+        },
+        {
+          "file": "IUPAC Gold Book — hyperconjugation",
+          "label": "IUPAC Gold Book — hyperconjugation",
+          "href": "https://goldbook.iupac.org/terms/view/H02924"
+        }
+      ],
+      "sourceVerdict": "ACDE",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2019-47-C"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  },
+  {
+    "bank": "annales.ue2c.atomistique.2019",
+    "id": 2,
+    "sourceNumber": 47,
+    "items": [
+      "E"
+    ],
+    "type": "scientific_note",
+    "note": {
+      "bank": "annales.ue2c.atomistique.2019",
+      "id": 2,
+      "sourceId": "47",
+      "items": [
+        "E"
+      ],
+      "kind": "possible_error",
+      "text": "Le détail E affirme que tous les carbones hors carboxylate sont sp². Or le carbone du cycle A portant le carboxylate a quatre liaisons simples et est sp³ ; le détail B le reconnaît lui-même. La justification de la planéité par « tous les carbones sont sp² » est donc incorrecte. Il faut faire préciser si l’énoncé parle du squelette des cycles ou de tous les atomes de la molécule, sans déduire la géométrie complète de cette seule phrase. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+      "refs": [
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 413,
+          "label": "Sujet original, Q47 E",
+          "href": "sources/Annales_compilation.pdf#page=413"
+        },
+        {
+          "file": "Sujets + corrections compilés.pdf",
+          "page": 443,
+          "label": "Corrigé original, Q47 B et E",
+          "href": "sources/Annales_compilation.pdf#page=443"
+        },
+        {
+          "file": "OpenStax — hybridation sp³ et géométrie tétraédrique",
+          "label": "OpenStax — hybridation sp³ et géométrie tétraédrique",
+          "href": "https://openstax.org/books/organic-chemistry/pages/1-6-sp3-hybrid-orbitals-and-the-structure-of-methane"
+        }
+      ],
+      "sourceVerdict": "ACDE",
+      "courseVerdict": null,
+      "noteId": "review-v6-chimie-verification-2019-47-E"
+    },
+    "status": "signalement_source_apres_correction_cle_conservee"
+  }
+]

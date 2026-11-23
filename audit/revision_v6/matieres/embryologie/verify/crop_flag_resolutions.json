@@ -1,0 +1,344 @@
+[
+  {
+    "bank": "embryo.aut.s3",
+    "id": 7,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 2,
+        "bbox": [
+          360.6700134277344,
+          21.227983474731445,
+          562.0299682617188,
+          34.51198196411133
+        ],
+        "text": "Plaque préchordale qui n’est pas figurée"
+      },
+      {
+        "item": "E",
+        "page": 2,
+        "bbox": [
+          360.6700134277344,
+          37.42799377441406,
+          424.6300048828125,
+          50.71199417114258
+        ],
+        "text": "sur la coupe"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "La légende « plaque préchordale qui n’est pas figurée sur la coupe », placée en haut de p.2, appartient à la figure du Q5 et non à l’item E du Q7. Elle est complète dans la copie du Q5."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 22,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "E",
+    "expected": "Elles formeront uniquement le système nerveux périphérique. Q23 et 24 : Cette coupe",
+    "cropText": "Q22 : Concernant les crêtes neurales : \nA – Elles sont issues d’une transition épithélio-mésenchymateuse des cellules du neurectoblaste.  \nB –  Elles migrent dans de multiples directions dans les différents tissus en formation de l’embryon.  \nC – Elles sont d’origine mésoblastique  \nD – Elles sont d’origine neurectoblastiques.  \nE – Elles formeront uniquement le système nerveux périphérique.  \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.aut.s4",
+    "id": 29,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "E",
+    "expected": "Ils sont colonisés par des cellules des crêtes neurales de la région occipitale, cellules qui formeront les muscles et os de la face. Là où se trouvent les IWP",
+    "cropText": "p\ng\np\nq\np\nQ29 : Concernant les arcs branchiaux : \nA – A l’intérieur de l’embryon on peut distinguer 5 poches entobranchiales.  \nB – Ils sont tridermiques, avec une partie entoblastique qui correspond au tube digestif primitif antérieur.  \nC – A l’extérieur on compte 3 sillons ectobranchiaux.  \nD – L’arc branchial I formera la mâchoire.  \nE – Ils sont colonisés par des cellules des crêtes neurales de la région occipitale, cellules qui formeront les \nmuscles et os de la face.  \n \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le cartouche IWP appartient au schéma des Q23/24, et non au Q29. La capture Q29 ne doit pas le récupérer ; le schéma annoté Q23/24 reste protégé après correction."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 4,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "G",
+    "expected": "Au sein de la zone cardiogène se mettent en place les premiers ilots angioformateurs, 1 jour après les premiers îlots extra-embryonnaires (Ilots de Wolff et Pander). Ce schéma concerne les questions 5 et 6 :",
+    "cropText": "Q4 : Vous savez que : \nA – A J18, se forment la zone cardiogène et les premiers IWP extra-embryonnaires.  \nB – Les tous premiers vaisseaux formés sont sanguino-formateurs.  \nC – La toute première formation de vaisseaux intra-embryonnaire se fait avec les aortes ventrales.  \nD – Les premiers battements cardiaques apparaissent alors que les IWP de la lame choriale se forment.  \nE – Les premiers vaisseaux efférents du cœur se forment dans le mésenchyme dorsal de chaque côté de la notochorde.  \nF – Dans la partie crâniale de l’embryon, on trouve les racines aortiques primitives.  \nG - Au sein de la zone cardiogène se mettent en place les premiers ilots angioformateurs, 1 jour après les premiers îlots \nextra-embryonnaires (Ilots de Wolff et Pander).  \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.aut.coeur",
+    "id": 4,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "G",
+        "page": 3,
+        "bbox": [
+          35.400001525878906,
+          225.14334106445312,
+          220.97000122070312,
+          237.3646240234375
+        ],
+        "text": "Ce schéma concerne les questions 5 et 6 :"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s2",
+    "id": 34,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "B",
+        "page": 7,
+        "bbox": [
+          404.3500061035156,
+          196.0879669189453,
+          433.2580261230469,
+          209.37196350097656
+        ],
+        "text": "Faux"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le mot Faux est entier sur la capture contrôlée. Le x finit à x=430.258 ; seul l’espace suivant s’étend jusqu’à 433.258. Le bord du cadre est x=431.6.",
+    "evidence": "Texte caractère par caractère du PDF p.7 et visual/approved_crop_22.png."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 24,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 5,
+        "bbox": [
+          36.0,
+          434.43798828125,
+          337.3900146484375,
+          447.72198486328125
+        ],
+        "text": "Les questions 25 et 26 se rapportent au schéma ci-contre :"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 30,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 7,
+        "bbox": [
+          36.0,
+          21.827959060668945,
+          342.22601318359375,
+          35.11195755004883
+        ],
+        "text": "Les 2 questions suivantes se rapportent au schéma ci-"
+      },
+      {
+        "item": "E",
+        "page": 7,
+        "bbox": [
+          36.0,
+          37.66798400878906,
+          90.74400329589844,
+          50.95198440551758
+        ],
+        "text": "dessous :"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s3",
+    "id": 40,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 9,
+        "bbox": [
+          36.0,
+          21.827959060668945,
+          377.7099914550781,
+          35.11195755004883
+        ],
+        "text": "Questions 41 et 42 : les questions se rapportent au schéma suivent"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 28,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "E",
+    "expected": "Les 3 lames choriales, amniotiques et vitellines, sont constituées de mésenchyme extra-embryonnaire originaire du magma réticulé, qui a régressé partiellement par apoptose. Les questions 29 et 30 se rapportent au schéma ci-dessous :",
+    "cropText": "Q28 : Concernant les annexes embryonnaires :  \nA – Les cellules qui le constituent ont le même génome que celui de l’embryon. \nB – Elles sont toutes amenées à régresser à partir de la 4ème semaine de développement \nC – Elles ont un développement relatif maximal à la fin de la 3ème semaine. \nD – Le cœlome extra-embryonnaire apparait en même temps que le lécithocèle primaire. \nE – Les 3 lames choriales, amniotiques et vitellines, sont constituées de mésenchyme extra-embryonnaire \noriginaire du magma réticulé, qui a régressé partiellement par apoptose. \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 28,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 5,
+        "bbox": [
+          36.0,
+          593.0979614257812,
+          343.3900146484375,
+          606.3819580078125
+        ],
+        "text": "Les questions 29 et 30 se rapportent au schéma ci-dessous :"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 34,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "E",
+    "expected": "L’ébauche hépatique d’origine entoblastique se développe à partir d’intestin moyen Questions 35 et 36 : Ces questions se rapportent au schéma suivant",
+    "cropText": " \nQ34 : Concernant l’évolution des 3 feuillets embryonnaires au cours de la 4ème semaine :  \nA – Le mésonéphros s’est constitué vers J24 avec une trentaine de paires de tubes mésonéphrotiques à la fin \nde la semaine. \nC – L’éminence caudale apparait sous la forme d’une condensation mésoblastique qui évoluera en tissus \nnerveux. \nD – La première ébauche de l’appareil respiratoire apparait à partir de l’intestin primitif antérieur \nE – L’ébauche hépatique d’origine entoblastique se développe à partir d’intestin moyen \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 34,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 6,
+        "bbox": [
+          36.0,
+          640.7679443359375,
+          383.8299865722656,
+          654.0519409179688
+        ],
+        "text": "Questions 35 et 36 : Ces questions se rapportent au schéma suivant"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 43,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "D",
+    "expected": "Dans les formes sévères de Spina Bifida, la moelle épinière s’ouvre à la surface du corps. Questions 44 et 45 ; Les questions se rapportent au schéma suivant",
+    "cropText": " \nQ43 : Concernant les anomalies du développement en 3ème et 4ème semaines  \nA – Une anomalie fonctionnelle des cellules du nœud de Hensen peut entrainer une malposition des organes. \nB – Des anomalies de la gastrulation entrainent souvent des dysplasies caudales. \nC – Des mutations concernant des gènes homéotiques ont généralement peu d’impact sur le développement \nD – Dans les formes sévères de Spina Bifida, la moelle épinière s’ouvre à la surface du corps. \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 43,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "D",
+        "page": 8,
+        "bbox": [
+          36.0,
+          326.5579833984375,
+          388.1499938964844,
+          339.84197998046875
+        ],
+        "text": "Questions 44 et 45 ; Les questions se rapportent au schéma suivant"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 53,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "D",
+    "expected": "L'acide folique et l'acide rétinoïque sont deux agents potentiellement tératogènes Q 54 et 55",
+    "cropText": "Q53 : Concernant la quatrième semaine du développement embryonnaire :   \nA – Le nucleus pulposus constitue un reliquat originaire de la fragmentation de la chorde, qu'on retrouve au \nsein des corps vertébraux \nB – Autour de J28 disparait le pronéphros et apparait le mésonéphros \nC – La cavité cœlomique (cœlome interne) deviendra progressivement virtuelle, telle qu'on l’observe après \nla naissance \nD – L'acide folique et l'acide rétinoïque sont deux agents potentiellement tératogènes \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 53,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "D",
+        "page": 10,
+        "bbox": [
+          36.0,
+          323.3179931640625,
+          93.74400329589844,
+          336.60198974609375
+        ],
+        "text": "Q 54 et 55"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 67,
+    "role": "subject",
+    "issue": "subject_text_not_whole",
+    "item": "E",
+    "expected": "La veine ombilicale transporte du sang riche en oxygène Q68 et 69 se rapportent au schéma suivant :",
+    "cropText": "Q67 : A propos de la mise en place de l'appareil circulatoire \nA – La plicature ventrale de l'embryon est à l'origine de l'intégration complète du tube cardiaque en position \nintra-embryonnaire \nB – L'hémoglobine fœtale capte moins efficacement l'oxygène que l'hémoglobine adulte, afin d'éviter une \noxydation trop importante des cellules nerveuses \nC – II existe 6 ares aortiques constituant des anastomoses entre les deux aortes ventrales et les deux aortes \ndorsales primitives \nD – Les deux veines vitellines rejoignent chacune une veine cardinale commune \nE –  La veine ombilicale transporte du sang riche en oxygène \n",
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  },
+  {
+    "bank": "embryo.col.s4",
+    "id": 67,
+    "role": "correction",
+    "issue": "correction_line_not_whole",
+    "misses": [
+      {
+        "item": "E",
+        "page": 13,
+        "bbox": [
+          36.0,
+          21.827959060668945,
+          274.8695068359375,
+          35.11195755004883
+        ],
+        "text": "Q68 et 69 se rapportent au schéma suivant :"
+      }
+    ],
+    "status": "resolved_false_positive",
+    "resolution": "Le fragment appartient à l’en-tête commun des QCM suivants. Il est exclu de l’item précédent et inclus dans les captures du groupe auquel il se rapporte."
+  }
+]

@@ -1,0 +1,3933 @@
+[
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "type": "restore_item_explanations",
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "page": 519,
+    "evidence": "Ligne FAUX non lettrée immédiatement après la clé BDE, puis B–E explicitement imprimés."
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "type": "restore_item_explanations",
+    "items": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "page": 555,
+    "evidence": "Cinq verdicts FAUX, FAUX, FAUX, VRAI, FAUX sans lettres, dans l’ordre A–E et concordant avec la clé D. La réserve sur les égalités de quantiles est conservée."
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 3,
+    "type": "repair_scientific_reserve_arithmetic",
+    "items": [
+      "D"
+    ],
+    "source_pages": [
+      635,
+      642
+    ],
+    "before": "Multiplier l’effectif par 144 divise l’erreur type et la demi-largeur de l’intervalle par √144 = 12. Dans les valeurs de cet exercice, la nouvelle demi-largeur vaut 1/6 et non 1/12 : le détail confond le facteur de réduction avec la nouvelle valeur. Le verdict D est conservé. Vérifier ce point dans la ronéo UE3 correspondante.",
+    "after": "Passer de 36 à 144 sujets multiplie l’effectif par 4 et divise l’erreur type ainsi que la demi-largeur de l’intervalle par √4 = 2. Avec les valeurs de cet exercice, la demi-largeur passe de 1/3 à 1/6, et non à 1/12 comme indiqué dans le détail du corrigé. Le verdict D est conservé. Vérifier ce point dans la ronéo UE3 correspondante."
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q01_correction_p495.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q01_correction_p495.webp",
+    "page": 495,
+    "old_rect": [
+      37.0,
+      293.85,
+      550.0,
+      473.176
+    ],
+    "rect": [
+      30,
+      293.85,
+      570,
+      472.1759948730469
+    ],
+    "sha256": "9d3d0a5c84f504a4a6603ebf0df89a610b7876decf3848b47fa41f688c73f0ec",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q02_correction_p496.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q02_correction_p496.webp",
+    "page": 496,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      172.55
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      171.54998779296875
+    ],
+    "sha256": "3860c8e60df06946f28e9131ea202ad7852f757c074d8f339f2c4c183f36b279",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q03_correction_p496.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q03_correction_p496.webp",
+    "page": 496,
+    "old_rect": [
+      37.0,
+      414.12,
+      550.0,
+      586.92
+    ],
+    "rect": [
+      30,
+      414.12,
+      570,
+      585.9200439453125
+    ],
+    "sha256": "82fc52f504512f7aead04183b13edeb69416c7661c1e7cf2a1bd98c1f53525cb",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q04_correction_p497.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q04_correction_p497.webp",
+    "page": 497,
+    "old_rect": [
+      37.0,
+      374.37,
+      550.0,
+      540.15
+    ],
+    "rect": [
+      30,
+      374.37,
+      570,
+      523.1500244140625
+    ],
+    "sha256": "687e3cfa331f91df5f6f969d3ecb3dd11c1c042482fb86948e6fa35ed4609a5b",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q05_correction_p498.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q05_correction_p498.webp",
+    "page": 498,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      432.12
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      431.1199951171875
+    ],
+    "sha256": "09880c10f5d79b847ade79eed28241de0d5d5d612d56c54b24f7ab18a5fb5290",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q06_correction_p499.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q06_correction_p499.webp",
+    "page": 499,
+    "old_rect": [
+      37.0,
+      488.9,
+      550.0,
+      634.68
+    ],
+    "rect": [
+      30,
+      488.9,
+      570,
+      633.6799926757812
+    ],
+    "sha256": "8469fbb1f1f99d1f1e0c14d0d56616fd8ba411007d1420f3fe6217f7523184b3",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q07_correction_p500.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q07_correction_p500.webp",
+    "page": 500,
+    "old_rect": [
+      37.0,
+      231.08,
+      550.0,
+      401.562
+    ],
+    "rect": [
+      30,
+      231.08,
+      570,
+      355.6000061035156
+    ],
+    "sha256": "a0db3cba27860d5d37f2e474d0b96c209d8edf64e0228e3ea7bb0449d1964f15",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q08_correction_p500.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q08_correction_p500.webp",
+    "page": 500,
+    "old_rect": [
+      37.0,
+      586.43,
+      550.0,
+      720.95
+    ],
+    "rect": [
+      30,
+      586.43,
+      570,
+      719.9500122070312
+    ],
+    "sha256": "c83a04907edd6375d95a7c1be28d2dbd52f3e4206b8072f39cec830aaf274173",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q09_correction_p501.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q09_correction_p501.webp",
+    "page": 501,
+    "old_rect": [
+      37.0,
+      264.83,
+      550.0,
+      410.87
+    ],
+    "rect": [
+      30,
+      264.83,
+      570,
+      409.8699951171875
+    ],
+    "sha256": "c6368ab4b9b75ffc981250bdea657282951806f0eb7329962bc0ca2cc95db848",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q10_correction_p502.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q10_correction_p502.webp",
+    "page": 502,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      206.05
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      205.04998779296875
+    ],
+    "sha256": "35103b9e93427f36e4d34cb82fa240ad823c934430bccb121438ba959e5a17ea",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q11_correction_p502.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q11_correction_p502.webp",
+    "page": 502,
+    "old_rect": [
+      37.0,
+      574.93,
+      550.0,
+      761.225
+    ],
+    "rect": [
+      30,
+      574.93,
+      570,
+      760.2249755859375
+    ],
+    "sha256": "6e77a5348fe9e39b8159dd9ee7c7ba55d8221b8ca4806bbd9f54972d86cf4804",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2025-2026.s1",
+    "id": 12,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2025-2026_s1_q12_correction_p503.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2025-2026_s1_q12_correction_p503.webp",
+    "page": 503,
+    "old_rect": [
+      37.0,
+      325.1,
+      550.0,
+      457.62
+    ],
+    "rect": [
+      30,
+      325.1,
+      570,
+      456.6199951171875
+    ],
+    "sha256": "94c4b42115968f4915c05e7b38d4ae4df36a8899ea9a53c06fe2143fe2de6d11",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q01_correction_p513.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q01_correction_p513.webp",
+    "page": 513,
+    "old_rect": [
+      37.0,
+      509.9,
+      550.0,
+      603.18
+    ],
+    "rect": [
+      30,
+      509.9,
+      570,
+      602.1799926757812
+    ],
+    "sha256": "49ddf9309099ef094cb13b8ca875a63fc55617d8e80e7d0897e29c8e3139eda6",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q02_correction_p514.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q02_correction_p514.webp",
+    "page": 514,
+    "old_rect": [
+      37.0,
+      237.83,
+      550.0,
+      343.6
+    ],
+    "rect": [
+      30,
+      237.83,
+      570,
+      342.1600036621094
+    ],
+    "sha256": "2ec94ed51642aadcc6b25fbcd7797e698e4ce5482c04b20285d775a84e31d09e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q03_correction_p514.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q03_correction_p514.webp",
+    "page": 514,
+    "old_rect": [
+      37.0,
+      574.68,
+      550.0,
+      668.2
+    ],
+    "rect": [
+      30,
+      574.68,
+      570,
+      667.2000122070312
+    ],
+    "sha256": "5fde3ccac63cb91c8cec94048f81041a3a9465a1ee88439cb3f628fa0dad6f6a",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q04_correction_p515.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q04_correction_p515.webp",
+    "page": 515,
+    "old_rect": [
+      37.0,
+      313.1,
+      550.0,
+      455.396
+    ],
+    "rect": [
+      30,
+      313.1,
+      570,
+      455.396
+    ],
+    "sha256": "129d188fba2f0b2d17a0616e2569c1b17ae62ea6d1290c596121e56e041d165b",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q05_correction_p515.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q05_correction_p515.webp",
+    "page": 515,
+    "old_rect": [
+      37.0,
+      585.17,
+      550.0,
+      766.251
+    ],
+    "rect": [
+      30,
+      585.17,
+      570,
+      765.2509765625
+    ],
+    "sha256": "003050a81aae5259341c90dad55c64d19930e0d4a8667e1c1c88e260fda40013",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q06_correction_p516.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q06_correction_p516.webp",
+    "page": 516,
+    "old_rect": [
+      37.0,
+      369.35,
+      550.0,
+      561.17
+    ],
+    "rect": [
+      30,
+      369.35,
+      570,
+      560.1700439453125
+    ],
+    "sha256": "ed774b63ab901a641f1072c5a59249354ffb786caf281b2929ed8e9483a35dd2",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q07_correction_p517.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q07_correction_p517.webp",
+    "page": 517,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      179.3
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      178.29998779296875
+    ],
+    "sha256": "b40396f154f96182df0516fd35c679d27657f3e293284e317b80d20d33de34f2",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q08_correction_p517.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q08_correction_p517.webp",
+    "page": 517,
+    "old_rect": [
+      37.0,
+      434.12,
+      550.0,
+      526.4
+    ],
+    "rect": [
+      30,
+      434.12,
+      570,
+      525.4000244140625
+    ],
+    "sha256": "e7f7cace52fe9ca557ce8862e597fc635d02a53ce72f8a59f15f5a854adb2238",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q09_correction_p518.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q09_correction_p518.webp",
+    "page": 518,
+    "old_rect": [
+      37.0,
+      222.58,
+      550.0,
+      528.65
+    ],
+    "rect": [
+      30,
+      222.58,
+      570,
+      527.6500244140625
+    ],
+    "sha256": "44a3d33836d9c8bb5aacf143c19cc4350c3954400eda3ccc83c5ee629c854674",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q10_correction_p519.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q10_correction_p519.webp",
+    "page": 519,
+    "old_rect": [
+      37.0,
+      264.83,
+      550.0,
+      437.62
+    ],
+    "rect": [
+      30,
+      264.83,
+      570,
+      436.6199951171875
+    ],
+    "sha256": "97eed58831e990197d0aa7a1894b6fc3f09588bc1722e3ee7394bd6cad727ba6",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q11_correction_p520.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q11_correction_p520.webp",
+    "page": 520,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      248.33
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      247.33001708984375
+    ],
+    "sha256": "d07c1df03d141949b7424ad7fa33d96ce7bd0dfb88d56621ceac862313376d5e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s1",
+    "id": 12,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s1_q12_correction_p520.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s1_q12_correction_p520.webp",
+    "page": 520,
+    "old_rect": [
+      37.0,
+      572.43,
+      550.0,
+      758.725
+    ],
+    "rect": [
+      30,
+      572.43,
+      570,
+      757.7249755859375
+    ],
+    "sha256": "d95297903d1343e25218bbd40a1363a94f558e04a74a0a3271f0ac17ef4e16b8",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q01_correction_p527.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q01_correction_p527.webp",
+    "page": 527,
+    "old_rect": [
+      37.0,
+      307.1,
+      550.0,
+      420.12
+    ],
+    "rect": [
+      30,
+      307.1,
+      570,
+      419.1199951171875
+    ],
+    "sha256": "6b827601af7dc05a0d1891a7379a18531ca879a5516af723e1b0081f80113052",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q02_correction_p527.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q02_correction_p527.webp",
+    "page": 527,
+    "old_rect": [
+      37.0,
+      617.17,
+      550.0,
+      709.45
+    ],
+    "rect": [
+      30,
+      617.17,
+      570,
+      708.4500122070312
+    ],
+    "sha256": "2a148eaba02e9ecd799bbf8d39630e3d27b17356a1c3129b1138f4554962133e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q03_correction_p528.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q03_correction_p528.webp",
+    "page": 528,
+    "old_rect": [
+      37.0,
+      220.58,
+      550.0,
+      465.12
+    ],
+    "rect": [
+      30,
+      220.58,
+      570,
+      338.3500061035156
+    ],
+    "sha256": "1a6c9ef94603572f7eff20aa5787b40244043819d08fe2b781f48bed070b4e18",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q04_correction_p529.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q04_correction_p529.webp",
+    "page": 529,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      346.85
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      303.0999755859375
+    ],
+    "sha256": "9b12e3b4bf51d95bf140375f3cf61f7ab9e7518ac9c7b5dc86a8d0a9983bea98",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q05_correction_p529.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q05_correction_p529.webp",
+    "page": 529,
+    "old_rect": [
+      37.0,
+      489.4,
+      550.0,
+      778.0
+    ],
+    "rect": [
+      30,
+      489.4,
+      570,
+      778.0
+    ],
+    "sha256": "1f448678218f0b993d473a04e5af89df5cc78dd26f4a0967cfda71d1c5b38a1d",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 5,
+    "type": "remove_next_question_only_image",
+    "src": "static/annales_ue3_2024-2025_s2_q05_correction_p530.webp",
+    "page": 530,
+    "source_text": "Question à réponse unique"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q06_correction_p530.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q06_correction_p530.webp",
+    "page": 530,
+    "old_rect": [
+      37.0,
+      224.58,
+      550.0,
+      524.65
+    ],
+    "rect": [
+      30,
+      224.58,
+      570,
+      478.69500732421875
+    ],
+    "sha256": "79ec757e0e375e1fd275c057885ce24a8ab8535dac2ebde7be56fc6addcc714d",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2024-2025.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2024-2025_s2_q07_correction_p531.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2024-2025_s2_q07_correction_p531.webp",
+    "page": 531,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      223.58
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      222.58001708984375
+    ],
+    "sha256": "4b4e2fa1eaf7e53324f8c46feb016a984ca45860ce3fc6bbb5dea4b20c861597",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q01_correction_p541.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q01_correction_p541.webp",
+    "page": 541,
+    "old_rect": [
+      37.0,
+      329.85,
+      550.0,
+      499.4
+    ],
+    "rect": [
+      30,
+      329.85,
+      570,
+      498.3999938964844
+    ],
+    "sha256": "f8a99faf87c52a06f501025e633348b88b16d7ca1d92e485f8fdd0cd3029efac",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q02_correction_p542.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q02_correction_p542.webp",
+    "page": 542,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      314.6
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      284.07000732421875
+    ],
+    "sha256": "bcebb8fb0597e24937ba3b92da1ff73920de1091f8383ddbcacdbb88d4737bb8",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q03_correction_p542.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q03_correction_p542.webp",
+    "page": 542,
+    "old_rect": [
+      37.0,
+      468.9,
+      550.0,
+      574.67
+    ],
+    "rect": [
+      30,
+      468.9,
+      570,
+      573.6700439453125
+    ],
+    "sha256": "ce5d2a0bcaf05b07301fd5b58144280bcb659377e65dc3b5b2dc466e5c780f12",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q04_correction_p543.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q04_correction_p543.webp",
+    "page": 543,
+    "old_rect": [
+      37.0,
+      294.35,
+      550.0,
+      399.87
+    ],
+    "rect": [
+      30,
+      294.35,
+      570,
+      398.8699951171875
+    ],
+    "sha256": "7f33d10869bc7d8da3654add46d947fc351049ea219d47aa65ea611eb715a532",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q05_correction_p543.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q05_correction_p543.webp",
+    "page": 543,
+    "old_rect": [
+      37.0,
+      616.42,
+      550.0,
+      722.2
+    ],
+    "rect": [
+      30,
+      616.42,
+      570,
+      721.2000122070312
+    ],
+    "sha256": "d634a9049e7b9d775e5a44e305048ee48ece33e5bd2e80275a0bcafca0f50dbe",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q06_correction_p544.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q06_correction_p544.webp",
+    "page": 544,
+    "old_rect": [
+      37.0,
+      280.83,
+      550.0,
+      440.12
+    ],
+    "rect": [
+      30,
+      280.83,
+      570,
+      439.1199951171875
+    ],
+    "sha256": "49803edfe12009c416d863a850256f7d0ebd8a5890ec51aa5d2597213a903737",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q07_correction_p545.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q07_correction_p545.webp",
+    "page": 545,
+    "old_rect": [
+      37.0,
+      223.83,
+      550.0,
+      316.1
+    ],
+    "rect": [
+      30,
+      223.83,
+      570,
+      315.0999755859375
+    ],
+    "sha256": "95635f36cdac341348c64e70c816d5170420f696245d19367420b32658569e39",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q08_correction_p545.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q08_correction_p545.webp",
+    "page": 545,
+    "old_rect": [
+      37.0,
+      518.65,
+      550.0,
+      637.67
+    ],
+    "rect": [
+      30,
+      518.65,
+      570,
+      636.6699829101562
+    ],
+    "sha256": "bba37e0f499a508b08f51d409bc921a8f8a037883ee2024e56885af52648a2a9",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q09_correction_p546.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q09_correction_p546.webp",
+    "page": 546,
+    "old_rect": [
+      37.0,
+      469.9,
+      550.0,
+      750.725
+    ],
+    "rect": [
+      30,
+      469.9,
+      570,
+      706.7000122070312
+    ],
+    "sha256": "be7c5043c912dfacbef4405a7877a2aa78116d1fbdb35193156c6885824f2a44",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q10_correction_p547.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q10_correction_p547.webp",
+    "page": 547,
+    "old_rect": [
+      37.0,
+      233.08,
+      550.0,
+      325.35
+    ],
+    "rect": [
+      30,
+      233.08,
+      570,
+      324.3499755859375
+    ],
+    "sha256": "f643f8cd66d3c302b0b303a0d3a817297f5d4315cc55a94e63aa21ec5da7e415",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q11_correction_p547.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q11_correction_p547.webp",
+    "page": 547,
+    "old_rect": [
+      37.0,
+      573.67,
+      550.0,
+      750.975
+    ],
+    "rect": [
+      30,
+      573.67,
+      570,
+      749.9749755859375
+    ],
+    "sha256": "cabd1b0f0a8b0d9f56c60e2635dfe97262ed810d8ffeccaa7a635b2017743a49",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s1",
+    "id": 12,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s1_q12_correction_p548.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s1_q12_correction_p548.webp",
+    "page": 548,
+    "old_rect": [
+      37.0,
+      462.15,
+      550.0,
+      594.68
+    ],
+    "rect": [
+      30,
+      462.15,
+      570,
+      593.6799926757812
+    ],
+    "sha256": "bd133f99db62933dff760c4327936677a63a09ba00096d13f88bf6d377aef0eb",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q01_correction_p555.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q01_correction_p555.webp",
+    "page": 555,
+    "old_rect": [
+      37.0,
+      238.33,
+      550.0,
+      330.6
+    ],
+    "rect": [
+      30,
+      238.33,
+      570,
+      329.5999755859375
+    ],
+    "sha256": "d0cca7ede3fd1200d4bba548a3c936f5f18bcf163bb6dcf8dfc48335d76c1f67",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q02_original_p550.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q02_original_p550.webp",
+    "page": 550,
+    "old_rect": [
+      37.0,
+      180.095,
+      550.0,
+      300.82
+    ],
+    "rect": [
+      30,
+      180.095,
+      570,
+      300.82
+    ],
+    "sha256": "afff0804ac82e415fa10eb9054ff0bab63e189607f08535e2422285b05ab95e0",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q02_correction_p555.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q02_correction_p555.webp",
+    "page": 555,
+    "old_rect": [
+      37.0,
+      504.9,
+      550.0,
+      661.95
+    ],
+    "rect": [
+      30,
+      504.9,
+      570,
+      660.9500122070312
+    ],
+    "sha256": "443de40be9ff5518fd2705ed6d4660f8f56f05684c34c2df80d953ffa1a4cb59",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q03_original_p550.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q03_original_p550.webp",
+    "page": 550,
+    "old_rect": [
+      37.0,
+      330.895,
+      550.0,
+      438.12
+    ],
+    "rect": [
+      30,
+      330.895,
+      570,
+      438.12
+    ],
+    "sha256": "8531fab8655b951406a3b7a783697ebda614ac783e55ddfae2c7394250eca35c",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q03_correction_p556.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q03_correction_p556.webp",
+    "page": 556,
+    "old_rect": [
+      37.0,
+      211.08,
+      550.0,
+      328.1
+    ],
+    "rect": [
+      30,
+      211.08,
+      570,
+      327.0999755859375
+    ],
+    "sha256": "6c3a561a8630121f0849f73851671f99de5d8e2aa43d51847c3aa145d3e39544",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q04_context_p550.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q04_context_p550.webp",
+    "page": 550,
+    "old_rect": [
+      37.0,
+      439.12,
+      550.0,
+      497.9
+    ],
+    "rect": [
+      30,
+      439.12,
+      570,
+      497.9
+    ],
+    "sha256": "8f05ae9db2846f9faa1c45a3aec29c10312bdb85e5bfba364f9ca9cf9300d8b8",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q04_correction_p556.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q04_correction_p556.webp",
+    "page": 556,
+    "old_rect": [
+      37.0,
+      502.4,
+      550.0,
+      623.43
+    ],
+    "rect": [
+      30,
+      502.4,
+      570,
+      622.4299926757812
+    ],
+    "sha256": "6e05de42316be942eb65000685af21f5712e30c26e251ac10a500efb7fe321ca",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q05_context_p550.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q05_context_p550.webp",
+    "page": 550,
+    "old_rect": [
+      37.0,
+      594.17,
+      550.0,
+      639.45
+    ],
+    "rect": [
+      30,
+      594.17,
+      570,
+      639.45
+    ],
+    "sha256": "a211f0e6a36b479426485fa483a24314ec563e1f9658f4704cc04b0eee939a38",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q05_original_p550.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q05_original_p550.webp",
+    "page": 550,
+    "old_rect": [
+      37.0,
+      638.45,
+      550.0,
+      761.475
+    ],
+    "rect": [
+      30,
+      638.45,
+      570,
+      761.475
+    ],
+    "sha256": "7ce231ffa95b3ef7726c5085ee95fd0501746f8849844f3bb1f2fe9c4b978691",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q05_correction_p557.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q05_correction_p557.webp",
+    "page": 557,
+    "old_rect": [
+      37.0,
+      237.83,
+      550.0,
+      410.87
+    ],
+    "rect": [
+      30,
+      237.83,
+      570,
+      409.8699951171875
+    ],
+    "sha256": "07a512e11dcc85a196777d7668cc309b7ccedc24e989eccb3cf8760ba957ae4f",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q06_original_p551.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q06_original_p551.webp",
+    "page": 551,
+    "old_rect": [
+      37.0,
+      138.3,
+      550.0,
+      288.08
+    ],
+    "rect": [
+      30,
+      138.3,
+      570,
+      288.08
+    ],
+    "sha256": "d4eacba0b6a57ffa7356b8d36c6d068e04c5fe30653f77886adcd967f8ac9035",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q06_correction_p558.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q06_correction_p558.webp",
+    "page": 558,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      210.05
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      209.04998779296875
+    ],
+    "sha256": "504df1cfe8e45c901e0c21818e7331b6d2f101569c5da04f20b39f12c2f544ce",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q06_context_p551.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q06_context_p551.webp",
+    "page": 551,
+    "old_rect": [
+      37.0,
+      65.0,
+      550.0,
+      139.3
+    ],
+    "rect": [
+      30,
+      65.0,
+      570,
+      139.3
+    ],
+    "sha256": "93bba622a53f26407c18b292dd83f40fa490aea7e3fe82dd105b57aded66accf",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q07_context_p551.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q07_context_p551.webp",
+    "page": 551,
+    "old_rect": [
+      37.0,
+      289.08,
+      550.0,
+      363.35
+    ],
+    "rect": [
+      30,
+      289.08,
+      570,
+      363.35
+    ],
+    "sha256": "cb9ac0e8edf4b70569cb86e5cd64420c63ab8562ed8a03306ac0c9ad57209158",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q07_original_p551.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q07_original_p551.webp",
+    "page": 551,
+    "old_rect": [
+      37.0,
+      362.35,
+      550.0,
+      512.15
+    ],
+    "rect": [
+      30,
+      362.35,
+      570,
+      512.15
+    ],
+    "sha256": "1a3076db106d2b5392470d73e1c2fe6c6768764b0532f7cb82df30c8611ac830",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2023-2024.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2023-2024_s2_q07_correction_p558.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2023-2024_s2_q07_correction_p558.webp",
+    "page": 558,
+    "old_rect": [
+      37.0,
+      451.62,
+      550.0,
+      584.17
+    ],
+    "rect": [
+      30,
+      451.62,
+      570,
+      583.1700439453125
+    ],
+    "sha256": "d38535069e019d41c53133204149bfe3a253a6fefde7914961196faf3beac681",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q01_correction_p567.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q01_correction_p567.webp",
+    "page": 567,
+    "old_rect": [
+      37.0,
+      572.93,
+      550.0,
+      778.0
+    ],
+    "rect": [
+      30,
+      572.93,
+      570,
+      778.0
+    ],
+    "sha256": "534ec0048b3d35036ca2969c2a39bb6e1af03867afd745ca6a9ab1ef3c0f1693",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 1,
+    "type": "remove_next_question_only_image",
+    "src": "static/annales_ue3_2022-2023_s1_q01_correction_p568.webp",
+    "page": 568,
+    "source_text": "On calcule l’intervalle de confiance à 95% de l’espérance 𝜇 de la concentration en bicarbonate dans la population\nP sachant que la moyenne de la concentration en bicarbonate des 400 patients est de 21,0 mmol/L et l’écart\ntype estimé est de 2,0 mmol/L"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q02_correction_p568.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q02_correction_p568.webp",
+    "page": 568,
+    "old_rect": [
+      37.0,
+      286.33,
+      550.0,
+      491.65
+    ],
+    "rect": [
+      30,
+      286.33,
+      570,
+      490.6499938964844
+    ],
+    "sha256": "99f7b5b602f75f443521e45f079b9b822bfcb851a819ff682cea5c064154a2a3",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q03_correction_p569.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q03_correction_p569.webp",
+    "page": 569,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      317.35
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      316.3499755859375
+    ],
+    "sha256": "fe64fe38f3a90d4a1f97062e68ce9c9465b0160180bfa3a7a81ece94c1a0e21c",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q04_correction_p569.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q04_correction_p569.webp",
+    "page": 569,
+    "old_rect": [
+      37.0,
+      611.18,
+      550.0,
+      703.2
+    ],
+    "rect": [
+      30,
+      611.18,
+      570,
+      702.2000122070312
+    ],
+    "sha256": "060de6ccb8f9e181d08c901817fc90bb2d73f4c3abde4d73bc77dd93ae2aac08",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q05_correction_p570.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q05_correction_p570.webp",
+    "page": 570,
+    "old_rect": [
+      37.0,
+      239.33,
+      550.0,
+      345.1
+    ],
+    "rect": [
+      30,
+      239.33,
+      570,
+      344.1000061035156
+    ],
+    "sha256": "028cd0e7a18efeb590ecfff9b2a3e6fac547c93adbcab5640a673f80b4edcf9e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q06_correction_p571.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q06_correction_p571.webp",
+    "page": 571,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      213.3
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      212.29998779296875
+    ],
+    "sha256": "4849537985ade62a9dae1e47bc2f41ff831e647ac03d0828376414582056c4d9",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q07_correction_p571.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q07_correction_p571.webp",
+    "page": 571,
+    "old_rect": [
+      37.0,
+      465.4,
+      550.0,
+      557.65
+    ],
+    "rect": [
+      30,
+      465.4,
+      570,
+      556.6500244140625
+    ],
+    "sha256": "4ff6e94a46f022e4da9d894161412b88c1c6216c18caf400fc96312733ae6ada",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q08_correction_p572.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q08_correction_p572.webp",
+    "page": 572,
+    "old_rect": [
+      37.0,
+      477.15,
+      550.0,
+      778.0
+    ],
+    "rect": [
+      30,
+      477.15,
+      570,
+      778.0
+    ],
+    "sha256": "5b7306cc3f1f78a2a673a6022de5c8280f962f3c09ef5c8b0e7f7eb115a32e91",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 8,
+    "type": "remove_next_question_only_image",
+    "src": "static/annales_ue3_2022-2023_s1_q08_correction_p573.webp",
+    "page": 573,
+    "source_text": "II est décidé, pour le groupe 2, de comparer la proportion de patients avec progression du cancer à la valeur de\nréférence de 0,4 (valeur correspondant à l'efficacité de la chimiothérapie de référence pour cette population).\nOn donne :"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q09_correction_p573.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q09_correction_p573.webp",
+    "page": 573,
+    "old_rect": [
+      37.0,
+      355.6,
+      550.0,
+      493.15
+    ],
+    "rect": [
+      30,
+      355.6,
+      570,
+      492.1499938964844
+    ],
+    "sha256": "cdf35ffc85cbf2915a9c938c304b5815dfb8b455dcfbdc133dce7296025487d1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q10_correction_p574.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q10_correction_p574.webp",
+    "page": 574,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      308.1
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      307.0999755859375
+    ],
+    "sha256": "14854d8f34e75d52dd1f9650100d4362b3fc41078a0dec2decc384ec14ea7198",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q11_correction_p574.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q11_correction_p574.webp",
+    "page": 574,
+    "old_rect": [
+      37.0,
+      514.65,
+      550.0,
+      735.72
+    ],
+    "rect": [
+      30,
+      514.65,
+      570,
+      734.719970703125
+    ],
+    "sha256": "e408fa3b4771b965970d6defd5b9276e554650a096583e041b77befedb29b925",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s1",
+    "id": 12,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s1_q12_correction_p575.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s1_q12_correction_p575.webp",
+    "page": 575,
+    "old_rect": [
+      37.0,
+      376.37,
+      550.0,
+      576.17
+    ],
+    "rect": [
+      30,
+      376.37,
+      570,
+      575.1700439453125
+    ],
+    "sha256": "8be0e380ca2250c5a8c30e23e72549f0350ef573b4b0465a9065c134110eeab1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q01_original_p578.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q01_original_p578.webp",
+    "page": 578,
+    "old_rect": [
+      37.0,
+      370.145,
+      550.0,
+      477.65
+    ],
+    "rect": [
+      30,
+      370.145,
+      570,
+      477.65
+    ],
+    "sha256": "12b06da9dc2fb13ac19826f320dfd4a31a479e5ce909f09d6f209fe31a41bbbd",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q01_correction_p583.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q01_correction_p583.webp",
+    "page": 583,
+    "old_rect": [
+      37.0,
+      381.87,
+      550.0,
+      474.15
+    ],
+    "rect": [
+      30,
+      381.87,
+      570,
+      473.1499938964844
+    ],
+    "sha256": "d48099baaf80fd2d5e70e63c142cbbf7d6f95b1f96af1ba20374954e46b86251",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q02_correction_p584.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q02_correction_p584.webp",
+    "page": 584,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      206.05
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      205.04998779296875
+    ],
+    "sha256": "d5f4cc9faf58abd6a56821bbb3b0fa6f8f977b8eb0e05ba028974f5e8d1810c0",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q03_original_p579.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q03_original_p579.webp",
+    "page": 579,
+    "old_rect": [
+      37.0,
+      129.595,
+      550.0,
+      250.33
+    ],
+    "rect": [
+      30,
+      129.595,
+      570,
+      250.33
+    ],
+    "sha256": "aefb2363a6860c72ceb5d93e1b9b0f545b494c8b688dd4e3924ac6a23614ef83",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q03_correction_p584.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q03_correction_p584.webp",
+    "page": 584,
+    "old_rect": [
+      37.0,
+      402.62,
+      550.0,
+      492.9
+    ],
+    "rect": [
+      30,
+      402.62,
+      570,
+      491.8999938964844
+    ],
+    "sha256": "22499ab9c5805d27bcc1891d3b956c13aac17dca441f0b57aba2985450b5d29d",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q04_original_p579.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q04_original_p579.webp",
+    "page": 579,
+    "old_rect": [
+      37.0,
+      334.395,
+      550.0,
+      481.9
+    ],
+    "rect": [
+      30,
+      334.395,
+      570,
+      481.9
+    ],
+    "sha256": "5fd8e61126b798eef7d955778728d1e2759f01f1c1d968513b5cae91e55a5c0a",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q04_correction_p585.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q04_correction_p585.webp",
+    "page": 585,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      171.3
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      170.29998779296875
+    ],
+    "sha256": "aa515de40d260a6c0edb357d8c993fb28b56b5c958bb2b8b38f4183ac65f6ffc",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q05_original_p579.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q05_original_p579.webp",
+    "page": 579,
+    "old_rect": [
+      37.0,
+      557.465,
+      550.0,
+      678.2
+    ],
+    "rect": [
+      30,
+      557.465,
+      570,
+      678.2
+    ],
+    "sha256": "3a7107863947d9efc10065d8ffdc2710dba05373370d3e05100edfd3c22d83e6",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q05_correction_p585.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q05_correction_p585.webp",
+    "page": 585,
+    "old_rect": [
+      37.0,
+      345.85,
+      550.0,
+      438.12
+    ],
+    "rect": [
+      30,
+      345.85,
+      570,
+      437.1199951171875
+    ],
+    "sha256": "402351e7bedf675ba0bb9cd08b079e7dde21f5fdb58afbc53944864b87c7a1f0",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q06_original_p580.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q06_original_p580.webp",
+    "page": 580,
+    "old_rect": [
+      37.0,
+      223.625,
+      550.0,
+      357.85
+    ],
+    "rect": [
+      30,
+      223.625,
+      570,
+      357.85
+    ],
+    "sha256": "6540074811f521efd3cbacf8bc6fb3d0eff040ac8dfcfe2242bc4dfe41b7193e",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q06_correction_p586.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q06_correction_p586.webp",
+    "page": 586,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      165.8
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      164.79998779296875
+    ],
+    "sha256": "e9a65c699143e4224c38c8ece331c6e3f8ae3d8e7aed2c2e45b3f7dd5d4dfd2a",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q07_original_p580.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q07_original_p580.webp",
+    "page": 580,
+    "old_rect": [
+      37.0,
+      420.915,
+      550.0,
+      555.15
+    ],
+    "rect": [
+      30,
+      420.915,
+      570,
+      555.15
+    ],
+    "sha256": "b6ef63d98b19d6181dc08cf99437920a42c166f4f724cdff3128da31cdb6c6f8",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2022-2023.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2022-2023_s2_q07_correction_p586.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2022-2023_s2_q07_correction_p586.webp",
+    "page": 586,
+    "old_rect": [
+      37.0,
+      362.85,
+      550.0,
+      460.62
+    ],
+    "rect": [
+      30,
+      362.85,
+      570,
+      459.6199951171875
+    ],
+    "sha256": "1a9384c8b2165975d3010e6997e43f6dade951911ca97c83b601ef9e65174f6e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q01_correction_p595.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q01_correction_p595.webp",
+    "page": 595,
+    "old_rect": [
+      37.0,
+      441.12,
+      550.0,
+      533.4
+    ],
+    "rect": [
+      30,
+      441.12,
+      570,
+      532.4000244140625
+    ],
+    "sha256": "bc3d81ba6dc11a74b886cb342ff88407468622939d272c780091a8e259b83135",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q02_correction_p596.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q02_correction_p596.webp",
+    "page": 596,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      264.08
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      263.08001708984375
+    ],
+    "sha256": "522dc11de57d4bffa1e13499ec20173b94b006139989b9f6c62ee263276e803f",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q03_correction_p596.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q03_correction_p596.webp",
+    "page": 596,
+    "old_rect": [
+      37.0,
+      493.4,
+      550.0,
+      725.95
+    ],
+    "rect": [
+      30,
+      493.4,
+      570,
+      724.9500122070312
+    ],
+    "sha256": "3054e1335a9b68571193134de04c961535d270a32b4ec8b4e430e3efae22000b",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q04_correction_p597.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q04_correction_p597.webp",
+    "page": 597,
+    "old_rect": [
+      37.0,
+      450.37,
+      550.0,
+      648.45
+    ],
+    "rect": [
+      30,
+      450.37,
+      570,
+      647.4500122070312
+    ],
+    "sha256": "2c5523c9b286407093dca87088e58db6171344ec668d50b429ffd28063fd112e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q05_correction_p598.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q05_correction_p598.webp",
+    "page": 598,
+    "old_rect": [
+      37.0,
+      181.3,
+      550.0,
+      300.82
+    ],
+    "rect": [
+      30,
+      181.3,
+      570,
+      299.82000732421875
+    ],
+    "sha256": "489c02fe8b6d21dabf48af0a20c72c45113891e1e519f1305d7ea8b7c67175bf",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q06_correction_p599.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q06_correction_p599.webp",
+    "page": 599,
+    "old_rect": [
+      37.0,
+      193.55,
+      550.0,
+      572.42
+    ],
+    "rect": [
+      30,
+      193.55,
+      570,
+      528.4000244140625
+    ],
+    "sha256": "772b0a0280fb158a53d8a87b28f1e9bb60b600aee595a846aeae80dfe8f1512f",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q07_correction_p600.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q07_correction_p600.webp",
+    "page": 600,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      236.08
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      235.08001708984375
+    ],
+    "sha256": "4666edfb5c07aaeec8fb04123504f511ef2b075dab11b3df883df8a798da9852",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q08_correction_p600.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q08_correction_p600.webp",
+    "page": 600,
+    "old_rect": [
+      37.0,
+      504.4,
+      550.0,
+      778.0
+    ],
+    "rect": [
+      30,
+      504.4,
+      570,
+      778.0
+    ],
+    "sha256": "7814ec78b32cce0a4eff3527cbb478c867aada23f26c0df3d44235d979f9095c",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 8,
+    "type": "remove_next_question_only_image",
+    "src": "static/annales_ue3_2021-2022_s1_q08_correction_p601.webp",
+    "page": 601,
+    "source_text": "Parmi les 100 patients de l’étude, 60 ont eu une ventilation invasive, dont 20 avec un diagnostic d’anxiété à 1an\net 40 n’ont pas eu de ventilation invasive, dont 10 avec un diagnostic d’anxiété à 1an"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q09_correction_p601.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q09_correction_p601.webp",
+    "page": 601,
+    "old_rect": [
+      37.0,
+      307.6,
+      550.0,
+      477.15
+    ],
+    "rect": [
+      30,
+      307.6,
+      570,
+      446.6199951171875
+    ],
+    "sha256": "44a8e1f7354747ab9a884cd3c2a8ef2ecdd0425eb4b8d01b9d9d6b1dfa8b4b3c",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q10_correction_p601.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q10_correction_p601.webp",
+    "page": 601,
+    "old_rect": [
+      37.0,
+      631.45,
+      550.0,
+      757.725
+    ],
+    "rect": [
+      30,
+      631.45,
+      570,
+      756.7249755859375
+    ],
+    "sha256": "5b39ac3f2b95b53d72349220f0265c27e55219eeb558abc98c0d4da46737d939",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s1",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s1_q11_correction_p602.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s1_q11_correction_p602.webp",
+    "page": 602,
+    "old_rect": [
+      37.0,
+      344.6,
+      550.0,
+      463.62
+    ],
+    "rect": [
+      30,
+      344.6,
+      570,
+      462.6199951171875
+    ],
+    "sha256": "3e912f52c130e0e5df6ff13314037b201aca7452870ef74f34fa17f2ae07d428",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q01_correction_p609.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q01_correction_p609.webp",
+    "page": 609,
+    "old_rect": [
+      37.0,
+      239.83,
+      550.0,
+      332.1
+    ],
+    "rect": [
+      30,
+      239.83,
+      570,
+      331.0999755859375
+    ],
+    "sha256": "53c512b2fe2b8b5e65eddc6745782a1900c7103c4526133bfbd9085df344584c",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q02_correction_p609.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q02_correction_p609.webp",
+    "page": 609,
+    "old_rect": [
+      37.0,
+      565.67,
+      550.0,
+      742.98
+    ],
+    "rect": [
+      30,
+      565.67,
+      570,
+      741.97998046875
+    ],
+    "sha256": "afe4276469cec12af43eb1a51635a124a6cf0207221054746130fc66171fc608",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q03_correction_p610.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q03_correction_p610.webp",
+    "page": 610,
+    "old_rect": [
+      37.0,
+      276.83,
+      550.0,
+      422.87
+    ],
+    "rect": [
+      30,
+      276.83,
+      570,
+      421.8699951171875
+    ],
+    "sha256": "6acac75c99c808145a14f921f33a8147285571f92277fd10de7996c0eec47f05",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q04_correction_p611.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q04_correction_p611.webp",
+    "page": 611,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      221.58
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      220.58001708984375
+    ],
+    "sha256": "f9eae1858fbfb6acbb843524c952cd7165bb9f4d26da110773eaecc83a311d80",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q05_correction_p611.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q05_correction_p611.webp",
+    "page": 611,
+    "old_rect": [
+      37.0,
+      424.37,
+      550.0,
+      616.42
+    ],
+    "rect": [
+      30,
+      424.37,
+      570,
+      584.9199829101562
+    ],
+    "sha256": "d8a04d0a8bee085a8f29b88a0d9f03da1d2df04ced889baf3673b88b8ea47cfc",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q06_correction_p612.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q06_correction_p612.webp",
+    "page": 612,
+    "old_rect": [
+      37.0,
+      212.58,
+      550.0,
+      391.87
+    ],
+    "rect": [
+      30,
+      212.58,
+      570,
+      360.3500061035156
+    ],
+    "sha256": "4974f59a29b4611c60c38f0e8e12d4199addc83b9c16e329def19c2bae45db7a",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2021-2022.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2021-2022_s2_q07_correction_p612.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2021-2022_s2_q07_correction_p612.webp",
+    "page": 612,
+    "old_rect": [
+      37.0,
+      593.18,
+      550.0,
+      714.2
+    ],
+    "rect": [
+      30,
+      593.18,
+      570,
+      713.2000122070312
+    ],
+    "sha256": "469799b86af94adb342fef8491f37dae0ad2406208b83483ae6d0261eea69229",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q01_correction_p625.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q01_correction_p625.webp",
+    "page": 625,
+    "old_rect": [
+      37.0,
+      315.85,
+      550.0,
+      771.251
+    ],
+    "rect": [
+      30,
+      315.85,
+      570,
+      770.2509765625
+    ],
+    "sha256": "7cb1d59b0e0cf788c05b2e621ebac7636d5f8732dd45a440f2f110e4c723f588",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q02_correction_p626.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q02_correction_p626.webp",
+    "page": 626,
+    "old_rect": [
+      37.0,
+      245.83,
+      550.0,
+      389.62
+    ],
+    "rect": [
+      30,
+      245.83,
+      570,
+      388.6199951171875
+    ],
+    "sha256": "09ee36dc2360dba96175b88c21acd75e5ba0ad22c319c34a6f46cfd5f06382ff",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q03_correction_p626.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q03_correction_p626.webp",
+    "page": 626,
+    "old_rect": [
+      37.0,
+      612.93,
+      550.0,
+      762.475
+    ],
+    "rect": [
+      30,
+      612.93,
+      570,
+      761.4749755859375
+    ],
+    "sha256": "d61de101d630976b4db50d230776c04a80e364f186086e0095c1015c02741420",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q04_context_p615.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q04_context_p615.webp",
+    "page": 615,
+    "old_rect": [
+      37.0,
+      65.0,
+      550.0,
+      144.095
+    ],
+    "rect": [
+      30,
+      65.0,
+      570,
+      144.095
+    ],
+    "sha256": "b9eb8eb454aaf01aa08b9d2752b4fe6392160d00d7ee7635989901487af5aca2",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q04_original_p615.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q04_original_p615.webp",
+    "page": 615,
+    "old_rect": [
+      37.0,
+      143.095,
+      550.0,
+      263.83
+    ],
+    "rect": [
+      30,
+      143.095,
+      570,
+      263.83
+    ],
+    "sha256": "0544a91f3905fb39a67d5889a8efd54dddaba5541a757996b28098a3446d792a",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q04_correction_p627.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q04_correction_p627.webp",
+    "page": 627,
+    "old_rect": [
+      37.0,
+      266.83,
+      550.0,
+      359.1
+    ],
+    "rect": [
+      30,
+      266.83,
+      570,
+      358.1000061035156
+    ],
+    "sha256": "d4d7b05149565077505680eb0b4a3bcf82fba75ed98bbaa277a2ae3b801c0bf2",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q05_context_p615.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q05_context_p615.webp",
+    "page": 615,
+    "old_rect": [
+      37.0,
+      264.83,
+      550.0,
+      389.165
+    ],
+    "rect": [
+      30,
+      264.83,
+      570,
+      389.165
+    ],
+    "sha256": "2d34108d25de1d1189016318e51170ddafc42699685762a448eb4d79548eeb50",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q05_correction_p627.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q05_correction_p627.webp",
+    "page": 627,
+    "old_rect": [
+      37.0,
+      555.67,
+      550.0,
+      715.45
+    ],
+    "rect": [
+      30,
+      555.67,
+      570,
+      714.4500122070312
+    ],
+    "sha256": "2fab8287582ab1d88e6c38b661511c25b6ef3d4fd4fb9c3f76819d9479da7a6b",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q06_correction_p628.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q06_correction_p628.webp",
+    "page": 628,
+    "old_rect": [
+      37.0,
+      584.92,
+      550.0,
+      733.22
+    ],
+    "rect": [
+      30,
+      584.92,
+      570,
+      702.9500122070312
+    ],
+    "sha256": "040df509e8849d8ed65fb9d1b61c2c731daa57a89876842a5e4dc79fa5e1ae82",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q07_correction_p629.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q07_correction_p629.webp",
+    "page": 629,
+    "old_rect": [
+      37.0,
+      233.83,
+      550.0,
+      757.475
+    ],
+    "rect": [
+      30,
+      233.83,
+      570,
+      756.4749755859375
+    ],
+    "sha256": "85b5486dd5392b0c5cf1aa37cbc37c348f864866c92db403d5220a2f9e776df1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q08_correction_p630.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q08_correction_p630.webp",
+    "page": 630,
+    "old_rect": [
+      37.0,
+      347.85,
+      550.0,
+      517.15
+    ],
+    "rect": [
+      30,
+      347.85,
+      570,
+      516.1500244140625
+    ],
+    "sha256": "5553a69afcd6657565ab7e2aa42f4b3bcb7f39ab8d0655cb540bd7f5b408a0a9",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q09_context_p617.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q09_context_p617.webp",
+    "page": 617,
+    "old_rect": [
+      37.0,
+      65.0,
+      550.0,
+      278.125
+    ],
+    "rect": [
+      30,
+      65.0,
+      570,
+      278.125
+    ],
+    "sha256": "a4de0f6e129d3d6dd0f850ab7ae56365c62bfb7eee58827c7dda29f3526fd577",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q09_original_p617.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q09_original_p617.webp",
+    "page": 617,
+    "old_rect": [
+      37.0,
+      277.125,
+      550.0,
+      397.87
+    ],
+    "rect": [
+      30,
+      277.125,
+      570,
+      397.87
+    ],
+    "sha256": "f6dac771c08260f8262430746ad213539c28124739f683db072547fb66f95134",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q09_correction_p631.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q09_correction_p631.webp",
+    "page": 631,
+    "old_rect": [
+      37.0,
+      180.3,
+      550.0,
+      277.83
+    ],
+    "rect": [
+      30,
+      180.3,
+      570,
+      276.83001708984375
+    ],
+    "sha256": "a5464d94db55e40de87dcb5f6b1514bb3895a135cdaaf8f0b226203b651be34a",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q10_context_p617.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q10_context_p617.webp",
+    "page": 617,
+    "old_rect": [
+      37.0,
+      398.87,
+      550.0,
+      515.695
+    ],
+    "rect": [
+      30,
+      398.87,
+      570,
+      515.695
+    ],
+    "sha256": "2dd740899e707b51ba85aef6c4e467071f1f3bc7b62d52b22474931136b08a25",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q10_original_p617.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q10_original_p617.webp",
+    "page": 617,
+    "old_rect": [
+      37.0,
+      514.695,
+      550.0,
+      675.7
+    ],
+    "rect": [
+      30,
+      514.695,
+      570,
+      675.7
+    ],
+    "sha256": "1608ae4f262a07e60682fc7aa99fe72d4b3cb778d4fc568ceb95ebfeb86db5ac",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q10_correction_p631.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q10_correction_p631.webp",
+    "page": 631,
+    "old_rect": [
+      37.0,
+      541.4,
+      550.0,
+      660.45
+    ],
+    "rect": [
+      30,
+      541.4,
+      570,
+      659.4500122070312
+    ],
+    "sha256": "8be5c53ce3c13ebc5060a3bd2c9a64c5a5212089b01442863028488bd78df3f1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.paces",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_paces_q11_correction_p632.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_paces_q11_correction_p632.webp",
+    "page": 632,
+    "old_rect": [
+      37.0,
+      333.85,
+      550.0,
+      537.65
+    ],
+    "rect": [
+      30,
+      333.85,
+      570,
+      536.6500244140625
+    ],
+    "sha256": "1348cfa6779780f7a4ac72fd375e93e9f0bc0e188c3bb7878e8e1e4434cf0460",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q01_correction_p641.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q01_correction_p641.webp",
+    "page": 641,
+    "old_rect": [
+      37.0,
+      526.4,
+      550.0,
+      685.95
+    ],
+    "rect": [
+      30,
+      526.4,
+      570,
+      684.9500122070312
+    ],
+    "sha256": "4030e59671430181b4f4c18057d6cd1155d14d6c8e6db977c41275019d88e5ba",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q02_correction_p642.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q02_correction_p642.webp",
+    "page": 642,
+    "old_rect": [
+      37.0,
+      253.33,
+      550.0,
+      400.62
+    ],
+    "rect": [
+      30,
+      253.33,
+      570,
+      399.6199951171875
+    ],
+    "sha256": "038b78d75cf0250ddca008137273be04137e31ab4aeca66cd1773c42ac6cfbb4",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q03_correction_p642.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q03_correction_p642.webp",
+    "page": 642,
+    "old_rect": [
+      37.0,
+      637.45,
+      550.0,
+      765.225
+    ],
+    "rect": [
+      30,
+      637.45,
+      570,
+      764.2249755859375
+    ],
+    "sha256": "8a0ec5836f2a3b1d167232284971ec8b84016f1376be5d4c554858b275c8dd34",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q04_correction_p643.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q04_correction_p643.webp",
+    "page": 643,
+    "old_rect": [
+      37.0,
+      301.1,
+      550.0,
+      642.17
+    ],
+    "rect": [
+      30,
+      301.1,
+      570,
+      641.1699829101562
+    ],
+    "sha256": "0fa0988251d963d246628b0ebb0a0f285ec5c70a687a48057dfee9f470275af2",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q05_correction_p644.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q05_correction_p644.webp",
+    "page": 644,
+    "old_rect": [
+      37.0,
+      321.1,
+      550.0,
+      488.9
+    ],
+    "rect": [
+      30,
+      321.1,
+      570,
+      487.8999938964844
+    ],
+    "sha256": "d5cfb48b81a5da89ef7d86cf6cc11c3be6dd078736370a0f2f28375bc95d0ca7",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q06_correction_p645.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q06_correction_p645.webp",
+    "page": 645,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      259.83
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      258.83001708984375
+    ],
+    "sha256": "3249dddd52bd6c389f9bf26bd0e5e4b4cc16ea68db1d94cecefdce4aba8cf9bb",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q07_correction_p646.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q07_correction_p646.webp",
+    "page": 646,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      618.42
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      617.4199829101562
+    ],
+    "sha256": "33043dd8e93ca0c14c8b7dde0c1b0b63bece997ad38526b3c78ff1e3e30202bf",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q08_correction_p647.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q08_correction_p647.webp",
+    "page": 647,
+    "old_rect": [
+      37.0,
+      327.85,
+      550.0,
+      532.65
+    ],
+    "rect": [
+      30,
+      327.85,
+      570,
+      502.1500244140625
+    ],
+    "sha256": "1e037b32afe63330aab18399ca30a140616ec48530e8d1164c9a093085cb9f27",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q09_correction_p648.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q09_correction_p648.webp",
+    "page": 648,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      259.83
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      258.83001708984375
+    ],
+    "sha256": "fadcd141e519886a980c7b4186f4c7f53a1810e332946a320d718209ef2f97de",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q10_correction_p648.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q10_correction_p648.webp",
+    "page": 648,
+    "old_rect": [
+      37.0,
+      550.92,
+      550.0,
+      717.45
+    ],
+    "rect": [
+      30,
+      550.92,
+      570,
+      716.4500122070312
+    ],
+    "sha256": "1bae709b02bec1f30205bbe68c03f73b5554972bbb6bb36486330494b5fe3f4c",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s1",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s1_q11_correction_p649.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s1_q11_correction_p649.webp",
+    "page": 649,
+    "old_rect": [
+      37.0,
+      321.1,
+      550.0,
+      453.62
+    ],
+    "rect": [
+      30,
+      321.1,
+      570,
+      452.6199951171875
+    ],
+    "sha256": "d1ecc7bed745fa503b76f496c015a9b6dea62cf84ea9b4636c30ef8870808ae5",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q01_correction_p656.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q01_correction_p656.webp",
+    "page": 656,
+    "old_rect": [
+      37.0,
+      441.87,
+      550.0,
+      587.93
+    ],
+    "rect": [
+      30,
+      441.87,
+      570,
+      587.93
+    ],
+    "sha256": "e30b6dfab7721f8fd56f5fe0284e73baab906629441c5db3aa92c3eaad591ec5",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q02_correction_p657.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q02_correction_p657.webp",
+    "page": 657,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      231.83
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      230.83001708984375
+    ],
+    "sha256": "6a64f1f07170d89d20e0be7d9df2bc0246a7c7b908a218a5ff9adc0134c982fd",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q03_correction_p657.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q03_correction_p657.webp",
+    "page": 657,
+    "old_rect": [
+      37.0,
+      436.62,
+      550.0,
+      627.17
+    ],
+    "rect": [
+      30,
+      436.62,
+      570,
+      626.1699829101562
+    ],
+    "sha256": "8fc1a04f58fb570c5fa148939cac3b3cf77e4d00f7c79418bb3b0662188ce4d3",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q04_correction_p658.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q04_correction_p658.webp",
+    "page": 658,
+    "old_rect": [
+      37.0,
+      278.83,
+      550.0,
+      575.92
+    ],
+    "rect": [
+      30,
+      278.83,
+      570,
+      574.9200439453125
+    ],
+    "sha256": "99c873ccfb7638100dbe4dec6d0cf618c4aa6a49147737927bc0788306c4fdb8",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q05_correction_p659.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q05_correction_p659.webp",
+    "page": 659,
+    "old_rect": [
+      37.0,
+      219.83,
+      550.0,
+      379.35
+    ],
+    "rect": [
+      30,
+      219.83,
+      570,
+      378.3500061035156
+    ],
+    "sha256": "b0b7980eb5f1a6c32eb3be38de6b744951a55a98766d0926df48b1e84eec7809",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q06_correction_p659.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q06_correction_p659.webp",
+    "page": 659,
+    "old_rect": [
+      37.0,
+      609.92,
+      550.0,
+      742.98
+    ],
+    "rect": [
+      30,
+      609.92,
+      570,
+      741.97998046875
+    ],
+    "sha256": "42d2786a8dacb961dddab8cd362549b822cfb1e5a21d976f6f4f836cb5f32d94",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2020-2021_s2_q07_correction_p660.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2020-2021_s2_q07_correction_p660.webp",
+    "page": 660,
+    "old_rect": [
+      37.0,
+      347.85,
+      550.0,
+      467.12
+    ],
+    "rect": [
+      30,
+      347.85,
+      570,
+      466.1199951171875
+    ],
+    "sha256": "1c596059763066e485dba8aef13e7d3841c10c10b0888e333a22b0139f212ef1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q01_correction_p673.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q01_correction_p673.webp",
+    "page": 673,
+    "old_rect": [
+      37.0,
+      334.1,
+      550.0,
+      498.926
+    ],
+    "rect": [
+      30,
+      334.1,
+      570,
+      497.9259948730469
+    ],
+    "sha256": "55e46337052dcef7da5efddfa8c7c638fa6441a8aa95e2fdfed959b60e3c4d54",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q02_correction_p674.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q02_correction_p674.webp",
+    "page": 674,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      296.83
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      295.83001708984375
+    ],
+    "sha256": "a24b3cdd6b9fe362cf9fca493cb6be746d7546a393905c201111507d99ff4f7e",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q03_correction_p675.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q03_correction_p675.webp",
+    "page": 675,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      292.07
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      291.07000732421875
+    ],
+    "sha256": "24f1fd881410cddcefd6c68c83cb0902b4f86db1080f184e5d8834d4cc2051c1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q04_original_p663.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q04_original_p663.webp",
+    "page": 663,
+    "old_rect": [
+      37.0,
+      69.325,
+      550.0,
+      233.0
+    ],
+    "rect": [
+      30,
+      69.325,
+      570,
+      233.0
+    ],
+    "sha256": "0b0bde50493d7bcd0619ef5456840ae0415ede6a5e7dd6574f7f1bbcdb520fad",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q04_correction_p675.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q04_correction_p675.webp",
+    "page": 675,
+    "old_rect": [
+      37.0,
+      463.65,
+      550.0,
+      508.843
+    ],
+    "rect": [
+      30,
+      463.65,
+      570,
+      508.0929870605469
+    ],
+    "sha256": "d7690aa7ac11cb4c7d314921f904a847e57136048cd72c879ca71e9675a96e05",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q05_context_p663.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q05_context_p663.webp",
+    "page": 663,
+    "old_rect": [
+      37.0,
+      234.0,
+      550.0,
+      390.415
+    ],
+    "rect": [
+      30,
+      234.0,
+      570,
+      390.415
+    ],
+    "sha256": "08227b0ca71b36efe88175540f160aae1f9d84f44aab2429fd550d7d6251f359",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q05_correction_p676.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q05_correction_p676.webp",
+    "page": 676,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      204.3
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      203.29998779296875
+    ],
+    "sha256": "43ae484a72da4f0c1ad053a216901d385bde828eb04d82be5bcdabe59b7d7ed1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q06_correction_p677.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q06_correction_p677.webp",
+    "page": 677,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      543.9
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      542.9000244140625
+    ],
+    "sha256": "12eba079ec3066ebf2216431e897d69f7e6192c4193ff7a655bd7f8c57ccdea9",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q06_context_p663.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q06_context_p663.webp",
+    "page": 663,
+    "old_rect": [
+      37.0,
+      484.4,
+      550.0,
+      778.0
+    ],
+    "rect": [
+      30,
+      484.4,
+      570,
+      778.0
+    ],
+    "sha256": "3345edfa6876444cd50b21f2267bb2d8a46b0d72e35a62a58787cc038641cf5e",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q07_correction_p678.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q07_correction_p678.webp",
+    "page": 678,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      329.35
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      328.3499755859375
+    ],
+    "sha256": "1ee0faef1fc27426af8e628aa38a1dbc9db5ded716a539fcd5270df4f2fcb7f5",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q08_correction_p679.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q08_correction_p679.webp",
+    "page": 679,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      511.15
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      413.6199951171875
+    ],
+    "sha256": "02b3143973fe6faeda3dc0d6d2be1649a211b4c70eb376f782d4651a50d56af1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q09_context_p665.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q09_context_p665.webp",
+    "page": 665,
+    "old_rect": [
+      37.0,
+      65.0,
+      550.0,
+      184.345
+    ],
+    "rect": [
+      30,
+      65.0,
+      570,
+      184.345
+    ],
+    "sha256": "14cb8308ade39cb410f1ac362dfc6908c7b4265499cb925b4ea0af1982021a5f",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q09_original_p665.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q09_original_p665.webp",
+    "page": 665,
+    "old_rect": [
+      37.0,
+      183.345,
+      550.0,
+      304.1
+    ],
+    "rect": [
+      30,
+      183.345,
+      570,
+      304.1
+    ],
+    "sha256": "9d70316338ca100d0846d352697dc15050f536e8189355be00254e2c4da9a5bc",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q09_correction_p680.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q09_correction_p680.webp",
+    "page": 680,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      213.05
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      212.04998779296875
+    ],
+    "sha256": "09666c1fa3b10e88ff1dda344f1c05553ccba138f6a4d3195f3b657413ed633a",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q10_context_p665.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q10_context_p665.webp",
+    "page": 665,
+    "old_rect": [
+      37.0,
+      305.1,
+      550.0,
+      485.945
+    ],
+    "rect": [
+      30,
+      305.1,
+      570,
+      485.945
+    ],
+    "sha256": "f66396fc59d7fb0b9265dc6cd723ba736cdaa4b85c1c4d8ecb73ea51f79eecd1",
+    "reason": "Restore full line width (printed span crossed x=550).",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q10_correction_p680.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q10_correction_p680.webp",
+    "page": 680,
+    "old_rect": [
+      37.0,
+      506.9,
+      550.0,
+      652.95
+    ],
+    "rect": [
+      30,
+      506.9,
+      570,
+      651.9500122070312
+    ],
+    "sha256": "df49885e8c51978114c0b1e22492b489a7f75634222bcfeba2d96a6cf6e1037a",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_q11_correction_p682.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_q11_correction_p682.webp",
+    "page": 682,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      440.62
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      439.6199951171875
+    ],
+    "sha256": "ce34c1108ccd4c2ff2fff6e83ba87f7fb06f026bd24cc1f35269a664d82975e1",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 1,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q01_correction_p691.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q01_correction_p691.webp",
+    "page": 691,
+    "old_rect": [
+      37.0,
+      407.12,
+      550.0,
+      576.42
+    ],
+    "rect": [
+      30,
+      407.12,
+      570,
+      575.4200439453125
+    ],
+    "sha256": "e24f0bf24450a25b82293b9a3312191df55ee93280bd8794f4b4b731b36115ca",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 2,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q02_correction_p692.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q02_correction_p692.webp",
+    "page": 692,
+    "old_rect": [
+      37.0,
+      251.58,
+      550.0,
+      432.37
+    ],
+    "rect": [
+      30,
+      251.58,
+      570,
+      431.3699951171875
+    ],
+    "sha256": "b8283f7fb9391aa69d84057db4be1836e9910a91ef6ca9ed3a394cbaed6b7032",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 3,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q03_correction_p692.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q03_correction_p692.webp",
+    "page": 692,
+    "old_rect": [
+      37.0,
+      575.92,
+      550.0,
+      756.725
+    ],
+    "rect": [
+      30,
+      575.92,
+      570,
+      755.7249755859375
+    ],
+    "sha256": "518767dbc9294c3f3bff3b475d83db5aac9730acff1d3207657929f61020c356",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 4,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q04_correction_p693.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q04_correction_p693.webp",
+    "page": 693,
+    "old_rect": [
+      37.0,
+      280.83,
+      550.0,
+      373.1
+    ],
+    "rect": [
+      30,
+      280.83,
+      570,
+      372.1000061035156
+    ],
+    "sha256": "6659417512f5e68d28bac9901972a0f6659eddc099292dc9d0b8f518cdd951f5",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 5,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q05_correction_p693.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q05_correction_p693.webp",
+    "page": 693,
+    "old_rect": [
+      37.0,
+      547.42,
+      550.0,
+      677.95
+    ],
+    "rect": [
+      30,
+      547.42,
+      570,
+      676.9500122070312
+    ],
+    "sha256": "7d9c0128b99a4be9d4259f365dcb6e93e3dde6a0f4e75d044bbe01724786da60",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 6,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q06_correction_p694.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q06_correction_p694.webp",
+    "page": 694,
+    "old_rect": [
+      37.0,
+      374.62,
+      550.0,
+      633.17
+    ],
+    "rect": [
+      30,
+      374.62,
+      570,
+      632.1699829101562
+    ],
+    "sha256": "1338132c2f3ad999559fee348dfdada6dc18122ef5f805b232ea80a8ecff88e3",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 7,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q07_correction_p695.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q07_correction_p695.webp",
+    "page": 695,
+    "old_rect": [
+      37.0,
+      227.08,
+      550.0,
+      408.87
+    ],
+    "rect": [
+      30,
+      227.08,
+      570,
+      407.8699951171875
+    ],
+    "sha256": "0ff36e85996847de991acead54cde38828ed5de22d0fc26f3a479ee59155c6a5",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 8,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q08_correction_p696.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q08_correction_p696.webp",
+    "page": 696,
+    "old_rect": [
+      37.0,
+      73.53,
+      550.0,
+      279.83
+    ],
+    "rect": [
+      30,
+      73.53,
+      570,
+      278.83001708984375
+    ],
+    "sha256": "81758d6fa98afb011611b4190e2240ead9e56920aaf2fc484e75468711f7ff5b",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 9,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q09_correction_p696.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q09_correction_p696.webp",
+    "page": 696,
+    "old_rect": [
+      37.0,
+      487.65,
+      550.0,
+      743.48
+    ],
+    "rect": [
+      30,
+      487.65,
+      570,
+      742.47998046875
+    ],
+    "sha256": "b6d84717b9a49edaffe6e25f8960b39f050e04438bdd68c28abb7c7577626997",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 10,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q10_correction_p697.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q10_correction_p697.webp",
+    "page": 697,
+    "old_rect": [
+      37.0,
+      362.85,
+      550.0,
+      765.225
+    ],
+    "rect": [
+      30,
+      362.85,
+      570,
+      764.2249755859375
+    ],
+    "sha256": "84869a5911b5f5f0c394bcced165e987ab51f0a1ca6d811b00fefcbe8cca9aae",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2018-2019.paces",
+    "id": 11,
+    "type": "authentic_asset_recrop",
+    "old_src": "static/annales_ue3_2018-2019_paces_q11_correction_p698.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2018-2019_paces_q11_correction_p698.webp",
+    "page": 698,
+    "old_rect": [
+      37.0,
+      501.15,
+      550.0,
+      673.95
+    ],
+    "rect": [
+      30,
+      501.15,
+      570,
+      672.9500122070312
+    ],
+    "sha256": "3221b8d01ab64ab5df1ed2b2d71f13faedcf81e4ae2f4b38ce1c9c07339e3003",
+    "reason": "Restore full line width; correction boundaries restricted to current Q.",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  },
+  {
+    "bank": "annales.ue3.2020-2021.s2",
+    "id": 1,
+    "type": "add_scientific_quantile_reserve",
+    "items": [
+      "C",
+      "D"
+    ],
+    "source_pages": [
+      652,
+      656
+    ],
+    "noteId": "biostat-v6-verify-2020-2021.s2-1-CD",
+    "sourceVerdict": "ACD",
+    "keyChanged": false,
+    "primary_source_verified": "https://openstax.org/books/introductory-statistics-2e/pages/2-3-measures-of-the-location-of-the-data"
+  },
+  {
+    "bank": "annales.ue3.2019-2020.paces",
+    "type": "authentic_reference_recrop",
+    "old_src": "static/annales_ue3_2019-2020_paces_annexes_p670.webp",
+    "src": "static/revision_v6/biostat/verified_annales_ue3_2019-2020_paces_annexes_p670.webp",
+    "page": 670,
+    "old_rect": [
+      37,
+      65,
+      550,
+      778
+    ],
+    "rect": [
+      30,
+      65,
+      570,
+      778
+    ],
+    "reason": "The embedded original formula sheet extends to x=552.65; retain its full width.",
+    "sha256": "59759085443a38484411faa630c23ff20941bbd35f6137e4f732b01ebe6b08cd",
+    "format": "lossless WebP, PDF pixels 2×, no retouch"
+  }
+]

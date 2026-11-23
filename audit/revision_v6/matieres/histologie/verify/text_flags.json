@@ -1,0 +1,58 @@
+[
+  {
+    "bank": "histo.ann.tc",
+    "id": 31,
+    "item": "D",
+    "reason": "subject_text_diff",
+    "site": "Les fibres élastiques sont formées à 90 % de fibrillines.",
+    "source": "D- Les fibres élastiques sont formées à g0 o/o de fibrillines."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 33,
+    "item": "A",
+    "reason": "subject_text_diff",
+    "site": "La composante organique est formée en majorité de fibres de collagène I.",
+    "source": "A- L, composante organique est formée en majorité de fibres de collagène L"
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 45,
+    "item": "C",
+    "reason": "subject_text_diff",
+    "site": "Il est exclusivement au contact du système nerveux central",
+    "source": "C. ll est exclusivement au contact du système nerveux central C. ll est exclusivement au contact du système nerveux central faux,"
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 8,
+    "item": "B",
+    "reason": "subject_text_diff",
+    "site": "d'une inclusion destinée à durcir le prélèvement afin d'en permettre -la coupe, par exemple à l'aide de paraffine maintenue à environ 56 °C.",
+    "source": "B. d'une inclusion destinée à durcir le prélèvement afin d'en permettre -la coupe, par exemple à l'aide de paraffine maintenue à environ 56 0 C."
+  },
+  {
+    "bank": "histo.te2",
+    "id": 9,
+    "item": "B",
+    "reason": "subject_text_diff",
+    "site": "Elle est constitutivement ouverte",
+    "source": "B. Elle est constitutivement"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 11,
+    "item": "A",
+    "reason": "subject_text_diff",
+    "site": "Les chaines α sont assemblées par trois au niveau du REG",
+    "source": "A. Les chaines  sont assemblées par trois au niveau du REG"
+  },
+  {
+    "bank": "histo.tc1",
+    "id": 11,
+    "item": "B",
+    "reason": "subject_text_diff",
+    "site": "Les chaines α présentent deux propeptides dans le fibroblaste",
+    "source": "B. Les chaines présentent deux propeptides dans le fibroblaste"
+  }
+]

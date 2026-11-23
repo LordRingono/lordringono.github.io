@@ -1,0 +1,41 @@
+[
+  {
+    "sourceSet": "2020paces",
+    "sourceNumber": 19,
+    "decision": "subject_annotated_guarded",
+    "reason": "Le sujet fourni contient des annotations manuscrites qui dévoilent des éléments de réponse. Les pixels sont conservés et la copie/figure ne sera accessible qu’après correction."
+  },
+  {
+    "sourceSet": "2020paces",
+    "sourceNumber": 21,
+    "decision": "subject_annotated_guarded",
+    "reason": "Le sujet fourni contient des annotations manuscrites qui dévoilent des éléments de réponse. Les pixels sont conservés et la copie/figure ne sera accessible qu’après correction."
+  },
+  {
+    "sourceSet": "2020paces",
+    "sourceNumber": 22,
+    "decision": "subject_annotated_guarded",
+    "reason": "Le sujet fourni contient des annotations manuscrites qui dévoilent des éléments de réponse. Les pixels sont conservés et la copie/figure ne sera accessible qu’après correction."
+  },
+  {
+    "sourceSet": "2020paces",
+    "sourceNumber": 24,
+    "decision": "subject_annotated_guarded",
+    "reason": "Le sujet fourni contient des annotations manuscrites qui dévoilent des éléments de réponse. Les pixels sont conservés et la copie/figure ne sera accessible qu’après correction."
+  },
+  {
+    "sourceSet": "2019",
+    "sourceNumber": 40,
+    "item": "C",
+    "decision": "reported_issue_not_reproduced",
+    "sourcePage": 439,
+    "evidenceImage": "visual/2019_q40_detail.png",
+    "reason": "L’agrandissement de la source montre explicitement complexe II. Le site reproduit II. Le sujet propose III et le verdict faux est cohérent. Reactome R-HSA-70994 confirme II ; aucune fausse réserve ajoutée."
+  },
+  {
+    "sourceSet": "2023s2",
+    "sourceNumber": 13,
+    "decision": "outside_biochimie_scope",
+    "reason": "La question concerne la mutation en biologie moléculaire ; ce n’est pas une omission de la série biochimie."
+  }
+]

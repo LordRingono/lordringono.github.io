@@ -1,0 +1,16 @@
+{
+  "approved": true,
+  "subject": "biochimie",
+  "verifier": "biochimie_verifie",
+  "approvedFiles": {
+    "approved_reviewed.json": "b581cfba8c6f4fc5f7ba9963e606ec9d9345f71b57776c7efb64111531efe840",
+    "approved_crops.json": "3f54e5bae6065b72dec153eef1e7e0001bf27137aee2755385adb8cea4e5e693"
+  },
+  "fullObjects": true,
+  "questions": 278,
+  "items": 1390,
+  "report": "REPORT.md",
+  "limits": "missing.json",
+  "newAssets": "../prepare/asset_manifest.json",
+  "uiIntegrationRequirement": "Préserver la protection après correction des stemImages Q19/Q24 et du contexte partagé Q21/Q22 en PACES 2020 ; tester dans le site intégré."
+}

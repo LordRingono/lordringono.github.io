@@ -1,0 +1,2182 @@
+[
+  {
+    "bank": "embryo.ann.fec",
+    "id": 7,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1605,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 3/22 5. OVOGENESE A propos de l’ovogenèse A. La multiplication des ovogonies et ",
+      "title": "6.   FECONDATION",
+      "rect": [
+        30,
+        260.76995849609375,
+        565.0,
+        431.56976318359375
+      ],
+      "items": {
+        "A": "Le syndrome de Turner résulte de la fécondation d’un ovocyte dépourvu de chromosome sexuel et d’un spermatozoïde (23, X) ou d’un ovocyte (23, X) et d’un spermatozoïde dépourvu de chromosome sexuel",
+        "B": "Au cours du transit épididymaire, les antigènes de surface du spermatozoïde, impliquées dans la reconnaissance des gamètes sont démasqués",
+        "C": "Au cours de la capacitation, des résidus glucidiques sont éliminés ainsi que la gouttelette cytoplasmique du spermatozoïde",
+        "D": "Le mouvement linéaire des spermatozoïdes est acquis dans les voies génitales féminines",
+        "E": "La liquéfaction du sperme a lieu environ 30 minutes après son émission"
+      }
+    },
+    "similarity": 0.9991416309012875,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "B",
+        "site": "Au cours du transit épididymaire , les antigènes de surface du spermatozoïde, impliqués dans la reconnaissance des gamètes sont démasqués.",
+        "source": "Au cours du transit épididymaire, les antigènes de surface du spermatozoïde, impliquées dans la reconnaissance des gamètes sont démasqués"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 8,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1605,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 3/22 5. OVOGENESE A propos de l’ovogenèse A. La multiplication des ovogonies et ",
+      "title": "7.   FECONDATION",
+      "rect": [
+        30,
+        442.449951171875,
+        565.0,
+        613.2498168945312
+      ],
+      "items": {
+        "A": "Au moment de l’ovulation, la progression du cumulus oophurus est active et assurée par le battement ciliaire des cellules ciliées de l’épithélium tubaire, par le liquide péritonéal, par le péristaltisme tubaire",
+        "B": "Les spermatozoïdes capables de traverser le cumulus oophurus ont une membrane plasmique instable (phospholipides > stérols)",
+        "C": "Les spermatozoïdes ayant effectué une réaction acrosomique prématurée ne peuvent ni traverser le cumulus oophurus, ni se fixer à la zone pellucide",
+        "D": "Seuls les spermatozoïdes avec un mouvement hyperactif peuvent se fixer à la zone pellucide",
+        "E": "La liaison primaire des spermatozoïdes à la zone pellucide nécessite un afflux de calcium, elle est irréversible"
+      }
+    },
+    "similarity": 0.9953394777265745,
+    "exactItems": 2,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "Au moment de l’ovulation, la progression du cumulus oophorus est active et assurée par le battement ciliaire des cellules ciliées de l’épithélium tubaire, par le liquide péritonéal, par le péristaltisme tubaire.",
+        "source": "Au moment de l’ovulation, la progression du cumulus oophurus est active et assurée par le battement ciliaire des cellules ciliées de l’épithélium tubaire, par le liquide péritonéal, par le péristaltisme tubaire"
+      },
+      {
+        "id": "B",
+        "site": "Les spermatozoïdes capables de traverser le cumulus oophorus ont une membrane plasmique instable (phospholipides > stérols).",
+        "source": "Les spermatozoïdes capables de traverser le cumulus oophurus ont une membrane plasmique instable (phospholipides > stérols)"
+      },
+      {
+        "id": "C",
+        "site": "Les spermatozoïdes ayant effectué une réaction acrosomique prématurée ne peuvent ni traverser le cumulus oophorus, ni se fixer à la zone pellucide.",
+        "source": "Les spermatozoïdes ayant effectué une réaction acrosomique prématurée ne peuvent ni traverser le cumulus oophurus, ni se fixer à la zone pellucide"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 9,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1605,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 3/22 5. OVOGENESE A propos de l’ovogenèse A. La multiplication des ovogonies et ",
+      "title": "8.   FECONDATION",
+      "rect": [
+        30,
+        624.1299438476562,
+        565.0,
+        768.0498046875
+      ],
+      "items": {
+        "A": "L’exocytose des granules corticaux de l’ovocyte précède la réaction acrosomique des spermatozoïdes",
+        "B": "La réaction acrosomique est un processus d’exocytose du contenu de l’acrosome suite à la fusion de la membrane plasmique et de la membrane acrosomique externe du spermatozoïde",
+        "C": "La PH20, protéine impliquée dans la reconnaissance de la zone pellucide, migre vers la membrane interne de l’acrosome après la réaction acrosomique des spermatozoïdes",
+        "D": "La formation des pronoyaux est secondaire à la reprise de la méiose de l’ovocyte II",
+        "E": "Le zygote est un embryon constitué de 2 blastomères"
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 10,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1545,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 3/20 5. L’ovogénèse : A. L’ovogénèse est un phénomène discontinu qui débute pend",
+      "title": "6.   La fécondation Parmi les propositions suivantes, quelle(s) est (sont) celle(s) qui est (sont) VRAI :e(s) ?",
+      "rect": [
+        30,
+        217.8099365234375,
+        565.0,
+        361.7297668457031
+      ],
+      "items": {
+        "A": "Le transit épididymaire a une durée moyenne d’un mois.",
+        "B": "Les molécules de la membrane plasmique des spermatozoïdes impliquées dans la reconnaissance de la zone pellucide ne sont acquises qu’au cours du transit épididymaire.",
+        "C": "Les spermatozoïdes s’immobilisent dans le corps de l’épididyme.",
+        "D": "Le mouvement des spermatozoïdes acquis au cours du transit épididymaire est linéaire, il est hyperactif au cours de la capacitation.",
+        "E": "Des ponts disulfures entre les cystéines s’établissent au cours de la capacitation."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 11,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1545,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 3/20 5. L’ovogénèse : A. L’ovogénèse est un phénomène discontinu qui débute pend",
+      "title": "7.    A propos de la fécondation :",
+      "rect": [
+        30,
+        372.60992431640625,
+        565.0,
+        485.56976318359375
+      ],
+      "items": {
+        "A": "La réaction acrosomique comme la capacitation, entre autres, mettent en jeu un afflux de calcium.",
+        "B": "L’exocytose des granules corticaux précède la réaction acrosomique.",
+        "C": "Seuls les spermatozoïdes mobiles franchissent le mucus cervical.",
+        "D": "Les résidus glucidiques de la membrane plasmique des spermatozoïdes sont éliminés au cours de la capacitation.",
+        "E": "Les mucus cervical et isthmique filtrent les spermatozoïdes dans les voies génitales féminines."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 12,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1545,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 3/20 5. L’ovogénèse : A. L’ovogénèse est un phénomène discontinu qui débute pend",
+      "title": "8.   A propos de la fécondation :",
+      "rect": [
+        30,
+        496.449951171875,
+        565.0,
+        636.52978515625
+      ],
+      "items": {
+        "A": "La fixation des spermatozoïdes à la zone pellucide a lieu après leur capacitation.",
+        "B": "La fixation primaire des spermatozoïdes à la zone pellucide met en jeu des récepteurs présents sur la membrane plasmique des spermatozoïdes.",
+        "C": "La fixation secondaire des spermatozoïdes à la zone pellucide met en jeu des récepteurs présents sur la membrane interne de l’acrosome.",
+        "D": "La fusion membranaire entre l’ovocyte et le spermatozoïde met en jeu une réaction type ligand- récepteur entre la membrane interne de l’acrosome et la membrane plasmique de l’ovocyte.",
+        "E": "La polyploïdie est liée à une réaction acrosomique défectueuse."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 13,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1404,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021 – Tutorat Santé Lyon Sud 2/18 Embryologie 1. A propos de la méiose La méiose ne concerne que le",
+      "title": "4. A propos de la fécondation",
+      "rect": [
+        30,
+        531,
+        565.0,
+        644
+      ],
+      "items": {
+        "A": "La maturation des spermatozoïdes s’achève au cours du transit épididymaire.",
+        "B": "Au cours du transit épididymaire, les histones sont remplacées par les protamines.",
+        "C": "La composition en protéines et en lipides de la membrane plasmique des spermatozoïdes se modifie au cours du transit épididymaire et de la capacitation.",
+        "D": "La capacitation précède la réaction acrosomique.",
+        "E": "La fécondation a lieu dans l’ampoule tubaire, de façon physiologique."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": true,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 14,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1404,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021 – Tutorat Santé Lyon Sud 2/18 Embryologie 1. A propos de la méiose La méiose ne concerne que le",
+      "title": "5. A propos de la fécondation",
+      "rect": [
+        30,
+        655,
+        565.0,
+        768
+      ],
+      "items": {
+        "A": "La capacitation et la fixation primaire des spermatozoïdes à la zone pellucide sont des phénomènes réversibles.",
+        "B": "La réaction acrosomique comme la réaction corticale sont des phénomènes d’exocytose.",
+        "C": "La membrane plasmique du spermatozoïde doit être intacte pour adhérer à la zone pellucide.",
+        "D": "Un seul spermatozoïde atteint l’espace périvitellin.",
+        "E": "La fusion des gamètes lève le blocage en prophase I de la méiose ovocytaire."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": true,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 15,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1308,
+      "year": "2021-2022",
+      "header": "Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 2/24 Embryologie Dr Sandrine GISCARD d’ESTAING et Dr Jacqueline LORNAG",
+      "title": "4.   A propos de la fécondation :",
+      "rect": [
+        30,
+        605.8899536132812,
+        565.0,
+        747.8897705078125
+      ],
+      "items": {
+        "A": "La membrane plasmique d’un spermatozoide capacité est riche en stérols : l’entrée de calcium en intra-cellulaire est ainsi facilitée.",
+        "B": "L’acquisition de la mobilité linéaire des spermatozoïdes est associée à une membrane plasmique stable.",
+        "C": "Le pouvoir fécondant est réprimé en fin de capacitation.",
+        "D": "Les spermatozoïdes sont filtrés par le mucus cervical et le mucus de l’isthme tubaire.",
+        "E": "La survie des spermatozoïdes dans les voies génitales féminines est de 24 heures."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 16,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1309,
+      "year": "2021-2022",
+      "header": "3/24 Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 5. A propos de la fécondation : A. La réaction acrosomique prémat",
+      "title": "5.   A propos de la fécondation :",
+      "rect": [
+        30,
+        86.76994323730469,
+        565.0,
+        240.28977966308594
+      ],
+      "items": {
+        "A": "La réaction acrosomique prématurée de certains spermatozoïdes permet la libération de hyaluronidase : celle-ci facilite la traversée du cumulus oophorus par les spermatozoïdes capacités avec une membrane plasmique intacte.",
+        "B": "Au cours de la liaison primaire de la réaction acrosomique la liaison des spermatozoïdes à la glycoprotéine ZP3 de la zone pellucide déclenche la réaction acrosomique.",
+        "C": "Dans l’espace périvitellin, la membrane plasmique du spermatozoïde est intacte.",
+        "D": "La dissolution de l’enveloppe nucléaire du noyau du spermatozoïde a lieu après la fusion membranaire entre le spermatozoïde et l’ovocyte.",
+        "E": "La polyploïdie est une aneuploïdie, elle est liée à une réaction corticale défectueuse."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 17,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1212,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 2/20 Embryologie A propos de la gamétogenèse et de la méiose : A. La g",
+      "title": "A propos de la fécondation :",
+      "rect": [
+        30,
+        446.76995849609375,
+        565.0,
+        600.289794921875
+      ],
+      "items": {
+        "A": "La capacitation des spermatozoïdes est un phénomène réversible tant que la réaction acrosomique n’a pas eu lieu.",
+        "B": "La maturation cytoplasmique de l’ovocyte se manifeste par la migration des granules corticaux autour du noyau.",
+        "C": "La fécondation a lieu au niveau du pavillon de la trompe utérine.",
+        "D": "Les spermatozoïdes sont présents dans l’appareil génital féminin pour une durée maximale de 24 heures après un rapport sexuel.",
+        "E": "Certains spermatozoïdes ont une réaction acrosomique spontanée sans fixation aux cellules du complexe cumulo-ovocytaire."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 18,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1212,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 2/20 Embryologie A propos de la gamétogenèse et de la méiose : A. La g",
+      "title": "A propos de la fécondation :",
+      "rect": [
+        30,
+        611.1699829101562,
+        565.0,
+        764.4497680664062
+      ],
+      "items": {
+        "A": "La principale enzyme libérée lors de la réaction acrosomique est l’acrosine.",
+        "B": "Toutes les enzymes libérées lors de la réaction acrosomique au moment de l’interaction gamétique permettent le passage de spermatozoïdes à travers les cellules du cumulus",
+        "C": "La réaction acrosomique débute par une fusion des membranes plasmiques et interne de l’acrosome du spermatozoïde.",
+        "D": "La réaction acrosomique permet l’externalisation de la membrane interne de l’acrosome du spermatozoïde.",
+        "E": "Sur la membrane interne de l’acrosome, la molécule d’adhésion du spermatozoïde à ZP2 est une molécule SPAM."
+      }
+    },
+    "similarity": 0.9989528795811518,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "C",
+        "site": "La réaction acrosomique débute par une fusion des membranes plasmique et interne de l'acrosome du spermatozoïde",
+        "source": "La réaction acrosomique débute par une fusion des membranes plasmiques et interne de l’acrosome du spermatozoïde."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 19,
+    "category": "2023-2024 session 1",
+    "subject": {
+      "page": 1134,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 8/20 Embryologie 19. A propos de la méiose, lors d’une non disjonction",
+      "title": "22.   A propos de la fécondation, parmi les propositions suivantes, la(les)quelle(s) est(sont) exacte(s) ?",
+      "rect": [
+        30,
+        556.929931640625,
+        565.0,
+        683.3297729492188
+      ],
+      "items": {
+        "A": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est spécifique d’espèce.",
+        "B": "La liaison primaire du spermatozoïde à la zone pellucide via ZP3 est réversible.",
+        "C": "La réaction acrosomique débute par la fusion de la membrane plasmique du spermatozoïde et de la membrane interne de l’acrosome.",
+        "D": "Après la réaction acrosomique, la membrane interne de l’acrosome est exposée et permet l’externalisation du récepteur ZP1.",
+        "E": "La liaison secondaire du spermatozoïde à la zone pellucide est irréversible."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 20,
+    "category": "2023-2024 Session 2",
+    "subject": {
+      "page": 1184,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 2 2023-2024 – Tutorat Santé Lyon Sud 2/10 Embryologie 1. A propos de la fécondation : A. L’activation de l’",
+      "title": "1.   A propos de la fécondation :",
+      "rect": [
+        30,
+        114.36994171142578,
+        565.0,
+        254.20977783203125
+      ],
+      "items": {
+        "A": "L’activation de l’œuf entraîne la réaction acrosomique et la reprise de la méiose",
+        "B": "La fusion membranaire du spermatozoïde et de l’ovocyte entraîne une augmentation du calcium intra cellulaire",
+        "C": "L’exocytose des granules corticaux contenus dans l’ovocyte évite la polyspermie, c’est la réaction cortical",
+        "D": "Les aneuploïdies sont des anomalies de nombre de chromosome secondaire à une non-disjonction des chromosomes à la première ou à la deuxième division de méiose",
+        "E": "Seuls les caryotypes ne contenant pas de X sont non viables"
+      }
+    },
+    "similarity": 0.9988950276243094,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "C",
+        "site": "l’exocytose des granules corticaux contenus dans l’ovocyte évite la polyspermie, c’est la réaction corticale",
+        "source": "L’exocytose des granules corticaux contenus dans l’ovocyte évite la polyspermie, c’est la réaction cortical"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.fec",
+    "id": 21,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1045,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 3/20 5. A propos de la fécondation, cocher la ou les bonne(s) réponse(",
+      "title": "5.   A propos de la fécondation, cocher la ou les bonne(s) réponse(s) :",
+      "rect": [
+        30,
+        66.84993743896484,
+        565.0,
+        220.12977600097656
+      ],
+      "items": {
+        "A": "Lors du transit des spermatozoïdes des voies génitales masculines aux voies génitales féminines, la composition de la membrane plasmique des spermatozoïdes s’enrichit en stérols pour permettre une stabilité membranaire.",
+        "B": "Le complexe cumulo-ovocytaire est expulsé lors de l’ovulation et migre de manière passive dans l’ampoule tubaire.",
+        "C": "L’ovocyte contenu dans le complexe cumulo-ovocytaire est bloqué en prophase de la méiose I.",
+        "D": "La liaison entre l’intégrine de la membrane ovocytaire et la fertiline de la membrane spermatozoïque permet la fusion membranaire.",
+        "E": "Seuls la tête et le centriole proximal du spermatozoïde pénètrent dans l’ovocyte."
+      }
+    },
+    "similarity": 0.9972350230414747,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "D",
+        "site": "la liaison entre l’intégrine de la membrane ovocytaire et la fertiline de la membrane spermatique permet la fusion membranaire",
+        "source": "La liaison entre l’intégrine de la membrane ovocytaire et la fertiline de la membrane spermatozoïque permet la fusion membranaire."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 11,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1604,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 2/22 Embryologie 1. MEIOSE A propos de la méiose A. Après toute réplication de l",
+      "title": "1.   MEIOSE A propos de la méiose",
+      "rect": [
+        30,
+        135.48992919921875,
+        565.0,
+        292.6097717285156
+      ],
+      "items": {
+        "A": "Après toute réplication de l’ADN, les chromosomes sont constitués de 2 chromatides sœurs identiques, réunies par leur centromère.",
+        "B": "Au cours de la 1 ère  division de méiose, les chromosomes sont constitués de 2 chromatides sœurs identiques jusqu’à l’anaphase I.",
+        "C": "La fécondation permet la restauration de la diploïdie.",
+        "D": "L’appariement du complexe synaptonémal débute au stade zygotène et se termine au stade pachytène, en prophase I.",
+        "E": "Les centrioles se dupliquent en métaphase I."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 12,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1604,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 2/22 Embryologie 1. MEIOSE A propos de la méiose A. Après toute réplication de l",
+      "title": "2.   MEIOSE A propos de la méiose",
+      "rect": [
+        30,
+        303.7299499511719,
+        565.0,
+        461.0897521972656
+      ],
+      "items": {
+        "A": "Au stade leptotène de la prophase I, les chromosomes sont unis à la membrane nucléaire au niveau des télomères, la chromatine est condensée.",
+        "B": "Au stade diplotène de la prophase I, les chromatides sœurs et les chromosomes homologues sont unis par leur centromère.",
+        "C": "Au stade zygotène de la prophase I, les échanges intrachromosomiques débutent.",
+        "D": "En prophase II, les cellules sont toutes haploïdes (n chromosomes).",
+        "E": "Les nodules de recombinaison correspondent à une condensation protéique du complexe synaptonémal où se situent les chiasmas."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 13,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1604,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 2/22 Embryologie 1. MEIOSE A propos de la méiose A. Après toute réplication de l",
+      "title": "3.   GAMETOGENESE Parmi les cellules suivantes, quelle(s) est(sont) celle(s) qui a(ont) la même quantité d’ADN ?",
+      "rect": [
+        30,
+        471.9699401855469,
+        565.0,
+        586.8497924804688
+      ],
+      "items": {
+        "A": "L’ovocyte I en métaphase I et le spermatocyte I en anaphase I.",
+        "B": "Les spermatogonies et les spermatocytes II dans le syndrome de Klinefelter.",
+        "C": "Les spermatocytes II et les ovocytes II en métaphase II.",
+        "D": "Les cellules somatiques en cas de syndrome de Klinefelter ou de syndrome de Turner.",
+        "E": "L’ovocyte II en métaphase II et le spermatozoïde."
+      }
+    },
+    "similarity": 0.838256321797527,
+    "exactItems": 2,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "L’ovocyte I et le spermatocyte I en anaphase I",
+        "source": "L’ovocyte I en métaphase I et le spermatocyte I en anaphase I."
+      },
+      {
+        "id": "B",
+        "site": "Les spermatogonies et les spermatocytes II dans le syndrome de Klinefelter. Une spermatogonie est 2N et un spermatocyte II est N",
+        "source": "Les spermatogonies et les spermatocytes II dans le syndrome de Klinefelter."
+      },
+      {
+        "id": "D",
+        "site": "Les cellules somatiques en cas de syndrome de Klinefelter ou de syndrome de Turner. Les cellules somatiques d’un Klinefelter seront toutes 47, XXY et les cellule somatiques d’un Turner seront Toutes 45, X0",
+        "source": "Les cellules somatiques en cas de syndrome de Klinefelter ou de syndrome de Turner."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 14,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1604,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 2/22 Embryologie 1. MEIOSE A propos de la méiose A. Après toute réplication de l",
+      "title": "4.   Spermatogenèse A propos de la spermatogenèse et du spermatozoïde",
+      "rect": [
+        30,
+        597.9699096679688,
+        565.0,
+        755.3297729492188
+      ],
+      "items": {
+        "A": "Les chromosomes X et Y s’apparient au niveau de la région PAR (région pseudo-autosomale) des bras courts.",
+        "B": "Au cours de la spermatogenèse, la méiose dure 24 jours et la spermiogenèse dure 23 jours.",
+        "C": "Au cours de la spermiogenèse, l’acrosome se forme et est issu d’une vésicule golgienne, des ponts disulfures se forment entre les cystéines des protamines au niveau du noyau.",
+        "D": "Le col du spermatozoïde est constitué de la plaque basale, du centriole proximal et de 9 colonnes segmentées recouvertes du capitulum.",
+        "E": "Les centrioles proximal et distal sont constitués de doublets de microtubules."
+      }
+    },
+    "similarity": 0.9911031390134528,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "Les chromosomes sexuels X et Y s’apparient au niveau de la région PAR (région pseudo-autosomale) des bras courts.",
+        "source": "Les chromosomes X et Y s’apparient au niveau de la région PAR (région pseudo-autosomale) des bras courts."
+      },
+      {
+        "id": "D",
+        "site": "Le col du spermatozoïde est constitué de la plaque basale, du centriole proximal et de 9 colonnes segmentées recouverte du capitulum.",
+        "source": "Le col du spermatozoïde est constitué de la plaque basale, du centriole proximal et de 9 colonnes segmentées recouvertes du capitulum."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 15,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1605,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 3/22 5. OVOGENESE A propos de l’ovogenèse A. La multiplication des ovogonies et ",
+      "title": "5.   OVOGENESE A propos de l’ovogenèse",
+      "rect": [
+        30,
+        81.48994445800781,
+        565.0,
+        249.8897705078125
+      ],
+      "items": {
+        "A": "La multiplication des ovogonies et la méiose des ovocytes I se chevauchent entre les 3 ème  et 5 ème  mois de la vie in utero.",
+        "B": "Le blocage en prophase I stade diplotène des ovocytes est contrôlé, entre autres, par les cellules folliculeuses qui établissent des jonctions avec l’ovocyte.",
+        "C": "La synthèse d’ARNm à lieu au cours de la phase diplotène de la prophase I.",
+        "D": "Le 1 er  globule polaire reste bloqué en prophase I.",
+        "E": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes I."
+      }
+    },
+    "similarity": 0.9988700564971751,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "E",
+        "site": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes.",
+        "source": "La reprise de la méiose après le blocage en prophase I stade diplotène ne concerne qu’environ 400 ovocytes I."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 16,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1544,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose : A. Toutes les cellules de l’organism",
+      "title": "1.   A propos de la méiose :",
+      "rect": [
+        30,
+        133.32994079589844,
+        565.0,
+        286.6097717285156
+      ],
+      "items": {
+        "A": "Toutes les cellules de l’organisme sont constituées de paires de chromosomes, l’un d’origine maternelle, l’autre d’origine paternelle.",
+        "B": "En prophase I, après réplication de l’ADN, les chromatides d’un même chromosome sont unies entre elles par leur centromère.",
+        "C": "L’appariement des chromosomes homologues dépend du complexe synaptonémal qui se met en place en prophase I dès le stade zygotène.",
+        "D": "Les gonosomes s’apparient au sein de la vésicule sexuelle au cours de la spermatogenèse.",
+        "E": "Le stade pachytène de la prophase I a une durée de 16 jours au cours de la spermatogenèse et de l’ovogenèse."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 17,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1544,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose : A. Toutes les cellules de l’organism",
+      "title": "2.   A propos de la méiose :",
+      "rect": [
+        30,
+        297.48992919921875,
+        565.0,
+        424.1297912597656
+      ],
+      "items": {
+        "A": "La ségrégation des chromosomes sexuels a lieu lors du brassage interchromosomique en métaphase I au cours de la 1 ère  division de méiose.",
+        "B": "Les échanges intrachromosomiques correspondent à un échange de matériel génétique entre chromatides sœurs au sein d’un bivalent.",
+        "C": "Au cours de la 1 ère  division de méiose, les enveloppes nucléaires se reconstituent en télophase I.",
+        "D": "Les centromères se dédoublent au cours de la prophase II.",
+        "E": "Les chromatides sœurs remaniées se séparent au cours de l’anaphase II."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 18,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1544,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose : A. Toutes les cellules de l’organism",
+      "title": "3.   A propos de la méiose :",
+      "rect": [
+        30,
+        435.00994873046875,
+        565.0,
+        601.7297973632812
+      ],
+      "items": {
+        "A": "La non-disjonction des chromosomes au cours de la 1 ère  division de méiose ou des chromatides sœurs remaniées au cours de la 2 ème  division de méiose aboutit à une aneuploïdie.",
+        "B": "Le syndrome de Turner (45, XO) peut être secondaire à une non-disjonction des gonosomes au cours de l’ovogenèse ou de la spermatogenèse.",
+        "C": "La non-disjonction des chromosomes 21 au cours de la 1 ère  division de méiose aboutit après fécondation soit à une trisomie 21, soit à une monosomie 21, soit à un caryotype normal.",
+        "D": "Une translocation équilibrée peut résulter d’une anomalie du brassage intrachromosomique entre chromatides non-sœurs de chromosomes non homologues.",
+        "E": "Une translocation équilibrée résulte toujours d’une anomalie du brassage intrachromosomique entre chromatides non-sœurs au sein d’un bivalent."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 19,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1544,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose : A. Toutes les cellules de l’organism",
+      "title": "4.   A propos de la spermatogénèse :",
+      "rect": [
+        30,
+        612.6099243164062,
+        565.0,
+        725.8097534179688
+      ],
+      "items": {
+        "A": "La spermatogenèse a lieu au sein des tubes séminifères.",
+        "B": "Les spermatogonies et les spermatocytes I sont des cellules diploïdes.",
+        "C": "Au cours de la spermiogenèse, les mitochondries sont éliminées.",
+        "D": "L’axonème a pour origine les microtubules du centriole distal.",
+        "E": "Sur une coupe transversale de la pièce intermédiaire, on peut observer une gaine fibreuse, un manchon de mitochondries, 9 fibres denses et les doublets de microtubules de l’axonème."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 20,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1545,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 3/20 5. L’ovogénèse : A. L’ovogénèse est un phénomène discontinu qui débute pend",
+      "title": "5.   L’ovogénèse :",
+      "rect": [
+        30,
+        66.84993743896484,
+        565.0,
+        206.92977905273438
+      ],
+      "items": {
+        "A": "L’ovogénèse est un phénomène discontinu qui débute pendant la vie in utero et qui se termine avec la fécondation.",
+        "B": "Les ovocytes au sein des follicules primordiaux, primaires et secondaires sont bloqués en prophase I au stade diplotène.",
+        "C": "Le 1 er  et le 2 ème  globule polaires sont des cellules haploïdes contenant N chromosomes.",
+        "D": "Le brassage intrachromosomique concerne les ovocytes I et se termine avant la naissance.",
+        "E": "Au moment de l’ovulation, les cellules folliculeuses acquièrent des récepteurs à la LH (Luteinizing Hormone)."
+      }
+    },
+    "similarity": 0.9763984674329501,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "C",
+        "site": "Le 1er et le 2ème globule polaire sont des cellules haploïdes contenant N chromosomes.",
+        "source": "Le 1 er  et le 2 ème  globule polaires sont des cellules haploïdes contenant N chromosomes."
+      },
+      {
+        "id": "E",
+        "site": "Au moment de l’ovulation, les cellules folliculeuses acquièrent des récepteurs à la LH.",
+        "source": "Au moment de l’ovulation, les cellules folliculeuses acquièrent des récepteurs à la LH (Luteinizing Hormone)."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 21,
+    "category": "2020-2021",
+    "subject": {
+      "page": 1404,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021 – Tutorat Santé Lyon Sud 2/18 Embryologie 1. A propos de la méiose La méiose ne concerne que le",
+      "title": "1. A propos de la méiose",
+      "rect": [
+        30,
+        105,
+        565.0,
+        218
+      ],
+      "items": {
+        "A": "La méiose ne concerne que les cellules de la lignée germinale.",
+        "B": "Les échanges intra-chromosomiques ont lieu au cours de la prophase I de la 1 ère division de méiose.",
+        "C": "Au cours de la prophase I, au stade diplotène, la chromatine est condensée, l’ADN se réplique en ARN.",
+        "D": "Les cellules filles issues de la 1 ère division de méiose sont haploïdes et sont constituées de deux chromatides sœurs ; ces chromatides sœurs se séparent au cours de l’anaphase II.",
+        "E": "Les aneuploïdies des chromosomes sexuels sont toujours viables."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 22,
+    "category": "2020-2021",
+    "subject": {
+      "page": 1404,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021 – Tutorat Santé Lyon Sud 2/18 Embryologie 1. A propos de la méiose La méiose ne concerne que le",
+      "title": "2. A propos de la spermatogenèse",
+      "rect": [
+        30,
+        229,
+        565.0,
+        356
+      ],
+      "items": {
+        "A": "La spermatogenèse débute dès la naissance.",
+        "B": "Les spermatocytes II, les spermatides et les spermatozoïdes sont des cellules haploïdes.",
+        "C": "Le déterminisme du sexe génétique dépend de la ségrégation des chromosomes sexuels au cours de la 2 ème division de méiose.",
+        "D": "L’acrosome est issu des vésicules golgiennes et se forme au cours de la spermiogenèse.",
+        "E": "Le flagelle est constitué de 3 parties : La pièce intermédiaire, la pièce principale et la pièce terminale. Elles sont toutes constituées d’un axonème."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 23,
+    "category": "2020-2021",
+    "subject": {
+      "page": 1404,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021 – Tutorat Santé Lyon Sud 2/18 Embryologie 1. A propos de la méiose La méiose ne concerne que le",
+      "title": "3. A propos de l’ovogenèse et de la folliculogenèse",
+      "rect": [
+        30,
+        366,
+        565.0,
+        520
+      ],
+      "items": {
+        "A": "L’ovogenèse a lieu au sein du cortex ovarien.",
+        "B": "Tous les ovocytes I bloqués en prophase I reprendront leur méiose à partir de la puberté et se bloqueront en métaphase II.",
+        "C": "Le blocage de la méiose en prophase I est, entre autres, contrôlé par les cellules folliculeuses qui établissent des jonctions avec l’ovocyte I.",
+        "D": "Le 1er globule polaire et l’ovocyte II sont des cellules haploïdes, chaque chromosome est constitué de 2 chromatides.",
+        "E": "Le syndrome de Turner (45, X0) est une aneuploïdie des chromosomes sexuels, secondaire à une anomalie de la ségrégation des chromosomes sexuels qui ne concerne que l’ovogenèse."
+      }
+    },
+    "similarity": 0.7910771956900741,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true,
+    "parserRepair": "La ligne D était extraite après le début de sa phrase ; séparation C/D vérifiée visuellement."
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 24,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1308,
+      "year": "2021-2022",
+      "header": "Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 2/24 Embryologie Dr Sandrine GISCARD d’ESTAING et Dr Jacqueline LORNAG",
+      "title": "1.   A propos de la méiose :",
+      "rect": [
+        30,
+        151.32994079589844,
+        565.0,
+        291.4097595214844
+      ],
+      "items": {
+        "A": "Les chromosomes sont fixés à l’enveloppe nucléaire par leurs télomères en prophase I aux stades leptotène, zygotène, pachytène et diplotène.",
+        "B": "Le complexe synaptonémal permet l’appariement des chromosomes homologues constitués de chromatides sœurs.",
+        "C": "Le brassage interchromosomique ne concerne que les autosomes.",
+        "D": "Les enveloppes nucléaires disparaissent en prophase I au stade diacinèse et en télophase II.",
+        "E": "Un crossing-over correspond à un échange réciproque d’une portion de chromatides non- sœursentre 2 chromosomes homologues."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 25,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1308,
+      "year": "2021-2022",
+      "header": "Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 2/24 Embryologie Dr Sandrine GISCARD d’ESTAING et Dr Jacqueline LORNAG",
+      "title": "2.   A propos de la spermatogénèse :",
+      "rect": [
+        30,
+        302.2899475097656,
+        565.0,
+        428.6897888183594
+      ],
+      "items": {
+        "A": "Les spermatocytes II et les spermatides sont des cellules haploïdes, ce sont des gamètes.",
+        "B": "La ségrégation aléatoire des chromosomes homologues a lieu au cours de la méiose réductionnelle : elle concerne les spermatocytes I.",
+        "C": "La spermiogénèse à la même durée que la méiose I.",
+        "D": "Le centriole proximal est constitué de 9 doublets périphériques et le centriole distal de 9 triplets périphériques et d’un triplet central.",
+        "E": "Le rendement théorique d’une spermatogonie B est de 16 spermatides."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 26,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1308,
+      "year": "2021-2022",
+      "header": "Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 2/24 Embryologie Dr Sandrine GISCARD d’ESTAING et Dr Jacqueline LORNAG",
+      "title": "3.   A propos de l’ovogénèse et de la folliculogénèse :",
+      "rect": [
+        30,
+        439.5699462890625,
+        565.0,
+        595.0098266601562
+      ],
+      "items": {
+        "A": "Le cortex ovarien est constitué uniquement de cellules germinales.",
+        "B": "A partir de la puberté, l’ovocyte I reprend sa méiose au sein de tous les follicules ovulatoires, 24h après le pic de LH (Luteinizing Hormone).",
+        "C": "La méiose débute à la 8 ème  semaine du développement embryonnaire.",
+        "D": "Entre le 3 ème  mois et le 5 ème  mois de la vie in utero : une partie des ovogonies poursuit sa mitose, l’autre partie des ovogonies se divise en ovocytes I qui entrent en méiose après une phase de réplication de l’ADN.",
+        "E": "L’ovogénèse s’achève avec la reprise de la méiose II."
+      }
+    },
+    "similarity": 0.9956709956709957,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "B",
+        "site": "À partir de la puberté, l’ovocyte I reprend sa méiose au sein de tous les follicules ovulatoires, 24 heures après le pic de LH (Luteinizing Hormone).",
+        "source": "A partir de la puberté, l’ovocyte I reprend sa méiose au sein de tous les follicules ovulatoires, 24h après le pic de LH (Luteinizing Hormone)."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 27,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1212,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 2/20 Embryologie A propos de la gamétogenèse et de la méiose : A. La g",
+      "title": "A propos de la gamétogenèse et de la méiose :",
+      "rect": [
+        30,
+        118.44994354248047,
+        565.0,
+        258.28977966308594
+      ],
+      "items": {
+        "A": "La gamétogenèse est composée de 3 étapes : multiplication, méiose, différenciation.",
+        "B": "La gamétogenèse concerne uniquement les cellules germinales.",
+        "C": "La méiose est définie par l’ensemble de 2 divisions cellulaires successives, précédées chacune d’une réplication de l’ADN aboutissant à la formation de 4 cellules filles haploïdes.",
+        "D": "L’appariement des chromosomes sexuels XY et XX se fait par les régions PAR au sein de la vésicule sexuelle.",
+        "E": "La diversité des individus est assurée par des brassages interchromosomiques de la prophase I et intrachromosomiques des métaphases I et II."
+      }
+    },
+    "similarity": 0.9983193277310924,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "E",
+        "site": "La diversité des individus est assurée par des brassages inter-chromosomiques de la prophase 1 et intrachromosomiques des métaphases I et II.",
+        "source": "La diversité des individus est assurée par des brassages interchromosomiques de la prophase I et intrachromosomiques des métaphases I et II."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 28,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1212,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 2/20 Embryologie A propos de la gamétogenèse et de la méiose : A. La g",
+      "title": "A propos d’une non-disjonction des chromosomes sexuels chez un homme à caryotype normal lors de la première division de méiose :",
+      "rect": [
+        30,
+        269.1699523925781,
+        565.0,
+        435.8897705078125
+      ],
+      "items": {
+        "A": "A la fin de la première division de méiose, les gamètes obtenus possèdent un chromosome à une chromatide X et un chromosome à une chromatide Y.",
+        "B": "A la fin de la deuxième division de méiose, tous les gamètes possèdent un chromosome à une chromatide X et un chromosome à une chromatide Y.",
+        "C": "Après fécondation avec un ovocyte en métaphase II sans anomalie de méiose, les zygotes formés ont soit un caryotype 47, XXY soit un caryotype 46, XY.",
+        "D": "Après fécondation avec un ovocyte en métaphase II sans anomalie de méiose, certains zygotes ont un caryotype 45, X0.",
+        "E": "Le zygote avec un caryotype 47, XXY est viable, c’est un syndrome de Klinefelter."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 29,
+    "category": "2023-2024 Session 1",
+    "subject": {
+      "page": 1134,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 8/20 Embryologie 19. A propos de la méiose, lors d’une non disjonction",
+      "title": "19.   A propos de la méiose, lors d’une non disjonction des gonosomes au cours de la première division de méiose chez un homme (46, XY), parmi les propositions suivantes, la(les)quelle(s) est (sont) exacte(s) ?",
+      "rect": [
+        30,
+        104.2899398803711,
+        565.0,
+        244.12977600097656
+      ],
+      "items": {
+        "A": "Les deux cellules formées suite à la première division de méiose contiennent deux chromosomes X et deux chromosomes Y à une chromatide.",
+        "B": "A la fin de la deuxième division de méiose, deux cellules contiennent un chromosome X et un chromosome Y avec une chromatide.",
+        "C": "A la fin de la deuxième division de méiose, deux cellules ne contiennent pas de chromosome sexuel.",
+        "D": "Après la fécondation avec un ovocyte haploïde, les caryotypes des zygotes sont tous aneuploïdes.",
+        "E": "Le caryotype 45, X0 est à l’origine du syndrome de Klinefelter."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 30,
+    "category": "2023-2024 Session 1",
+    "subject": {
+      "page": 1134,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 8/20 Embryologie 19. A propos de la méiose, lors d’une non disjonction",
+      "title": "20.   A propos du spermatozoïde, parmi les propositions suivantes, la(les)quelle(s) est(sont) exacte(s) ?",
+      "rect": [
+        30,
+        255.00994873046875,
+        565.0,
+        381.6497497558594
+      ],
+      "items": {
+        "A": "Le centriole proximal est formé de neuf triplets de microtubules et ne contient pas de tubule centraux.",
+        "B": "Le centriole proximal permet la connexion entre la tête et la flagelle du spermatozoïde.",
+        "C": "Le centriole distal est à l’origine de l’axonème qui est présent uniquement dans la pièce intermédiaire et dans la pièce principale du flagelle du spermatozoïde.",
+        "D": "Le syndrome de Kartagener est lié à une absence des bras de dynéine internes et externes.",
+        "E": "Les mitochondries forment un manchon périphérique au niveau de la pièce intermédiaire du flagelle afin d’apporter l’énergie nécessaire à la mobilité du spermatozoïde."
+      }
+    },
+    "similarity": 0.9988439306358382,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "Le centriole proximal est formé de neuf triplets de microtubules et ne contient pas de tubules centraux.",
+        "source": "Le centriole proximal est formé de neuf triplets de microtubules et ne contient pas de tubule centraux."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 31,
+    "category": "2023-2024 Session 1",
+    "subject": {
+      "page": 1134,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 8/20 Embryologie 19. A propos de la méiose, lors d’une non disjonction",
+      "title": "21.   A propos de l’ovogénèse, parmi les propositions suivantes, la(les)quelle(s) est(sont) exacte(s).",
+      "rect": [
+        30,
+        392.5299377441406,
+        565.0,
+        546.0498046875
+      ],
+      "items": {
+        "A": "Les cellules germinales primordiales puis les ovogonies se multiplient par mitose durant toute la vie de l’individu.",
+        "B": "A partir du troisième trimestre de la vie intra utérine, des follicules primordiaux composés d’une unique couche de cellules folliculaires aplaties et d’un ovocyte se forment.",
+        "C": "L’ovocyte au sein du follicule primordial est bloqué en prophase de la deuxième division de méiose.",
+        "D": "Pendant la phase de maturation et de croissance de l’ovocyte, il y a une forte synthèse d’ARN maternels.",
+        "E": "Le blocage de l’ovocyte en métaphase de la deuxième division de méiose est lié à la présence du facteur OMI sécrété par les cellules folliculaires."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 32,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1044,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose, cocher la ou les bonne(s) r",
+      "title": "1.   A propos de la méiose, cocher la ou les bonne(s) réponse(s) :",
+      "rect": [
+        30,
+        127.32994079589844,
+        565.0,
+        240.28977966308594
+      ],
+      "items": {
+        "A": "La division réductionnelle de la méiose permet la formation de deux cellules filles haploïdes.",
+        "B": "La division équationnelle de la méiose est précédée d’une réplication de l’ADN.",
+        "C": "Lors de la prophase I de la méiose, la synthèse d’ARN a lieu lorsque l’ADN est décondensé.",
+        "D": "La vésicule sexuelle est présente uniquement lors de la prophase I de la méiose et chez les garçons.",
+        "E": "L’attachement du bivalent XY se fait par les régions pseudo-autosomales des deux extrémités des chromosomes (X et Y) PAR1 et PAR2."
+      }
+    },
+    "similarity": 0.9872608055667069,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "C",
+        "site": "lors de la prophase I de la méiose I, la synthèse d’ARN a lieu lorsque l’ADN est décondensé",
+        "source": "Lors de la prophase I de la méiose, la synthèse d’ARN a lieu lorsque l’ADN est décondensé."
+      },
+      {
+        "id": "D",
+        "site": "la vésicule sexuelle est présente uniquement lors de la prophase I de la méiose I des garçons",
+        "source": "La vésicule sexuelle est présente uniquement lors de la prophase I de la méiose et chez les garçons."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 33,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1044,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose, cocher la ou les bonne(s) r",
+      "title": "2.   À propos d’une non-disjonction d’une paire de chromosomes homologues lors de la première division de méiose, cocher la ou les bonne(s) réponse(s) :",
+      "rect": [
+        30,
+        251.16993713378906,
+        565.0,
+        391.2497863769531
+      ],
+      "items": {
+        "A": "Après la première division de méiose, les deux chromosomes à une chromatide sont présents dans une cellule fille et aucun chromosome n’est présent dans l’autre cellule fille.",
+        "B": "Après la première division de méiose, les deux cellules filles sont aneuploïdes.",
+        "C": "Après la deuxième division de méiose, les quatre cellules filles sont aneuploïdes.",
+        "D": "Après la deuxième division de méiose, deux cellules filles sont disomiques et deux cellules filles sont nullisomiques pour la paire de chromosomes concernée.",
+        "E": "Après l’étape de fécondation, les caryotypes des zygotes sont normaux."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 34,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1044,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose, cocher la ou les bonne(s) r",
+      "title": "3.   A propos du spermatozoïde, cocher la ou les bonne(s) réponse(s) :",
+      "rect": [
+        30,
+        402.12994384765625,
+        565.0,
+        515.0897827148438
+      ],
+      "items": {
+        "A": "Le noyau du spermatozoïde est situé dans la tête, coiffé par l’acrosome dont l’origine est l’appareil de Golgi.",
+        "B": "Le centriole proximal permet notamment la cohésion de la tête au flagelle.",
+        "C": "Le centriole proximal est composé de 9 triplets de microtubules et d’un triplet central.",
+        "D": "L’axonème a pour origine le centriole distal.",
+        "E": "L’axonème a un rôle dans la première division embryonnaire après la fécondation."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 35,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1044,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 2/20 Embryologie 1. A propos de la méiose, cocher la ou les bonne(s) r",
+      "title": "4.   A propos de l’ovogenèse, cocher la ou les bonne(s) réponse(s) :",
+      "rect": [
+        30,
+        526.2098999023438,
+        565.0,
+        639.1697998046875
+      ],
+      "items": {
+        "A": "Le follicule primordial est constitué d’une ovogonie et d’une couche de cellules folliculaires aplaties.",
+        "B": "Le follicule primaire est constitué d’un ovocyte bloqué en métaphase I de la méiose I et d’une couche de cellules folliculaires cubiques.",
+        "C": "Le maximum de follicules primordiaux dans le cortex ovarien est observé à la naissance.",
+        "D": "L’achèvement de la méiose a lieu lors de la fécondation de l’ovocyte par un spermatozoïde.",
+        "E": "La majorité des follicules contenus dans le cortex ovarien vont disparaître par atrésie."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.gamet",
+    "id": 36,
+    "category": "2024-2025 Session 2",
+    "subject": {
+      "page": 1098,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 2 2024-2025 – Tutorat Santé Lyon Sud 2/10 Embryologie 1. A propos de la méiose A. La division réductionnell",
+      "title": "1.   A propos de la méiose",
+      "rect": [
+        30,
+        133.32994079589844,
+        565.0,
+        232.8497772216797
+      ],
+      "items": {
+        "A": "La division réductionnelle de la méiose permet la formation de 2 cellules filles haploïdes",
+        "B": "Lors de la prophase I, l'appariement des chromosomes homologues se fait au niveau des centromères",
+        "C": "La division équationnelle est précédée par une réplication d'ADN",
+        "D": "Le crossing-over est un mécanisme qui se déroule pendant la métaphase I uniquement",
+        "E": "La vésicule sexuelle est un élément transitoire de la méiose chez les garçons"
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 5,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1606,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 4/22 9. Première semaine du développement embryonnaire A. La première semaine du",
+      "title": "9.   Première semaine du développement embryonnaire",
+      "rect": [
+        30,
+        101.40994262695312,
+        565.0,
+        256.6097717285156
+      ],
+      "items": {
+        "A": "La première semaine du développement embryonnaire correspond à la 1 ère  semaine du de la phase lutéale du cycle ovarien.",
+        "B": "Au cours de la compaction, les cellules perdent leur totipotence et les cellules sont polarisées.",
+        "C": "L’activation du génome embryonnaire est nécessaire pour que l’embryon atteigne le stade blastocyste.",
+        "D": "Le maintien de la pression osmotique au sein du blastocèle est assuré, entre autres, par l’entrée d’eau par les aquaporines localisées aux pôles apical et latéro-basal des cellules trophoblastiques.",
+        "E": "La reprogrammation épigénétique a lieu au cours du développement embryonnaire précoce."
+      }
+    },
+    "similarity": 0.9967528041147673,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "La première semaine du développement embryonnaire correspond à la 1ère semaine de la phase lutéale du cycle ovarien.",
+        "source": "La première semaine du développement embryonnaire correspond à la 1 ère  semaine du de la phase lutéale du cycle ovarien."
+      },
+      {
+        "id": "D",
+        "site": "Le maintien de la pression osmotique au sein du blastocèle est assuré, entre autres, par l’entrée d’eau par les aquaporines localisées au pôle apical et latéro-basal des cellules trophoblastiques.",
+        "source": "Le maintien de la pression osmotique au sein du blastocèle est assuré, entre autres, par l’entrée d’eau par les aquaporines localisées aux pôles apical et latéro-basal des cellules trophoblastiques."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 6,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1545,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 3/20 5. L’ovogénèse : A. L’ovogénèse est un phénomène discontinu qui débute pend",
+      "title": "9.   A propos de la première semaine du développement embryonnaire :",
+      "rect": [
+        30,
+        647.4099731445312,
+        565.0,
+        773.809814453125
+      ],
+      "items": {
+        "A": "Durant la période pré-implantatoire, l’embryon est autonome et libre.",
+        "B": "L’activation du génome embryonnaire a lieu au cours de la segmentation.",
+        "C": "Les cellules participant à la formation de la masse cellulaire interne représentent deux tiers des cellules du blastocyste.",
+        "D": "La transition materno-embryonnaire met en jeu, entre autres, une dégradation de transcrits et de protéines maternelles qui peuvent être néfastes pour le développement embryonnaire.",
+        "E": "L’origine gamétique de l’aneuploïdie embryonnaire est plus fréquemment ovocytaire."
+      }
+    },
+    "similarity": 0.9986842105263157,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "D",
+        "site": "La transition materno-embryonnaire met en jeu, entre autres, une dégradation de transcrits et de protéines maternels qui peuvent être néfastes pour le développement embryonnaire.",
+        "source": "La transition materno-embryonnaire met en jeu, entre autres, une dégradation de transcrits et de protéines maternelles qui peuvent être néfastes pour le développement embryonnaire."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 7,
+    "category": "2020-2021",
+    "subject": {
+      "page": 1405,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021– Tutorat Santé Lyon Sud 3/18 6. A propos de la 1ère semaine du développement embryonnaire : Au ",
+      "title": "6. A propos de la 1 ère semaine du développement embryonnaire :",
+      "rect": [
+        30,
+        66,
+        565.0,
+        180
+      ],
+      "items": {
+        "A": "Au cours de la segmentation, asynchrone et asymétrique, le diamètre de l’œuf fécondé est constant.",
+        "B": "Le phénomène de blastulation met en jeu un afflux de calcium, entre autres.",
+        "C": "La migration de l’œuf fécondé entre l’ampoule tubaire et la cavité utérine est hormono-dépendante.",
+        "D": "Les marqueurs épigénétiques des gènes soumis à l’empreinte parentale ne sont pas reprogrammés au cours de l’embryogénèse précoce.",
+        "E": "Les cellules de la masse cellulaire interne sont totipotentes."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 8,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1309,
+      "year": "2021-2022",
+      "header": "3/24 Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 5. A propos de la fécondation : A. La réaction acrosomique prémat",
+      "title": "6.   A propos de la 1 ère  semaine du développement embryonnaire :",
+      "rect": [
+        30,
+        250.97409057617188,
+        565.0,
+        406.3697814941406
+      ],
+      "items": {
+        "A": "La première division cellulaire a lieu moins de 20 heures après la fécondation.",
+        "B": "Au stade blastocyste, le génome embryonnaire des cellules de la MCI (Masse Cellulaire Interne) est activé.",
+        "C": "Au cours de sa migration tubaire, l’œuf fécondé (appelé communément embryon) au stade morula est dans l’ampoule tubaire.",
+        "D": "La parthénogénèse correspond à une activation de l’œuf en dehors du processus d’activation du génome embryonnaire.",
+        "E": "L’empreinte parentale correspond à une expression différentielle des gènes maternels et paternels."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 9,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1213,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 3/20 A propos de la première semaine de développement embryonnaire : A",
+      "title": "A propos de la première semaine de développement embryonnaire :",
+      "rect": [
+        30,
+        66.84993743896484,
+        565.0,
+        179.80978393554688
+      ],
+      "items": {
+        "A": "La première semaine de développement embryonnaire débute lors de l’implantation.",
+        "B": "Les premières divisions embryonnaires correspondent aux stades de segmentation.",
+        "C": "La segmentation des cellules est totale, symétrique et synchrone.",
+        "D": "A J4, au stade morula, les cellules externes acquièrent une polarité cellulaire et possèdent des jonctions communicantes avec les cellules internes.",
+        "E": "A J5, le blastocyste est formé d’une masse cellulaire interne, d’un trophoblaste et d’un blastocèle."
+      }
+    },
+    "similarity": 0.9984126984126984,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "D",
+        "site": "A J4, au stade de morula, les cellules externes acquièrent une polarité cellulaire et possèdent des jonctions communicantes avec les cellules internes",
+        "source": "A J4, au stade morula, les cellules externes acquièrent une polarité cellulaire et possèdent des jonctions communicantes avec les cellules internes."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 10,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1213,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 3/20 A propos de la première semaine de développement embryonnaire : A",
+      "title": "A propos de la première semaine de développement embryonnaire :",
+      "rect": [
+        30,
+        190.929931640625,
+        565.0,
+        303.8897705078125
+      ],
+      "items": {
+        "A": "La migration de l’embryon est rapide sous la dépendance de contractions utérines.",
+        "B": "Un défaut de contractions tubaires et utérines entraîne une fausse couche.",
+        "C": "A J3 du développement embryonnaire, les transcrits embryonnaires s’expriment et les transcrits maternels ne sont plus exprimés, c’est la transition materno-embryonnaire.",
+        "D": "Un quart des zygotes n’atteint pas le stade de blastocyste.",
+        "E": "Les grossesses extra-utérines sont principalement situées au niveau des ovaires."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 11,
+    "category": "2023-2024 Session 1",
+    "subject": {
+      "page": 1135,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 9/20 23. A propos de la première semaine du développement embryonnaire",
+      "title": "23.   A propos de la première semaine du développement embryonnaire, parmi les propositions suivantes, la(les)quelle(s) est(sont) exacte(s) ?",
+      "rect": [
+        30,
+        66.84993743896484,
+        565.0,
+        220.12977600097656
+      ],
+      "items": {
+        "A": "L’embryon est libre et se déplace de manière active de la trompe utérine jusqu’à la cavité utérine",
+        "B": "Les premiers stades de segmentation correspondent à des divisions cellulaires successives symétriques et synchrones",
+        "C": "Le blastocyste est formé de la masse cellulaire interne qui représente deux tiers des cellules et du trophoblaste qui représente un tiers des cellules",
+        "D": "Les cellules trophoblastiques permettent l’accumulation de sodium dans la blastocèle afin d’entrainer une entrée d’eau et une augmentation du diamètre du blastocèle",
+        "E": "La membrane plasmique apicale des cellules trophoblastiques possède des pompes Na+/K+ ATPase"
+      }
+    },
+    "similarity": 0.9985714285714286,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "D",
+        "site": "Les cellules trophoblastiques permettent l’accumulation de sodium dans le blastocèle afin d’entrainer une entrée d’eau et une augmentation du diamètre du blastocèle",
+        "source": "Les cellules trophoblastiques permettent l’accumulation de sodium dans la blastocèle afin d’entrainer une entrée d’eau et une augmentation du diamètre du blastocèle"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 12,
+    "category": "2023-2024 Session 2",
+    "subject": {
+      "page": 1184,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 2 2023-2024 – Tutorat Santé Lyon Sud 2/10 Embryologie 1. A propos de la fécondation : A. L’activation de l’",
+      "title": "2.   A propos de la première semaine de développement embryonnaire :",
+      "rect": [
+        30,
+        265.3299560546875,
+        565.0,
+        391.7297668457031
+      ],
+      "items": {
+        "A": "La grossesse extra utérine correspond à un défaut de migration de l’embryon au sein de la trompe utérine",
+        "B": "Le génome embryonnaire est dit silencieux jusqu’au troisième jour de développement embryonnaire",
+        "C": "Lors de la transition materno-embryonnaire, les ARNm maternels sont consommés et les ARNm embryonnaires commencent à être synthétisés",
+        "D": "Les cellules embryonnaires au troisième jour de développement embryonnaire sont totipotentes",
+        "E": "Tous les gènes embryonnaires ont des marqueurs épigénétiques issus des gamètes"
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s1",
+    "id": 13,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1045,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 3/20 5. A propos de la fécondation, cocher la ou les bonne(s) réponse(",
+      "title": "6.   A propos de ces photographies d’embryon lors de la première semaine de développement embryonnaire",
+      "rect": [
+        30,
+        231.2499237060547,
+        565.0,
+        644.4497680664062
+      ],
+      "items": {
+        "A": "la photographie 2 est un embryon au stade de segmentation",
+        "B": "la photographie 3 est un embryon au stade de morula",
+        "C": "la photographie 4 est un blastocyste composé d’une masse cellulaire interne et d’un trophoblaste",
+        "D": "le diamètre de l’embryon de la photographie 2 est inférieur au diamètre de l’embryon de la photographie 4",
+        "E": "le blastocyste se forme à partir du 5 ème  jour de développement embryonnaire"
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 5,
+    "category": "2018-2019",
+    "subject": {
+      "page": 1606,
+      "year": "2018-2019",
+      "header": "Sujet UE5 2018-2019 – Tutorat Santé Lyon Sud 4/22 9. Première semaine du développement embryonnaire A. La première semaine du",
+      "title": "10.   2 ème  SEMAINE DU DEVELOPPEMENT EMBRYONNAIRE",
+      "rect": [
+        30,
+        282.89410400390625,
+        565.0,
+        440.44976806640625
+      ],
+      "items": {
+        "A": "Au moment de l’éclosion du blastocyte, le disque embryonnaire est didermique",
+        "B": "A J8, la cavité amniotique et le lécithocèle primaire sont constitués, le mésenchyme extra- embryonnaire prolifère",
+        "C": "L’épiblaste a une orientation dorsale et l’hypoblaste a une orientation ventrale",
+        "D": "Les cellules mononuclées du trophoblaste sont à l’origine, entre autres, du syncytiotrophoblaste, constitué de cellules plurinucléées",
+        "E": "A J11, les lames mésenchymateuses sont en place et les lacunes du syncytiotrophoblaste sont remplies de sang maternel"
+      }
+    },
+    "similarity": 0.9984496124031008,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "Au moment de l’éclosion du blastocyste, le disque embryonnaire est didermique",
+        "source": "Au moment de l’éclosion du blastocyte, le disque embryonnaire est didermique"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 6,
+    "category": "2019-2020",
+    "subject": {
+      "page": 1546,
+      "year": "2019-2020",
+      "header": "Sujet UE5 2019-2020 – Tutorat Santé Lyon Sud 4/20 10. 2ème semaine du développement embryonnaire : Sur une coupe sagittale pa",
+      "title": "10.   2 ème  semaine du développement embryonnaire : Sur une coupe sagittale passant par le disque embryonnaire et l’endomètre, on peut observer à J9 :",
+      "rect": [
+        30,
+        66.65409088134766,
+        565.0,
+        183.8897705078125
+      ],
+      "items": {
+        "A": "Un disque didermique constitué par l’épiblaste et l’hypoblaste.",
+        "B": "La cavité amniotique, la blastocèle et le lécithocèle primaire.",
+        "C": "Le lécithocèle primaire et la membrane de Heuser.",
+        "D": "Des lacunes remplies de sang maternel dans le syncytiotrophoblaste.",
+        "E": "Du magma réticulé ou mésenchyme extra-embryonnaire."
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 7,
+    "category": "2020-2021",
+    "subject": {
+      "page": 1405,
+      "year": "2020-2021",
+      "header": "Sujet UE5 Session 1 2020-2021– Tutorat Santé Lyon Sud 3/18 6. A propos de la 1ère semaine du développement embryonnaire : Au ",
+      "title": "7. A propos de la 2 ème semaine du développement embryonnaire : Sur une coupe sagittale, passant par le disque embryonnaire et l’endomètre, on peut observer à J11 du développement embryonnaire",
+      "rect": [
+        30,
+        190,
+        565.0,
+        349
+      ],
+      "items": {
+        "A": "Un œuf fécondé, appelé communément embryon, entouré par du cytotrophoblaste et du trophoblaste.",
+        "B": "Un œuf fécondé, appelé communément embryon, complètement entouré par le syncytiotrophoblaste.",
+        "C": "Les trois cavités suivantes : la cavité amniotique, le lécithocèle primaire, le cœlome extra embryonnaire.",
+        "D": "Un épithélium utérin reconstitué.",
+        "E": "Un pédicule embryonnaire."
+      }
+    },
+    "similarity": 0.9818059299191375,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "B",
+        "site": "Un œuf fécondé appelé communément embryon, complètement entouré de syncytiotrophoblaste.",
+        "source": "Un œuf fécondé, appelé communément embryon, complètement entouré par le syncytiotrophoblaste."
+      },
+      {
+        "id": "C",
+        "site": "Les trois cavités suivantes : la cavité amniotique, le lécithocèle primaire, le cœlome externe.",
+        "source": "Les trois cavités suivantes : la cavité amniotique, le lécithocèle primaire, le cœlome extra embryonnaire."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 8,
+    "category": "2021-2022",
+    "subject": {
+      "page": 1309,
+      "year": "2021-2022",
+      "header": "3/24 Sujet UE5 Session 1 2021-2022 – Tutorat Santé Lyon Sud 5. A propos de la fécondation : A. La réaction acrosomique prémat",
+      "title": "7.   A propos de la 2 ème  semaine du développement embryonnaire (1 point) :",
+      "rect": [
+        30,
+        417.2940979003906,
+        565.0,
+        559.2498168945312
+      ],
+      "items": {
+        "A": "La 2 ème  semaine du développement embryonnaire correspond à la 4 ème  semaine d’aménorrhée.",
+        "B": "Les cadhérines sont secrétées par les cellules de l’endomètre.",
+        "C": "Une  fois  implanté,  l’œuf  fécondé  (appelé  communément  embryon)  est  entouré  par le cytotrophoblaste.",
+        "D": "Les lacunes du syncytiotrophoblaste sont remplies de sang maternel lorsque les 3 cavités (cavité amniotique, lécithocèle secondaire et cœlome extra-embryonnaire) sont formées.",
+        "E": "Le disque didermique est constitué par l’ectoblaste et l’entoblaste."
+      }
+    },
+    "similarity": 0.9986577181208054,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "D",
+        "site": "Les lacunes du syncytiotrophoblaste sont remplies de sang maternel lorsque les 3 cavités (cavité amniotique, lécithocèle secondaire, cœlome extra-embryonnaire) sont formées.",
+        "source": "Les lacunes du syncytiotrophoblaste sont remplies de sang maternel lorsque les 3 cavités (cavité amniotique, lécithocèle secondaire et cœlome extra-embryonnaire) sont formées."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 9,
+    "category": "2022-2023",
+    "subject": {
+      "page": 1213,
+      "year": "2022-2023",
+      "header": "Sujet UE5 Session 1 2022-2023 – Tutorat Santé Lyon Sud 3/20 A propos de la première semaine de développement embryonnaire : A",
+      "title": "A propos de la deuxième semaine de développement embryonnaire :",
+      "rect": [
+        30,
+        314,
+        565.0,
+        442
+      ],
+      "items": {
+        "A": "L’implantation de l’embryon a lieu au sein de l’endomètre en phase folliculaire.",
+        "B": "L’endomètre lors de l’implantation est riche en glandes contenant du glycogène.",
+        "C": "Le cytotrophoblaste est issu du trophoblaste et est composée de grandes cellules multinucléés sécrétant des collagénases.",
+        "D": "Le disque didermique est composé du plancher de l’épiblaste et du plafond de l’hypoblaste.",
+        "E": "Les grossesses gémellaires monochoriales monoamniotiques sont secondaires à une division de l’embryon au stade segmentaire."
+      }
+    },
+    "similarity": 0.991941391941392,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "A",
+        "site": "L'implantation de l'embryon a lieu au sein d'un endomètre en phase folliculaire",
+        "source": "L’implantation de l’embryon a lieu au sein de l’endomètre en phase folliculaire."
+      },
+      {
+        "id": "C",
+        "site": "Le cytotrophoblaste est issu du trophoblaste et est composé de grandes cellules multi nucléées sécrétant des collagénases.",
+        "source": "Le cytotrophoblaste est issu du trophoblaste et est composée de grandes cellules multinucléés sécrétant des collagénases."
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "matchMethod": "Manual item-by-item labels checked visually",
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 10,
+    "category": "2023-2024 Session 1",
+    "subject": {
+      "page": 1135,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 9/20 23. A propos de la première semaine du développement embryonnaire",
+      "title": "24.   A propos de la deuxième semaine du développement embryonnaire, parmi les propositions suivantes, la(les)quelle(s) est(sont) exacte(s) ?",
+      "rect": [
+        30,
+        231.2499237060547,
+        565.0,
+        384.5297546386719
+      ],
+      "items": {
+        "A": "L’implantation débute lors de la deuxième semaine du développement embryonnaire au cours de la phase lutéale du cycle menstruel",
+        "B": "Le blastocyste éclot et s’implante dans l’endomètre en regard de la masse cellulaire interne",
+        "C": "Le trophoblaste se différencie notamment en cytotrophoblaste qui envahi l’endomètre",
+        "D": "Le disque didermique est formé de l’épiblaste dans la partie ventrale et l’hypoblaste dans la partie dorsale",
+        "E": "Le disque didermique, vu de dessus, a une forme de raquette à la fin de la deuxième semaine du développement embryonnaire"
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 11,
+    "category": "2023-2024 Session 1",
+    "subject": {
+      "page": 1135,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 1 2023-2024 – Tutorat Santé Lyon Sud 9/20 23. A propos de la première semaine du développement embryonnaire",
+      "title": "25.   A propos de la deuxième semaine du développement embryonnaire, parmi les propositions suivantes, la(les)quelle(s) est(sont) exacte(s) ?",
+      "rect": [
+        30,
+        395.4099426269531,
+        565.0,
+        535.2498168945312
+      ],
+      "items": {
+        "A": "Les cellules du mésenchyme extra embryonnaire prolifèrent jusqu’à remplir l’ensemble du blastocèle au sixième jour du développement embryonnaire",
+        "B": "Au 11 ème  jour du développement embryonnaire, le magma réticulé se résorbe totalement",
+        "C": "Trois lames mésenchymateuses persistent à la fin de la deuxième semaine du développement embryonnaire :  la lame choriale, la lame amniotique et la lame vitelline",
+        "D": "Durant la deuxième semaine du développement embryonnaire, la règle du tout ou rien s’applique",
+        "E": "Les grossesses bichoriales biamniotiques sont toujours des grosses géméllaires dizygotes"
+      }
+    },
+    "similarity": 0.9962732919254659,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "E",
+        "site": "Les grossesses bichoriales biamniotiques sont toujours des grossesses gémellaires dizygotes.",
+        "source": "Les grossesses bichoriales biamniotiques sont toujours des grosses géméllaires dizygotes"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 12,
+    "category": "2023-2024 Session 2",
+    "subject": {
+      "page": 1184,
+      "year": "2023-2024",
+      "header": "Sujet UE5 Session 2 2023-2024 – Tutorat Santé Lyon Sud 2/10 Embryologie 1. A propos de la fécondation : A. L’activation de l’",
+      "title": "3.   A propos de la deuxième semaine de développement embryonnaire :",
+      "rect": [
+        30,
+        402.60992431640625,
+        565.0,
+        529.0098266601562
+      ],
+      "items": {
+        "A": "Les cellules du mésenchyme extra embryonnaire prolifèrent jusqu’à remplir l’ensemble du blastocèle au sixième jour de développement embryonnaire",
+        "B": "Au 11 jour de développement embryonnaire, le magma réticulé se résorbe totalement",
+        "C": "au 13 jour de développement embryonnaire, trois lames mésenchymateuses persistent : la lame choriale, la lame amniotique et la lame vitelline",
+        "D": "Durant la deuxième semaine de développement embryonnaire, la règle du « tout ou rien » s’applique",
+        "E": "Les grossesses bichoriales biamniotiques sont toujours des grossesses gémellaires dizygotes"
+      }
+    },
+    "similarity": 0.9932342206000179,
+    "exactItems": 3,
+    "diffs": [
+      {
+        "id": "B",
+        "site": "au 11ème jour de développement embryonnaire, le magma réticulé se résorbe totalement",
+        "source": "Au 11 jour de développement embryonnaire, le magma réticulé se résorbe totalement"
+      },
+      {
+        "id": "C",
+        "site": "au 13 ème jour de développement embryonnaire, trois lames mésenchymateuses persistent : la lame choriale, la lame amniotique et la lame vitelline",
+        "source": "au 13 jour de développement embryonnaire, trois lames mésenchymateuses persistent : la lame choriale, la lame amniotique et la lame vitelline"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 13,
+    "category": "2024-2025 Session 1",
+    "subject": {
+      "page": 1046,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 1 2024-2025 – Tutorat Santé Lyon Sud 4/20 7. A propos du schéma ci-dessous représentant un embryon à J13 A.",
+      "title": "7.   A propos du schéma ci-dessous représentant un embryon à J13",
+      "rect": [
+        30,
+        66.84993743896484,
+        565.0,
+        540.289794921875
+      ],
+      "items": {
+        "A": "les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11",
+        "B": "la légende 2 représente la lame choriale",
+        "C": "la légende 3 représente la lame vitelline en position caudale",
+        "D": "la légende 5 représente le cytotrophoblaste",
+        "E": "la légende 6 représente le syncytiotrophoblaste"
+      }
+    },
+    "similarity": 1.0,
+    "exactItems": 5,
+    "diffs": [],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié.",
+    "cropVisualChecked": true
+  },
+  {
+    "bank": "embryo.ann.s2",
+    "id": 14,
+    "category": "2024-2025 Session 2",
+    "subject": {
+      "page": 1098,
+      "year": "2024-2025",
+      "header": "Sujet UE5 Session 2 2024-2025 – Tutorat Santé Lyon Sud 2/10 Embryologie 1. A propos de la méiose A. La division réductionnell",
+      "title": "3.   A propos du schéma ci-dessous représentant un embryon à J13",
+      "rect": [
+        30,
+        381.24993896484375,
+        565.0,
+        641.8097534179688
+      ],
+      "items": {
+        "A": "Les lacunes sont présentes dès J9 et se remplissent de sang secondairement vers J11",
+        "B": "Le 2 représente la lame choriale",
+        "C": "Le 5 représente la vésicule vitelline",
+        "D": "Le 6 représente le lécithocèle primaire",
+        "E": "Le 7 représente le cytotrophoblaste"
+      }
+    },
+    "similarity": 0.9962264150943396,
+    "exactItems": 4,
+    "diffs": [
+      {
+        "id": "B",
+        "site": "Le 2 représente la lame chorale",
+        "source": "Le 2 représente la lame choriale"
+      }
+    ],
+    "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+    "yearMismatch": false,
+    "alternateCandidates": [],
+    "status": "all_items_compared",
+    "note": "Le sujet original provient de la compilation générale ; le corrigé thématique reste la référence, sauf complément explicite identifié. Certaines formulations diffèrent entre les éditions. La copie est conservée telle quelle.",
+    "cropVisualChecked": true
+  }
+]

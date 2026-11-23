@@ -1,0 +1,181 @@
+{
+  "state": "preparer_ready_for_independent_verification",
+  "independentVerificationPending": true,
+  "counts": {
+    "banks": 13,
+    "questions": 321,
+    "baselineItems": 1609,
+    "reviewedItems": 1614,
+    "autotestQuestions": 128,
+    "autotestItems": 649,
+    "annalesQuestions": 193,
+    "annalesItems": 965,
+    "gradedQuestions": 316,
+    "ungradedQuestions": 5,
+    "explicitAllFalseQuestions": [
+      {
+        "bank": "histo.tc3",
+        "id": 17
+      }
+    ],
+    "cleanSubjectCopies": 321,
+    "correctionCopies": 321,
+    "annotatedSubjectCopiesRetainedAfterCorrection": 2,
+    "reusedV5QuestionCopies": 128,
+    "newInteractiveFigureAssets": 21,
+    "legacyImageReferencesActuallyViewed": 48,
+    "primaryFigurePagesActuallyViewed": 39,
+    "newInteractiveFigureAssetsActuallyViewed": 21,
+    "allFinalCopiesIndividuallyViewed": false,
+    "visualMethod": "Les 39 pages sources contenant les figures, les 48 anciens fichiers graphiques et les 21 nouvelles figures ont été vus. Les copies finales ont un contrôle textuel et géométrique exhaustif ; elles ne sont pas toutes déclarées vues individuellement.",
+    "compilationComparisonStatuses": {
+      "same_session_all_items_compared": 162,
+      "different_figure": 1,
+      "no_confirmed_same_session_match": 21,
+      "parallel_wording_variant": 4,
+      "full_edition_restored": 4,
+      "different_experimental_context": 1
+    },
+    "literalItemStatuses": {
+      "verified_literal": 1583,
+      "unresolved_source_conflict": 2,
+      "missing_thematic_marker_restored_from_same_session": 2,
+      "unresolved_literal_true_false_conflict": 1,
+      "answer_annotation_removed_using_authentic_clean_subject": 2,
+      "documented_editions_question_ungraded": 12,
+      "documented_editions_question_ungraded; previously_missing_item": 3,
+      "restored_from_full_same_session_edition": 4,
+      "restored_from_full_same_session_edition; previously_missing_item": 1,
+      "verified_by_unique_explicit_selection": 4
+    },
+    "preservedReviewNotes": 59,
+    "newReviewNotes": 53,
+    "newQuestionIds": [],
+    "restoredItemCount": 5,
+    "responseInvalidationQuestions": [
+      {
+        "bank": "histo.ann.tech",
+        "id": 1
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 5
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 6
+      },
+      {
+        "bank": "histo.ann.tech",
+        "id": 7
+      }
+    ],
+    "bankCoverage": [
+      {
+        "bank": "histo.ann.te",
+        "questions": 29,
+        "items": 145
+      },
+      {
+        "bank": "histo.ann.tc",
+        "questions": 59,
+        "items": 295
+      },
+      {
+        "bank": "histo.ann.tn",
+        "questions": 66,
+        "items": 330
+      },
+      {
+        "bank": "histo.ann.tech",
+        "questions": 39,
+        "items": 195
+      },
+      {
+        "bank": "histo.te1",
+        "questions": 13,
+        "items": 65
+      },
+      {
+        "bank": "histo.te2",
+        "questions": 19,
+        "items": 95
+      },
+      {
+        "bank": "histo.tc1",
+        "questions": 12,
+        "items": 60
+      },
+      {
+        "bank": "histo.tc2",
+        "questions": 13,
+        "items": 65
+      },
+      {
+        "bank": "histo.tc3",
+        "questions": 24,
+        "items": 118
+      },
+      {
+        "bank": "histo.tn1",
+        "questions": 16,
+        "items": 80
+      },
+      {
+        "bank": "histo.tn2",
+        "questions": 10,
+        "items": 61
+      },
+      {
+        "bank": "histo.tn3",
+        "questions": 8,
+        "items": 40
+      },
+      {
+        "bank": "histo.autotech",
+        "questions": 13,
+        "items": 65
+      }
+    ]
+  },
+  "sha256": {
+    "reviewed.json": "96011ffc9d44898ada0ad9c759e075525a945c528cdf0b01664e0976fa529d69",
+    "audit.json": "2aad18b48c2f489f138b957213e48b98c559483d3187fe5115190cc97e2a9515",
+    "crops.json": "1996925b232a018193748ebc0aa2b48ea44da10a31fe7505c80895be2c4b12d9",
+    "missing.json": "93d9d6b4edbf7113f76333a3602b71a69111f3cd1af90005e96f2e5e4fe7f9cd",
+    "source_manifest.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "asset_manifest.json": "5fc00f102c3a5d0009534a9c1f38fb2ae4aaf239ee9fd4917077c133a16dd484",
+    "source_inventory.json": "a13ae3b7fece3776278a4687115d2390ab775d5eb1cb166e35c9a812a9b46661",
+    "coverage_summary.json": "0dde72c6b663e0ad9dd8c1210e4fa061bd047cb8099add332f161e9e0242540a",
+    "edition_comparisons.json": "ba35066f3420792892bf1019ef474314e590ee4600e10ae508d899a8c18d5f64",
+    "geometry_checks.json": "e76c576317257ee7ae690ed1b44510bf5efad55b2c4c20d4b1724116cf2a630d",
+    "response_invalidations.json": "3169469f0ac8cf619b919e16aa4dba56863fb464b0f4b6a3490c3654f49129b9",
+    "changes.json": "27f2c058b04d79869b302f22fee9916e8c1da26e92d7c4ab7def6707d05086b4",
+    "subject_item_changes.json": "6b923e913b8fc2b14ce3f91b9a7c3b50d81c0b0c775d4cfaca3a60613dce87eb",
+    "reuse_checks.json": "f153f09bc002c0971ebbfbd911eca78673f3ad19c8c34aebf401430e34f44a71",
+    "REPORT.md": "c01c02dbd387f8f3fef81a69206e4c4a9d3c023680bb66c1e288d41085ee1af0"
+  },
+  "assetSha256": {
+    "static/revision_v6/histologie/histo_tn3_q6_figure_1.webp": "ce8738ecbe99a2f0c5b3fd1a79027eb8308f20be249ae13ad580fa735a0ac969",
+    "static/revision_v6/histologie/histo_tn3_q7_figure_1.webp": "9b4b68819b76d27db13f2d8e5568db145c1f0ff269ba05c47bbd419b51e96f1d",
+    "static/revision_v6/histologie/histo_autotech_q11_figure_1.webp": "b36ad355b3d3ed5407a85336647b40517be897f98753302355eb578ca3be90a4",
+    "static/revision_v6/histologie/histo_ann_te_q11_figure_1.webp": "6ab00f8403b3db54f929cc56d4aa1107cb163d89ecf9a8fac16f0da07d55923b",
+    "static/revision_v6/histologie/histo_ann_te_q13_figure_1.webp": "1d93f7f2149687a3fd45ea27643df0a802f49bd3a400760e7acbde35e45b123f",
+    "static/revision_v6/histologie/histo_ann_te_q17_figure_1.webp": "f5704191f1da2499bd1e621ed66cc93346708cbc5dac0202b0ceec92d81ec9b2",
+    "static/revision_v6/histologie/histo_ann_te_q24_figure_1.webp": "7927907fa5eab43dd410355bdbbc8a9444d03fbfadded92e1b41dbd3b75e35fd",
+    "static/revision_v6/histologie/histo_ann_tc_q38_figure_1.webp": "dfffb60d287cb3671f268f42eab233b530abd326d1bc7845285ef9b31359abd3",
+    "static/revision_v6/histologie/histo_ann_tn_q8_figure_1.webp": "d011d72da59e87ad005ad75c1c663f0446fa981a5d20483af9f5770ca4c84597",
+    "static/revision_v6/histologie/histo_ann_tn_q56_figure_1.webp": "d43866e5a721505fd174c6b84ed8f5e1a2afaa518e08bf2adb2992295efd3121",
+    "static/revision_v6/histologie/histo_ann_tn_q57_figure_1.webp": "3fbfd9f08d9d4e17599cccdbcf3b693df5807e8ec826fa4e14a66a7281ae4a45",
+    "static/revision_v6/histologie/histo_ann_tn_q60_figure_1.webp": "f7d5c99d07fb919b8f892742a96238703c995cd9c92aad86fafa0bdfacf52c5d",
+    "static/revision_v6/histologie/histo_ann_tech_q11_figure_1.webp": "d379c05fbdec059ecb18027b860eb93fa90dac04e11e2d016715ef9e74c3245d",
+    "static/revision_v6/histologie/histo_ann_tech_q12_figure_1.webp": "d379c05fbdec059ecb18027b860eb93fa90dac04e11e2d016715ef9e74c3245d",
+    "static/revision_v6/histologie/histo_ann_tech_q15_figure_1.webp": "56e608f5dcb80bbba4a81c68fe3e6d5a850ca68cadaebee67b32461182244627",
+    "static/revision_v6/histologie/histo_ann_tech_q21_figure_1.webp": "e6f77ac941324cbd1df50d5a2cf27db731dadd9f6bdac676652b226f06254391",
+    "static/revision_v6/histologie/histo_ann_tech_q22_figure_1.webp": "04eb3829875b47e98b3937032117fdd4bc161593cbbcf542789c5fca7add1d87",
+    "static/revision_v6/histologie/histo_ann_tech_q24_figure_1.webp": "cd8cd91695b59e0ce0a08bca3096433f1781c372f5fcaf6e985e26d90882f423",
+    "static/revision_v6/histologie/histo_ann_tech_q25_figure_1.webp": "361f2082bf9db45bf405e34417057fecb700d617e60b390ebc4d6740a58a7de5",
+    "static/revision_v6/histologie/histo_ann_tech_q30_figure_1.webp": "65f07f9e912618cb1239c20bf89a14ac48e16a425e75bc230171f6376b9273bc",
+    "static/revision_v6/histologie/histo_ann_tech_q35_figure_1.webp": "21cfc5d1a5658c7aa60e3d2c47796c07e063ee0f07aeaeba5c00f89e98b36be0"
+  }
+}

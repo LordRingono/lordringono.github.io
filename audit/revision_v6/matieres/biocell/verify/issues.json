@@ -1,0 +1,1434 @@
+{
+  "status": "no_unresolved_import_blocker_after_approved_changes",
+  "independentFixes": [
+    {
+      "bank": "bio.ann.cm2",
+      "id": 14,
+      "field": "explanations.E",
+      "before": "Il n’y a aucune fluorescence détectée lorsque l’on exprime la mtGFP1-10 et l’α’sinS11. Cela signifie que les deux protéines de fusion ne sont pas entrées en contact, donc que l’α-sin n’est pas",
+      "after": "Il n’y a aucune fluorescence détectée lorsque l’on exprime la mtGFP1-10 et l’α’sinS11. Cela signifie que les deux protéines de fusion ne sont pas entrées en contact, donc que l’α-sin n’est pas présente dans la matrice.",
+      "reason": "La dernière ligne du commentaire E avait été omise.",
+      "evidence": {
+        "file": "Annales CM2 corrigées-1.pdf",
+        "page": 14,
+        "literalTail": "présente dans la matrice."
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 4,
+      "field": "explanations.A",
+      "before": "",
+      "after": "Texte non barré du corrigé : « La séquence de 20 acides aminés hydrophobes correspond vraisemblablement à un segment transmembranaires. On voit que les charges + sont du côté N-ter, ce qui signifie que l’extrémité N-ter se trouvera dans le cytosol. » Le verdict FAUX et la conclusion « Il s’agit donc d’une protéine de type 2 » sont barrés ; l’annotation finale indique VRAI.",
+      "reason": "Les phrases non barrées du paragraphe subsistent dans la source, même après remplacement explicite du verdict.",
+      "evidence": {
+        "file": "Annales corrigées CM4 2018-2025.pdf",
+        "page": 4,
+        "visual": "visual/erratum_bio.ann.cm4_4.png"
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 1,
+      "field": "explanations.A",
+      "before": "",
+      "after": "Compilation générale : « jamais » (A FAUX). Le fichier thématique rature l’item sans verdict explicite ; la question entière reste hors note à cause du désaccord de clé entre les deux versions.",
+      "reason": "Le détail explicitement imprimé dans la compilation doit rester consultable malgré la clé globale discordante.",
+      "evidence": {
+        "file": "Annales_compilation.pdf",
+        "page": 1041
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm8",
+      "id": 1,
+      "field": "explanations.E",
+      "before": "",
+      "after": "Plusieurs mitochondries par cellules et plusieurs copies par mitochondries (complément du corrigé de la compilation générale, p. 1038).",
+      "reason": "Rétablissement du détail E imprimé dans la seconde copie de correction utilisée pour ce QCM.",
+      "evidence": {
+        "file": "Annales_compilation.pdf",
+        "page": 1038
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 3,
+      "field": "generalExplanation",
+      "before": null,
+      "after": "Pour comprendre l’expérience : l’annexine-V et l’IP sont des marqueurs d’apoptose (les cellules en apoptose les expriment fortement). Ici, les cellules situées en bas à gauche des graphiques sont donc en meilleure santé que celles situées en haut à droite. On observe ainsi que l’ouabaïne semble induire l’apoptose des cellules qui y sont exposées.",
+      "reason": "Paragraphe général du corrigé omis dans la version interactive ; formulation officielle conservée.",
+      "evidence": {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 5
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 9,
+      "field": "generalExplanation",
+      "before": null,
+      "after": "Rappel : l’annexine V est un marqueur d’apoptose et l’IP est un marqueur de nécrose et d’apoptose tardive (il marque l’ADN et permet donc d’identifier des cellules dont la membrane plasmique est endommagée).",
+      "reason": "Rappel général imprimé avant les verdicts A–E, absent du texte interactif.",
+      "evidence": {
+        "file": "Annales corrigées CM10 2023-2025.pdf",
+        "page": 9
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 5,
+      "field": "generalExplanation",
+      "before": null,
+      "after": "Vous pouvez répondre à ces 5 items juste avec le cours sans regarder le document.",
+      "reason": "Remarque finale du corrigé scanné rétablie.",
+      "evidence": {
+        "file": "Annales CM2 corrigées-1.pdf",
+        "page": 5,
+        "visual": "visual/anncm2_correction_p5.png"
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 3,
+      "field": "context",
+      "before": "Figure 3 : Les cellules HeLa normales (WT) sont bloquées en phase G1 (Thy) ou en mitose par un agent empêchant la dépolymérisation du fuseau mitotique (Noc). Un traitement additionnel par Ro3306, un inhibiteur de CDK1 a été réalisé dans la condition Noe +Ro3306. Une analyse des lysats est réalisée selon les mêmes modalités techniques qu'a la figure 1, QRM40\n\nModalités techniques rappelées de la figure 1 :  Une analyse du contenu en protéines des 11 lysats est réalisée, grâce à des anticorps reconnaissant : La forme phosphorylée en position Thr19 (pThr19-LMNA /C) ou en position Ser22 (pSer22-LMNA/C) des - lamines A (LMNA) et C (LMNC), Les lamines A et C (Lamin A, Lamin C) (protéines totales : phosphorylées et non phosphorylées), - La cycline B (cyclin B) et la tubuline (Tubulin) -",
+      "after": "Figure 3 : Les cellules HeLa normales (WT) sont bloquées en phase G1 (Thy) ou en mitose par un agent empêchant la dépolymérisation du fuseau mitotique (Noc). Un traitement additionnel par Ro3306, un inhibiteur de CDK1 a été réalisé dans la condition Noc +Ro3306. Une analyse des lysats est réalisée selon les mêmes modalités techniques qu'a la figure 1, QRM40\n\nModalités techniques rappelées de la figure 1 :  Une analyse du contenu en protéines des 11 lysats est réalisée, grâce à des anticorps reconnaissant : La forme phosphorylée en position Thr19 (pThr19-LMNA /C) ou en position Ser22 (pSer22-LMNA/C) des - lamines A (LMNA) et C (LMNC), Les lamines A et C (Lamin A, Lamin C) (protéines totales : phosphorylées et non phosphorylées), - La cycline B (cyclin B) et la tubuline (Tubulin) -",
+      "reason": "Correction de transcription du nom de la condition Noc, confirmé sur le sujet et la figure.",
+      "evidence": {
+        "file": "Annales CM2 non corrigées.pdf",
+        "page": 3,
+        "visual": "visual/anncm2_subject_p3.png"
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.cm6",
+      "id": 7,
+      "field": "reviewNotes.ue5-063",
+      "before": {
+        "bank": "bio.cm6",
+        "id": 7,
+        "items": [
+          "D"
+        ],
+        "kind": "roneo_conflict",
+        "text": "L’item D sur l’asymétrie est retenu. Son explication inverse toutefois le sens de la floppase : la ronéo décrit un mouvement du feuillet interne vers le feuillet externe. Le mouvement inverse correspond aux flippases décrites dans le même passage.",
+        "refs": [
+          {
+            "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+            "page": 8,
+            "label": "Flippases, floppases et scramblases",
+            "href": "sources/revision_v4/roneo_CM6_MP_2026_Actualisee_a9adb03638.pdf#page=8"
+          }
+        ],
+        "sourceVerdict": "Clé officielle appliquée : non déterminable ; hors note",
+        "reviewedItemText": {
+          "D": "Les floppases contribuent à l’asymétrie membranaire"
+        },
+        "reviewedExplanation": {
+          "D": ""
+        },
+        "noteId": "ue5-063"
+      },
+      "after": {
+        "bank": "bio.cm6",
+        "id": 7,
+        "items": [
+          "D",
+          "E"
+        ],
+        "kind": "import_mapping_resolved",
+        "text": "La réserve antérieure sur le sens de la floppase provenait d’un décalage d’import : le commentaire « quand il est à l’extérieur elles le remettent sur le feuillet interne » appartient à l’item sur les flippases, soit E dans le sujet et D dans le corrigé. Il a été réattribué à E ; aucun commentaire de ce type n’est imprimé pour les floppases. La ronéo p. 8 confirme flippases externe → interne et floppases interne → externe. Le véritable défaut documentaire restant est l’absence de l’item B du sujet dans le corrigé ; la question reste hors note.",
+        "refs": [
+          {
+            "file": "roneo CM6 MP 2026 - Actualisee.pdf",
+            "page": 8,
+            "label": "Flippases, floppases et scramblases",
+            "href": "sources/revision_v4/roneo_CM6_MP_2026_Actualisee_a9adb03638.pdf#page=8"
+          }
+        ],
+        "sourceVerdict": "Clé officielle appliquée : non déterminable ; hors note",
+        "reviewedItemText": {
+          "D": "Les floppases contribuent à l’asymétrie membranaire",
+          "E": "Les flippases utilisent de l’ATP pour faire pivoter le phosphatidyl éthanolamide"
+        },
+        "reviewedExplanation": {
+          "D": "",
+          "E": "quand il est à l’extérieur elles le remettent sur le feuillet interne"
+        },
+        "noteId": "ue5-063"
+      },
+      "reason": "La note ancienne décrivait une explication désormais réattribuée à son véritable item.",
+      "evidence": {
+        "correction": "CORRECTION AUTOTEST CM6 LES MEMBRANES(1).docx",
+        "page": 2,
+        "course": "roneo CM6 MP 2026 - Actualisee.pdf",
+        "coursePage": 8
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.cm8",
+      "id": 10,
+      "field": "reviewNotes.ue5-078",
+      "before": {
+        "bank": "bio.cm8",
+        "id": 10,
+        "items": [
+          "B",
+          "F"
+        ],
+        "kind": "roneo_conflict",
+        "text": "Le préambule contient un lapsus : les caspases sont des cystéinyl-aspartate protéases, et non des « arginine aspartate protéase ». Pour E, la ronéo place l’activation du récepteur FAS par son ligand avant le recrutement des adaptateurs et des procaspases 8/10 dans le DISC. Les caspases ne forment donc pas ce complexe en activant d’abord FAS. Pour A, lire apoptosome, assemblé avec APAF1 et le cytochrome c.",
+        "refs": [
+          {
+            "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+            "page": 5,
+            "label": "Nature des caspases et apoptosome",
+            "href": "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf#page=5"
+          },
+          {
+            "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+            "page": 6,
+            "label": "Activation de FAS par le ligand",
+            "href": "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf#page=6"
+          },
+          {
+            "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+            "page": 7,
+            "label": "Recrutement des caspases 8/10 dans le DISC",
+            "href": "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf#page=7"
+          }
+        ],
+        "sourceVerdict": "Clé officielle appliquée : BDEF",
+        "reviewedItemText": {
+          "B": "Les caspases initiatrices comme la caspase 9, sont activées par la voie intrinsèque et se regroupent en apoptose sous l’effet du cytochrome C",
+          "F": "Les caspases 8 et 10 permettent la formation du DISCosome par activation de FAS"
+        },
+        "reviewedExplanation": {
+          "B": ", elles forment alors des apoptosomes avec la protéine Afap1",
+          "F": ""
+        },
+        "noteId": "ue5-078"
+      },
+      "after": {
+        "bank": "bio.cm8",
+        "id": 10,
+        "items": [
+          "A",
+          "B",
+          "F"
+        ],
+        "kind": "roneo_conflict",
+        "text": "Le lapsus de l’item A (« arginine aspartate protéase ») est explicitement corrigé dans la source : les caspases sont des cystéinyl-aspartate protéases. Pour F, la ronéo place l’activation du récepteur FAS par son ligand avant le recrutement des adaptateurs et des procaspases 8/10 dans le DISC. Les caspases ne forment donc pas ce complexe en activant d’abord FAS. Pour B, lire apoptosome, assemblé avec APAF1 et le cytochrome c. Ces lettres correspondent aux huit propositions restaurées du sujet ; la clé BDEF du corrigé est conservée.",
+        "refs": [
+          {
+            "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+            "page": 5,
+            "label": "Nature des caspases et apoptosome",
+            "href": "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf#page=5"
+          },
+          {
+            "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+            "page": 6,
+            "label": "Activation de FAS par le ligand",
+            "href": "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf#page=6"
+          },
+          {
+            "file": "CM8 Ronéo 2026 - Actualisee.pdf",
+            "page": 7,
+            "label": "Recrutement des caspases 8/10 dans le DISC",
+            "href": "sources/revision_v4/CM8_Roneo_2026_Actualisee_e4a8873297.pdf#page=7"
+          }
+        ],
+        "sourceVerdict": "Clé officielle appliquée : BDEF",
+        "reviewedItemText": {
+          "A": "Les caspases sont des arginine aspartate protéase",
+          "B": "Les caspases initiatrices comme la caspase 9, sont activées par la voie intrinsèque et se regroupent en apoptose sous l’effet du cytochrome C",
+          "F": "Les caspases 8 et 10 permettent la formation du DISCosome par activation de FAS"
+        },
+        "reviewedExplanation": {
+          "A": "cystéinyl aspartate protéase",
+          "B": ", elles forment alors des apoptosomes avec la protéine Afap1",
+          "F": ""
+        },
+        "noteId": "ue5-078"
+      },
+      "reason": "La prose de la note conservait les anciens lettrages E/A malgré le rétablissement de huit items.",
+      "evidence": {
+        "course": "CM8 Ronéo 2026 - Actualisee.pdf",
+        "pages": [
+          5,
+          6,
+          7
+        ]
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 16,
+      "field": "reviewNotes.review-v4-ue5-visual-016",
+      "before": null,
+      "after": {
+        "bank": "bio.ann.cm5",
+        "id": 16,
+        "items": [],
+        "kind": "reference_restored",
+        "text": "La consigne renvoie à la figure 6 et aux informations précédentes. La figure expérimentale, absente de l’ancien extrait, a été retrouvée à la page 11 du sujet original : les six constructions GFP et leurs images sont désormais présentées avec le protocole UBQLN2/MTM1 de la page 10. Aucune image n’a été reconstruite. La limite documentaire signalée par cette note est donc résolue ; la clé AB reste celle du corrigé.",
+        "refs": [
+          {
+            "file": "Annales CM5 2018-2025.pdf",
+            "page": 10,
+            "label": "Texte UBQLN2/MTM1 et Q51 renvoyant à la figure6",
+            "href": "sources/revision_v4/Annales_CM5_2018_2025_e28d5cc12f.pdf#page=10"
+          },
+          {
+            "file": "Annales corrigées CM5 2018-2025.pdf",
+            "page": 14,
+            "label": "Correction de Q51",
+            "href": "sources/revision_v4/Annales_corrigees_CM5_2018_2025_b781e9e7fe.pdf#page=14"
+          },
+          {
+            "file": "Annales CM5 2018-2025.pdf",
+            "page": 11,
+            "label": "Figure 6 originale : constructions GFP et immunofluorescence",
+            "href": "sources/revision_v4/Annales_CM5_2018_2025_e28d5cc12f.pdf#page=11"
+          }
+        ],
+        "sourceVerdict": "Clé officielle appliquée : AB",
+        "courseVerdict": "Figure expérimentale originale retrouvée et présentée avec son protocole.",
+        "noteId": "review-v4-ue5-visual-016"
+      },
+      "reason": "Conserver la note historique supprimée en préparation, avec sa limite explicitement résolue par la figure retrouvée.",
+      "evidence": {
+        "file": "Annales CM5 2018-2025.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 5,
+      "field": "context",
+      "before": "Figure 2 : La lignée cellulaire END-MSC a été pré-traitée par 2 µM d’étoposide (Etoposide) pendant 3 jours ou non traitée (control), puis après 3 jours de remise en culture sans traitement, un nouveau traitement de 3 jours par 1 µM de ouabaïne (ouabain-treated) est réalisé ou non (non-treated). Une analyse en cytométrie de flux après marquage par Annexine-V (Annexin-V) et par iodure de propidium (propidium iodide, IP), qui marque les cellules perméabilisées, est alors réalisée. La quantification est montrée en histogramme ; NS : pas de différence significative ; *** : différence significative.",
+      "after": "Expérience précédente — Figure 1 : La lignée cellulaire END-MSC a été cultivée pendant 3 jours sans (control) ou avec 2 µM d’étoposide, puis remise en culture 3 jours sans traitement. Le nombre de cellules a été comptabilisé à jour 1 (J1) et à jour 3 (J3) après remise en culture (A). Un test à la bêta-galactosidase acide a été réalisé à J3 et l’activité bêta-galactosidase acide a été mesurée à J3 (B). Le « forward scatter » (faisceau transmis) a été analysé en cytométrie en flux (C). L’expression de p21 a été analysée en western-blot, en même temps que celle d’un gène de ménage GAPDH (D).\n\nFigure 2 : La lignée cellulaire END-MSC a été pré-traitée par 2 µM d’étoposide (Etoposide) pendant 3 jours ou non traitée (control), puis après 3 jours de remise en culture sans traitement, un nouveau traitement de 3 jours par 1 µM de ouabaïne (ouabain-treated) est réalisé ou non (non-treated). Une analyse en cytométrie de flux après marquage par Annexine-V (Annexin-V) et par iodure de propidium (propidium iodide, IP), qui marque les cellules perméabilisées, est alors réalisée. La quantification est montrée en histogramme ; NS : pas de différence significative ; *** : différence significative.",
+      "reason": "Le raisonnement du corrigé renvoie à la question précédente ; son protocole et sa figure sont fournis pour rendre le QCM autonome.",
+      "evidence": {
+        "file": "Annales CM2 non corrigées.pdf",
+        "pages": [
+          4,
+          5
+        ],
+        "correction": "Annales corrigées CM10 2023-2025.pdf",
+        "correctionPage": 5
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 5,
+      "field": "images",
+      "before": [
+        "static/revision_v6/ab9941d12e5b93be6e22d23c.webp"
+      ],
+      "after": [
+        "static/revision_v6/dd842b53b85ccfee85b74e94.webp",
+        "static/revision_v6/ab9941d12e5b93be6e22d23c.webp"
+      ],
+      "reason": "Rattachement de la figure 1 déjà vérifiée, sans création de dessin ni de nouvelle figure unique.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "page": 4,
+        "rect": [
+          36.0,
+          171.7,
+          559.3,
+          469.9
+        ],
+        "purpose": "figure_or_shared_context"
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 3,
+      "field": "context",
+      "before": "Figure 2 : La lignée cellulaire END-MSC a été pré-traitée par 2 µM d’étoposide (Etoposide) pendant 3 jours ou non traitée (control), puis après 3 jours de remise en culture sans traitement, un nouveau traitement de 3 jours par 1 µM de ouabaïne (ouabain-treated) est réalisé ou non (non-treated). Une analyse en cytométrie de flux après marquage par Annexine-V (Annexin-V) et par iodure de propidium (propidium iodide, IP), qui marque les cellules perméabilisées, est alors réalisée. La quantification est montrée en histogramme ; NS : pas de différence significative ; *** : différence significative.",
+      "after": "Expérience précédente — Figure 1 : La lignée cellulaire END-MSC a été cultivée pendant 3 jours sans (control) ou avec 2 µM d’étoposide, puis remise en culture 3 jours sans traitement. Le nombre de cellules a été comptabilisé à jour 1 (J1) et à jour 3 (J3) après remise en culture (A). Un test à la bêta-galactosidase acide a été réalisé à J3 et l’activité bêta-galactosidase acide a été mesurée à J3 (B). Le « forward scatter » (faisceau transmis) a été analysé en cytométrie en flux (C). L’expression de p21 a été analysée en western-blot, en même temps que celle d’un gène de ménage GAPDH (D).\n\nFigure 2 : La lignée cellulaire END-MSC a été pré-traitée par 2 µM d’étoposide (Etoposide) pendant 3 jours ou non traitée (control), puis après 3 jours de remise en culture sans traitement, un nouveau traitement de 3 jours par 1 µM de ouabaïne (ouabain-treated) est réalisé ou non (non-treated). Une analyse en cytométrie de flux après marquage par Annexine-V (Annexin-V) et par iodure de propidium (propidium iodide, IP), qui marque les cellules perméabilisées, est alors réalisée. La quantification est montrée en histogramme ; NS : pas de différence significative ; *** : différence significative.",
+      "reason": "Le raisonnement du corrigé renvoie à la question précédente ; son protocole et sa figure sont fournis pour rendre le QCM autonome.",
+      "evidence": {
+        "file": "Annales CM2 non corrigées.pdf",
+        "pages": [
+          4,
+          5
+        ],
+        "correction": "Annales corrigées CM10 2023-2025.pdf",
+        "correctionPage": 5
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 3,
+      "field": "images",
+      "before": [
+        "static/revision_v6/ab9941d12e5b93be6e22d23c.webp"
+      ],
+      "after": [
+        "static/revision_v6/dd842b53b85ccfee85b74e94.webp",
+        "static/revision_v6/ab9941d12e5b93be6e22d23c.webp"
+      ],
+      "reason": "Rattachement de la figure 1 déjà vérifiée, sans création de dessin ni de nouvelle figure unique.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM2 non corrigées.pdf",
+        "page": 4,
+        "rect": [
+          36.0,
+          171.7,
+          559.3,
+          469.9
+        ],
+        "purpose": "figure_or_shared_context"
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.cm5",
+      "id": 17,
+      "field": "crops.subject[0].rect",
+      "before": [
+        0,
+        474.11,
+        595.303955078125,
+        605.79
+      ],
+      "after": [
+        0,
+        477.9,
+        595.303955078125,
+        605.79
+      ],
+      "reason": "Exclusion d’un fragment voisin sans couper le premier ni le dernier glyphe du QCM.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm5_subject/AUTOTEST CM5.pdf",
+        "page": 3
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.cm6",
+      "id": 1,
+      "field": "crops.subject[0].rect",
+      "before": [
+        0,
+        63.11,
+        595.303955078125,
+        145.91
+      ],
+      "after": [
+        0,
+        63.11,
+        595.303955078125,
+        135.9
+      ],
+      "reason": "Exclusion d’un fragment voisin sans couper le premier ni le dernier glyphe du QCM.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+        "page": 1
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.cm6",
+      "id": 2,
+      "field": "crops.subject[0].rect",
+      "before": [
+        0,
+        145.91,
+        595.303955078125,
+        256.31
+      ],
+      "after": [
+        0,
+        149.6,
+        595.303955078125,
+        256.31
+      ],
+      "reason": "Exclusion d’un fragment voisin sans couper le premier ni le dernier glyphe du QCM.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+        "page": 1
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.cm6",
+      "id": 10,
+      "field": "crops.subject[0].rect",
+      "before": [
+        0,
+        515.51,
+        595.303955078125,
+        612.11
+      ],
+      "after": [
+        0,
+        519.25,
+        595.303955078125,
+        612.11
+      ],
+      "reason": "Exclusion d’un fragment voisin sans couper le premier ni le dernier glyphe du QCM.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+        "page": 2
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 6,
+      "field": "crops.subject[0].rect",
+      "before": [
+        0,
+        100.4499,
+        595.0,
+        541.6898
+      ],
+      "after": [
+        0,
+        104.35,
+        595.0,
+        541.6898
+      ],
+      "reason": "Exclusion d’un fragment voisin sans couper le premier ni le dernier glyphe du QCM.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+        "page": 1325
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 8,
+      "field": "figureCrop",
+      "before": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "page": 6,
+        "rect": [
+          111.4,
+          107.0,
+          540.3,
+          478.4
+        ],
+        "purpose": "figure_or_shared_context",
+        "label": "Figure originale complète, sans items ni annotation de correction"
+      },
+      "after": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "page": 6,
+        "rect": [
+          111.4,
+          132.0,
+          540.3,
+          478.4
+        ],
+        "purpose": "figure_or_shared_context",
+        "label": "Figure 7 complète, protocole et résultats ; le titre marginal Hors Programme est exclu du cadrage"
+      },
+      "reason": "Le cadrage reprenait le e final de la mention marginale Hors Programme ; le nouveau bord commence avant la légende Figure 7.",
+      "evidence": {
+        "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+        "page": 6
+      },
+      "status": "fixed_in_approved_files"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 5,
+      "field": "crops.subjectNote",
+      "before": "Copie non annotée de la compilation générale. Les cinq propositions et la figure ont été rapprochées individuellement de l’annale thématique ; les ratures du fichier thématique n’ont pas été effacées.",
+      "after": "Copie non annotée de la compilation générale. Les cinq propositions et la figure ont été rapprochées individuellement de l’annale thématique ; les ratures du fichier thématique n’ont pas été effacées. La rubrique du document thématique indique « session 2 » ; le sujet général de la compilation identifie cette même question 42 et ses cinq items en session 1 2023–2024. La session 1 affichée est conservée.",
+      "reason": "Documenter la divergence d’intitulé entre deux reproductions du même QCM.",
+      "evidence": {
+        "thematicFile": "Annales CM5 2018-2025.pdf",
+        "thematicPages": [
+          4,
+          5
+        ],
+        "compilationPanels": [
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf",
+            "page": 1142,
+            "rect": [
+              0,
+              350.0499,
+              595.0,
+              670.0898
+            ]
+          },
+          {
+            "file": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales CM5 2018-2025.pdf",
+            "page": 4,
+            "rect": [
+              79.1,
+              523.0,
+              316.1,
+              700.2
+            ],
+            "purpose": "figure_or_shared_context",
+            "label": "Figure originale complète, sans items ni annotation de correction"
+          }
+        ]
+      },
+      "status": "fixed_in_approved_files"
+    }
+  ],
+  "keysChangedByVerifier": 0,
+  "retiredLegacyGraphics": [
+    {
+      "bank": "bio.ann.cm2",
+      "id": 1,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_cm2_2025_scan_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 1,
+      "field": "correctionImage",
+      "oldValue": "static/bio_cm2_2025_correction_1.webp",
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 2,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_cm2_2025_scan_2.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 2,
+      "field": "correctionImage",
+      "oldValue": "static/bio_cm2_2025_correction_2.webp",
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 3,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_cm2_2025_scan_3.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 3,
+      "field": "correctionImage",
+      "oldValue": "static/bio_cm2_2025_correction_3.webp",
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 4,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_004_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 5,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_005_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 6,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_006_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 7,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_007_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 8,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_008_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 9,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_009_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 10,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_010_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 11,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_011_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 12,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_012_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 13,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_013_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 14,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_014_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm2",
+      "id": 15,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm2_015_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 1,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_001_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 3,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_003_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 4,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_004_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 5,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_005_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 6,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_006_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 8,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_008_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 9,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_009_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 10,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_010_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 11,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_011_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 12,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_012_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm3",
+      "id": 13,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm3_013_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 1,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm4_001_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 2,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm4_002_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 3,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm4_003_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 4,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm4_004_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "id": 6,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm4_006_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 1,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_001_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 3,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_003_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 4,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_004_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 5,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_005_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 8,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_008_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 9,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_009_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 10,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_010_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 11,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_011_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 12,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_012_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 13,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_013_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 16,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm5_016_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 1,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_001_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 2,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_002_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 6,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_006_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 7,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_007_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 11,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_011_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 12,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_012_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 13,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_013_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 15,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_015_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 16,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_016_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 22,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_022_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "id": 24,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm6_024_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 1,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_001_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 2,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_002_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 3,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_003_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 4,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_004_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 5,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_005_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 6,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_006_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 7,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_007_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 8,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_008_1.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 9,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_009_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm7",
+      "id": 11,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm7_011_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 2,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm10_002_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 3,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm10_003_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 4,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm10_004_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 8,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm10_008_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 9,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm10_009_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "id": 10,
+      "field": "originalImages",
+      "oldValue": [
+        "static/bio_ann_cm10_010_context.webp"
+      ],
+      "replacement": "sourceCopies generated from approved_crops.json"
+    }
+  ],
+  "preparerFixesIndependentlyConfirmed": {
+    "restoredQuestionIds": [
+      {
+        "bank": "bio.cm7",
+        "ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "bank": "bio.cm8",
+        "ids": [
+          17
+        ]
+      },
+      {
+        "bank": "bio.ann.cm4",
+        "ids": [
+          9
+        ]
+      },
+      {
+        "bank": "bio.ann.cm9",
+        "ids": [
+          10
+        ]
+      }
+    ],
+    "explicitGraphicalVerdicts": 13,
+    "cleanSubjects": 48,
+    "wordCropping": {
+      "bio.cm3": "l=40501 ; seuls C et D sont visibles dans le Word",
+      "bio.cm8": "l=16694, t=24751, r=60826, b=48275"
+    },
+    "nativeEmptyKeys": [
+      {
+        "bank": "bio.cm4",
+        "id": 10
+      },
+      {
+        "bank": "bio.cm7",
+        "id": 2
+      },
+      {
+        "bank": "bio.cm7",
+        "id": 8
+      },
+      {
+        "bank": "bio.ann.cm6",
+        "id": 24
+      }
+    ],
+    "preservedPrintedVsV5Weight": {
+      "bank": "bio.ann.cm8",
+      "ids": [
+        6,
+        7
+      ],
+      "printed": 1.5,
+      "interactive": 1
+    }
+  },
+  "documentedNativeImageDefects": [
+    {
+      "figure": 13,
+      "issue": "La première ligne de légende est déjà coupée à droite dans l’image incorporée ; le contexte textuel restitue le protocole."
+    },
+    {
+      "figure": 17,
+      "issue": "Quelques fragments de pixels sont déjà présents au-dessus du panneau A dans l’image incorporée."
+    },
+    {
+      "figure": 30,
+      "issue": "Le fragment de titre incliné est inclus dans l’image incorporée à la source ; aucune suppression artificielle."
+    },
+    {
+      "figure": 40,
+      "issue": "Le dessin est coupé au bord droit dans l’image incorporée de la source."
+    },
+    {
+      "figure": 55,
+      "issue": "Les limites du petit graphique correspondent exactement au raster incorporé."
+    }
+  ],
+  "sourceLimitations": [
+    {
+      "bank": "bio.cm6",
+      "id": 7,
+      "type": "missing_verdict",
+      "description": "Corrigé incomplet : le sujet comporte un item B (« Les PL ont des mouvements de flip flop spontanés ») absent du corrigé. La question reste hors note.",
+      "sourcesExamined": [
+        "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_subject/AUTOTEST CM6 LES MEMBRANES(1).pdf",
+        "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm6_correction/CORRECTION AUTOTEST CM6 LES MEMBRANES(1).pdf",
+        "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/biocell_individual/AUTOTEST CM6 LES MEMBRANES(1).pdf"
+      ],
+      "request": "Fournir une version harmonisée sujet/corrigé ou une confirmation officielle du tutorat.",
+      "independentVerification": "confirmed"
+    },
+    {
+      "bank": "bio.cm10",
+      "id": 1,
+      "type": "source_discrepancy",
+      "description": "Le sujet fusionne deux propositions dans A et ne comporte que quatre items ; le corrigé comporte cinq items. La question reste hors note ; les correspondances détaillées sont indiquées après validation.",
+      "sourcesExamined": [
+        "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm10_subject/AUTOTEST CM10 MORT CELLULAIRE.pdf",
+        "/workspace/scratch/f3cb3bb97377/work/site_v6/render/biocell/bio_cm10_correction/CORRECTION autotest CM10 MORT CELLULAIRE.pdf",
+        "/workspace/scratch/f3cb3bb97377/work/site_v6/materialized/biocell_individual/AUTOTEST CM10 MORT CELLULAIRE.pdf"
+      ],
+      "request": "Fournir une version harmonisée sujet/corrigé ou une confirmation officielle du tutorat.",
+      "independentVerification": "confirmed"
+    },
+    {
+      "bank": "bio.ann.cm6",
+      "ids": [
+        25
+      ],
+      "type": "clean_subject_missing",
+      "request": "Sujet non annoté UE5 2017–2018, Q42 « Membranes » (énoncés liposomes, Ras-GPI, sphingolipides, membrane mitochondriale externe, glycolipides golgiens).",
+      "available": {
+        "subject": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/ACC membranes biologiques.pdf",
+        "page": 15,
+        "correction": "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Correction ACC membranes biologiques.pdf"
+      },
+      "searched": [
+        "Documents originaux initiaux",
+        "Sources revision_v4",
+        "Compilation générale UE5, années présentes à partir de 2018–2019"
+      ],
+      "impact": "Texte interactif et clé conservés ; la copie annotée est consultable après validation uniquement.",
+      "independentVerification": "confirmed"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 1,
+      "type": "ambiguous_official_key",
+      "description": "Ratures sans légende dans le corrigé thématique et désaccord avec la grille de la compilation ; aucune clé officielle unique ne peut être déterminée. Question hors note.",
+      "sourcesExamined": [
+        "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+      ],
+      "evidencePages": {
+        "thematic": 1,
+        "compilation": 1041
+      },
+      "request": "Confirmation officielle de la clé finale applicable à cette édition du QCM.",
+      "independentVerification": "confirmed"
+    },
+    {
+      "bank": "bio.ann.cm5",
+      "id": 2,
+      "type": "ambiguous_official_key",
+      "description": "Ratures sans légende dans le corrigé thématique et désaccord avec la grille de la compilation ; aucune clé officielle unique ne peut être déterminée. Question hors note.",
+      "sourcesExamined": [
+        "/workspace/scratch/f3cb3bb97377/work/histo_v5/old_source/Annales corrigées CM5 2018-2025.pdf",
+        "/workspace/scratch/f3cb3bb97377/output/site/sources/Annales_compilation.pdf"
+      ],
+      "evidencePages": {
+        "thematic": 1,
+        "compilation": 1041
+      },
+      "request": "Confirmation officielle de la clé finale applicable à cette édition du QCM.",
+      "independentVerification": "confirmed"
+    },
+    {
+      "bank": "bio.ann.cm10",
+      "ids": [
+        7,
+        12
+      ],
+      "type": "course_for_scientific_arbitration_missing",
+      "request": "Ronéo complète CM10 mort cellulaire/sénescence 2026, en particulier le phénotype sécrétoire et les cytokines pro-inflammatoires.",
+      "sourcesExamined": [
+        "Annales CM10 2023-2025.pdf",
+        "Annales corrigées CM10 2023-2025.pdf",
+        "Autotest CM10 et corrigé",
+        "Inventaire complet sources/revision_v4 et archive initiale"
+      ],
+      "impact": "Les deux clés officielles divergentes restent notées selon leur corrigé ; les réserves existantes sont conservées après validation.",
+      "independentVerification": "confirmed",
+      "alsoNeededFor": [
+        {
+          "bank": "bio.cm10",
+          "id": 3,
+          "item": "A",
+          "reason": "p16, transcription de la cycline D : réserve existante non arbitrable sans ronéo CM10."
+        }
+      ]
+    }
+  ],
+  "unresolvedImportIssues": []
+}

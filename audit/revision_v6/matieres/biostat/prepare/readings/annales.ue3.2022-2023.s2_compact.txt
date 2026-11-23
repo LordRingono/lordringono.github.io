@@ -1,0 +1,180 @@
+Q1 · clé B
+SUJET
+Exercice 1
+Vous avez ci-dessous l'histogramme des 8100 mesures que vous avez collectées dans le cadre d'une étude
+(n = 8100).
+1. Parmi tes propositions suivantes, cochez la valeur qui correspond au mode de la distribution observée des
+mesures (cf. figure ci-dessus).
+A. 0,5
+B. 1,5
+C. 2,5
+D. 3,5
+E. 4,5
+CORRIGÉ
+B
+A. FAUX : Le mode correspond au centre de classe la plus haute (celle entre 1 et 2) donc le mode est 1,5
+B. VRAI
+C. FAUX
+D. FAUX
+E. FAUX
+NOTES
+
+
+===
+
+Q2 · clé BD
+SUJET
+La moyenne m des mesures est de 2,70 avec un écart type estimé s de 1'20' On rappelle que m est une
+estimation de l'espérance p. Vous devez estimer l'intervalle de confiance à 95 %de 𝜇. Vous conserverez deux
+décimales pour la borne supérieure de cet intervalle'
+4
+3 ≈1,3
+Aide au calcul:
+2. Parmi les propositions suivantes, cochez la (ou les) proposition(s) exacte(s).
+A. La borne supérieure de l'intervalle de confiance à 95 % de µ est donnée par la formule m+2s
+𝑠
+B. La borne supérieure de I ‘intervalle de confiance à 95 % µ est donnée par la formule m+2
+√𝑛
+C. La borne supérieure de l'intervalle de confiance à 95 % µ est 2,70
+D. La borne supérieure de I’ intervalle de confiance à 95 % de µ est de 2,73
+E. La borne supérieure de l'intervalle de confiance à 95 % de µ est de 2,76.
+CORRIGÉ
+BD
+A. FAUX : On cherche à calculer l’intervalle de confiance, la formule est donnée dans le cours sur
+l’estimation, chap 4 p16/16. Ici la formule ressemble à celle de l’intervalle de fluctuation mais avec
+des paramètres estimés (utilisés dans l’intervalle de confiance).
+B. VRAI
+C. FAUX : Quand on applique la formule, on trouve 2,726. On nous demande d’arrondir à deux
+décimales : 2.73 (ne pas oublier de majorer la borne sup)
+D. VRAI
+E. FAUX
+NOTES
+
+
+===
+
+Q3 · clé AD
+SUJET
+Dans cette même étude, la question posée est de savoir si les mesures peuvent provenir d'une population
+de mesures dont la vraie moyenne p est de 3,00'
+3.  Parmi les propositions suivantes, cochez-la (ou les) proposition(s) exacte(s).
+A.  Vous pouvez effectuer un test de comparaison d'une moyenne estimée (2,70) à une valeur théorique
+(3,00) pour répondre à la question posée
+B. L'hypothèse nulle de ce test serait H0 : μ = 3,00
+C. L'hypothèse alternative de ce test serait H1 : m = 3,00
+D. Comme 3,00 n'est pas dans l'intervalle de confiance à 95 % de μ, on rejette I’hypothèse nulle du test
+évoqué précédemment au risque 5%
+E. Vous êtes obligé de faire le test évoqué à I'item A pour répondre à la question posée
+CORRIGÉ
+AD
+A. VRAI
+B. FAUX : H0 est m = 3,00
+C. FAUX : voir item B
+D. VRAI
+E. FAUX : voir item D
+NOTES
+B est donné faux au motif que H0 serait m=3,00. C’est l’inverse : l’hypothèse nulle porte sur l’espérance inconnue μ de la population, H0: μ=3,00 ; m=2,70 est la moyenne déjà observée. B devrait donc être vrai. Le verdict de la source est conservé ; confirmation pédagogique à demander à la ronéo UE3 « Tests d’hypothèses / comparaison d’une moyenne à une référence ».
+
+===
+
+Q4 · clé B
+SUJET
+Une étude a évalué les performances du dosage de la protéine Alpha synucléine dans le liquide céphalo
+rachidien pour le diagnostic de la maladie de Parkinson. La sensibilité du test a été estimée à 96% et la
+spécificité a 88%.
+4. Parmi les propositions suivantes, cochez-la (ou les) proposition(s) exacte(s).
+A. Le test permet d'identifier 88% des cas de Parkinson.
+B. Sur 100 personnes non atteintes de Parkinson, le test classerait à tort 12 personnes comme étant
+atteintes de cette maladie.
+C. En cas de test négatif, il y a 88% de chance qu'une personne ne soit pas atteinte de la maladie de
+Parkinson.
+D. En cas de test négatif, il y a 96% de chance qu'une personne ne soit pas atteinte de la maladie de
+Parkinson.
+E. Ce test détecte plus facilement les sujets avec Parkinson dans une population de parkinsoniens qu’il ne
+classe correctement les individus dans une population exempte de cette maladie
+CORRIGÉ
+B
+A. FAUX : Le test permet d’identifier 96% des cas de parkinson (la sensibilité)
+B. VRAI : On nous demande ici le nombre de faux positifs qui est effectivement de 1-Spé donc 12%
+C. FAUX : On nous demande ici la VPN que l’on ne peut pas calculer a cause du manque d’information, de
+plus ils ne sont pas égaux a Se ni a Spé
+D. FAUX : CF c
+E. FAUX : L’issu du test ne dépend pas de la prévalence.
+NOTES
+E est donné faux avec une explication sur la prévalence, alors que l’item compare deux probabilités conditionnelles : détecter les malades (sensibilité 96 %) et classer les non-malades (spécificité 88 %). Puisque 96 % > 88 %, E est vrai dans les données de l’exercice. La prévalence n’intervient pas dans cette comparaison. Clé du tutorat conservée ; à confirmer dans la ronéo UE3 sur les performances diagnostiques.
+
+===
+
+Q5 · clé CD
+SUJET
+La prévalence de la maladie de Parkinson tout âge confondu est de 3 pour 1000 personnes
+5.  Parmi les propositions suivantes, cochez-la (ou les) proposition(s) exacte(s).
+A. La probabilité pré-test de maladie de Parkinson et de 3/997.
+B. En cas de test Alpha synucléine positif, le risque de maladie est multiplié par 8.
+C. En cas de test Alpha synucléique positif, l’odds de la maladie est multiplié par 8.
+D. En cas de test Alpha synucléine positif, l’odds de la maladie post test est de 8 x 3 /997.
+E. Chez les personnes âgées, pour lesquelles la probabilité de la maladie pré-test et plus élevée que pour
+des personnes tout âge confondu, la probabilité post-test serait identique à celle obtenue tout âge
+confondu.
+CORRIGÉ
+CD
+A. FAUX : Proba = 3/1000 la valeur qu’on nous donne ici est l’odds.
+B. FAUX
+C. VRAI : RV+ = 96/12 = 8. C’est l’odds de la maladie qui est multiplié par 8 en cas de test positif.
+D. VRAI : En cas de test positif, odds post test = Odds pré-test x RV+ = 8 x 3/997
+E. FAUX : la probabilité post test (VPP) augmente avec la prévalence, elle ne serait donc pas identique.
+NOTES
+
+
+===
+
+Q6 · clé ABCD
+SUJET
+Exercice 3
+Un essai clinique a été mené pour évaluer l'intérêt de l'ajout de Tislezumab (un anticorps anti PD-1) à la
+chimiothérapie classique chez des patients atteints d'un cancer de l'æsophage métastatique' Trois cents
+patients ont été randomisés dans le groupe Tislzumab + chimiothérapie, et 300 dans le groupe
+chimiothérapie seule. Le critère de jugement principal était le décès à un an de la randomisation' Les
+résultats de l'étude sont indiqués ci-dessous :
+6. Les propositions suivantes, cochez-la (ou les) proposition(s) exacte(s).
+A. Le risque de décès à un an dans le groupe Tislezumab + chimiothérapie est estimé à 0,4.
+B. L’odds de décès à un an dans le groupe Tislezumab + chimiothérapie est estimé à 2/3.
+C. Le risque de décès à un an est plus faible dans le groupe Tislezumab + chimiothérapie que dans le
+groupe chimiothérapie seule.
+D. L’odds de décès à un an est plus faible dans le groupe Tislezumab + chimiothérapie que dans le groupe
+chimiothérapie seule.
+E. Le risque relatif de décès à un an entre le groupe Tislezumab + chimiothérapie et le groupe
+chimiothérapie seule est négatif.
+CORRIGÉ
+ABCD
+A. VRAI : le risque de décès est de 120/300, donc de 0,4.
+B. VRAI : l’odds de décès est de 120/180 donc 2/3.
+C. VRAI : O,4 face à 0,6 (180/300).
+D. VRAI : odds de décès à un an avec chimio seule est de 180/120 > 120/180.
+E. FAUX : un risque relatif ne peut jamais être négatif.
+NOTES
+
+
+===
+
+Q7 · clé CD
+SUJET
+La statistique du test de comparaison des résultats de l'étude est de 4,9
+7. Parmi les propositions suivantes, cochez-la (ou les) proposition(s) exacte(s).
+A. Le test à utiliser est un test de comparaison d'une proportion estimée par rapport à une proportion de
+référence.
+B. Le test à utiliser est un test de Mc Nemar.
+C. Les proportions de décès sont statistiquement différentes entre les deux groupes, au risque d'erreur
+5%.
+D. La p-value du test est inférieure à 0,05.
+E. La puissance du test statistique n'est pas influencée par le nombre total de patients dans chacun des
+groupes.
+CORRIGÉ
+CD
+A. FAUX : ici on compare deux proportions estimées
+B. FAUX : le test de Mc Nemar est utilisé pour comparer des données appariées
+C. VRAI : le résultat de la statistique de test est |z|= 4.9 > 1.96
+D. VRAI : lorsque |z|> 1.96, p-value < 0,05
+E. FAUX : la taille de l’échantillon influence la puissance du test statistique (tout comme l’erreur type et
+la variabilité entre les individus)
+NOTES

@@ -1,0 +1,1458 @@
+[
+  {
+    "bank": "histo.ann.tc",
+    "id": 5,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "la croissance appositionnelle n'existe que dans les cartilages bordés par le périchondre."
+      },
+      {
+        "id": "B",
+        "text": "la capacité de multiplication des chondrocytes est illimitée dans le temps."
+      },
+      {
+        "id": "C",
+        "text": "le processus de croissance interstitielle est possible pour tous les cartilages. D dans le processus de croissance interstitielle, les chondrocytes se divisent dans leur logette."
+      },
+      {
+        "id": "E",
+        "text": "la croissance interstitielle isogénique coronaire ne permet que la croissance en largeur."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "la croissance appositionnelle n'existe que dans les cartilages bordés par le périchondre."
+      },
+      {
+        "id": "B",
+        "text": "la capacité de multiplication des chondrocytes est illimitée dans le temps."
+      },
+      {
+        "id": "C",
+        "text": "le processus de croissance interstitielle est possible pour tous les cartilages."
+      },
+      {
+        "id": "D",
+        "text": "dans le processus de croissance interstitielle, les chondrocytes se divisent dans leur logette."
+      },
+      {
+        "id": "E",
+        "text": "la croissance interstitielle isogénique coronaire ne permet que la croissance en largeur."
+      }
+    ],
+    "reason": "C et D sont deux propositions distinctes sur les deux originaux, p. 2."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 5,
+    "field": "answer",
+    "before": "AC",
+    "after": "ACD",
+    "reason": "A, C et D portent Vrai dans le corrigé thématique p. 2."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 5,
+    "field": "explanations.C",
+    "before": "D dans le processus de croissance interstitielle, les chondrocytes se divisent dans leur logette. Vrai",
+    "after": "",
+    "reason": "Retrait du D absorbé par le détail de C."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 5,
+    "field": "explanations.D",
+    "before": null,
+    "after": "Vrai.",
+    "reason": "Verdict explicite du D rétabli, corrigé p. 2."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 5,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note.",
+    "after": "",
+    "reason": "Clé désormais complète et appariée aux cinq propositions."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 26,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "C’est une technique qui utilise des anticorps pour détecter des acides nucléiques et leur transcrit"
+      },
+      {
+        "id": "B",
+        "text": "Pour réaliser cette technique, on va dénaturer l’ADN des cellules de notre échantillon (le rendre double brin)"
+      },
+      {
+        "id": "C",
+        "text": "Notre sonde nucléique (oligonucléotide, ARN, …) va être couplée à un fluorochrome, une enzyme, etc."
+      },
+      {
+        "id": "D",
+        "text": "On peut révéler l’emplacement d’ARN grâce à cette technique"
+      },
+      {
+        "id": "E",
+        "text": "On peut aussi coupler notre sonde à un élément radioactif puis ensuite utiliser l’autoradiographie pour la révéler Pour utiliser une méthode indirecte d’immunohistologie en MO, il nous faut :"
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "C’est une technique qui utilise des anticorps pour détecter des acides nucléiques et leur transcrit"
+      },
+      {
+        "id": "B",
+        "text": "Pour réaliser cette technique, on va dénaturer l’ADN des cellules de notre échantillon (le rendre double brin)"
+      },
+      {
+        "id": "C",
+        "text": "Notre sonde nucléique (oligonucléotide, ARN, …) va être couplée à un fluorochrome, une enzyme, etc."
+      },
+      {
+        "id": "D",
+        "text": "On peut révéler l’emplacement d’ARN grâce à cette technique"
+      },
+      {
+        "id": "E",
+        "text": "On peut aussi coupler notre sonde à un élément radioactif puis ensuite utiliser l’autoradiographie pour la révéler"
+      }
+    ],
+    "reason": "Retrait de la consigne du QCM suivant, absente de cet item source."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 27,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "2 lots d’anticorps différents provenant de la même espèce"
+      },
+      {
+        "id": "B",
+        "text": "Une enzyme ou un fluorochrome couplé au fragment cristallisable de l’anticorps primaire"
+      },
+      {
+        "id": "C",
+        "text": "L’anticorps secondaire qui est anti fragment cristallisable de l’anticorps primaire"
+      },
+      {
+        "id": "D",
+        "text": "Un anticorps primaire anti protéine d’intérêt"
+      },
+      {
+        "id": "E",
+        "text": "Cette méthode est plus spécifique que la technique de marquage direct Si on compare la coupe en congélation et celle en paraffine :"
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "2 lots d’anticorps différents provenant de la même espèce"
+      },
+      {
+        "id": "B",
+        "text": "Une enzyme ou un fluorochrome couplé au fragment cristallisable de l’anticorps primaire"
+      },
+      {
+        "id": "C",
+        "text": "L’anticorps secondaire qui est anti fragment cristallisable de l’anticorps primaire"
+      },
+      {
+        "id": "D",
+        "text": "Un anticorps primaire anti protéine d’intérêt"
+      },
+      {
+        "id": "E",
+        "text": "Cette méthode est plus spécifique que la technique de marquage direct"
+      }
+    ],
+    "reason": "Retrait de la consigne du QCM suivant, absente de cet item source."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 26,
+    "field": "explanations.E",
+    "before": "Pour utiliser une méthode indirecte d’immunohistologie en MO, il nous faut :",
+    "after": "",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 27,
+    "field": "explanations.C",
+    "before": ": Il faut que l’anticorps secondaire cible l’anticorps primaire 22. A propos de cette image : Cochez le(s) réponse(s) vraie(s)",
+    "after": "Il faut que l’anticorps secondaire cible l’anticorps primaire",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 27,
+    "field": "explanations.E",
+    "before": ": Non elle n’est pas plus spécifique, mais elle est plus sensible car plusieurs anticorps secondaires peuvent se lier à un anticorps primaire, ce qui permet une détection plus facile Si on compare la coupe en congélation et celle en paraffine :",
+    "after": "Non elle n’est pas plus spécifique, mais elle est plus sensible car plusieurs anticorps secondaires peuvent se lier à un anticorps primaire, ce qui permet une détection plus facile",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 40,
+    "field": "explanations.E",
+    "before": "mais accrochée sur un axe l’acide hyaluronique 17. Concernant le tissu conjonctif, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes",
+    "after": "mais accrochée sur un axe l’acide hyaluronique",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 41,
+    "field": "explanations.E",
+    "before": "dans la MEC 18. Concernant le tissu cartilagineux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes",
+    "after": "dans la MEC",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 42,
+    "field": "explanations.E",
+    "before": "19. Concernant le tissu cartilagineux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes",
+    "after": "",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 43,
+    "field": "explanations.E",
+    "before": "c’est la coronaire 20. Concernant le tissu osseux, indiquez la ou les affirmation(s) correcte(s) parmi les propositions suivantes",
+    "after": "c’est la coronaire",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 7,
+    "field": "explanations.E",
+    "before": "Les motoneurones situés dans la corne antérieure de la moelle lombaire innervent les muscles des membres inférieurs. Leurs axones rentrent dans la constitution des nerfs rachidiens.",
+    "after": "",
+    "reason": "Fin du commentaire vérifiée sur la page source ; retrait du QCM ou du contexte suivant."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 30,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "ils ne possèdent pas de cytosquelette. Faux gliofilaments"
+      },
+      {
+        "id": "B",
+        "text": "ils forment un réseau intercellulaire tridimensionnel, structurel et fonctionnel."
+      },
+      {
+        "id": "C",
+        "text": "ce sont des cellules d'origine neuro-ectodermique."
+      },
+      {
+        "id": "D",
+        "text": "leur morphologie est variable."
+      },
+      {
+        "id": "E",
+        "text": "ils participent à la barrière hémato-encéphalique uniquement dans la substance grise."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "ils ne possèdent pas de cytosquelette."
+      },
+      {
+        "id": "B",
+        "text": "ils forment un réseau intercellulaire tridimensionnel, structurel et fonctionnel."
+      },
+      {
+        "id": "C",
+        "text": "ce sont des cellules d'origine neuro-ectodermique."
+      },
+      {
+        "id": "D",
+        "text": "leur morphologie est variable."
+      },
+      {
+        "id": "E",
+        "text": "ils participent à la barrière hémato-encéphalique uniquement dans la substance grise."
+      }
+    ],
+    "reason": "Retrait d’une réponse importée dans l’item ; vrai sujet propre retrouvé dans la compilation de la même session."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 45,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "ll est sécrété par des épendymocytes."
+      },
+      {
+        "id": "B",
+        "text": "ll est sécrété par l'épendyme."
+      },
+      {
+        "id": "C",
+        "text": "ll est exclusivement au contact du système nerveux central faux,"
+      },
+      {
+        "id": "D",
+        "text": "ll est sécrété par les plexus choroïdes."
+      },
+      {
+        "id": "E",
+        "text": "ll circule dans les ventricules et le canal épendymaire."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "ll est sécrété par des épendymocytes."
+      },
+      {
+        "id": "B",
+        "text": "ll est sécrété par l'épendyme."
+      },
+      {
+        "id": "C",
+        "text": "Il est exclusivement au contact du système nerveux central"
+      },
+      {
+        "id": "D",
+        "text": "ll est sécrété par les plexus choroïdes."
+      },
+      {
+        "id": "E",
+        "text": "ll circule dans les ventricules et le canal épendymaire."
+      }
+    ],
+    "reason": "Retrait d’une réponse importée dans l’item ; vrai sujet propre retrouvé dans la compilation de la même session."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 31,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "les protéoglycannes forment un complexe macromoléculaire avec le biglycan."
+      },
+      {
+        "id": "B",
+        "text": "L'acide hyaluronique est un glycosaminoglycane non sulfaté."
+      },
+      {
+        "id": "C",
+        "text": "La substance fondamentale est un milieu amorphe et transparent."
+      },
+      {
+        "id": "D",
+        "text": "Les fibres élastiques sont formées à g0 o/o de fibrillines."
+      },
+      {
+        "id": "E",
+        "text": "Les fibres de réticuline forment l’armature du tissu conjonctif lâche."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "les protéoglycannes forment un complexe macromoléculaire avec le biglycan."
+      },
+      {
+        "id": "B",
+        "text": "L'acide hyaluronique est un glycosaminoglycane non sulfaté."
+      },
+      {
+        "id": "C",
+        "text": "La substance fondamentale est un milieu amorphe et transparent."
+      },
+      {
+        "id": "D",
+        "text": "Les fibres élastiques sont formées à 90 % de fibrillines."
+      },
+      {
+        "id": "E",
+        "text": "Les fibres de réticuline forment l’armature du tissu conjonctif lâche."
+      }
+    ],
+    "reason": "Le sujet thématique écrit « g0 o/o » ; le corrigé thématique et la compilation écrivent 90 %."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 33,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "L, composante organique est formée en majorité de fibres de collagène L"
+      },
+      {
+        "id": "B",
+        "text": "Sa substance fondamentale est riche en eau."
+      },
+      {
+        "id": "C",
+        "text": "Une carence en vitamine pp est associée à une déformation des os."
+      },
+      {
+        "id": "D",
+        "text": "La composante minérale est formée de cristaux s’intercalant entre les fibres."
+      },
+      {
+        "id": "E",
+        "text": "L'ostéoporose est associée à un risque accru de fracture."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "La composante organique est formée en majorité de fibres de collagène I."
+      },
+      {
+        "id": "B",
+        "text": "Sa substance fondamentale est riche en eau."
+      },
+      {
+        "id": "C",
+        "text": "Une carence en vitamine pp est associée à une déformation des os."
+      },
+      {
+        "id": "D",
+        "text": "La composante minérale est formée de cristaux s’intercalant entre les fibres."
+      },
+      {
+        "id": "E",
+        "text": "L'ostéoporose est associée à un risque accru de fracture."
+      }
+    ],
+    "reason": "Le sujet thématique porte « L, composante » et « collagène L » ; le corrigé donne « La composante » et « collagène 1 », la compilation « collagène I »."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 8,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "d'une fixation à l'aide de formol par exemple, indispensable pour préserver les structures biologiques d'une biopsie chirurgicale."
+      },
+      {
+        "id": "B",
+        "text": "d'une inclusion destinée à durcir le prélèvement afin d'en permettre -la coupe, par exemple à l'aide de paraffine maintenue à environ 56 0 C."
+      },
+      {
+        "id": "C",
+        "text": "de la production de coupes réalisées à l'aide d'un microtome, d'une épaisseur d'environ 10 microns, et déposées et collées sur des lames de verre."
+      },
+      {
+        "id": "D",
+        "text": "d'une coloration visant à augmenter les contrastes, et donc faire apparaître tes différents composants cellulaires, par exemple à l'aide d'hématéine-éosine-safran (HES)"
+      },
+      {
+        "id": "E",
+        "text": "d'une étude in situ des constituants biochimiques, par exemple une immunohistologie, avec une révélation du complexe antigène-anticorps par un fluorochrome, comme la rhodamine (TRITC), couplé à l'anticorps primaire (l)."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "d'une fixation à l'aide de formol par exemple, indispensable pour préserver les structures biologiques d'une biopsie chirurgicale."
+      },
+      {
+        "id": "B",
+        "text": "d'une inclusion destinée à durcir le prélèvement afin d'en permettre -la coupe, par exemple à l'aide de paraffine maintenue à environ 56 °C."
+      },
+      {
+        "id": "C",
+        "text": "de la production de coupes réalisées à l'aide d'un microtome, d'une épaisseur d'environ 10 microns, et déposées et collées sur des lames de verre."
+      },
+      {
+        "id": "D",
+        "text": "d'une coloration visant à augmenter les contrastes, et donc faire apparaître tes différents composants cellulaires, par exemple à l'aide d'hématéine-éosine-safran (HES)"
+      },
+      {
+        "id": "E",
+        "text": "d'une étude in situ des constituants biochimiques, par exemple une immunohistologie, avec une révélation du complexe antigène-anticorps par un fluorochrome, comme la rhodamine (TRITC), couplé à l'anticorps primaire (l)."
+      }
+    ],
+    "reason": "Le zéro en exposant représente le signe de degré dans le PDF ; notation typographique normalisée."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 42,
+    "field": "answer",
+    "before": "",
+    "after": "ABE",
+    "reason": "Grille imprimée complète retrouvée dans la compilation, même session et cinq propositions concordantes."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 42,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note. Cette question est conservée hors note faute de correction exploitable.",
+    "after": "",
+    "reason": "La source complémentaire lève la lacune de verdict."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 42,
+    "field": "explanations.A",
+    "before": null,
+    "after": "Vrai. Verdict explicite dans la compilation, Q25, p. 1078.",
+    "reason": "A sans marqueur dans le PDF thématique ; VRAI imprimé dans la compilation."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 63,
+    "field": "answer",
+    "before": "",
+    "after": "CD",
+    "reason": "Grille imprimée complète retrouvée dans la compilation, même session et cinq propositions concordantes."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 63,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note. Cette question est conservée hors note faute de correction exploitable.",
+    "after": "",
+    "reason": "La source complémentaire lève la lacune de verdict."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 63,
+    "field": "explanations.A",
+    "before": null,
+    "after": "Faux. Elle constitue bien la partie interne de la moelle spinale mais elle constitue la partie EXTERNE des hémisphères cérébraux et cérébelleux.",
+    "reason": "Explication en gras du corrigé thématique, confirmée par FAUX et la grille CD dans la compilation."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 10,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note. Cette question est conservée hors note faute de correction exploitable.",
+    "after": "Hors note : D n’a pas de verdict dans le corrigé thématique (« ??? non dit cette année »). La compilation donne D Faux et E Vrai, tandis que le corrigé thématique donne E Faux. Aucun erratum ne permet de choisir une clé unique.",
+    "reason": "Hors note : D n’a pas de verdict dans le corrigé thématique (« ??? non dit cette année »). La compilation donne D Faux et E Vrai, tandis que le corrigé thématique donne E Faux. Aucun erratum ne permet de choisir une clé unique."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 22,
+    "field": "answer",
+    "before": "AC",
+    "after": "",
+    "reason": "Hors note : pour E, le corrigé thématique imprime à la fois « Faux » puis « on peut dire Vrai … ??? ». La compilation retient E et la clé ACE ; l’ancienne clé thématique AC est conservée dans les remarques, sans arbitrage."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 22,
+    "field": "warning",
+    "before": "",
+    "after": "Hors note : pour E, le corrigé thématique imprime à la fois « Faux » puis « on peut dire Vrai … ??? ». La compilation retient E et la clé ACE ; l’ancienne clé thématique AC est conservée dans les remarques, sans arbitrage.",
+    "reason": "Hors note : pour E, le corrigé thématique imprime à la fois « Faux » puis « on peut dire Vrai … ??? ». La compilation retient E et la clé ACE ; l’ancienne clé thématique AC est conservée dans les remarques, sans arbitrage."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "field": "question",
+    "before": "Méthode standard d’étude de la peau humaine, elles peuvent correspondre à l’observation de différents types d’échantillons hospitaliers, à savoir :",
+    "after": "QRM. Méthodes d’Etude Standard de la Peau Humaine. Elles peuvent correspondre à l’observation de différents types d’échantillons hospitaliers, à savoir :",
+    "reason": "Consigne de la version complète du sujet, même session que la série thématique."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "Des cellules vivantes simplement maintenues en survie : on parlera de culture ex vivo"
+      },
+      {
+        "id": "B",
+        "text": "Des cellules vivantes qui dans des conditions particulières peuvent se multiplier, on parlera de cultures in vitro"
+      },
+      {
+        "id": "C",
+        "text": "Des fragments de peau trop épais pour être observés directement au microscope, coupés alors en tranches « fines » (après fixation et inclusion) pour une observation en microscopie optique en champ proche (MOCP)"
+      },
+      {
+        "id": "D",
+        "text": "Des cellules en suspension recueillies à partir d’un liquide pathologique puis étalées sur lame et séchées à l’air dans le cadre d’une détection in situ"
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "Des cellules vivantes simplement maintenues en survie : on parlera de “cultures ex vivo”."
+      },
+      {
+        "id": "B",
+        "text": "De fragments de peau simplement maintenus en survie : on parlera de “conditions ex vivo”."
+      },
+      {
+        "id": "C",
+        "text": "De cellules vivantes qui, dans des conditions particulières, peuvent se multiplier : on parlera de “cultures in vitro”."
+      },
+      {
+        "id": "D",
+        "text": "Des fragments de peau, trop épais pour être observés directement au microscope, coupés alors en tranches “fines” (après fixation et inclusion), et montés sur grille (de nickel ou de cuivre) pour une observation en microscopie optique en champ proche (MOCP)."
+      },
+      {
+        "id": "E",
+        "text": "Des cellules en suspension recueillies à partir d’un liquide pathologique, puis étalées sur lame et séchées à l’air, dans le cadre d’une détection in situ."
+      }
+    ],
+    "reason": "Proposition omise rétablie, lettres alignées sur la version originale complète."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "field": "explanations",
+    "before": {
+      "A": "",
+      "B": "",
+      "C": "les fragments doivent être utilisés à l’air ou dans l’eau mais non inclus (pas dans le cours de M. Gouriou)",
+      "D": ""
+    },
+    "after": {
+      "A": "Compilation, p. 1640 : VRAI : Pour les cellules “vivantes” provenant directement d’un organisme et simplement maintenues en survie : on parle de “culture ex vivo”. Édition thématique, ancien A : Vrai.",
+      "B": "Compilation, p. 1640 : VRAI : Proposition absente de l’édition thématique.",
+      "C": "Compilation, p. 1640 : VRAI : Pout les cellules « vivantes » qui, dans des conditions particulières, peuvent se multiplier en dehors d’un organisme : on parle de « culture in vivo » Édition thématique, ancien B : Vrai.",
+      "D": "Compilation, p. 1640 : FAUX : Des fragments de peau, trop épais pour être observés directement au microscope, coupés alors en tranches “fines” (après fixation et inclusion), et montés sur grille (de nickel ou de cuivre) pour une observation en microscopie électronique. Édition thématique, ancien C : Faux. les fragments doivent être utilisés à l’air ou dans l’eau mais non inclus (pas dans le cours de M. Gouriou)",
+      "E": "Compilation, p. 1640 : FAUX : L’item seul est VRAI : (pour les cellules mortes, en suspension : on parle de prélèvements liquides ou produits de grattage/brossage) mais ne convient pas pour l’étude de la peau humain qui n’est pas un liquide. Édition thématique, ancien D : Vrai."
+    },
+    "reason": "Commentaires des deux éditions explicitement identifiés ; aucune justification hybride."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "field": "answer",
+    "before": "ABD",
+    "after": "",
+    "reason": "Hors note : la version complète contient cinq propositions. Le corrigé thématique à quatre propositions accepte son D (nouveau E), tandis que la compilation de la même session refuse E. Sans erratum, aucune clé commune ne peut être retenue."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note.",
+    "after": "Hors note : la version complète contient cinq propositions. Le corrigé thématique à quatre propositions accepte son D (nouveau E), tandis que la compilation de la même session refuse E. Sans erratum, aucune clé commune ne peut être retenue.",
+    "reason": "Hors note : la version complète contient cinq propositions. Le corrigé thématique à quatre propositions accepte son D (nouveau E), tandis que la compilation de la même session refuse E. Sans erratum, aucune clé commune ne peut être retenue."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 1,
+    "field": "subjectPage",
+    "before": 1,
+    "after": 1611,
+    "reason": "Page du sujet complet désormais présenté."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "field": "question",
+    "before": "Types d'échantillons. En fonction de vos connaissances générales en histologie, vous pouvez proposer qu'il puisse s'agir",
+    "after": "En fonction de vos connaissances générales en histologie, vous pouvez proposer qu’il puisse s’agir :",
+    "reason": "Consigne de la version complète du sujet, même session que la série thématique."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "de cellules « vivantes » provenant directement d'un organisme et simplement maintenues en survie : on parle alors de « cultures in vitro », et de cellules « vivantes » qui, dans des conditions particulières, peuvent se multiplier en-dehors d'un organisme: on parle alors de « cultures ex vivo »."
+      },
+      {
+        "id": "B",
+        "text": "de cellules provenant, soit de prélèvements liquides (liquides biologiques, liquides pathologiques, ou liquides d'exploration), soit de produits de grattage ou de brossage."
+      },
+      {
+        "id": "C",
+        "text": "d'échantillons solides (organes, tumeurs, etc.), pour lesquels une tranche de section, frais ou congelé, sera appliquée avec une certaine pression sur une lame afin d'en obtenir une apposition."
+      },
+      {
+        "id": "D",
+        "text": "d'organes trop épais pour être observés directement au microscope : ils sont alors coupés en tranches fines, avant fixation et inclusion, et montés entre lame et lamelle pour leur observation en microscopie optique, ou sur grille pour leur observation en microscopie électronique."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "De cellules « vivantes » provenant directement d’un organisme et simplement maintenues en survie : on parle de « cultures in vitro » et de cellules « vivantes » qui, dans des conditions particulières, peuvent se multiplier en-dehors d’un organisme : on parle alors de « culture ex-vivo »."
+      },
+      {
+        "id": "B",
+        "text": "De cellules provenant, soit de Prélèvement liquide (liquides biologiques, liquides pathologique, liquides d'exploration), Soit de produit de grattage ou de brossage."
+      },
+      {
+        "id": "C",
+        "text": "D’échantillon solide (organes, tumeur, etc.) pour lesquels une tranche de section, frais ou congelé sera appliquée avec une certaine pression sur une lame afin d'en obtenir une apposition."
+      },
+      {
+        "id": "D",
+        "text": "D'organes très fin qui, avant toute dissection sous la loupe binoculaire, sont directement déposés sur lame."
+      },
+      {
+        "id": "E",
+        "text": "D'organes trop épais pour être observés directement au microscope : ils sont alors coupés en tranches fines, avant fixation et inclusion, et montés entre lame et lamelle pour leur observation en microscopie optique, ou sur grille pour leur observation en microscopie électronique."
+      }
+    ],
+    "reason": "Proposition omise rétablie, lettres alignées sur la version originale complète."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "field": "explanations",
+    "before": {
+      "A": "cela reste des cultures in vitro",
+      "B": "",
+      "C": "",
+      "D": "on fixe et inclue d’abord avant la coupe"
+    },
+    "after": {
+      "A": "Compilation, p. 1432 : FAUX : Pour les cellules “vivantes” provenant directement d’un organisme et simplement maintenues en survie : on parle de “culture ex vivo”. Pour les cellules “vivantes” qui, dans des conditions particulières, peuvent se multiplier en-dehors d’un organisme : on parle de “culture in vivo”.",
+      "B": "Compilation, p. 1432 : VRAI : Pour les cellules mortes, en suspension : on parle de prélèvement liquide ou produit de grattage/brossage.",
+      "C": "Compilation, p. 1432 : VRAI : Pour les cellules mortes, sous forme d’échantillon solide : on parle d'apposition (= empreinte).",
+      "D": "Compilation, p. 1432 : VRAI : Pour les cellules mortes, sous forme d’organe très fin : on parle de préparation à plat.",
+      "E": "Compilation, p. 1432 : FAUX : Pour les cellules mortes, sous forme d’organe trop épais : on effectue une coupe après fixation et inclusion."
+    },
+    "reason": "Commentaires des deux éditions explicitement identifiés ; aucune justification hybride."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "field": "answer",
+    "before": "BC",
+    "after": "BCD",
+    "reason": "Cinq verdicts exploitables ; les quatre items communs concordent avec la série thématique après remappage."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note.",
+    "after": "",
+    "reason": "La version complète et son corrigé rétablissent la proposition omise et sa clé."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 5,
+    "field": "subjectPage",
+    "before": 2,
+    "after": 1408,
+    "reason": "Page du sujet complet désormais présenté."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 6,
+    "field": "question",
+    "before": "Préparation standard des échantillons. En vue d'une observation en microscopie optique, différentes étapes sont nécessaires à la préparation d'un fragment de tissu solide la fixation, l'inclusion, la coupe, la coloration, et enfin le montage. En fonction de vos connaissances générales en histologie, vous pouvez proposer que les techniques de préparation puissent alors correspondre à l'utilisation successive :",
+    "after": "QRU – Préparation standard des échantillons En vue d’une observation en microscopie optique, différentes étapes sont nécessaires à la préparation d’un fragment de tissu solide : la fixation, l’inclusion, la coupe, la coloration et enfin le montage. En fonction de vos connaissances générales en histologie, vous pouvez proposer que les techniques de préparation puissent alors correspondre à l’utilisation successive :",
+    "reason": "Consigne de la version complète du sujet, même session que la série thématique."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 6,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "d'une fixation, par l'association formol/acide picrique (liquide de Bouin), laquelle devra être effectuée le plus rapidement possible, le(s) prélèvement(s) étant pour cela immergé(s) dans un très grand volume de fixateur, afin de précipiter les glucides et lipides et empêcher la dégradation cellulaire et tissulaire."
+      },
+      {
+        "id": "B",
+        "text": "suivie d'une inclusion destinée à durcir le prélèvement afin d'en permettre la coupe. Après une déshydratation par passage dans des bains d'alcool de degré croissants (70 0 , 95 0 et 100 0 ), puis de xylène, le prélèvement est plongé dans de la paraffine maintenue à 57 0 C/60 0 C. Après refroidissement, le bloc solide peut alors être coupé en tranches fines."
+      },
+      {
+        "id": "C",
+        "text": "suivie de la coupe, d'une épaisseur de 30 à 50 microns, et réalisée par un microtome, appareil doté d'un système d'avance mécanique et d'un couteau en acier (ou de lames jetables). Les coupes obtenues sont ensuite déposées et collées sur des lames de verre."
+      },
+      {
+        "id": "D",
+        "text": "suivie d'une coloration effectuée directement sur la coupe en paraffine laquelle vise à augmenter les contrastes, et ainsi faire apparaître les différents composants cellulaires et tissulaires. Par exemple, l'hématéine-éosine-safran (HES) fait apparaître le noyau en violet, le cytoplasme en rose, et le conjonctif en bleu ou vert."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "D’une fixation, par l’association formol/Acide picrique (liquide de Bouin), laquelle devra être effectuée le plus rapidement possible, le(s) prélèvement(s) étant pour cela immergé(s) dans un très grand volume de fixateur, afin de précipiter les glucides et lipides et empêcher la dégradation cellulaire et tissulaire."
+      },
+      {
+        "id": "B",
+        "text": "Suivie d’une inclusion destinée à durcir le prélèvement afin d’en permettre la coupe. Après une déshydratation par passage dans des bains d’alcool de degré croissant (70°, 95°, 100°), puis de xylène, le prélèvement est plongé dans de la paraffine maintenue à 57°C/60°C. Après refroidissement, le bloc solide peut être coupé en tranches fines."
+      },
+      {
+        "id": "C",
+        "text": "Suivie de la coupe, d’une épaisseur de 30 à 50 microns, et réaliser par un microtome, appareil doté d’un système d’avance mécanique et d’un couteau en acier (ou de lames jetables). Les coupes obtenues sont ensuite déposées et collées sur des lames de verre."
+      },
+      {
+        "id": "D",
+        "text": "Suivie d’une coloration effectuée directement sur la coupe en paraffine, laquelle vise à augmenter les contrastes, et ainsi faire apparaitre les différents composants cellulaires et tissulaires. Par exemple, l’hématéine éosine safran (HES) fait apparaitre le noyau en violet, le cytoplasme en rose et le conjonctif en bleu/vert."
+      },
+      {
+        "id": "E",
+        "text": "Suivie d’un montage. Auparavant, les préparations devront être soigneusement déshydratées par passage dans des bains d’alcool de degré croisant (70°, 95° et 100°), puis du xylène. Les coupes seront ensuite montées entre lames et lamelles avec un milieu de montage."
+      }
+    ],
+    "reason": "Proposition omise rétablie, lettres alignées sur la version originale complète."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 6,
+    "field": "explanations",
+    "before": {
+      "A": "précipitation des protéines uniquement",
+      "B": "pas le xylène mais le toluène",
+      "C": "3 à 5 microns",
+      "D": "il faut déparaffiner , on ne met pas des colorants hydrophiles sur une coupe paraffinée qui est hydrophobe"
+    },
+    "after": {
+      "A": "Compilation, p. 1433 : VRAI Édition thématique, ancien A : Faux. précipitation des protéines uniquement",
+      "B": "Compilation, p. 1433 : FAUX : Pour la coupe en paraffine, l’inclusion comprend une déshydratation par passage dans des bains d’alcool de degré croissant (70°, 95° et 100°), puis de toluène. Édition thématique, ancien B : Faux. pas le xylène mais le toluène",
+      "C": "Compilation, p. 1433 : FAUX : Pour la coupe en paraffine, la coupe est peu épaisse de 3 à 5 microns. Édition thématique, ancien C : Faux. 3 à 5 microns",
+      "D": "Compilation, p. 1433 : FAUX : Pour la coupe en paraffine, la coloration s’effectue après réhydratation. Édition thématique, ancien D : Faux. il faut déparaffiner , on ne met pas des colorants hydrophiles sur une coupe paraffinée qui est hydrophobe",
+      "E": "Compilation, p. 1433 : FAUX : Pour la coupe en paraffine, le montage s’effectue après déshydratation par passage dans des bains d’alcool de de degré croissant (70°, 95° et 100°), puis de toluène. Proposition absente de l’édition thématique."
+    },
+    "reason": "Commentaires des deux éditions explicitement identifiés ; aucune justification hybride."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 6,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note. Cette question est conservée hors note faute de correction exploitable.",
+    "after": "Hors note : E (montage) est rétabli depuis le sujet complet. Le corrigé thématique donne A Faux ; la compilation de la même session donne A Vrai et la clé A. Cette opposition ne permet ni une clé hybride ni une réponse « tous faux ». Un erratum ou la ronéo de cette session est nécessaire.",
+    "reason": "Hors note : E (montage) est rétabli depuis le sujet complet. Le corrigé thématique donne A Faux ; la compilation de la même session donne A Vrai et la clé A. Cette opposition ne permet ni une clé hybride ni une réponse « tous faux ». Un erratum ou la ronéo de cette session est nécessaire."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 6,
+    "field": "subjectPage",
+    "before": 2,
+    "after": 1408,
+    "reason": "Page du sujet complet désormais présenté."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "field": "question",
+    "before": "Types d'échantillons. (1 point) On peut obtenir des échantillons de tissus humains de diverses régions de l'organisme. En fonction de vos connaissances générales en histologie, vous pouvez proposer qu'il puisse s'agir de techniques s'appliquant à :",
+    "after": "Types d’échantillons. On peut obtenir des échantillons de tissus humains de diverses régions de l’organisme. En fonction de vos connaissances générales en histologie, vous pouvez proposer qu’il puisse s’agir de techniques s’appliquant à:",
+    "reason": "Consigne de la version complète du sujet, même session que la série thématique."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "field": "options",
+    "before": [
+      {
+        "id": "A",
+        "text": "des cellules en suspension étalées sur lame"
+      },
+      {
+        "id": "B",
+        "text": "des échantillons solides (organes, tumeurs, etc.) appliqués avec une certaine pression sur une lame afin d'en obtenir une empreinte."
+      },
+      {
+        "id": "C",
+        "text": "d'organes trop épais pour être observés directement au microscope, et alors coupés en tranches « fines » avant fixation et inclusion ou enrobage."
+      },
+      {
+        "id": "D",
+        "text": "de cellules qui, dans des conditions particulières, peuvent se multiplier en dehors d'un organisme : on parlera alors de « cultures in vitro »."
+      }
+    ],
+    "after": [
+      {
+        "id": "A",
+        "text": "Des cellules en suspension étalées sur lame"
+      },
+      {
+        "id": "B",
+        "text": "Des échantillons solides (organes, tumeurs, ect.) appliqués avec une certaine pression sur une lame afin d’en obtenir une empreinte."
+      },
+      {
+        "id": "C",
+        "text": "D’organes très fins directement déposés sur lame, après dissection sous loupe binoculaire."
+      },
+      {
+        "id": "D",
+        "text": "D’organes trop épais pour être observés directement au microscope, et alors coupés en tranches « fines » avant fixation et inclusion ou enrobage."
+      },
+      {
+        "id": "E",
+        "text": "De cellules qui, dans des conditions particulières, peuvent se multiplier en dehors d’un organisme : on parlera alors de « cultures in vitro »."
+      }
+    ],
+    "reason": "Proposition omise rétablie, lettres alignées sur la version originale complète."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "field": "explanations",
+    "before": {
+      "A": "c’est un frottis",
+      "B": "on regarde alors les cellules qui restent adhérentes à la lame de verre  apposition",
+      "C": "après fixation",
+      "D": ""
+    },
+    "after": {
+      "A": "Compilation, p. 1342 : FAUX Les cellules en suspension étalées sur lame résultent de prélèvements liquides, ce ne sont donc pas des échantillons de tissus humains mais des prélèvements cytologique (= de cellules). Édition thématique, ancien A : Vrai. c’est un frottis",
+      "B": "Compilation, p. 1342 : VRAI Édition thématique, ancien B : Vrai. on regarde alors les cellules qui restent adhérentes à la lame de verre  apposition",
+      "C": "Compilation, p. 1342 : VRAI Proposition absente de l’édition thématique.",
+      "D": "Compilation, p. 1342 : VRAI Édition thématique, ancien C : Faux. après fixation",
+      "E": "Compilation, p. 1342 : HORS PROGRAMME Édition thématique, ancien D : Vrai."
+    },
+    "reason": "Commentaires des deux éditions explicitement identifiés ; aucune justification hybride."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "field": "answer",
+    "before": "ABD",
+    "after": "",
+    "reason": "Hors note : C (organes très fins) est rétabli, les anciens C et D deviennent D et E. Les deux corrigés de la même session s’opposent sur A et D, et la compilation classe E hors programme. Aucune clé fusionnée ne peut être retenue sans erratum."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "field": "warning",
+    "before": "Clé de correction incomplète : question conservée hors note.",
+    "after": "Hors note : C (organes très fins) est rétabli, les anciens C et D deviennent D et E. Les deux corrigés de la même session s’opposent sur A et D, et la compilation classe E hors programme. Aucune clé fusionnée ne peut être retenue sans erratum.",
+    "reason": "Hors note : C (organes très fins) est rétabli, les anciens C et D deviennent D et E. Les deux corrigés de la même session s’opposent sur A et D, et la compilation classe E hors programme. Aucune clé fusionnée ne peut être retenue sans erratum."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 7,
+    "field": "subjectPage",
+    "before": 3,
+    "after": 1312,
+    "reason": "Page du sujet complet désormais présenté."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 10,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_te_010_1.webp",
+      "static/histo_ann_te_010_2.webp",
+      "static/histo_ann_te_010_3.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 11,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_te_011_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 13,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_te_013_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 17,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_te_017_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 24,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_te_024_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 37,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tc_037_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 38,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tc_038_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 8,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tn_008_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 55,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tn_055_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 56,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tn_056_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 57,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tn_057_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 59,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tn_059_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 60,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tn_060_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 11,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_011_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 12,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_012_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 15,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_015_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 16,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_016_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 21,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_021_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 22,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_022_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_024_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 25,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_025_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 28,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_028_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 29,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_029_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 35,
+    "field": "originalImages",
+    "before": [
+      "static/histo_ann_tech_035_1.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 11,
+    "field": "originalImages",
+    "before": [
+      "static/histo_autotech_011_context.webp"
+    ],
+    "after": [],
+    "reason": "Ancien champ contrôlé : remplacé par les copies authentiques complètes ; les figures du sujet sont attribuées explicitement dans images."
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 6,
+    "field": "images",
+    "before": [
+      "static/docx_424af63608b1.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_tn3_q6_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.tn3",
+    "id": 7,
+    "field": "images",
+    "before": [
+      "static/v4_histo_tn3_q7_labels.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_tn3_q7_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.autotech",
+    "id": 11,
+    "field": "images",
+    "before": [
+      "static/figure_histo_autotech_011.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_autotech_q11_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 11,
+    "field": "images",
+    "before": [
+      "static/v4_histo_ann_te_q11_panels.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_te_q11_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 13,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_te_013.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_te_q13_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 17,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_te_017.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_te_q17_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.te",
+    "id": 24,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_te_024.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_te_q24_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tc",
+    "id": 38,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tc_038.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tc_q38_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 8,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tn_008.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tn_q8_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 56,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tn_056.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tn_q56_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 57,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tn_057.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tn_q57_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tn",
+    "id": 60,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tn_060.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tn_q60_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 11,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_011.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q11_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 12,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_012.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q12_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 15,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_015.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q15_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 21,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_021.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q21_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 22,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_022.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q22_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_024.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q24_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 25,
+    "field": "images",
+    "before": [
+      "static/v4_histo_ann_tech_q25_original.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q25_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 30,
+    "field": "images",
+    "before": [
+      "static/histo_ann_tech_030_micrograph_original.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q30_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 35,
+    "field": "images",
+    "before": [
+      "static/figure_histo_ann_tech_035.png"
+    ],
+    "after": [
+      "static/revision_v6/histologie/histo_ann_tech_q35_figure_1.webp"
+    ],
+    "reason": "Recadrage authentique du sujet avec toutes les flèches et légendes ; attribution au bon QCM."
+  },
+  {
+    "bank": "histo.ann.tech",
+    "id": 30,
+    "field": "subjectPage",
+    "before": 12,
+    "after": 11,
+    "reason": "Début réel du sujet, figures comprises."
+  }
+]

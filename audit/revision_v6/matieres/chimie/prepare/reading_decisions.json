@@ -1,0 +1,73 @@
+{
+  "seriesRead": [
+    "2025s1",
+    "2024s1",
+    "2024s2",
+    "2023s1",
+    "2023s2",
+    "2022s1",
+    "2022s2",
+    "2021s1",
+    "2021s2",
+    "2020s1",
+    "2020s2",
+    "2020paces",
+    "2019",
+    "2018"
+  ],
+  "pagesSeen": [
+    16,
+    17,
+    18,
+    57,
+    58,
+    90,
+    91,
+    112,
+    113,
+    157,
+    158,
+    186,
+    187,
+    219,
+    246,
+    247,
+    283,
+    307,
+    308,
+    337,
+    338,
+    368,
+    369,
+    370,
+    411,
+    412,
+    413,
+    414,
+    456,
+    457,
+    458
+  ],
+  "pending": [],
+  "status": "resolved_by_finalizer",
+  "rejectedInitialHypotheses": [
+    {
+      "question": "2023s2 Q28 D",
+      "decision": "La structure 3 est une pentan-3-one, pas une butanone. Le bilan retenu dans la note est C10H18O."
+    },
+    {
+      "question": "2021s1 Q40 A",
+      "decision": "Le dessin comporte bien CH3 à gauche du carbone porteur de OH dans la structure 5. Alcool tertiaire confirmé; aucune réserve A ajoutée."
+    },
+    {
+      "question": "2022s1 Q43 E",
+      "decision": "Pas de réserve ajoutée: contexte du modèle radiatif de la ronéo; aucune preuve spécifique suffisante collectée pour déclarer la clé erronée."
+    },
+    {
+      "question": "2018 Q44 B",
+      "decision": "Pas de changement ou réserve de classification sans preuve décisive du vocabulaire attendu du cours."
+    }
+  ],
+  "finalChanges": "changes.json",
+  "finalReview": "reviewed.json"
+}

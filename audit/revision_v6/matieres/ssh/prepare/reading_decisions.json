@@ -1,0 +1,705 @@
+{
+  "read_ranges": {
+    "acc": [
+      1,
+      38
+    ],
+    "colle2": [
+      1,
+      79
+    ],
+    "colle1": [
+      1,
+      78
+    ],
+    "eb": [
+      1,
+      79
+    ]
+  },
+  "all_source_and_correction_items_read": true,
+  "visualContactSheetsViewed": [
+    "00_acc_1.jpg",
+    "01_acc_9.jpg",
+    "02_acc_15.jpg",
+    "03_acc_25.jpg",
+    "04_acc_26.jpg",
+    "05_acc_34.jpg",
+    "06_acc_38.jpg",
+    "07_colle2_10.jpg",
+    "08_colle2_11.jpg",
+    "09_colle2_12.jpg",
+    "10_colle2_21.jpg",
+    "11_colle2_43.jpg",
+    "12_colle2_76.jpg",
+    "13_colle1_12.jpg",
+    "14_colle1_26.jpg",
+    "15_colle1_39.jpg",
+    "16_colle1_68.jpg",
+    "17_eb_5.jpg",
+    "18_eb_28.jpg",
+    "19_eb_69.jpg",
+    "20_eb_77.jpg"
+  ],
+  "limits": [
+    {
+      "type": "corrige_correspondant",
+      "document": "Correction Colle 2 SSH — QCM 11 et 12 du sujet fourni",
+      "questions": [
+        {
+          "bank": "colle2",
+          "id": 11
+        },
+        {
+          "bank": "colle2",
+          "id": 12
+        }
+      ],
+      "reason": "La grille et le détail fournis corrigent d’autres énoncés. Les sujets de greffe/prélèvement ne disposent pas de correction correspondante. Les deux fichiers et les quatre séries ont été rapprochés ; les items du corrigé se retrouvent dans EB 54–55, pas dans ces deux sujets."
+    },
+    {
+      "type": "original_non_remanie",
+      "document": "Colle 1 SSH : sujet et corrigé officiels non remis en page",
+      "questions": "colle1, 78 QCM",
+      "reason": "Les PDF fournis sont remis en page et le corrigé contient des commentaires personnalisés antérieurs. Comparaison complète faite sur ces pièces, sans certification de la transcription initiale."
+    },
+    {
+      "type": "original_non_remanie",
+      "document": "EB blanc SSH : sujet et corrigé officiels non remis en page",
+      "questions": "eb, 79 QCM",
+      "reason": "Même limite de provenance ; demander notamment le texte complet de EB 6B et la consigne de EB 77 dans le sujet initial."
+    },
+    {
+      "type": "roneos",
+      "document": "Ronéos SSH des cours cités dans les remarques et errata du tutorat",
+      "questions": [
+        {
+          "bank": "acc",
+          "id": 4,
+          "noteIds": [
+            "ssh-v6-acc-4-B-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 5,
+          "noteIds": [
+            "ssh-v6-acc-5-all-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 7,
+          "noteIds": [
+            "ue1-v4-001"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 9,
+          "noteIds": [
+            "ue1-v4-002"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 12,
+          "noteIds": [
+            "ssh-v6-acc-12-all-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 14,
+          "noteIds": [
+            "ssh-v6-acc-14-E-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 15,
+          "noteIds": [
+            "ssh-v6-acc-15-D-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 25,
+          "noteIds": [
+            "ssh-v6-acc-25-D-1",
+            "ssh-v6-acc-25-all-2"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 27,
+          "noteIds": [
+            "ue1-v4-003"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 28,
+          "noteIds": [
+            "ssh-v6-acc-28-all-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 29,
+          "noteIds": [
+            "ssh-v6-acc-29-all-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 30,
+          "noteIds": [
+            "ssh-v6-acc-30-all-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 31,
+          "noteIds": [
+            "ue1-v4-004"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 32,
+          "noteIds": [
+            "ssh-v6-acc-32-all-1"
+          ]
+        },
+        {
+          "bank": "acc",
+          "id": 34,
+          "noteIds": [
+            "ue1-v4-005"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 3,
+          "noteIds": [
+            "ssh-v6-colle2-3-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 11,
+          "noteIds": [
+            "ssh-v6-colle2-11-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 12,
+          "noteIds": [
+            "ssh-v6-colle2-12-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 13,
+          "noteIds": [
+            "ssh-v6-colle2-13-DE-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 15,
+          "noteIds": [
+            "ssh-v6-colle2-15-B-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 16,
+          "noteIds": [
+            "ssh-v6-colle2-16-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 18,
+          "noteIds": [
+            "ssh-v6-colle2-18-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 19,
+          "noteIds": [
+            "ssh-v6-colle2-19-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 21,
+          "noteIds": [
+            "ssh-v6-colle2-21-BD-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 30,
+          "noteIds": [
+            "ssh-v6-colle2-30-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 38,
+          "noteIds": [
+            "ue1-v4-021",
+            "ssh-v6-colle2-38-all-2"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 43,
+          "noteIds": [
+            "ssh-v6-colle2-43-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 45,
+          "noteIds": [
+            "ue1-v4-022"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 46,
+          "noteIds": [
+            "ssh-v6-colle2-46-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 48,
+          "noteIds": [
+            "ssh-v6-colle2-48-B-1",
+            "ssh-v6-colle2-48-E-2"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 50,
+          "noteIds": [
+            "ssh-v6-colle2-50-AC-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 54,
+          "noteIds": [
+            "ssh-v6-colle2-54-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 56,
+          "noteIds": [
+            "ue1-v4-023"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 63,
+          "noteIds": [
+            "ssh-v6-colle2-63-C-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 64,
+          "noteIds": [
+            "ssh-v6-colle2-64-ACE-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 66,
+          "noteIds": [
+            "ssh-v6-colle2-66-all-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 68,
+          "noteIds": [
+            "ssh-v6-colle2-68-A-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 69,
+          "noteIds": [
+            "ssh-v6-colle2-69-B-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 74,
+          "noteIds": [
+            "ssh-v6-colle2-74-B-1"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 75,
+          "noteIds": [
+            "ue1-v4-024",
+            "ssh-v6-colle2-75-all-2"
+          ]
+        },
+        {
+          "bank": "colle2",
+          "id": 76,
+          "noteIds": [
+            "ssh-v6-colle2-76-all-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 10,
+          "noteIds": [
+            "ue1-v4-006"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 12,
+          "noteIds": [
+            "ue1-v4-008",
+            "ssh-v6-colle1-12-A-2"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 13,
+          "noteIds": [
+            "ssh-v6-colle1-13-CE-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 15,
+          "noteIds": [
+            "ue1-v4-009"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 21,
+          "noteIds": [
+            "ue1-v4-010"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 23,
+          "noteIds": [
+            "ue1-v4-011"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 26,
+          "noteIds": [
+            "ssh-v6-colle1-26-all-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 32,
+          "noteIds": [
+            "ssh-v6-colle1-32-E-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 38,
+          "noteIds": [
+            "ue1-v4-012"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 39,
+          "noteIds": [
+            "ssh-v6-colle1-39-D-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 43,
+          "noteIds": [
+            "ssh-v6-colle1-43-all-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 44,
+          "noteIds": [
+            "ue1-v4-013"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 49,
+          "noteIds": [
+            "ssh-v6-colle1-49-AB-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 60,
+          "noteIds": [
+            "ssh-v6-colle1-60-C-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 62,
+          "noteIds": [
+            "ssh-v6-colle1-62-A-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 64,
+          "noteIds": [
+            "ue1-v4-014"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 66,
+          "noteIds": [
+            "ssh-v6-colle1-66-E-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 67,
+          "noteIds": [
+            "ue1-v4-015"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 68,
+          "noteIds": [
+            "ssh-v6-colle1-68-CD-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 69,
+          "noteIds": [
+            "ssh-v6-colle1-69-all-1"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 70,
+          "noteIds": [
+            "ue1-v4-016"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 71,
+          "noteIds": [
+            "ue1-v4-017"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 73,
+          "noteIds": [
+            "ue1-v4-018",
+            "ue1-v4-019"
+          ]
+        },
+        {
+          "bank": "colle1",
+          "id": 75,
+          "noteIds": [
+            "ue1-v4-020"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 2,
+          "noteIds": [
+            "ue1-v4-025"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 3,
+          "noteIds": [
+            "ue1-v4-026"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 4,
+          "noteIds": [
+            "ssh-v6-eb-4-B-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 5,
+          "noteIds": [
+            "ue1-v4-027",
+            "ue1-v4-028"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 6,
+          "noteIds": [
+            "ssh-v6-eb-6-all-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 12,
+          "noteIds": [
+            "ue1-v4-029"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 17,
+          "noteIds": [
+            "ue1-v4-030"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 19,
+          "noteIds": [
+            "ue1-v4-031",
+            "ssh-v6-eb-19-B-2"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 24,
+          "noteIds": [
+            "ssh-v6-eb-24-E-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 25,
+          "noteIds": [
+            "ssh-v6-eb-25-A-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 28,
+          "noteIds": [
+            "ue1-v4-032"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 32,
+          "noteIds": [
+            "ue1-v4-033"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 34,
+          "noteIds": [
+            "ue1-v4-034"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 41,
+          "noteIds": [
+            "ue1-v4-007"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 50,
+          "noteIds": [
+            "ssh-v6-eb-50-C-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 51,
+          "noteIds": [
+            "ssh-v6-eb-51-B-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 52,
+          "noteIds": [
+            "ssh-v6-eb-52-A-1",
+            "ssh-v6-eb-52-B-2"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 53,
+          "noteIds": [
+            "ue1-v4-035"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 56,
+          "noteIds": [
+            "ue1-v4-036"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 65,
+          "noteIds": [
+            "ssh-v6-eb-65-A-1"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 69,
+          "noteIds": [
+            "ue1-v4-037"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 73,
+          "noteIds": [
+            "ue1-v4-038"
+          ]
+        },
+        {
+          "bank": "eb",
+          "id": 75,
+          "noteIds": [
+            "ue1-v4-039"
+          ]
+        }
+      ],
+      "reason": "Arbitrer les conventions du cours, les données datées et les réserves scientifiques documentées ; les clés fournies sont préservées hors absence de correspondance."
+    }
+  ]
+}

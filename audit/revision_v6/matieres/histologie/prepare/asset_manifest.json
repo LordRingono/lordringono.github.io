@@ -1,0 +1,338 @@
+[
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_tn3_q6_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_tn3_q6_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/histo_v5/tn3_subject.pdf",
+    "page": 1,
+    "rect": [
+      30.65,
+      641.5,
+      275,
+      769.7
+    ],
+    "bank": "histo.tn3",
+    "id": 6,
+    "sha256": "ce8738ecbe99a2f0c5b3fd1a79027eb8308f20be249ae13ad580fa735a0ac969",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_tn3_q7_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_tn3_q7_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/histo_v5/tn3_subject.pdf",
+    "page": 2,
+    "rect": [
+      30.65,
+      106,
+      272.65,
+      299
+    ],
+    "bank": "histo.tn3",
+    "id": 7,
+    "sha256": "9b4b68819b76d27db13f2d8e5568db145c1f0ff269ba05c47bbd419b51e96f1d",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_autotech_q11_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_autotech_q11_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/histo_v5/autotech_subject.pdf",
+    "page": 3,
+    "rect": [
+      33,
+      203,
+      259,
+      324
+    ],
+    "bank": "histo.autotech",
+    "id": 11,
+    "sha256": "b36ad355b3d3ed5407a85336647b40517be897f98753302355eb578ca3be90a4",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_te_q11_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_te_q11_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf",
+    "page": 3,
+    "rect": [
+      35.8,
+      411.6,
+      523.2,
+      492
+    ],
+    "bank": "histo.ann.te",
+    "id": 11,
+    "sha256": "6ab00f8403b3db54f929cc56d4aa1107cb163d89ecf9a8fac16f0da07d55923b",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_te_q13_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_te_q13_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf",
+    "page": 4,
+    "rect": [
+      36.0,
+      61.91998291015625,
+      221.39999389648438,
+      291.5999755859375
+    ],
+    "bank": "histo.ann.te",
+    "id": 13,
+    "sha256": "1d93f7f2149687a3fd45ea27643df0a802f49bd3a400760e7acbde35e45b123f",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_te_q17_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_te_q17_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf",
+    "page": 5,
+    "rect": [
+      36.0,
+      143.7539825439453,
+      333.5689697265625,
+      291.1484375
+    ],
+    "bank": "histo.ann.te",
+    "id": 17,
+    "sha256": "f5704191f1da2499bd1e621ed66cc93346708cbc5dac0202b0ceec92d81ec9b2",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_te_q24_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_te_q24_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/Annales_Tissu_epithelial_NON_corrige_2020_2026_cd39b0a2e7.pdf",
+    "page": 7,
+    "rect": [
+      36.0,
+      63.5999755859375,
+      390.0,
+      176.03997802734375
+    ],
+    "bank": "histo.ann.te",
+    "id": 24,
+    "sha256": "7927907fa5eab43dd410355bdbbc8a9444d03fbfadded92e1b41dbd3b75e35fd",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tc_q38_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tc_q38_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_CONJONCTIF_2020_2025_1db02487eb.pdf",
+    "page": 11,
+    "rect": [
+      36.0,
+      312.00189208984375,
+      191.154052734375,
+      409.78826904296875
+    ],
+    "bank": "histo.ann.tc",
+    "id": 38,
+    "sha256": "dfffb60d287cb3671f268f42eab233b530abd326d1bc7845285ef9b31359abd3",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tn_q8_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tn_q8_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+    "page": 4,
+    "rect": [
+      68.4000015258789,
+      159.83998107910156,
+      270.6000061035156,
+      334.3199768066406
+    ],
+    "bank": "histo.ann.tn",
+    "id": 8,
+    "sha256": "d011d72da59e87ad005ad75c1c663f0446fa981a5d20483af9f5770ca4c84597",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tn_q56_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tn_q56_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+    "page": 19,
+    "rect": [
+      54.0,
+      426.5999755859375,
+      248.75999450683594,
+      555.5999755859375
+    ],
+    "bank": "histo.ann.tn",
+    "id": 56,
+    "sha256": "d43866e5a721505fd174c6b84ed8f5e1a2afaa518e08bf2adb2992295efd3121",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tn_q57_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tn_q57_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+    "page": 20,
+    "rect": [
+      54.0,
+      115.91963958740234,
+      228.8029022216797,
+      237.12155151367188
+    ],
+    "bank": "histo.ann.tn",
+    "id": 57,
+    "sha256": "3fbfd9f08d9d4e17599cccdbcf3b693df5807e8ec826fa4e14a66a7281ae4a45",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tn_q60_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tn_q60_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/annales_TISSU_NERVEUX_2018_2025_16377b30d2.pdf",
+    "page": 21,
+    "rect": [
+      54.0,
+      323.9966125488281,
+      320.9693603515625,
+      509.0257263183594
+    ],
+    "bank": "histo.ann.tn",
+    "id": 60,
+    "sha256": "f7d5c99d07fb919b8f892742a96238703c995cd9c92aad86fafa0bdfacf52c5d",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q11_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q11_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 5,
+    "rect": [
+      33,
+      82,
+      234,
+      267
+    ],
+    "bank": "histo.ann.tech",
+    "id": 11,
+    "sha256": "d379c05fbdec059ecb18027b860eb93fa90dac04e11e2d016715ef9e74c3245d",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q12_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q12_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 5,
+    "rect": [
+      33,
+      82,
+      234,
+      267
+    ],
+    "bank": "histo.ann.tech",
+    "id": 12,
+    "sha256": "d379c05fbdec059ecb18027b860eb93fa90dac04e11e2d016715ef9e74c3245d",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q15_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q15_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 6,
+    "rect": [
+      128.0399932861328,
+      176.87997436523438,
+      466.67999267578125,
+      368.7599792480469
+    ],
+    "bank": "histo.ann.tech",
+    "id": 15,
+    "sha256": "56e608f5dcb80bbba4a81c68fe3e6d5a850ca68cadaebee67b32461182244627",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q21_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q21_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 7,
+    "rect": [
+      36.0,
+      484.5542907714844,
+      425.0471496582031,
+      652.6749267578125
+    ],
+    "bank": "histo.ann.tech",
+    "id": 21,
+    "sha256": "e6f77ac941324cbd1df50d5a2cf27db731dadd9f6bdac676652b226f06254391",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q22_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q22_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 8,
+    "rect": [
+      36.0,
+      76.32501220703125,
+      218.6063232421875,
+      309.8214111328125
+    ],
+    "bank": "histo.ann.tech",
+    "id": 22,
+    "sha256": "04eb3829875b47e98b3937032117fdd4bc161593cbbcf542789c5fca7add1d87",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q24_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q24_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 10,
+    "rect": [
+      72.0,
+      88.07998657226562,
+      443.0400085449219,
+      337.67999267578125
+    ],
+    "bank": "histo.ann.tech",
+    "id": 24,
+    "sha256": "cd8cd91695b59e0ce0a08bca3096433f1781c372f5fcaf6e985e26d90882f423",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q25_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q25_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 10,
+    "rect": [
+      36.0,
+      538.3199462890625,
+      211.55999755859375,
+      682.919921875
+    ],
+    "bank": "histo.ann.tech",
+    "id": 25,
+    "sha256": "361f2082bf9db45bf405e34417057fecb700d617e60b390ebc4d6740a58a7de5",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q30_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q30_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 11,
+    "rect": [
+      152.75999450683594,
+      588.5999755859375,
+      441.8399658203125,
+      782.5199584960938
+    ],
+    "bank": "histo.ann.tech",
+    "id": 30,
+    "sha256": "65f07f9e912618cb1239c20bf89a14ac48e16a425e75bc230171f6376b9273bc",
+    "pixelsEdited": false
+  },
+  {
+    "file": "/workspace/scratch/f3cb3bb97377/work/site_v6/histologie/prepare/assets/histo_ann_tech_q35_figure_1.webp",
+    "src": "static/revision_v6/histologie/histo_ann_tech_q35_figure_1.webp",
+    "source": "/workspace/scratch/f3cb3bb97377/output/site/sources/revision_v4/ANNALES_Techniques_2019_2026_NON_CORRIGEES_3cb51b54da.pdf",
+    "page": 13,
+    "rect": [
+      36.0,
+      51.479949951171875,
+      489.3599853515625,
+      212.75994873046875
+    ],
+    "bank": "histo.ann.tech",
+    "id": 35,
+    "sha256": "21cfc5d1a5658c7aa60e3d2c47796c07e063ee0f07aeaeba5c00f89e98b36be0",
+    "pixelsEdited": false
+  }
+]

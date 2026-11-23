@@ -1,0 +1,259 @@
+[
+  {
+    "bank": "ue2.intro.autotest",
+    "questions": 11,
+    "items": 54,
+    "sourceSubject": "4. Autotests Acides Nucléiques ENNONCE.pdf",
+    "sourceCorrection": "4. Autotests Acides Nucléiques CORRECTION.pdf",
+    "keys": {
+      "matched": 10,
+      "non_qcm_matching_exercise": 1
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.intro.annales",
+    "questions": 14,
+    "items": 70,
+    "sourceSubject": "2. Annales Acide nucléiques LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Acide nucléiques LS CORRECTION.pdf",
+    "keys": {
+      "matched": 14
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.adn.autotest",
+    "questions": 14,
+    "items": 73,
+    "sourceSubject": "4. Autotests ADN ENONCE.pdf",
+    "sourceCorrection": "4. Autotests ADN CORRECTION.pdf",
+    "keys": {
+      "matched": 14
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.adn.annales",
+    "questions": 28,
+    "items": 140,
+    "sourceSubject": "2. Annales ADN LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales ADN LS CORRECTION.pdf",
+    "keys": {
+      "matched": 27,
+      "source_ambiguous_preserved_ungraded": 1
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.arn.autotest",
+    "questions": 19,
+    "items": 95,
+    "sourceSubject": "4. Autotests ARN et métabolisme ENONCE.pdf",
+    "sourceCorrection": "4. Autotests ARN et métabolisme CORRECTION.pdf",
+    "keys": {
+      "matched": 19
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.arn.annales",
+    "questions": 29,
+    "items": 145,
+    "sourceSubject": "2. Annales ARN et métabolisme LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales ARN et métabolisme LS CORRECTION.pdf",
+    "keys": {
+      "matched": 28,
+      "source_ambiguous_preserved_ungraded": 1
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.organisation.autotest",
+    "questions": 12,
+    "items": 60,
+    "sourceSubject": "4. Autotests Organisation du génome ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Organisation du génome CORRECTION-1.pdf",
+    "keys": {
+      "matched": 12
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.organisation.annales",
+    "questions": 12,
+    "items": 60,
+    "sourceSubject": "2. Annales Organisation du genome LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Organisation du genome LS CORRECTION.pdf",
+    "keys": {
+      "matched": 12
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.replication.autotest",
+    "questions": 27,
+    "items": 135,
+    "sourceSubject": "4. Autotests Réplication ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Réplication CORRECTION.pdf",
+    "keys": {
+      "matched": 27
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.replication.annales",
+    "questions": 22,
+    "items": 110,
+    "sourceSubject": "2. Annales Réplication LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Réplication LS CORRECTION.pdf",
+    "keys": {
+      "matched": 22
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.transcription.autotest",
+    "questions": 35,
+    "items": 175,
+    "sourceSubject": "4. Autotests Transcription LS ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Transcription LS CORRECTION.pdf",
+    "keys": {
+      "matched": 35
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.transcription.annales",
+    "questions": 34,
+    "items": 170,
+    "sourceSubject": "2. Annales Transcription LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Transcription LS CORRECTION.pdf",
+    "keys": {
+      "matched": 33,
+      "source_ambiguous_preserved_ungraded": 1
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.traduction.autotest",
+    "questions": 29,
+    "items": 148,
+    "sourceSubject": "4. Autotests Traduction ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Traduction CORRECTION.pdf",
+    "keys": {
+      "matched": 29
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.traduction.annales",
+    "questions": 30,
+    "items": 150,
+    "sourceSubject": "2. Annales Traduction LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Traduction LS CORRECTION.pdf",
+    "keys": {
+      "matched": 30
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.regulation.autotest",
+    "questions": 24,
+    "items": 122,
+    "sourceSubject": "4. Autotests Régulation ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Régulation CORRECTION.pdf",
+    "keys": {
+      "matched": 24
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.regulation.annales",
+    "questions": 23,
+    "items": 115,
+    "sourceSubject": "2. Annales Régulation LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Régulation LS CORRECTION.pdf",
+    "keys": {
+      "matched": 23
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.reparation.autotest",
+    "questions": 20,
+    "items": 100,
+    "sourceSubject": "4. Autotests Réparation de l'ADN ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Réparation de l'ADN CORRECTION.pdf",
+    "keys": {
+      "matched": 20
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.reparation.annales",
+    "questions": 25,
+    "items": 120,
+    "sourceSubject": "2. Annales Réparation LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Réparation LS CORRECTION.pdf",
+    "keys": {
+      "matched": 25
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.anomalies.autotest",
+    "questions": 7,
+    "items": 35,
+    "sourceSubject": "4. Autotests Anomalies du génome ENONCE.pdf",
+    "sourceCorrection": "4. Autotests Anomalies du génome CORRECTION-1.pdf",
+    "keys": {
+      "matched": 7
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.anomalies.annales",
+    "questions": 9,
+    "items": 45,
+    "sourceSubject": "2. Annales Anomalies LS ENONCE.pdf",
+    "sourceCorrection": "2. Annales Anomalies LS CORRECTION.pdf",
+    "keys": {
+      "matched": 9
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.ed.annales",
+    "questions": 43,
+    "items": 215,
+    "sourceSubject": "3. Annales ED LS ENONCE-1.pdf",
+    "sourceCorrection": "3. Annales ED LS CORRECTION.pdf",
+    "keys": {
+      "matched": 43
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.ed.2025-2026",
+    "questions": 43,
+    "items": 215,
+    "sourceSubject": "ED 2025-2026 PASS.pdf",
+    "sourceCorrection": "2. Correction ED 2025-2026.pdf",
+    "keys": {
+      "matched": 43
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  },
+  {
+    "bank": "ue2.ed.2026-2027",
+    "questions": 40,
+    "items": 200,
+    "sourceSubject": "UE2_ED 2026.pdf",
+    "sourceCorrection": "2. Correction ED 2026-2027.pdf",
+    "keys": {
+      "matched": 40
+    },
+    "status": "preparer_complete_independent_verification_pending"
+  }
+]

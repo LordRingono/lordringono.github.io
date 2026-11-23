@@ -1,0 +1,1061 @@
+[
+  {
+    "issueId": "prep-001",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2024s1",
+      "id": 1,
+      "item": "A",
+      "field": "explanations",
+      "before": "VRAI : Dans cet item nous cherchons une longueur d’onde pour l’atome d’hydrogène. Pour cela on commence par calculer l’énergie d’ionisation de l’atome d’hydrogène à n=4. Ei= 0-E4. Nous devons 𝑍2 𝒏𝟐= -13,6x 1/42= -0,85 eV. Ei=0,85 eV. Or calculer E4 pour trouver l’énergie d’ionisation. E4=-13,6 x nous cherchons une longueur d’onde. La formule mettant en lien une longueur d’onde et une énergie est E= hc/λ. On isole la longueur d’onde ce qui nous donne λ=hc/E=6,626.10-34 x 2,997.10 8 /0,85x1,602.10 -19= 1458,33 nm. Attention n’oubliez pas de convertir les eV en J !!! 𝑍2 32",
+      "after": "VRAI : Dans cet item nous cherchons une longueur d’onde pour l’atome d’hydrogène. Le corrigé commence par calculer l’énergie d’ionisation à n=4 : Eᵢ = 0 − E₄, avec E₄ = −13,6 × Z²/n² = −13,6 × 1/4² = −0,85 eV, donc Eᵢ = 0,85 eV. E = hc/λ, d’où λ = hc/E = (6,626 × 10⁻³⁴ × 2,997 × 10⁸)/(0,85 × 1,602 × 10⁻¹⁹) = 1458,33 nm. Convertir les eV en J. Voir la réserve ci-dessous sur « quatrième niveau d’excitation ».",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-002",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2024s1",
+      "id": 1,
+      "item": "B",
+      "field": "explanations",
+      "before": "VRAI : : Ei =E infini-E=0-E1. On doit donc calculer E1. E1=-13,6 x 𝒏𝟐=-13,6 x 𝟏𝟐=-122,40eV. On en déduit ensuite l’énergie d’ionisation Ei=0-(-122,4) =122,4 eV 𝑍2 32",
+      "after": "VRAI : Eᵢ = E∞ − E₁ = 0 − E₁. E₁ = −13,6 × Z²/n² = −13,6 × 3²/1² = −122,40 eV. Donc Eᵢ = 0 − (−122,4) = 122,4 eV.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-003",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2024s1",
+      "id": 1,
+      "item": "C",
+      "field": "explanations",
+      "before": "VRAI : Il faut calculer l’énergie pour n=4. E=-13,6 x 𝒏𝟐= -13,6 x 𝟒𝟐= -7,65eV 𝑍2",
+      "after": "VRAI : Il faut calculer l’énergie pour n=4 : E = −13,6 × Z²/n² = −13,6 × 3²/4² = −7,65 eV.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-004",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2024s1",
+      "id": 1,
+      "item": "D",
+      "field": "explanations",
+      "before": "FAUX : Pour que l’énergie d’ionisation soit égale à 13,6 il faut que 𝒏𝟐 Soit égale à 1. Or Z=35 et n=34.",
+      "after": "FAUX : Pour que l’énergie d’ionisation soit égale à 13,6 eV, il faut que Z²/n² = 1. Or Z=35 et n=34.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-005",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2023s1",
+      "id": 1,
+      "item": "B",
+      "field": "explanations",
+      "before": "VRAI : à l'état initial E( 𝐿𝑖 + )=-13,6*32/12 = -122,4 eV donc pour l'ioniser il faudra fournir 122,4eV 3 (𝐸𝑖= 𝐸∞−𝐸𝑛=1 = 0 −(−122,4) = 122,4𝑒𝑉)",
+      "after": "VRAI : À l’état initial, le corrigé écrit E(₃Li⁺) = −13,6 × 3²/1² = −122,4 eV. Pour l’ioniser : Eᵢ = E∞ − Eₙ₌₁ = 0 − (−122,4) = 122,4 eV. Voir la réserve ci-dessous sur la charge de Li⁺.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-006",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2023s1",
+      "id": 1,
+      "item": "C",
+      "field": "explanations",
+      "before": "VRAI : (attention : état fondamental: n=1; 1er état excité: n=2 donc 5e état excité: n=6) 1 1 ΔE6→1=13,6*32 *( 62)=119eV=119*1,602.10-19J 12 − ℎ𝑐 ℎ𝑐 6,626.10−34∗2,997.108 =1,0417* 10-8 m=10,4nm ΔE = 𝜆 donc λ= ΔE= 119∗1,602.10−19 1",
+      "after": "VRAI : État fondamental n=1 ; premier état excité n=2 ; cinquième état excité n=6. Le calcul imprimé est ΔE₆→₁ = 13,6 × 3² × (1/1² − 1/6²) = 119 eV = 119 × 1,602 × 10⁻¹⁹ J. ΔE = hc/λ, donc λ = (6,626 × 10⁻³⁴ × 2,997 × 10⁸)/(119 × 1,602 × 10⁻¹⁹) = 1,0417 × 10⁻⁸ m = 10,4 nm. Voir la réserve sur Li⁺.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-007",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2023s1",
+      "id": 1,
+      "item": "D",
+      "field": "explanations",
+      "before": "VRAI : 𝐸𝑖= 𝐸∞−𝐸𝑛=9 = 0 −(−13.6 ∗92 ∗ 92) = 13.6𝑒𝑉 (rappel: l'énergie d'un atome est toujours négative et une énergie d'ionisation/excitation est toujours positive)",
+      "after": "VRAI : Eᵢ = E∞ − Eₙ₌₉ = 0 − (−13,6 × 9² × 1/9²) = 13,6 eV. Le corrigé rappelle que les énergies des états liés sont négatives et les énergies d’ionisation ou d’excitation positives.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-008",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2022s1",
+      "id": 1,
+      "item": "A",
+      "field": "explanations",
+      "before": "FAUX : second niveau excité :n=3 𝑍2 12 13,6 E2 = -13,6 𝑛2 = -13,6 32 = - 9 = - 1,51 eV . On oublie pas qu’on cherche une énergie d’ionisation: Eionisation = E∞-E2 = 0-(-1,51)=1,51 eV —> énergie d’ionisation toujours positive !!",
+      "after": "FAUX : Second niveau excité : n=3. L’énergie, notée E₂ dans le corrigé, est calculée pour n=3 : −13,6 × Z²/n² = −13,6 × 1²/3² = −13,6/9 = −1,51 eV. Eᵢ = E∞ − E₂ = 0 − (−1,51) = 1,51 eV : l’énergie d’ionisation est positive.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-009",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2022s1",
+      "id": 1,
+      "item": "B",
+      "field": "explanations",
+      "before": "FAUX : Ce sont les mêmes valeurs Efondamental H = -13,6 eV → Eionisation =0- Efondamental H = 13,6 eV 𝑍2 42 4Be3+ : E4 = -13,6 𝑛2 = -13,6 42 = - 13,6 eV => énergie d’ionisation= 13,6 eV aussi",
+      "after": "FAUX : Ce sont les mêmes valeurs. Pour H au fondamental : E = −13,6 eV, donc Eᵢ = 0 − E = 13,6 eV. Pour ₄Be³⁺ à n=4 : E₄ = −13,6 × Z²/n² = −13,6 × 4²/4² = −13,6 eV, donc Eᵢ = 13,6 eV également.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-010",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2022s1",
+      "id": 1,
+      "item": "C",
+      "field": "explanations",
+      "before": "FAUX : ∆E1→2 ˂ ∆Eionisation (rp : ionisation = E maximale puisque l’électron est arraché) ℎ.𝑐 λ → λ est inversement proportionnel à ∆E donc λ1→2 ˃ λionisation Or, ∆E =",
+      "after": "FAUX : ΔE₁→₂ < ΔEᵢ. Avec ΔE = hc/λ, la longueur d’onde est inversement proportionnelle à ΔE : λ₁→₂ > λᵢ.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-011",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s2",
+      "id": 1,
+      "item": "A",
+      "field": "explanations",
+      "before": null,
+      "after": "VRAI : l=1 correspond à la sous-couche p ; 16 électrons se trouvent dans les sous-couches p. Le corrigé donne la configuration Se : 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-012",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s2",
+      "id": 1,
+      "item": "B",
+      "field": "explanations",
+      "before": null,
+      "after": "FAUX : Les électrons de valence sont ceux de 4s et 4p ; il y en a 6.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-013",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s2",
+      "id": 1,
+      "item": "C",
+      "field": "explanations",
+      "before": null,
+      "after": "FAUX : Pour S : 1s² 2s² 2p⁶ 3s² 3p⁴. S et Se appartiennent à la même colonne (p⁴). Se est plus bas (n=4 contre n=3 pour S) ; l’électronégativité augmente de bas en haut et de gauche à droite. S est plus électronégatif que Se.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-014",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s2",
+      "id": 1,
+      "item": "D",
+      "field": "explanations",
+      "before": null,
+      "after": "FAUX : ₃₄Se²⁻ possède 34 protons et 36 électrons.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-015",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s2",
+      "id": 1,
+      "item": "E",
+      "field": "explanations",
+      "before": null,
+      "after": "FAUX : Le corrigé invoque r = (n*²/Z*) × a₀, constate que Se²⁻ et Kr possèdent chacun 36 électrons et la configuration 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶, puis affirme qu’ils auraient les mêmes n* et Z* et des rayons identiques. Cette dernière déduction fait l’objet de la réserve ci-dessous.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-016",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2019",
+      "id": 1,
+      "item": "A",
+      "field": "explanations",
+      "before": "VRAI : entité 4 dans le plan : on permute son n° avec l’entité à l’arrière du plan puis on inverse la configuration obtenue. 2 4 4 3 2 S → R 3 4 1 1",
+      "after": "VRAI : Entité 4 dans le plan : on permute son numéro avec l’entité à l’arrière du plan puis on inverse la configuration obtenue. Le dessin conduit de S à R.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-017",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2019",
+      "id": 1,
+      "item": "B",
+      "field": "explanations",
+      "before": "VRAI : entité 4 à l’avant du plan (liaisons horizontales en Fischer : à l’avant) : on inverse la configuration obtenue. 1 R → S 3 4 2",
+      "after": "VRAI : Entité 4 à l’avant du plan (liaisons horizontales de Fischer à l’avant) : on inverse la configuration obtenue. Le dessin conduit de R à S.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-018",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2019",
+      "id": 1,
+      "item": "C",
+      "field": "explanations",
+      "before": "VRAI : = -CH₂CH₃",
+      "after": "VRAI : La justification est graphique : le groupe entouré correspond à −CH₂CH₃. Voir le schéma dans le corrigé original.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-019",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2019",
+      "id": 3,
+      "item": "B",
+      "field": "explanations",
+      "before": "VRAI : la chaîne principale doit d’abord contenir le C portant la fonction principale (ici l’alcool) puis avoir le maximum de carbones possible. Enfin, elle doit contenir les éventuelles liaisons multiples (ici la double liaison). 5 4 3 2 1",
+      "after": "VRAI : La chaîne principale doit d’abord contenir le carbone portant la fonction principale (ici l’alcool), puis avoir le maximum de carbones possible. Enfin, elle doit contenir les éventuelles liaisons multiples (ici la double liaison). Voir la numérotation sur le dessin du corrigé.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-020",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2019",
+      "id": 3,
+      "item": "D",
+      "field": "explanations",
+      "before": "VRAI : les entités 1 et les entités 2 sont opposées (ce sont des Ennemis). 1 2 2 1",
+      "after": "VRAI : Les entités 1 et les entités 2 sont opposées (ce sont des « Ennemis »). Voir les priorités indiquées sur le dessin du corrigé.",
+      "reason": "Transcription du rendu original; indices/fractions ou repères des dessins rétablis."
+    }
+  },
+  {
+    "issueId": "prep-021",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2024s2",
+      "id": 1,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2024s2-27-E",
+      "text": "Le détail E compte « 5 C, 1 N et 17 H ». Le décompte des deux structures dessinées donne 7 carbones, soit C₇H₁₇N. La conclusion d’isomérie de constitution reste cohérente ; c’est le comptage du corrigé qui est litigieux. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-022",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2023s1",
+      "id": 2,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2023s1-5-D",
+      "text": "La justification D parle d’un aldéhyde au lieu d’une cétone alors que l’item D porte sur le nombre de carbones asymétriques. Cette phrase figure déjà dans le corrigé original et ne justifie donc pas l’item. Le détail E du même corrigé précise que les structures 3 et 4 possèdent chacune un seul C*. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-023",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2023s1",
+      "id": 3,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2023s1-6-E",
+      "text": "Le détail E emploie « mélange racémique » puis explique qu’un centre préexistant garde sa configuration et que les deux produits sont diastéréoisomères. Un racémate est un mélange équimolaire de deux énantiomères ; ce terme ne convient pas à cette paire de diastéréoisomères. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-024",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2023s2",
+      "id": 2,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2023s2-28-D",
+      "text": "Le détail D propose C₈H₁₈O. La structure 3 dessinée est une pentan-3-one, C₅H₁₀O : la condensation de deux molécules suivie de la perte d’une molécule d’eau conduit à C₁₀H₁₈O. Le verdict faux de l’item C₆H₁₀O reste compatible avec ce bilan, mais la formule de remplacement du corrigé paraît erronée. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-025",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2023s2",
+      "id": 1,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2023s2-29-C",
+      "text": "Le calcul original écrit « niveau 2 » tout en utilisant n=6, puis 1,04 × 10⁸ = 10,4 nm. Il manque le signe moins et l’unité m dans cette dernière égalité : 10,4 nm = 1,04 × 10⁻⁸ m. La différence d’énergie affichée de 119 eV n’est pas remise en cause par ces coquilles. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-026",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2023s1",
+      "id": 1,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2023s1-1-A",
+      "text": "Le détail A parle de niveaux « 0 et infini ». Pour l’hydrogène dans ce modèle, le niveau fondamental est n=1 ; n=0 n’est pas un nombre quantique principal permis. Le raisonnement comparatif sur les énergies et les longueurs d’onde doit se lire entre n=1, n=350 et la limite d’ionisation. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-027",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s1",
+      "id": 2,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2021s1-44-A",
+      "text": "La configuration Cr³⁺ proposée dans le détail A se termine en 3d¹. À partir de Cr : [Ar] 4s¹ 3d⁵, on retire d’abord l’électron 4s puis deux électrons 3d : Cr³⁺ est [Ar] 3d³. Le verdict faux de l’item reste conservé ; la configuration de remplacement du corrigé est le point litigieux. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-028",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2021s1",
+      "id": 1,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2021s1-40-D",
+      "text": "Le corrigé emploie « énantiomère de constitution », qui mélange deux relations distinctes. Les structures 2 et 5 ont une connectivité différente : il s’agit d’isomérie de constitution, ce qui est compatible avec le verdict faux donné à l’item qui affirme une relation d’énantiomérie. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-029",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2021s1",
+      "id": 3,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2021s1-42-C",
+      "text": "Le détail C rejette « un alcool » au motif que le produit est une cyanhydrine. Or la définition IUPAC classe les cyanhydrines parmi les alcools substitués par un groupe cyano. La distinction pédagogique attendue semble être « cyanhydrine » plutôt que le nom de classe plus général ; la rédaction et le verdict nécessitent donc une clarification. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-030",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2020s1",
+      "id": 3,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2020s1-45-C",
+      "text": "Le corrigé attribue l’exception Mg/Al à une sous-couche « demi-pleine » de Mg. Mg possède 3s², une sous-couche pleine, alors qu’Al possède 3s²3p¹. L’ordre d’énergie d’ionisation Al < Mg < Cl est conservé ; c’est la description de la sous-couche qui paraît erronée. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-031",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2020s2",
+      "id": 1,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2020s2-27-D",
+      "text": "Le détail D omet les parenthèses de l’écran de Slater et écrit 11,15. Le calcul décrit est 34 − (2 × 1 + 8 × 0,85 + 7 × 0,35) = 34 − 11,25 = 22,75. Le résultat de l’item est cohérent, mais les étapes imprimées comportent une coquille. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-032",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.thermo.2020s2",
+      "id": 1,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2020s2-28-C",
+      "text": "L’enceinte est indilatable. Dans le modèle des gaz parfaits à température constante, ajouter N₂ inerte augmente la pression totale mais laisse chaque pression partielle réactive pᵢ=nᵢRT/V inchangée ; cela ne déplace donc pas l’équilibre. Le verdict faux de l’item « vers la droite » peut être conservé, mais la justification « vers la gauche » est litigieuse. La table de la ronéo fournie contient elle aussi cette difficulté : il faut faire préciser l’hypothèse du cours. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-033",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2020paces",
+      "id": 4,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2020paces-44-C",
+      "text": "Le détail C invoque une inversion de Walden parce que F est un alcool secondaire. Dans la synthèse de Williamson dessinée, l’alcoolate attaque le carbone du bromométhane CH₃Br : la substitution SN2 ne se fait pas sur le carbone portant initialement OH dans F. Celui-ci porte deux groupes benzyle identiques. Le verdict faux est conservé, mais l’explication stéréochimique doit être précisée. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-034",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2020paces",
+      "id": 5,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2020paces-45-A",
+      "text": "Le détail A nomme le produit 1 « une amine ». Le dessin représente plus précisément une énamine (motif C=C–N), obtenue ici avec une amine secondaire. La précision de vocabulaire manque dans le corrigé ; les propositions D et E restent celles de la clé officielle. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-035",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2018",
+      "id": 2,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2018-42-D",
+      "text": "Le détail C affirme que les structures 1 et 2 sont énantiomères, tandis que le détail D les appelle diastéréoisomères. Ces deux phrases du même corrigé se contredisent ; avec un seul centre asymétrique et des configurations opposées, la relation décrite en C est l’énantiomérie. Le verdict faux de D ne change pas. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-036",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2018",
+      "id": 2,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2018-47-ABCDE",
+      "text": "La justification générale écrit que le chlore aurait « 6 normalement » électrons de valence. Cl (Z=17) possède 3s²3p⁵, donc 7 électrons de valence. La clé C du schéma de Lewis est conservée ; c’est ce nombre dans le détail qui est litigieux. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "prep-037",
+    "origin": "preparateur",
+    "status": "valide_independamment",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2019",
+      "id": 2,
+      "field": "reviewNotes",
+      "noteId": "review-v6-chimie-2019-47-D",
+      "text": "L’item et son détail parlent d’« hyperconjugaison » de l’amine avec le cycle C, mais la justification invoque une suite d’atomes sp². Cela décrit plutôt une conjugaison du doublet avec le système π ; au sens IUPAC, l’hyperconjugaison implique des liaisons σ et un réseau π ou une orbitale p. Le vocabulaire du cours mérite ici une clarification. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant."
+    }
+  },
+  {
+    "issueId": "verifier-001",
+    "origin": "verificateur",
+    "status": "corrige_et_relu_dans_original",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2020s1",
+      "id": 1,
+      "sourceNumber": 43,
+      "item": "A",
+      "type": "import_repair",
+      "field": "explanations",
+      "before": "VRAI : (cf schéma p8) 𝑍2",
+      "after": "VRAI : (cf schéma p8).",
+      "sourcePage": 328,
+      "reason": "La fraction Z²/n² est celle du détail B dans le rendu original. Le numérateur avait été rattaché au détail A.",
+      "status": "corrige_et_relu_dans_original"
+    }
+  },
+  {
+    "issueId": "verifier-002",
+    "origin": "verificateur",
+    "status": "corrige_et_relu_dans_original",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2020s1",
+      "id": 1,
+      "sourceNumber": 43,
+      "item": "B",
+      "type": "import_repair",
+      "field": "explanations",
+      "before": "FAUX : la bonne formule est 𝐸𝑛= −ℎ. 𝑐. 𝑅ℎ. ( 𝑛2).",
+      "after": "FAUX : La bonne formule est Eₙ = −h × c × R_H × (Z²/n²).",
+      "sourcePage": 328,
+      "reason": "La fraction Z²/n² est celle du détail B dans le rendu original. Le numérateur avait été rattaché au détail A.",
+      "status": "corrige_et_relu_dans_original"
+    }
+  },
+  {
+    "issueId": "verifier-003",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2020s1",
+      "id": 1,
+      "sourceNumber": 43,
+      "items": [
+        "D"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2020s1",
+        "id": 1,
+        "sourceId": "43",
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "La configuration imprimée pour P, 1s² 2p⁶ 3s¹ 3p³ 4s¹, ne contient que 13 électrons, alors que l’atome neutre de phosphore (Z=15) en possède 15. Le détail « état excité » ne résout pas cette différence : une excitation conserve le nombre d’électrons. Une omission de 2s² est plausible, mais cette sous-couche ne figure pas dans l’item original et ne doit pas être ajoutée silencieusement. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 308,
+            "label": "Sujet original, Q43 D",
+            "href": "sources/Annales_compilation.pdf#page=308"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 328,
+            "label": "Corrigé original, Q43 D",
+            "href": "sources/Annales_compilation.pdf#page=328"
+          },
+          {
+            "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+            "page": 13,
+            "label": "Ronéo — configurations électroniques et nombre d’électrons",
+            "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=13"
+          },
+          {
+            "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+            "page": 15,
+            "label": "Ronéo — configurations des atomes neutres",
+            "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=15"
+          }
+        ],
+        "sourceVerdict": "ADE",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2020s1-43-D"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-004",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2023s2",
+      "id": 1,
+      "sourceNumber": 29,
+      "items": [
+        "D"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2023s2",
+        "id": 1,
+        "sourceId": "29",
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "L’item porte sur F⁸⁺ au niveau n=9. Son seuil d’ionisation est bien 13,6 × 9²/9² = 13,6 eV. En revanche, le détail propose de partir de l’énergie fondamentale : pour n=1, ce même ion aurait un seuil de 1 101,6 eV. Il faut donc utiliser E₉ dans Eᵢ = 0 − E₉ ; le mot « fondamental » du corrigé est incorrect ici. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 158,
+            "label": "Sujet original, Q29 D",
+            "href": "sources/Annales_compilation.pdf#page=158"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 173,
+            "label": "Corrigé original, Q29 D",
+            "href": "sources/Annales_compilation.pdf#page=173"
+          },
+          {
+            "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+            "page": 8,
+            "label": "Ronéo — énergie des hydrogénoïdes",
+            "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=8"
+          },
+          {
+            "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+            "page": 9,
+            "label": "Ronéo — transitions et ionisation",
+            "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=9"
+          }
+        ],
+        "sourceVerdict": "CD",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2023s2-29-D"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-005",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2024s1",
+      "id": 4,
+      "sourceNumber": 47,
+      "items": [
+        "B"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.chimie_org.2024s1",
+        "id": 4,
+        "sourceId": "47",
+        "items": [
+          "B"
+        ],
+        "kind": "possible_error",
+        "text": "Le détail B appelle la structure 1 une « cétone énolisable », alors que le dessin et le détail A identifient un aldéhyde. La formation d’un aldol à partir de cet aldéhyde énolisable reste cohérente avec le verdict vrai ; c’est le nom de la fonction de départ dans la justification B qui est à rectifier. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 58,
+            "label": "Sujet original, structure 1 et Q47",
+            "href": "sources/Annales_compilation.pdf#page=58"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 81,
+            "label": "Corrigé original, Q47 A et B",
+            "href": "sources/Annales_compilation.pdf#page=81"
+          },
+          {
+            "file": "OpenStax — réaction aldolique",
+            "label": "OpenStax — réaction aldolique",
+            "href": "https://openstax.org/books/organic-chemistry/pages/23-1-carbonyl-condensations-the-aldol-reaction"
+          }
+        ],
+        "sourceVerdict": "BD",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2024s1-47-B"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-006",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2024s2",
+      "id": 1,
+      "sourceNumber": 27,
+      "items": [
+        "C"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.chimie_org.2024s2",
+        "id": 1,
+        "sourceId": "27",
+        "items": [
+          "C"
+        ],
+        "kind": "possible_error",
+        "text": "Sur la structure 1, le carbone de droite porte deux groupes éthyle identiques : celui noté C₂H₅ et celui dessiné à gauche (CH₂–CH₃). Il ne possède donc pas quatre substituants différents et n’est pas asymétrique. La structure 1 n’a aucun C*, tandis que la structure 2 en a un. L’item « deux carbones asymétriques » reste faux, mais le comptage « un dans chaque structure » du détail est erroné. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 90,
+            "label": "Sujet original, structures 1 et 2",
+            "href": "sources/Annales_compilation.pdf#page=90"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 108,
+            "label": "Corrigé original, Q27 C",
+            "href": "sources/Annales_compilation.pdf#page=108"
+          },
+          {
+            "file": "OpenStax — carbone asymétrique et groupes différents",
+            "label": "OpenStax — carbone asymétrique et groupes différents",
+            "href": "https://openstax.org/books/organic-chemistry/pages/5-2-the-reason-for-handedness-in-molecules-chirality"
+          }
+        ],
+        "sourceVerdict": "ADE",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2024s2-27-C"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-007",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2021s1",
+      "id": 2,
+      "sourceNumber": 44,
+      "items": [
+        "D"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2021s1",
+        "id": 2,
+        "sourceId": "44",
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "Pour le chrome fondamental [Ar] 4s¹ 3d⁵, la règle de Hund place un électron dans chacune des cinq orbitales d. Dans ce modèle, m = −1 compte donc 2 électrons en 2p, 2 en 3p et 1 en 3d, soit 5. L’item « 6 électrons » est bien faux ; l’argument du détail selon lequel on ne pourrait pas déterminer ce nombre parce que 3d est incomplète ne convient pas à cette sous-couche demi-pleine. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 247,
+            "label": "Sujet original, Q44 D",
+            "href": "sources/Annales_compilation.pdf#page=247"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 274,
+            "label": "Corrigé original, Q44 D",
+            "href": "sources/Annales_compilation.pdf#page=274"
+          },
+          {
+            "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+            "page": 13,
+            "label": "Ronéo — Hund et remplissage à l’état fondamental",
+            "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=13"
+          },
+          {
+            "file": "Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf",
+            "page": 16,
+            "label": "Ronéo — configuration d’exception du chrome",
+            "href": "sources/revision_v4/Chap_1_et_2_chimie_phy_260918_170147_9d9e60bef2.pdf#page=16"
+          }
+        ],
+        "sourceVerdict": "BC",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2021s1-44-D"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-008",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2022s2",
+      "id": 1,
+      "sourceNumber": 27,
+      "items": [
+        "D"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2022s2",
+        "id": 1,
+        "sourceId": "27",
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "La tendance périodique invoquée dans le corrigé ne suffit pas à conclure que Cu est plus électronégatif que Ni. Dans l’échelle de Pauling publiée par la Royal Society of Chemistry, Cu vaut 1,90 et Ni 1,91, soit l’ordre inverse. L’échelle ou l’approximation attendue dans le cours doit être précisée avant d’interpréter le verdict vrai. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 219,
+            "label": "Sujet original, Q27 D",
+            "href": "sources/Annales_compilation.pdf#page=219"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 233,
+            "label": "Corrigé original, Q27 D",
+            "href": "sources/Annales_compilation.pdf#page=233"
+          },
+          {
+            "file": "Royal Society of Chemistry — cuivre, Pauling 1,90",
+            "label": "Royal Society of Chemistry — cuivre, Pauling 1,90",
+            "href": "https://periodic-table.rsc.org/element/29/copper"
+          },
+          {
+            "file": "Royal Society of Chemistry — nickel, Pauling 1,91",
+            "label": "Royal Society of Chemistry — nickel, Pauling 1,91",
+            "href": "https://periodic-table.rsc.org/element/28/nickel"
+          }
+        ],
+        "sourceVerdict": "CDE",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2022s2-27-D"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-009",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2018",
+      "id": 1,
+      "sourceNumber": 46,
+      "items": [
+        "D"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2018",
+        "id": 1,
+        "sourceId": "46",
+        "items": [
+          "D"
+        ],
+        "kind": "possible_error",
+        "text": "L’argument « cela pourrait très bien être une 2pz » est problématique : dans la convention usuelle où l’axe de quantification est z, l’orbitale pz correspond à m = 0. Les orbitales réelles px et py et les états de m = ±1 nécessitent de préciser la base utilisée ; cette nuance ne justifie pas d’attribuer pz à m = −1. Faire clarifier la convention du cours et la justification du verdict faux. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 458,
+            "label": "Sujet original, Q47 imprimé / Q46 corrigé",
+            "href": "sources/Annales_compilation.pdf#page=458"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 483,
+            "label": "Corrigé original, Q46 D",
+            "href": "sources/Annales_compilation.pdf#page=483"
+          },
+          {
+            "file": "MIT OpenCourseWare — orbitales p et nombres quantiques, p. 1",
+            "label": "MIT OpenCourseWare — orbitales p et nombres quantiques, p. 1",
+            "href": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/5c828fce769b146e5820a7d6ed0abfc2_MIT5_111F14_Lec6.pdf#page=1"
+          }
+        ],
+        "sourceVerdict": "AB",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2018-46-D"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-010",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.chimie_org.2018",
+      "id": 5,
+      "sourceNumber": 45,
+      "items": [
+        "A",
+        "B"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.chimie_org.2018",
+        "id": 5,
+        "sourceId": "45",
+        "items": [
+          "A",
+          "B"
+        ],
+        "kind": "possible_error",
+        "text": "Le caractère tertiaire du dérivé halogéné ne suffit pas, à lui seul, à imposer SN1. Les alcoolates cités sont aussi des bases et une élimination E2 peut concurrencer la substitution ; le solvant et la température influencent le résultat. La stabilisation du carbocation par les noyaux aromatiques doit également être prise en compte. Les conditions données et l’argument « tertiaire donc SN1 » sont trop sommaires pour exclure cette concurrence : faire confirmer l’hypothèse retenue pour A et B. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 457,
+            "label": "Sujet original, Q46 imprimé / Q45 corrigé",
+            "href": "sources/Annales_compilation.pdf#page=457"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 482,
+            "label": "Corrigé original, Q45 A et B",
+            "href": "sources/Annales_compilation.pdf#page=482"
+          },
+          {
+            "file": "OpenStax — concurrence SN1, SN2, E1 et E2",
+            "label": "OpenStax — concurrence SN1, SN2, E1 et E2",
+            "href": "https://openstax.org/books/organic-chemistry/pages/11-12-a-summary-of-reactivity-sn1-sn2-e1-e1cb-and-e2"
+          }
+        ],
+        "sourceVerdict": "ABDE",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2018-45-AB"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-011",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2019",
+      "id": 2,
+      "sourceNumber": 47,
+      "items": [
+        "C"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2019",
+        "id": 2,
+        "sourceId": "47",
+        "items": [
+          "C"
+        ],
+        "kind": "possible_error",
+        "text": "Le mot « hyperconjugué » appliqué aux cycles B, A et C appelle la même réserve de vocabulaire que dans D. Le schéma montre un réseau de liaisons π conjuguées ; l’hyperconjugaison au sens IUPAC désigne l’interaction de liaisons σ avec un réseau π ou une orbitale p. Le corrigé donne seulement « VRAI » pour C et n’explicite pas l’interaction σ visée. Vérifier si le cours emploie ici ce terme pour la conjugaison étendue. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 413,
+            "label": "Sujet original, Q47 C",
+            "href": "sources/Annales_compilation.pdf#page=413"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 443,
+            "label": "Corrigé original, Q47 C",
+            "href": "sources/Annales_compilation.pdf#page=443"
+          },
+          {
+            "file": "IUPAC Gold Book — hyperconjugation",
+            "label": "IUPAC Gold Book — hyperconjugation",
+            "href": "https://goldbook.iupac.org/terms/view/H02924"
+          }
+        ],
+        "sourceVerdict": "ACDE",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2019-47-C"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "verifier-012",
+    "origin": "verificateur",
+    "status": "signalement_source_apres_correction_cle_conservee",
+    "change": {
+      "bank": "annales.ue2c.atomistique.2019",
+      "id": 2,
+      "sourceNumber": 47,
+      "items": [
+        "E"
+      ],
+      "type": "scientific_note",
+      "note": {
+        "bank": "annales.ue2c.atomistique.2019",
+        "id": 2,
+        "sourceId": "47",
+        "items": [
+          "E"
+        ],
+        "kind": "possible_error",
+        "text": "Le détail E affirme que tous les carbones hors carboxylate sont sp². Or le carbone du cycle A portant le carboxylate a quatre liaisons simples et est sp³ ; le détail B le reconnaît lui-même. La justification de la planéité par « tous les carbones sont sp² » est donc incorrecte. Il faut faire préciser si l’énoncé parle du squelette des cycles ou de tous les atomes de la molécule, sans déduire la géométrie complète de cette seule phrase. La clé officielle est conservée ; vérifier ce point dans la ronéo et, si nécessaire, le faire préciser par l’enseignant.",
+        "refs": [
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 413,
+            "label": "Sujet original, Q47 E",
+            "href": "sources/Annales_compilation.pdf#page=413"
+          },
+          {
+            "file": "Sujets + corrections compilés.pdf",
+            "page": 443,
+            "label": "Corrigé original, Q47 B et E",
+            "href": "sources/Annales_compilation.pdf#page=443"
+          },
+          {
+            "file": "OpenStax — hybridation sp³ et géométrie tétraédrique",
+            "label": "OpenStax — hybridation sp³ et géométrie tétraédrique",
+            "href": "https://openstax.org/books/organic-chemistry/pages/1-6-sp3-hybrid-orbitals-and-the-structure-of-methane"
+          }
+        ],
+        "sourceVerdict": "ACDE",
+        "courseVerdict": null,
+        "noteId": "review-v6-chimie-verification-2019-47-E"
+      },
+      "status": "signalement_source_apres_correction_cle_conservee"
+    }
+  },
+  {
+    "issueId": "source-key-2018-49",
+    "origin": "source",
+    "bank": "annales.ue2c.atomistique.2018",
+    "id": 4,
+    "subjectPrintedNumber": 50,
+    "correctedNumber": 49,
+    "shortKey": "A",
+    "detailedKey": "C",
+    "evidencePages": [
+      458,
+      460,
+      484
+    ],
+    "status": "hors_note_maintenu_attente_erratum"
+  },
+  {
+    "issueId": "rejected-alert-Mg",
+    "origin": "verificateur",
+    "bank": "annales.ue2c.atomistique.2022s2",
+    "id": 2,
+    "item": "A",
+    "status": "fausse_alerte_rejetee_aucune_modification",
+    "reason": "Mg : 1s² 2s² 2p⁶ 3s² donne bien 2+2+2=6 électrons s. La supposition provisoire de 8 était une erreur du vérificateur, rectifiée avant publication. A reste vrai et aucun commentaire erroné n’est ajouté.",
+    "evidencePages": [
+      219,
+      233
+    ],
+    "coursePage": 15
+  },
+  {
+    "issueId": "rejected-alert-biochem-Q40C",
+    "origin": "verificateur",
+    "scope": "hors_matiere_biochimie",
+    "series": "2019",
+    "sourceNumber": 40,
+    "item": "C",
+    "status": "fausse_alerte_rejetee_aucune_modification",
+    "reason": "Le grossissement du corrigé p. 439 montre bien « complexe II » pour la succinate déshydrogénase. Lecture des deux I confirmée sur la capture produite par le préparateur biochimie ; le signalement provisoire de complexe I était incorrect.",
+    "evidence": "work/site_v6/biochimie/prepare/visual/2019_q40_detail.png"
+  }
+]

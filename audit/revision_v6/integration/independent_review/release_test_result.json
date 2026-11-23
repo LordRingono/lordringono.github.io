@@ -1,0 +1,410 @@
+{
+  "method": "Actual release JavaScript executed by the V4 DOM adapter in Node VM; no browser pixels",
+  "siteSha256": "3b5438e47c8241431025e368f1a57628f390cfa6be394d057e415b8dd782f7c6",
+  "result": "PASS",
+  "groups": [
+    {
+      "bank": "embryo.aut.s4",
+      "id": "v6-shared-embryo.aut.s4-23",
+      "questions": [
+        23,
+        24
+      ],
+      "orders": 2,
+      "filtered": true,
+      "relocked": true,
+      "classic": true,
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.coeur",
+      "id": "v4-shared-embryo.aut.coeur-5",
+      "questions": [
+        5,
+        6
+      ],
+      "orders": 2,
+      "filtered": true,
+      "relocked": true,
+      "classic": true,
+      "result": "PASS"
+    },
+    {
+      "bank": "annales.ue2c.lipides.2020paces",
+      "id": "ue2c-2020paces-common-21-22",
+      "questions": [
+        5,
+        6
+      ],
+      "orders": 2,
+      "filtered": true,
+      "relocked": true,
+      "classic": true,
+      "result": "PASS"
+    }
+  ],
+  "migrationCases": [
+    {
+      "bank": "bio.cm4",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm4",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm4",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm4",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm4",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm4",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm5",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm5",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm5",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm5",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm5",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm5",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm7",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm7",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm7",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm7",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm7",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm7",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm8",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm8",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm8",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm8",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm8",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.cm8",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tc",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "histo.ann.tech",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm4",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "bio.ann.cm9",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.meiose",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "mode": "selective",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "mode": "selective",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "mode": "selective",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "mode": "classic",
+      "oldShape": "partial",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "mode": "classic",
+      "oldShape": "legacy",
+      "result": "PASS"
+    },
+    {
+      "bank": "embryo.aut.fec",
+      "mode": "classic",
+      "oldShape": "unfinished",
+      "result": "PASS"
+    }
+  ],
+  "annotatedPdfCases": 12,
+  "errors": []
+}

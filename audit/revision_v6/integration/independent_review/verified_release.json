@@ -1,0 +1,81 @@
+{
+  "status": "APPROVED",
+  "openBlockingIssues": 0,
+  "verifiedAt": "2026-11-22T21:44:32.697061+00:00",
+  "indexSha256": "3b5438e47c8241431025e368f1a57628f390cfa6be394d057e415b8dd782f7c6",
+  "indexBytes": 8942954,
+  "sourceHashes": {
+    "build_site.py": "bad0c2b105277c346024e7cd1ab78d9a6fa25b0a36b6170e5ba84c529bd283bf",
+    "source_copies.js": "78705573cdb6b0ef478d146594bad6e8f10e81a51628458bdc2f3396ff180dfb",
+    "progress_migration.js": "08ec5767969354a2758db3a9493f4a31e194924aabcd3759e1cf2a652be91c80",
+    "check_runtime.cjs": "0022dd8191e4286a1c2303eca1fa003827a34e72063286180d08a3a08a361b48",
+    "check_integrity.py": "4ba0543044b4ada7ba6f555826baac9bb03ca2a226e441a883c49e357dbb510d",
+    "signoffs.json": "d25e9c6e66db8346028e8c2c8fb51fed947b43c9ddcf7b8c8ce35d9a4ab7d418"
+  },
+  "primaryReports": {
+    "runtime_report.json": {
+      "method": "Actual site JavaScript with V4 DOM adapter; no browser pixel rendering claimed.",
+      "errors": [],
+      "banks": 217,
+      "cardStates": 11249,
+      "keys": 2771,
+      "files": 6846,
+      "profiles": 434,
+      "migrationProfiles": 20,
+      "result": "PASS",
+      "reportSha256": "5f8efab56e8bfd9f725d71bf8dc9318f626fd097743f1130bfc4f02b138641ad"
+    },
+    "integrity_report.json": {
+      "result": "PASS",
+      "errors": [],
+      "baselineFilesChecked": 3625,
+      "localLinksChecked": 9522,
+      "capturesDecoded": 6383,
+      "pixelSamples": 30,
+      "extraAssetsChecked": 191,
+      "questionFilenameTitles": 0,
+      "reportSha256": "574cfc3cc2725094f79f72444bfefe3e4c4af56ef4c7f86d4ce80636a20db947"
+    }
+  },
+  "independentReports": {
+    "release_test_result.json": {
+      "result": "PASS",
+      "sha256": "cdc6ccc0cd36f9510600d3cfae668f53daf48a72ffd3d978be7a802e77a6800c"
+    },
+    "release_storage_result.json": {
+      "result": "PASS",
+      "sha256": "edba0db17553a08cbce5a6cbb6342fb9a0bd5e286c4ac561500d963a10753131"
+    },
+    "release_comparison_result.json": {
+      "result": "PASS",
+      "sha256": "c408c7fd767e319804ccbb82aacce60f9fcef84886561e930dbd0557c3e173a8"
+    },
+    "backup_guard_result.json": {
+      "result": "PASS",
+      "sha256": "7e06306256467c8ba414bc05e578085eca4fae92f720d7e1f3163cd1e75faf00"
+    },
+    "input_audit.json": {
+      "result": "PASS",
+      "sha256": "878f9c5ea5c25066c079c2c3597397d6eebf02d415ffd8a6e216c49adda016ae"
+    },
+    "answer_schema_result.json": {
+      "result": "PASS",
+      "sha256": "33404983a05b968cf7dda441bf4d91378d7995ff9350515c3c9f6a322b6d3989"
+    }
+  },
+  "historicalEvidence": [
+    "initial_backup_failure_result.json",
+    "initial_runtime_report.json"
+  ],
+  "limitations": [
+    "Node VM and DOM adapter, no graphical browser QA",
+    "All crop associations and geometries checked; image pixel equality sampled on 30 files by the primary integrity suite",
+    "Documentary source completeness remains bounded by the nine subject reports"
+  ],
+  "auditDeliverables": {
+    "REPORT.md": "3964f9bafa6a12854956efe6c9f8878c0ba3533cee1a52762869d4e7ac1f6d77",
+    "issues.json": "2d970201e84be759b6d99908f8da8fb35dd4eb124bdee5d741c8f9d1d0da1af6",
+    "secondary/REPORT.md": "6a41447abc7f89314aaf6e9b906ea40b6463b8b2d5c39f9501955d5bfd20729d",
+    "secondary/source_review.json": "a288c686cd8039f323a5ec034fbfca814eebab561030b920152e22c6ec3b12f5"
+  }
+}
