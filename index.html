@@ -381,6 +381,28 @@ body[data-ue="ue4"] .correction-body>.help-note{white-space:pre-wrap;overflow-wr
 .v7-proposed p{font-size:12.8px;line-height:1.6;margin:6px 0;color:#77232b}
 .v7-proposed .v7-key{font-size:14px;font-weight:750;color:#8a1a24}
 .v7-proposed .v7-disclaimer{font-weight:720;text-decoration:underline;text-underline-offset:2px}
+
+.year-nav-bar{display:flex;flex-wrap:wrap;gap:.55rem;margin:1rem 0}
+.year-nav-bar button,.year-actions button{min-height:42px}
+#year-annales{scroll-margin-top:65px;margin:1rem 0 3rem}
+#year-annales-title{margin:.3rem 0;font-size:clamp(1.55rem,4vw,2.35rem)}
+.year-header{padding:clamp(.9rem,3vw,1.65rem);border:1px solid var(--line,#ddd);border-radius:16px}
+.year-fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,175px),1fr));gap:.75rem;margin:1rem 0}
+.year-fields label{display:grid;gap:.3rem;font-size:.9rem;font-weight:600}
+.year-fields select{width:100%;min-height:44px}
+.year-actions{display:flex;align-items:center;flex-wrap:wrap;gap:.65rem}
+#year-annales-status{line-height:1.55}
+#year-annales-grade:disabled{opacity:.55;cursor:not-allowed}
+.year-session>h3{margin:1.65rem 0 .6rem}
+.year-chapter{margin:0 0 1.4rem}
+.year-chapter-bar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.55rem;margin:.6rem 0;padding:.65rem .9rem;border:1px solid var(--line,#ddd);border-radius:10px}
+.year-chapter-bar h4{margin:0}
+.year-chapter-bar small{font-weight:400;margin-left:.45rem}
+.year-chapter>.qcard+.qcard{margin-top:.8rem}
+.annales-by-year .main .content>:not(.year-nav-bar):not(#year-annales):not(.filled-mode-row):not(.mobile-units),
+.annales-by-year .main .toolbar,.annales-by-year .topline,.annales-by-year #sidebar-series,.annales-by-year #year-annales-back,
+.annales-by-year .mobile-explorer,.annales-by-year .side-panel,
+.annales-by-year .side-group-title,.annales-by-year #side-categories,.annales-by-year #side-jump{display:none!important}
 </style>
 </head>
 <body>
@@ -436,6 +458,11 @@ body[data-ue="ue4"] .correction-body>.help-note{white-space:pre-wrap;overflow-wr
       </header>
       <div class="series-path" id="series-path" aria-live="polite"></div>
 <details id="pharma-catalog" class="pharma-catalog hidden"><summary>Retrouver un QCM parmi toutes les annales de pharmacologie</summary><label class="pharma-catalog-search" for="pharma-catalog-search">Rechercher une consigne, une année ou un numéro<input id="pharma-catalog-search" type="search" placeholder="Ex. : 2024 2025, générique, QCM 13…" autocomplete="off"></label><p id="pharma-catalog-count" class="pharma-catalog-count" aria-live="polite"></p><div id="pharma-catalog-results" class="pharma-catalog-results"></div></details>
+
+<div class="year-nav-bar" role="group" aria-label="Mode d’exploration des annales">
+ <button class="small-btn" type="button" id="year-annales-open" aria-controls="year-annales" aria-expanded="false">Annales par année</button>
+ <button class="small-btn hidden" type="button" id="year-annales-back">Revenir à l’année sélectionnée</button>
+</div>
 <div class="filled-mode-row">
   <label class="filled-mode-control" for="only-filled-toggle" title="Deux profils independants : la correction selective conserve les QCM deja corriges ; le mode classique utilise un autre historique.">
     <span class="filled-mode-name">Corriger uniquement les QCM renseign&eacute;s</span>
@@ -444,7 +471,24 @@ body[data-ue="ue4"] .correction-body>.help-note{white-space:pre-wrap;overflow-wr
   </label>
   <span class="filled-mode-profile" id="filled-mode-profile" aria-live="polite">Profil 1 &middot; progression sauvegard&eacute;e</span>
 </div>
-      <div class="help-note" id="intro-help"><strong>Comment ça marche :</strong> cochez les propositions correspondant à chaque question, puis cliquez sur « Corriger les 38 QCM ». Chaque bonne proposition oubliée ou mauvaise proposition sélectionnée compte pour une erreur. Un QCM laissé vide vaut <strong>0 point</strong>. Les réponses et explications sont reprises du corrigé fourni, y compris ses éventuelles ambiguïtés.</div>
+      <section class="hidden" id="year-annales" aria-labelledby="year-annales-title">
+ <div class="year-header">
+  <div class="section-eyebrow">PASS LYON-SUD · TOUTES LES SÉRIES</div>
+  <h2 id="year-annales-title" tabindex="-1">Annales par année</h2>
+  <div class="year-fields">
+   <label>Matière<select class="cat-select" id="year-annales-subject"></select></label>
+   <label>Année universitaire<select class="cat-select" id="year-annales-year"></select></label>
+   <label>Chapitre<select class="cat-select" id="year-annales-chapter"></select></label>
+  </div>
+  <p id="year-annales-status" aria-live="polite"></p>
+  <div class="year-actions">
+   <button class="small-btn" id="year-annales-grade" type="button">Corriger les QCM renseignés affichés</button>
+   <button class="small-btn" id="year-annales-close" type="button">Revenir à la vue par série</button>
+  </div>
+ </div>
+ <div id="year-annales-questions"></div>
+</section>
+<div class="help-note" id="intro-help"><strong>Comment ça marche :</strong> cochez les propositions correspondant à chaque question, puis cliquez sur « Corriger les 38 QCM ». Chaque bonne proposition oubliée ou mauvaise proposition sélectionnée compte pour une erreur. Un QCM laissé vide vaut <strong>0 point</strong>. Les réponses et explications sont reprises du corrigé fourni, y compris ses éventuelles ambiguïtés.</div>
       <details class="mobile-nav"><summary>Aller directement à une question</summary><div class="mobile-jump-grid" id="mobile-jump"></div></details>
       <section id="results" class="report hidden" aria-live="polite"></section>
       <div class="section-bar"><div><div class="section-eyebrow" id="section-kicker">Entraînement</div><h2 class="section-title" id="section-heading">Les 38 questions</h2><div class="section-caption" id="visible-count">Réponses multiples possibles selon l’énoncé.</div></div><button id="show-all-details" class="small-btn hidden" type="button">Déplier les corrections</button></div>
@@ -1099,6 +1143,227 @@ document.addEventListener('click',e=>{
  const type=e.target.closest('[data-pick-type]');if(type){selectNextExam(EXAMS[activeExam].courseId,type.dataset.pickType);return;}
  const series=e.target.closest('[data-pick-series]');if(series){switchExam(series.dataset.pickSeries);return;}
 });
+
+const YEAR_NAV_GROUPS={ue1:'SSH',ue2b:'Biologie moléculaire',ue2c:'Biochimie',chimie:'Chimie',ue3:'Biostatistiques',ue4:'Pharmacologie',ue5h:'Histologie',ue5b:'Biologie cellulaire',ue5e:'Embryologie'};
+const YEAR_NAV_UNKNOWN='non-date';
+const YEAR_NAV_CHIMIE=new Set(['chimie_org','atomistique','thermo']);
+const YEAR_NAV_HISTO_OVERRIDES={"histo.ann.te":{"1":{"year":"2020-2021","session":"Session 1"},"2":{"year":"2020-2021","session":"Session 1"},"3":{"year":"2020-2021","session":"Session 1"},"4":{"year":"2020-2021","session":"Session 1"},"5":{"year":"2021-2022","session":"Session 1"},"6":{"year":"2021-2022","session":"Session 1"},"7":{"year":"2021-2022","session":"Session 1"},"8":{"year":"2021-2022","session":"Session 1"},"9":{"year":"2022-2023","session":"Session 1"},"10":{"year":"2022-2023","session":"Session 1"},"11":{"year":"2022-2023","session":"Session 1"},"12":{"year":"2022-2023","session":"Session 2"},"13":{"year":"2022-2023","session":"Session 2"},"14":{"year":"2022-2023","session":"Session 2"},"15":{"year":"2023-2024","session":"Session 1"},"16":{"year":"2023-2024","session":"Session 1"},"17":{"year":"2023-2024","session":"Session 1"},"28":{"year":"2023-2024","session":"Session 2"},"29":{"year":"2023-2024","session":"Session 2"},"18":{"year":"2024-2025","session":"Session 1"},"19":{"year":"2024-2025","session":"Session 1"},"20":{"year":"2024-2025","session":"Session 1"},"21":{"year":"2024-2025","session":"Contrôle continu"},"22":{"year":"2024-2025","session":"Contrôle continu"},"23":{"year":"2024-2025","session":"Session 2"},"24":{"year":"2024-2025","session":"Session 2"},"25":{"year":"2025-2026","session":"Session 1"},"26":{"year":"2025-2026","session":"Session 1"},"27":{"year":"2025-2026","session":"Session 1"}},"histo.ann.tc":{"1":{"year":"2020-2021","session":"Session 1"},"2":{"year":"2020-2021","session":"Session 1"},"3":{"year":"2020-2021","session":"Session 1"},"4":{"year":"2020-2021","session":"Session 1"},"5":{"year":"2020-2021","session":"Session 1"},"6":{"year":"2020-2021","session":"Session 1"},"7":{"year":"2020-2021","session":"Session 1"},"8":{"year":"2020-2021","session":"Session 1"},"9":{"year":"2020-2021","session":"Session 2"},"10":{"year":"2020-2021","session":"Session 2"},"11":{"year":"2020-2021","session":"Session 2"},"12":{"year":"2020-2021","session":"Session 2"},"13":{"year":"2020-2021","session":"Session 2"},"14":{"year":"2020-2021","session":"Session 2"},"15":{"year":"2021-2022","session":"Session 1"},"16":{"year":"2021-2022","session":"Session 1"},"17":{"year":"2021-2022","session":"Session 1"},"18":{"year":"2021-2022","session":"Session 1"},"19":{"year":"2021-2022","session":"Session 1"},"20":{"year":"2021-2022","session":"Session 1"},"21":{"year":"2021-2022","session":"Session 2"},"22":{"year":"2021-2022","session":"Session 2"},"23":{"year":"2022-2023","session":"Session 1"},"24":{"year":"2022-2023","session":"Session 1"},"25":{"year":"2022-2023","session":"Session 1"},"26":{"year":"2022-2023","session":"Session 1"},"27":{"year":"2022-2023","session":"Session 1"},"28":{"year":"2022-2023","session":"Session 1"},"29":{"year":"2022-2023","session":"Session 1"},"30":{"year":"2022-2023","session":"Session 2"},"31":{"year":"2022-2023","session":"Session 2"},"32":{"year":"2022-2023","session":"Session 2"},"33":{"year":"2022-2023","session":"Session 2"},"34":{"year":"2022-2023","session":"Session 2"},"35":{"year":"2023-2024","session":"Session 1"},"36":{"year":"2023-2024","session":"Session 1"},"37":{"year":"2023-2024","session":"Session 1"},"38":{"year":"2023-2024","session":"Session 1"},"39":{"year":"2023-2024","session":"Session 1"},"57":{"year":"2023-2024","session":"Session 2"},"58":{"year":"2023-2024","session":"Session 2"},"59":{"year":"2023-2024","session":"Session 2"},"40":{"year":"2024-2025","session":"Session 1"},"41":{"year":"2024-2025","session":"Session 1"},"42":{"year":"2024-2025","session":"Session 1"},"43":{"year":"2024-2025","session":"Session 1"},"44":{"year":"2024-2025","session":"Session 1"},"45":{"year":"2024-2025","session":"Session 1"},"46":{"year":"2024-2025","session":"Session 1"},"47":{"year":"2024-2025","session":"Session 2"},"48":{"year":"2024-2025","session":"Session 2"},"49":{"year":"2024-2025","session":"Session 2"},"50":{"year":"2025-2026","session":"Session 1"},"51":{"year":"2025-2026","session":"Session 1"},"52":{"year":"2025-2026","session":"Session 1"},"53":{"year":"2025-2026","session":"Session 1"},"54":{"year":"2025-2026","session":"Session 1"},"55":{"year":"2025-2026","session":"Session 1"},"56":{"year":"2025-2026","session":"Session 1"}},"histo.ann.tn":{"1":{"year":"2017-2018","session":"Session non précisée"},"2":{"year":"2017-2018","session":"Session non précisée"},"3":{"year":"2017-2018","session":"Session non précisée"},"4":{"year":"2017-2018","session":"Session non précisée"},"5":{"year":"2018-2019","session":"Session non précisée"},"6":{"year":"2018-2019","session":"Session non précisée"},"7":{"year":"2018-2019","session":"Session non précisée"},"10":{"year":"2019-2020","session":"Session non précisée"},"11":{"year":"2019-2020","session":"Session non précisée"},"12":{"year":"2019-2020","session":"Session non précisée"},"13":{"year":"2019-2020","session":"Session non précisée"},"14":{"year":"2020-2021","session":"Session 1"},"15":{"year":"2020-2021","session":"Session 1"},"16":{"year":"2020-2021","session":"Session 1"},"17":{"year":"2020-2021","session":"Session 1"},"18":{"year":"2020-2021","session":"Session 1"},"19":{"year":"2020-2021","session":"PACES"},"20":{"year":"2020-2021","session":"PACES"},"21":{"year":"2020-2021","session":"PACES"},"22":{"year":"2020-2021","session":"PACES"},"23":{"year":"2020-2021","session":"Session 2"},"24":{"year":"2020-2021","session":"Session 2"},"25":{"year":"2020-2021","session":"Session 2"},"26":{"year":"2020-2021","session":"Session 2"},"27":{"year":"2021-2022","session":"Session 1"},"28":{"year":"2021-2022","session":"Session 1"},"29":{"year":"2021-2022","session":"Session 1"},"30":{"year":"2021-2022","session":"Session 1"},"31":{"year":"2021-2022","session":"Session 1"},"32":{"year":"2021-2022","session":"Session 1"},"33":{"year":"2021-2022","session":"Session 1"},"34":{"year":"2021-2022","session":"Session 2"},"35":{"year":"2021-2022","session":"Session 2"},"36":{"year":"2021-2022","session":"Session 2"},"37":{"year":"2021-2022","session":"Session 2"},"38":{"year":"2022-2023","session":"Session 1"},"39":{"year":"2022-2023","session":"Session 1"},"40":{"year":"2022-2023","session":"Session 1"},"41":{"year":"2022-2023","session":"Session 1"},"42":{"year":"2022-2023","session":"Session 1"},"43":{"year":"2022-2023","session":"Session 1"},"44":{"year":"2022-2023","session":"Session 2"},"45":{"year":"2022-2023","session":"Session 2"},"46":{"year":"2022-2023","session":"Session 2"},"47":{"year":"2022-2023","session":"Session 2"},"48":{"year":"2023-2024","session":"Session 1"},"49":{"year":"2023-2024","session":"Session 1"},"50":{"year":"2023-2024","session":"Session 1"},"51":{"year":"2023-2024","session":"Session 1"},"52":{"year":"2023-2024","session":"Session 1"},"53":{"year":"2023-2024","session":"Session 1"},"65":{"year":"2023-2024","session":"Session 2"},"66":{"year":"2023-2024","session":"Session 2"},"54":{"year":"2024-2025","session":"Session 1"},"55":{"year":"2024-2025","session":"Session 1"},"56":{"year":"2024-2025","session":"Session 1"},"57":{"year":"2024-2025","session":"Session 1"},"58":{"year":"2024-2025","session":"Session 1"},"59":{"year":"2025-2026","session":"Session 1"},"60":{"year":"2025-2026","session":"Session 1"},"61":{"year":"2025-2026","session":"Session 1"},"62":{"year":"2025-2026","session":"Session 1"},"63":{"year":"2025-2026","session":"Session 1"},"64":{"year":"2025-2026","session":"Session 1"},"8":{"year":"2018-2019","session":"Session non précisée"},"9":{"year":"2018-2019","session":"Session non précisée"}},"histo.ann.tech":{"1":{"year":"2018-2019","session":"Session non précisée"},"2":{"year":"2018-2019","session":"Session non précisée"},"3":{"year":"2018-2019","session":"Session non précisée"},"4":{"year":"2018-2019","session":"Session non précisée"},"5":{"year":"2020-2021","session":"Session 1"},"6":{"year":"2020-2021","session":"Session 1"},"7":{"year":"2021-2022","session":"Session 1"},"8":{"year":"2021-2022","session":"Session 1"},"9":{"year":"2021-2022","session":"Session 1"},"10":{"year":"2021-2022","session":"Session 1"},"11":{"year":"2022-2023","session":"Session 1"},"12":{"year":"2022-2023","session":"Session 1"},"13":{"year":"2022-2023","session":"Session 1"},"14":{"year":"2022-2023","session":"Session 1"},"15":{"year":"2022-2023","session":"Session 2"},"16":{"year":"2022-2023","session":"Session 2"},"17":{"year":"2022-2023","session":"Session 2"},"18":{"year":"2022-2023","session":"Session 2"},"19":{"year":"2023-2024","session":"Session 1"},"20":{"year":"2023-2024","session":"Session 1"},"21":{"year":"2023-2024","session":"Session 1"},"22":{"year":"2023-2024","session":"Session 1"},"38":{"year":"2023-2024","session":"Session 2"},"39":{"year":"2023-2024","session":"Session 2"},"23":{"year":"2024-2025","session":"Contrôle continu"},"24":{"year":"2024-2025","session":"Examen blanc"},"25":{"year":"2024-2025","session":"Session 1"},"26":{"year":"2024-2025","session":"Session 1"},"27":{"year":"2024-2025","session":"Session 1"},"28":{"year":"2024-2025","session":"Session 1"},"29":{"year":"2024-2025","session":"Session 1"},"30":{"year":"2024-2025","session":"Session 1"},"31":{"year":"2024-2025","session":"Session 1"},"32":{"year":"2024-2025","session":"Session 2"},"33":{"year":"2024-2025","session":"Session 2"},"34":{"year":"2025-2026","session":"Session 1"},"35":{"year":"2025-2026","session":"Session 1"},"36":{"year":"2025-2026","session":"Session 1"},"37":{"year":"2025-2026","session":"Session 1"}}};
+const YEAR_NAV_INDEX=new Map(Object.keys(YEAR_NAV_GROUPS).map(k=>[k,new Map()]));
+function yearPair(value){
+ const match=String(value??'').match(/\b(20\d{2})\s*[-–—/]\s*(20\d{2})\b/);
+ if(!match)return '';
+ const a=Number(match[1]),b=Number(match[2]);
+ if(b===a+1)return a+'–'+b;
+ if(a===2019&&b===2018)return '2018–2019'; // Inversion dans plusieurs compilations de biomol.
+ return '';
+}
+function identifyAnnaleYear(key,exam,q){
+ const specific=q.year??YEAR_NAV_HISTO_OVERRIDES[key]?.[q.id]?.year;
+ const direct=yearPair(specific);
+ if(direct)return direct;
+ if(/^20\d{2}$/.test(String(specific??''))){const y=Number(specific);return y+'–'+(y+1);}
+ if(exam.ue==='ue3'||key==='acc')return yearPair(exam.seriesLabel)||yearPair(exam.description);
+ if(exam.ue!=='ue5h')return yearPair(q.category)||yearPair(exam.seriesLabel);
+ const cat=String(q.category);
+ const range=yearPair(cat);
+ if(range)return range;
+ const simple=cat.match(/^Annales\s*·\s*(?:(?:mai|juin|CC)\s*)?(20\d{2})(?:\s+session\s*[12])?$/i);
+ if(simple){const end=Number(simple[1]);return (end-1)+'–'+end;}
+ return YEAR_NAV_UNKNOWN;
+}
+function identifyAnnaleSession(key,exam,q){
+ const verified=YEAR_NAV_HISTO_OVERRIDES[key]?.[q.id]?.session;if(verified)return verified;
+ const text=[q.session,q.category,exam.ue==='ue3'?exam.seriesLabel:''].filter(Boolean).join(' ');
+ if(/\b(?:session\s*|s)(?:1\s*(?:et|\/|&)\s*s?2)\b/i.test(text))return 'Sessions 1 et 2 (indissociées)';
+ const match=text.match(/\b(?:session\s*|s)([12])\b/i);
+ if(match)return 'Session '+match[1];
+ if(/\bPACES?\b/i.test(text))return 'PACES';
+ if(/\bCC\s*20\d{2}/i.test(text))return 'Contrôle continu';
+ return 'Session non précisée';
+}
+for(const key of EXAM_KEYS){
+ const exam=EXAMS[key];
+ if(exam.kind!=='annales'&&key!=='acc')continue;
+ const group=exam.ue==='ue2c'&&YEAR_NAV_CHIMIE.has(exam.courseId)?'chimie':exam.ue;
+ const years=YEAR_NAV_INDEX.get(group);
+ if(!years)continue;
+ for(const q of exam.questions){
+  const year=identifyAnnaleYear(key,exam,q)||YEAR_NAV_UNKNOWN;
+  if(!years.has(year))years.set(year,[]);
+  const chapter=exam.ue==='ue1'||exam.ue==='ue3'?q.category:UNIT_COURSES[exam.ue]?.find(x=>x[0]===exam.courseId)?.[1]||q.course||q.category;
+  years.get(year).push({key,q,chapter,session:identifyAnnaleSession(key,exam,q)});
+ }
+}
+const YEAR_NAV_SESSIONS=['Session 1','Session 2','Sessions 1 et 2 (indissociées)','PACES','Contrôle continu','Examen blanc','Session non précisée'];
+const yearNav={open:false,group:'ue1',chosen:{},chapter:'all',sourceFocus:null};
+const yearRoom=$('#year-annales');
+function yearDefaultGroup(){
+ const exam=EXAMS[activeExam];
+ return exam.ue==='ue2c'&&YEAR_NAV_CHIMIE.has(exam.courseId)?'chimie':exam.ue;
+}
+function yearActiveYear(){
+ const years=YEAR_NAV_INDEX.get(yearNav.group);
+ const sorted=[...years.keys()].sort((a,b)=>a===YEAR_NAV_UNKNOWN?1:b===YEAR_NAV_UNKNOWN?-1:b.localeCompare(a));
+ if(!years.has(yearNav.chosen[yearNav.group]))yearNav.chosen[yearNav.group]=sorted[0];
+ return sorted;
+}
+function yearWithSeries(key,fn){
+ const previous=[activeExam,QUESTIONS,TOTAL,GRADED,WEIGHTED_TOTAL,STORAGE_KEY,CATEGORIES,CAT_COUNTS,answers,submitted,correctedIds,classicPartialCorrection];
+ const contexts=[...sharedContextTargets];
+ try{activeExam=key;loadExam();return fn();}
+ finally{
+  [activeExam,QUESTIONS,TOTAL,GRADED,WEIGHTED_TOTAL,STORAGE_KEY,CATEGORIES,CAT_COUNTS,answers,submitted,correctedIds,classicPartialCorrection]=previous;
+  sharedContextTargets.clear();for(const [id,anchor] of contexts)sharedContextTargets.set(id,anchor);
+  syncProfileSwitch();
+ }
+}
+function yearGroups(entries){
+ const sessions=new Map();
+ for(const entry of entries){
+  if(!sessions.has(entry.session))sessions.set(entry.session,new Map());
+  const groups=sessions.get(entry.session);
+  const key=entry.key+'|'+entry.chapter;
+  if(!groups.has(key))groups.set(key,{key:entry.key,chapter:entry.chapter,questions:[]});
+  groups.get(key).questions.push(entry.q);
+ }
+ return [...sessions].sort(([a],[b])=>YEAR_NAV_SESSIONS.indexOf(a)-YEAR_NAV_SESSIONS.indexOf(b))
+ .map(([session,groups])=>[session,[...groups.values()].sort((a,b)=>a.chapter.localeCompare(b.chapter,'fr'))]);
+}
+function yearRefreshStatus(notice=null){
+ const all=YEAR_NAV_INDEX.get(yearNav.group).get(yearNav.chosen[yearNav.group])||[];
+ const visible=all.filter(x=>yearNav.chapter==='all'||x.chapter===yearNav.chapter);
+ const bins=new Map();
+ for(const {key,q} of visible){if(!bins.has(key))bins.set(key,[]);bins.get(key).push(q);}
+ let answered=0,pending=0;
+ for(const [key,questions] of bins)yearWithSeries(key,()=>{
+  for(const q of questions)if(selected(q)){answered++;if(!isCorrected(q))pending++;}
+ });
+ const status=$('#year-annales-status');
+ if(notice!==null)status.dataset.notice=notice;
+ status.textContent=`${visible.length} QCM affichés · ${answered} renseignés. ${status.dataset.notice||''}`;
+ const grade=$('#year-annales-grade');grade.classList.toggle('hidden',!onlyFilledMode);grade.disabled=!pending;
+}
+function yearRender(){
+ if(!yearNav.open)return;
+ const displayUnit=yearNav.group==='chimie'?'ue2c':yearNav.group;
+ document.body.dataset.ue=displayUnit;
+ for(const button of $$('.js-unit-btn')){
+  const active=button.dataset.unit===displayUnit;
+  button.classList.toggle('active',active);button.setAttribute('aria-pressed',String(active));
+ }
+ const years=YEAR_NAV_INDEX.get(yearNav.group), sorted=yearActiveYear();
+ const year=yearNav.chosen[yearNav.group], all=years.get(year)||[];
+ const chapters=[...new Set(all.map(x=>x.chapter))].sort((a,b)=>a.localeCompare(b,'fr'));
+ const visible=all.filter(x=>yearNav.chapter==='all'||x.chapter===yearNav.chapter);
+ $('#year-annales-subject').innerHTML=Object.entries(YEAR_NAV_GROUPS).map(([id,label])=>`<option value="${id}" ${id===yearNav.group?'selected':''}>${esc(label)}</option>`).join('');
+ $('#year-annales-year').innerHTML=sorted.map(y=>`<option value="${esc(y)}" ${y===year?'selected':''}>${y===YEAR_NAV_UNKNOWN?'Année non confirmée':esc(y)} (${years.get(y).length})</option>`).join('');
+ $('#year-annales-chapter').innerHTML='<option value="all">Tous les chapitres</option>'+chapters.map(c=>`<option value="${esc(c)}" ${c===yearNav.chapter?'selected':''}>${esc(c)}</option>`).join('');
+ const notices=[];
+ if(yearNav.group==='ue1')notices.push('Seul le sujet classé ACC est disponible ici. Les colles et le concours blanc restent dans leurs onglets.');
+ if(year===YEAR_NAV_UNKNOWN)notices.push('Le document couvre plusieurs années mais l’année exacte de ces QCM n’a pas pu être confirmée.');
+ if(!onlyFilledMode)notices.push('Profil 2 : les réponses sont partagées. La correction globale se lance depuis la série d’origine, pour conserver le calcul de sa note.');
+ else notices.push('Profil 1 : la correction ne s’applique qu’aux QCM renseignés affichés ici. Les réponses et validations sont communes aux deux vues.');
+ let serial=0;
+ const blocks=yearGroups(visible).map(([session,groups])=>{
+  const sections=groups.map(group=>yearWithSeries(group.key,()=>{
+   const uid='year-'+(++serial)+'-';
+   const cards=renderQuestionList(group.questions)
+    .replace(/\b(id|aria-labelledby|href)="(#?)((?:question-label-\d+|q\d+|shared-context-\d+(?:-title)?))"/g,(_,attr,hash,id)=>`${attr}="${hash}${uid}${id}"`);
+   return `<section class="year-chapter" data-year-series="${esc(group.key)}"><div class="year-chapter-bar"><h4>${esc(group.chapter)} <small>${group.questions.length} QCM</small></h4><button class="small-btn" data-year-origin="${esc(group.key)}" data-year-q="${group.questions[0].id}" type="button">Ouvrir la série d’origine</button></div>${cards}</section>`;
+  })).join('');
+  return `<section class="year-session"><h3>${esc(session)}</h3>${sections}</section>`;
+ }).join('');
+ yearRefreshStatus(notices.join(' '));
+ $('#year-annales-questions').innerHTML=blocks||'<p>Aucune annale disponible dans les données du site.</p>';
+}
+function yearRestoreFocus(el){
+ const section=el.closest('[data-year-series]');
+ return {series:section?.dataset.yearSeries,idx:[...yearRoom.querySelectorAll('[data-year-series]')].indexOf(section),q:el.dataset.q??el.dataset.ungradeQ,value:el.value};
+}
+function yearFocus({series,idx,q,value}){
+ const group=yearRoom.querySelectorAll('[data-year-series]')[idx];
+ if(group?.dataset.yearSeries!==series)return;
+ const input=[...group.querySelectorAll('input[data-q]')].find(el=>el.dataset.q===q&&!el.disabled&&(!value||el.value===value));
+ (input||[...group.querySelectorAll('article.qcard')].find(el=>el.id.endsWith('-q'+q))?.querySelector('summary'))?.focus({preventScroll:true});
+}
+function yearSyncOriginal(){loadExam();renderTabs();render();}
+function yearOpen(resume=false){
+ if(!resume){yearNav.group=yearDefaultGroup();yearNav.chapter='all';yearNav.sourceFocus=null;}
+ yearNav.open=true;
+ document.body.classList.add('annales-by-year');
+ yearRoom.classList.remove('hidden');
+ $('#year-annales-open').setAttribute('aria-expanded','true');
+ yearRender();
+ $('#year-annales-title').focus({preventScroll:true});
+ if(resume&&yearNav.sourceFocus)document.getElementById(yearNav.sourceFocus)?.scrollIntoView({block:'center'});
+ else yearRoom.scrollIntoView({block:'start'});
+}
+function yearClose(restore=true){
+ yearSyncOriginal();
+ yearNav.open=false;document.body.classList.remove('annales-by-year');yearRoom.classList.add('hidden');
+ $('#year-annales-open').setAttribute('aria-expanded','false');
+ if(restore)$('#year-annales-open').focus();
+}
+$('#year-annales-open').addEventListener('click',()=>yearNav.open?yearClose():yearOpen(false));
+$('#year-annales-back').addEventListener('click',()=>yearOpen(true));
+$('#year-annales-close').addEventListener('click',()=>yearClose());
+$('#year-annales-subject').addEventListener('change',e=>{yearNav.group=e.target.value;yearNav.chapter='all';yearRender();});
+$('#year-annales-year').addEventListener('change',e=>{yearNav.chosen[yearNav.group]=e.target.value;yearNav.chapter='all';yearRender();});
+$('#year-annales-chapter').addEventListener('change',e=>{yearNav.chapter=e.target.value;yearRender();});
+$('#year-annales-questions').addEventListener('change',e=>{
+ const input=e.target.closest('input[data-q]');if(!input)return;
+ const focus=yearRestoreFocus(input);let mustRerender=false;
+ yearWithSeries(focus.series,()=>{
+  const q=QUESTIONS.find(q=>q.id===Number(input.dataset.q)), id=input.value;
+  if(!q||isCorrected(q))return;
+  const old=selected(q);mustRerender=id==='∅'||old==='∅';
+  if(id==='∅')answers[q.id]=input.checked?'∅':'';
+  else if(old==='∅')answers[q.id]=input.checked?id:'';
+  else if(q.tokenMode){
+   const items=new Set(old.split(',').filter(Boolean));if(input.checked)items.add(id);else items.delete(id);
+   answers[q.id]=q.options.map(o=>o.id).filter(x=>items.has(x)).join(',');
+  }else answers[q.id]=uniqueSortedLetters(input.checked?old+id:old.replace(id,''));
+  save();
+ });
+ if(mustRerender){yearRender();yearFocus(focus);}else{input.closest('.option')?.classList.toggle('selected',input.checked);yearRefreshStatus();}
+});
+$('#year-annales-questions').addEventListener('click',e=>{
+ const edit=e.target.closest('[data-ungrade-q]');
+ if(edit&&onlyFilledMode){
+  e.stopPropagation();
+  const focus=yearRestoreFocus(edit);
+  yearWithSeries(focus.series,()=>{correctedIds.delete(Number(focus.q));submitted=correctedIds.size>0;save();});
+  yearRender();yearFocus(focus);return;
+ }
+ const origin=e.target.closest('[data-year-origin]');if(!origin)return;
+ const first=origin.closest('[data-year-series]')?.querySelector('article.qcard');yearNav.sourceFocus=first?.id;
+ yearClose(false);switchExam(origin.dataset.yearOrigin);jumpTo(Number(origin.dataset.yearQ));
+ $('#year-annales-back').classList.remove('hidden');
+});
+$('#year-annales-grade').addEventListener('click',()=>{
+ if(!onlyFilledMode)return;
+ const bySeries=new Map();
+ const entries=YEAR_NAV_INDEX.get(yearNav.group).get(yearNav.chosen[yearNav.group])||[];
+ for(const {key,q,chapter} of entries){
+  if(yearNav.chapter!=='all'&&chapter!==yearNav.chapter)continue;
+  if(!bySeries.has(key))bySeries.set(key,[]);
+  bySeries.get(key).push(q);
+ }
+ for(const [key,questions] of bySeries)yearWithSeries(key,()=>{
+  const pending=questions.filter(q=>selected(q)&&!isCorrected(q));if(!pending.length)return;
+  for(const q of pending)correctedIds.add(q.id);submitted=true;save();
+ });
+ yearRender();$('#year-annales-title').focus({preventScroll:true});
+});
+document.addEventListener('click',e=>{
+ if(!yearNav.open)return;
+ const unit=e.target.closest('.js-unit-btn');if(!unit)return;
+ e.stopImmediatePropagation();
+ yearNav.group=unit.dataset.unit;yearNav.chapter='all';yearRender();
+},true);
+document.addEventListener('change',e=>{if(yearNav.open&&e.target.matches('#only-filled-toggle'))yearSyncOriginal();},true);
+$('#only-filled-toggle').addEventListener('change',()=>queueMicrotask(yearRender));
+
 </script>
 </body>
 </html>
